@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.env
+.env.production
+media/
+node_modules/
+dist/
+.node/
+data/
+# Full database/media recovery snapshots are private and must never be committed.
+data/backups/
+staticfiles/
+backend/static/app/
+frontend/.cache/
+*.sqlite3
+artifacts/
+.DS_Store
+pending_rankings_to_process/*
+!pending_rankings_to_process/README.md

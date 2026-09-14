@@ -1,0 +1,806 @@
+{
+  "input_sha256": "721c077b90ecf5c657717c2b00b059575860a90d3c93b303ebeaecba22baa24c",
+  "input_path": "research/books-india/owner-paste-catalog.json",
+  "records": [
+    {
+      "key": "books-india-001",
+      "work_id": 378,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-002",
+      "work_id": 376,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-003",
+      "work_id": 1511,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-004",
+      "work_id": 1512,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-005",
+      "work_id": 1513,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-006",
+      "work_id": 1514,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-007",
+      "work_id": 154,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-008",
+      "work_id": 1515,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-009",
+      "work_id": 1516,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-010",
+      "work_id": 1517,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-011",
+      "work_id": 729,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-012",
+      "work_id": 1518,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-013",
+      "work_id": 1519,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-014",
+      "work_id": 49,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-015",
+      "work_id": 1520,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-016",
+      "work_id": 721,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-017",
+      "work_id": 1521,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-018",
+      "work_id": 1522,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-019",
+      "work_id": 1523,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-020",
+      "work_id": 1524,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-021",
+      "work_id": 722,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-022",
+      "work_id": 1525,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-023",
+      "work_id": 1526,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-024",
+      "work_id": 1527,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-025",
+      "work_id": 1528,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-026",
+      "work_id": 1529,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-027",
+      "work_id": 1530,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-028",
+      "work_id": 1531,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-029",
+      "work_id": 1532,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-030",
+      "work_id": 1533,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-031",
+      "work_id": 1534,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-032",
+      "work_id": 1535,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-033",
+      "work_id": 1536,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-034",
+      "work_id": 1537,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-035",
+      "work_id": 1538,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-036",
+      "work_id": 1539,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-037",
+      "work_id": 1540,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-038",
+      "work_id": 1541,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-039",
+      "work_id": 1542,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-040",
+      "work_id": 1543,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-041",
+      "work_id": 1544,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-042",
+      "work_id": 1545,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-043",
+      "work_id": 1546,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-044",
+      "work_id": 1547,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-045",
+      "work_id": 1548,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-046",
+      "work_id": 1263,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-047",
+      "work_id": 1549,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-048",
+      "work_id": 1550,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-049",
+      "work_id": 1551,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-050",
+      "work_id": 1552,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-051",
+      "work_id": 1553,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-052",
+      "work_id": 1554,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-053",
+      "work_id": 1555,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-054",
+      "work_id": 1556,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-055",
+      "work_id": 1557,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-056",
+      "work_id": 1558,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-057",
+      "work_id": 1559,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-058",
+      "work_id": 1560,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-059",
+      "work_id": 1561,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-060",
+      "work_id": 1562,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-061",
+      "work_id": 1563,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-062",
+      "work_id": 1564,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-063",
+      "work_id": 1565,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-064",
+      "work_id": 1566,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-065",
+      "work_id": 1567,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-066",
+      "work_id": 1568,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-067",
+      "work_id": 1569,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-068",
+      "work_id": 1570,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-069",
+      "work_id": 1571,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-070",
+      "work_id": 1572,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-071",
+      "work_id": 1573,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-072",
+      "work_id": 1574,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-073",
+      "work_id": 1575,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-074",
+      "work_id": 1576,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-075",
+      "work_id": 1577,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-076",
+      "work_id": 1578,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-077",
+      "work_id": 1579,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-078",
+      "work_id": 1580,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-079",
+      "work_id": 1581,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-080",
+      "work_id": 1582,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-081",
+      "work_id": 1583,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-082",
+      "work_id": 1584,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-083",
+      "work_id": 1585,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-084",
+      "work_id": 1586,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-085",
+      "work_id": 1587,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-086",
+      "work_id": 1588,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-087",
+      "work_id": 1589,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-088",
+      "work_id": 1590,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-089",
+      "work_id": 1591,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-090",
+      "work_id": 1592,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-091",
+      "work_id": 1593,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-092",
+      "work_id": 1594,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-093",
+      "work_id": 1595,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-094",
+      "work_id": 1596,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-095",
+      "work_id": 1597,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-096",
+      "work_id": 1264,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-097",
+      "work_id": 1598,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-098",
+      "work_id": 1599,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-099",
+      "work_id": 1600,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-india-100",
+      "work_id": 1601,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    }
+  ]
+}

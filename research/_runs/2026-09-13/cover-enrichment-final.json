@@ -1,0 +1,17 @@
+{
+  "completed_on": "2026-09-13",
+  "provider": "Open Library Search and Covers APIs",
+  "google_books_result": "HTTP 429 without an API key",
+  "active_works": 1142,
+  "active_editions": 831,
+  "editions_with_covers": 772,
+  "editions_with_attribution": 772,
+  "work_outcomes_cached": 1128,
+  "outcome_counts": {
+    "covered": 758,
+    "no_match": 238,
+    "matched_without_cover": 59,
+    "error": 73
+  },
+  "note": "The original 14 covers were preserved. The catalog expanded during enrichment, so the run was resumed against newly added works. No unrelated cover was attached. Remaining records are queued in the resumable JSONL cache."
+}

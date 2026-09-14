@@ -1,0 +1,806 @@
+{
+  "input_sha256": "ac10a6a35298023ce1dcb44b0fefd2f09dc54a56faa864003578094308cadbfc",
+  "input_path": "research/books-epistemology/owner-paste-catalog.json",
+  "records": [
+    {
+      "key": "books-epistemology-001",
+      "work_id": 32,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-002",
+      "work_id": 440,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-003",
+      "work_id": 13,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-004",
+      "work_id": 44,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-005",
+      "work_id": 612,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-006",
+      "work_id": 4095,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-007",
+      "work_id": 3808,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-008",
+      "work_id": 3146,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-009",
+      "work_id": 4096,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-010",
+      "work_id": 4097,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-011",
+      "work_id": 3782,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-012",
+      "work_id": 4098,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-013",
+      "work_id": 4099,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-014",
+      "work_id": 4100,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-015",
+      "work_id": 4101,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-016",
+      "work_id": 4102,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-017",
+      "work_id": 4103,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-018",
+      "work_id": 4104,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-019",
+      "work_id": 4105,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-020",
+      "work_id": 4106,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-021",
+      "work_id": 4107,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-022",
+      "work_id": 4108,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-023",
+      "work_id": 433,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-024",
+      "work_id": 4109,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-025",
+      "work_id": 4110,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-026",
+      "work_id": 4111,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-027",
+      "work_id": 4112,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-028",
+      "work_id": 3700,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-029",
+      "work_id": 4113,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-030",
+      "work_id": 4114,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-031",
+      "work_id": 4115,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-032",
+      "work_id": 4116,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-033",
+      "work_id": 4117,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-034",
+      "work_id": 230,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-035",
+      "work_id": 4118,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-036",
+      "work_id": 4119,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-037",
+      "work_id": 4120,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-038",
+      "work_id": 4121,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-039",
+      "work_id": 4122,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-040",
+      "work_id": 4123,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-041",
+      "work_id": 4124,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-042",
+      "work_id": 4125,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-043",
+      "work_id": 4126,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-044",
+      "work_id": 4127,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-045",
+      "work_id": 448,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-046",
+      "work_id": 4128,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-047",
+      "work_id": 4068,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-048",
+      "work_id": 4129,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-049",
+      "work_id": 4130,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-050",
+      "work_id": 3825,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-051",
+      "work_id": 3814,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-052",
+      "work_id": 4131,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-053",
+      "work_id": 4132,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-054",
+      "work_id": 4133,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-055",
+      "work_id": 4134,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-056",
+      "work_id": 4135,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-057",
+      "work_id": 4136,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-058",
+      "work_id": 3823,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-059",
+      "work_id": 4137,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-060",
+      "work_id": 4138,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-061",
+      "work_id": 4139,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-062",
+      "work_id": 4140,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-063",
+      "work_id": 4141,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-064",
+      "work_id": 4142,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-065",
+      "work_id": 4143,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-066",
+      "work_id": 4144,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-067",
+      "work_id": 4145,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-068",
+      "work_id": 4146,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-069",
+      "work_id": 4147,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-070",
+      "work_id": 4148,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-071",
+      "work_id": 4149,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-072",
+      "work_id": 4150,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-073",
+      "work_id": 4151,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-074",
+      "work_id": 4152,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-075",
+      "work_id": 4153,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-076",
+      "work_id": 4154,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-077",
+      "work_id": 4155,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-078",
+      "work_id": 4156,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-079",
+      "work_id": 4157,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-080",
+      "work_id": 4158,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-081",
+      "work_id": 4159,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-082",
+      "work_id": 4160,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-083",
+      "work_id": 4161,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-084",
+      "work_id": 4162,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-085",
+      "work_id": 4163,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-086",
+      "work_id": 4164,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-087",
+      "work_id": 2949,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-088",
+      "work_id": 4165,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-089",
+      "work_id": 4166,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-090",
+      "work_id": 4167,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-091",
+      "work_id": 4168,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-092",
+      "work_id": 4169,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-093",
+      "work_id": 4170,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-094",
+      "work_id": 3804,
+      "edition_id": null,
+      "created_work": false,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-095",
+      "work_id": 4171,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-096",
+      "work_id": 4172,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-097",
+      "work_id": 4173,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-098",
+      "work_id": 4174,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-099",
+      "work_id": 4175,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "books-epistemology-100",
+      "work_id": 4176,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    }
+  ]
+}

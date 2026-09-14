@@ -1,0 +1,48 @@
+{
+  "input_sha256": "2402261438ff977c896f19de558235de33de3e6eb71b24b5ae50df0a681d43f7",
+  "input_path": "research/catalog/batch-03.json",
+  "records": [
+    {
+      "key": "republic",
+      "work_id": 9,
+      "edition_id": 9,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "souls",
+      "work_id": 10,
+      "edition_id": 10,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "darwin",
+      "work_id": 11,
+      "edition_id": 11,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "silent",
+      "work_id": 12,
+      "edition_id": 12,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "enquiry",
+      "work_id": 13,
+      "edition_id": 13,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "liberty",
+      "work_id": 14,
+      "edition_id": 14,
+      "created_work": true,
+      "created_edition": true
+    }
+  ]
+}

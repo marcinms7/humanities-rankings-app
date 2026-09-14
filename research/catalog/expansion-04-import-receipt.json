@@ -1,0 +1,806 @@
+{
+  "input_sha256": "a4eb120a7141ac12c99693d63fe029a253d408e941748444c126dfe5872f19a3",
+  "input_path": "research/catalog/expansion-04.json",
+  "records": [
+    {
+      "key": "thehunchbackofnotredame-victorhugo",
+      "work_id": 301,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "pinocchio-carlocollodi",
+      "work_id": 302,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "ivanhoe-walterscott",
+      "work_id": 303,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theredbadgeofcourage-stephencrane",
+      "work_id": 304,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "anneofgreengables-lmmontgomery",
+      "work_id": 305,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "blackbeauty-annasewell",
+      "work_id": 306,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thehouseofthesevengables-nathanielhawthorne",
+      "work_id": 307,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theprinceandthepauper-marktwain",
+      "work_id": 308,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "harrypotterandthechamberofsecrets-jkrowling",
+      "work_id": 309,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theredandtheblack-stendhal",
+      "work_id": 310,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thestranger-albertcamus",
+      "work_id": 311,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thetrial-franzkafka",
+      "work_id": 312,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "ladychatterleyslover-dhlawrence",
+      "work_id": 313,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "kidnappedtheadventuresofdavidbalfour-robertlouisstevenson",
+      "work_id": 314,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "fahrenheit451-raybradbury",
+      "work_id": 315,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "ajourneytothecenteroftheearth-julesverne",
+      "work_id": 316,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "vanityfair-williammakepeacethackeray",
+      "work_id": 317,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "allquietonthewesternfront-erichmariaremarque",
+      "work_id": 318,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "gonewiththewind-margaretmitchell",
+      "work_id": 319,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "myantonia-willacather",
+      "work_id": 320,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "ofmiceandmen-johnsteinbeck",
+      "work_id": 321,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thevicarofwakefield-olivergoldsmith",
+      "work_id": 322,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "aconnecticutyankeeinkingarthurscourt-marktwain",
+      "work_id": 323,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "whitefang-jacklondon",
+      "work_id": 324,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "fathersandsons-ivanturgenev",
+      "work_id": 325,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "doctorzhivago-borispasternak",
+      "work_id": 326,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thedecameron-giovanniboccaccio",
+      "work_id": 327,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thejungle-uptonsinclair",
+      "work_id": 328,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thedavincicode-danbrown",
+      "work_id": 329,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "persuasion-janeausten",
+      "work_id": 330,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "mansfieldpark-janeausten",
+      "work_id": 331,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "candide-voltaire",
+      "work_id": 332,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "forwhomthebelltolls-ernesthemingway",
+      "work_id": 333,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "farfromthemaddingcrowd-thomashardy",
+      "work_id": 334,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thereturnofthenative-thomashardy",
+      "work_id": 335,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "charlottesweb-ebwhite",
+      "work_id": 336,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theswissfamilyrobinson-johanndavidwyss",
+      "work_id": 337,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "bleakhouse-charlesdickens",
+      "work_id": 338,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "peregoriot-honoredebalzac",
+      "work_id": 339,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "divinecomedy-dantealighieri",
+      "work_id": 340,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "molloymalonediestheunnamable-samuelbeckett",
+      "work_id": 341,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "ficciones-jorgeluisborges",
+      "work_id": 342,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "journeytotheendofthenight-louisferdinandceline",
+      "work_id": 343,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thecanterburytales-geoffreychaucer",
+      "work_id": 344,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "jacquesthefatalist-denisdiderot",
+      "work_id": 345,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "berlinalexanderplatz-alfreddoblin",
+      "work_id": 346,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theidiot-fyodordostoevsky",
+      "work_id": 347,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "demons-fyodordostoevsky",
+      "work_id": 348,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thebrotherskaramazov-fyodordostoevsky",
+      "work_id": 349,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "absalomabsalom-williamfaulkner",
+      "work_id": 350,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "sentimentaleducation-gustaveflaubert",
+      "work_id": 351,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "gypsyballads-federicogarcialorca",
+      "work_id": 352,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "loveinthetimeofcholera-gabrielgarciamarquez",
+      "work_id": 353,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "deadsouls-nikolaigogol",
+      "work_id": 354,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thetindrum-guntergrass",
+      "work_id": 355,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "hunger-knuthamsun",
+      "work_id": 356,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "odyssey-homer",
+      "work_id": 357,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thecastle-franzkafka",
+      "work_id": 358,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thesoundofthemountain-yasunarikawabata",
+      "work_id": 359,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "zorbathegreek-nikoskazantzakis",
+      "work_id": 360,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "independentpeople-halldorlaxness",
+      "work_id": 361,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thegoldennotebook-dorislessing",
+      "work_id": 362,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "pippilongstocking-astridlindgren",
+      "work_id": 363,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "childrenofgebelawi-naguibmahfouz",
+      "work_id": 364,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "buddenbrooks-thomasmann",
+      "work_id": 365,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "essays-micheldemontaigne",
+      "work_id": 366,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "themanwithoutqualities-robertmusil",
+      "work_id": 367,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "metamorphoses-ovid",
+      "work_id": 368,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thebookofdisquiet-fernandopessoa",
+      "work_id": 369,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "gargantuaandpantagruel-francoisrabelais",
+      "work_id": 370,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "masnavi-rumi",
+      "work_id": 371,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "bostan-saadi",
+      "work_id": 372,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "blindness-josesaramago",
+      "work_id": 373,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "tristramshandy-laurencesterne",
+      "work_id": 374,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "zenosconscience-italosvevo",
+      "work_id": 375,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "ramayana-valmiki",
+      "work_id": 376,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "aeneid-virgil",
+      "work_id": 377,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "mahabharata-vyasa",
+      "work_id": 378,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "leavesofgrass-waltwhitman",
+      "work_id": 379,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "mrsdalloway-virginiawoolf",
+      "work_id": 380,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "memoirsofhadrian-margueriteyourcenar",
+      "work_id": 381,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thelordoftherings-jrrtolkien",
+      "work_id": 382,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "madonnainafurcoat-sabahattinali",
+      "work_id": 383,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "icapturethecastle-dodiesmith",
+      "work_id": 384,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theturnofthescrew-henryjames",
+      "work_id": 385,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thesecrethistory-donnatartt",
+      "work_id": 386,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "themasterandmargarita-mikhailbulgakov",
+      "work_id": 387,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thegobetween-lphartley",
+      "work_id": 388,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "oneflewoverthecuckoosnest-kenkesey",
+      "work_id": 389,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thecodeofthewoosters-pgwodehouse",
+      "work_id": 390,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theoutsiders-sehinton",
+      "work_id": 391,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thechrysalids-johnwyndham",
+      "work_id": 392,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "anothercountry-jamesbaldwin",
+      "work_id": 393,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "rebecca-daphnedumaurier",
+      "work_id": 394,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "themillonthefloss-georgeeliot",
+      "work_id": 395,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "barchestertowers-anthonytrollope",
+      "work_id": 396,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "eastofeden-johnsteinbeck",
+      "work_id": 397,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "loveinacoldclimate-nancymitford",
+      "work_id": 398,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "diaryofanobody-georgegrossmith",
+      "work_id": 399,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thebetrothed-alessandromanzoni",
+      "work_id": 400,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    }
+  ]
+}

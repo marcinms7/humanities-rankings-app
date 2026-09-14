@@ -1,0 +1,607 @@
+{
+  "target_id": "books-france",
+  "source_report": "research/incoming/books-france/2026-09-13-owner-paste/report.txt",
+  "reported_source_count": 130,
+  "candidates": [
+    {
+      "position": 1,
+      "reported_title": "À la recherche du temps perdu (In Search of Lost Time)",
+      "reported_author": "Marcel Proust",
+      "raw_line": "1. À la recherche du temps perdu (In Search of Lost Time) — Marcel Proust — 1913–1927 — novel cycle"
+    },
+    {
+      "position": 2,
+      "reported_title": "Madame Bovary",
+      "reported_author": "Gustave Flaubert",
+      "raw_line": "2. Madame Bovary — Gustave Flaubert — 1857 — novel"
+    },
+    {
+      "position": 3,
+      "reported_title": "Les Misérables",
+      "reported_author": "Victor Hugo",
+      "raw_line": "3. Les Misérables — Victor Hugo — 1862 — novel"
+    },
+    {
+      "position": 4,
+      "reported_title": "Le Rouge et le Noir (The Red and the Black)",
+      "reported_author": "Stendhal",
+      "raw_line": "4. Le Rouge et le Noir (The Red and the Black) — Stendhal — 1830 — novel"
+    },
+    {
+      "position": 5,
+      "reported_title": "Les Fleurs du mal (The Flowers of Evil)",
+      "reported_author": "Charles Baudelaire",
+      "raw_line": "5. Les Fleurs du mal (The Flowers of Evil) — Charles Baudelaire — 1857 — poetry"
+    },
+    {
+      "position": 6,
+      "reported_title": "Essais (Essays)",
+      "reported_author": "Michel de Montaigne",
+      "raw_line": "6. Essais (Essays) — Michel de Montaigne — 1580–1595 — essays/philosophy"
+    },
+    {
+      "position": 7,
+      "reported_title": "L’Étranger (The Stranger)",
+      "reported_author": "Albert Camus",
+      "raw_line": "7. L’Étranger (The Stranger) — Albert Camus — 1942 — novel"
+    },
+    {
+      "position": 8,
+      "reported_title": "Gargantua et Pantagruel",
+      "reported_author": "François Rabelais",
+      "raw_line": "8. Gargantua et Pantagruel — François Rabelais — 1532–1564 — novel cycle"
+    },
+    {
+      "position": 9,
+      "reported_title": "Illusions perdues (Lost Illusions)",
+      "reported_author": "Honoré de Balzac",
+      "raw_line": "9. Illusions perdues (Lost Illusions) — Honoré de Balzac — 1837–1843 — novel"
+    },
+    {
+      "position": 10,
+      "reported_title": "Le Comte de Monte-Cristo (The Count of Monte Cristo)",
+      "reported_author": "Alexandre Dumas",
+      "raw_line": "10. Le Comte de Monte-Cristo (The Count of Monte Cristo) — Alexandre Dumas — 1844–1846 — novel"
+    },
+    {
+      "position": 11,
+      "reported_title": "Voyage au bout de la nuit (Journey to the End of the Night)",
+      "reported_author": "Louis-Ferdinand Céline",
+      "raw_line": "11. Voyage au bout de la nuit (Journey to the End of the Night) — Louis-Ferdinand Céline — 1932 — novel"
+    },
+    {
+      "position": 12,
+      "reported_title": "Candide",
+      "reported_author": "Voltaire",
+      "raw_line": "12. Candide — Voltaire — 1759 — philosophical novella"
+    },
+    {
+      "position": 13,
+      "reported_title": "La Chartreuse de Parme (The Charterhouse of Parma)",
+      "reported_author": "Stendhal",
+      "raw_line": "13. La Chartreuse de Parme (The Charterhouse of Parma) — Stendhal — 1839 — novel"
+    },
+    {
+      "position": 14,
+      "reported_title": "Germinal",
+      "reported_author": "Émile Zola",
+      "raw_line": "14. Germinal — Émile Zola — 1885 — novel"
+    },
+    {
+      "position": 15,
+      "reported_title": "Les Liaisons dangereuses (Dangerous Liaisons)",
+      "reported_author": "Pierre Choderlos de Laclos",
+      "raw_line": "15. Les Liaisons dangereuses (Dangerous Liaisons) — Pierre Choderlos de Laclos — 1782 — novel"
+    },
+    {
+      "position": 16,
+      "reported_title": "Pensées",
+      "reported_author": "Blaise Pascal",
+      "raw_line": "16. Pensées — Blaise Pascal — 1670 — philosophy/religion"
+    },
+    {
+      "position": 17,
+      "reported_title": "Le Père Goriot (Père Goriot)",
+      "reported_author": "Honoré de Balzac",
+      "raw_line": "17. Le Père Goriot (Père Goriot) — Honoré de Balzac — 1835 — novel"
+    },
+    {
+      "position": 18,
+      "reported_title": "La Princesse de Clèves (The Princess of Clèves)",
+      "reported_author": "Madame de La Fayette",
+      "raw_line": "18. La Princesse de Clèves (The Princess of Clèves) — Madame de La Fayette — 1678 — novel"
+    },
+    {
+      "position": 19,
+      "reported_title": "L’Éducation sentimentale (Sentimental Education)",
+      "reported_author": "Gustave Flaubert",
+      "raw_line": "19. L’Éducation sentimentale (Sentimental Education) — Gustave Flaubert — 1869 — novel"
+    },
+    {
+      "position": 20,
+      "reported_title": "Le Petit Prince (The Little Prince)",
+      "reported_author": "Antoine de Saint-Exupéry",
+      "raw_line": "20. Le Petit Prince (The Little Prince) — Antoine de Saint-Exupéry — 1943 — novella/fable"
+    },
+    {
+      "position": 21,
+      "reported_title": "Les Confessions (Confessions)",
+      "reported_author": "Jean-Jacques Rousseau",
+      "raw_line": "21. Les Confessions (Confessions) — Jean-Jacques Rousseau — 1782–1789 — autobiography"
+    },
+    {
+      "position": 22,
+      "reported_title": "Notre-Dame de Paris (The Hunchback of Notre-Dame)",
+      "reported_author": "Victor Hugo",
+      "raw_line": "22. Notre-Dame de Paris (The Hunchback of Notre-Dame) — Victor Hugo — 1831 — novel"
+    },
+    {
+      "position": 23,
+      "reported_title": "Le Deuxième Sexe (The Second Sex)",
+      "reported_author": "Simone de Beauvoir",
+      "raw_line": "23. Le Deuxième Sexe (The Second Sex) — Simone de Beauvoir — 1949 — philosophy/social criticism"
+    },
+    {
+      "position": 24,
+      "reported_title": "Phèdre",
+      "reported_author": "Jean Racine",
+      "raw_line": "24. Phèdre — Jean Racine — 1677 — drama"
+    },
+    {
+      "position": 25,
+      "reported_title": "Tartuffe",
+      "reported_author": "Molière",
+      "raw_line": "25. Tartuffe — Molière — 1664/1669 — drama"
+    },
+    {
+      "position": 26,
+      "reported_title": "La Vie mode d’emploi (Life: A User’s Manual)",
+      "reported_author": "Georges Perec",
+      "raw_line": "26. La Vie mode d’emploi (Life: A User’s Manual) — Georges Perec — 1978 — novel"
+    },
+    {
+      "position": 27,
+      "reported_title": "De la démocratie en Amérique (Democracy in America)",
+      "reported_author": "Alexis de Tocqueville",
+      "raw_line": "27. De la démocratie en Amérique (Democracy in America) — Alexis de Tocqueville — 1835–1840 — political thought"
+    },
+    {
+      "position": 28,
+      "reported_title": "La Peste (The Plague)",
+      "reported_author": "Albert Camus",
+      "raw_line": "28. La Peste (The Plague) — Albert Camus — 1947 — novel"
+    },
+    {
+      "position": 29,
+      "reported_title": "Discours de la méthode (Discourse on Method)",
+      "reported_author": "René Descartes",
+      "raw_line": "29. Discours de la méthode (Discourse on Method) — René Descartes — 1637 — philosophy"
+    },
+    {
+      "position": 30,
+      "reported_title": "Les Faux-Monnayeurs (The Counterfeiters)",
+      "reported_author": "André Gide",
+      "raw_line": "30. Les Faux-Monnayeurs (The Counterfeiters) — André Gide — 1925 — novel"
+    },
+    {
+      "position": 31,
+      "reported_title": "La Condition humaine (Man’s Fate)",
+      "reported_author": "André Malraux",
+      "raw_line": "31. La Condition humaine (Man’s Fate) — André Malraux — 1933 — novel"
+    },
+    {
+      "position": 32,
+      "reported_title": "Alcools",
+      "reported_author": "Guillaume Apollinaire",
+      "raw_line": "32. Alcools — Guillaume Apollinaire — 1913 — poetry"
+    },
+    {
+      "position": 33,
+      "reported_title": "Une saison en enfer (A Season in Hell)",
+      "reported_author": "Arthur Rimbaud",
+      "raw_line": "33. Une saison en enfer (A Season in Hell) — Arthur Rimbaud — 1873 — poetry"
+    },
+    {
+      "position": 34,
+      "reported_title": "Du contrat social (The Social Contract)",
+      "reported_author": "Jean-Jacques Rousseau",
+      "raw_line": "34. Du contrat social (The Social Contract) — Jean-Jacques Rousseau — 1762 — political philosophy"
+    },
+    {
+      "position": 35,
+      "reported_title": "L’Assommoir",
+      "reported_author": "Émile Zola",
+      "raw_line": "35. L’Assommoir — Émile Zola — 1877 — novel"
+    },
+    {
+      "position": 36,
+      "reported_title": "Les Trois Mousquetaires (The Three Musketeers)",
+      "reported_author": "Alexandre Dumas",
+      "raw_line": "36. Les Trois Mousquetaires (The Three Musketeers) — Alexandre Dumas — 1844 — novel"
+    },
+    {
+      "position": 37,
+      "reported_title": "À rebours (Against Nature)",
+      "reported_author": "J.-K. Huysmans",
+      "raw_line": "37. À rebours (Against Nature) — J.-K. Huysmans — 1884 — novel"
+    },
+    {
+      "position": 38,
+      "reported_title": "La Nausée (Nausea)",
+      "reported_author": "Jean-Paul Sartre",
+      "raw_line": "38. La Nausée (Nausea) — Jean-Paul Sartre — 1938 — novel"
+    },
+    {
+      "position": 39,
+      "reported_title": "Fables",
+      "reported_author": "Jean de La Fontaine",
+      "raw_line": "39. Fables — Jean de La Fontaine — 1668–1694 — poetry/fables"
+    },
+    {
+      "position": 40,
+      "reported_title": "Le Misanthrope (The Misanthrope)",
+      "reported_author": "Molière",
+      "raw_line": "40. Le Misanthrope (The Misanthrope) — Molière — 1666 — drama"
+    },
+    {
+      "position": 41,
+      "reported_title": "Le Grand Meaulnes",
+      "reported_author": "Alain-Fournier",
+      "raw_line": "41. Le Grand Meaulnes — Alain-Fournier — 1913 — novel"
+    },
+    {
+      "position": 42,
+      "reported_title": "La Chanson de Roland (The Song of Roland)",
+      "reported_author": "Anonymous",
+      "raw_line": "42. La Chanson de Roland (The Song of Roland) — Anonymous — c.1100 — epic poetry"
+    },
+    {
+      "position": 43,
+      "reported_title": "Le Roman de la Rose (The Romance of the Rose)",
+      "reported_author": "Guillaume de Lorris & Jean de Meun",
+      "raw_line": "43. Le Roman de la Rose (The Romance of the Rose) — Guillaume de Lorris & Jean de Meun — c.1230–1275 — allegorical poem"
+    },
+    {
+      "position": 44,
+      "reported_title": "Le Cid",
+      "reported_author": "Pierre Corneille",
+      "raw_line": "44. Le Cid — Pierre Corneille — 1637 — drama"
+    },
+    {
+      "position": 45,
+      "reported_title": "De l’esprit des lois (The Spirit of the Laws)",
+      "reported_author": "Montesquieu",
+      "raw_line": "45. De l’esprit des lois (The Spirit of the Laws) — Montesquieu — 1748 — political philosophy"
+    },
+    {
+      "position": 46,
+      "reported_title": "Le Neveu de Rameau (Rameau’s Nephew)",
+      "reported_author": "Denis Diderot",
+      "raw_line": "46. Le Neveu de Rameau (Rameau’s Nephew) — Denis Diderot — c.1762–1777 — philosophical dialogue"
+    },
+    {
+      "position": 47,
+      "reported_title": "Jacques le fataliste et son maître (Jacques the Fatalist)",
+      "reported_author": "Denis Diderot",
+      "raw_line": "47. Jacques le fataliste et son maître (Jacques the Fatalist) — Denis Diderot — written c.1765–1780, published 1796 — novel"
+    },
+    {
+      "position": 48,
+      "reported_title": "Le Mythe de Sisyphe (The Myth of Sisyphus)",
+      "reported_author": "Albert Camus",
+      "raw_line": "48. Le Mythe de Sisyphe (The Myth of Sisyphus) — Albert Camus — 1942 — philosophy/essay"
+    },
+    {
+      "position": 49,
+      "reported_title": "Maximes",
+      "reported_author": "François de La Rochefoucauld",
+      "raw_line": "49. Maximes — François de La Rochefoucauld — 1665 — aphorisms"
+    },
+    {
+      "position": 50,
+      "reported_title": "Lettres persanes (Persian Letters)",
+      "reported_author": "Montesquieu",
+      "raw_line": "50. Lettres persanes (Persian Letters) — Montesquieu — 1721 — novel/social satire"
+    },
+    {
+      "position": 51,
+      "reported_title": "Manon Lescaut",
+      "reported_author": "Abbé Prévost",
+      "raw_line": "51. Manon Lescaut — Abbé Prévost — 1731 — novel"
+    },
+    {
+      "position": 52,
+      "reported_title": "L’Être et le Néant (Being and Nothingness)",
+      "reported_author": "Jean-Paul Sartre",
+      "raw_line": "52. L’Être et le Néant (Being and Nothingness) — Jean-Paul Sartre — 1943 — philosophy"
+    },
+    {
+      "position": 53,
+      "reported_title": "Les Contemplations",
+      "reported_author": "Victor Hugo",
+      "raw_line": "53. Les Contemplations — Victor Hugo — 1856 — poetry"
+    },
+    {
+      "position": 54,
+      "reported_title": "Mémoires d’Hadrien (Memoirs of Hadrian)",
+      "reported_author": "Marguerite Yourcenar",
+      "raw_line": "54. Mémoires d’Hadrien (Memoirs of Hadrian) — Marguerite Yourcenar — 1951 — novel"
+    },
+    {
+      "position": 55,
+      "reported_title": "Le Rivage des Syrtes (The Opposing Shore)",
+      "reported_author": "Julien Gracq",
+      "raw_line": "55. Le Rivage des Syrtes (The Opposing Shore) — Julien Gracq — 1951 — novel"
+    },
+    {
+      "position": 56,
+      "reported_title": "Les Années (The Years)",
+      "reported_author": "Annie Ernaux",
+      "raw_line": "56. Les Années (The Years) — Annie Ernaux — 2008 — memoir/autosociobiography"
+    },
+    {
+      "position": 57,
+      "reported_title": "Tristes Tropiques",
+      "reported_author": "Claude Lévi-Strauss",
+      "raw_line": "57. Tristes Tropiques — Claude Lévi-Strauss — 1955 — anthropology/memoir"
+    },
+    {
+      "position": 58,
+      "reported_title": "L’Amant (The Lover)",
+      "reported_author": "Marguerite Duras",
+      "raw_line": "58. L’Amant (The Lover) — Marguerite Duras — 1984 — novel/autofiction"
+    },
+    {
+      "position": 59,
+      "reported_title": "Mort à crédit (Death on Credit)",
+      "reported_author": "Louis-Ferdinand Céline",
+      "raw_line": "59. Mort à crédit (Death on Credit) — Louis-Ferdinand Céline — 1936 — novel"
+    },
+    {
+      "position": 60,
+      "reported_title": "Bel-Ami",
+      "reported_author": "Guy de Maupassant",
+      "raw_line": "60. Bel-Ami — Guy de Maupassant — 1885 — novel"
+    },
+    {
+      "position": 61,
+      "reported_title": "La Cousine Bette (Cousin Bette)",
+      "reported_author": "Honoré de Balzac",
+      "raw_line": "61. La Cousine Bette (Cousin Bette) — Honoré de Balzac — 1846 — novel"
+    },
+    {
+      "position": 62,
+      "reported_title": "Eugénie Grandet",
+      "reported_author": "Honoré de Balzac",
+      "raw_line": "62. Eugénie Grandet — Honoré de Balzac — 1833 — novel"
+    },
+    {
+      "position": 63,
+      "reported_title": "Nana",
+      "reported_author": "Émile Zola",
+      "raw_line": "63. Nana — Émile Zola — 1880 — novel"
+    },
+    {
+      "position": 64,
+      "reported_title": "Julie, ou la Nouvelle Héloïse (Julie, or the New Heloise)",
+      "reported_author": "Jean-Jacques Rousseau",
+      "raw_line": "64. Julie, ou la Nouvelle Héloïse (Julie, or the New Heloise) — Jean-Jacques Rousseau — 1761 — novel"
+    },
+    {
+      "position": 65,
+      "reported_title": "Journal d’un curé de campagne (Diary of a Country Priest)",
+      "reported_author": "Georges Bernanos",
+      "raw_line": "65. Journal d’un curé de campagne (Diary of a Country Priest) — Georges Bernanos — 1936 — novel"
+    },
+    {
+      "position": 66,
+      "reported_title": "Thérèse Desqueyroux",
+      "reported_author": "François Mauriac",
+      "raw_line": "66. Thérèse Desqueyroux — François Mauriac — 1927 — novel"
+    },
+    {
+      "position": 67,
+      "reported_title": "Chéri",
+      "reported_author": "Colette",
+      "raw_line": "67. Chéri — Colette — 1920 — novel"
+    },
+    {
+      "position": 68,
+      "reported_title": "L’Écume des jours (Froth on the Daydream)",
+      "reported_author": "Boris Vian",
+      "raw_line": "68. L’Écume des jours (Froth on the Daydream) — Boris Vian — 1947 — novel"
+    },
+    {
+      "position": 69,
+      "reported_title": "Paroles",
+      "reported_author": "Jacques Prévert",
+      "raw_line": "69. Paroles — Jacques Prévert — 1946 — poetry"
+    },
+    {
+      "position": 70,
+      "reported_title": "Nadja",
+      "reported_author": "André Breton",
+      "raw_line": "70. Nadja — André Breton — 1928 — novel/surrealist prose"
+    },
+    {
+      "position": 71,
+      "reported_title": "Cahier d’un retour au pays natal (Notebook of a Return to the Native Land)",
+      "reported_author": "Aimé Césaire",
+      "raw_line": "71. Cahier d’un retour au pays natal (Notebook of a Return to the Native Land) — Aimé Césaire — 1939 — poetry"
+    },
+    {
+      "position": 72,
+      "reported_title": "Mythologies",
+      "reported_author": "Roland Barthes",
+      "raw_line": "72. Mythologies — Roland Barthes — 1957 — essays/cultural criticism"
+    },
+    {
+      "position": 73,
+      "reported_title": "Surveiller et punir (Discipline and Punish)",
+      "reported_author": "Michel Foucault",
+      "raw_line": "73. Surveiller et punir (Discipline and Punish) — Michel Foucault — 1975 — philosophy/history"
+    },
+    {
+      "position": 74,
+      "reported_title": "La Route des Flandres (The Flanders Road)",
+      "reported_author": "Claude Simon",
+      "raw_line": "74. La Route des Flandres (The Flanders Road) — Claude Simon — 1960 — novel"
+    },
+    {
+      "position": 75,
+      "reported_title": "La Jalousie (Jealousy)",
+      "reported_author": "Alain Robbe-Grillet",
+      "raw_line": "75. La Jalousie (Jealousy) — Alain Robbe-Grillet — 1957 — novel"
+    },
+    {
+      "position": 76,
+      "reported_title": "La Modification (Second Thoughts)",
+      "reported_author": "Michel Butor",
+      "raw_line": "76. La Modification (Second Thoughts) — Michel Butor — 1957 — novel"
+    },
+    {
+      "position": 77,
+      "reported_title": "Tropismes (Tropisms)",
+      "reported_author": "Nathalie Sarraute",
+      "raw_line": "77. Tropismes (Tropisms) — Nathalie Sarraute — 1939 — fiction"
+    },
+    {
+      "position": 78,
+      "reported_title": "Exercices de style (Exercises in Style)",
+      "reported_author": "Raymond Queneau",
+      "raw_line": "78. Exercices de style (Exercises in Style) — Raymond Queneau — 1947 — experimental fiction"
+    },
+    {
+      "position": 79,
+      "reported_title": "W ou le souvenir d’enfance (W, or the Memory of Childhood)",
+      "reported_author": "Georges Perec",
+      "raw_line": "79. W ou le souvenir d’enfance (W, or the Memory of Childhood) — Georges Perec — 1975 — novel/memoir"
+    },
+    {
+      "position": 80,
+      "reported_title": "Le Ravissement de Lol V. Stein (The Ravishing of Lol Stein)",
+      "reported_author": "Marguerite Duras",
+      "raw_line": "80. Le Ravissement de Lol V. Stein (The Ravishing of Lol Stein) — Marguerite Duras — 1964 — novel"
+    },
+    {
+      "position": 81,
+      "reported_title": "Notre-Dame-des-Fleurs (Our Lady of the Flowers)",
+      "reported_author": "Jean Genet",
+      "raw_line": "81. Notre-Dame-des-Fleurs (Our Lady of the Flowers) — Jean Genet — 1943 — novel"
+    },
+    {
+      "position": 82,
+      "reported_title": "La Vie devant soi (The Life Before Us)",
+      "reported_author": "Romain Gary / Émile Ajar",
+      "raw_line": "82. La Vie devant soi (The Life Before Us) — Romain Gary / Émile Ajar — 1975 — novel"
+    },
+    {
+      "position": 83,
+      "reported_title": "Le Roi des Aulnes (The Ogre)",
+      "reported_author": "Michel Tournier",
+      "raw_line": "83. Le Roi des Aulnes (The Ogre) — Michel Tournier — 1970 — novel"
+    },
+    {
+      "position": 84,
+      "reported_title": "Rue des boutiques obscures (Missing Person)",
+      "reported_author": "Patrick Modiano",
+      "raw_line": "84. Rue des boutiques obscures (Missing Person) — Patrick Modiano — 1978 — novel"
+    },
+    {
+      "position": 85,
+      "reported_title": "Désert",
+      "reported_author": "J. M. G. Le Clézio",
+      "raw_line": "85. Désert — J. M. G. Le Clézio — 1980 — novel"
+    },
+    {
+      "position": 86,
+      "reported_title": "Vies minuscules (Small Lives)",
+      "reported_author": "Pierre Michon",
+      "raw_line": "86. Vies minuscules (Small Lives) — Pierre Michon — 1984 — fiction/biographical prose"
+    },
+    {
+      "position": 87,
+      "reported_title": "La Place (A Man’s Place)",
+      "reported_author": "Annie Ernaux",
+      "raw_line": "87. La Place (A Man’s Place) — Annie Ernaux — 1983 — memoir/autosociobiography"
+    },
+    {
+      "position": 88,
+      "reported_title": "Les Particules élémentaires (The Elementary Particles)",
+      "reported_author": "Michel Houellebecq",
+      "raw_line": "88. Les Particules élémentaires (The Elementary Particles) — Michel Houellebecq — 1998 — novel"
+    },
+    {
+      "position": 89,
+      "reported_title": "L’Adversaire (The Adversary)",
+      "reported_author": "Emmanuel Carrère",
+      "raw_line": "89. L’Adversaire (The Adversary) — Emmanuel Carrère — 2000 — nonfiction/literary reportage"
+    },
+    {
+      "position": 90,
+      "reported_title": "Vingt mille lieues sous les mers (Twenty Thousand Leagues Under the Seas)",
+      "reported_author": "Jules Verne",
+      "raw_line": "90. Vingt mille lieues sous les mers (Twenty Thousand Leagues Under the Seas) — Jules Verne — 1870 — novel"
+    },
+    {
+      "position": 91,
+      "reported_title": "Le Tour du monde en quatre-vingts jours (Around the World in Eighty Days)",
+      "reported_author": "Jules Verne",
+      "raw_line": "91. Le Tour du monde en quatre-vingts jours (Around the World in Eighty Days) — Jules Verne — 1872 — novel"
+    },
+    {
+      "position": 92,
+      "reported_title": "Cyrano de Bergerac",
+      "reported_author": "Edmond Rostand",
+      "raw_line": "92. Cyrano de Bergerac — Edmond Rostand — 1897 — drama"
+    },
+    {
+      "position": 93,
+      "reported_title": "Le Mariage de Figaro (The Marriage of Figaro)",
+      "reported_author": "Pierre-Augustin Caron de Beaumarchais",
+      "raw_line": "93. Le Mariage de Figaro (The Marriage of Figaro) — Pierre-Augustin Caron de Beaumarchais — 1784 — drama"
+    },
+    {
+      "position": 94,
+      "reported_title": "Discours de la servitude volontaire (Discourse on Voluntary Servitude)",
+      "reported_author": "Étienne de La Boétie",
+      "raw_line": "94. Discours de la servitude volontaire (Discourse on Voluntary Servitude) — Étienne de La Boétie — c.1548/1576 — political essay"
+    },
+    {
+      "position": 95,
+      "reported_title": "Le Livre de la Cité des dames (The Book of the City of Ladies)",
+      "reported_author": "Christine de Pizan",
+      "raw_line": "95. Le Livre de la Cité des dames (The Book of the City of Ladies) — Christine de Pizan — 1405 — prose/allegory"
+    },
+    {
+      "position": 96,
+      "reported_title": "L’Heptaméron (The Heptameron)",
+      "reported_author": "Marguerite de Navarre",
+      "raw_line": "96. L’Heptaméron (The Heptameron) — Marguerite de Navarre — 1558 — story collection"
+    },
+    {
+      "position": 97,
+      "reported_title": "Le Testament (The Grand Testament)",
+      "reported_author": "François Villon",
+      "raw_line": "97. Le Testament (The Grand Testament) — François Villon — 1461 — poetry"
+    },
+    {
+      "position": 98,
+      "reported_title": "Le Parti pris des choses (The Voice of Things)",
+      "reported_author": "Francis Ponge",
+      "raw_line": "98. Le Parti pris des choses (The Voice of Things) — Francis Ponge — 1942 — prose poetry"
+    },
+    {
+      "position": 99,
+      "reported_title": "La Distinction (Distinction: A Social Critique of the Judgement of Taste)",
+      "reported_author": "Pierre Bourdieu",
+      "raw_line": "99. La Distinction (Distinction: A Social Critique of the Judgement of Taste) — Pierre Bourdieu — 1979 — sociology"
+    },
+    {
+      "position": 100,
+      "reported_title": "La Société du spectacle (The Society of the Spectacle)",
+      "reported_author": "Guy Debord",
+      "raw_line": "100. La Société du spectacle (The Society of the Spectacle) — Guy Debord — 1967 — social/political theory"
+    }
+  ]
+}

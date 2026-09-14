@@ -1,0 +1,47 @@
+{
+  "books-all-time": {
+    "entries": 250,
+    "revision": 4,
+    "target_urls": 200,
+    "retrieved": 154,
+    "failed": 46,
+    "source_links": 132,
+    "both_orders_valid": true
+  },
+  "philosophy-books-all-time": {
+    "entries": 250,
+    "revision": 4,
+    "target_urls": 159,
+    "retrieved": 137,
+    "failed": 22,
+    "source_links": 100,
+    "both_orders_valid": true
+  },
+  "history-books-all-time": {
+    "entries": 234,
+    "revision": 2,
+    "target_urls": 200,
+    "retrieved": 153,
+    "failed": 47,
+    "source_links": 33,
+    "both_orders_valid": true
+  },
+  "poetry-all-time": {
+    "entries": 162,
+    "revision": 2,
+    "target_urls": 200,
+    "retrieved": 172,
+    "failed": 28,
+    "source_links": 38,
+    "both_orders_valid": true
+  },
+  "nonfiction-all-time": {
+    "entries": 250,
+    "revision": 6,
+    "target_urls": 200,
+    "retrieved": 165,
+    "failed": 35,
+    "source_links": 63,
+    "both_orders_valid": true
+  }
+}

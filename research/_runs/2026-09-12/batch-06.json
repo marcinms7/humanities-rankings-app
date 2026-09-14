@@ -1,0 +1,211 @@
+{
+  "summary": "Added eight multilingual sources in Polish, French, Portuguese, Chinese, Spanish and German. The Polish poll contributes only to philosophers; other reuse is individually scoped.",
+  "next": "Expand independent blogs, reader communities and non-Western philosophical criticism; begin the separate literary-fiction corpus.",
+  "sources": [
+    {
+      "id": "R041",
+      "url": "https://filozofuj.eu/filozofowie-wazni-i-bliscy-wedlug-czytelnikow-filozofuj-oglaszamy-liste-zwyciezcow/",
+      "title": "Filozofowie ważni i bliscy — wyniki plebiscytu",
+      "publisher": "Filozofuj! / Academicon",
+      "family": "reader_community",
+      "language": "pl",
+      "note": "Among 135 respondents, the importance ranking begins Plato, Aristotle, Kant; personal closeness begins Socrates and Nietzsche and includes Tischner and Kolakowski. Votes used a 3–2–1 scheme.",
+      "candidates": [
+        "Plato",
+        "Aristotle",
+        "Immanuel Kant",
+        "Socrates",
+        "Friedrich Nietzsche",
+        "Jozef Tischner",
+        "Leszek Kolakowski"
+      ],
+      "targets": {
+        "P": "Direct Polish reader evidence distinguishing perceived importance from personal resonance."
+      },
+      "location": "Results and voting method, lines 582–605",
+      "limits": "Self-selected small readership; importance and closeness are separate source rankings. Follow-up breakdown is the same poll, not another source."
+    },
+    {
+      "id": "R042",
+      "url": "https://filozofuj.eu/pawel-okolowski-lukrecjusz-ze-lwowa/",
+      "title": "Paweł Okołowski: Lukrecjusz ze Lwowa",
+      "author": "Paweł Okołowski; interviewed by Filip Kobiela",
+      "publisher": "Filozofuj! / Academicon",
+      "family": "expert_interview",
+      "language": "pl",
+      "date": "2021-11-09",
+      "note": "Okolowski argues Lem's essays form a philosophical system obscured by his fiction's fame and difficult discursive prose. He contrasts Summa and Dialogues with fictional narratives.",
+      "candidates": [
+        "Stanislaw Lem",
+        "Summa Technologiae",
+        "Dialogues",
+        "His Master's Voice"
+      ],
+      "targets": {
+        "A": "Adds technology and philosophical nonfiction alongside a fiction-versus-essay distinction.",
+        "N": "Identifies Summa and Dialogues as discursive works requiring separate reception evidence.",
+        "B": "Makes an explicit case for Lem's philosophical books.",
+        "P": "Provides a contested expert argument for Lem's philosopher eligibility."
+      },
+      "location": "Interview opening, lines 578–593",
+      "limits": "A sympathetic specialist's interpretation; outdated English-publication comments are not treated as current availability."
+    },
+    {
+      "id": "R043",
+      "url": "https://laviedesidees.fr/La-carriere-francaise-de-John-Rawls",
+      "title": "La carrière française de John Rawls",
+      "author": "Ophélie Desmons",
+      "publisher": "La Vie des idées",
+      "family": "scholarly_review",
+      "language": "fr",
+      "date": "2019-06-10",
+      "note": "Reviewing Hauchecorne, Desmons explains Rawls's delayed French canonization and conflicting political readings. International circulation changes a book's interpreted meaning through local institutions and mediators.",
+      "candidates": [
+        "John Rawls",
+        "A Theory of Justice",
+        "La gauche américaine en France"
+      ],
+      "targets": {
+        "A": "Adds empirical canon/reception history for a major political book.",
+        "N": "Supports political-intellectual-history nonfiction and reception context.",
+        "B": "Warns against treating one country's reading of Theory of Justice as universal.",
+        "P": "Separates Rawls's philosophical work from its shifting public labels."
+      },
+      "location": "Introduction and methodological discussion",
+      "limits": "French reception case study, not direct validation of Rawls's arguments; English translation of the reviewed monograph unresolved."
+    },
+    {
+      "id": "R044",
+      "url": "https://www.en-attendant-nadeau.fr/2022/10/13/pleiade-spinoza-entretien-pautrat/",
+      "title": "Un nouveau Spinoza : entretien avec Bernard Pautrat",
+      "author": "Marc Lebiez; Bernard Pautrat",
+      "publisher": "En attendant Nadeau",
+      "family": "expert_interview",
+      "language": "fr",
+      "date": "2022-10-13",
+      "note": "Pautrat explains revised texts, consistent translation of Latin terms and a reading of Ethics' geometric order as substantive argument. He describes transformative reading, not merely admiration.",
+      "candidates": [
+        "Baruch Spinoza",
+        "Ethics",
+        "Political Treatise",
+        "Treatise on the Emendation of the Intellect"
+      ],
+      "targets": {
+        "A": "Adds translation and textual-transmission evidence for philosophical classics.",
+        "N": "Shows why edition quality matters for argumentative nonfiction.",
+        "B": "Supports an edition-sensitive account of Ethics' method.",
+        "P": "Adds French scholarly reception of Spinoza beyond summary reference."
+      },
+      "location": "Interview on edition rationale, translation consistency and geometric order",
+      "limits": "French edition and editor's own interpretation; not an English-edition recommendation."
+    },
+    {
+      "id": "R045",
+      "url": "https://www.scielo.br/j/trans/a/8y55qsQj7mXXk6ySzhKjy4k/?lang=pt",
+      "title": "Resenha: Sair da Grande Noite — Achille Mbembe",
+      "publisher": "Trans/Form/Ação / UNESP",
+      "family": "scholarly_review",
+      "language": "pt",
+      "note": "The review presents decolonization as opening possible futures rather than merely auditing independence. It connects Mbembe to Fanon and Jean-Marc Ela and examines hybrid theoretical-autobiographical writing.",
+      "candidates": [
+        "Achille Mbembe",
+        "Out of the Dark Night",
+        "Frantz Fanon",
+        "Jean-Marc Ela"
+      ],
+      "targets": {
+        "A": "Adds Brazilian reception of Cameroonian political thought.",
+        "N": "Supports decolonization nonfiction and its narrative form.",
+        "B": "Adds philosophical arguments about postcolonial futures and knowledge.",
+        "P": "Documents Mbembe's intellectual dialogue with Fanon and Ela."
+      },
+      "location": "Review body, lines 73–85",
+      "limits": "Portuguese translation reviewed; the source is one article, not each cited book or DOI version."
+    },
+    {
+      "id": "R046",
+      "url": "https://www.phil.tsinghua.edu.cn/info/1037/1319.htm",
+      "title": "学习哲学，要读读哪些书呢？",
+      "publisher": "Tsinghua University Department of Philosophy",
+      "family": "academic_curriculum",
+      "language": "zh",
+      "date": "2018-07-04",
+      "note": "The departmental list organizes Chinese and Western philosophy by study area, including Zhu Xi, Wang Yangming, Mozi and Chinese commentarial editions. Repeated works across areas invite different readings.",
+      "candidates": [
+        "Feng Youlan",
+        "A History of Chinese Philosophy",
+        "Zhu Xi",
+        "Reflections on Things at Hand",
+        "Wang Yangming",
+        "Instructions for Practical Living",
+        "Mozi"
+      ],
+      "targets": {
+        "A": "Adds Chinese intellectual history and commentarial traditions.",
+        "N": "Supplies philosophical-history and commentary nonfiction candidates.",
+        "B": "Expands beyond early Chinese sages to later thinkers and annotated traditions.",
+        "P": "Documents Chinese academic reception of Zhu Xi, Wang Yangming and Mozi."
+      },
+      "location": "Introduction and Chinese/Western reading lists",
+      "limits": "Study list is not a merit ranking; Chinese edition names do not verify English availability."
+    },
+    {
+      "id": "R047",
+      "url": "https://verne.elpais.com/verne/2017/02/03/articulo/1486123377_072005.html",
+      "title": "Libros para que te explote la cabeza",
+      "author": "Jaime Rubio Hancock",
+      "publisher": "Verne / El País",
+      "group": "PRISA",
+      "family": "editorial_selection",
+      "language": "es",
+      "date": "2017-02-05",
+      "note": "A deliberately subjective selection pairs established works with Garces, Camps and Han. It praises philosophical questioning and contextual ethics rather than claiming a universal hierarchy.",
+      "candidates": [
+        "Filosofía inacabada",
+        "Elogio de la duda",
+        "Practical Ethics",
+        "Reasons and Persons",
+        "Superintelligence",
+        "Marina Garces",
+        "Victoria Camps",
+        "Byung-Chul Han"
+      ],
+      "targets": {
+        "A": "Adds Spanish-language contemporary philosophy discovery.",
+        "N": "Supplies critical nonfiction and AI-ethics candidates.",
+        "B": "Adds Iberian thinkers and distinctions between history and argument.",
+        "P": "Provides public reception of Garces, Camps, Parfit and Singer."
+      },
+      "location": "Introduction and annotated selections, lines 65–86",
+      "limits": "Some bibliographic/anecdotal details need correction before reuse; English availability for Spanish titles unresolved."
+    },
+    {
+      "id": "R048",
+      "url": "https://www.philomag.de/artikel/10-klassiker-der-philosophie-je-einem-satz",
+      "title": "10 Klassiker der Philosophie – in je einem Satz",
+      "author": "Philomag Redaktion",
+      "publisher": "Philosophie Magazin",
+      "family": "editorial_selection",
+      "language": "de",
+      "date": "2023-06-06",
+      "note": "The German selection includes Foot, Weil, Shklar and Murdoch alongside Wittgenstein, Smith and Tocqueville. One-sentence explanations offer reception and candidate evidence only.",
+      "candidates": [
+        "Natural Goodness",
+        "Gravity and Grace",
+        "The Sovereignty of Good",
+        "The Theory of Moral Sentiments",
+        "Philippa Foot",
+        "Simone Weil",
+        "Iris Murdoch"
+      ],
+      "targets": {
+        "A": "Adds German editorial reception beyond the usual male-only canon.",
+        "N": "Identifies ethical and social nonfiction for deeper follow-up.",
+        "B": "Adds Foot and Murdoch as work candidates.",
+        "P": "Documents editorial visibility of women moral philosophers."
+      },
+      "location": "The ten annotated selections",
+      "limits": "Thin explanatory depth; selected essays and posthumous compilations need books-only identity review. German dates may be translation dates."
+    }
+  ]
+}

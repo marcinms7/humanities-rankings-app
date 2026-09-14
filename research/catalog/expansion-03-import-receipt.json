@@ -1,0 +1,806 @@
+{
+  "input_sha256": "381af2f9b08b29c9d17c3e059305991cd42178557752b065649828f9720c1acf",
+  "input_path": "research/catalog/expansion-03.json",
+  "records": [
+    {
+      "key": "scienceandcivilizationinchina-josephneedham",
+      "work_id": 201,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "goodbyetoallthat-robertgraves",
+      "work_id": 202,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "homagetocatalonia-georgeorwell",
+      "work_id": 203,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theautobiographyofmarktwain-marktwain",
+      "work_id": 204,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "childrenofcrisis-robertcoles",
+      "work_id": 205,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "astudyofhistory-arnoldjtoynbee",
+      "work_id": 206,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theaffluentsociety-johnkennethgalbraith",
+      "work_id": 207,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "presentatthecreation-deanacheson",
+      "work_id": 208,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thegreatbridge-davidmccullough",
+      "work_id": 209,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "patrioticgore-edmundwilson",
+      "work_id": 210,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "samueljohnson-walterjacksonbate",
+      "work_id": 211,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theautobiographyofmalcolmx-alexhaley",
+      "work_id": 212,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "therightstuff-tomwolfe",
+      "work_id": 213,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "eminentvictorians-lyttonstrachey",
+      "work_id": 214,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "working-studsterkel",
+      "work_id": 215,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "darknessvisible-williamstyron",
+      "work_id": 216,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theliberalimagination-lioneltrilling",
+      "work_id": 217,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thesecondworldwar-winstonchurchill",
+      "work_id": 218,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "outofafrica-karenblixen",
+      "work_id": 219,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "jeffersonandhistime-dumasmalone",
+      "work_id": 220,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "intheamericangrain-williamcarloswilliams",
+      "work_id": 221,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "cadillacdesert-marcreisner",
+      "work_id": 222,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thehouseofmorgan-ronchernow",
+      "work_id": 223,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thesweetscience-ajliebling",
+      "work_id": 224,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theopensocietyanditsenemies-karlpopper",
+      "work_id": 225,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theartofmemory-francesayates",
+      "work_id": 226,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "religionandtheriseofcapitalism-rhtawney",
+      "work_id": 227,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "aprefacetomorals-walterlippmann",
+      "work_id": 228,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thegateofheavenlypeace-jonathandspence",
+      "work_id": 229,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thestructureofscientificrevolutions-thomasskuhn",
+      "work_id": 230,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thestrangecareerofjimcrow-cvannwoodward",
+      "work_id": 231,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theriseofthewest-williamhmcneill",
+      "work_id": 232,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thegnosticgospels-elainepagels",
+      "work_id": 233,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "jamesjoyce-richardellmann",
+      "work_id": 234,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "florencenightingale-cecilwoodhamsmith",
+      "work_id": 235,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thegreatwarandmodernmemory-paulfussell",
+      "work_id": 236,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thecityinhistory-lewismumford",
+      "work_id": 237,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "battlecryoffreedom-jamesmmcpherson",
+      "work_id": 238,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "whywecantwait-martinlutherkingjr",
+      "work_id": 239,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theriseoftheodoreroosevelt-edmundmorris",
+      "work_id": 240,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "studiesiniconology-erwinpanofsky",
+      "work_id": 241,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thefaceofbattle-johnkeegan",
+      "work_id": 242,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thestrangedeathofliberalengland-georgedangerfield",
+      "work_id": 243,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "vermeer-lawrencegowing",
+      "work_id": 244,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "abrightshininglie-neilsheehan",
+      "work_id": 245,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "westwiththenight-berylmarkham",
+      "work_id": 246,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thisboyslife-tobiaswolff",
+      "work_id": 247,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "amathematiciansapology-ghhardy",
+      "work_id": 248,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "sixeasypieces-richardpfeynman",
+      "work_id": 249,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "pilgrimattinkercreek-anniedillard",
+      "work_id": 250,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thegoldenbough-jamesgeorgefrazer",
+      "work_id": 251,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "shadowandact-ralphellison",
+      "work_id": 252,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thepowerbroker-robertcaro",
+      "work_id": 253,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theamericanpoliticaltradition-richardhofstadter",
+      "work_id": 254,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thecontoursofamericanhistory-williamapplemanwilliams",
+      "work_id": 255,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thepromiseofamericanlife-herbertcroly",
+      "work_id": 256,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "incoldblood-trumancapote",
+      "work_id": 257,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thejournalistandthemurderer-janetmalcolm",
+      "work_id": 258,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thetamingofchance-ianhacking",
+      "work_id": 259,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "operatinginstructions-annelamott",
+      "work_id": 260,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "melbourne-lorddavidcecil",
+      "work_id": 261,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "alicesadventuresinwonderland-lewiscarroll",
+      "work_id": 262,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "adventuresofhuckleberryfinn-marktwain",
+      "work_id": 263,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theadventuresoftomsawyer-marktwain",
+      "work_id": 264,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "treasureisland-robertlouisstevenson",
+      "work_id": 265,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "wutheringheights-emilybronte",
+      "work_id": 266,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "janeeyre-charlottebronte",
+      "work_id": 267,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thescarletletter-nathanielhawthorne",
+      "work_id": 268,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "gulliverstravels-jonathanswift",
+      "work_id": 269,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thepilgrimsprogress-johnbunyan",
+      "work_id": 270,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "achristmascarol-charlesdickens",
+      "work_id": 271,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "davidcopperfield-charlesdickens",
+      "work_id": 272,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "ataleoftwocities-charlesdickens",
+      "work_id": 273,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "littlewomen-louisamayalcott",
+      "work_id": 274,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "greatexpectations-charlesdickens",
+      "work_id": 275,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thehobbit-jrrtolkien",
+      "work_id": 276,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "frankenstein-maryshelley",
+      "work_id": 277,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "olivertwist-charlesdickens",
+      "work_id": 278,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "uncletomscabin-harrietbeecherstowe",
+      "work_id": 279,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "crimeandpunishment-fyodordostoevsky",
+      "work_id": 280,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "madamebovary-gustaveflaubert",
+      "work_id": 281,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "dracula-bramstoker",
+      "work_id": 282,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thethreemusketeers-alexandredumas",
+      "work_id": 283,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "tokillamockingbird-harperlee",
+      "work_id": 284,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thewizardofoz-lfrankbaum",
+      "work_id": 285,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "lesmiserables-victorhugo",
+      "work_id": 286,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thesecretgarden-franceshodgsonburnett",
+      "work_id": 287,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thelittleprince-antoinedesaintexupery",
+      "work_id": 288,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "20000leaguesunderthesea-julesverne",
+      "work_id": 289,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "annakarenina-leotolstoy",
+      "work_id": 290,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thewindinthewillows-kennethgrahame",
+      "work_id": 291,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thepictureofdoriangray-oscarwilde",
+      "work_id": 292,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "senseandsensibility-janeausten",
+      "work_id": 293,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thelastofthemohicans-jamesfenimorecooper",
+      "work_id": 294,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "tessofthedurbervilles-thomashardy",
+      "work_id": 295,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "harrypotterandthesorcerersstone-jkrowling",
+      "work_id": 296,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "heidi-johannaspyri",
+      "work_id": 297,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thecountofmontecristo-alexandredumas",
+      "work_id": 298,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theoldmanandthesea-ernesthemingway",
+      "work_id": 299,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thelionthewitchandthewardrobe-cslewis",
+      "work_id": 300,
+      "edition_id": null,
+      "created_work": true,
+      "created_edition": false,
+      "metadata_status": "edition_and_media_pending"
+    }
+  ]
+}

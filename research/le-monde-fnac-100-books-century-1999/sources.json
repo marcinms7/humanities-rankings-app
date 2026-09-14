@@ -1,0 +1,43 @@
+{
+  "target_id": "le-monde-fnac-100-books-century-1999",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.lemonde.fr/archives/article/1999/10/15/cent-disques-cent-films-et-cent-livres-pour-un-siecle_3570803_1819218.html",
+      "title": "Le Monde/Fnac · 100 Books of the Century (1999) — result publication",
+      "canonical_url": "https://www.lemonde.fr/archives/article/1999/10/15/cent-disques-cent-films-et-cent-livres-pour-un-siecle_3570803_1819218.html",
+      "source_family": "public_poll",
+      "publisher": "Le Monde and Fnac",
+      "target_ids": [
+        "le-monde-fnac-100-books-century-1999"
+      ],
+      "relevance_by_target": {
+        "le-monde-fnac-100-books-century-1999": "All 100 positions from the 1999 poll of 17,000 French respondents, from a 200-title shortlist."
+      },
+      "evidence_notes": "All 100 positions from the 1999 poll of 17,000 French respondents, from a 200-title shortlist.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "French public-memory poll from a publisher/journalist shortlist; the list includes several multi-volume or non-novel works."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "published-list:https://en.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century",
+      "title": "Le Monde/Fnac · 100 Books of the Century (1999) — transcription/data mirror",
+      "canonical_url": "https://en.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century",
+      "source_family": "list_transcription",
+      "publisher": "Le Monde and Fnac",
+      "target_ids": [
+        "le-monde-fnac-100-books-century-1999"
+      ],
+      "relevance_by_target": {
+        "le-monde-fnac-100-books-century-1999": "Row-level transcription used to preserve and cross-check the complete order."
+      },
+      "evidence_notes": "Row-level transcription used to preserve and cross-check the complete order.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Mirror of the same list; not counted as independent opinion evidence."
+    }
+  ]
+}

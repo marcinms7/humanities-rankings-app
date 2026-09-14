@@ -1,0 +1,541 @@
+{
+  "target_id": "nonfiction-all-time",
+  "version": "2026-09-12-two-lenses-v1",
+  "status": "partial_editorial_proposal_not_published",
+  "methodology": "../DRAFT_METHOD.md",
+  "owner_direction": "Show both orderings to expose the tradeoffs",
+  "intended_final_length": "100–200",
+  "pilot_candidate_count": 25,
+  "eligible_sources_in_target": 103,
+  "comparison_universe": "the same selected 25 candidates in each lens; not an exhaustive global comparison",
+  "coverage_gaps": "This first shortlist still overrepresents philosophy and political thought. Expand science, history, economics, travel, memoir, art criticism and biography before calling the list all-subjects representative. Carson and Darwin now have direct supporting material; Levi, Douglass, Bloch and Trouillot need substantially more candidate-specific criticism. Philosophy can qualify as nonfiction, but must not crowd out the rest by default.",
+  "tradeoffs": [
+    "Annihilation of Caste moves from 15 to 3: the recorded comparative praise for argumentative coherence receives greater importance.",
+    "On the Origin of Species moves from 1 to 24: a historical scientific landmark need not be the highest-priority book for a reader seeking insight now.",
+    "If This Is a Man moves from 18 to 2. That is an editorial hypothesis about testimony, supported by a particularly thin dossier that needs immediate strengthening."
+  ],
+  "candidates": [
+    {
+      "candidate_id": "darwin",
+      "name": "On the Origin of Species",
+      "creator": "Charles Darwin",
+      "item_type": "work",
+      "standing_position_draft": 1,
+      "reading_position_draft": 24,
+      "reading_movement_up": -23,
+      "source_ids": [
+        "R174"
+      ],
+      "standing_argument_proposed": "A major scientific argument warrants an upper provisional position.",
+      "reading_argument_proposed": "Historical reasoning remains instructive; current science needs other books.",
+      "uncertainty": "Primary text alone cannot establish its comparative reception.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "historical_English_edition_verified",
+      "edition_evidence": {
+        "source_id": "R174",
+        "publisher": "John Murray",
+        "year": 1859,
+        "edition": "first edition",
+        "access": "complete hosted transcription; introduction consulted",
+        "purchase_availability": "not_checked"
+      }
+    },
+    {
+      "candidate_id": "muqaddimah",
+      "name": "Muqaddimah",
+      "creator": "Ibn Khaldūn",
+      "item_type": "work",
+      "standing_position_draft": 2,
+      "reading_position_draft": 21,
+      "reading_movement_up": -19,
+      "source_ids": [
+        "R150",
+        "R151"
+      ],
+      "standing_argument_proposed": "Historiographical scope supports early consideration across subjects.",
+      "reading_argument_proposed": "Historical distance and scale make reading priority more conditional.",
+      "uncertainty": "Composition sequence and relation to Kitāb al-ʿIbar require accurate mapping.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "republic",
+      "name": "Republic",
+      "creator": "Plato",
+      "item_type": "work",
+      "standing_position_draft": 3,
+      "reading_position_draft": 14,
+      "reading_movement_up": -11,
+      "source_ids": [
+        "S19",
+        "R028"
+      ],
+      "standing_argument_proposed": "Scholarly and cross-tradition selections converge on its foundational standing.",
+      "reading_argument_proposed": "Its argumentative encounters keep it near the front of both orders.",
+      "uncertainty": "Historical influence does not endorse its political prescriptions.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "ethicsar",
+      "name": "Nicomachean Ethics",
+      "creator": "Aristotle",
+      "item_type": "work",
+      "standing_position_draft": 4,
+      "reading_position_draft": 16,
+      "reading_movement_up": -12,
+      "source_ids": [
+        "R002",
+        "S03"
+      ],
+      "standing_argument_proposed": "Broad corpus and curricular reception support its enduring position.",
+      "reading_argument_proposed": "Practical ethical inquiry supports a high reading priority.",
+      "uncertainty": "Curriculum inclusion is not a merit vote.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "critique",
+      "name": "Critique of Pure Reason",
+      "creator": "Immanuel Kant",
+      "item_type": "work",
+      "standing_position_draft": 5,
+      "reading_position_draft": 25,
+      "reading_movement_up": -20,
+      "source_ids": [
+        "S23",
+        "R029"
+      ],
+      "standing_argument_proposed": "Strong scholarly reception supports a leading historical position.",
+      "reading_argument_proposed": "Move down for demanding prerequisites; intellectual value remains high.",
+      "uncertainty": "Difficulty assessment needs edition-specific reading evidence.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "secondsex",
+      "name": "The Second Sex",
+      "creator": "Simone de Beauvoir",
+      "item_type": "work",
+      "standing_position_draft": 6,
+      "reading_position_draft": 6,
+      "reading_movement_up": 0,
+      "source_ids": [
+        "R017"
+      ],
+      "standing_argument_proposed": "Original philosophical contribution and feminist reception support high standing.",
+      "reading_argument_proposed": "Proposed rise reflects continuing conceptual and experiential engagement.",
+      "uncertainty": "Primary-book and translation comparison remain incomplete.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "souls",
+      "name": "The Souls of Black Folk",
+      "creator": "W. E. B. Du Bois",
+      "item_type": "work",
+      "standing_position_draft": 7,
+      "reading_position_draft": 1,
+      "reading_movement_up": 6,
+      "source_ids": [
+        "S18"
+      ],
+      "standing_argument_proposed": "Intellectual and social reception supports upper-group inclusion.",
+      "reading_argument_proposed": "The conjunction of argument and experience motivates a high reading position.",
+      "uncertainty": "More direct literary and historical criticism needed.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "origins",
+      "name": "The Origins of Totalitarianism",
+      "creator": "Hannah Arendt",
+      "item_type": "work",
+      "standing_position_draft": 8,
+      "reading_position_draft": 17,
+      "reading_movement_up": -9,
+      "source_ids": [
+        "R018"
+      ],
+      "standing_argument_proposed": "Academic and public impact warrants a high historical position.",
+      "reading_argument_proposed": "Political inquiry sustains reading value despite a large undertaking.",
+      "uncertainty": "Book-specific historical objections need fuller treatment.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "justice",
+      "name": "A Theory of Justice",
+      "creator": "John Rawls",
+      "item_type": "work",
+      "standing_position_draft": 9,
+      "reading_position_draft": 20,
+      "reading_movement_up": -11,
+      "source_ids": [
+        "R043",
+        "R083"
+      ],
+      "standing_argument_proposed": "International institutional reception sustains historical significance.",
+      "reading_argument_proposed": "Detailed system is placed after more direct entry points.",
+      "uncertainty": "Political readings differ across national reception contexts.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "spinoza",
+      "name": "Ethics",
+      "creator": "Baruch Spinoza",
+      "item_type": "work",
+      "standing_position_draft": 10,
+      "reading_position_draft": 22,
+      "reading_movement_up": -12,
+      "source_ids": [
+        "R021",
+        "R044",
+        "R086"
+      ],
+      "standing_argument_proposed": "Metaphysical and ethical reception sustains its historical case.",
+      "reading_argument_proposed": "Passions and happiness reward close reading; system imposes demands.",
+      "uncertainty": "Enthusiastic reader transformation does not prove general accessibility.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "wretched",
+      "name": "The Wretched of the Earth",
+      "creator": "Frantz Fanon",
+      "item_type": "work",
+      "standing_position_draft": 11,
+      "reading_position_draft": 23,
+      "reading_movement_up": -12,
+      "source_ids": [
+        "R024"
+      ],
+      "standing_argument_proposed": "Liberation thought supports its high historical consideration.",
+      "reading_argument_proposed": "Place below Black Skin for this proposed first-encounter emphasis.",
+      "uncertainty": "Independent debate over violence and reception is still needed.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "silent",
+      "name": "Silent Spring",
+      "creator": "Rachel Carson",
+      "item_type": "work",
+      "standing_position_draft": 12,
+      "reading_position_draft": 4,
+      "reading_movement_up": 8,
+      "source_ids": [
+        "R175",
+        "R176"
+      ],
+      "standing_argument_proposed": "Public scientific synthesis and environmental reception support high standing.",
+      "reading_argument_proposed": "Argument for ecological attention lifts reading priority.",
+      "uncertainty": "Wilson qualifies attribution of wider change to this book alone.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "liberty",
+      "name": "On Liberty",
+      "creator": "John Stuart Mill",
+      "item_type": "work",
+      "standing_position_draft": 13,
+      "reading_position_draft": 7,
+      "reading_movement_up": 6,
+      "source_ids": [
+        "S19",
+        "R157"
+      ],
+      "standing_argument_proposed": "Canonical selection and direct argument support inclusion.",
+      "reading_argument_proposed": "Compact debate about dissent raises proposed reading priority.",
+      "uncertainty": "Universal-sounding language coexists with colonial exclusions.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "blackskin",
+      "name": "Black Skin, White Masks",
+      "creator": "Frantz Fanon",
+      "item_type": "work",
+      "standing_position_draft": 14,
+      "reading_position_draft": 8,
+      "reading_movement_up": 6,
+      "source_ids": [
+        "R024"
+      ],
+      "standing_argument_proposed": "Africana philosophical significance supports strong inclusion.",
+      "reading_argument_proposed": "Lived alienation and anti-racist inquiry raise its proposed reading place.",
+      "uncertainty": "Needs more independent work-specific disagreement.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "caste",
+      "name": "Annihilation of Caste",
+      "creator": "B. R. Ambedkar",
+      "item_type": "work",
+      "standing_position_draft": 15,
+      "reading_position_draft": 3,
+      "reading_movement_up": 12,
+      "source_ids": [
+        "R073",
+        "R074"
+      ],
+      "standing_argument_proposed": "Anti-caste argument and comparative Indian reception support inclusion.",
+      "reading_argument_proposed": "Coherent argument and continuing social questions motivate a large rise.",
+      "uncertainty": "A published book-length address, not an invented essay collection.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "enquiry",
+      "name": "An Enquiry concerning Human Understanding",
+      "creator": "David Hume",
+      "item_type": "work",
+      "standing_position_draft": 16,
+      "reading_position_draft": 13,
+      "reading_movement_up": 3,
+      "source_ids": [
+        "R020",
+        "R158",
+        "S19"
+      ],
+      "standing_argument_proposed": "Canonical reception and primary argument sustain its standing.",
+      "reading_argument_proposed": "Concise treatment of habit and inference places it ahead of the Treatise.",
+      "uncertainty": "Philosophical revision prevents treating it as a simple shorter substitute.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "peru",
+      "name": "Seven Interpretive Essays on Peruvian Reality",
+      "creator": "José Carlos Mariátegui",
+      "item_type": "work",
+      "standing_position_draft": 17,
+      "reading_position_draft": 18,
+      "reading_movement_up": -1,
+      "source_ids": [
+        "R144",
+        "R145"
+      ],
+      "standing_argument_proposed": "Latin American intellectual debate supports historical consideration.",
+      "reading_argument_proposed": "Context-specific analysis provides a counterpoint to abstract political systems.",
+      "uncertainty": "Consulted articles partly mediate the book through later interpreters.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "levi",
+      "name": "If This Is a Man",
+      "creator": "Primo Levi",
+      "item_type": "work",
+      "standing_position_draft": 18,
+      "reading_position_draft": 2,
+      "reading_movement_up": 16,
+      "source_ids": [
+        "R177"
+      ],
+      "standing_argument_proposed": "Testimony and reflection on dignity warrant serious inclusion.",
+      "reading_argument_proposed": "Proposed high priority emphasizes ethical encounter.",
+      "uncertainty": "Only a narrow profile excerpt supports this first dossier.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "craft",
+      "name": "The Historian’s Craft",
+      "creator": "Marc Bloch",
+      "item_type": "work",
+      "standing_position_draft": 19,
+      "reading_position_draft": 10,
+      "reading_movement_up": 9,
+      "source_ids": [
+        "S33"
+      ],
+      "standing_argument_proposed": "Historical-method reception supports inclusion.",
+      "reading_argument_proposed": "Explicit orientation toward a broad audience raises reading priority.",
+      "uncertainty": "Unfinished work published posthumously; do not imply author-completed text.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "douglass",
+      "name": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "creator": "Frederick Douglass",
+      "item_type": "work",
+      "standing_position_draft": 20,
+      "reading_position_draft": 5,
+      "reading_movement_up": 15,
+      "source_ids": [
+        "S21"
+      ],
+      "standing_argument_proposed": "Classic nonfiction selection supports the candidate’s inclusion.",
+      "reading_argument_proposed": "Testimonial encounter motivates a high provisional reading place.",
+      "uncertainty": "Direct scholarly and reader criticism still needed.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "silencing",
+      "name": "Silencing the Past",
+      "creator": "Michel-Rolph Trouillot",
+      "item_type": "work",
+      "standing_position_draft": 21,
+      "reading_position_draft": 9,
+      "reading_movement_up": 12,
+      "source_ids": [
+        "S33"
+      ],
+      "standing_argument_proposed": "Member recommendation supplies an initial historical-method case.",
+      "reading_argument_proposed": "Power and historical narration motivate an earlier reading position.",
+      "uncertainty": "One selective recommendation cannot settle comparative standing.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "fallingsky",
+      "name": "The Falling Sky",
+      "creator": "Davi Kopenawa and Bruce Albert",
+      "item_type": "work",
+      "standing_position_draft": 22,
+      "reading_position_draft": 11,
+      "reading_movement_up": 11,
+      "source_ids": [
+        "R085"
+      ],
+      "standing_argument_proposed": "Amazonian thought broadens the candidate universe beyond inherited canons.",
+      "reading_argument_proposed": "Proposed high placement tests the value of encountering different knowledge traditions.",
+      "uncertainty": "Coauthorship, translation and book-specific reception need fuller verification.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "injustice",
+      "name": "Epistemic Injustice",
+      "creator": "Miranda Fricker",
+      "item_type": "work",
+      "standing_position_draft": 23,
+      "reading_position_draft": 12,
+      "reading_movement_up": 11,
+      "source_ids": [
+        "R034",
+        "R143"
+      ],
+      "standing_argument_proposed": "Two contrasting reviews support serious contemporary consideration.",
+      "reading_argument_proposed": "Conceptual tools for understanding exclusion motivate a substantial rise.",
+      "uncertainty": "Normative scope and individual remedies are contested.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "worldmaking",
+      "name": "Worldmaking After Empire",
+      "creator": "Adom Getatchew",
+      "item_type": "work",
+      "standing_position_draft": 24,
+      "reading_position_draft": 15,
+      "reading_movement_up": 9,
+      "source_ids": [
+        "R148"
+      ],
+      "standing_argument_proposed": "Research on postcolonial political projects expands the historical comparison.",
+      "reading_argument_proposed": "Proposed rise tests its explanatory value for contemporary readers.",
+      "uncertainty": "Recent work; enduring reception cannot yet be established.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "classics",
+      "name": "Why Read the Classics?",
+      "creator": "Italo Calvino",
+      "item_type": "work",
+      "standing_position_draft": 25,
+      "reading_position_draft": 19,
+      "reading_movement_up": 6,
+      "source_ids": [
+        "S31"
+      ],
+      "standing_argument_proposed": "Critical reflection on canon and rereading supports the collected book.",
+      "reading_argument_proposed": "Proposed priority rewards reflection on the reading activity itself.",
+      "uncertainty": "Consulted title essay cannot stand for a review of the entire collection.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    }
+  ]
+}

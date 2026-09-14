@@ -1,0 +1,1036 @@
+{
+  "revision": "study-tools-v1",
+  "sources": [
+    {
+      "id": "wilson",
+      "title": "Emily Wilson · The Odyssey",
+      "url": "https://www.emilyrcwilson.com/the-odyssey",
+      "access": "Translator page read",
+      "evidence": "Confirms verse translation and the Norton Critical Edition’s notes, summaries and contextual essays.",
+      "limitations": "Publisher/translator description, not comparative proof of superiority.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "greek-ou",
+      "title": "OpenLearn · Getting started on ancient Greek",
+      "url": "https://www.open.edu/openlearn/history-the-arts/getting-started-on-ancient-greek/content-section-0",
+      "access": "Course outline read",
+      "evidence": "Eight sessions cover reading, sounds, writing, words, endings, sentence patterns and review.",
+      "limitations": "Introductory taster, not an independent-reading qualification.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "latin-ou",
+      "title": "OpenLearn · Getting started on classical Latin",
+      "url": "https://www.open.edu/openlearn/history-the-arts/getting-started-on-classical-latin/content-section-0",
+      "access": "Course page read",
+      "evidence": "Introductory Latin learning resource.",
+      "limitations": "External learning content; no enrolment or marking arranged.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "greek-guide",
+      "title": "Cambridge · An Independent Study Guide to Reading Greek",
+      "url": "https://www.cambridge.org/highereducation/books/an-independent-study-guide-to-reading-greek/1EB9148288707871EC64E8109DFFD1BC",
+      "access": "Publisher description read",
+      "evidence": "Second-edition companion supplies translations and exercise answers for self-study.",
+      "limitations": "The textbook itself was not read; purchase/library access needed.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "latin-reader",
+      "title": "Hackett · Familia Romana",
+      "url": "https://hackettpublishing.com/lingua-latina-per-se-illustrata-series/familia-romana-part-i/lingua-latina-pars-i-familia-romana-full-color-edition",
+      "access": "Indexed publisher description only",
+      "evidence": "Identifies the graded Latin reader with 35 chapters.",
+      "limitations": "Full page access failed; bibliographic lead, not consulted textbook evidence.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "plato-edition",
+      "title": "Hackett · Five Dialogues",
+      "url": "https://hackettpublishing.com/five-dialogues",
+      "access": "Indexed publisher description only",
+      "evidence": "Identifies Grube translations revised by Cooper.",
+      "limitations": "403 on direct access; labelled a bibliographic lead.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "vocab",
+      "title": "Dickinson · Core Vocabulary",
+      "url": "https://dcc.dickinson.edu/vocab/core-vocabulary",
+      "access": "Resource explanation read",
+      "evidence": "Latin and Greek core lists with frequency basis and limits; supports vocabulary review.",
+      "limitations": "Corpus frequency is not proficiency certification.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "latin-grammar",
+      "title": "Dickinson · Allen and Greenough: Alphabet",
+      "url": "https://dcc.dickinson.edu/grammar/latin/alphabet",
+      "access": "Grammar section read",
+      "evidence": "Explains Latin alphabet and editorial I/V/U conventions.",
+      "limitations": "Historical reference grammar, not a graded course.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "aeneid-dcc",
+      "title": "Dickinson · Aeneid 1.1–11",
+      "url": "https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-i-1-11",
+      "access": "Passage page read",
+      "evidence": "Latin passage with commentary for guided advanced reading.",
+      "limitations": "Requires grammar preparation; not beginner material.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "iliad-text",
+      "title": "MIT Internet Classics Archive · Iliad",
+      "url": "https://classics.mit.edu/Homer/iliad.html",
+      "access": "Edition index read",
+      "evidence": "Identifies Samuel Butler translation and book divisions.",
+      "limitations": "Older translation; index does not establish exact composition year.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "apology-text",
+      "title": "MIT Internet Classics Archive · Apology",
+      "url": "https://classics.mit.edu/Plato/apology.html",
+      "access": "Text consulted",
+      "evidence": "Jowett translation supports a short argument-analysis activity.",
+      "limitations": "Older diction; detailed citation numbering should be checked in an annotated edition.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "aeneid-text",
+      "title": "MIT Internet Classics Archive · Aeneid",
+      "url": "https://classics.mit.edu/Virgil/aeneid.html",
+      "access": "Edition index read",
+      "evidence": "Free older English translation with book divisions.",
+      "limitations": "Not a substitute for modern commentary.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "caesar-text",
+      "title": "Folger · Julius Caesar",
+      "url": "https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/",
+      "access": "Text page consulted",
+      "evidence": "Act and scene organisation supports rhetorical close reading.",
+      "limitations": "Early modern reception, not evidence directly from republican Rome.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "dante-text",
+      "title": "Columbia · Digital Dante",
+      "url": "https://digitaldante.columbia.edu/dante/divine-comedy/",
+      "access": "Blocked; retained from owner handoff",
+      "evidence": "Existing syllabus points to parallel text and commentary.",
+      "limitations": "Current access denied; previous handoff description not freshly confirmed.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "archaic",
+      "title": "The Met · Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "access": "Museum essay read",
+      "evidence": "Context for Archaic art and cultural development.",
+      "limitations": "Broad overview; dates are approximate period conventions.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "republic",
+      "title": "The Met · The Roman Republic",
+      "url": "https://www.metmuseum.org/essays/the-roman-republic",
+      "access": "Museum essay read",
+      "evidence": "Republican institutions and traditional 509 BCE starting date.",
+      "limitations": "Traditional chronological boundary is distinguished from secure event evidence.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "kouros",
+      "title": "The Met · Marble statue of a kouros",
+      "url": "https://www.metmuseum.org/art/collection/search/253370",
+      "access": "Object page and API read",
+      "evidence": "Attic marble funerary figure, ca. 590–580 BCE, accession 32.11.1; public-domain image.",
+      "limitations": "Museum provenance and interpretive account; observation alone cannot establish social identity.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "boscoreale",
+      "title": "The Met · Cubiculum from Boscoreale",
+      "url": "https://www.metmuseum.org/art/collection/search/247017",
+      "access": "Object page read",
+      "evidence": "Fresco room dated ca. 50–40 BCE; villa buried in 79 CE.",
+      "limitations": "Modern museum installation must be distinguished from original domestic setting.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "parthenon",
+      "title": "Acropolis Museum · Parthenon Gallery",
+      "url": "https://www.theacropolismuseum.gr/en/exhibit-halls/parthenon-gallery",
+      "access": "Museum page read",
+      "evidence": "Building programme begun 447 BCE; architectural and sculptural context.",
+      "limitations": "Gallery arrangement is modern; images not copied without a confirmed licence.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "met-rights",
+      "title": "The Met · Open Access",
+      "url": "https://www.metmuseum.org/hubs/open-access",
+      "access": "Policy page read",
+      "evidence": "Open Access permits reuse of designated public-domain images.",
+      "limitations": "Permission applies only to designated images, not all website material.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "wilson-review",
+      "title": "Corinne Pache · Review of Emily Wilson’s Odyssey",
+      "url": "https://bmcr.brynmawr.edu/2018/2018.10.58/",
+      "access": "Independent scholarly review read",
+      "evidence": "Praises readability and apparatus while questioning some diction and interpretive choices.",
+      "limitations": "One critic’s assessment; supports comparison, not universal superiority.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "herodotus-landmark",
+      "title": "Penguin Random House · The Landmark Herodotus",
+      "url": "https://penguinrandomhousesecondaryeducation.com/book/?isbn=9781400031146",
+      "access": "Publisher description and contents read",
+      "evidence": "Confirms Andrea L. Purvis translation, Robert B. Strassler’s editing, maps and scholarly appendices.",
+      "limitations": "Bibliographic and apparatus evidence; promotional superlatives are not adopted.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "age-open",
+      "title": "Major and Laughy · Ancient Greek for Everyone",
+      "url": "https://pressbooks.pub/ancientgreek/",
+      "access": "Open textbook contents read",
+      "evidence": "A freely accessible progression through morphology and syntax.",
+      "limitations": "Only selected chapters inspected; no claim to have audited the entire textbook or its feedback provision.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "age-nouns",
+      "title": "Ancient Greek for Everyone · Third Declension Nouns: Part I",
+      "url": "https://pressbooks.pub/ancientgreek/chapter/7/",
+      "access": "Textbook chapter read",
+      "evidence": "Introduces parsing nouns by gender, number and case, with paradigms and practice.",
+      "limitations": "Same textbook as age-open; not an independent endorsement or a complete grammar course.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "age-order",
+      "title": "Ancient Greek for Everyone · Greek Word Order",
+      "url": "https://pressbooks.pub/ancientgreek/chapter/8/",
+      "access": "Textbook chapter read",
+      "evidence": "Supports practice linking noun endings and sentence roles.",
+      "limitations": "Same textbook as age-open; this practice does not establish fluent authentic-text reading.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "hydria",
+      "title": "The Met · Hydria attributed to the Berlin Painter",
+      "url": "https://www.metmuseum.org/art/collection/search/248307",
+      "access": "Museum object record and image metadata read",
+      "evidence": "Attic red-figure water jar, ca. 500 BCE, with Achilles and Penthesilea; accession 10.210.19.",
+      "limitations": "Artist attribution is qualified; the myth’s interpretation is distinct from what is visible in the image.",
+      "checked": "2026-09-14"
+    },
+    {
+      "id": "chadwick-lead",
+      "title": "Oxford University Press · Confessions, Henry Chadwick",
+      "url": "https://www.oup.com.au/books/general-interest/religious-education/9780199537822",
+      "access": "Indexed publisher description only",
+      "evidence": "Identifies Chadwick’s translation with introduction and notes.",
+      "limitations": "Direct page retrieval failed. Retained as a bibliographic lead, not a checked edition recommendation.",
+      "checked": "2026-09-14"
+    }
+  ],
+  "editions": [
+    {
+      "id": "odyssey-wilson",
+      "title": "Odyssey · Emily Wilson",
+      "modules": [
+        "odyssey"
+      ],
+      "format": "Modern English verse · library or purchase",
+      "use": "Start with the Norton Library edition for reading; choose the Norton Critical Edition when you want contextual texts and critical essays alongside the translation.",
+      "caveat": "Pache’s independent review praises readability and notes but questions some modern diction and the narrowing of ambiguity. Compare a passage before choosing: this is a strong option, not an uncontested best translation.",
+      "sources": [
+        "wilson",
+        "wilson-review"
+      ]
+    },
+    {
+      "id": "iliad-butler",
+      "title": "Iliad · Samuel Butler",
+      "modules": [
+        "iliad"
+      ],
+      "format": "Free older English prose",
+      "use": "Useful for accessing the assigned books and comparing how prose handles an epic scene. For close study, pair it with an annotated modern translation that retains Greek line references.",
+      "caveat": "Older diction and prose presentation change the experience of the poem. The website’s precise composition date should not be treated as settled.",
+      "sources": [
+        "iliad-text"
+      ]
+    },
+    {
+      "id": "plato-five",
+      "title": "Plato · Five Dialogues",
+      "modules": [
+        "socrates"
+      ],
+      "format": "G. M. A. Grube, revised by John M. Cooper · library or purchase",
+      "use": "A compact candidate for the Socrates module; check the second-edition contents and Stephanus references against your assignment before obtaining a copy.",
+      "caveat": "Publisher metadata was indexed, but direct access returned 403. Bibliographic lead; this copy has not been inspected.",
+      "sources": [
+        "plato-edition"
+      ]
+    },
+    {
+      "id": "plato-jowett",
+      "title": "Apology · Benjamin Jowett",
+      "modules": [
+        "socrates"
+      ],
+      "format": "Free older English translation",
+      "use": "Use for the first read and for comparing the opening defence with a modern translation. Keep an annotated edition with Stephanus numbers nearby for precise references.",
+      "caveat": "The linked text does not provide the same apparatus as a classroom edition.",
+      "sources": [
+        "apology-text"
+      ]
+    },
+    {
+      "id": "virgil-dryden",
+      "title": "Aeneid · English reading and Latin commentary",
+      "modules": [
+        "aeneid"
+      ],
+      "format": "John Dryden’s older verse translation; Dickinson Latin commentary",
+      "use": "Read the assigned books in English; if you have studied Latin grammar, compare 1.1–11 with Dickinson’s text and notes.",
+      "caveat": "Dryden is a historically distinctive English adaptation. Dickinson is language support, not a complete English translation.",
+      "sources": [
+        "aeneid-text",
+        "aeneid-dcc"
+      ]
+    },
+    {
+      "id": "caesar-folger",
+      "title": "Julius Caesar · Folger edition",
+      "modules": [
+        "shakespeare"
+      ],
+      "format": "Free English text",
+      "use": "Use act, scene and line references to study speeches and performance. Read Act 3, scene 2 aloud before writing the module’s response.",
+      "caveat": "Shakespeare is a later reception text; do not use it as a direct transcript of Roman politics.",
+      "sources": [
+        "caesar-text"
+      ]
+    },
+    {
+      "id": "dante-columbia",
+      "title": "Divine Comedy · Digital Dante",
+      "modules": [
+        "dante"
+      ],
+      "format": "Online parallel-text and commentary resource from the handoff",
+      "use": "The existing syllabus recommends this for canto-by-canto study; if inaccessible, use an annotated library edition preserving canto and line numbers.",
+      "caveat": "Direct access is currently blocked to this research tool. The resource description is retained from the handoff, not freshly confirmed.",
+      "sources": [
+        "dante-text"
+      ]
+    },
+    {
+      "id": "herodotus-landmark",
+      "title": "Herodotus · The Landmark edition",
+      "modules": [
+        "herodotus"
+      ],
+      "format": "Andrea L. Purvis translation · edited by Robert B. Strassler · library or purchase",
+      "use": "A practical option when geography and changes of scene make the Histories difficult to follow. Use its maps and dated outline alongside the assigned selections; consult relevant appendices after your first reading.",
+      "caveat": "The recommendation is based on the publisher’s documented contents, not a full comparative translation audit. Do not adopt its promotional claims about the beginnings of historical writing.",
+      "sources": [
+        "herodotus-landmark"
+      ]
+    },
+    {
+      "id": "greek-free-textbook",
+      "title": "Ancient Greek for Everyone · free grammar companion",
+      "modules": [
+        "socrates",
+        "iliad"
+      ],
+      "format": "Open textbook · Wilfred E. Major and Michael Laughy",
+      "use": "Use as an accessible explanation and practice reference alongside your Greek route. Begin with the earlier chapters before the noun and word-order tasks linked below.",
+      "caveat": "This is a supporting textbook, not a translation of the syllabus. Selected chapters have been inspected; teacher feedback is not included.",
+      "sources": [
+        "age-open",
+        "age-nouns",
+        "age-order"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "archaic-context",
+      "year": -700,
+      "date": "7th–6th centuries BCE",
+      "title": "Archaic Greek art and Mediterranean exchange",
+      "kind": "Historical context",
+      "description": "Greek artists adapt techniques and motifs through contact with Egypt and the Near East. Read the early poetry alongside material evidence.",
+      "modules": [
+        "iliad",
+        "odyssey",
+        "hesiod"
+      ],
+      "sources": [
+        "archaic"
+      ]
+    },
+    {
+      "id": "republic-start",
+      "year": -509,
+      "date": "509 BCE (traditional date)",
+      "title": "Traditional beginning of the Roman Republic",
+      "kind": "Historical event",
+      "description": "A conventional starting point for republican government. Livy’s account belongs to a much later composition context.",
+      "modules": [
+        "republic-history"
+      ],
+      "sources": [
+        "republic"
+      ]
+    },
+    {
+      "id": "parthenon-build",
+      "year": -447,
+      "date": "447–432 BCE",
+      "title": "Parthenon building programme",
+      "kind": "Historical event",
+      "description": "Architecture, sculpture and imperial resources intersect in fifth-century Athens.",
+      "modules": [
+        "tragedy",
+        "thucydides"
+      ],
+      "sources": [
+        "parthenon"
+      ]
+    },
+    {
+      "id": "boscoreale-made",
+      "year": -50,
+      "date": "c. 50–40 BCE",
+      "title": "Boscoreale bedroom frescoes",
+      "kind": "Object creation",
+      "description": "Painted architectural vistas offer evidence for elite domestic space.",
+      "modules": [
+        "republic-history",
+        "cicero"
+      ],
+      "sources": [
+        "boscoreale"
+      ]
+    },
+    {
+      "id": "vesuvius",
+      "year": 79,
+      "date": "79 CE",
+      "title": "Burial of the Boscoreale villa",
+      "kind": "Historical event",
+      "description": "The eruption’s date differs from the earlier date of the frescoes; their museum display is a further, modern context.",
+      "modules": [
+        "empire"
+      ],
+      "sources": [
+        "boscoreale"
+      ]
+    },
+    {
+      "id": "hydria-made",
+      "year": -500,
+      "date": "c. 500 BCE",
+      "title": "Achilles and Penthesilea on an Attic water jar",
+      "kind": "Object creation",
+      "description": "The object’s production date is distinct from the legendary setting of the scene it represents.",
+      "modules": [
+        "iliad"
+      ],
+      "sources": [
+        "hydria"
+      ]
+    }
+  ],
+  "language": [
+    {
+      "id": "greek-1",
+      "language": "Greek",
+      "title": "Alphabet",
+      "scope": "OpenLearn Greek, Session 1",
+      "task": "Write the alphabet from memory, then check the letter guide and record the letters you confused.",
+      "level": "Introduction",
+      "sources": [
+        "greek-ou"
+      ],
+      "modules": [
+        "socrates",
+        "iliad"
+      ],
+      "rubric": [
+        "Complete the provider activities and check available feedback.",
+        "Record a concrete example and one correction."
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "greek-2",
+      "language": "Greek",
+      "title": "Sounds",
+      "scope": "OpenLearn Greek, Session 2",
+      "task": "Use the course audio to read five words aloud. Note two pronunciation questions.",
+      "level": "Introduction",
+      "sources": [
+        "greek-ou"
+      ],
+      "modules": [
+        "socrates",
+        "iliad"
+      ],
+      "rubric": [
+        "Complete the provider activities and check available feedback.",
+        "Record a concrete example and one correction."
+      ],
+      "prerequisites": [
+        "greek-1"
+      ]
+    },
+    {
+      "id": "greek-3",
+      "language": "Greek",
+      "title": "Writing",
+      "scope": "OpenLearn Greek, Session 3",
+      "task": "Complete the letter-formation activities and compare your upper- and lower-case forms.",
+      "level": "Introduction",
+      "sources": [
+        "greek-ou"
+      ],
+      "modules": [
+        "socrates",
+        "iliad"
+      ],
+      "rubric": [
+        "Complete the provider activities and check available feedback.",
+        "Record a concrete example and one correction."
+      ],
+      "prerequisites": [
+        "greek-2"
+      ]
+    },
+    {
+      "id": "greek-4",
+      "language": "Greek",
+      "title": "Words",
+      "scope": "OpenLearn Greek, Session 4",
+      "task": "Complete the word activities and make a small review list with meanings and grammatical labels.",
+      "level": "Introduction",
+      "sources": [
+        "greek-ou"
+      ],
+      "modules": [
+        "socrates",
+        "iliad"
+      ],
+      "rubric": [
+        "Complete the provider activities and check available feedback.",
+        "Record a concrete example and one correction."
+      ],
+      "prerequisites": [
+        "greek-3"
+      ]
+    },
+    {
+      "id": "greek-5",
+      "language": "Greek",
+      "title": "Word endings",
+      "scope": "OpenLearn Greek, Session 5",
+      "task": "Work through the noun-ending activities; explain how a changed ending can signal a changed role.",
+      "level": "Introduction",
+      "sources": [
+        "greek-ou"
+      ],
+      "modules": [
+        "socrates",
+        "iliad"
+      ],
+      "rubric": [
+        "Complete the provider activities and check available feedback.",
+        "Record a concrete example and one correction."
+      ],
+      "prerequisites": [
+        "greek-4"
+      ]
+    },
+    {
+      "id": "greek-6",
+      "language": "Greek",
+      "title": "Subjects and objects",
+      "scope": "OpenLearn Greek, Session 6",
+      "task": "Parse the course examples before translating. Label subjects, verbs and objects.",
+      "level": "Introduction",
+      "sources": [
+        "greek-ou"
+      ],
+      "modules": [
+        "socrates",
+        "iliad"
+      ],
+      "rubric": [
+        "Complete the provider activities and check available feedback.",
+        "Record a concrete example and one correction."
+      ],
+      "prerequisites": [
+        "greek-5"
+      ]
+    },
+    {
+      "id": "greek-7",
+      "language": "Greek",
+      "title": "Subjects and complements",
+      "scope": "OpenLearn Greek, Session 7",
+      "task": "Contrast a subject–verb–object example with a subject–complement example.",
+      "level": "Introduction",
+      "sources": [
+        "greek-ou"
+      ],
+      "modules": [
+        "socrates",
+        "iliad"
+      ],
+      "rubric": [
+        "Complete the provider activities and check available feedback.",
+        "Record a concrete example and one correction."
+      ],
+      "prerequisites": [
+        "greek-6"
+      ]
+    },
+    {
+      "id": "greek-8",
+      "language": "Greek",
+      "title": "Reading review",
+      "scope": "OpenLearn Greek, Session 8",
+      "task": "Return to the inscription activity and list the reading skills you can demonstrate and those still needing practice.",
+      "level": "Introduction",
+      "sources": [
+        "greek-ou"
+      ],
+      "modules": [
+        "socrates",
+        "iliad"
+      ],
+      "rubric": [
+        "Complete the provider activities and check available feedback.",
+        "Record a concrete example and one correction."
+      ],
+      "prerequisites": [
+        "greek-7"
+      ]
+    },
+    {
+      "id": "greek-foundations",
+      "language": "Greek",
+      "title": "Sustained foundations with Reading Greek",
+      "scope": "Reading Greek, second edition: Text and Vocabulary, Grammar and Exercises, with the matching Independent Study Guide.",
+      "task": "Work sequentially through the course texts and exercises. Keep a log of each completed section and corrected errors. Use the guide after attempting the exercises, not as a substitute for doing them.",
+      "level": "Foundations · external books required",
+      "sources": [
+        "greek-guide",
+        "vocab"
+      ],
+      "modules": [
+        "socrates"
+      ],
+      "rubric": [
+        "Record the section range actually completed.",
+        "Demonstrate parsing on a passage without copying its translation.",
+        "Seek teacher feedback before claiming independent reading ability."
+      ],
+      "prerequisites": [
+        "greek-8"
+      ]
+    },
+    {
+      "id": "latin-1",
+      "language": "Latin",
+      "title": "Orientation and words",
+      "scope": "OpenLearn Latin, sections 1–2",
+      "task": "Complete the study-technique and word activities. Start a short vocabulary notebook.",
+      "level": "Introduction",
+      "sources": [
+        "latin-ou"
+      ],
+      "modules": [
+        "cicero",
+        "aeneid"
+      ],
+      "rubric": [
+        "Attempt the linked exercises before checking feedback.",
+        "Explain one correction in your own words."
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "latin-2",
+      "language": "Latin",
+      "title": "Pronunciation",
+      "scope": "OpenLearn Latin, section 3",
+      "task": "Read the course examples aloud and compare them with its pronunciation guidance.",
+      "level": "Introduction",
+      "sources": [
+        "latin-ou"
+      ],
+      "modules": [
+        "cicero",
+        "aeneid"
+      ],
+      "rubric": [
+        "Attempt the linked exercises before checking feedback.",
+        "Explain one correction in your own words."
+      ],
+      "prerequisites": [
+        "latin-1"
+      ]
+    },
+    {
+      "id": "latin-3",
+      "language": "Latin",
+      "title": "Grammar",
+      "scope": "OpenLearn Latin, section 4",
+      "task": "Label parts of speech and sentence roles before translating. Explain the difference between word order and inflection.",
+      "level": "Introduction",
+      "sources": [
+        "latin-ou"
+      ],
+      "modules": [
+        "cicero",
+        "aeneid"
+      ],
+      "rubric": [
+        "Attempt the linked exercises before checking feedback.",
+        "Explain one correction in your own words."
+      ],
+      "prerequisites": [
+        "latin-2"
+      ]
+    },
+    {
+      "id": "latin-4",
+      "language": "Latin",
+      "title": "First sentences",
+      "scope": "OpenLearn Latin, section 5 and conclusion",
+      "task": "Complete the cases and reading activities. Record an example where an ending determines who acts on whom.",
+      "level": "Introduction",
+      "sources": [
+        "latin-ou"
+      ],
+      "modules": [
+        "cicero",
+        "aeneid"
+      ],
+      "rubric": [
+        "Attempt the linked exercises before checking feedback.",
+        "Explain one correction in your own words."
+      ],
+      "prerequisites": [
+        "latin-3"
+      ]
+    },
+    {
+      "id": "latin-foundations",
+      "language": "Latin",
+      "title": "A sustained graded reader",
+      "scope": "Familia Romana by Hans Ørberg, with a compatible companion and exercise support. Confirm edition contents with the provider.",
+      "task": "Read sequentially, do the corresponding exercises and keep an error log. The publisher describes 35 chapters; this is a proposed textbook route based on bibliographic metadata, not a newly inspected course.",
+      "level": "Foundations · external books required",
+      "sources": [
+        "latin-reader",
+        "latin-grammar",
+        "vocab"
+      ],
+      "modules": [
+        "cicero",
+        "aeneid"
+      ],
+      "rubric": [
+        "Record the chapters and exercise set actually completed.",
+        "Explain case and verb choices in a new sentence.",
+        "Arrange feedback if the answer material does not resolve your difficulties."
+      ],
+      "prerequisites": [
+        "latin-4"
+      ]
+    },
+    {
+      "id": "latin-verse",
+      "language": "Latin",
+      "title": "Guided authentic verse",
+      "scope": "Virgil, Aeneid 1.1–11, using Dickinson commentary.",
+      "task": "After sustained grammar study, identify the main clause and subordinate constructions. Make your own prose translation, then compare an English version and explain two differences.",
+      "level": "After foundations · advanced relative to the taster",
+      "sources": [
+        "aeneid-dcc",
+        "aeneid-text"
+      ],
+      "modules": [
+        "aeneid"
+      ],
+      "rubric": [
+        "Justify grammatical choices, not just dictionary meanings.",
+        "Identify one word whose translation needs context.",
+        "List the help you still used."
+      ],
+      "prerequisites": [
+        "latin-foundations"
+      ]
+    },
+    {
+      "id": "greek-free-bridge",
+      "language": "Greek",
+      "title": "Free bridge from the taster to grammar study",
+      "scope": "Ancient Greek for Everyone: review chapters 1–6, then work through chapter 7, Third Declension Nouns: Part I.",
+      "task": "Use the linked noun lesson to build a parsing sheet: dictionary form, gender, number, case and likely sentence role. Attempt its exercises before consulting aids. Record two mistakes and explain the corrections.",
+      "level": "After the introduction · optional free route",
+      "sources": [
+        "age-open",
+        "age-nouns"
+      ],
+      "modules": [
+        "socrates"
+      ],
+      "rubric": [
+        "Distinguish grammatical gender from the identity of a person.",
+        "Explain the role suggested by a case ending.",
+        "Record the chapter range actually studied."
+      ],
+      "prerequisites": [
+        "greek-8"
+      ]
+    },
+    {
+      "id": "greek-word-order",
+      "language": "Greek",
+      "title": "Reading by endings, not English word order",
+      "scope": "Ancient Greek for Everyone, chapter 8: Greek Word Order.",
+      "task": "Read the chapter examples. For three sentences, identify the verb and justify the subject and object from their forms. Explain how changing English word order differs from changing the order of the Greek words.",
+      "level": "Guided sentence reading · after noun foundations",
+      "sources": [
+        "age-order"
+      ],
+      "modules": [
+        "socrates",
+        "rhetoric"
+      ],
+      "rubric": [
+        "Cite the example studied rather than inventing a grammatical rule from memory.",
+        "Use morphology and context together.",
+        "List any ambiguous forms that need more context."
+      ],
+      "prerequisites": [
+        "greek-free-bridge"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "apology-argument",
+      "title": "A defence against eloquence",
+      "scope": "Plato, Apology: the opening defence, 17a–18a; use an edition with Stephanus references.",
+      "task": "Reconstruct the speaker’s distinction between persuasion and truth as premises and conclusion. Give the strongest objection you can, then a reply in 300 words.",
+      "skill": "Argument analysis",
+      "sources": [
+        "apology-text"
+      ],
+      "modules": [
+        "socrates"
+      ],
+      "rubric": [
+        "Separate a claim from its supporting reason.",
+        "Cite the passage rather than treating Plato and Socrates as interchangeable.",
+        "Address an objection that would matter if true."
+      ]
+    },
+    {
+      "id": "aeneid-translation",
+      "title": "An epic opening in two languages",
+      "scope": "Aeneid 1.1–11. Translation route: compare two English versions available to you. Latin route: use Dickinson after grammar preparation.",
+      "task": "Compare three consequential wording or rhythm choices. Explain what each version foregrounds. If you cannot read Latin, frame your conclusions as a comparison of English versions.",
+      "skill": "Translation comparison",
+      "sources": [
+        "aeneid-dcc",
+        "aeneid-text"
+      ],
+      "modules": [
+        "aeneid"
+      ],
+      "rubric": [
+        "Credit both translators.",
+        "Use matched passages and distinguish wording from interpretation.",
+        "State your language-access limits."
+      ]
+    },
+    {
+      "id": "caesar-rhetoric",
+      "title": "Two funeral speeches",
+      "scope": "Julius Caesar, Act 3, scene 2: Brutus’s and Antony’s speeches.",
+      "task": "Read each aloud. Annotate a claim, an appeal to credibility and an emotional appeal. Write 400 words explaining how an imagined audience is addressed.",
+      "skill": "Rhetorical close reading",
+      "sources": [
+        "caesar-text"
+      ],
+      "modules": [
+        "shakespeare",
+        "rhetoric"
+      ],
+      "rubric": [
+        "Identify concrete verbal or dramatic choices.",
+        "Discuss performance as well as content.",
+        "Treat this as Shakespearean reception, not a verbatim Roman record."
+      ]
+    },
+    {
+      "id": "odyssey-review-comparison",
+      "title": "How a translator interprets Penelope",
+      "scope": "The three versions of the Odyssey Book 18 passage compared in Pache’s review: Wilson 18.160–167, Lombardo 18.167–175 and Fagles 18.181–188, as cited by the reviewer.",
+      "task": "Read the brief parallel excerpts on the review page. Choose two wording or syntax decisions and explain how they affect Penelope’s agency or the reader’s view of her. In 300 words, distinguish the reviewer’s argument from your own response.",
+      "skill": "Translation criticism",
+      "sources": [
+        "wilson-review"
+      ],
+      "modules": [
+        "odyssey"
+      ],
+      "rubric": [
+        "Credit the translators; their printed line numbers differ.",
+        "Use short references or paraphrase rather than copying long excerpts.",
+        "Do not claim to judge fidelity to Greek if you only read the English."
+      ]
+    },
+    {
+      "id": "herodotus-map-audit",
+      "title": "Following a historian through a map",
+      "scope": "Your existing Herodotus assignment, Book 1.1–94 (Croesus), with the Landmark maps or another labelled historical atlas.",
+      "task": "Choose three places mentioned in the reading. Record each place, its textual reference and the map used. Then write 250 words explaining one claim that the geographical setting helps you understand and one that a map cannot verify.",
+      "skill": "Historical geography and source criticism",
+      "sources": [
+        "herodotus-landmark"
+      ],
+      "modules": [
+        "herodotus"
+      ],
+      "rubric": [
+        "Distinguish modern editorial maps from ancient testimony.",
+        "Keep place identification separate from evidence that an event occurred.",
+        "Identify the atlas/edition and one remaining uncertainty."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "id": "kouros-study",
+      "title": "A kouros: body, pattern and remembrance",
+      "date": "c. 590–580 BCE",
+      "culture": "Greek, Attic",
+      "material": "Naxian marble",
+      "image": "/media/classical-education/met-kouros-253370.jpg",
+      "credit": "The Metropolitan Museum of Art · Fletcher Fund, 1932 · 32.11.1 · Public domain (CC0)",
+      "image_source": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-23263-005.jpg",
+      "context": "A funerary figure whose pose draws on Egyptian models. Its modern museum setting differs from its original commemorative use.",
+      "task": "Describe three visible features before interpreting them. Compare symmetry and the forward foot. What evidence would you need to identify the person or the original audience?",
+      "rubric": [
+        "Separate direct observation from the museum’s interpretation.",
+        "Name the object, approximate date and material.",
+        "State one limit to what the image can establish."
+      ],
+      "modules": [
+        "iliad",
+        "hesiod"
+      ],
+      "sources": [
+        "kouros",
+        "archaic",
+        "met-rights"
+      ]
+    },
+    {
+      "id": "boscoreale-study",
+      "title": "A Roman room: painted space and status",
+      "date": "c. 50–40 BCE",
+      "culture": "Roman, late Republic",
+      "material": "Fresco",
+      "image": "/media/classical-education/met-boscoreale-247017.jpg",
+      "credit": "The Metropolitan Museum of Art · Rogers Fund, 1903 · 03.14.13a–g · Public domain (CC0)",
+      "image_source": "https://images.metmuseum.org/CRDImages/gr/web-large/DP143704.jpg",
+      "context": "Bedroom decoration from the Villa of P. Fannius Synistor at Boscoreale. Painted architecture extends the apparent space.",
+      "task": "Sketch the principal sight lines. Identify what is a real surface and what is an illusion. Explain what a reconstructed museum room can and cannot tell us about daily use.",
+      "rubric": [
+        "Refer to two visible details.",
+        "Distinguish painting date, burial date and museum installation.",
+        "Avoid treating an elite villa as representative of all Roman households."
+      ],
+      "modules": [
+        "republic-history",
+        "empire"
+      ],
+      "sources": [
+        "boscoreale",
+        "met-rights"
+      ]
+    },
+    {
+      "id": "parthenon-study",
+      "title": "The Parthenon: architecture, cult and power",
+      "date": "447–432 BCE",
+      "culture": "Classical Athens",
+      "material": "Pentelic marble",
+      "image": "",
+      "credit": "View images and gallery layout on the Acropolis Museum website.",
+      "context": "Study a building and the later arrangement of its surviving sculpture. The museum’s gallery evokes the temple’s dimensions and orientation.",
+      "task": "Open the museum gallery. Locate the cella and the main entrance in its explanation. Write 250 words connecting spatial arrangement, religious function and political resources; distinguish the ancient building from its modern presentation.",
+      "rubric": [
+        "Use the museum’s description with an explicit citation.",
+        "Identify a difference between the ancient temple and the gallery.",
+        "Separate material evidence from political interpretation."
+      ],
+      "modules": [
+        "tragedy",
+        "thucydides"
+      ],
+      "sources": [
+        "parthenon"
+      ]
+    },
+    {
+      "id": "hydria-study",
+      "title": "Achilles beyond the Iliad: myth on a water jar",
+      "date": "c. 500 BCE",
+      "culture": "Greek, Attic · attributed to the Berlin Painter",
+      "material": "Red-figure terracotta",
+      "image": "/media/classical-education/met-hydria-248307.jpg",
+      "credit": "The Metropolitan Museum of Art · Rogers Fund, 1910 · 10.210.19 · Public domain (CC0)",
+      "image_source": "https://images.metmuseum.org/CRDImages/gr/web-large/DP358961.jpg",
+      "context": "The museum identifies Achilles and Penthesilea. The scene belongs to the wider Trojan mythic tradition; it should not be assumed to illustrate an episode in the Iliad.",
+      "task": "First describe the pose, scale and placement of the figures on the vessel. Then read the museum’s identification. In 250 words, separate visible evidence, curatorial identification and narrative interpretation. What does the shape of the jar contribute?",
+      "rubric": [
+        "Keep “attributed to” in the artist credit.",
+        "Do not infer an exact literary source from a shared mythic character.",
+        "Distinguish a mythic scene from a record of historical warfare."
+      ],
+      "modules": [
+        "iliad",
+        "tragedy"
+      ],
+      "sources": [
+        "hydria",
+        "met-rights"
+      ]
+    }
+  ]
+}

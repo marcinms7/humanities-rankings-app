@@ -1,0 +1,43 @@
+{
+  "target_id": "pbs-great-american-read-2018",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-14",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.pbs.org/the-great-american-read/results/",
+      "title": "PBS · The Great American Read (2018) — result publication",
+      "canonical_url": "https://www.pbs.org/the-great-american-read/results/",
+      "source_family": "public_poll",
+      "publisher": "PBS",
+      "evidence_notes": "All 100 final positions from PBS's 2018 nationwide public vote, with author identities cross-checked against PBS's official book metadata feed.",
+      "limitations": "US public-popularity poll selected from PBS's programme shortlist. The source deliberately treats several series as single entries.",
+      "target_ids": [
+        "pbs-great-american-read-2018"
+      ],
+      "relevance_by_target": {
+        "pbs-great-american-read-2018": "All 100 final positions from PBS's 2018 nationwide public vote, with author identities cross-checked against PBS's official book metadata feed."
+      },
+      "accessed_at": "2026-09-14",
+      "eligible": true
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "published-list:https://www.pbs.org/the-great-american-read/books/",
+      "title": "PBS · The Great American Read (2018) — transcription/data cross-check",
+      "canonical_url": "https://www.pbs.org/the-great-american-read/books/",
+      "source_family": "list_transcription",
+      "publisher": "PBS",
+      "evidence_notes": "Used to verify methodology, identities, or the complete visible source order.",
+      "limitations": "Corroborates the same published list; not independent opinion evidence.",
+      "target_ids": [
+        "pbs-great-american-read-2018"
+      ],
+      "relevance_by_target": {
+        "pbs-great-american-read-2018": "Used to verify methodology, identities, or the complete visible source order."
+      },
+      "accessed_at": "2026-09-14",
+      "eligible": true
+    }
+  ]
+}

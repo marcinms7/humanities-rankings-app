@@ -1,0 +1,43 @@
+{
+  "target_id": "fourchan-lit-top-100-2023",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.reddit.com/r/4chan/comments/190jl6c/lits_top_100_books_of_all_time_for_2023/",
+      "title": "4chan /lit/ · Top 100 Books (2023) — result publication",
+      "canonical_url": "https://www.reddit.com/r/4chan/comments/190jl6c/lits_top_100_books_of_all_time_for_2023/",
+      "source_family": "community_poll",
+      "publisher": "4chan /lit/ community",
+      "target_ids": [
+        "fourchan-lit-top-100-2023"
+      ],
+      "relevance_by_target": {
+        "fourchan-lit-top-100-2023": "All 100 positions from the archived annual comparison table or result chart; source order retained."
+      },
+      "evidence_notes": "All 100 positions from the archived annual comparison table or result chart; source order retained.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Anonymous-board, self-selected poll. The archive reports that later editions were not always run with the same formal poll procedure."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "published-list:https://www.listchallenges.com/4chan-lits-top-100-2023",
+      "title": "4chan /lit/ · Top 100 Books (2023) — transcription/data mirror",
+      "canonical_url": "https://www.listchallenges.com/4chan-lits-top-100-2023",
+      "source_family": "list_transcription",
+      "publisher": "4chan /lit/ community",
+      "target_ids": [
+        "fourchan-lit-top-100-2023"
+      ],
+      "relevance_by_target": {
+        "fourchan-lit-top-100-2023": "Row-level transcription used to preserve and cross-check the complete order."
+      },
+      "evidence_notes": "Row-level transcription used to preserve and cross-check the complete order.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Mirror of the same list; not counted as independent opinion evidence."
+    }
+  ]
+}

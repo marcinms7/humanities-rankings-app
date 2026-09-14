@@ -1,0 +1,43 @@
+{
+  "target_id": "reddit-fantasy-top-novels-2023",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "COMMUNITY-LIST-01",
+      "underlying_source_id": "community-list:https://www.reddit.com/r/Fantasy/comments/11mvwsa/rfantasy_top_novels_2023_results/",
+      "title": "r/Fantasy · Top Novels (2023) — result publication",
+      "canonical_url": "https://www.reddit.com/r/Fantasy/comments/11mvwsa/rfantasy_top_novels_2023_results/",
+      "source_family": "community_poll",
+      "publisher": "r/Fantasy community",
+      "target_ids": [
+        "reddit-fantasy-top-novels-2023"
+      ],
+      "relevance_by_target": {
+        "reddit-fantasy-top-novels-2023": "All 266 rows in the official Final List sheet meeting the post's five-vote publication threshold; source ranks and ties retained."
+      },
+      "evidence_notes": "All 266 rows in the official Final List sheet meeting the post's five-vote publication threshold; source ranks and ties retained.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "The poll mixes series, universes and standalone novels. That source-defined unit is retained in notes and is not a book-only merit comparison."
+    },
+    {
+      "source_id": "COMMUNITY-LIST-02",
+      "underlying_source_id": "community-list:https://docs.google.com/spreadsheets/d/1rgODLOgPAooPyTXRyhD1_ZkOtqx0HcWiYZnKpbjcv4w/edit",
+      "title": "r/Fantasy · Top Novels (2023) — official linked result spreadsheet",
+      "canonical_url": "https://docs.google.com/spreadsheets/d/1rgODLOgPAooPyTXRyhD1_ZkOtqx0HcWiYZnKpbjcv4w/edit",
+      "source_family": "community_poll_data",
+      "publisher": "r/Fantasy community",
+      "target_ids": [
+        "reddit-fantasy-top-novels-2023"
+      ],
+      "relevance_by_target": {
+        "reddit-fantasy-top-novels-2023": "Official linked row-level tally used to preserve titles, authors, ordering, votes and published cutoff."
+      },
+      "evidence_notes": "Official linked row-level tally used to preserve titles, authors, ordering, votes and published cutoff.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Spreadsheet is poll evidence, not an independent critical source."
+    }
+  ]
+}

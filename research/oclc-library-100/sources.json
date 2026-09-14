@@ -1,0 +1,25 @@
+{
+  "target_id": "oclc-library-100",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-14",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.oclc.org/en/worldcat/library100.html",
+      "title": "OCLC · The Library 100 — official publication",
+      "canonical_url": "https://www.oclc.org/en/worldcat/library100.html",
+      "source_family": "institutional_data",
+      "publisher": "OCLC / WorldCat",
+      "target_ids": [
+        "oclc-library-100"
+      ],
+      "relevance_by_target": {
+        "oclc-library-100": "All 100 novels in OCLC's published order, ranked by the number of WorldCat libraries holding them."
+      },
+      "evidence_notes": "All 100 novels in OCLC's published order, ranked by the number of WorldCat libraries holding them.",
+      "accessed_at": "2026-09-14",
+      "eligible": true,
+      "limitations": "A global library-holdings measure of distribution and institutional availability, not a direct poll of literary merit."
+    }
+  ]
+}

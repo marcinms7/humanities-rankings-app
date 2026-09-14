@@ -1,0 +1,34 @@
+{
+  "input_sha256": "df3543b2451a72c9c57a7ab2747ef179820920c125fe61c41bd5e5c4876d7c53",
+  "input_path": "research/catalog/batch-02.json",
+  "records": [
+    {
+      "key": "mobydick",
+      "work_id": 5,
+      "edition_id": 5,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "genji",
+      "work_id": 6,
+      "edition_id": 6,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "middlemarch",
+      "work_id": 7,
+      "edition_id": 7,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "beloved",
+      "work_id": 8,
+      "edition_id": 8,
+      "created_work": true,
+      "created_edition": true
+    }
+  ]
+}

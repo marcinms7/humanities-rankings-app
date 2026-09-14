@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "consulted_on": "2026-09-12",
+  "purpose": "Verified bibliographic records; these publisher pages are not additional eligible critical sources.",
+  "works": [
+    {
+      "key": "doll",
+      "title": "The Doll",
+      "authors": [
+        "Bolesław Prus"
+      ],
+      "original_language": "Polish",
+      "countries": [
+        "Poland"
+      ],
+      "original_year": null,
+      "form": "book",
+      "field": "literature",
+      "description": "A novel examining class, ambition and conflicting social ideals in nineteenth-century Warsaw.",
+      "work_source_url": "https://culture.pl/pl/dzielo/boleslaw-prus-lalka",
+      "evidence_ids": [
+        "R104",
+        "R178"
+      ],
+      "edition": {
+        "language": "English",
+        "translator": "David Welsh",
+        "publisher": "NYRB Classics",
+        "isbn": "9781590173831",
+        "pages": 680,
+        "publication_date": "2011-02-08",
+        "source_url": "https://www.nyrb.com/products/the-doll",
+        "completeness_status": "standard_novel_edition_publisher_record",
+        "translation_notes": "Publisher identifies this as its edition of the novel, with an introduction by Stanisław Barańczak. Revision history of the Welsh translation remains to be documented; no comparative claim of best translation is made."
+      },
+      "bibliographic_caution": "Do not infer original publication year from the 2011 edition date."
+    },
+    {
+      "key": "warpeace",
+      "title": "War and Peace",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "original_language": "Russian",
+      "countries": [
+        "Russia"
+      ],
+      "original_year": 1869,
+      "form": "book",
+      "field": "literature",
+      "description": "A novel combining social narrative, war and historical inquiry. The completed first book edition appeared in 1868–1869, following earlier serialization.",
+      "work_source_url": "https://www.nybooks.com/articles/2007/11/22/tolstoys-real-hero/",
+      "evidence_ids": [
+        "S14",
+        "R180",
+        "R181"
+      ],
+      "edition": {
+        "language": "English",
+        "translator": "Richard Pevear and Larissa Volokhonsky",
+        "publisher": "Vintage",
+        "isbn": "9781400079988",
+        "pages": 1296,
+        "publication_date": "2008-12-02",
+        "source_url": "https://www.penguinrandomhouse.com/books/208646/war-and-peace-by-leo-tolstoy-a-new-translation-by-richard-pevear-and-larissa-volokhonsky/9781400079988/",
+        "completeness_status": "complete_novel_distinguished_in_critical_review",
+        "translation_notes": "Complete-novel translation; retains French passages with English footnotes. Figes praises repetition and register while noting individual errors. This is not Bromfield’s translation of an earlier, shorter draft."
+      },
+      "bibliographic_caution": "Original year records completion of the first book publication range, not first serialization."
+    },
+    {
+      "key": "kokoro",
+      "title": "Kokoro",
+      "authors": [
+        "Natsume Sōseki"
+      ],
+      "original_language": "Japanese",
+      "countries": [
+        "Japan"
+      ],
+      "original_year": 1914,
+      "form": "book",
+      "field": "literature",
+      "description": "A novel of friendship, guilt and generational change, with a younger narrator and an older figure called Sensei.",
+      "work_source_url": "https://www.konan-u.ac.jp/lib/blog/archives/7958",
+      "evidence_ids": [
+        "S26",
+        "R182"
+      ],
+      "edition": {
+        "language": "English",
+        "translator": "Meredith McKinney",
+        "publisher": "Penguin Classics",
+        "isbn": "9780143106036",
+        "pages": 256,
+        "publication_date": "2010-02-23",
+        "source_url": "https://www.penguinrandomhouse.com/books/302596/kokoro-by-natsume-soseki-translated-with-an-introduction-and-notes-by-meredith-mckinney/9780143106036/",
+        "completeness_status": "standard_novel_edition_publisher_record",
+        "translation_notes": "English translation with introduction and notes by Meredith McKinney. The publisher page contains an unrelated author-biography block; that block was excluded from catalog research."
+      },
+      "bibliographic_caution": "Do not reuse the publisher’s incorrect claim that this was Sōseki’s last completed novel."
+    },
+    {
+      "key": "magic",
+      "title": "The Magic Mountain",
+      "authors": [
+        "Thomas Mann"
+      ],
+      "original_language": "German",
+      "countries": [
+        "Germany"
+      ],
+      "original_year": 1924,
+      "form": "book",
+      "field": "literature",
+      "description": "A novel of time, illness and intellectual conflict set in a Swiss sanatorium before the First World War.",
+      "work_source_url": "https://www.penguinrandomhouse.com/books/107311/the-magic-mountain-by-thomas-mann-translated-by-john-e-woods-introduction-by-a-s-byatt/",
+      "evidence_ids": [
+        "R106",
+        "R179"
+      ],
+      "edition": {
+        "language": "English",
+        "translator": "John E. Woods",
+        "publisher": "Everyman’s Library",
+        "isbn": "9781400044214",
+        "pages": 904,
+        "publication_date": "2005-06-21",
+        "source_url": "https://www.penguinrandomhouse.com/books/107311/the-magic-mountain-by-thomas-mann-translated-by-john-e-woods-introduction-by-a-s-byatt/",
+        "completeness_status": "standard_novel_edition_publisher_record",
+        "translation_notes": "Hardcover English edition with introduction by A. S. Byatt, bibliography and author chronology. The 904-page extent belongs to this hardcover, not the separately listed 720-page paperback. The earlier reader review R179 concerns Lowe-Porter, not Woods."
+      },
+      "bibliographic_caution": "The Nobel Prize was awarded to Mann’s work; do not record a book-specific Nobel award from the product badge."
+    }
+  ]
+}

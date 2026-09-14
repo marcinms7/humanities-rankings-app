@@ -1,0 +1,151 @@
+{
+  "summary": "Eight original all-books sources were individually reconsulted for narrower targets, preserving original IDs. Literary methods, reader disagreement and corpus bias are recorded separately from merit recommendations.",
+  "next": "Continue new worldwide criticism, beyond reused sources and English-language canon studies.",
+  "sources": [
+    {
+      "id": "R166",
+      "url": "https://litlab.stanford.edu/LiteraryLabPamphlet8.pdf",
+      "title": "Between Canon and Corpus: Six Perspectives on 20th-Century Novels",
+      "publisher": "Stanford Literary Lab",
+      "family": "scholarly_study",
+      "note": "Examines corpus selection under cost and availability constraints, rejecting a single scholar’s private library as an adequate basis for collective literary analysis.",
+      "candidates": [
+        "Selection bias",
+        "Twentieth-century fiction"
+      ],
+      "location": "Dilemmas of Selection, pp.1–3",
+      "limits": "English-language corpus design; not a merit ranking.",
+      "targets": {
+        "L": "Fiction-specific interpretation or evidence-selection limits."
+      }
+    },
+    {
+      "id": "R167",
+      "url": "https://www.reddit.com/r/classicliterature/comments/1rjd539/what_is_the_greatest_novel_ever_written/",
+      "title": "What is the greatest novel ever written?",
+      "publisher": "Reddit r/classicliterature",
+      "family": "reader_discussion",
+      "note": "Readers praise Les Misérables for narrative scope, digression and the discoveries enabled by repeated reading.",
+      "candidates": [
+        "Les Misérables"
+      ],
+      "location": "Opening substantive replies",
+      "limits": "Self-selected discussion; repeated praise is not an independent survey.",
+      "targets": {
+        "L": "Fiction-specific interpretation or evidence-selection limits."
+      }
+    },
+    {
+      "id": "R168",
+      "url": "https://www.reddit.com/r/classicliterature/comments/1u07sps/reviewing_and_ranking_the_40_classics_ive_read/",
+      "title": "Reviewing and Ranking the 40 Classics I’ve Read",
+      "publisher": "Reddit r/classicliterature / Lipe18090",
+      "family": "reader_ranking",
+      "note": "Separates enjoyment from difficulty; prefers Camus’s fiction to his essays, finds Aristotle demanding but rewarding, and reports personal benefit from Marcus Aurelius.",
+      "candidates": [
+        "Heart of Darkness",
+        "The Myth of Sisyphus",
+        "Politics",
+        "Meditations",
+        "Nausea"
+      ],
+      "location": "Opening reviews and philosophical entries 31,30,24",
+      "limits": "One reader’s restricted finished-book set; replies contest the Sartre judgment.",
+      "targets": {
+        "L": "Fiction-specific interpretation or evidence-selection limits.",
+        "N": "Reader comparison of philosophical nonfiction.",
+        "B": "Specific reader judgments on Camus, Aristotle and Marcus Aurelius.",
+        "P": "Work-based reception of these philosophers, not a person-ranking poll."
+      }
+    },
+    {
+      "id": "R169",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-literary-criticism/canons-and-canon-formation/7A23B3485FDA4C5B00982A0C0BC7C712",
+      "title": "Canons and canon formation",
+      "publisher": "Cambridge University Press / Jan Gorak",
+      "family": "scholarly_chapter",
+      "note": "Accessible summary frames criticism as selection, restoration and evaluation, shaped by growing production and increasingly heterogeneous audiences.",
+      "candidates": [
+        "Canon formation"
+      ],
+      "location": "Accessible chapter summary",
+      "limits": "Summary only; no claim to have read the full chapter.",
+      "targets": {
+        "L": "Fiction-specific interpretation or evidence-selection limits."
+      },
+      "access": "summary_only"
+    },
+    {
+      "id": "R170",
+      "url": "https://files.blogs.baruch.cuny.edu/wp-content/blogs.dir/8383/files/2021/01/calvino_why-read-the-classics.pdf",
+      "title": "Why Read the Classics?",
+      "publisher": "Italo Calvino / NYRB, CUNY-hosted translation",
+      "family": "critical_essay",
+      "note": "Calvino distinguishes canonical talk from actual reading and treats first reading and rereading at different ages as distinct sources of literary discovery.",
+      "candidates": [
+        "Why Read the Classics?",
+        "Balzac",
+        "Dickens",
+        "Rougon-Macquart"
+      ],
+      "location": "Opening definitions and examples, p.1",
+      "limits": "English translation of one essay; anecdotal examples are not rankings.",
+      "targets": {
+        "L": "Fiction-specific interpretation or evidence-selection limits.",
+        "N": "Directly examined literary-critical essay."
+      }
+    },
+    {
+      "id": "R171",
+      "url": "https://www.reddit.com/r/literature/comments/zzz8iz",
+      "title": "Results: Literature Canon",
+      "publisher": "Reddit r/literature",
+      "family": "reader_poll",
+      "note": "A 130-participant exercise explicitly targets a Western canon and retains books receiving at least three votes, including fiction alongside poetry and drama.",
+      "candidates": [
+        "As I Lay Dying",
+        "Song of Solomon",
+        "Pale Fire",
+        "The Magic Mountain"
+      ],
+      "location": "Poll method and displayed fiction entries",
+      "limits": "One poll; mixed-form results must be filtered for literary fiction.",
+      "targets": {
+        "L": "Fiction-specific interpretation or evidence-selection limits."
+      }
+    },
+    {
+      "id": "R172",
+      "url": "https://arxiv.org/pdf/1909.02602",
+      "title": "Common Library 1.0",
+      "publisher": "Allen Riddell and collaborators / arXiv",
+      "family": "scholarly_study",
+      "note": "Matches a Victorian corpus’s publication-year and author-gender proportions to a wider bibliography while explicitly declining a full statistical representativeness claim.",
+      "candidates": [
+        "Corpus and reprint bias"
+      ],
+      "location": "Abstract and introduction, pp.1–2",
+      "limits": "Population resemblance does not establish literary merit.",
+      "targets": {
+        "L": "Fiction-specific interpretation or evidence-selection limits."
+      }
+    },
+    {
+      "id": "R173",
+      "url": "https://arxiv.org/pdf/1807.10615",
+      "title": "Judging a Book by its Description",
+      "publisher": "Nishtha Madaan and collaborators / arXiv",
+      "family": "scholarly_study",
+      "note": "Analyzes gender patterns in Goodreads descriptions of 275 Booker-shortlisted books, illustrating the limited proxy available when studying prize-associated fiction.",
+      "candidates": [
+        "Booker descriptions",
+        "Gender representation"
+      ],
+      "location": "Abstract and opening research design",
+      "limits": "Descriptions are not whole novels; shortlist sample is not world literature.",
+      "targets": {
+        "L": "Fiction-specific interpretation or evidence-selection limits."
+      }
+    }
+  ]
+}

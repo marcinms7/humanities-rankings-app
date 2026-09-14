@@ -1,0 +1,166 @@
+{
+  "summary": "Reconsulted six saved scholarly references and the Gita, and added Aristotle. Reuse is individually justified; earlier All-books notes remain unchanged.",
+  "next": "Expand beyond reference encyclopedias into expert interviews, critical reviews, independent essays and reader discussions.",
+  "sources": [
+    {
+      "id": "R001",
+      "url": "https://plato.stanford.edu/entries/plato/",
+      "title": "Plato",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "note": "The entry connects Plato's continuing influence to open-ended dialogue and distinguishes Plato's authored arguments from testimony about the historical Socrates.",
+      "candidates": [
+        "Plato",
+        "Socrates",
+        "Republic",
+        "Phaedo",
+        "Theaetetus"
+      ],
+      "targets": {
+        "B": "Interpretation and dialogue-form evidence for Republic and related texts.",
+        "P": "Supports Plato's influence and cautions against conflating his voice with Socrates."
+      },
+      "location": "Introduction and sections 2–6",
+      "limits": "A scholarly interpretation, not a comparative world ranking; shorter dialogues require books-only eligibility review."
+    },
+    {
+      "id": "R002",
+      "url": "https://plato.stanford.edu/entries/aristotle/",
+      "title": "Aristotle",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "note": "The surviving corpus spans logic, biology, metaphysics and ethics. Its frequently unfinished, technical prose differs from lost public writings; later editorial arrangement complicates work identity.",
+      "candidates": [
+        "Aristotle",
+        "Nicomachean Ethics",
+        "Metaphysics",
+        "Politics",
+        "History of Animals"
+      ],
+      "targets": {
+        "A": "Adds scientific and philosophical treatises to the all-subject candidate pool.",
+        "N": "Supplies early scientific and ethical nonfiction candidates with textual-history cautions.",
+        "B": "Identifies philosophical treatises and explains reading and editorial difficulties.",
+        "P": "Documents Aristotle's disciplinary range and long reception."
+      },
+      "location": "Introduction and section 2, corpus and divisions",
+      "limits": "Western reception framing; scholarly influence does not establish modern scientific accuracy."
+    },
+    {
+      "id": "R003",
+      "url": "https://plato.stanford.edu/entries/confucius/",
+      "title": "Confucius",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "note": "The Analects transmits multiple representations of Confucius. The entry treats ritual, virtue and family-state relations while warning that later traditions select different aspects of his legacy.",
+      "candidates": [
+        "Confucius",
+        "Analects"
+      ],
+      "targets": {
+        "B": "Supports Analects as ethical-political thought with layered transmission.",
+        "P": "Distinguishes the historical thinker from later appropriations of Confucius."
+      },
+      "location": "Introduction, lines 13–20",
+      "limits": "Authorship and doctrine are historically underdetermined; no single modern label captures all reception."
+    },
+    {
+      "id": "R004",
+      "url": "https://plato.stanford.edu/entries/kant/",
+      "title": "Immanuel Kant",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "note": "The three Critiques connect epistemology, ethics and judgment through autonomy. The introduction describes Kant's enduring influence across modern philosophical fields.",
+      "candidates": [
+        "Immanuel Kant",
+        "Critique of Pure Reason",
+        "Critique of Practical Reason",
+        "Critique of the Power of Judgment"
+      ],
+      "targets": {
+        "N": "Identifies major argumentative nonfiction across knowledge, ethics and aesthetics.",
+        "B": "Maps three distinct works to the critical system; avoid reducing Kant to one book.",
+        "P": "Supports breadth and reception of Kant's philosophical contribution."
+      },
+      "location": "Introduction, lines 13–15",
+      "limits": "Introductory interpretation only; competing readings and discriminatory views require additional evidence."
+    },
+    {
+      "id": "R005",
+      "url": "https://plato.stanford.edu/entries/dubois/",
+      "title": "W.E.B. Du Bois",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "note": "The entry argues that Du Bois made race a central philosophical problem across social, political and aesthetic inquiry. Its structure separates periods around The Souls of Black Folk.",
+      "candidates": [
+        "W.E.B. Du Bois",
+        "The Souls of Black Folk"
+      ],
+      "targets": {
+        "N": "Supports a social-critical book crossing sociology, history and philosophy.",
+        "B": "Establishes philosophical relevance beyond narrowly disciplinary treatises.",
+        "P": "Documents Du Bois's contribution to philosophy of race."
+      },
+      "location": "Introduction and section structure, lines 13–31",
+      "limits": "Opening and named work sections identified; detailed work-level argument assessment remains pending."
+    },
+    {
+      "id": "R006",
+      "url": "https://plato.stanford.edu/entries/wollstonecraft/",
+      "title": "Mary Wollstonecraft",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "note": "Wollstonecraft's critique links women's condition to wider social relations and consumption. The entry identifies Vindication's feminist significance and a broader influence on travel writing and Romanticism.",
+      "candidates": [
+        "Mary Wollstonecraft",
+        "A Vindication of the Rights of Woman"
+      ],
+      "targets": {
+        "N": "Adds feminist political nonfiction with literary-cultural reception.",
+        "B": "Supports moral-political argument in Vindication, beyond an isolated women's-rights slogan.",
+        "P": "Documents philosophical scope and influence beyond one famous contribution."
+      },
+      "location": "Introduction, lines 13–15",
+      "limits": "Her bibliography includes fiction and pamphlets; these do not all qualify as nonfiction books."
+    },
+    {
+      "id": "R007",
+      "url": "https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher/",
+      "title": "Zhuangzi",
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "note": "The text combines narrative, humour and criticism of fixed categories. It is an anthology, reduced by Guo Xiang from an earlier collection; attribution of its inner chapters is traditional.",
+      "candidates": [
+        "Zhuangzi",
+        "Zhuang Zhou",
+        "Guo Xiang"
+      ],
+      "targets": {
+        "B": "Documents philosophical content and anthology/edition identity.",
+        "P": "Separates attributed thinker, multiple textual strands and later editor Guo Xiang."
+      },
+      "location": "Opening paragraphs and historical-background excerpt",
+      "limits": "Do not assign all 33 chapters to one author or silently classify the hybrid text as modern nonfiction."
+    },
+    {
+      "id": "R008",
+      "url": "https://iep.utm.edu/bhagavad-gita/",
+      "title": "The Bhagavad Gītā",
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "note": "The article analyzes the Gita as moral argument within the Mahabharata and traces its separate reception. Shankara, Ramanuja and Madhva wrote commentaries on it.",
+      "candidates": [
+        "Bhagavad Gita",
+        "Shankara",
+        "Ramanuja",
+        "Madhva"
+      ],
+      "targets": {
+        "B": "Adds Indian moral philosophy and explicit embedded-versus-standalone work issues.",
+        "P": "Provides a reception link among Vedanta commentators; does not treat fictional speakers as historical philosophers."
+      },
+      "location": "Opening and introduction, lines 2–5 and 24–28",
+      "limits": "One interpretive account; epic context and modern religious reception complicate genre classification."
+    }
+  ]
+}

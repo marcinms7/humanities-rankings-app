@@ -1,0 +1,1827 @@
+{
+  "target": "books-poland",
+  "expected_revision": 3,
+  "allow_expansion": true,
+  "version": "owner-chat-audited-country-revision-2026-09-14",
+  "published_on": "2026-09-14",
+  "allow_pending_metadata": true,
+  "reviewed_exclusions": [
+    {
+      "item_id": 6433,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6434,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6435,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6436,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6437,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6438,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6439,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6440,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6441,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6442,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6443,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6444,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6445,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6446,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6447,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6448,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6449,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6450,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6451,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6452,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6453,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6454,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6455,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6456,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6457,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6458,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6459,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6460,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6461,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6462,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6464,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6465,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6466,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6467,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6468,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6470,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6472,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6473,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6475,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6476,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6477,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6478,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6479,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6480,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6481,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6483,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6484,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6485,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6486,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6487,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6488,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6489,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6490,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6491,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6492,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6493,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6495,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6497,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6498,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6499,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6500,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6501,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6502,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6504,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6505,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6506,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6507,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6508,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6509,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6510,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6511,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6512,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6513,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6514,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6516,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    },
+    {
+      "item_id": 6517,
+      "reason": "Superseded by the established prior-revision catalog identity during audited catalog reconciliation; the superseded shared record and prior revision remain preserved and are not deleted."
+    }
+  ],
+  "notice": "Owner-supplied audited revision. Previous revision and source history are preserved; no personal numerical scores are set.",
+  "method": "Audited owner-supplied all-time country synthesis. The report maps evidence to entries and records access limitations; its editorial order is retained in both views pending a separately reasoned reading-value order.",
+  "entries": [
+    {
+      "key": "books-poland-revision-001",
+      "item_id": 1,
+      "source_ids": [
+        "POLAND-127",
+        "POLAND-130",
+        "POLAND-212",
+        "POLAND-213"
+      ],
+      "standing": "Position 1 in the owner-supplied audited 14 September 2026 revision. Its interlocking perspectives make desire, money, class and political disappointment part of one unusually rich social world. The strongest overall balance of narrative life, psychological ambiguity and lasting Polish importance keeps it first. Renewed German criticism supplies reception evidence, including reservations, rather than a fabricated unanimous verdict.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-002",
+      "item_id": 970,
+      "source_ids": [
+        "POLAND-218",
+        "POLAND-043",
+        "POLAND-224"
+      ],
+      "standing": "Position 2 in the owner-supplied audited 14 September 2026 revision. The assault on imposed maturity turns language, bodily embarrassment and social performance into the novel’s organizing forces. Its formal invention and continuing translation debates sustain second place; difficult translation is treated as a visibility problem rather than evidence against the Polish original.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-003",
+      "item_id": 977,
+      "source_ids": [
+        "POLAND-126",
+        "POLAND-169",
+        "POLAND-021"
+      ],
+      "standing": "Position 3 in the owner-supplied audited 14 September 2026 revision. A child’s death destabilizes inherited philosophical and religious assurances across an exceptionally controlled sequence. The combination of intimate grief, intellectual crisis and foundational poetic craft warrants promotion into the first three when poetry receives book-level attention equal to fiction.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-004",
+      "item_id": 971,
+      "source_ids": [
+        "POLAND-131",
+        "POLAND-021",
+        "POLAND-022"
+      ],
+      "standing": "Position 4 in the owner-supplied audited 14 September 2026 revision. Sensuous description, comedy and historical longing coexist within an intricately social epic. Its central place in Polish literary memory is inseparable from a landscape with shared Lithuanian and Belarusian histories; that complexity strengthens the entry rather than permitting a simple modern-national label.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-005",
+      "item_id": 972,
+      "source_ids": [
+        "POLAND-167",
+        "POLAND-221",
+        "POLAND-073"
+      ],
+      "standing": "Position 5 in the owner-supplied audited 14 September 2026 revision. Ordinary shops, family rooms and streets become unstable mythic spaces through extraordinary figurative prose. The collection’s scale belies its imaginative reach. The title story provides a concrete textual anchor, while an Italian omnibus is used only as evidence of wider reception.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-006",
+      "item_id": 974,
+      "source_ids": [
+        "POLAND-132",
+        "POLAND-021",
+        "POLAND-022"
+      ],
+      "standing": "Position 6 in the owner-supplied audited 14 September 2026 revision. Ritual, private anguish, political imprisonment and prophetic ambition occupy a deliberately discontinuous dramatic universe. The cycle’s enduring capacity to generate performance and dispute merits a place above most novels. It remains one composite entry, with its unequal parts and unfinished fragment explicitly preserved.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-007",
+      "item_id": 31,
+      "source_ids": [
+        "POLAND-116",
+        "POLAND-040",
+        "POLAND-041"
+      ],
+      "standing": "Position 7 in the owner-supplied audited 14 September 2026 revision. An encounter with radical otherness becomes an inquiry into knowledge, guilt and the limits of interpretation. Its emotional and speculative pressures reinforce each other. Sinophone reception and translation scholarship broaden the evidence beyond Anglophone genre lists, while the final position remains an editorial judgment.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-008",
+      "item_id": 973,
+      "source_ids": [
+        "POLAND-133",
+        "POLAND-021"
+      ],
+      "standing": "Position 8 in the owner-supplied audited 14 September 2026 revision. The seasonal design binds individual desire and communal coercion to labor, property, ritual and landscape. Its achievement is the creation of an entire social organism, including the costs of belonging. Four volumes constitute one designed work; an author-level Nobel is unnecessary to justify its place.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-009",
+      "item_id": 988,
+      "source_ids": [
+        "POLAND-134",
+        "POLAND-021",
+        "POLAND-022"
+      ],
+      "standing": "Position 9 in the owner-supplied audited 14 September 2026 revision. A wedding becomes a confrontation among classes, fantasies of national unity and disabling historical memories. Its theatrical compression accomplishes what much longer social novels attempt. Bringing this formally powerful drama into the first ten corrects the baseline’s comparatively low valuation of the stage.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-010",
+      "item_id": 976,
+      "source_ids": [
+        "POLAND-190",
+        "POLAND-074"
+      ],
+      "standing": "Position 10 in the owner-supplied audited 14 September 2026 revision. Its interwoven tales make storytelling itself an instrument of doubt, pleasure and intellectual experiment. The baseline’s French-language exception remains justified by the work’s established place in Polish literary history. Different versions are acknowledged as materially different textual arrangements, not silently fused into one definitive original.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-011",
+      "item_id": 975,
+      "source_ids": [
+        "POLAND-045",
+        "POLAND-046",
+        "POLAND-219"
+      ],
+      "standing": "Position 11 in the owner-supplied audited 14 September 2026 revision. The scale of its historical reconstruction is matched by an attention to marginal voices and unstable identities. Polish, French and Ukrainian critical perspectives support its stature. Its proximity to older classics rests on achieved narrative ambition, while its shorter reception history leaves more room for future reassessment.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-012",
+      "item_id": 996,
+      "source_ids": [
+        "POLAND-129",
+        "POLAND-147"
+      ],
+      "standing": "Position 12 in the owner-supplied audited 14 September 2026 revision. The apparently measured speaker exposes how thought is entangled with feeling, irony and compromised ethical choice. This is a particular 1974 collection, not all poems ever featuring Pan Cogito. Its structural and moral complexity makes the baseline’s placement below almost thirty prose-heavy choices hard to sustain.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-013",
+      "item_id": 995,
+      "source_ids": [
+        "POLAND-146",
+        "POLAND-021"
+      ],
+      "standing": "Position 13 in the owner-supplied audited 14 September 2026 revision. The volume confronts what poetry can preserve after catastrophe without reducing experience to a single public posture. Its varied voices and historical pressure are central to the postwar redefinition of Polish poetry. The judgment concerns this collection’s achievement, rather than transferring the poet’s later Nobel to one book.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-014",
+      "item_id": 1061,
+      "source_ids": [
+        "POLAND-141",
+        "POLAND-237",
+        "POLAND-021"
+      ],
+      "standing": "Position 14 in the owner-supplied audited 14 September 2026 revision. Its compressed syntax, irony and resistance to easy musicality make readers actively construct meaning. Delayed publication helps explain why historical influence and original composition cannot be measured on one timeline. The rise corrects an extreme baseline undervaluation of an innovative, coherently conceived poetic book.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-015",
+      "item_id": 990,
+      "source_ids": [
+        "POLAND-151",
+        "POLAND-073"
+      ],
+      "standing": "Position 15 in the owner-supplied audited 14 September 2026 revision. Broken movement, ordinary tasks and precarious shelter remake the uprising through civilian perception. Its form resists a smooth retrospective epic, making the act of remembering part of the testimony. This combination of linguistic experiment and witness places it among the strongest books in the list.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-016",
+      "item_id": 986,
+      "source_ids": [
+        "POLAND-149",
+        "POLAND-157",
+        "POLAND-177"
+      ],
+      "standing": "Position 16 in the owner-supplied audited 14 September 2026 revision. A narrator’s digressions make a village world emerge through work, family, violence and memory. The voice can hold comic excess and historical loss together without flattening either. Polish literary context and sustained translated reception support a high place independent of the novel’s sheer size.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-017",
+      "item_id": 983,
+      "source_ids": [
+        "POLAND-167",
+        "POLAND-221",
+        "POLAND-022"
+      ],
+      "standing": "Position 17 in the owner-supplied audited 14 September 2026 revision. Time, family authority and remembered childhood become available for impossible rearrangement. The collection deepens Schulz’s mythology rather than merely repeating the earlier book, earning a separate place. Translated collected editions can introduce it, but their contents do not redefine the original volume.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-018",
+      "item_id": 979,
+      "source_ids": [
+        "POLAND-021",
+        "POLAND-074"
+      ],
+      "standing": "Position 18 in the owner-supplied audited 14 September 2026 revision. The diary turns apparent immediacy into an arena for argument about art, selfhood and Polishness. Its importance lies in sustained intellectual performance as much as confession. The ranked work is the public literary Dziennik sequence, with later portions, and excludes the separate private notebook Kronos.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-019",
+      "item_id": 981,
+      "source_ids": [
+        "POLAND-226",
+        "POLAND-225",
+        "POLAND-021"
+      ],
+      "standing": "Position 19 in the owner-supplied audited 14 September 2026 revision. Its violently stylized storytelling turns patriotic inheritance into a struggle over how to live and speak. The language is integral to its challenge, making reception unusually dependent on translation choices. Scholarship helps sustain its place even where translated visibility is weaker than for Ferdydurke.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-020",
+      "item_id": 980,
+      "source_ids": [
+        "POLAND-146",
+        "POLAND-021",
+        "POLAND-022"
+      ],
+      "standing": "Position 20 in the owner-supplied audited 14 September 2026 revision. The book gives ideological conformity psychological and cultural specificity through portraits and arguments. Its lasting force comes from the friction between lucid explanation and the compromised lives being explained. It remains a major intellectual book, with a lower position reflecting stronger treatment of poetry rather than diminished historical importance.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-021",
+      "item_id": 999,
+      "source_ids": [
+        "POLAND-021",
+        "POLAND-074"
+      ],
+      "standing": "Position 21 in the owner-supplied audited 14 September 2026 revision. Neologism, rhythm, bodily desire and speculative fable make language seem capable of bringing new forms of existence into being. The volume deserves comparison as an integrated poetic achievement, not as a supplier of anthology favorites. Its promotion helps correct the baseline’s imbalance between linguistic invention in prose and verse.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-022",
+      "item_id": 997,
+      "source_ids": [
+        "POLAND-145",
+        "POLAND-204",
+        "POLAND-205"
+      ],
+      "standing": "Position 22 in the owner-supplied audited 14 September 2026 revision. Conversational clarity accommodates unsettling questions about aftermath, contingency and the routines through which life resumes. Apparent simplicity becomes a method of intellectual precision. The selected 1993 volume provides a defensible book-sized entry for Szymborska; it is not presented as the single cause or object of her Nobel recognition.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-023",
+      "item_id": 1009,
+      "source_ids": [
+        "POLAND-181",
+        "POLAND-022"
+      ],
+      "standing": "Position 23 in the owner-supplied audited 14 September 2026 revision. The compromised narrator makes survival, complicity and industrialized murder confront the reader without reassuring moral distance. Its severe narrative stance earns a substantial rise. This entry denotes the Polish collection; the English selection This Way for the Gas, Ladies and Gentlemen has a different contents history and is not an exact equivalent.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-024",
+      "item_id": 1010,
+      "source_ids": [
+        "POLAND-184",
+        "POLAND-021"
+      ],
+      "standing": "Position 24 in the owner-supplied audited 14 September 2026 revision. Extreme compression gives witnessed and reported violence a disturbing space in which explanation cannot become consolation. The work’s literary shaping is essential to its documentary force. Its small scale should not lower it beside long novels, and its place rises accordingly.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-025",
+      "item_id": 989,
+      "source_ids": [
+        "POLAND-180",
+        "POLAND-103"
+      ],
+      "standing": "Position 25 in the owner-supplied audited 14 September 2026 revision. The memoir joins close observation of bodily deprivation to difficult judgments about dignity, compromise and solidarity. Its authority is strengthened by artistic control, not simply by the gravity of its subject. The earlier English appearance does not change the original language or erase the émigré publication history.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-026",
+      "item_id": 984,
+      "source_ids": [
+        "POLAND-187",
+        "POLAND-073"
+      ],
+      "standing": "Position 26 in the owner-supplied audited 14 September 2026 revision. An apparently minor mystery becomes a study of the human compulsion to join signs into systems. The reader’s interpretive habits are drawn into the same unstable machinery as the characters’. It retains a high place, while more varied forms displace it somewhat from the baseline’s top twenty.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-027",
+      "item_id": 985,
+      "source_ids": [
+        "POLAND-193",
+        "POLAND-194",
+        "POLAND-069"
+      ],
+      "standing": "Position 27 in the owner-supplied audited 14 September 2026 revision. Bodies, travel and interrupted narratives form relationships without settling into a conventional plot. Its organizing intelligence gives fragmentation more than decorative value. International Booker recognition confirms a major moment of translated reception; the rank itself reflects the book’s structure and the strength of neighboring works.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-028",
+      "item_id": 978,
+      "source_ids": [
+        "POLAND-161",
+        "POLAND-021",
+        "POLAND-022"
+      ],
+      "standing": "Position 28 in the owner-supplied audited 14 September 2026 revision. The novel’s narrative momentum, spectacle and opposition between imperial power and vulnerable belief have sustained an unusually broad readership. It remains a major achievement of popular historical fiction. Its move downward follows closer attention to formal experiment and poetic books, rather than any claim that mass accessibility invalidates literary value.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-029",
+      "item_id": 1000,
+      "source_ids": [
+        "POLAND-183",
+        "POLAND-021"
+      ],
+      "standing": "Position 29 in the owner-supplied audited 14 September 2026 revision. History is felt through work, marriage, disappointment and the differing temperaments of everyday people. The sustained attention to ordinary consciousness gives the large design intimacy rather than mere chronicle. Its patient social breadth remains a central counterweight to the list’s more spectacular modernist experiments.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-030",
+      "item_id": 1055,
+      "source_ids": [
+        "POLAND-140",
+        "POLAND-021",
+        "POLAND-022"
+      ],
+      "standing": "Position 30 in the owner-supplied audited 14 September 2026 revision. Landscape, work, family divisions and the memory of the January Uprising connect private choice to collective inheritance. The novel’s class structure deserves more careful reading than its school-text reputation often encourages. Its large promotion corrects the baseline’s striking relegation of a major nineteenth-century writer.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-031",
+      "item_id": 1004,
+      "source_ids": [
+        "POLAND-209",
+        "POLAND-217",
+        "POLAND-220",
+        "POLAND-222"
+      ],
+      "standing": "Position 31 in the owner-supplied audited 14 September 2026 revision. An ordinary conscript’s encounter with military institutions gives bureaucratic violence an almost mythic absurdity. Its tonal balance avoids reducing the vulnerable individual to a simple emblem. Multiple consulted reviews strengthen its position; the unrealized wider project is acknowledged without inventing completed companion volumes.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-032",
+      "item_id": 991,
+      "source_ids": [
+        "POLAND-162",
+        "POLAND-021"
+      ],
+      "standing": "Position 32 in the owner-supplied audited 14 September 2026 revision. The struggle between a ruler and entrenched institutions becomes a searching account of knowledge, administration and the limits of personal power. Its systemic intelligence keeps it high. The book date is distinguished from serialization, and fictionalized Egypt is treated as a designed political world.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-033",
+      "item_id": 987,
+      "source_ids": [
+        "POLAND-163",
+        "POLAND-021"
+      ],
+      "standing": "Position 33 in the owner-supplied audited 14 September 2026 revision. The city’s energy and exploitation make enterprise, appetite and social destruction mutually dependent. Its breadth complements the rural world of Chłopi while exposing a different economic order. Historical importance does not require accepting the narrative’s ethnic stereotypes as reliable portraits of real communities.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-034",
+      "item_id": 982,
+      "source_ids": [
+        "POLAND-164",
+        "POLAND-021"
+      ],
+      "standing": "Position 34 in the owner-supplied audited 14 September 2026 revision. Its scale, reversals and powerful redemption plot remain exemplary popular storytelling. Retention recognizes that artistic energy, while the lower position gives less weight to patriotic familiarity alone. Potop occupies one slot; the entire Trilogy is not silently included under its title.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-035",
+      "item_id": 1001,
+      "source_ids": [
+        "POLAND-184",
+        "POLAND-080"
+      ],
+      "standing": "Position 35 in the owner-supplied audited 14 September 2026 revision. The gap between self-explanation and responsibility is exposed through desire, class advantage and another person’s vulnerability. Its shifting perspectives turn a moral problem into a problem of narrative knowledge. It remains near its original position because the expanded evidence confirms a strong, distinct achievement.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-036",
+      "item_id": 6463,
+      "source_ids": [
+        "POLAND-143"
+      ],
+      "standing": "Position 36 in the owner-supplied audited 14 September 2026 revision. Brief poems make physical exhaustion, fear, care and survival carry the pressure of history. The spare language provides an artistic counterpart to Białoszewski’s civilian prose without duplicating it. This substantial addition corrects both a missing poet and a missing mode of embodied wartime witness.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-037",
+      "item_id": 1005,
+      "source_ids": [
+        "POLAND-150",
+        "POLAND-155",
+        "POLAND-156",
+        "POLAND-177"
+      ],
+      "standing": "Position 37 in the owner-supplied audited 14 September 2026 revision. An extended act of speaking converts the apparently incidental into a structure of remembered catastrophe, chance and ordinary life. The control of voice sustains the long form. Directly consulted reviews support its distinction from Kamień na kamieniu, even though the earlier novel retains the stronger overall position.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-038",
+      "item_id": 998,
+      "source_ids": [
+        "POLAND-144",
+        "POLAND-021"
+      ],
+      "standing": "Position 38 in the owner-supplied audited 14 September 2026 revision. The stripped line and damaged moral vocabulary give postwar poetry a changed relation to inherited eloquence. Its importance is formal as well as historical: restraint makes the impossibility of easy recovery audible. It remains high while sharing Różewicz’s representation with a newly admitted dramatic work.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-039",
+      "item_id": 1002,
+      "source_ids": [
+        "POLAND-210",
+        "POLAND-021"
+      ],
+      "standing": "Position 39 in the owner-supplied audited 14 September 2026 revision. Musical pattern and nonlinear recollection expose how frustrated ambition and displacement can deform intimate life. The central consciousness remains difficult without becoming merely illustrative. Its sustained psychological design warrants retention close to the baseline’s position, rather than a token place for an overlooked author.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-040",
+      "item_id": 1007,
+      "source_ids": [
+        "POLAND-021",
+        "POLAND-022",
+        "POLAND-074"
+      ],
+      "standing": "Position 40 in the owner-supplied audited 14 September 2026 revision. The absurd errand imposed on a compromised intellectual makes civic decay both comic and frightening. A deliberately unstable Warsaw becomes a stage for the failure of public language and private conviction. Its concentrated political nightmare keeps the same position after the wider reassessment.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-041",
+      "item_id": 1015,
+      "source_ids": [
+        "POLAND-069",
+        "POLAND-073"
+      ],
+      "standing": "Position 41 in the owner-supplied audited 14 September 2026 revision. The patterned life of a small place opens onto time, violence and the limits of human perspective. The novel’s architecture gives local memory a reach beyond conventional family chronicle. It rises moderately as an earlier Tokarczuk achievement with a distinctive design and longer domestic reception.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-042",
+      "item_id": 6469,
+      "source_ids": [
+        "POLAND-144"
+      ],
+      "standing": "Position 42 in the owner-supplied audited 14 September 2026 revision. A room through which figures and fragments pass replaces the reassuring progression of conventional dramatic biography. The broken arrangement makes the aftermath of war a problem of form. This addition strengthens postwar drama; the later Kartoteka rozrzucona is a separate reworking, not silently folded into the ranked text.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-043",
+      "item_id": 1058,
+      "source_ids": [
+        "POLAND-136",
+        "POLAND-021"
+      ],
+      "standing": "Position 43 in the owner-supplied audited 14 September 2026 revision. The passage from private despair to political action exposes the instability of the heroic self. Rhetorical brilliance is repeatedly tested by bodily fear and practical failure. Its large rise recognizes drama as literature in its own right and preserves the work’s incomplete larger project.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-044",
+      "item_id": 1003,
+      "source_ids": [
+        "POLAND-196",
+        "POLAND-021"
+      ],
+      "standing": "Position 44 in the owner-supplied audited 14 September 2026 revision. Grotesque excess, desire and ideological submission drive a deliberately unruly vision of modern civilization. The novel’s intellectual aggression and refusal of conventional proportion justify its place among the major interwar experiments. Its lower position reflects comparative balance, not a demand that experiment become easy reading.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-045",
+      "item_id": 6471,
+      "source_ids": [
+        "POLAND-158",
+        "POLAND-021"
+      ],
+      "standing": "Position 45 in the owner-supplied audited 14 September 2026 revision. Folk narrative and the supernatural challenge the authority of detached rational explanation through highly memorable dramatic situations. Historical inauguration alone would be insufficient, but the sequence’s formal vitality supports inclusion. It is a defined part of Poezje, not a claim to rank everything in that volume.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-046",
+      "item_id": 1011,
+      "source_ids": [
+        "POLAND-182",
+        "POLAND-022"
+      ],
+      "standing": "Position 46 in the owner-supplied audited 14 September 2026 revision. The shaped encounter between reporter and witness connects the ghetto uprising with the later work of keeping individual people alive. Its power lies in the difficult fit between public memory and particular experience. Krall’s compositional role and Edelman’s testimony both remain visible.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-047",
+      "item_id": 1014,
+      "source_ids": [
+        "POLAND-128"
+      ],
+      "standing": "Position 47 in the owner-supplied audited 14 September 2026 revision. The spoken account links literary modernism, ideological commitment, imprisonment and personal disillusionment without resolving them into a clean conversion story. Its intellectual range and lived contradictions sustain the original position. Attribution acknowledges Miłosz’s interviewing role and the posthumous shaping of spoken material.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-048",
+      "item_id": 6474,
+      "source_ids": [
+        "POLAND-142",
+        "POLAND-021"
+      ],
+      "standing": "Position 48 in the owner-supplied audited 14 September 2026 revision. Tightly pressured verse makes spiritual conflict inseparable from unstable earthly desire. The collection adds a crucial early-modern mode of intellectual and linguistic intensity. Its posthumous assembly is explicit, and poems of disputed attribution beyond the secure collection are not automatically annexed to this entry.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-049",
+      "item_id": 1031,
+      "source_ids": [
+        "POLAND-195"
+      ],
+      "standing": "Position 49 in the owner-supplied audited 14 September 2026 revision. The long argument combines conceptual exposition with a sustained account of a tradition’s internal divisions and political consequences. Its literary-intellectual force earns inclusion under the report’s broad book scope. Agreement with its conclusions is unnecessary; its achievement is the scale and clarity of a consequential interpretation.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-050",
+      "item_id": 1018,
+      "source_ids": [
+        "POLAND-170"
+      ],
+      "standing": "Position 50 in the owner-supplied audited 14 September 2026 revision. Technical speculation is inseparable from verbal invention, fable and comic misrule. The collection demonstrates a form of Lem’s achievement quite different from Solaris: ideas acquire force through the pleasure and instability of storytelling. It remains the second-highest Lem entry without relying on adaptations or franchise recognition.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-051",
+      "item_id": 1025,
+      "source_ids": [
+        "POLAND-179",
+        "POLAND-021"
+      ],
+      "standing": "Position 51 in the owner-supplied audited 14 September 2026 revision. A household’s inverted hierarchy makes rebellion, conformity and brute force exchange places. The dramatic mechanism is unusually economical: abstract social conflicts become visible in behavior and stage relationships. It rises moderately because theatrical economy deserves the same attention as a novel’s elaboration.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-052",
+      "item_id": 994,
+      "source_ids": [
+        "POLAND-234",
+        "POLAND-073"
+      ],
+      "standing": "Position 52 in the owner-supplied audited 14 September 2026 revision. The stylized courtly voices create a powerful anatomy of servility and power. Its crafted literary form sustains inclusion, while the lower rank reflects greater caution about treating documentary authority and artistic effect as interchangeable.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-053",
+      "item_id": 1012,
+      "source_ids": [
+        "POLAND-238",
+        "POLAND-022"
+      ],
+      "standing": "Position 53 in the owner-supplied audited 14 September 2026 revision. The enforced proximity of a former resistance member and a Nazi perpetrator becomes an inquiry into the making of an executioner. Its narrative situation gives testimony and interrogation exceptional tension. It is a remembered and composed account, with censorship and later restoration affecting the published text.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-054",
+      "item_id": 1013,
+      "source_ids": [
+        "POLAND-146",
+        "POLAND-074"
+      ],
+      "standing": "Position 54 in the owner-supplied audited 14 September 2026 revision. An individual formation becomes a way to make Eastern Europe intellectually legible across cultural divisions. The combination of self-examination and historical reflection earns a separate place beside Zniewolony umysł. Its placement recognizes the strength of this book’s perspective without claiming it represents every regional experience.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-055",
+      "item_id": 1059,
+      "source_ids": [
+        "POLAND-137",
+        "POLAND-021"
+      ],
+      "standing": "Position 55 in the owner-supplied audited 14 September 2026 revision. The failure of private vocation opens onto a violent conflict among social visions. Its dramatic imagination and historical influence merit a large promotion, accompanied by explicit recognition of the work’s anti-Jewish conspiracy motifs. Canonical importance here does not validate those motifs or make them historical evidence.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-056",
+      "item_id": 1060,
+      "source_ids": [
+        "POLAND-138",
+        "POLAND-021"
+      ],
+      "standing": "Position 56 in the owner-supplied audited 14 September 2026 revision. Conflict over property and marriage is organized with exceptional comic balance, giving sharply differentiated speakers a shared dramatic machine. The literary force resides in timing and language as much as plot. Its rise rejects the assumption that comedy’s familiarity or apparent lightness makes it a minor form.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-057",
+      "item_id": 6482,
+      "source_ids": [
+        "POLAND-165",
+        "POLAND-168",
+        "POLAND-233"
+      ],
+      "standing": "Position 57 in the owner-supplied audited 14 September 2026 revision. Desire, artistic aspiration and competing judgments are distributed through a frame that refuses a simple moral resolution. The new research strengthens its claim beyond biographical or recuperative interest. University bibliography corrects an overly simple 1846 “complete text” description, preserving the significance of the later frame.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-058",
+      "item_id": 1062,
+      "source_ids": [
+        "POLAND-135",
+        "POLAND-206",
+        "POLAND-021"
+      ],
+      "standing": "Position 58 in the owner-supplied audited 14 September 2026 revision. Energetic self-presentation, anecdote and shifting registers make the memoir a formative prose resource. Its importance survives the narrator’s errors, omissions and self-interest, which are part of how it should be read. The large promotion values the making of a literary voice rather than treating it as an impartial chronicle.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-059",
+      "item_id": 992,
+      "source_ids": [
+        "POLAND-160",
+        "POLAND-021"
+      ],
+      "standing": "Position 59 in the owner-supplied audited 14 September 2026 revision. The protagonist’s disillusionment tests independence against inequality and competing visions of collective life. Its unresolved energy remains valuable. The substantial fall reflects a stricter comparison of artistic integration across the entire canon; public importance and curricular prominence alone no longer secure a top-quarter position.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-060",
+      "item_id": 1037,
+      "source_ids": [
+        "POLAND-185",
+        "POLAND-021"
+      ],
+      "standing": "Position 60 in the owner-supplied audited 14 September 2026 revision. A return to a remembered household becomes an encounter with irrecoverable time and the limits of self-knowledge. Its precision and emotional indirection justify ranking a short work beside large novels. The unit is the novella itself, not every story in editions sharing its title.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-061",
+      "item_id": 1006,
+      "source_ids": [
+        "POLAND-177"
+      ],
+      "standing": "Position 61 in the owner-supplied audited 14 September 2026 revision. Memory reconstructs a world through gestures, scenes and the changing limits of perception. Its intimacy earns retention, while comparison with the author’s two stronger entries and newly weighted forms lowers its relative place. The novel remains distinct from a factual autobiography.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-062",
+      "item_id": 993,
+      "source_ids": [
+        "POLAND-188",
+        "POLAND-021"
+      ],
+      "standing": "Position 62 in the owner-supplied audited 14 September 2026 revision. Desire and manipulation become an experiment imposed on other people under the pressure of occupation. The book’s unsettling construction earns retention, but the expanded comparison gives greater priority to Gombrowicz’s other major modes and to neglected poetry, drama and earlier prose.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-063",
+      "item_id": 1051,
+      "source_ids": [
+        "POLAND-147"
+      ],
+      "standing": "Position 63 in the owner-supplied audited 14 September 2026 revision. Looking at art becomes a disciplined encounter with work, violence and the distance between present observers and inherited culture. The essays’ concrete attentiveness keeps the learned material alive. Its promotion broadens Herbert’s presence beyond poetry while recognizing a different book-length achievement.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-064",
+      "item_id": 1035,
+      "source_ids": [
+        "POLAND-178",
+        "POLAND-047"
+      ],
+      "standing": "Position 64 in the owner-supplied audited 14 September 2026 revision. Disrupted voices and uncertain connections make survival resist an orderly retrospective narrative. The difficulty is integral to the work’s treatment of a shattered social world. Critical and cartographic perspectives strengthen retention above more conventional accounts without reducing that world to a single national history.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-065",
+      "item_id": 1065,
+      "source_ids": [
+        "POLAND-232"
+      ],
+      "standing": "Position 65 in the owner-supplied audited 14 September 2026 revision. A child’s restricted horizon and the pressure of hunger make the destruction of a community immediate without easy consolation. The arrangement of scenes is central to the testimony’s literary force. A consulted Polish critical reassessment supplies a strong reason to lift this neglected book well above the cutoff.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-066",
+      "item_id": 1034,
+      "source_ids": [
+        "POLAND-211"
+      ],
+      "standing": "Position 66 in the owner-supplied audited 14 September 2026 revision. A gathering place becomes a precarious container for the speech, argument and vulnerability of a threatened community. Its concentrated setting gives the social world breadth without epic sprawl. The book stays close to its original place, with Polish language and Jewish cultural affiliation both stated.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-067",
+      "item_id": 1016,
+      "source_ids": [
+        "POLAND-082",
+        "POLAND-069"
+      ],
+      "standing": "Position 67 in the owner-supplied audited 14 September 2026 revision. Fragments of local life, legend, dreams and displaced history make a place exceed any single inhabitant’s story. Its formal openness remains compelling, and a translator’s direct recommendation supports its distinctive appeal. It moves down within a crowded Tokarczuk representation rather than losing its artistic claim.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-068",
+      "item_id": 1033,
+      "source_ids": [
+        "POLAND-228"
+      ],
+      "standing": "Position 68 in the owner-supplied audited 14 September 2026 revision. The persistence of a German inhabitant through a city’s transformed population makes historical rupture a problem of everyday objects and continued living. Its attentive prose and refusal of easy closure sustain its position. Regional complexity is a central achievement rather than decorative setting.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-069",
+      "item_id": 1032,
+      "source_ids": [
+        "POLAND-227"
+      ],
+      "standing": "Position 69 in the owner-supplied audited 14 September 2026 revision. A childhood disappearance generates questions that adult reconstruction cannot settle. The withheld explanation makes otherness and the desire for meaning part of the reader’s experience. Its compact design and ambiguous returns justify keeping the book near its original position.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-070",
+      "item_id": 6494,
+      "source_ids": [
+        "POLAND-148",
+        "POLAND-166"
+      ],
+      "standing": "Position 70 in the owner-supplied audited 14 September 2026 revision. Propulsive language turns elite spectacle into a vision of systemic corruption and approaching catastrophe. The satire’s force arises from rhythm and verbal excess as much as its targets. The publication record requires qualification: the sources use “complete” differently, so 1946 is not presented as an uncontested final text.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-071",
+      "item_id": 1057,
+      "source_ids": [
+        "POLAND-139",
+        "POLAND-021"
+      ],
+      "standing": "Position 71 in the owner-supplied audited 14 September 2026 revision. A family’s management of respectability exposes the alliance of class power, sexual exploitation and public hypocrisy. The drama earns its place through the precision of social behavior and speech. Its promotion gives a familiar staged classic fuller credit as a literary construction.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-072",
+      "item_id": 6496,
+      "source_ids": [
+        "POLAND-169",
+        "POLAND-021"
+      ],
+      "standing": "Position 72 in the owner-supplied audited 14 September 2026 revision. The collection’s range moves from jokes and portraits to philosophical reflection without losing the compactness of individual pieces. It expands Kochanowski’s representation beyond grief into social observation and worldly pleasure. The ranked unit is the named Polish collection, not a modern miscellany of all his short verse.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-073",
+      "item_id": 1066,
+      "source_ids": [
+        "POLAND-208",
+        "POLAND-021"
+      ],
+      "standing": "Position 73 in the owner-supplied audited 14 September 2026 revision. The protagonist’s movement through education, society and imagined alternatives gives criticism of habits a flexible narrative form. Its foundational role matters, but so does the experiment in testing institutions against a changed observer. The promotion restores an important Enlightenment book to more than a ceremonial final slot.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-074",
+      "item_id": 1067,
+      "source_ids": [
+        "POLAND-207",
+        "POLAND-021"
+      ],
+      "standing": "Position 74 in the owner-supplied audited 14 September 2026 revision. The ideal of a well-ordered life is made tangible through work, seasons, household detail and vernacular abundance. Its social limits remain those of a landed-gentry worldview. The prose’s formative force justifies moving it above the boundary while preserving its identity within a larger printed work.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-075",
+      "item_id": 1008,
+      "source_ids": [
+        "POLAND-082",
+        "POLAND-021"
+      ],
+      "standing": "Position 75 in the owner-supplied audited 14 September 2026 revision. The end of war becomes a conflict among damaged loyalties and incompatible futures. Its atmosphere and moral pressure sustain inclusion, while its politically conditioned textual history calls for care. The fall reflects reduced reliance on public and adaptation prestige, with the novel assessed as a constructed and revised work.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-076",
+      "item_id": 1029,
+      "source_ids": [
+        "POLAND-201"
+      ],
+      "standing": "Position 76 in the owner-supplied audited 14 September 2026 revision. An elaborate counterfactual world turns logic, history and identity into mutually dependent forces. Its difficulty is often productive because the language participates in the imagined order. It stays in the list as a major speculative achievement, with a lower place after broader historical and formal comparison.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-077",
+      "item_id": 1040,
+      "source_ids": [
+        "POLAND-200"
+      ],
+      "standing": "Position 77 in the owner-supplied audited 14 September 2026 revision. A volatile speaking voice exposes identities assembled from consumer language, resentment and circulating clichés. The book’s intervention is primarily linguistic, making it more than a sociological snapshot. It remains high among recent debuts; the Nike awarded for Paw królowej is not misassigned to this different work.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-078",
+      "item_id": 1041,
+      "source_ids": [
+        "POLAND-236"
+      ],
+      "standing": "Position 78 in the owner-supplied audited 14 September 2026 revision. Stylized speech and competing forms of desire give marginalized lives their own unruly narrative presence. The work’s formal energy supports inclusion independently of its representational importance. The original Lubiewo remains the ranked unit, with later expansion acknowledged as an edition issue rather than a second book vote.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-079",
+      "item_id": 1046,
+      "source_ids": [
+        "POLAND-197"
+      ],
+      "standing": "Position 79 in the owner-supplied audited 14 September 2026 revision. Women’s lives and inherited stories make postwar settlement and social aspiration visible from within a particular place. Its regional and domestic scales reinforce each other. The expanded review supports keeping it as Bator’s single entry, rather than importing prize recognition from her later novel.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-080",
+      "item_id": 6503,
+      "source_ids": [
+        "POLAND-152",
+        "POLAND-153"
+      ],
+      "standing": "Position 80 in the owner-supplied audited 14 September 2026 revision. The analysis of a literary work as a structured object gives unusual precision to questions about text, imagined world and the reader’s participation. Inclusion follows the explicitly broad scope covering philosophy. It is a consequential book about literature, not a novel or a stand-in for all Polish philosophical writing.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-081",
+      "item_id": 1052,
+      "source_ids": [
+        "POLAND-234"
+      ],
+      "standing": "Position 81 in the owner-supplied audited 14 September 2026 revision. The movement among places and remembered encounters gives imperial dissolution a human and spatial texture. It remains a strong reportage collection, evaluated as an authored selection rather than a comprehensive account of every society it visits.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-082",
+      "item_id": 1039,
+      "source_ids": [
+        "POLAND-203"
+      ],
+      "standing": "Position 82 in the owner-supplied audited 14 September 2026 revision. Repetition, attention and wandering replace the expectation that travel should culminate in a grand destination. The prose constructs a geography of overlooked places and transient encounters. Its singular sensibility warrants retention, though a broader range of older forms lowers its relative position.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-083",
+      "item_id": 1028,
+      "source_ids": [
+        "POLAND-202"
+      ],
+      "standing": "Position 83 in the owner-supplied audited 14 September 2026 revision. The reworking of familiar tales combines narrative economy, moral complication and an effective recurring protagonist. This specific collection earns a place for its storytelling, independently of the wider Witcher franchise. The lower rank separates the book’s literary achievement from the exceptional visibility of its adaptations.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-084",
+      "item_id": 1021,
+      "source_ids": [
+        "POLAND-174"
+      ],
+      "standing": "Position 84 in the owner-supplied audited 14 September 2026 revision. The attempt to interpret an apparent cosmic message exposes scientific ambition, uncertainty and institutional power. Its sustained epistemological pressure distinguishes it from a conventional discovery narrative. Retention recognizes a major Lem mode, while stronger cross-form competition moves it below the author’s most complete imaginative successes.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-085",
+      "item_id": 1024,
+      "source_ids": [
+        "POLAND-175"
+      ],
+      "standing": "Position 85 in the owner-supplied audited 14 September 2026 revision. The systematic imagination applied to technological possibility makes the book valuable as a form of philosophical inquiry. It is included for intellectual construction, not a tally of supposedly fulfilled predictions. The lower position reflects its more limited literary comparison with the leading fiction and poetry.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-086",
+      "item_id": 1020,
+      "source_ids": [
+        "POLAND-172"
+      ],
+      "standing": "Position 86 in the owner-supplied audited 14 September 2026 revision. A confrontation with a nonhuman order tests the assumption that superior machinery guarantees understanding or control. Its compact adventure structure gives a difficult idea narrative clarity. It survives the pruning of Lem’s representation because that combination is distinct, though it moves down against the enlarged field.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-087",
+      "item_id": 1030,
+      "source_ids": [
+        "POLAND-239"
+      ],
+      "standing": "Position 87 in the owner-supplied audited 14 September 2026 revision. Classification, work and access to resources become mechanisms through which an apparently legible society controls its inhabitants. The system’s internal logic gives the critique enduring interest. Its inclusion recognizes Polish social science fiction beyond Lem, while the lower rank reflects a less extensive critical base in this corpus.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-088",
+      "item_id": 1017,
+      "source_ids": [
+        "POLAND-067",
+        "POLAND-068",
+        "POLAND-069"
+      ],
+      "standing": "Position 88 in the owner-supplied audited 14 September 2026 revision. A forceful narrator makes an apparent crime investigation challenge ordinary assumptions about animals, reason and justice. Its accessibility and narrative conviction justify retention. It falls below Tokarczuk’s more expansive formal achievements; Booker coverage documents reception rather than proving it belongs above them.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-089",
+      "item_id": 1053,
+      "source_ids": [
+        "POLAND-234"
+      ],
+      "standing": "Position 89 in the owner-supplied audited 14 September 2026 revision. The urgency of a collapsing situation gives the book concentrated narrative force. It stays as a distinct, relatively compact reportage work, read with attention to the observer’s partial view and the shaping pressure of literary narration.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-090",
+      "item_id": 1063,
+      "source_ids": [
+        "POLAND-240",
+        "POLAND-074"
+      ],
+      "standing": "Position 90 in the owner-supplied audited 14 September 2026 revision. A child’s effort to govern exposes the difficulty of translating good intentions into institutions and responsibility. The imaginative seriousness of the experiment earns a place beyond adult-prose canons. This is the first Maciuś novel; the separate island sequel is excluded from its single slot.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-091",
+      "item_id": 6521,
+      "source_ids": [
+        "POLAND-186",
+        "POLAND-191"
+      ],
+      "standing": "Position 91 in the owner-supplied audited 14 September 2026 revision. Dynastic narrative becomes a shaped account of political legitimacy rather than a neutral record. Its importance to the beginnings of literature associated with Poland warrants a carefully bounded place. The author remains anonymous, and neither the conventional name nor a modern translated title establishes an original national identity.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-092",
+      "item_id": 1027,
+      "source_ids": [
+        "POLAND-241"
+      ],
+      "standing": "Position 92 in the owner-supplied audited 14 September 2026 revision. The combination of individual lives, friendship and collective commitment created an exceptionally durable work of wartime remembrance. It remains important within youth and documentary literature. The lower position reflects a stricter separation of formative civic influence from a claim to the strongest artistic achievement across all forms.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-093",
+      "item_id": 1026,
+      "source_ids": [
+        "POLAND-235"
+      ],
+      "standing": "Position 93 in the owner-supplied audited 14 September 2026 revision. A musician’s survival gives the destruction of Warsaw a singular experiential continuity. The book deserves retention on its own documentary and narrative terms. Its lower position separates that achievement from the film’s visibility, while attribution and dating preserve the editorial mediation and later publication history.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-094",
+      "item_id": 1038,
+      "source_ids": [
+        "POLAND-203"
+      ],
+      "standing": "Position 94 in the owner-supplied audited 14 September 2026 revision. A changing rural margin is held together by recurring people, place and a prose alert to both harshness and enchantment. The collection remains a distinctive small-scale achievement. It moves down as older poetic and dramatic works enter more serious comparison, without becoming redundant with Stasiuk’s travel essays.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-095",
+      "item_id": 1049,
+      "source_ids": [
+        "POLAND-199"
+      ],
+      "standing": "Position 95 in the owner-supplied audited 14 September 2026 revision. The selection and arrangement of apparently separate lives reveal the pressures of public myth and accommodation. Its Czech subject matter makes it a useful test of a language-and-tradition scope rather than a books-about-Poland definition. It stays in the list with modestly lower relative priority.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-096",
+      "item_id": 1050,
+      "source_ids": [
+        "POLAND-231"
+      ],
+      "standing": "Position 96 in the owner-supplied audited 14 September 2026 revision. The disappearance of a town is reconstructed through people, industry and successive displacements. The place-centered organization makes local investigation more than an accumulation of facts. Its relatively recent reception counsels a lower position, while the work’s coherent design preserves its place.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-097",
+      "item_id": 1064,
+      "source_ids": [
+        "POLAND-229"
+      ],
+      "standing": "Position 97 in the owner-supplied audited 14 September 2026 revision. The popular plot creates room for an unusually animated city, its speech, informal networks and desires. Narrative exuberance supports retention without making the book a sociological report. It holds its original place as a durable urban and popular-literary achievement.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-098",
+      "item_id": 6515,
+      "source_ids": [
+        "POLAND-154"
+      ],
+      "standing": "Position 98 in the owner-supplied audited 14 September 2026 revision. Objects, brief recollections and absences create an exacting language for bereavement and inherited identity. The work’s economy supports inclusion more than the fact of winning a prize. Its short reception history keeps it near the boundary, where the new placement is deliberately open to future revision.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-099",
+      "item_id": 1044,
+      "source_ids": [
+        "POLAND-198"
+      ],
+      "standing": "Position 99 in the owner-supplied audited 14 September 2026 revision. An unstable protagonist and competing identifications unsettle the expectation that wartime identity must be coherent or exemplary. Its force earns the author one place. The fall reflects broader historical comparison and a decision to retain this work rather than duplicate Twardoch through Król.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "books-poland-revision-100",
+      "item_id": 1042,
+      "source_ids": [
+        "POLAND-230"
+      ],
+      "standing": "Position 100 in the owner-supplied audited 14 September 2026 revision. Verbal brilliance and compulsive storytelling complicate the narrator’s attempts at self-explanation. The tension between narrative mastery and personal helplessness secures the final slot. Its position is especially contestable: this is a defensible boundary choice, not proof of measurable superiority over every excluded candidate.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    }
+  ],
+  "orders": {
+    "standing": {
+      "label": "Audited revised all-time order",
+      "description": "The supplied 14 September 2026 revised editorial order.",
+      "keys": [
+        "books-poland-revision-001",
+        "books-poland-revision-002",
+        "books-poland-revision-003",
+        "books-poland-revision-004",
+        "books-poland-revision-005",
+        "books-poland-revision-006",
+        "books-poland-revision-007",
+        "books-poland-revision-008",
+        "books-poland-revision-009",
+        "books-poland-revision-010",
+        "books-poland-revision-011",
+        "books-poland-revision-012",
+        "books-poland-revision-013",
+        "books-poland-revision-014",
+        "books-poland-revision-015",
+        "books-poland-revision-016",
+        "books-poland-revision-017",
+        "books-poland-revision-018",
+        "books-poland-revision-019",
+        "books-poland-revision-020",
+        "books-poland-revision-021",
+        "books-poland-revision-022",
+        "books-poland-revision-023",
+        "books-poland-revision-024",
+        "books-poland-revision-025",
+        "books-poland-revision-026",
+        "books-poland-revision-027",
+        "books-poland-revision-028",
+        "books-poland-revision-029",
+        "books-poland-revision-030",
+        "books-poland-revision-031",
+        "books-poland-revision-032",
+        "books-poland-revision-033",
+        "books-poland-revision-034",
+        "books-poland-revision-035",
+        "books-poland-revision-036",
+        "books-poland-revision-037",
+        "books-poland-revision-038",
+        "books-poland-revision-039",
+        "books-poland-revision-040",
+        "books-poland-revision-041",
+        "books-poland-revision-042",
+        "books-poland-revision-043",
+        "books-poland-revision-044",
+        "books-poland-revision-045",
+        "books-poland-revision-046",
+        "books-poland-revision-047",
+        "books-poland-revision-048",
+        "books-poland-revision-049",
+        "books-poland-revision-050",
+        "books-poland-revision-051",
+        "books-poland-revision-052",
+        "books-poland-revision-053",
+        "books-poland-revision-054",
+        "books-poland-revision-055",
+        "books-poland-revision-056",
+        "books-poland-revision-057",
+        "books-poland-revision-058",
+        "books-poland-revision-059",
+        "books-poland-revision-060",
+        "books-poland-revision-061",
+        "books-poland-revision-062",
+        "books-poland-revision-063",
+        "books-poland-revision-064",
+        "books-poland-revision-065",
+        "books-poland-revision-066",
+        "books-poland-revision-067",
+        "books-poland-revision-068",
+        "books-poland-revision-069",
+        "books-poland-revision-070",
+        "books-poland-revision-071",
+        "books-poland-revision-072",
+        "books-poland-revision-073",
+        "books-poland-revision-074",
+        "books-poland-revision-075",
+        "books-poland-revision-076",
+        "books-poland-revision-077",
+        "books-poland-revision-078",
+        "books-poland-revision-079",
+        "books-poland-revision-080",
+        "books-poland-revision-081",
+        "books-poland-revision-082",
+        "books-poland-revision-083",
+        "books-poland-revision-084",
+        "books-poland-revision-085",
+        "books-poland-revision-086",
+        "books-poland-revision-087",
+        "books-poland-revision-088",
+        "books-poland-revision-089",
+        "books-poland-revision-090",
+        "books-poland-revision-091",
+        "books-poland-revision-092",
+        "books-poland-revision-093",
+        "books-poland-revision-094",
+        "books-poland-revision-095",
+        "books-poland-revision-096",
+        "books-poland-revision-097",
+        "books-poland-revision-098",
+        "books-poland-revision-099",
+        "books-poland-revision-100"
+      ]
+    },
+    "reading": {
+      "label": "Revised order (reading-value view pending)",
+      "description": "No separate reading-value order was supplied.",
+      "keys": [
+        "books-poland-revision-001",
+        "books-poland-revision-002",
+        "books-poland-revision-003",
+        "books-poland-revision-004",
+        "books-poland-revision-005",
+        "books-poland-revision-006",
+        "books-poland-revision-007",
+        "books-poland-revision-008",
+        "books-poland-revision-009",
+        "books-poland-revision-010",
+        "books-poland-revision-011",
+        "books-poland-revision-012",
+        "books-poland-revision-013",
+        "books-poland-revision-014",
+        "books-poland-revision-015",
+        "books-poland-revision-016",
+        "books-poland-revision-017",
+        "books-poland-revision-018",
+        "books-poland-revision-019",
+        "books-poland-revision-020",
+        "books-poland-revision-021",
+        "books-poland-revision-022",
+        "books-poland-revision-023",
+        "books-poland-revision-024",
+        "books-poland-revision-025",
+        "books-poland-revision-026",
+        "books-poland-revision-027",
+        "books-poland-revision-028",
+        "books-poland-revision-029",
+        "books-poland-revision-030",
+        "books-poland-revision-031",
+        "books-poland-revision-032",
+        "books-poland-revision-033",
+        "books-poland-revision-034",
+        "books-poland-revision-035",
+        "books-poland-revision-036",
+        "books-poland-revision-037",
+        "books-poland-revision-038",
+        "books-poland-revision-039",
+        "books-poland-revision-040",
+        "books-poland-revision-041",
+        "books-poland-revision-042",
+        "books-poland-revision-043",
+        "books-poland-revision-044",
+        "books-poland-revision-045",
+        "books-poland-revision-046",
+        "books-poland-revision-047",
+        "books-poland-revision-048",
+        "books-poland-revision-049",
+        "books-poland-revision-050",
+        "books-poland-revision-051",
+        "books-poland-revision-052",
+        "books-poland-revision-053",
+        "books-poland-revision-054",
+        "books-poland-revision-055",
+        "books-poland-revision-056",
+        "books-poland-revision-057",
+        "books-poland-revision-058",
+        "books-poland-revision-059",
+        "books-poland-revision-060",
+        "books-poland-revision-061",
+        "books-poland-revision-062",
+        "books-poland-revision-063",
+        "books-poland-revision-064",
+        "books-poland-revision-065",
+        "books-poland-revision-066",
+        "books-poland-revision-067",
+        "books-poland-revision-068",
+        "books-poland-revision-069",
+        "books-poland-revision-070",
+        "books-poland-revision-071",
+        "books-poland-revision-072",
+        "books-poland-revision-073",
+        "books-poland-revision-074",
+        "books-poland-revision-075",
+        "books-poland-revision-076",
+        "books-poland-revision-077",
+        "books-poland-revision-078",
+        "books-poland-revision-079",
+        "books-poland-revision-080",
+        "books-poland-revision-081",
+        "books-poland-revision-082",
+        "books-poland-revision-083",
+        "books-poland-revision-084",
+        "books-poland-revision-085",
+        "books-poland-revision-086",
+        "books-poland-revision-087",
+        "books-poland-revision-088",
+        "books-poland-revision-089",
+        "books-poland-revision-090",
+        "books-poland-revision-091",
+        "books-poland-revision-092",
+        "books-poland-revision-093",
+        "books-poland-revision-094",
+        "books-poland-revision-095",
+        "books-poland-revision-096",
+        "books-poland-revision-097",
+        "books-poland-revision-098",
+        "books-poland-revision-099",
+        "books-poland-revision-100"
+      ]
+    }
+  }
+}

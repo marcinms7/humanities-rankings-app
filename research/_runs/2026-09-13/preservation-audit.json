@@ -1,0 +1,128 @@
+{
+  "tables": {
+    "django_migrations": {
+      "before_count": 21,
+      "count": 21,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "django_content_type": {
+      "before_count": 17,
+      "count": 17,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "auth_group_permissions": {
+      "before_count": 0,
+      "count": 0,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "auth_permission": {
+      "before_count": 68,
+      "count": 68,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "auth_group": {
+      "before_count": 0,
+      "count": 0,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "core_user_groups": {
+      "before_count": 0,
+      "count": 0,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "core_user_user_permissions": {
+      "before_count": 0,
+      "count": 0,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "core_work_authors": {
+      "before_count": 0,
+      "count": 14,
+      "unchanged": false,
+      "classification": "authorized_catalog_or_publication_change"
+    },
+    "core_work_tags": {
+      "before_count": 0,
+      "count": 0,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "core_rankingpreference": {
+      "before_count": 1,
+      "count": 1,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "core_rankingrevision": {
+      "before_count": 0,
+      "count": 10,
+      "unchanged": false,
+      "classification": "authorized_catalog_or_publication_change"
+    },
+    "core_planitem": {
+      "before_count": 0,
+      "count": 0,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "core_libraryitem": {
+      "before_count": 0,
+      "count": 1,
+      "unchanged": false,
+      "classification": "new_live_session_library_record_retained"
+    },
+    "django_admin_log": {
+      "before_count": 0,
+      "count": 0,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "core_edition": {
+      "before_count": 0,
+      "count": 14,
+      "unchanged": false,
+      "classification": "authorized_catalog_or_publication_change"
+    },
+    "core_person": {
+      "before_count": 0,
+      "count": 34,
+      "unchanged": false,
+      "classification": "authorized_catalog_or_publication_change"
+    },
+    "core_rankingentry": {
+      "before_count": 0,
+      "count": 55,
+      "unchanged": false,
+      "classification": "authorized_catalog_or_publication_change"
+    },
+    "core_tag": {
+      "before_count": 0,
+      "count": 0,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "core_user": {
+      "before_count": 1,
+      "count": 1,
+      "unchanged": true,
+      "classification": "unchanged"
+    },
+    "core_work": {
+      "before_count": 0,
+      "count": 14,
+      "unchanged": false,
+      "classification": "authorized_catalog_or_publication_change"
+    }
+  },
+  "original_sources_preserved": 51,
+  "deletion_trigger_count": 8,
+  "private_data_note": "The real account and existing ranking preference match original digests. One library row appeared during the live session; research/import scripts did not write that table and the row is retained. Do not claim all private tables are unchanged or restore the old empty library.",
+  "backup_after_publication": "manual-20260913T055334636936Z"
+}

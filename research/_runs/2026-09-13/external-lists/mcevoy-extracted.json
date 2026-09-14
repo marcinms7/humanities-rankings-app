@@ -1,0 +1,556 @@
+{
+  "reading": [
+    {
+      "position": 1,
+      "title": "The Iliad",
+      "author_as_printed": "Homer"
+    },
+    {
+      "position": 2,
+      "title": "The Odyssey",
+      "author_as_printed": "Homer"
+    },
+    {
+      "position": 3,
+      "title": "Prometheus Bound",
+      "author_as_printed": "Aeschylus"
+    },
+    {
+      "position": 4,
+      "title": "Agamemnon",
+      "author_as_printed": "Aeschylus"
+    },
+    {
+      "position": 5,
+      "title": "The Eumenides",
+      "author_as_printed": "Aeschylus"
+    },
+    {
+      "position": 6,
+      "title": "The Libation Bearers",
+      "author_as_printed": "Aeschylus"
+    },
+    {
+      "position": 7,
+      "title": "Hippolytus",
+      "author_as_printed": "Euripides"
+    },
+    {
+      "position": 8,
+      "title": "Bacchae",
+      "author_as_printed": "Euripides"
+    },
+    {
+      "position": 9,
+      "title": "Oedipus the King",
+      "author_as_printed": "Sophocles"
+    },
+    {
+      "position": 10,
+      "title": "The Theban Plays",
+      "author_as_printed": "Sophocles"
+    },
+    {
+      "position": 11,
+      "title": "Antigone",
+      "author_as_printed": "Sophocles"
+    },
+    {
+      "position": 12,
+      "title": "Clouds",
+      "author_as_printed": "Aristophanes"
+    },
+    {
+      "position": 13,
+      "title": "Frogs",
+      "author_as_printed": "Aristophanes"
+    },
+    {
+      "position": 14,
+      "title": "Lysistrata",
+      "author_as_printed": "Aristophanes"
+    },
+    {
+      "position": 15,
+      "title": "The Assemblywomen",
+      "author_as_printed": "Aristophanes"
+    },
+    {
+      "position": 16,
+      "title": "The Republic",
+      "author_as_printed": "Plato"
+    },
+    {
+      "position": 17,
+      "title": "The Symposium",
+      "author_as_printed": "Plato"
+    },
+    {
+      "position": 18,
+      "title": "Meno",
+      "author_as_printed": "Plato"
+    },
+    {
+      "position": 19,
+      "title": "The Apology",
+      "author_as_printed": "Plato"
+    },
+    {
+      "position": 20,
+      "title": "The History",
+      "author_as_printed": "Herodotus"
+    },
+    {
+      "position": 21,
+      "title": "The History of the Peloponnesian War",
+      "author_as_printed": "Thucydides"
+    },
+    {
+      "position": 22,
+      "title": "Politics",
+      "author_as_printed": "Aristotle"
+    },
+    {
+      "position": 23,
+      "title": "Ethics",
+      "author_as_printed": "Aristotle"
+    },
+    {
+      "position": 24,
+      "title": "Metaphysics",
+      "author_as_printed": "Aristotle"
+    },
+    {
+      "position": 25,
+      "title": "On the Soul",
+      "author_as_printed": "Aristotle"
+    },
+    {
+      "position": 26,
+      "title": "Rhetoric",
+      "author_as_printed": "Aristotle"
+    },
+    {
+      "position": 27,
+      "title": "Poetics",
+      "author_as_printed": "Aristotle"
+    },
+    {
+      "position": 28,
+      "title": "The Lives of the Noble Grecians and Romans",
+      "author_as_printed": "Plutarch"
+    },
+    {
+      "position": 29,
+      "title": "Discourses",
+      "author_as_printed": "Epictetus"
+    },
+    {
+      "position": 30,
+      "title": "The Old Testament",
+      "author_as_printed": "Epictetus"
+    },
+    {
+      "position": 31,
+      "title": "Meditations",
+      "author_as_printed": "Marcus Aurelius"
+    },
+    {
+      "position": 32,
+      "title": "The Laws",
+      "author_as_printed": "Cicero"
+    },
+    {
+      "position": 33,
+      "title": "The Republic",
+      "author_as_printed": "Cicero"
+    },
+    {
+      "position": 34,
+      "title": "Aeneid",
+      "author_as_printed": "Virgil"
+    },
+    {
+      "position": 35,
+      "title": "Odes",
+      "author_as_printed": "Horace"
+    },
+    {
+      "position": 36,
+      "title": "Poetics",
+      "author_as_printed": "Horace"
+    },
+    {
+      "position": 37,
+      "title": "Satires",
+      "author_as_printed": "Horace"
+    },
+    {
+      "position": 38,
+      "title": "Metamorphoses",
+      "author_as_printed": "Ovid"
+    },
+    {
+      "position": 39,
+      "title": "Confessions",
+      "author_as_printed": "Saint Augustine"
+    },
+    {
+      "position": 40,
+      "title": "City of God",
+      "author_as_printed": "Saint Augustine"
+    },
+    {
+      "position": 41,
+      "title": "Treatises",
+      "author_as_printed": "Saint Thomas Aquinas"
+    },
+    {
+      "position": 42,
+      "title": "The Divine Comedy",
+      "author_as_printed": "Dante"
+    },
+    {
+      "position": 43,
+      "title": "Canterbury Tales",
+      "author_as_printed": "Chaucer"
+    },
+    {
+      "position": 44,
+      "title": "Troilus and Criseyde",
+      "author_as_printed": "Chaucer"
+    },
+    {
+      "position": 45,
+      "title": "The Prince",
+      "author_as_printed": "Machiavelli"
+    },
+    {
+      "position": 46,
+      "title": "Discourse",
+      "author_as_printed": "Descartes"
+    },
+    {
+      "position": 47,
+      "title": "The New Testament",
+      "author_as_printed": "Descartes"
+    },
+    {
+      "position": 48,
+      "title": "Everything",
+      "author_as_printed": "Shakespeare"
+    },
+    {
+      "position": 49,
+      "title": "Don Quixote",
+      "author_as_printed": "Cervantes"
+    },
+    {
+      "position": 50,
+      "title": "Essays",
+      "author_as_printed": "Montaigne"
+    },
+    {
+      "position": 51,
+      "title": "Leviathan",
+      "author_as_printed": "Thomas Hobbe"
+    },
+    {
+      "position": 52,
+      "title": "Praise of Folly",
+      "author_as_printed": "Erasmus"
+    },
+    {
+      "position": 53,
+      "title": "Paradise Lost",
+      "author_as_printed": "Milton"
+    },
+    {
+      "position": 54,
+      "title": "Areopagitica",
+      "author_as_printed": "Milton"
+    },
+    {
+      "position": 55,
+      "title": "The Misanthrope",
+      "author_as_printed": "Moliere"
+    },
+    {
+      "position": 56,
+      "title": "The School for Wives",
+      "author_as_printed": "Moliere"
+    },
+    {
+      "position": 57,
+      "title": "Tartuff",
+      "author_as_printed": "Moliere"
+    },
+    {
+      "position": 58,
+      "title": "Mathematical Principles of Natural Philosophy",
+      "author_as_printed": "Newton"
+    },
+    {
+      "position": 59,
+      "title": "Essays",
+      "author_as_printed": "John Locke"
+    },
+    {
+      "position": 60,
+      "title": "Enquiry",
+      "author_as_printed": "David Hume"
+    },
+    {
+      "position": 61,
+      "title": "Candide",
+      "author_as_printed": "Voltaire"
+    },
+    {
+      "position": 62,
+      "title": "Clarissa",
+      "author_as_printed": "Samuel Richardson"
+    },
+    {
+      "position": 63,
+      "title": "Robinson Crusoe",
+      "author_as_printed": "Daniel Defoe"
+    },
+    {
+      "position": 64,
+      "title": "The Social Contract",
+      "author_as_printed": "Rousseau"
+    },
+    {
+      "position": 65,
+      "title": "Wealth of Nations",
+      "author_as_printed": "Adam Smith"
+    },
+    {
+      "position": 66,
+      "title": "The Decline and Fall of the Roman Empire",
+      "author_as_printed": "Edward Gibbon"
+    },
+    {
+      "position": 67,
+      "title": "Critiques",
+      "author_as_printed": "Kant"
+    },
+    {
+      "position": 68,
+      "title": "On Liberty",
+      "author_as_printed": "Mill"
+    },
+    {
+      "position": 69,
+      "title": "Utilitarianism",
+      "author_as_printed": "Mill"
+    },
+    {
+      "position": 70,
+      "title": "Fear and Trembling",
+      "author_as_printed": "Kierkegaard"
+    },
+    {
+      "position": 71,
+      "title": "Beyond Good and Evil",
+      "author_as_printed": "Nietzsche"
+    },
+    {
+      "position": 72,
+      "title": "Thus Spoke Zarathustra",
+      "author_as_printed": "Nietzsche"
+    },
+    {
+      "position": 73,
+      "title": "The Birth of Tragedy",
+      "author_as_printed": "Nietzsche"
+    },
+    {
+      "position": 74,
+      "title": "Faust",
+      "author_as_printed": "Goethe"
+    },
+    {
+      "position": 75,
+      "title": "Cousin Bette",
+      "author_as_printed": "Balzac"
+    },
+    {
+      "position": 76,
+      "title": "Pride and Prejudice",
+      "author_as_printed": "Jane Austen"
+    },
+    {
+      "position": 77,
+      "title": "Middlemarch",
+      "author_as_printed": "George Eliot"
+    },
+    {
+      "position": 78,
+      "title": "Great Expectations",
+      "author_as_printed": "Charles Dickens"
+    },
+    {
+      "position": 79,
+      "title": "Bleak House",
+      "author_as_printed": "Charles Dickens"
+    },
+    {
+      "position": 80,
+      "title": "Moby Dick",
+      "author_as_printed": "Herman Melville"
+    },
+    {
+      "position": 81,
+      "title": "Origin of Species",
+      "author_as_printed": "Charles Darwin"
+    },
+    {
+      "position": 82,
+      "title": "Das Kapital",
+      "author_as_printed": "Karl Marx"
+    },
+    {
+      "position": 83,
+      "title": "Manifesto (with Engels)",
+      "author_as_printed": "Karl Marx"
+    },
+    {
+      "position": 84,
+      "title": "Anna Karenina",
+      "author_as_printed": "Tolstoy"
+    },
+    {
+      "position": 85,
+      "title": "War and Peace",
+      "author_as_printed": "Tolstoy"
+    },
+    {
+      "position": 86,
+      "title": "Crime and Punishment",
+      "author_as_printed": "Dostoyevsky"
+    },
+    {
+      "position": 87,
+      "title": "The Brothers Karamazov",
+      "author_as_printed": "Dostoyevsky"
+    },
+    {
+      "position": 88,
+      "title": "A Doll’s House",
+      "author_as_printed": "Ibsen"
+    },
+    {
+      "position": 89,
+      "title": "Hedda Gabler",
+      "author_as_printed": "Ibsen"
+    },
+    {
+      "position": 90,
+      "title": "The Principles of Psychology",
+      "author_as_printed": "William James"
+    },
+    {
+      "position": 91,
+      "title": "Selected Works",
+      "author_as_printed": "Freud"
+    },
+    {
+      "position": 92,
+      "title": "Experience and Education",
+      "author_as_printed": "John Dewey"
+    },
+    {
+      "position": 93,
+      "title": "Relativity",
+      "author_as_printed": "Einstein"
+    },
+    {
+      "position": 94,
+      "title": "The Golden Bough",
+      "author_as_printed": "Sir George Frazer"
+    },
+    {
+      "position": 95,
+      "title": "Heart of Darkness",
+      "author_as_printed": "Joseph Conrad"
+    },
+    {
+      "position": 96,
+      "title": "Anton Chekhov",
+      "author_as_printed": "Joseph Conrad"
+    },
+    {
+      "position": 97,
+      "title": "Selected Short Stories",
+      "author_as_printed": "Joseph Conrad"
+    },
+    {
+      "position": 98,
+      "title": "Uncle Vanya",
+      "author_as_printed": "Joseph Conrad"
+    },
+    {
+      "position": 99,
+      "title": "In Remembrance of Things Past",
+      "author_as_printed": "Proust"
+    },
+    {
+      "position": 100,
+      "title": "T.S. Eliot",
+      "author_as_printed": "Proust"
+    },
+    {
+      "position": 101,
+      "title": "The Waste Land",
+      "author_as_printed": "Proust"
+    },
+    {
+      "position": 102,
+      "title": "The Old Man and the Sea",
+      "author_as_printed": "Hemingway"
+    },
+    {
+      "position": 103,
+      "title": "As I Lay Dying",
+      "author_as_printed": "Faulkner"
+    }
+  ],
+  "favourites": [
+    {
+      "position": 1,
+      "title": "The Complete Works of Shakespeare",
+      "author_as_printed": "William Shakespeare"
+    },
+    {
+      "position": 2,
+      "title": "Nicomachean Ethics",
+      "author_as_printed": "Aristotle"
+    },
+    {
+      "position": 3,
+      "title": "The Bible",
+      "author_as_printed": "Various"
+    },
+    {
+      "position": 4,
+      "title": "Essays",
+      "author_as_printed": "Michel de Montaigne"
+    },
+    {
+      "position": 5,
+      "title": "The Short Stories of Chekhov",
+      "author_as_printed": "Anton Chekhov"
+    },
+    {
+      "position": 6,
+      "title": "War and Peace",
+      "author_as_printed": "Leo Tolstoy"
+    },
+    {
+      "position": 7,
+      "title": "Moby-Dick",
+      "author_as_printed": "Herman Melville"
+    }
+  ]
+}

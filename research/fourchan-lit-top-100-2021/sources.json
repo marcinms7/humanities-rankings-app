@@ -1,0 +1,25 @@
+{
+  "target_id": "fourchan-lit-top-100-2021",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.listchallenges.com/lits-top-100-books-2021",
+      "title": "4chan /lit/ · Top 100 Books (2021) — result publication",
+      "canonical_url": "https://www.listchallenges.com/lits-top-100-books-2021",
+      "source_family": "community_poll",
+      "publisher": "4chan /lit/ community",
+      "target_ids": [
+        "fourchan-lit-top-100-2021"
+      ],
+      "relevance_by_target": {
+        "fourchan-lit-top-100-2021": "All 100 positions from the archived annual comparison table or result chart; source order retained."
+      },
+      "evidence_notes": "All 100 positions from the archived annual comparison table or result chart; source order retained.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Anonymous-board, self-selected poll. The archive reports that later editions were not always run with the same formal poll procedure. The original chart survives through a complete third-party transcription."
+    }
+  ]
+}

@@ -1,0 +1,5552 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-13T23:08:35.288498+00:00",
+  "mode": "dry-run",
+  "source": "research/manga-all-time/owner-paste-catalog.json",
+  "policy": "Strict title plus credited-author match; additive controlled genres from the source's explicit Genres/themes clause only.",
+  "assignments": [
+    {
+      "source_key": "manga-all-time-001",
+      "work_id": 5167,
+      "title": "Berserk",
+      "source_phrases": [
+        "Dark fantasy",
+        "tragedy",
+        "action"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Dark Fantasy",
+        "Drama",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Dark Fantasy",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-002",
+      "work_id": 5168,
+      "title": "Phoenix",
+      "source_phrases": [
+        "Philosophical science fiction",
+        "historical fantasy",
+        "anthology"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Historical Fiction",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Historical Fiction",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-003",
+      "work_id": 5169,
+      "title": "Akira",
+      "source_phrases": [
+        "Cyberpunk",
+        "science fiction",
+        "political thriller"
+      ],
+      "mapped_genres": [
+        "Cyberpunk",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Cyberpunk",
+        "Science Fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-004",
+      "work_id": 4876,
+      "title": "One Piece",
+      "source_phrases": [
+        "Adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-005",
+      "work_id": 5170,
+      "title": "Monster",
+      "source_phrases": [
+        "Psychological thriller",
+        "crime",
+        "drama"
+      ],
+      "mapped_genres": [
+        "Crime",
+        "Drama",
+        "Psychological",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Crime",
+        "Drama",
+        "Psychological",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-006",
+      "work_id": 5171,
+      "title": "Vagabond",
+      "source_phrases": [
+        "Historical fiction",
+        "martial arts",
+        "philosophical drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Historical Fiction",
+        "Martial Arts"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Historical Fiction",
+        "Martial Arts"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-007",
+      "work_id": 4933,
+      "title": "Fullmetal Alchemist",
+      "source_phrases": [
+        "Fantasy",
+        "adventure",
+        "political drama"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-008",
+      "work_id": 5172,
+      "title": "Slam Dunk",
+      "source_phrases": [
+        "Sports",
+        "basketball",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-009",
+      "work_id": 5173,
+      "title": "Nausicaa of the Valley of the Wind",
+      "source_phrases": [
+        "Ecological science fiction",
+        "fantasy",
+        "war"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Science Fiction",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Science Fiction",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-010",
+      "work_id": 5174,
+      "title": "Ashita no Joe",
+      "source_phrases": [
+        "Sports",
+        "boxing",
+        "social tragedy"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-011",
+      "work_id": 5175,
+      "title": "The Rose of Versailles",
+      "source_phrases": [
+        "Historical drama",
+        "romance",
+        "political tragedy"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Historical Fiction",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Historical Fiction",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-012",
+      "work_id": 5176,
+      "title": "Dragon Ball",
+      "source_phrases": [
+        "Martial arts",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Martial Arts"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Martial Arts"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-013",
+      "work_id": 5177,
+      "title": "20th Century Boys (including 21st Century Boys)",
+      "source_phrases": [
+        "Mystery",
+        "conspiracy thriller",
+        "science fiction"
+      ],
+      "mapped_genres": [
+        "Mystery",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Mystery",
+        "Science Fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-014",
+      "work_id": 5178,
+      "title": "Vinland Saga",
+      "source_phrases": [
+        "Historical fiction",
+        "war",
+        "philosophical drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Historical Fiction",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Historical Fiction",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-015",
+      "work_id": 5179,
+      "title": "Goodnight Punpun",
+      "source_phrases": [
+        "Psychological drama",
+        "coming of age",
+        "experimental"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Drama",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Drama",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-016",
+      "work_id": 5180,
+      "title": "Black Jack",
+      "source_phrases": [
+        "Medical drama",
+        "ethical fables",
+        "episodic"
+      ],
+      "mapped_genres": [
+        "Drama"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-017",
+      "work_id": 5181,
+      "title": "Lone Wolf and Cub",
+      "source_phrases": [
+        "Historical fiction",
+        "samurai",
+        "revenge"
+      ],
+      "mapped_genres": [
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-018",
+      "work_id": 5182,
+      "title": "Real",
+      "source_phrases": [
+        "Sports",
+        "wheelchair basketball",
+        "disability",
+        "drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-019",
+      "work_id": 5183,
+      "title": "JoJo's Bizarre Adventure (all parts)",
+      "source_phrases": [
+        "Supernatural adventure",
+        "action",
+        "mystery"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-020",
+      "work_id": 5184,
+      "title": "Pluto",
+      "source_phrases": [
+        "Science fiction",
+        "mystery",
+        "war"
+      ],
+      "mapped_genres": [
+        "Mystery",
+        "Science Fiction",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Mystery",
+        "Science Fiction",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-021",
+      "work_id": 5185,
+      "title": "Yokohama Kaidashi Kikou",
+      "source_phrases": [
+        "Quiet science fiction",
+        "slice of life",
+        "post-apocalyptic"
+      ],
+      "mapped_genres": [
+        "Post-Apocalyptic",
+        "Science Fiction",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Post-Apocalyptic",
+        "Science Fiction",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-022",
+      "work_id": 5186,
+      "title": "Mushishi",
+      "source_phrases": [
+        "Folklore",
+        "supernatural",
+        "episodic",
+        "philosophical"
+      ],
+      "mapped_genres": [
+        "Myth & Folklore",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Myth & Folklore",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-023",
+      "work_id": 5075,
+      "title": "Hunter x Hunter",
+      "source_phrases": [
+        "Adventure",
+        "fantasy",
+        "psychological strategy"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Fantasy",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Fantasy",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-024",
+      "work_id": 5187,
+      "title": "Nana",
+      "source_phrases": [
+        "Music",
+        "romance",
+        "friendship",
+        "adult life"
+      ],
+      "mapped_genres": [
+        "Music",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Music",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-025",
+      "work_id": 5188,
+      "title": "Land of the Lustrous",
+      "source_phrases": [
+        "Science fantasy",
+        "identity",
+        "philosophical tragedy"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-026",
+      "work_id": 5189,
+      "title": "March Comes in Like a Lion",
+      "source_phrases": [
+        "Shogi",
+        "coming of age",
+        "mental health",
+        "family"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Family",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Family",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-027",
+      "work_id": 5190,
+      "title": "Ping Pong",
+      "source_phrases": [
+        "Sports",
+        "table tennis",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-028",
+      "work_id": 5191,
+      "title": "Blade of the Immortal",
+      "source_phrases": [
+        "Historical fantasy",
+        "samurai",
+        "revenge"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-029",
+      "work_id": 5192,
+      "title": "Devilman",
+      "source_phrases": [
+        "Horror",
+        "apocalyptic fantasy",
+        "tragedy"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Post-Apocalyptic"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Post-Apocalyptic"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-030",
+      "work_id": 5193,
+      "title": "Fruits Basket",
+      "source_phrases": [
+        "Supernatural romance",
+        "family",
+        "psychological drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Family",
+        "Psychological",
+        "Romance",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Family",
+        "Psychological",
+        "Romance",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-031",
+      "work_id": 5194,
+      "title": "Ode to Kirihito",
+      "source_phrases": [
+        "Medical thriller",
+        "social criticism",
+        "psychological drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Psychological",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Psychological",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-032",
+      "work_id": 5195,
+      "title": "Barefoot Gen",
+      "source_phrases": [
+        "War",
+        "autobiographical fiction",
+        "historical drama"
+      ],
+      "mapped_genres": [
+        "Autobiographical",
+        "Drama",
+        "Historical Fiction",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Autobiographical",
+        "Drama",
+        "Historical Fiction",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-033",
+      "work_id": 5196,
+      "title": "Delicious in Dungeon",
+      "source_phrases": [
+        "Fantasy",
+        "food",
+        "adventure",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Food"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Food"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-034",
+      "work_id": 5197,
+      "title": "Dorohedoro",
+      "source_phrases": [
+        "Dark fantasy",
+        "mystery",
+        "horror comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Dark Fantasy",
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Dark Fantasy",
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-035",
+      "work_id": 5198,
+      "title": "Golden Kamuy",
+      "source_phrases": [
+        "Historical adventure",
+        "crime",
+        "food",
+        "survival"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Crime",
+        "Food",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Crime",
+        "Food",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-036",
+      "work_id": 5199,
+      "title": "Kingdom",
+      "source_phrases": [
+        "Historical fiction",
+        "military strategy",
+        "war"
+      ],
+      "mapped_genres": [
+        "Historical Fiction",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Historical Fiction",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-037",
+      "work_id": 5054,
+      "title": "Attack on Titan",
+      "source_phrases": [
+        "Dark fantasy",
+        "war",
+        "political thriller"
+      ],
+      "mapped_genres": [
+        "Dark Fantasy",
+        "Fantasy",
+        "Thriller",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Dark Fantasy",
+        "Fantasy",
+        "Thriller",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-038",
+      "work_id": 5200,
+      "title": "Buddha",
+      "source_phrases": [
+        "Historical fiction",
+        "religion",
+        "philosophical drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-039",
+      "work_id": 5201,
+      "title": "Cardcaptor Sakura",
+      "source_phrases": [
+        "Magical girl",
+        "fantasy",
+        "romance"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Magical Girl",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Magical Girl",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-040",
+      "work_id": 5202,
+      "title": "Uzumaki",
+      "source_phrases": [
+        "Cosmic horror",
+        "body horror",
+        "supernatural"
+      ],
+      "mapped_genres": [
+        "Horror",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Horror",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-041",
+      "work_id": 5203,
+      "title": "The Poe Clan",
+      "source_phrases": [
+        "Gothic fantasy",
+        "vampires",
+        "memory",
+        "identity"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Gothic",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Gothic",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-042",
+      "work_id": 5204,
+      "title": "Ooku: The Inner Chambers",
+      "source_phrases": [
+        "Alternate history",
+        "politics",
+        "gender",
+        "tragedy"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-043",
+      "work_id": 5205,
+      "title": "Maison Ikkoku",
+      "source_phrases": [
+        "Romantic comedy",
+        "grief",
+        "everyday life"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-044",
+      "work_id": 5206,
+      "title": "The Drifting Classroom",
+      "source_phrases": [
+        "Horror",
+        "survival",
+        "ecological science fiction"
+      ],
+      "mapped_genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Horror",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-045",
+      "work_id": 5207,
+      "title": "Banana Fish",
+      "source_phrases": [
+        "Crime thriller",
+        "friendship",
+        "tragedy"
+      ],
+      "mapped_genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-046",
+      "work_id": 5208,
+      "title": "Parasyte",
+      "source_phrases": [
+        "Science fiction",
+        "body horror",
+        "philosophical thriller"
+      ],
+      "mapped_genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-047",
+      "work_id": 5209,
+      "title": "The Poem of Wind and Trees (Kaze to Ki no Uta)",
+      "source_phrases": [
+        "Historical school drama",
+        "queer romance",
+        "tragedy"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Historical Fiction",
+        "Romance",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Historical Fiction",
+        "Romance",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-048",
+      "work_id": 5210,
+      "title": "A Drifting Life",
+      "source_phrases": [
+        "Autobiography",
+        "manga history",
+        "gekiga"
+      ],
+      "mapped_genres": [
+        "Autobiographical",
+        "Gekiga"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Autobiographical",
+        "Gekiga"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-049",
+      "work_id": 5211,
+      "title": "Doraemon",
+      "source_phrases": [
+        "Science fiction",
+        "comedy",
+        "everyday life"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Science Fiction",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Science Fiction",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-050",
+      "work_id": 5212,
+      "title": "The Heart of Thomas",
+      "source_phrases": [
+        "School drama",
+        "queer love",
+        "grief",
+        "psychological"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Psychological",
+        "Romance",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Psychological",
+        "Romance",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-051",
+      "work_id": 5213,
+      "title": "Astro Boy",
+      "source_phrases": [
+        "Science fiction",
+        "robots",
+        "adventure"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-052",
+      "work_id": 5214,
+      "title": "Chihayafuru",
+      "source_phrases": [
+        "Sports",
+        "competitive karuta",
+        "coming of age",
+        "romance"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Romance",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Romance",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-053",
+      "work_id": 5215,
+      "title": "Message to Adolf",
+      "source_phrases": [
+        "Historical thriller",
+        "war",
+        "identity"
+      ],
+      "mapped_genres": [
+        "Historical Fiction",
+        "Thriller",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Historical Fiction",
+        "Thriller",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-054",
+      "work_id": 5216,
+      "title": "Tekkonkinkreet",
+      "source_phrases": [
+        "Urban fantasy",
+        "crime",
+        "childhood"
+      ],
+      "mapped_genres": [
+        "Crime",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Crime",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-055",
+      "work_id": 5217,
+      "title": "Planetes",
+      "source_phrases": [
+        "Science fiction",
+        "workplace",
+        "philosophical drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Science Fiction",
+        "Workplace"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Science Fiction",
+        "Workplace"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-056",
+      "work_id": 5218,
+      "title": "Sunny",
+      "source_phrases": [
+        "Childhood",
+        "foster care",
+        "slice of life"
+      ],
+      "mapped_genres": [
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-057",
+      "work_id": 5219,
+      "title": "Yotsuba&!",
+      "source_phrases": [
+        "Slice of life",
+        "childhood",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-058",
+      "work_id": 5220,
+      "title": "A Bride's Story",
+      "source_phrases": [
+        "Historical fiction",
+        "romance",
+        "everyday life"
+      ],
+      "mapped_genres": [
+        "Historical Fiction",
+        "Romance",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Historical Fiction",
+        "Romance",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-059",
+      "work_id": 5221,
+      "title": "Space Brothers",
+      "source_phrases": [
+        "Science",
+        "workplace",
+        "space exploration",
+        "drama"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Drama",
+        "Science Fiction",
+        "Workplace"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Drama",
+        "Science Fiction",
+        "Workplace"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-060",
+      "work_id": 5222,
+      "title": "Great Teacher Onizuka (GTO)",
+      "source_phrases": [
+        "School",
+        "comedy",
+        "social drama"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Drama",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Drama",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-061",
+      "work_id": 5223,
+      "title": "Hikaru no Go",
+      "source_phrases": [
+        "Board games",
+        "coming of age",
+        "supernatural"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-062",
+      "work_id": 5224,
+      "title": "Gintama",
+      "source_phrases": [
+        "Comedy",
+        "historical science fantasy",
+        "action"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-063",
+      "work_id": 5225,
+      "title": "Death Note",
+      "source_phrases": [
+        "Psychological thriller",
+        "crime",
+        "supernatural"
+      ],
+      "mapped_genres": [
+        "Crime",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Crime",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-064",
+      "work_id": 5226,
+      "title": "A Silent Voice",
+      "source_phrases": [
+        "Disability",
+        "bullying",
+        "redemption",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-065",
+      "work_id": 5227,
+      "title": "Haikyu!!",
+      "source_phrases": [
+        "Sports",
+        "volleyball",
+        "team drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-066",
+      "work_id": 5228,
+      "title": "Hajime no Ippo",
+      "source_phrases": [
+        "Sports",
+        "boxing",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-067",
+      "work_id": 5229,
+      "title": "Touch",
+      "source_phrases": [
+        "Sports",
+        "baseball",
+        "romance",
+        "family drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Family",
+        "Romance",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Family",
+        "Romance",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-068",
+      "work_id": 5230,
+      "title": "Basara",
+      "source_phrases": [
+        "Post-apocalyptic adventure",
+        "romance",
+        "political drama"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Drama",
+        "Post-Apocalyptic",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Drama",
+        "Post-Apocalyptic",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-069",
+      "work_id": 5231,
+      "title": "NonNonBa",
+      "source_phrases": [
+        "Autobiographical fiction",
+        "folklore",
+        "childhood"
+      ],
+      "mapped_genres": [
+        "Autobiographical",
+        "Myth & Folklore"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Autobiographical",
+        "Myth & Folklore"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-070",
+      "work_id": 5232,
+      "title": "The Summit of the Gods",
+      "source_phrases": [
+        "Mountaineering",
+        "adventure",
+        "psychological drama"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Drama",
+        "Psychological",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Drama",
+        "Psychological",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-071",
+      "work_id": 5233,
+      "title": "Kamui Den (The Legend of Kamui)",
+      "source_phrases": [
+        "Historical fiction",
+        "class",
+        "ninja",
+        "political drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-072",
+      "work_id": 5234,
+      "title": "Nodame Cantabile",
+      "source_phrases": [
+        "Music",
+        "romantic comedy",
+        "artistic growth"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Comedy",
+        "Music",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Comedy",
+        "Music",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-073",
+      "work_id": 5235,
+      "title": "Urusei Yatsura",
+      "source_phrases": [
+        "Science fiction",
+        "romantic comedy",
+        "supernatural"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Romance",
+        "Science Fiction",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Romance",
+        "Science Fiction",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-074",
+      "work_id": 5236,
+      "title": "Chainsaw Man",
+      "source_phrases": [
+        "Dark fantasy",
+        "horror",
+        "action",
+        "black comedy"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Comedy",
+        "Dark Fantasy",
+        "Fantasy",
+        "Horror"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Comedy",
+        "Dark Fantasy",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-075",
+      "work_id": 5237,
+      "title": "Frieren: Beyond Journey's End",
+      "source_phrases": [
+        "Fantasy",
+        "memory",
+        "adventure",
+        "grief"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-076",
+      "work_id": 5238,
+      "title": "Natsume's Book of Friends",
+      "source_phrases": [
+        "Folklore",
+        "supernatural",
+        "healing",
+        "friendship"
+      ],
+      "mapped_genres": [
+        "Myth & Folklore",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Myth & Folklore",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-077",
+      "work_id": 5239,
+      "title": "The Girl from the Other Side",
+      "source_phrases": [
+        "Dark fairy tale",
+        "fantasy",
+        "mystery"
+      ],
+      "mapped_genres": [
+        "Dark Fantasy",
+        "Fantasy",
+        "Mystery"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Dark Fantasy",
+        "Fantasy",
+        "Mystery"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-078",
+      "work_id": 5240,
+      "title": "Witch Hat Atelier",
+      "source_phrases": [
+        "Fantasy",
+        "education",
+        "art",
+        "disability"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-079",
+      "work_id": 5241,
+      "title": "Emma",
+      "source_phrases": [
+        "Historical romance",
+        "class",
+        "everyday life"
+      ],
+      "mapped_genres": [
+        "Historical Fiction",
+        "Romance",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Historical Fiction",
+        "Romance",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-080",
+      "work_id": 5242,
+      "title": "Blue Period",
+      "source_phrases": [
+        "Art",
+        "education",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Coming of Age"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Coming of Age"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-081",
+      "work_id": 5243,
+      "title": "The Man Without Talent",
+      "source_phrases": [
+        "Autobiographical fiction",
+        "work",
+        "social alienation"
+      ],
+      "mapped_genres": [
+        "Autobiographical",
+        "Workplace"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Autobiographical",
+        "Workplace"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-082",
+      "work_id": 5244,
+      "title": "Tokyo Ghoul (including Tokyo Ghoul:re)",
+      "source_phrases": [
+        "Dark fantasy",
+        "horror",
+        "identity",
+        "tragedy"
+      ],
+      "mapped_genres": [
+        "Dark Fantasy",
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Dark Fantasy",
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-083",
+      "work_id": 5245,
+      "title": "Skip and Loafer",
+      "source_phrases": [
+        "School",
+        "friendship",
+        "coming of age",
+        "romance"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Romance",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Romance",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-084",
+      "work_id": 5246,
+      "title": "Honey and Clover",
+      "source_phrases": [
+        "Art school",
+        "friendship",
+        "romance",
+        "adulthood"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Romance",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Romance",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-085",
+      "work_id": 5247,
+      "title": "Descending Stories: Showa Genroku Rakugo Shinju",
+      "source_phrases": [
+        "Performance",
+        "historical drama",
+        "storytelling",
+        "tragedy"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-086",
+      "work_id": 5248,
+      "title": "Paradise Kiss",
+      "source_phrases": [
+        "Fashion",
+        "romance",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-087",
+      "work_id": 5249,
+      "title": "Look Back",
+      "source_phrases": [
+        "Art",
+        "friendship",
+        "grief",
+        "one-shot"
+      ],
+      "mapped_genres": [
+        "Arts & Artists"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-088",
+      "work_id": 5250,
+      "title": "Ayako",
+      "source_phrases": [
+        "Historical drama",
+        "family",
+        "political corruption"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Family",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Family",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-089",
+      "work_id": 5251,
+      "title": "A Savage God Reigns",
+      "source_phrases": [
+        "Psychological drama",
+        "trauma",
+        "grief"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-090",
+      "work_id": 5252,
+      "title": "Town of Evening Calm, Country of Cherry Blossoms",
+      "source_phrases": [
+        "War aftermath",
+        "family",
+        "historical drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Family",
+        "Historical Fiction",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Family",
+        "Historical Fiction",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-091",
+      "work_id": 5253,
+      "title": "In This Corner of the World",
+      "source_phrases": [
+        "War",
+        "domestic life",
+        "historical fiction"
+      ],
+      "mapped_genres": [
+        "Historical Fiction",
+        "Slice of Life",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Historical Fiction",
+        "Slice of Life",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-092",
+      "work_id": 5254,
+      "title": "Showa: A History of Japan",
+      "source_phrases": [
+        "History",
+        "autobiography",
+        "war"
+      ],
+      "mapped_genres": [
+        "Autobiographical",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Autobiographical",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-093",
+      "work_id": 5255,
+      "title": "Onward Towards Our Noble Deaths",
+      "source_phrases": [
+        "War",
+        "autobiographical fiction",
+        "satire"
+      ],
+      "mapped_genres": [
+        "Autobiographical",
+        "Satire",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Autobiographical",
+        "Satire",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-094",
+      "work_id": 5256,
+      "title": "The Walking Man",
+      "source_phrases": [
+        "Slice of life",
+        "contemplative",
+        "short narratives"
+      ],
+      "mapped_genres": [
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-095",
+      "work_id": 5257,
+      "title": "A Distant Neighborhood",
+      "source_phrases": [
+        "Family",
+        "memory",
+        "speculative drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Family"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-096",
+      "work_id": 5258,
+      "title": "My Brother's Husband",
+      "source_phrases": [
+        "LGBTQ",
+        "family",
+        "social drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Family"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-097",
+      "work_id": 5259,
+      "title": "My Lesbian Experience with Loneliness",
+      "source_phrases": [
+        "Memoir",
+        "LGBTQ",
+        "mental health"
+      ],
+      "mapped_genres": [
+        "Autobiographical",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Autobiographical",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-098",
+      "work_id": 5260,
+      "title": "Glass Mask",
+      "source_phrases": [
+        "Theatre",
+        "rivalry",
+        "melodrama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Performing Arts"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Performing Arts"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-099",
+      "work_id": 5261,
+      "title": "Sailor Moon",
+      "source_phrases": [
+        "Magical girl",
+        "romance",
+        "fantasy"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Magical Girl",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Magical Girl",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-100",
+      "work_id": 5262,
+      "title": "7 Seeds",
+      "source_phrases": [
+        "Science fiction",
+        "survival",
+        "ensemble drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-101",
+      "work_id": 5263,
+      "title": "Blue",
+      "source_phrases": [
+        "Queer romance",
+        "coming of age",
+        "minimalist drama"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Drama",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-102",
+      "work_id": 5264,
+      "title": "Domu",
+      "source_phrases": [
+        "Psychic horror",
+        "urban life",
+        "thriller"
+      ],
+      "mapped_genres": [
+        "Horror",
+        "Slice of Life",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Horror",
+        "Slice of Life",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-103",
+      "work_id": 5265,
+      "title": "Helter Skelter",
+      "source_phrases": [
+        "Psychological drama",
+        "fashion",
+        "body image"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-104",
+      "work_id": 5266,
+      "title": "Pink",
+      "source_phrases": [
+        "Social satire",
+        "work",
+        "sexuality",
+        "black comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Satire",
+        "Workplace"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Satire",
+        "Workplace"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-105",
+      "work_id": 5267,
+      "title": "Sazae-san",
+      "source_phrases": [
+        "Family",
+        "social comedy",
+        "four-panel manga"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Family"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-106",
+      "work_id": 5268,
+      "title": "Silver Spoon",
+      "source_phrases": [
+        "Agriculture",
+        "school",
+        "food",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Food",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Food",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-107",
+      "work_id": 5269,
+      "title": "Usogui",
+      "source_phrases": [
+        "Gambling",
+        "psychological thriller",
+        "action"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Psychological",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Psychological",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-108",
+      "work_id": 5270,
+      "title": "Cross Game",
+      "source_phrases": [
+        "Sports",
+        "baseball",
+        "romance",
+        "grief"
+      ],
+      "mapped_genres": [
+        "Romance",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Romance",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-109",
+      "work_id": 5271,
+      "title": "Rurouni Kenshin (original series)",
+      "source_phrases": [
+        "Historical adventure",
+        "martial arts",
+        "atonement"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Historical Fiction",
+        "Martial Arts"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Historical Fiction",
+        "Martial Arts"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-110",
+      "work_id": 5272,
+      "title": "Yu Yu Hakusho",
+      "source_phrases": [
+        "Supernatural",
+        "martial arts",
+        "action comedy"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Comedy",
+        "Martial Arts",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Comedy",
+        "Martial Arts",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-111",
+      "work_id": 5273,
+      "title": "Naruto",
+      "source_phrases": [
+        "Ninja fantasy",
+        "adventure",
+        "war"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Fantasy",
+        "Historical Fiction",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Fantasy",
+        "Historical Fiction",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-112",
+      "work_id": 5274,
+      "title": "Bleach",
+      "source_phrases": [
+        "Supernatural action",
+        "fantasy"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-113",
+      "work_id": 5275,
+      "title": "Hellsing",
+      "source_phrases": [
+        "Vampire horror",
+        "action",
+        "war"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Horror",
+        "Supernatural",
+        "War"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Horror",
+        "Supernatural",
+        "War"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-114",
+      "work_id": 5276,
+      "title": "Battle Angel Alita (original series)",
+      "source_phrases": [
+        "Cyberpunk",
+        "action",
+        "identity"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Cyberpunk"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Cyberpunk"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-115",
+      "work_id": 5277,
+      "title": "Tokyo These Days",
+      "source_phrases": [
+        "Manga creation",
+        "work",
+        "ageing",
+        "drama"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Drama",
+        "Workplace"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Drama",
+        "Workplace"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-116",
+      "work_id": 5278,
+      "title": "The Ghost in the Shell (original manga)",
+      "source_phrases": [
+        "Cyberpunk",
+        "political thriller",
+        "philosophy"
+      ],
+      "mapped_genres": [
+        "Cyberpunk",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Cyberpunk",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-117",
+      "work_id": 5279,
+      "title": "Nejishiki (Screw Style)",
+      "source_phrases": [
+        "Surrealism",
+        "dream narrative",
+        "short manga"
+      ],
+      "mapped_genres": [
+        "Surrealism"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Surrealism"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-118",
+      "work_id": 5280,
+      "title": "Blame!",
+      "source_phrases": [
+        "Architectural science fiction",
+        "cyberpunk",
+        "horror"
+      ],
+      "mapped_genres": [
+        "Cyberpunk",
+        "Horror",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Cyberpunk",
+        "Horror",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-119",
+      "work_id": 5281,
+      "title": "Girls' Last Tour",
+      "source_phrases": [
+        "Post-apocalyptic",
+        "slice of life",
+        "philosophical"
+      ],
+      "mapped_genres": [
+        "Post-Apocalyptic",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Post-Apocalyptic",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-120",
+      "work_id": 5282,
+      "title": "Aria (including Aqua)",
+      "source_phrases": [
+        "Science fantasy",
+        "slice of life",
+        "healing"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-121",
+      "work_id": 5283,
+      "title": "Tomie",
+      "source_phrases": [
+        "Horror",
+        "obsession",
+        "body horror",
+        "episodic"
+      ],
+      "mapped_genres": [
+        "Horror"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Horror"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-122",
+      "work_id": 5284,
+      "title": "Dr. Slump",
+      "source_phrases": [
+        "Science fiction",
+        "gag comedy",
+        "village life"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-123",
+      "work_id": 5285,
+      "title": "Kaiji (main series)",
+      "source_phrases": [
+        "Gambling",
+        "psychological thriller",
+        "social criticism"
+      ],
+      "mapped_genres": [
+        "Psychological",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Psychological",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-124",
+      "work_id": 5286,
+      "title": "Akagi",
+      "source_phrases": [
+        "Mahjong",
+        "gambling",
+        "psychological thriller"
+      ],
+      "mapped_genres": [
+        "Psychological",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Psychological",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-125",
+      "work_id": 5287,
+      "title": "Homunculus",
+      "source_phrases": [
+        "Psychological horror",
+        "identity",
+        "social alienation"
+      ],
+      "mapped_genres": [
+        "Horror",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Horror",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-126",
+      "work_id": 5288,
+      "title": "Princess Knight",
+      "source_phrases": [
+        "Fantasy",
+        "adventure",
+        "gender"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-127",
+      "work_id": 5289,
+      "title": "The Climber",
+      "source_phrases": [
+        "Mountaineering",
+        "psychological drama"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Drama",
+        "Psychological",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Drama",
+        "Psychological",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-128",
+      "work_id": 5290,
+      "title": "Eden: It's an Endless World!",
+      "source_phrases": [
+        "Post-apocalyptic",
+        "cyberpunk",
+        "political drama"
+      ],
+      "mapped_genres": [
+        "Cyberpunk",
+        "Drama",
+        "Post-Apocalyptic"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Cyberpunk",
+        "Drama",
+        "Post-Apocalyptic"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-129",
+      "work_id": 5291,
+      "title": "Innocent (including Innocent Rouge)",
+      "source_phrases": [
+        "Historical fiction",
+        "psychological drama",
+        "body horror"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Historical Fiction",
+        "Horror",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Historical Fiction",
+        "Horror",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-130",
+      "work_id": 5292,
+      "title": "Historie",
+      "source_phrases": [
+        "Historical fiction",
+        "politics",
+        "adventure"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-131",
+      "work_id": 5293,
+      "title": "Shigurui",
+      "source_phrases": [
+        "Historical fiction",
+        "samurai",
+        "psychological horror"
+      ],
+      "mapped_genres": [
+        "Historical Fiction",
+        "Horror",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Historical Fiction",
+        "Horror",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-132",
+      "work_id": 5294,
+      "title": "Cesare",
+      "source_phrases": [
+        "Historical fiction",
+        "Renaissance",
+        "politics"
+      ],
+      "mapped_genres": [
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-133",
+      "work_id": 5295,
+      "title": "Magi: The Labyrinth of Magic",
+      "source_phrases": [
+        "Fantasy",
+        "adventure",
+        "politics"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-134",
+      "work_id": 5296,
+      "title": "Inuyasha",
+      "source_phrases": [
+        "Historical fantasy",
+        "adventure",
+        "romance"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Fantasy",
+        "Historical Fiction",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Fantasy",
+        "Historical Fiction",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-135",
+      "work_id": 5297,
+      "title": "Ranma 1/2",
+      "source_phrases": [
+        "Martial arts",
+        "romantic comedy",
+        "gender transformation"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Martial Arts",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Martial Arts",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-136",
+      "work_id": 5298,
+      "title": "Wandering Son",
+      "source_phrases": [
+        "Gender identity",
+        "coming of age",
+        "school drama"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Drama",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Drama",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-137",
+      "work_id": 5299,
+      "title": "Sweet Blue Flowers",
+      "source_phrases": [
+        "Yuri",
+        "school",
+        "romance",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Girls' Love",
+        "Romance",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Girls' Love",
+        "Romance",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-138",
+      "work_id": 5300,
+      "title": "Bloom Into You",
+      "source_phrases": [
+        "Yuri",
+        "romance",
+        "school",
+        "identity"
+      ],
+      "mapped_genres": [
+        "Girls' Love",
+        "Romance",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Girls' Love",
+        "Romance",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-139",
+      "work_id": 5301,
+      "title": "Kaguya-sama: Love Is War",
+      "source_phrases": [
+        "Romantic comedy",
+        "school",
+        "psychological games"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Psychological",
+        "Romance",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Psychological",
+        "Romance",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-140",
+      "work_id": 5302,
+      "title": "Kimi ni Todoke",
+      "source_phrases": [
+        "Romance",
+        "friendship",
+        "school"
+      ],
+      "mapped_genres": [
+        "Romance",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Romance",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-141",
+      "work_id": 5303,
+      "title": "Nijigahara Holograph",
+      "source_phrases": [
+        "Psychological drama",
+        "nonlinear narrative",
+        "trauma"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-142",
+      "work_id": 5304,
+      "title": "Ouran High School Host Club",
+      "source_phrases": [
+        "Romantic comedy",
+        "school",
+        "social satire"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Romance",
+        "Satire",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Romance",
+        "Satire",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-143",
+      "work_id": 5305,
+      "title": "Skip Beat!",
+      "source_phrases": [
+        "Acting",
+        "romance",
+        "comedy",
+        "ambition"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Performing Arts",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Performing Arts",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-144",
+      "work_id": 5306,
+      "title": "Yona of the Dawn",
+      "source_phrases": [
+        "Historical fantasy",
+        "adventure",
+        "romance",
+        "politics"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Fantasy",
+        "Historical Fiction",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Fantasy",
+        "Historical Fiction",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-145",
+      "work_id": 5307,
+      "title": "Disappearance Diary",
+      "source_phrases": [
+        "Memoir",
+        "addiction",
+        "homelessness",
+        "black comedy"
+      ],
+      "mapped_genres": [
+        "Autobiographical",
+        "Comedy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Autobiographical",
+        "Comedy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-146",
+      "work_id": 5308,
+      "title": "Red River",
+      "source_phrases": [
+        "Historical fantasy",
+        "romance",
+        "political intrigue"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Historical Fiction",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Historical Fiction",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-147",
+      "work_id": 5309,
+      "title": "From Far Away",
+      "source_phrases": [
+        "Portal fantasy",
+        "adventure",
+        "romance"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-148",
+      "work_id": 5310,
+      "title": "Please Save My Earth",
+      "source_phrases": [
+        "Science fiction",
+        "reincarnation",
+        "romance",
+        "psychological"
+      ],
+      "mapped_genres": [
+        "Psychological",
+        "Romance",
+        "Science Fiction",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Psychological",
+        "Romance",
+        "Science Fiction",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-149",
+      "work_id": 5311,
+      "title": "Requiem of the Rose King",
+      "source_phrases": [
+        "Historical fantasy",
+        "Shakespeare adaptation",
+        "gender",
+        "tragedy"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Fantasy",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-150",
+      "work_id": 5312,
+      "title": "Witches",
+      "source_phrases": [
+        "Folklore",
+        "ecology",
+        "fantasy",
+        "short stories"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Myth & Folklore"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Myth & Folklore"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-151",
+      "work_id": 5313,
+      "title": "Grand Blue Dreaming",
+      "source_phrases": [
+        "College",
+        "diving",
+        "farce",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "School Life",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "School Life",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-152",
+      "work_id": 5314,
+      "title": "Children of the Sea",
+      "source_phrases": [
+        "Ecological fantasy",
+        "ocean",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-153",
+      "work_id": 5315,
+      "title": "Beastars",
+      "source_phrases": [
+        "Animal allegory",
+        "coming of age",
+        "social drama"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Drama"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Drama"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-154",
+      "work_id": 5316,
+      "title": "Pandora Hearts",
+      "source_phrases": [
+        "Gothic fantasy",
+        "mystery",
+        "tragedy"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Fantasy",
+        "Gothic",
+        "Mystery"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Fantasy",
+        "Gothic",
+        "Mystery"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-155",
+      "work_id": 5317,
+      "title": "Made in Abyss",
+      "source_phrases": [
+        "Dark fantasy",
+        "exploration",
+        "body horror"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Dark Fantasy",
+        "Fantasy",
+        "Horror"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Dark Fantasy",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-156",
+      "work_id": 5318,
+      "title": "Claymore",
+      "source_phrases": [
+        "Dark fantasy",
+        "action",
+        "body horror"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Dark Fantasy",
+        "Fantasy",
+        "Horror"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Dark Fantasy",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-157",
+      "work_id": 5319,
+      "title": "The Flowers of Evil",
+      "source_phrases": [
+        "Psychological drama",
+        "adolescence",
+        "transgression"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Drama",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Drama",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-158",
+      "work_id": 5320,
+      "title": "Trigun (including Trigun Maximum)",
+      "source_phrases": [
+        "Science-fiction western",
+        "action",
+        "pacifism"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Science Fiction",
+        "Western"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Science Fiction",
+        "Western"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-159",
+      "work_id": 5321,
+      "title": "Fire Punch",
+      "source_phrases": [
+        "Post-apocalyptic",
+        "psychological horror",
+        "black comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Horror",
+        "Post-Apocalyptic",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Horror",
+        "Post-Apocalyptic",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-160",
+      "work_id": 5322,
+      "title": "Goodbye, Eri",
+      "source_phrases": [
+        "Film",
+        "grief",
+        "memory",
+        "one-shot"
+      ],
+      "mapped_genres": [
+        "Arts & Artists"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-161",
+      "work_id": 5323,
+      "title": "Solanin",
+      "source_phrases": [
+        "Music",
+        "young adulthood",
+        "grief",
+        "drama"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Drama",
+        "Music"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-162",
+      "work_id": 5324,
+      "title": "Blood on the Tracks",
+      "source_phrases": [
+        "Psychological horror",
+        "family",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Family",
+        "Horror",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Family",
+        "Horror",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-163",
+      "work_id": 5325,
+      "title": "Dead Dead Demon's Dededede Destruction",
+      "source_phrases": [
+        "Science fiction",
+        "political satire",
+        "friendship"
+      ],
+      "mapped_genres": [
+        "Satire",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Satire",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-164",
+      "work_id": 5326,
+      "title": "BL Metamorphosis",
+      "source_phrases": [
+        "Friendship",
+        "ageing",
+        "fandom",
+        "slice of life"
+      ],
+      "mapped_genres": [
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-165",
+      "work_id": 5327,
+      "title": "What Did You Eat Yesterday?",
+      "source_phrases": [
+        "Food",
+        "LGBTQ",
+        "domestic life"
+      ],
+      "mapped_genres": [
+        "Food",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Food",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-166",
+      "work_id": 5328,
+      "title": "Antique Bakery",
+      "source_phrases": [
+        "Food",
+        "workplace",
+        "LGBTQ",
+        "ensemble drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Food",
+        "Workplace"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Food",
+        "Workplace"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-167",
+      "work_id": 5329,
+      "title": "All My Darling Daughters",
+      "source_phrases": [
+        "Family",
+        "women",
+        "relationships",
+        "short stories"
+      ],
+      "mapped_genres": [
+        "Family"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Family"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-168",
+      "work_id": 5330,
+      "title": "Blank Canvas: My So-Called Artist's Journey",
+      "source_phrases": [
+        "Autobiography",
+        "art",
+        "mentorship"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Autobiographical"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Autobiographical"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-169",
+      "work_id": 5331,
+      "title": "Princess Jellyfish",
+      "source_phrases": [
+        "Fashion",
+        "friendship",
+        "romantic comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-170",
+      "work_id": 5332,
+      "title": "Tokyo Tarareba Girls",
+      "source_phrases": [
+        "Romantic comedy",
+        "friendship",
+        "adult life"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-171",
+      "work_id": 5333,
+      "title": "Don't Call It Mystery",
+      "source_phrases": [
+        "Mystery",
+        "social observation",
+        "psychological drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Mystery",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Mystery",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-172",
+      "work_id": 5334,
+      "title": "Our Dreams at Dusk",
+      "source_phrases": [
+        "LGBTQ",
+        "community",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-173",
+      "work_id": 5335,
+      "title": "Given",
+      "source_phrases": [
+        "BL",
+        "music",
+        "grief",
+        "romance"
+      ],
+      "mapped_genres": [
+        "Boys' Love",
+        "Music",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Boys' Love",
+        "Music",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-174",
+      "work_id": 5336,
+      "title": "Doukyusei: Classmates (original volume)",
+      "source_phrases": [
+        "BL",
+        "school",
+        "romance"
+      ],
+      "mapped_genres": [
+        "Boys' Love",
+        "Romance",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Boys' Love",
+        "Romance",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-175",
+      "work_id": 5337,
+      "title": "The Cornered Mouse Dreams of Cheese (including The Carp on the Chopping Block Jumps Twice)",
+      "source_phrases": [
+        "BL",
+        "adult romance",
+        "psychological drama"
+      ],
+      "mapped_genres": [
+        "Boys' Love",
+        "Drama",
+        "Psychological",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Boys' Love",
+        "Drama",
+        "Psychological",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-176",
+      "work_id": 5338,
+      "title": "The Summer Hikaru Died",
+      "source_phrases": [
+        "Queer themes",
+        "folk horror",
+        "grief"
+      ],
+      "mapped_genres": [
+        "Horror"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Horror"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-177",
+      "work_id": 5339,
+      "title": "Hirayasumi",
+      "source_phrases": [
+        "Slice of life",
+        "family",
+        "community"
+      ],
+      "mapped_genres": [
+        "Family",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Family",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-178",
+      "work_id": 5340,
+      "title": "Takemitsuzamurai",
+      "source_phrases": [
+        "Historical fiction",
+        "samurai",
+        "experimental"
+      ],
+      "mapped_genres": [
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-179",
+      "work_id": 5341,
+      "title": "GoGo Monster",
+      "source_phrases": [
+        "Childhood",
+        "psychological",
+        "supernatural ambiguity"
+      ],
+      "mapped_genres": [
+        "Psychological",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Psychological",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-180",
+      "work_id": 5342,
+      "title": "No. 5",
+      "source_phrases": [
+        "Science fiction",
+        "surrealism",
+        "political fantasy"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Science Fiction",
+        "Surrealism"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Science Fiction",
+        "Surrealism"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-181",
+      "work_id": 5343,
+      "title": "Cats of the Louvre",
+      "source_phrases": [
+        "Fantasy",
+        "art",
+        "animals"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-182",
+      "work_id": 5344,
+      "title": "2001 Nights",
+      "source_phrases": [
+        "Hard science fiction",
+        "space",
+        "anthology"
+      ],
+      "mapped_genres": [
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-183",
+      "work_id": 5345,
+      "title": "The Music of Marie",
+      "source_phrases": [
+        "Philosophical fantasy",
+        "utopia",
+        "romance"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-184",
+      "work_id": 5346,
+      "title": "The World Is Mine",
+      "source_phrases": [
+        "Crime",
+        "social criticism",
+        "apocalyptic drama"
+      ],
+      "mapped_genres": [
+        "Crime",
+        "Drama",
+        "Post-Apocalyptic"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Crime",
+        "Drama",
+        "Post-Apocalyptic"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-185",
+      "work_id": 5347,
+      "title": "Ultra Heaven",
+      "source_phrases": [
+        "Psychedelic science fiction",
+        "experimental"
+      ],
+      "mapped_genres": [
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-186",
+      "work_id": 5348,
+      "title": "Red Colored Elegy",
+      "source_phrases": [
+        "Experimental romance",
+        "young adulthood"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-187",
+      "work_id": 5349,
+      "title": "The Push Man and Other Stories",
+      "source_phrases": [
+        "Urban alienation",
+        "work",
+        "short stories"
+      ],
+      "mapped_genres": [
+        "Workplace"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Workplace"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-188",
+      "work_id": 5350,
+      "title": "Abandon the Old in Tokyo",
+      "source_phrases": [
+        "Urban life",
+        "social criticism",
+        "short stories"
+      ],
+      "mapped_genres": [
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-189",
+      "work_id": 5351,
+      "title": "The Swamp",
+      "source_phrases": [
+        "Literary fiction",
+        "travel",
+        "short stories"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Literary Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Literary Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-190",
+      "work_id": 5352,
+      "title": "GeGeGe no Kitaro",
+      "source_phrases": [
+        "Yokai",
+        "supernatural adventure",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Comedy",
+        "Myth & Folklore",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Comedy",
+        "Myth & Folklore",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-191",
+      "work_id": 5353,
+      "title": "Toward the Terra",
+      "source_phrases": [
+        "Science fiction",
+        "politics",
+        "identity"
+      ],
+      "mapped_genres": [
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-192",
+      "work_id": 5354,
+      "title": "Manga Michi",
+      "source_phrases": [
+        "Autobiographical fiction",
+        "manga creation",
+        "friendship"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Autobiographical"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Autobiographical"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-193",
+      "work_id": 5355,
+      "title": "The Book of Human Insects",
+      "source_phrases": [
+        "Psychological thriller",
+        "social satire"
+      ],
+      "mapped_genres": [
+        "Psychological",
+        "Satire",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Psychological",
+        "Satire",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-194",
+      "work_id": 5356,
+      "title": "MW",
+      "source_phrases": [
+        "Crime thriller",
+        "political corruption",
+        "psychological"
+      ],
+      "mapped_genres": [
+        "Crime",
+        "Psychological",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Crime",
+        "Psychological",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-195",
+      "work_id": 5357,
+      "title": "Dororo",
+      "source_phrases": [
+        "Historical fantasy",
+        "demons",
+        "adventure"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Fantasy",
+        "Historical Fiction",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Fantasy",
+        "Historical Fiction",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-196",
+      "work_id": 5358,
+      "title": "Detective Conan / Case Closed",
+      "source_phrases": [
+        "Mystery",
+        "crime",
+        "romantic comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-197",
+      "work_id": 5359,
+      "title": "Bakuman",
+      "source_phrases": [
+        "Manga creation",
+        "work",
+        "competition"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Workplace"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Workplace"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-198",
+      "work_id": 5360,
+      "title": "Assassination Classroom",
+      "source_phrases": [
+        "School",
+        "science fiction",
+        "action comedy"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Comedy",
+        "School Life",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Comedy",
+        "School Life",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-199",
+      "work_id": 5361,
+      "title": "My Hero Academia",
+      "source_phrases": [
+        "Superheroes",
+        "school",
+        "action"
+      ],
+      "mapped_genres": [
+        "Action",
+        "School Life",
+        "Superhero"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "School Life",
+        "Superhero"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-200",
+      "work_id": 5362,
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "source_phrases": [
+        "Historical fantasy",
+        "demons",
+        "action",
+        "family"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Fantasy",
+        "Family",
+        "Historical Fiction",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Fantasy",
+        "Family",
+        "Historical Fiction",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-201",
+      "work_id": 5363,
+      "title": "The Promised Neverland",
+      "source_phrases": [
+        "Science fiction",
+        "suspense",
+        "survival"
+      ],
+      "mapped_genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Science Fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-202",
+      "work_id": 5364,
+      "title": "Azumanga Daioh",
+      "source_phrases": [
+        "School",
+        "slice of life",
+        "four-panel comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "School Life",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "School Life",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-203",
+      "work_id": 5365,
+      "title": "Nichijou",
+      "source_phrases": [
+        "Surreal comedy",
+        "school",
+        "slice of life"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "School Life",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "School Life",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-204",
+      "work_id": 5366,
+      "title": "H2",
+      "source_phrases": [
+        "Sports",
+        "baseball",
+        "romance",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Romance",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Romance",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-205",
+      "work_id": 5367,
+      "title": "Captain Tsubasa (original series)",
+      "source_phrases": [
+        "Sports",
+        "football",
+        "adventure"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-206",
+      "work_id": 5368,
+      "title": "Major",
+      "source_phrases": [
+        "Sports",
+        "baseball",
+        "family",
+        "career"
+      ],
+      "mapped_genres": [
+        "Family",
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Family",
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-207",
+      "work_id": 5369,
+      "title": "Swan",
+      "source_phrases": [
+        "Ballet",
+        "rivalry",
+        "artistic ambition"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Performing Arts"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Performing Arts"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-208",
+      "work_id": 5370,
+      "title": "Dear Brother (Oniisama e...)",
+      "source_phrases": [
+        "School",
+        "queer themes",
+        "psychological melodrama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Psychological",
+        "School Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Psychological",
+        "School Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-209",
+      "work_id": 5371,
+      "title": "Galaxy Express 999",
+      "source_phrases": [
+        "Science fiction",
+        "space travel",
+        "philosophical adventure"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-210",
+      "work_id": 5372,
+      "title": "They Were Eleven",
+      "source_phrases": [
+        "Science fiction",
+        "mystery",
+        "gender"
+      ],
+      "mapped_genres": [
+        "Mystery",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Mystery",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-211",
+      "work_id": 5373,
+      "title": "Marginal",
+      "source_phrases": [
+        "Science fiction",
+        "gender",
+        "ecology"
+      ],
+      "mapped_genres": [
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-212",
+      "work_id": 5374,
+      "title": "Otherworld Barbara",
+      "source_phrases": [
+        "Science fiction",
+        "psychological mystery",
+        "dreams"
+      ],
+      "mapped_genres": [
+        "Mystery",
+        "Psychological",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Mystery",
+        "Psychological",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-213",
+      "work_id": 5375,
+      "title": "Dementia 21",
+      "source_phrases": [
+        "Surreal horror",
+        "social satire",
+        "short episodes"
+      ],
+      "mapped_genres": [
+        "Horror",
+        "Satire"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Horror",
+        "Satire"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-214",
+      "work_id": 5376,
+      "title": "Oishinbo",
+      "source_phrases": [
+        "Food",
+        "journalism",
+        "culture",
+        "family"
+      ],
+      "mapped_genres": [
+        "Family",
+        "Food"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Family",
+        "Food"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-215",
+      "work_id": 5377,
+      "title": "The Drops of God",
+      "source_phrases": [
+        "Wine",
+        "food",
+        "competition",
+        "family"
+      ],
+      "mapped_genres": [
+        "Family",
+        "Food"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Family",
+        "Food"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-216",
+      "work_id": 5378,
+      "title": "Midnight Diner",
+      "source_phrases": [
+        "Food",
+        "urban life",
+        "episodic drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Food",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Food",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-217",
+      "work_id": 5379,
+      "title": "Saint Young Men",
+      "source_phrases": [
+        "Religion",
+        "slice of life",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-218",
+      "work_id": 5380,
+      "title": "Saint Seiya (original series)",
+      "source_phrases": [
+        "Mythological fantasy",
+        "martial arts",
+        "action"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Fantasy",
+        "Martial Arts"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Fantasy",
+        "Martial Arts"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-219",
+      "work_id": 5381,
+      "title": "Fist of the North Star",
+      "source_phrases": [
+        "Post-apocalyptic",
+        "martial arts",
+        "tragedy"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Martial Arts",
+        "Post-Apocalyptic"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Martial Arts",
+        "Post-Apocalyptic"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-220",
+      "work_id": 5382,
+      "title": "Kinnikuman (original run)",
+      "source_phrases": [
+        "Wrestling",
+        "superheroes",
+        "action comedy"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Comedy",
+        "Sports",
+        "Superhero"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Comedy",
+        "Sports",
+        "Superhero"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-221",
+      "work_id": 5383,
+      "title": "The Fable",
+      "source_phrases": [
+        "Crime",
+        "action",
+        "black comedy"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-222",
+      "work_id": 5384,
+      "title": "Ajin: Demi-Human",
+      "source_phrases": [
+        "Science-fiction thriller",
+        "horror",
+        "tactics"
+      ],
+      "mapped_genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-223",
+      "work_id": 5385,
+      "title": "Gantz",
+      "source_phrases": [
+        "Science-fiction horror",
+        "survival",
+        "action"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Horror",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Horror",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-224",
+      "work_id": 5386,
+      "title": "One-Punch Man (ONE / Yusuke Murata remake)",
+      "source_phrases": [
+        "Superhero satire",
+        "action",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Comedy",
+        "Satire",
+        "Superhero"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Comedy",
+        "Satire",
+        "Superhero"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-225",
+      "work_id": 5387,
+      "title": "Mob Psycho 100",
+      "source_phrases": [
+        "Supernatural",
+        "comedy",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Coming of Age",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Coming of Age",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-226",
+      "work_id": 5388,
+      "title": "World Trigger",
+      "source_phrases": [
+        "Science fiction",
+        "team tactics",
+        "action"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-227",
+      "work_id": 5389,
+      "title": "Dandadan",
+      "source_phrases": [
+        "Supernatural",
+        "science fiction",
+        "romantic action comedy"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Comedy",
+        "Romance",
+        "Science Fiction",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Comedy",
+        "Romance",
+        "Science Fiction",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-228",
+      "work_id": 5390,
+      "title": "Blue Giant",
+      "source_phrases": [
+        "Music",
+        "jazz",
+        "artistic ambition"
+      ],
+      "mapped_genres": [
+        "Arts & Artists",
+        "Music"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Arts & Artists",
+        "Music"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-229",
+      "work_id": 5391,
+      "title": "Beck: Mongolian Chop Squad",
+      "source_phrases": [
+        "Music",
+        "rock",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Music"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Music"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-230",
+      "work_id": 5392,
+      "title": "Kids on the Slope",
+      "source_phrases": [
+        "Music",
+        "jazz",
+        "friendship",
+        "romance"
+      ],
+      "mapped_genres": [
+        "Music",
+        "Romance"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Music",
+        "Romance"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-231",
+      "work_id": 5393,
+      "title": "Forest of Piano",
+      "source_phrases": [
+        "Music",
+        "piano",
+        "class",
+        "competition"
+      ],
+      "mapped_genres": [
+        "Music"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Music"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-232",
+      "work_id": 5394,
+      "title": "Orb: On the Movements of the Earth",
+      "source_phrases": [
+        "Historical fantasy",
+        "science",
+        "philosophy",
+        "persecution"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-233",
+      "work_id": 5395,
+      "title": "Medalist",
+      "source_phrases": [
+        "Sports",
+        "figure skating",
+        "mentorship"
+      ],
+      "mapped_genres": [
+        "Sports"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Sports"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-234",
+      "work_id": 5396,
+      "title": "The Apothecary Diaries (Nekokurage adaptation)",
+      "source_phrases": [
+        "Historical fantasy",
+        "medical mystery",
+        "court intrigue"
+      ],
+      "mapped_genres": [
+        "Fantasy",
+        "Historical Fiction",
+        "Mystery"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Fantasy",
+        "Historical Fiction",
+        "Mystery"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-235",
+      "work_id": 5397,
+      "title": "Emanon (Souvenirs / Memories of Emanon)",
+      "source_phrases": [
+        "Science fiction",
+        "memory",
+        "philosophical drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Science Fiction"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-236",
+      "work_id": 5398,
+      "title": "Saturn Apartments",
+      "source_phrases": [
+        "Science fiction",
+        "workplace",
+        "class",
+        "slice of life"
+      ],
+      "mapped_genres": [
+        "Science Fiction",
+        "Slice of Life",
+        "Workplace"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Science Fiction",
+        "Slice of Life",
+        "Workplace"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-237",
+      "work_id": 5399,
+      "title": "Spirit Circle",
+      "source_phrases": [
+        "Reincarnation",
+        "fantasy",
+        "coming of age"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Fantasy",
+        "Supernatural"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-238",
+      "work_id": 5400,
+      "title": "Lucifer and the Biscuit Hammer",
+      "source_phrases": [
+        "Fantasy",
+        "action",
+        "psychological coming of age"
+      ],
+      "mapped_genres": [
+        "Action",
+        "Coming of Age",
+        "Fantasy",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Action",
+        "Coming of Age",
+        "Fantasy",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-239",
+      "work_id": 5401,
+      "title": "Umineko When They Cry (manga adaptation, all episodes)",
+      "source_phrases": [
+        "Mystery",
+        "metafiction",
+        "fantasy",
+        "psychological drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-240",
+      "work_id": 5402,
+      "title": "Gon",
+      "source_phrases": [
+        "Animals",
+        "adventure",
+        "comedy",
+        "wordless manga"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-241",
+      "work_id": 5403,
+      "title": "Chi's Sweet Home",
+      "source_phrases": [
+        "Animals",
+        "family",
+        "slice of life",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Family",
+        "Slice of Life"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Family",
+        "Slice of Life"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-242",
+      "work_id": 5404,
+      "title": "Chibi Maruko-chan",
+      "source_phrases": [
+        "Childhood",
+        "family",
+        "autobiographical comedy"
+      ],
+      "mapped_genres": [
+        "Autobiographical",
+        "Comedy",
+        "Family"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Autobiographical",
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-243",
+      "work_id": 5405,
+      "title": "Crayon Shin-chan",
+      "source_phrases": [
+        "Family",
+        "social satire",
+        "comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Family",
+        "Satire"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Family",
+        "Satire"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-244",
+      "work_id": 5406,
+      "title": "Tensai Bakabon",
+      "source_phrases": [
+        "Absurdist comedy",
+        "family",
+        "gag manga"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Family"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-245",
+      "work_id": 5407,
+      "title": "Kochikame",
+      "source_phrases": [
+        "Workplace",
+        "police",
+        "social comedy"
+      ],
+      "mapped_genres": [
+        "Comedy",
+        "Crime",
+        "Workplace"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Comedy",
+        "Crime",
+        "Workplace"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-246",
+      "work_id": 5408,
+      "title": "Golgo 13",
+      "source_phrases": [
+        "Crime",
+        "espionage",
+        "political thriller"
+      ],
+      "mapped_genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-247",
+      "work_id": 5409,
+      "title": "Itihasa",
+      "source_phrases": [
+        "Mythic fantasy",
+        "philosophy",
+        "adventure"
+      ],
+      "mapped_genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-248",
+      "work_id": 5410,
+      "title": "River's Edge",
+      "source_phrases": [
+        "Coming of age",
+        "social alienation",
+        "psychological drama"
+      ],
+      "mapped_genres": [
+        "Coming of Age",
+        "Drama",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Coming of Age",
+        "Drama",
+        "Psychological"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-249",
+      "work_id": 5411,
+      "title": "With the Light: Raising an Autistic Child",
+      "source_phrases": [
+        "Disability",
+        "family",
+        "social drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Family"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "source_key": "manga-all-time-250",
+      "work_id": 5412,
+      "title": "I Am a Hero",
+      "source_phrases": [
+        "Horror",
+        "apocalypse",
+        "psychological drama"
+      ],
+      "mapped_genres": [
+        "Drama",
+        "Horror",
+        "Post-Apocalyptic",
+        "Psychological"
+      ],
+      "existing_genres": [],
+      "genres_to_add": [
+        "Drama",
+        "Horror",
+        "Post-Apocalyptic",
+        "Psychological"
+      ]
+    }
+  ],
+  "unmatched": [],
+  "ambiguous": [],
+  "unresolved_genre_phrases": [
+    {
+      "phrase": "friendship",
+      "uses": 12
+    },
+    {
+      "phrase": "grief",
+      "uses": 10
+    },
+    {
+      "phrase": "identity",
+      "uses": 8
+    },
+    {
+      "phrase": "politics",
+      "uses": 6
+    },
+    {
+      "phrase": "gender",
+      "uses": 5
+    },
+    {
+      "phrase": "LGBTQ",
+      "uses": 5
+    },
+    {
+      "phrase": "memory",
+      "uses": 5
+    },
+    {
+      "phrase": "short stories",
+      "uses": 5
+    },
+    {
+      "phrase": "survival",
+      "uses": 5
+    },
+    {
+      "phrase": "class",
+      "uses": 4
+    },
+    {
+      "phrase": "social criticism",
+      "uses": 4
+    },
+    {
+      "phrase": "childhood",
+      "uses": 3
+    },
+    {
+      "phrase": "Childhood",
+      "uses": 3
+    },
+    {
+      "phrase": "competition",
+      "uses": 3
+    },
+    {
+      "phrase": "episodic",
+      "uses": 3
+    },
+    {
+      "phrase": "experimental",
+      "uses": 3
+    },
+    {
+      "phrase": "philosophy",
+      "uses": 3
+    },
+    {
+      "phrase": "social alienation",
+      "uses": 3
+    },
+    {
+      "phrase": "adult life",
+      "uses": 2
+    },
+    {
+      "phrase": "ageing",
+      "uses": 2
+    },
+    {
+      "phrase": "Animals",
+      "uses": 2
+    },
+    {
+      "phrase": "anthology",
+      "uses": 2
+    },
+    {
+      "phrase": "community",
+      "uses": 2
+    },
+    {
+      "phrase": "disability",
+      "uses": 2
+    },
+    {
+      "phrase": "Disability",
+      "uses": 2
+    },
+    {
+      "phrase": "ecology",
+      "uses": 2
+    },
+    {
+      "phrase": "education",
+      "uses": 2
+    },
+    {
+      "phrase": "Fashion",
+      "uses": 2
+    },
+    {
+      "phrase": "Gambling",
+      "uses": 2
+    },
+    {
+      "phrase": "healing",
+      "uses": 2
+    },
+    {
+      "phrase": "mentorship",
+      "uses": 2
+    },
+    {
+      "phrase": "one-shot",
+      "uses": 2
+    },
+    {
+      "phrase": "philosophical",
+      "uses": 2
+    },
+    {
+      "phrase": "political corruption",
+      "uses": 2
+    },
+    {
+      "phrase": "revenge",
+      "uses": 2
+    },
+    {
+      "phrase": "rivalry",
+      "uses": 2
+    },
+    {
+      "phrase": "trauma",
+      "uses": 2
+    },
+    {
+      "phrase": "addiction",
+      "uses": 1
+    },
+    {
+      "phrase": "adulthood",
+      "uses": 1
+    },
+    {
+      "phrase": "Agriculture",
+      "uses": 1
+    },
+    {
+      "phrase": "ambition",
+      "uses": 1
+    },
+    {
+      "phrase": "Animal allegory",
+      "uses": 1
+    },
+    {
+      "phrase": "animals",
+      "uses": 1
+    },
+    {
+      "phrase": "atonement",
+      "uses": 1
+    },
+    {
+      "phrase": "Board games",
+      "uses": 1
+    },
+    {
+      "phrase": "body image",
+      "uses": 1
+    },
+    {
+      "phrase": "bullying",
+      "uses": 1
+    },
+    {
+      "phrase": "career",
+      "uses": 1
+    },
+    {
+      "phrase": "contemplative",
+      "uses": 1
+    },
+    {
+      "phrase": "court intrigue",
+      "uses": 1
+    },
+    {
+      "phrase": "culture",
+      "uses": 1
+    },
+    {
+      "phrase": "dreams",
+      "uses": 1
+    },
+    {
+      "phrase": "ethical fables",
+      "uses": 1
+    },
+    {
+      "phrase": "fandom",
+      "uses": 1
+    },
+    {
+      "phrase": "fashion",
+      "uses": 1
+    },
+    {
+      "phrase": "foster care",
+      "uses": 1
+    },
+    {
+      "phrase": "four-panel manga",
+      "uses": 1
+    },
+    {
+      "phrase": "Friendship",
+      "uses": 1
+    },
+    {
+      "phrase": "gambling",
+      "uses": 1
+    },
+    {
+      "phrase": "Gender identity",
+      "uses": 1
+    },
+    {
+      "phrase": "gender transformation",
+      "uses": 1
+    },
+    {
+      "phrase": "History",
+      "uses": 1
+    },
+    {
+      "phrase": "homelessness",
+      "uses": 1
+    },
+    {
+      "phrase": "journalism",
+      "uses": 1
+    },
+    {
+      "phrase": "Mahjong",
+      "uses": 1
+    },
+    {
+      "phrase": "manga history",
+      "uses": 1
+    },
+    {
+      "phrase": "metafiction",
+      "uses": 1
+    },
+    {
+      "phrase": "nonlinear narrative",
+      "uses": 1
+    },
+    {
+      "phrase": "obsession",
+      "uses": 1
+    },
+    {
+      "phrase": "ocean",
+      "uses": 1
+    },
+    {
+      "phrase": "pacifism",
+      "uses": 1
+    },
+    {
+      "phrase": "Performance",
+      "uses": 1
+    },
+    {
+      "phrase": "persecution",
+      "uses": 1
+    },
+    {
+      "phrase": "political intrigue",
+      "uses": 1
+    },
+    {
+      "phrase": "Queer themes",
+      "uses": 1
+    },
+    {
+      "phrase": "queer themes",
+      "uses": 1
+    },
+    {
+      "phrase": "redemption",
+      "uses": 1
+    },
+    {
+      "phrase": "religion",
+      "uses": 1
+    },
+    {
+      "phrase": "Religion",
+      "uses": 1
+    },
+    {
+      "phrase": "Science",
+      "uses": 1
+    },
+    {
+      "phrase": "science",
+      "uses": 1
+    },
+    {
+      "phrase": "sexuality",
+      "uses": 1
+    },
+    {
+      "phrase": "Shakespeare adaptation",
+      "uses": 1
+    },
+    {
+      "phrase": "Shogi",
+      "uses": 1
+    },
+    {
+      "phrase": "short episodes",
+      "uses": 1
+    },
+    {
+      "phrase": "short manga",
+      "uses": 1
+    },
+    {
+      "phrase": "short narratives",
+      "uses": 1
+    },
+    {
+      "phrase": "social observation",
+      "uses": 1
+    },
+    {
+      "phrase": "storytelling",
+      "uses": 1
+    },
+    {
+      "phrase": "tactics",
+      "uses": 1
+    },
+    {
+      "phrase": "team tactics",
+      "uses": 1
+    },
+    {
+      "phrase": "transgression",
+      "uses": 1
+    },
+    {
+      "phrase": "Urban alienation",
+      "uses": 1
+    },
+    {
+      "phrase": "utopia",
+      "uses": 1
+    },
+    {
+      "phrase": "village life",
+      "uses": 1
+    },
+    {
+      "phrase": "women",
+      "uses": 1
+    },
+    {
+      "phrase": "wordless manga",
+      "uses": 1
+    }
+  ],
+  "summary": {
+    "source_records": 250,
+    "matched_works": 250,
+    "works_with_at_least_one_mapped_genre": 250,
+    "relationships_to_add": 671,
+    "unmatched": 0,
+    "ambiguous": 0
+  }
+}

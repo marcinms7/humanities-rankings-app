@@ -1,0 +1,762 @@
+{
+  "target_id": "books-south-america",
+  "representative_source_ids": [
+    "SOUTH-AMERICA-001",
+    "SOUTH-AMERICA-002",
+    "SOUTH-AMERICA-003",
+    "SOUTH-AMERICA-004",
+    "SOUTH-AMERICA-005"
+  ],
+  "entries": [
+    {
+      "key": "books-south-america-001",
+      "position": 1,
+      "reported_title": "One Hundred Years of Solitude"
+    },
+    {
+      "key": "books-south-america-002",
+      "position": 2,
+      "reported_title": "Ficciones"
+    },
+    {
+      "key": "books-south-america-003",
+      "position": 3,
+      "reported_title": "The Posthumous Memoirs of Brás Cubas"
+    },
+    {
+      "key": "books-south-america-004",
+      "position": 4,
+      "reported_title": "Hopscotch"
+    },
+    {
+      "key": "books-south-america-005",
+      "position": 5,
+      "reported_title": "Conversation in the Cathedral"
+    },
+    {
+      "key": "books-south-america-006",
+      "position": 6,
+      "reported_title": "The Aleph"
+    },
+    {
+      "key": "books-south-america-007",
+      "position": 7,
+      "reported_title": "Grande Sertão: Veredas (The Devil to Pay in the Backlands)"
+    },
+    {
+      "key": "books-south-america-008",
+      "position": 8,
+      "reported_title": "The Obscene Bird of Night"
+    },
+    {
+      "key": "books-south-america-009",
+      "position": 9,
+      "reported_title": "The Hour of the Star"
+    },
+    {
+      "key": "books-south-america-010",
+      "position": 10,
+      "reported_title": "Dom Casmurro"
+    },
+    {
+      "key": "books-south-america-011",
+      "position": 11,
+      "reported_title": "The Invention of Morel"
+    },
+    {
+      "key": "books-south-america-012",
+      "position": 12,
+      "reported_title": "The Passion According to G.H."
+    },
+    {
+      "key": "books-south-america-013",
+      "position": 13,
+      "reported_title": "The War of the End of the World"
+    },
+    {
+      "key": "books-south-america-014",
+      "position": 14,
+      "reported_title": "The Green House"
+    },
+    {
+      "key": "books-south-america-015",
+      "position": 15,
+      "reported_title": "Twenty Love Poems and a Song of Despair"
+    },
+    {
+      "key": "books-south-america-016",
+      "position": 16,
+      "reported_title": "The House of the Spirits"
+    },
+    {
+      "key": "books-south-america-017",
+      "position": 17,
+      "reported_title": "Zama"
+    },
+    {
+      "key": "books-south-america-018",
+      "position": 18,
+      "reported_title": "The Feast of the Goat"
+    },
+    {
+      "key": "books-south-america-019",
+      "position": 19,
+      "reported_title": "The Seven Madmen"
+    },
+    {
+      "key": "books-south-america-020",
+      "position": 20,
+      "reported_title": "The Tunnel"
+    },
+    {
+      "key": "books-south-america-021",
+      "position": 21,
+      "reported_title": "Trilce"
+    },
+    {
+      "key": "books-south-america-022",
+      "position": 22,
+      "reported_title": "I, the Supreme"
+    },
+    {
+      "key": "books-south-america-023",
+      "position": 23,
+      "reported_title": "The Vortex (La vorágine)"
+    },
+    {
+      "key": "books-south-america-024",
+      "position": 24,
+      "reported_title": "A Brief Life"
+    },
+    {
+      "key": "books-south-america-025",
+      "position": 25,
+      "reported_title": "The Savage Detectives"
+    },
+    {
+      "key": "books-south-america-026",
+      "position": 26,
+      "reported_title": "2666"
+    },
+    {
+      "key": "books-south-america-027",
+      "position": 27,
+      "reported_title": "The Time of the Hero"
+    },
+    {
+      "key": "books-south-america-028",
+      "position": 28,
+      "reported_title": "Love in the Time of Cholera"
+    },
+    {
+      "key": "books-south-america-029",
+      "position": 29,
+      "reported_title": "The Autumn of the Patriarch"
+    },
+    {
+      "key": "books-south-america-030",
+      "position": 30,
+      "reported_title": "Canto General"
+    },
+    {
+      "key": "books-south-america-031",
+      "position": 31,
+      "reported_title": "Residence on Earth"
+    },
+    {
+      "key": "books-south-america-032",
+      "position": 32,
+      "reported_title": "Deep Rivers"
+    },
+    {
+      "key": "books-south-america-033",
+      "position": 33,
+      "reported_title": "The Shrouded Woman"
+    },
+    {
+      "key": "books-south-america-034",
+      "position": 34,
+      "reported_title": "The Last Fog"
+    },
+    {
+      "key": "books-south-america-035",
+      "position": 35,
+      "reported_title": "Kiss of the Spider Woman"
+    },
+    {
+      "key": "books-south-america-036",
+      "position": 36,
+      "reported_title": "Barren Lives"
+    },
+    {
+      "key": "books-south-america-037",
+      "position": 37,
+      "reported_title": "Macunaíma"
+    },
+    {
+      "key": "books-south-america-038",
+      "position": 38,
+      "reported_title": "Rebellion in the Backlands (Os Sertões)"
+    },
+    {
+      "key": "books-south-america-039",
+      "position": 39,
+      "reported_title": "Chronicle of a Death Foretold"
+    },
+    {
+      "key": "books-south-america-040",
+      "position": 40,
+      "reported_title": "No One Writes to the Colonel"
+    },
+    {
+      "key": "books-south-america-041",
+      "position": 41,
+      "reported_title": "The Adventures of Maqroll"
+    },
+    {
+      "key": "books-south-america-042",
+      "position": 42,
+      "reported_title": "The Shipyard"
+    },
+    {
+      "key": "books-south-america-043",
+      "position": 43,
+      "reported_title": "Stories of Love, Madness and Death"
+    },
+    {
+      "key": "books-south-america-044",
+      "position": 44,
+      "reported_title": "The Truce"
+    },
+    {
+      "key": "books-south-america-045",
+      "position": 45,
+      "reported_title": "Martín Fierro"
+    },
+    {
+      "key": "books-south-america-046",
+      "position": 46,
+      "reported_title": "Facundo"
+    },
+    {
+      "key": "books-south-america-047",
+      "position": 47,
+      "reported_title": "Adán Buenosayres"
+    },
+    {
+      "key": "books-south-america-048",
+      "position": 48,
+      "reported_title": "On Heroes and Tombs"
+    },
+    {
+      "key": "books-south-america-049",
+      "position": 49,
+      "reported_title": "Bomarzo"
+    },
+    {
+      "key": "books-south-america-050",
+      "position": 50,
+      "reported_title": "The Complete Stories"
+    },
+    {
+      "key": "books-south-america-051",
+      "position": 51,
+      "reported_title": "Thus Were Their Faces"
+    },
+    {
+      "key": "books-south-america-052",
+      "position": 52,
+      "reported_title": "Eisejuaz"
+    },
+    {
+      "key": "books-south-america-053",
+      "position": 53,
+      "reported_title": "The Buenos Aires Affair"
+    },
+    {
+      "key": "books-south-america-054",
+      "position": 54,
+      "reported_title": "Betrayed by Rita Hayworth"
+    },
+    {
+      "key": "books-south-america-055",
+      "position": 55,
+      "reported_title": "The Artificial Respiration"
+    },
+    {
+      "key": "books-south-america-056",
+      "position": 56,
+      "reported_title": "The Museum of Eterna's Novel"
+    },
+    {
+      "key": "books-south-america-057",
+      "position": 57,
+      "reported_title": "The Perón Novel"
+    },
+    {
+      "key": "books-south-america-058",
+      "position": 58,
+      "reported_title": "Santa Evita"
+    },
+    {
+      "key": "books-south-america-059",
+      "position": 59,
+      "reported_title": "An Episode in the Life of a Landscape Painter"
+    },
+    {
+      "key": "books-south-america-060",
+      "position": 60,
+      "reported_title": "Ghosts"
+    },
+    {
+      "key": "books-south-america-061",
+      "position": 61,
+      "reported_title": "Fever Dream"
+    },
+    {
+      "key": "books-south-america-062",
+      "position": 62,
+      "reported_title": "Our Share of Night"
+    },
+    {
+      "key": "books-south-america-063",
+      "position": 63,
+      "reported_title": "Things We Lost in the Fire"
+    },
+    {
+      "key": "books-south-america-064",
+      "position": 64,
+      "reported_title": "Mouthful of Birds"
+    },
+    {
+      "key": "books-south-america-065",
+      "position": 65,
+      "reported_title": "Little Eyes"
+    },
+    {
+      "key": "books-south-america-066",
+      "position": 66,
+      "reported_title": "Tender Is the Flesh"
+    },
+    {
+      "key": "books-south-america-067",
+      "position": 67,
+      "reported_title": "The Luminous Novel"
+    },
+    {
+      "key": "books-south-america-068",
+      "position": 68,
+      "reported_title": "The Naked Woman"
+    },
+    {
+      "key": "books-south-america-069",
+      "position": 69,
+      "reported_title": "Mugre rosa (Pink Slime)"
+    },
+    {
+      "key": "books-south-america-070",
+      "position": 70,
+      "reported_title": "The Rooftop"
+    },
+    {
+      "key": "books-south-america-071",
+      "position": 71,
+      "reported_title": "Seven Interpretive Essays on Peruvian Reality"
+    },
+    {
+      "key": "books-south-america-072",
+      "position": 72,
+      "reported_title": "The Black Heralds"
+    },
+    {
+      "key": "books-south-america-073",
+      "position": 73,
+      "reported_title": "Poemas humanos (Human Poems)"
+    },
+    {
+      "key": "books-south-america-074",
+      "position": 74,
+      "reported_title": "Yawar Fiesta"
+    },
+    {
+      "key": "books-south-america-075",
+      "position": 75,
+      "reported_title": "The Fox from Up Above and the Fox from Down Below"
+    },
+    {
+      "key": "books-south-america-076",
+      "position": 76,
+      "reported_title": "A World for Julius"
+    },
+    {
+      "key": "books-south-america-077",
+      "position": 77,
+      "reported_title": "Redoble por Rancas (Drums for Rancas)"
+    },
+    {
+      "key": "books-south-america-078",
+      "position": 78,
+      "reported_title": "The Word of the Speechless"
+    },
+    {
+      "key": "books-south-america-079",
+      "position": 79,
+      "reported_title": "Desolación"
+    },
+    {
+      "key": "books-south-america-080",
+      "position": 80,
+      "reported_title": "Tala"
+    },
+    {
+      "key": "books-south-america-081",
+      "position": 81,
+      "reported_title": "By Night in Chile"
+    },
+    {
+      "key": "books-south-america-082",
+      "position": 82,
+      "reported_title": "Distant Star"
+    },
+    {
+      "key": "books-south-america-083",
+      "position": 83,
+      "reported_title": "Amulet"
+    },
+    {
+      "key": "books-south-america-084",
+      "position": 84,
+      "reported_title": "Bonsai"
+    },
+    {
+      "key": "books-south-america-085",
+      "position": 85,
+      "reported_title": "Ways of Going Home"
+    },
+    {
+      "key": "books-south-america-086",
+      "position": 86,
+      "reported_title": "Space Invaders"
+    },
+    {
+      "key": "books-south-america-087",
+      "position": 87,
+      "reported_title": "The Twilight Zone"
+    },
+    {
+      "key": "books-south-america-088",
+      "position": 88,
+      "reported_title": "Seeing Red"
+    },
+    {
+      "key": "books-south-america-089",
+      "position": 89,
+      "reported_title": "The Remainder"
+    },
+    {
+      "key": "books-south-america-090",
+      "position": 90,
+      "reported_title": "My Tender Matador"
+    },
+    {
+      "key": "books-south-america-091",
+      "position": 91,
+      "reported_title": "The Old Man Who Read Love Stories"
+    },
+    {
+      "key": "books-south-america-092",
+      "position": 92,
+      "reported_title": "Quincas Borba"
+    },
+    {
+      "key": "books-south-america-093",
+      "position": 93,
+      "reported_title": "The Alienist"
+    },
+    {
+      "key": "books-south-america-094",
+      "position": 94,
+      "reported_title": "The Slum (O Cortiço)"
+    },
+    {
+      "key": "books-south-america-095",
+      "position": 95,
+      "reported_title": "São Bernardo"
+    },
+    {
+      "key": "books-south-america-096",
+      "position": 96,
+      "reported_title": "Captains of the Sands"
+    },
+    {
+      "key": "books-south-america-097",
+      "position": 97,
+      "reported_title": "Gabriela, Clove and Cinnamon"
+    },
+    {
+      "key": "books-south-america-098",
+      "position": 98,
+      "reported_title": "Dona Flor and Her Two Husbands"
+    },
+    {
+      "key": "books-south-america-099",
+      "position": 99,
+      "reported_title": "Near to the Wild Heart"
+    },
+    {
+      "key": "books-south-america-100",
+      "position": 100,
+      "reported_title": "Água Viva"
+    },
+    {
+      "key": "books-south-america-101",
+      "position": 101,
+      "reported_title": "The Apple in the Dark"
+    },
+    {
+      "key": "books-south-america-102",
+      "position": 102,
+      "reported_title": "The Three Marias"
+    },
+    {
+      "key": "books-south-america-103",
+      "position": 103,
+      "reported_title": "The Brothers (Dois Irmãos)"
+    },
+    {
+      "key": "books-south-america-104",
+      "position": 104,
+      "reported_title": "They Were Many Horses"
+    },
+    {
+      "key": "books-south-america-105",
+      "position": 105,
+      "reported_title": "A Color Defect (Um Defeito de Cor)"
+    },
+    {
+      "key": "books-south-america-106",
+      "position": 106,
+      "reported_title": "Crooked Plow (Torto Arado)"
+    },
+    {
+      "key": "books-south-america-107",
+      "position": 107,
+      "reported_title": "Eyes of Water (Olhos d'Água)"
+    },
+    {
+      "key": "books-south-america-108",
+      "position": 108,
+      "reported_title": "Ponciá Vicêncio"
+    },
+    {
+      "key": "books-south-america-109",
+      "position": 109,
+      "reported_title": "Nine Nights"
+    },
+    {
+      "key": "books-south-america-110",
+      "position": 110,
+      "reported_title": "The Eternal Son"
+    },
+    {
+      "key": "books-south-america-111",
+      "position": 111,
+      "reported_title": "The Dark Side of Skin (O Avesso da Pele)"
+    },
+    {
+      "key": "books-south-america-112",
+      "position": 112,
+      "reported_title": "The Falling Sky"
+    },
+    {
+      "key": "books-south-america-113",
+      "position": 113,
+      "reported_title": "The Sun on My Head"
+    },
+    {
+      "key": "books-south-america-114",
+      "position": 114,
+      "reported_title": "The General in His Labyrinth"
+    },
+    {
+      "key": "books-south-america-115",
+      "position": 115,
+      "reported_title": "Leaf Storm"
+    },
+    {
+      "key": "books-south-america-116",
+      "position": 116,
+      "reported_title": "In Evil Hour"
+    },
+    {
+      "key": "books-south-america-117",
+      "position": 117,
+      "reported_title": "The Story of a Shipwrecked Sailor"
+    },
+    {
+      "key": "books-south-america-118",
+      "position": 118,
+      "reported_title": "Delirium"
+    },
+    {
+      "key": "books-south-america-119",
+      "position": 119,
+      "reported_title": "The Sound of Things Falling"
+    },
+    {
+      "key": "books-south-america-120",
+      "position": 120,
+      "reported_title": "The Shape of the Ruins"
+    },
+    {
+      "key": "books-south-america-121",
+      "position": 121,
+      "reported_title": "The Armies"
+    },
+    {
+      "key": "books-south-america-122",
+      "position": 122,
+      "reported_title": "The Bitch"
+    },
+    {
+      "key": "books-south-america-123",
+      "position": 123,
+      "reported_title": "Changó, the Biggest Badass"
+    },
+    {
+      "key": "books-south-america-124",
+      "position": 124,
+      "reported_title": "Huasipungo"
+    },
+    {
+      "key": "books-south-america-125",
+      "position": 125,
+      "reported_title": "Jawbone"
+    },
+    {
+      "key": "books-south-america-126",
+      "position": 126,
+      "reported_title": "Cockfight"
+    },
+    {
+      "key": "books-south-america-127",
+      "position": 127,
+      "reported_title": "The Dizziness of Things (Los Sangurimas)"
+    },
+    {
+      "key": "books-south-america-128",
+      "position": 128,
+      "reported_title": "Juan de la Rosa"
+    },
+    {
+      "key": "books-south-america-129",
+      "position": 129,
+      "reported_title": "Raza de bronce (Bronze Race)"
+    },
+    {
+      "key": "books-south-america-130",
+      "position": 130,
+      "reported_title": "American Visa"
+    },
+    {
+      "key": "books-south-america-131",
+      "position": 131,
+      "reported_title": "Affections"
+    },
+    {
+      "key": "books-south-america-132",
+      "position": 132,
+      "reported_title": "Doña Bárbara"
+    },
+    {
+      "key": "books-south-america-133",
+      "position": 133,
+      "reported_title": "Iphigenia"
+    },
+    {
+      "key": "books-south-america-134",
+      "position": 134,
+      "reported_title": "Memorias de Mamá Blanca"
+    },
+    {
+      "key": "books-south-america-135",
+      "position": 135,
+      "reported_title": "The Night"
+    },
+    {
+      "key": "books-south-america-136",
+      "position": 136,
+      "reported_title": "Palace of the Peacock"
+    },
+    {
+      "key": "books-south-america-137",
+      "position": 137,
+      "reported_title": "The Ventriloquist's Tale"
+    },
+    {
+      "key": "books-south-america-138",
+      "position": 138,
+      "reported_title": "The Open Veins of Latin America"
+    },
+    {
+      "key": "books-south-america-139",
+      "position": 139,
+      "reported_title": "Memory of Fire"
+    },
+    {
+      "key": "books-south-america-140",
+      "position": 140,
+      "reported_title": "Son of Man"
+    },
+    {
+      "key": "books-south-america-141",
+      "position": 141,
+      "reported_title": "Jungle Tales"
+    },
+    {
+      "key": "books-south-america-142",
+      "position": 142,
+      "reported_title": "The Winners"
+    },
+    {
+      "key": "books-south-america-143",
+      "position": 143,
+      "reported_title": "Blow-Up and Other Stories"
+    },
+    {
+      "key": "books-south-america-144",
+      "position": 144,
+      "reported_title": "62: A Model Kit"
+    },
+    {
+      "key": "books-south-america-145",
+      "position": 145,
+      "reported_title": "The Angel of Darkness (Abaddón el exterminador)"
+    },
+    {
+      "key": "books-south-america-146",
+      "position": 146,
+      "reported_title": "Don Segundo Sombra"
+    },
+    {
+      "key": "books-south-america-147",
+      "position": 147,
+      "reported_title": "The Cost of Sugar (Hoe duur was de suiker?)"
+    },
+    {
+      "key": "books-south-america-148",
+      "position": 148,
+      "reported_title": "On a Woman's Madness"
+    },
+    {
+      "key": "books-south-america-149",
+      "position": 149,
+      "reported_title": "Black-Label"
+    },
+    {
+      "key": "books-south-america-150",
+      "position": 150,
+      "reported_title": "My Bones and My Flute"
+    }
+  ]
+}

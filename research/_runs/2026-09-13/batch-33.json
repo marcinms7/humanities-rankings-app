@@ -1,0 +1,31 @@
+{
+  "consulted_on": "2026-09-13",
+  "summary": "Full-list compilation replaces small excerpts: saved both Modern Library 100 lists and the OCLC 100. Reconsulted the Bokklubben factual table as an additional manifestation of R049’s existing poll, not an independent vote. 382 normalized candidate records saved in compilation/candidate-pool.json.",
+  "next": "Publish broad comparisons; enrich pending images separately.",
+  "sources": [
+    {
+      "id": "S02",
+      "url": "https://sites.prh.com/modern-library-top-100/",
+      "title": "Modern Library Top 100: board novels and nonfiction lists",
+      "publisher": "Penguin Random House / Modern Library",
+      "family": "independent_ranking",
+      "note": "Examined both complete lists of 100 titles. The nonfiction list includes James, Whitehead/Russell, Rawls, Moore, Dewey, Berlin and Popper as well as history, memoir, criticism and science.",
+      "location": "Nonfiction board list, positions 1–100; factual extraction research/_runs/2026-09-13/compilation/S02-modern-library.json",
+      "candidates": [
+        "The Varieties of Religious Experience",
+        "A Theory of Justice",
+        "Principia Mathematica",
+        "Principia Ethica",
+        "Philosophy and Civilization",
+        "The Open Society and Its Enemies"
+      ],
+      "limits": "English-language twentieth-century selection; editorial board perspective is not a global or reader consensus. Novel and nonfiction positions belong to separate lists.",
+      "targets": {
+        "A": "Full candidate extraction supplements the existing consulted source, without another source credit.",
+        "L": "Novel list fully extracted; no duplicate source credit.",
+        "N": "Complete board nonfiction selection supplies a broad candidate pool across subjects.",
+        "B": "The explicitly philosophical books in the nonfiction board selection support inclusion, not a specialist philosophy ordering."
+      }
+    }
+  ]
+}

@@ -1,0 +1,907 @@
+{
+  "target_id": "books-victorian",
+  "source_report": "research/incoming/books-victorian/2026-09-13-owner-reupload-2/report.txt",
+  "reported_source_count": 215,
+  "candidates": [
+    {
+      "position": 1,
+      "reported_title": "Middlemarch",
+      "reported_author": "George Eliot (1871–72)",
+      "raw_line": "1. Middlemarch — George Eliot (1871–72)"
+    },
+    {
+      "position": 2,
+      "reported_title": "Bleak House",
+      "reported_author": "Charles Dickens (1852–53)",
+      "raw_line": "2. Bleak House — Charles Dickens (1852–53)"
+    },
+    {
+      "position": 3,
+      "reported_title": "Jane Eyre",
+      "reported_author": "Charlotte Brontë (1847)",
+      "raw_line": "3. Jane Eyre — Charlotte Brontë (1847)"
+    },
+    {
+      "position": 4,
+      "reported_title": "Wuthering Heights",
+      "reported_author": "Emily Brontë (1847)",
+      "raw_line": "4. Wuthering Heights — Emily Brontë (1847)"
+    },
+    {
+      "position": 5,
+      "reported_title": "Great Expectations",
+      "reported_author": "Charles Dickens (1860–61)",
+      "raw_line": "5. Great Expectations — Charles Dickens (1860–61)"
+    },
+    {
+      "position": 6,
+      "reported_title": "Vanity Fair",
+      "reported_author": "William Makepeace Thackeray (1847–48)",
+      "raw_line": "6. Vanity Fair — William Makepeace Thackeray (1847–48)"
+    },
+    {
+      "position": 7,
+      "reported_title": "David Copperfield",
+      "reported_author": "Charles Dickens (1849–50)",
+      "raw_line": "7. David Copperfield — Charles Dickens (1849–50)"
+    },
+    {
+      "position": 8,
+      "reported_title": "Tess of the d’Urbervilles",
+      "reported_author": "Thomas Hardy (1891)",
+      "raw_line": "8. Tess of the d’Urbervilles — Thomas Hardy (1891)"
+    },
+    {
+      "position": 9,
+      "reported_title": "The Woman in White",
+      "reported_author": "Wilkie Collins (1859–60)",
+      "raw_line": "9. The Woman in White — Wilkie Collins (1859–60)"
+    },
+    {
+      "position": 10,
+      "reported_title": "North and South",
+      "reported_author": "Elizabeth Gaskell (1854–55)",
+      "raw_line": "10. North and South — Elizabeth Gaskell (1854–55)"
+    },
+    {
+      "position": 11,
+      "reported_title": "The Moonstone",
+      "reported_author": "Wilkie Collins (1868)",
+      "raw_line": "11. The Moonstone — Wilkie Collins (1868)"
+    },
+    {
+      "position": 12,
+      "reported_title": "The Way We Live Now",
+      "reported_author": "Anthony Trollope (1875)",
+      "raw_line": "12. The Way We Live Now — Anthony Trollope (1875)"
+    },
+    {
+      "position": 13,
+      "reported_title": "The Picture of Dorian Gray",
+      "reported_author": "Oscar Wilde (1890/91)",
+      "raw_line": "13. The Picture of Dorian Gray — Oscar Wilde (1890/91)"
+    },
+    {
+      "position": 14,
+      "reported_title": "The Mill on the Floss",
+      "reported_author": "George Eliot (1860)",
+      "raw_line": "14. The Mill on the Floss — George Eliot (1860)"
+    },
+    {
+      "position": 15,
+      "reported_title": "Daniel Deronda",
+      "reported_author": "George Eliot (1876)",
+      "raw_line": "15. Daniel Deronda — George Eliot (1876)"
+    },
+    {
+      "position": 16,
+      "reported_title": "Little Dorrit",
+      "reported_author": "Charles Dickens (1855–57)",
+      "raw_line": "16. Little Dorrit — Charles Dickens (1855–57)"
+    },
+    {
+      "position": 17,
+      "reported_title": "Alice’s Adventures in Wonderland",
+      "reported_author": "Lewis Carroll (1865)",
+      "raw_line": "17. Alice’s Adventures in Wonderland — Lewis Carroll (1865)"
+    },
+    {
+      "position": 18,
+      "reported_title": "Dracula",
+      "reported_author": "Bram Stoker (1897)",
+      "raw_line": "18. Dracula — Bram Stoker (1897)"
+    },
+    {
+      "position": 19,
+      "reported_title": "Jude the Obscure",
+      "reported_author": "Thomas Hardy (1895)",
+      "raw_line": "19. Jude the Obscure — Thomas Hardy (1895)"
+    },
+    {
+      "position": 20,
+      "reported_title": "Wives and Daughters",
+      "reported_author": "Elizabeth Gaskell (1864–66)",
+      "raw_line": "20. Wives and Daughters — Elizabeth Gaskell (1864–66)"
+    },
+    {
+      "position": 21,
+      "reported_title": "Our Mutual Friend",
+      "reported_author": "Charles Dickens (1864–65)",
+      "raw_line": "21. Our Mutual Friend — Charles Dickens (1864–65)"
+    },
+    {
+      "position": 22,
+      "reported_title": "The Portrait of a Lady",
+      "reported_author": "Henry James (1881)",
+      "raw_line": "22. The Portrait of a Lady — Henry James (1881)"
+    },
+    {
+      "position": 23,
+      "reported_title": "The Mayor of Casterbridge",
+      "reported_author": "Thomas Hardy (1886)",
+      "raw_line": "23. The Mayor of Casterbridge — Thomas Hardy (1886)"
+    },
+    {
+      "position": 24,
+      "reported_title": "Villette",
+      "reported_author": "Charlotte Brontë (1853)",
+      "raw_line": "24. Villette — Charlotte Brontë (1853)"
+    },
+    {
+      "position": 25,
+      "reported_title": "A Christmas Carol",
+      "reported_author": "Charles Dickens (1843)",
+      "raw_line": "25. A Christmas Carol — Charles Dickens (1843)"
+    },
+    {
+      "position": 26,
+      "reported_title": "Barchester Towers",
+      "reported_author": "Anthony Trollope (1857)",
+      "raw_line": "26. Barchester Towers — Anthony Trollope (1857)"
+    },
+    {
+      "position": 27,
+      "reported_title": "Far from the Madding Crowd",
+      "reported_author": "Thomas Hardy (1874)",
+      "raw_line": "27. Far from the Madding Crowd — Thomas Hardy (1874)"
+    },
+    {
+      "position": 28,
+      "reported_title": "The Tenant of Wildfell Hall",
+      "reported_author": "Anne Brontë (1848)",
+      "raw_line": "28. The Tenant of Wildfell Hall — Anne Brontë (1848)"
+    },
+    {
+      "position": 29,
+      "reported_title": "Strange Case of Dr Jekyll and Mr Hyde",
+      "reported_author": "Robert Louis Stevenson (1886)",
+      "raw_line": "29. Strange Case of Dr Jekyll and Mr Hyde — Robert Louis Stevenson (1886)"
+    },
+    {
+      "position": 30,
+      "reported_title": "The Return of the Native",
+      "reported_author": "Thomas Hardy (1878)",
+      "raw_line": "30. The Return of the Native — Thomas Hardy (1878)"
+    },
+    {
+      "position": 31,
+      "reported_title": "Hard Times",
+      "reported_author": "Charles Dickens (1854)",
+      "raw_line": "31. Hard Times — Charles Dickens (1854)"
+    },
+    {
+      "position": 32,
+      "reported_title": "A Tale of Two Cities",
+      "reported_author": "Charles Dickens (1859)",
+      "raw_line": "32. A Tale of Two Cities — Charles Dickens (1859)"
+    },
+    {
+      "position": 33,
+      "reported_title": "The Importance of Being Earnest",
+      "reported_author": "Oscar Wilde (1895)",
+      "raw_line": "33. The Importance of Being Earnest — Oscar Wilde (1895)"
+    },
+    {
+      "position": 34,
+      "reported_title": "Silas Marner",
+      "reported_author": "George Eliot (1861)",
+      "raw_line": "34. Silas Marner — George Eliot (1861)"
+    },
+    {
+      "position": 35,
+      "reported_title": "The Time Machine",
+      "reported_author": "H. G. Wells (1895)",
+      "raw_line": "35. The Time Machine — H. G. Wells (1895)"
+    },
+    {
+      "position": 36,
+      "reported_title": "Mary Barton",
+      "reported_author": "Elizabeth Gaskell (1848)",
+      "raw_line": "36. Mary Barton — Elizabeth Gaskell (1848)"
+    },
+    {
+      "position": 37,
+      "reported_title": "Oliver Twist",
+      "reported_author": "Charles Dickens (1837–39)",
+      "raw_line": "37. Oliver Twist — Charles Dickens (1837–39)"
+    },
+    {
+      "position": 38,
+      "reported_title": "The Adventures of Sherlock Holmes",
+      "reported_author": "Arthur Conan Doyle (1892)",
+      "raw_line": "38. The Adventures of Sherlock Holmes — Arthur Conan Doyle (1892)"
+    },
+    {
+      "position": 39,
+      "reported_title": "Lady Audley’s Secret",
+      "reported_author": "Mary Elizabeth Braddon (1862)",
+      "raw_line": "39. Lady Audley’s Secret — Mary Elizabeth Braddon (1862)"
+    },
+    {
+      "position": 40,
+      "reported_title": "Adam Bede",
+      "reported_author": "George Eliot (1859)",
+      "raw_line": "40. Adam Bede — George Eliot (1859)"
+    },
+    {
+      "position": 41,
+      "reported_title": "The War of the Worlds",
+      "reported_author": "H. G. Wells (1898)",
+      "raw_line": "41. The War of the Worlds — H. G. Wells (1898)"
+    },
+    {
+      "position": 42,
+      "reported_title": "In Memoriam A.H.H.",
+      "reported_author": "Alfred Tennyson (1850)",
+      "raw_line": "42. In Memoriam A.H.H. — Alfred Tennyson (1850)"
+    },
+    {
+      "position": 43,
+      "reported_title": "The Small House at Allington",
+      "reported_author": "Anthony Trollope (1864)",
+      "raw_line": "43. The Small House at Allington — Anthony Trollope (1864)"
+    },
+    {
+      "position": 44,
+      "reported_title": "The Warden",
+      "reported_author": "Anthony Trollope (1855)",
+      "raw_line": "44. The Warden — Anthony Trollope (1855)"
+    },
+    {
+      "position": 45,
+      "reported_title": "Doctor Thorne",
+      "reported_author": "Anthony Trollope (1858)",
+      "raw_line": "45. Doctor Thorne — Anthony Trollope (1858)"
+    },
+    {
+      "position": 46,
+      "reported_title": "Cranford",
+      "reported_author": "Elizabeth Gaskell (1851–53)",
+      "raw_line": "46. Cranford — Elizabeth Gaskell (1851–53)"
+    },
+    {
+      "position": 47,
+      "reported_title": "The Odd Women",
+      "reported_author": "George Gissing (1893)",
+      "raw_line": "47. The Odd Women — George Gissing (1893)"
+    },
+    {
+      "position": 48,
+      "reported_title": "New Grub Street",
+      "reported_author": "George Gissing (1891)",
+      "raw_line": "48. New Grub Street — George Gissing (1891)"
+    },
+    {
+      "position": 49,
+      "reported_title": "On the Origin of Species",
+      "reported_author": "Charles Darwin (1859)",
+      "raw_line": "49. On the Origin of Species — Charles Darwin (1859)"
+    },
+    {
+      "position": 50,
+      "reported_title": "The Ring and the Book",
+      "reported_author": "Robert Browning (1868–69)",
+      "raw_line": "50. The Ring and the Book — Robert Browning (1868–69)"
+    },
+    {
+      "position": 51,
+      "reported_title": "Aurora Leigh",
+      "reported_author": "Elizabeth Barrett Browning (1856)",
+      "raw_line": "51. Aurora Leigh — Elizabeth Barrett Browning (1856)"
+    },
+    {
+      "position": 52,
+      "reported_title": "Treasure Island",
+      "reported_author": "Robert Louis Stevenson (1883)",
+      "raw_line": "52. Treasure Island — Robert Louis Stevenson (1883)"
+    },
+    {
+      "position": 53,
+      "reported_title": "Dombey and Son",
+      "reported_author": "Charles Dickens (1846–48)",
+      "raw_line": "53. Dombey and Son — Charles Dickens (1846–48)"
+    },
+    {
+      "position": 54,
+      "reported_title": "The Eustace Diamonds",
+      "reported_author": "Anthony Trollope (1872–73)",
+      "raw_line": "54. The Eustace Diamonds — Anthony Trollope (1872–73)"
+    },
+    {
+      "position": 55,
+      "reported_title": "Phineas Finn",
+      "reported_author": "Anthony Trollope (1869)",
+      "raw_line": "55. Phineas Finn — Anthony Trollope (1869)"
+    },
+    {
+      "position": 56,
+      "reported_title": "Can You Forgive Her?",
+      "reported_author": "Anthony Trollope (1864–65)",
+      "raw_line": "56. Can You Forgive Her? — Anthony Trollope (1864–65)"
+    },
+    {
+      "position": 57,
+      "reported_title": "Heart of Darkness",
+      "reported_author": "Joseph Conrad (1899 (serial))",
+      "raw_line": "57. Heart of Darkness — Joseph Conrad (1899 (serial))"
+    },
+    {
+      "position": 58,
+      "reported_title": "The Turn of the Screw",
+      "reported_author": "Henry James (1898)",
+      "raw_line": "58. The Turn of the Screw — Henry James (1898)"
+    },
+    {
+      "position": 59,
+      "reported_title": "The Island of Doctor Moreau",
+      "reported_author": "H. G. Wells (1896)",
+      "raw_line": "59. The Island of Doctor Moreau — H. G. Wells (1896)"
+    },
+    {
+      "position": 60,
+      "reported_title": "Through the Looking-Glass",
+      "reported_author": "Lewis Carroll (1871)",
+      "raw_line": "60. Through the Looking-Glass — Lewis Carroll (1871)"
+    },
+    {
+      "position": 61,
+      "reported_title": "The Woodlanders",
+      "reported_author": "Thomas Hardy (1887)",
+      "raw_line": "61. The Woodlanders — Thomas Hardy (1887)"
+    },
+    {
+      "position": 62,
+      "reported_title": "The Heavenly Twins",
+      "reported_author": "Sarah Grand (1893)",
+      "raw_line": "62. The Heavenly Twins — Sarah Grand (1893)"
+    },
+    {
+      "position": 63,
+      "reported_title": "The Story of an African Farm",
+      "reported_author": "Olive Schreiner (1883)",
+      "raw_line": "63. The Story of an African Farm — Olive Schreiner (1883)"
+    },
+    {
+      "position": 64,
+      "reported_title": "East Lynne",
+      "reported_author": "Ellen Wood (1861)",
+      "raw_line": "64. East Lynne — Ellen Wood (1861)"
+    },
+    {
+      "position": 65,
+      "reported_title": "No Name",
+      "reported_author": "Wilkie Collins (1862)",
+      "raw_line": "65. No Name — Wilkie Collins (1862)"
+    },
+    {
+      "position": 66,
+      "reported_title": "Armadale",
+      "reported_author": "Wilkie Collins (1866)",
+      "raw_line": "66. Armadale — Wilkie Collins (1866)"
+    },
+    {
+      "position": 67,
+      "reported_title": "The Memoirs of Sherlock Holmes",
+      "reported_author": "Arthur Conan Doyle (1893)",
+      "raw_line": "67. The Memoirs of Sherlock Holmes — Arthur Conan Doyle (1893)"
+    },
+    {
+      "position": 68,
+      "reported_title": "The Sign of Four",
+      "reported_author": "Arthur Conan Doyle (1890)",
+      "raw_line": "68. The Sign of Four — Arthur Conan Doyle (1890)"
+    },
+    {
+      "position": 69,
+      "reported_title": "A Study in Scarlet",
+      "reported_author": "Arthur Conan Doyle (1887)",
+      "raw_line": "69. A Study in Scarlet — Arthur Conan Doyle (1887)"
+    },
+    {
+      "position": 70,
+      "reported_title": "The Last Chronicle of Barset",
+      "reported_author": "Anthony Trollope (1867)",
+      "raw_line": "70. The Last Chronicle of Barset — Anthony Trollope (1867)"
+    },
+    {
+      "position": 71,
+      "reported_title": "He Knew He Was Right",
+      "reported_author": "Anthony Trollope (1869)",
+      "raw_line": "71. He Knew He Was Right — Anthony Trollope (1869)"
+    },
+    {
+      "position": 72,
+      "reported_title": "Framley Parsonage",
+      "reported_author": "Anthony Trollope (1861)",
+      "raw_line": "72. Framley Parsonage — Anthony Trollope (1861)"
+    },
+    {
+      "position": 73,
+      "reported_title": "Ruth",
+      "reported_author": "Elizabeth Gaskell (1853)",
+      "raw_line": "73. Ruth — Elizabeth Gaskell (1853)"
+    },
+    {
+      "position": 74,
+      "reported_title": "Cousin Phillis",
+      "reported_author": "Elizabeth Gaskell (1864)",
+      "raw_line": "74. Cousin Phillis — Elizabeth Gaskell (1864)"
+    },
+    {
+      "position": 75,
+      "reported_title": "Shirley",
+      "reported_author": "Charlotte Brontë (1849)",
+      "raw_line": "75. Shirley — Charlotte Brontë (1849)"
+    },
+    {
+      "position": 76,
+      "reported_title": "Agnes Grey",
+      "reported_author": "Anne Brontë (1847)",
+      "raw_line": "76. Agnes Grey — Anne Brontë (1847)"
+    },
+    {
+      "position": 77,
+      "reported_title": "Lorna Doone",
+      "reported_author": "R. D. Blackmore (1869)",
+      "raw_line": "77. Lorna Doone — R. D. Blackmore (1869)"
+    },
+    {
+      "position": 78,
+      "reported_title": "The Life of Charlotte Brontë",
+      "reported_author": "Elizabeth Gaskell (1857)",
+      "raw_line": "78. The Life of Charlotte Brontë — Elizabeth Gaskell (1857)"
+    },
+    {
+      "position": 79,
+      "reported_title": "Carmilla",
+      "reported_author": "Sheridan Le Fanu (1872)",
+      "raw_line": "79. Carmilla — Sheridan Le Fanu (1872)"
+    },
+    {
+      "position": 80,
+      "reported_title": "Uncle Silas",
+      "reported_author": "Sheridan Le Fanu (1864)",
+      "raw_line": "80. Uncle Silas — Sheridan Le Fanu (1864)"
+    },
+    {
+      "position": 81,
+      "reported_title": "Nicholas Nickleby",
+      "reported_author": "Charles Dickens (1838–39)",
+      "raw_line": "81. Nicholas Nickleby — Charles Dickens (1838–39)"
+    },
+    {
+      "position": 82,
+      "reported_title": "The Old Curiosity Shop",
+      "reported_author": "Charles Dickens (1840–41)",
+      "raw_line": "82. The Old Curiosity Shop — Charles Dickens (1840–41)"
+    },
+    {
+      "position": 83,
+      "reported_title": "The History of Henry Esmond",
+      "reported_author": "William Makepeace Thackeray (1852)",
+      "raw_line": "83. The History of Henry Esmond — William Makepeace Thackeray (1852)"
+    },
+    {
+      "position": 84,
+      "reported_title": "The Newcomes",
+      "reported_author": "William Makepeace Thackeray (1853–55)",
+      "raw_line": "84. The Newcomes — William Makepeace Thackeray (1853–55)"
+    },
+    {
+      "position": 85,
+      "reported_title": "Pendennis",
+      "reported_author": "William Makepeace Thackeray (1848–50)",
+      "raw_line": "85. Pendennis — William Makepeace Thackeray (1848–50)"
+    },
+    {
+      "position": 86,
+      "reported_title": "The Egoist",
+      "reported_author": "George Meredith (1879)",
+      "raw_line": "86. The Egoist — George Meredith (1879)"
+    },
+    {
+      "position": 87,
+      "reported_title": "The Ordeal of Richard Feverel",
+      "reported_author": "George Meredith (1859)",
+      "raw_line": "87. The Ordeal of Richard Feverel — George Meredith (1859)"
+    },
+    {
+      "position": 88,
+      "reported_title": "Diana of the Crossways",
+      "reported_author": "George Meredith (1885)",
+      "raw_line": "88. Diana of the Crossways — George Meredith (1885)"
+    },
+    {
+      "position": 89,
+      "reported_title": "News from Nowhere",
+      "reported_author": "William Morris (1890)",
+      "raw_line": "89. News from Nowhere — William Morris (1890)"
+    },
+    {
+      "position": 90,
+      "reported_title": "Goblin Market and Other Poems",
+      "reported_author": "Christina Rossetti (1862)",
+      "raw_line": "90. Goblin Market and Other Poems — Christina Rossetti (1862)"
+    },
+    {
+      "position": 91,
+      "reported_title": "Men and Women",
+      "reported_author": "Robert Browning (1855)",
+      "raw_line": "91. Men and Women — Robert Browning (1855)"
+    },
+    {
+      "position": 92,
+      "reported_title": "Idylls of the King",
+      "reported_author": "Alfred Tennyson (1859–85)",
+      "raw_line": "92. Idylls of the King — Alfred Tennyson (1859–85)"
+    },
+    {
+      "position": 93,
+      "reported_title": "Sonnets from the Portuguese",
+      "reported_author": "Elizabeth Barrett Browning (1850)",
+      "raw_line": "93. Sonnets from the Portuguese — Elizabeth Barrett Browning (1850)"
+    },
+    {
+      "position": 94,
+      "reported_title": "Culture and Anarchy",
+      "reported_author": "Matthew Arnold (1869)",
+      "raw_line": "94. Culture and Anarchy — Matthew Arnold (1869)"
+    },
+    {
+      "position": 95,
+      "reported_title": "The Renaissance",
+      "reported_author": "Walter Pater (1873)",
+      "raw_line": "95. The Renaissance — Walter Pater (1873)"
+    },
+    {
+      "position": 96,
+      "reported_title": "On Liberty",
+      "reported_author": "John Stuart Mill (1859)",
+      "raw_line": "96. On Liberty — John Stuart Mill (1859)"
+    },
+    {
+      "position": 97,
+      "reported_title": "The Subjection of Women",
+      "reported_author": "John Stuart Mill (1869)",
+      "raw_line": "97. The Subjection of Women — John Stuart Mill (1869)"
+    },
+    {
+      "position": 98,
+      "reported_title": "Unto This Last",
+      "reported_author": "John Ruskin (1860/62)",
+      "raw_line": "98. Unto This Last — John Ruskin (1860/62)"
+    },
+    {
+      "position": 99,
+      "reported_title": "The Stones of Venice",
+      "reported_author": "John Ruskin (1851–53)",
+      "raw_line": "99. The Stones of Venice — John Ruskin (1851–53)"
+    },
+    {
+      "position": 100,
+      "reported_title": "Modern Painters",
+      "reported_author": "John Ruskin (1843–60)",
+      "raw_line": "100. Modern Painters — John Ruskin (1843–60)"
+    },
+    {
+      "position": 101,
+      "reported_title": "Past and Present",
+      "reported_author": "Thomas Carlyle (1843)",
+      "raw_line": "101. Past and Present — Thomas Carlyle (1843)"
+    },
+    {
+      "position": 102,
+      "reported_title": "Apologia Pro Vita Sua",
+      "reported_author": "John Henry Newman (1864)",
+      "raw_line": "102. Apologia Pro Vita Sua — John Henry Newman (1864)"
+    },
+    {
+      "position": 103,
+      "reported_title": "Wonderful Adventures of Mrs Seacole in Many Lands",
+      "reported_author": "Mary Seacole (1857)",
+      "raw_line": "103. Wonderful Adventures of Mrs Seacole in Many Lands — Mary Seacole (1857)"
+    },
+    {
+      "position": 104,
+      "reported_title": "London Labour and the London Poor",
+      "reported_author": "Henry Mayhew (1851)",
+      "raw_line": "104. London Labour and the London Poor — Henry Mayhew (1851)"
+    },
+    {
+      "position": 105,
+      "reported_title": "The Descent of Man",
+      "reported_author": "Charles Darwin (1871)",
+      "raw_line": "105. The Descent of Man — Charles Darwin (1871)"
+    },
+    {
+      "position": 106,
+      "reported_title": "The Malay Archipelago",
+      "reported_author": "Alfred Russel Wallace (1869)",
+      "raw_line": "106. The Malay Archipelago — Alfred Russel Wallace (1869)"
+    },
+    {
+      "position": 107,
+      "reported_title": "Notes on Nursing",
+      "reported_author": "Florence Nightingale (1859/60)",
+      "raw_line": "107. Notes on Nursing — Florence Nightingale (1859/60)"
+    },
+    {
+      "position": 108,
+      "reported_title": "She: A History of Adventure",
+      "reported_author": "H. Rider Haggard (1887)",
+      "raw_line": "108. She: A History of Adventure — H. Rider Haggard (1887)"
+    },
+    {
+      "position": 109,
+      "reported_title": "King Solomon’s Mines",
+      "reported_author": "H. Rider Haggard (1885)",
+      "raw_line": "109. King Solomon’s Mines — H. Rider Haggard (1885)"
+    },
+    {
+      "position": 110,
+      "reported_title": "Kidnapped",
+      "reported_author": "Robert Louis Stevenson (1886)",
+      "raw_line": "110. Kidnapped — Robert Louis Stevenson (1886)"
+    },
+    {
+      "position": 111,
+      "reported_title": "The Master of Ballantrae",
+      "reported_author": "Robert Louis Stevenson (1889)",
+      "raw_line": "111. The Master of Ballantrae — Robert Louis Stevenson (1889)"
+    },
+    {
+      "position": 112,
+      "reported_title": "Lord Jim",
+      "reported_author": "Joseph Conrad (1900)",
+      "raw_line": "112. Lord Jim — Joseph Conrad (1900)"
+    },
+    {
+      "position": 113,
+      "reported_title": "Three Men in a Boat",
+      "reported_author": "Jerome K. Jerome (1889)",
+      "raw_line": "113. Three Men in a Boat — Jerome K. Jerome (1889)"
+    },
+    {
+      "position": 114,
+      "reported_title": "The Diary of a Nobody",
+      "reported_author": "George & Weedon Grossmith (1892)",
+      "raw_line": "114. The Diary of a Nobody — George & Weedon Grossmith (1892)"
+    },
+    {
+      "position": 115,
+      "reported_title": "The Jungle Book",
+      "reported_author": "Rudyard Kipling (1894)",
+      "raw_line": "115. The Jungle Book — Rudyard Kipling (1894)"
+    },
+    {
+      "position": 116,
+      "reported_title": "Kim",
+      "reported_author": "Rudyard Kipling (1901)",
+      "raw_line": "116. Kim — Rudyard Kipling (1901)"
+    },
+    {
+      "position": 117,
+      "reported_title": "The Invisible Man",
+      "reported_author": "H. G. Wells (1897)",
+      "raw_line": "117. The Invisible Man — H. G. Wells (1897)"
+    },
+    {
+      "position": 118,
+      "reported_title": "The Beetle",
+      "reported_author": "Richard Marsh (1897)",
+      "raw_line": "118. The Beetle — Richard Marsh (1897)"
+    },
+    {
+      "position": 119,
+      "reported_title": "Trilby",
+      "reported_author": "George du Maurier (1894)",
+      "raw_line": "119. Trilby — George du Maurier (1894)"
+    },
+    {
+      "position": 120,
+      "reported_title": "The Cloister and the Hearth",
+      "reported_author": "Charles Reade (1861)",
+      "raw_line": "120. The Cloister and the Hearth — Charles Reade (1861)"
+    },
+    {
+      "position": 121,
+      "reported_title": "Aurora Floyd",
+      "reported_author": "Mary Elizabeth Braddon (1863)",
+      "raw_line": "121. Aurora Floyd — Mary Elizabeth Braddon (1863)"
+    },
+    {
+      "position": 122,
+      "reported_title": "Miss Marjoribanks",
+      "reported_author": "Margaret Oliphant (1866)",
+      "raw_line": "122. Miss Marjoribanks — Margaret Oliphant (1866)"
+    },
+    {
+      "position": 123,
+      "reported_title": "Salem Chapel",
+      "reported_author": "Margaret Oliphant (1863)",
+      "raw_line": "123. Salem Chapel — Margaret Oliphant (1863)"
+    },
+    {
+      "position": 124,
+      "reported_title": "Hester",
+      "reported_author": "Margaret Oliphant (1883)",
+      "raw_line": "124. Hester — Margaret Oliphant (1883)"
+    },
+    {
+      "position": 125,
+      "reported_title": "Sybil; or, The Two Nations",
+      "reported_author": "Benjamin Disraeli (1845)",
+      "raw_line": "125. Sybil; or, The Two Nations — Benjamin Disraeli (1845)"
+    },
+    {
+      "position": 126,
+      "reported_title": "The Water-Babies",
+      "reported_author": "Charles Kingsley (1863)",
+      "raw_line": "126. The Water-Babies — Charles Kingsley (1863)"
+    },
+    {
+      "position": 127,
+      "reported_title": "Tom Brown’s School Days",
+      "reported_author": "Thomas Hughes (1857)",
+      "raw_line": "127. Tom Brown’s School Days — Thomas Hughes (1857)"
+    },
+    {
+      "position": 128,
+      "reported_title": "The Heir of Redclyffe",
+      "reported_author": "Charlotte M. Yonge (1853)",
+      "raw_line": "128. The Heir of Redclyffe — Charlotte M. Yonge (1853)"
+    },
+    {
+      "position": 129,
+      "reported_title": "The Princess and the Goblin",
+      "reported_author": "George MacDonald (1872)",
+      "raw_line": "129. The Princess and the Goblin — George MacDonald (1872)"
+    },
+    {
+      "position": 130,
+      "reported_title": "Phantastes",
+      "reported_author": "George MacDonald (1858)",
+      "raw_line": "130. Phantastes — George MacDonald (1858)"
+    },
+    {
+      "position": 131,
+      "reported_title": "Lilith",
+      "reported_author": "George MacDonald (1895)",
+      "raw_line": "131. Lilith — George MacDonald (1895)"
+    },
+    {
+      "position": 132,
+      "reported_title": "The Happy Prince and Other Tales",
+      "reported_author": "Oscar Wilde (1888)",
+      "raw_line": "132. The Happy Prince and Other Tales — Oscar Wilde (1888)"
+    },
+    {
+      "position": 133,
+      "reported_title": "The Ballad of Reading Gaol",
+      "reported_author": "Oscar Wilde (1898)",
+      "raw_line": "133. The Ballad of Reading Gaol — Oscar Wilde (1898)"
+    },
+    {
+      "position": 134,
+      "reported_title": "Flatland",
+      "reported_author": "Edwin A. Abbott (1884)",
+      "raw_line": "134. Flatland — Edwin A. Abbott (1884)"
+    },
+    {
+      "position": 135,
+      "reported_title": "Erewhon",
+      "reported_author": "Samuel Butler (1872)",
+      "raw_line": "135. Erewhon — Samuel Butler (1872)"
+    },
+    {
+      "position": 136,
+      "reported_title": "The Romance of a Shop",
+      "reported_author": "Amy Levy (1888)",
+      "raw_line": "136. The Romance of a Shop — Amy Levy (1888)"
+    },
+    {
+      "position": 137,
+      "reported_title": "Reuben Sachs",
+      "reported_author": "Amy Levy (1888)",
+      "raw_line": "137. Reuben Sachs — Amy Levy (1888)"
+    },
+    {
+      "position": 138,
+      "reported_title": "Keynotes",
+      "reported_author": "George Egerton (1893)",
+      "raw_line": "138. Keynotes — George Egerton (1893)"
+    },
+    {
+      "position": 139,
+      "reported_title": "The Story of a Modern Woman",
+      "reported_author": "Ella Hepworth Dixon (1894)",
+      "raw_line": "139. The Story of a Modern Woman — Ella Hepworth Dixon (1894)"
+    },
+    {
+      "position": 140,
+      "reported_title": "A Child of the Jago",
+      "reported_author": "Arthur Morrison (1896)",
+      "raw_line": "140. A Child of the Jago — Arthur Morrison (1896)"
+    },
+    {
+      "position": 141,
+      "reported_title": "Born in Exile",
+      "reported_author": "George Gissing (1892)",
+      "raw_line": "141. Born in Exile — George Gissing (1892)"
+    },
+    {
+      "position": 142,
+      "reported_title": "The Nether World",
+      "reported_author": "George Gissing (1889)",
+      "raw_line": "142. The Nether World — George Gissing (1889)"
+    },
+    {
+      "position": 143,
+      "reported_title": "A Pair of Blue Eyes",
+      "reported_author": "Thomas Hardy (1873)",
+      "raw_line": "143. A Pair of Blue Eyes — Thomas Hardy (1873)"
+    },
+    {
+      "position": 144,
+      "reported_title": "Romola",
+      "reported_author": "George Eliot (1862–63)",
+      "raw_line": "144. Romola — George Eliot (1862–63)"
+    },
+    {
+      "position": 145,
+      "reported_title": "Felix Holt, the Radical",
+      "reported_author": "George Eliot (1866)",
+      "raw_line": "145. Felix Holt, the Radical — George Eliot (1866)"
+    },
+    {
+      "position": 146,
+      "reported_title": "Scenes of Clerical Life",
+      "reported_author": "George Eliot (1857–58)",
+      "raw_line": "146. Scenes of Clerical Life — George Eliot (1857–58)"
+    },
+    {
+      "position": 147,
+      "reported_title": "The Law and the Lady",
+      "reported_author": "Wilkie Collins (1875)",
+      "raw_line": "147. The Law and the Lady — Wilkie Collins (1875)"
+    },
+    {
+      "position": 148,
+      "reported_title": "The Earthly Paradise",
+      "reported_author": "William Morris (1868–70)",
+      "raw_line": "148. The Earthly Paradise — William Morris (1868–70)"
+    },
+    {
+      "position": 149,
+      "reported_title": "Poems and Ballads, First Series",
+      "reported_author": "Algernon Charles Swinburne (1866)",
+      "raw_line": "149. Poems and Ballads, First Series — Algernon Charles Swinburne (1866)"
+    },
+    {
+      "position": 150,
+      "reported_title": "The Rubáiyát of Omar Khayyám",
+      "reported_author": "Edward FitzGerald (1859)",
+      "raw_line": "150. The Rubáiyát of Omar Khayyám — Edward FitzGerald (1859)"
+    }
+  ]
+}

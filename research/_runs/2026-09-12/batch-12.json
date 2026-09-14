@@ -1,0 +1,163 @@
+{
+  "summary": "Eight earlier all-books sources individually reconsulted for literary fiction; four also add separately justified nonfiction evidence. Brittle Paper announcement and linked selection remain one underlying source.",
+  "next": "Seek many new non-English independent reviews and regional critical selections; avoid publisher concentration.",
+  "sources": [
+    {
+      "id": "R088",
+      "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books",
+      "title": "100 must-read classics, as chosen by our readers",
+      "publisher": "Penguin",
+      "family": "publisher_reader_selection",
+      "note": "Reader comments value ambiguity in The Turn of the Screw, longing in Persuasion and sensuous form in Woolf; editorial and reader voices remain distinguishable.",
+      "candidates": [
+        "The Turn of the Screw",
+        "Persuasion",
+        "To the Lighthouse"
+      ],
+      "location": "Entries 12–18",
+      "limits": "Publisher-curated social comments are not an independent representative poll.",
+      "targets": {
+        "L": "Individually examined relevant fiction selections and criticism."
+      }
+    },
+    {
+      "id": "R089",
+      "url": "https://reedsy.com/discovery/blog/classic-books",
+      "title": "The 100 Best Classic Books to Read",
+      "publisher": "Reedsy",
+      "family": "editorial_selection",
+      "note": "Short appreciations identify Carter’s revision of fairy tales, Plath’s existential concerns and Capote’s unstable self-presentation; mixes forms and commercial links.",
+      "candidates": [
+        "The Bloody Chamber",
+        "The Bell Jar",
+        "Breakfast at Tiffany's",
+        "American Indian Stories"
+      ],
+      "location": "Entries 5–13",
+      "limits": "Broad introductory blurbs; no full critical argument or consensus implied.",
+      "targets": {
+        "L": "Individually examined relevant fiction selections and criticism.",
+        "N": "Zitkála-Šá’s memoir/folklore mixture adds an Indigenous nonfiction boundary case."
+      }
+    },
+    {
+      "id": "R090",
+      "url": "https://www.panmacmillan.com/blogs/classics/classic-books-to-read-before-you-die",
+      "title": "Classic books to read at least once in your lifetime",
+      "publisher": "Pan Macmillan",
+      "family": "publisher_selection",
+      "note": "Describes Orlando’s changing gender and Little Women’s constrained ambitions alongside Douglass’s abolitionist memoir; separates literary fiction from memoir.",
+      "candidates": [
+        "Orlando",
+        "Little Women",
+        "Death in Venice",
+        "Narrative of the Life of Frederick Douglass"
+      ],
+      "location": "Middle selection entries",
+      "limits": "Publisher marketing; useful candidate discovery with limited evaluative independence.",
+      "targets": {
+        "L": "Individually examined relevant fiction selections and criticism.",
+        "N": "Douglass’s memoir is explicitly recommended as abolitionist writing."
+      }
+    },
+    {
+      "id": "R091",
+      "url": "https://lithub.com/the-20-best-novels-of-the-decade/",
+      "title": "The 20 Best Novels of the Decade",
+      "publisher": "Literary Hub",
+      "family": "editorial_selection",
+      "note": "Staff voting explicitly excludes translations and reissues; Egan’s fractured chronology is interpreted as an account of memory, celebrity and unstable identity.",
+      "candidates": [
+        "A Visit from the Goon Squad",
+        "English-language 2010s selection limits"
+      ],
+      "location": "Methodology and Egan entry",
+      "limits": "Absence of translated classics follows eligibility rules, not negative merit judgments.",
+      "targets": {
+        "L": "Individually examined relevant fiction selections and criticism."
+      }
+    },
+    {
+      "id": "R092",
+      "url": "https://brittlepaper.com/2022/11/brittle-paper-debuts-100-notable-african-books-of-the-year-list/",
+      "title": "100 Notable African Books of 2022",
+      "publisher": "Brittle Paper",
+      "family": "editorial_selection",
+      "note": "Selection spans 23 countries and multiple genres; examined entries include Nganang’s generational history, Omotoso’s grief narrative, Ajala’s travel memoir and Táíwò’s critique of decolonization.",
+      "candidates": [
+        "A Trail of Crab Tracks",
+        "An Unusual Grief",
+        "An African Abroad",
+        "Against Decolonization",
+        "Olúfemi Táíwò"
+      ],
+      "location": "Announcement and linked selection, early entries",
+      "limits": "Announcement and complete selection counted as one underlying source; distinguish Cornell Táíwò from Olúfẹ́mi O. Táíwò.",
+      "targets": {
+        "L": "Individually examined relevant fiction selections and criticism.",
+        "N": "Ajala travel memoir and Táíwò scholarly critique diversify nonfiction.",
+        "B": "Against Decolonization supplies a candidate with a stated argumentative intervention.",
+        "P": "Cornell philosopher Olúfemi Táíwò identified through a specific critical book."
+      }
+    },
+    {
+      "id": "R093",
+      "url": "https://thebookerprizes.com/the-golden-man-booker",
+      "title": "The Golden Man Booker",
+      "publisher": "Booker Prize Foundation",
+      "family": "prize_selection",
+      "note": "Five judges selected one previous winner per decade before public voting selected The English Patient; shortlist also includes Moon Tiger and In a Free State.",
+      "candidates": [
+        "The English Patient",
+        "Moon Tiger",
+        "In a Free State",
+        "Wolf Hall",
+        "Lincoln in the Bardo"
+      ],
+      "location": "Methodology and shortlist",
+      "limits": "Candidate pool restricted to past winners; composite judge/public process not global consensus.",
+      "targets": {
+        "L": "Individually examined relevant fiction selections and criticism."
+      }
+    },
+    {
+      "id": "R094",
+      "url": "https://worldliteraturetoday.org/blog/lit-lists/world-literature-todays-75-notable-translations-2025-michelle-johnson",
+      "title": "75 Notable Translations of 2025",
+      "publisher": "World Literature Today",
+      "family": "editorial_selection",
+      "note": "Identifies translated fiction by Myśliwski, Ismailov, Prophète and Shree with translators; includes memoir and essays that require distinct genre treatment.",
+      "candidates": [
+        "Needle's Eye",
+        "We Computers",
+        "Cécé",
+        "Our City That Year",
+        "Sad Tiger",
+        "Exophony"
+      ],
+      "location": "Middle and later selections",
+      "limits": "Translation year differs from original publication; entries are recommendations rather than extensive reviews.",
+      "targets": {
+        "L": "Individually examined relevant fiction selections and criticism.",
+        "N": "Sad Tiger and Exophony supply translated memoir/essay candidates."
+      }
+    },
+    {
+      "id": "R095",
+      "url": "https://ayearofreadingtheworld.com/2026/08/31/book-of-the-month-lana-abdelrahman/",
+      "title": "Book of the month: Lana Abdelrahman",
+      "publisher": "A year of reading the world",
+      "family": "independent_blog",
+      "note": "Morgan reads A Spell of Longing through alienated perspectives, barely visible trauma and female agency, with Scheherazade as a recurring imaginative reference.",
+      "candidates": [
+        "A Spell of Longing",
+        "Lana Abdelrahman"
+      ],
+      "location": "Review body",
+      "limits": "Author supplied reviewer’s copy; appreciative contemporary review offers no all-time rank.",
+      "targets": {
+        "L": "Individually examined relevant fiction selections and criticism."
+      }
+    }
+  ]
+}

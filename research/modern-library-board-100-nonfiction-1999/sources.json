@@ -1,0 +1,25 @@
+{
+  "target_id": "modern-library-board-100-nonfiction-1999",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-14",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://sites.prh.com/modern-library-top-100",
+      "title": "Modern Library · Board's 100 Best Nonfiction (1999) — result publication",
+      "canonical_url": "https://sites.prh.com/modern-library-top-100",
+      "source_family": "publisher_list",
+      "publisher": "Modern Library",
+      "evidence_notes": "All 100 nonfiction works in the Modern Library board's published order.",
+      "limitations": "A publisher-appointed board's twentieth-century English-language canon; source order is not Marginalia's assessment.",
+      "target_ids": [
+        "modern-library-board-100-nonfiction-1999"
+      ],
+      "relevance_by_target": {
+        "modern-library-board-100-nonfiction-1999": "All 100 nonfiction works in the Modern Library board's published order."
+      },
+      "accessed_at": "2026-09-14",
+      "eligible": true
+    }
+  ]
+}

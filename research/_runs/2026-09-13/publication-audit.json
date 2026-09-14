@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-13",
+  "targets": [
+    {
+      "target": "books-all-time",
+      "title": "Books · All time",
+      "id": 1,
+      "sources": 215,
+      "entries": 14,
+      "revision": 2
+    },
+    {
+      "target": "literature-all-time",
+      "title": "Literary fiction · All time",
+      "id": 2,
+      "sources": 99,
+      "entries": 8,
+      "revision": 2
+    },
+    {
+      "target": "nonfiction-all-time",
+      "title": "Nonfiction · All time",
+      "id": 3,
+      "sources": 117,
+      "entries": 6,
+      "revision": 2
+    },
+    {
+      "target": "philosophy-books-all-time",
+      "title": "Philosophy books · All time",
+      "id": 4,
+      "sources": 97,
+      "entries": 4,
+      "revision": 2
+    },
+    {
+      "target": "philosophers-all-time",
+      "title": "Philosophers · All time",
+      "id": 5,
+      "sources": 99,
+      "entries": 23,
+      "revision": 2
+    }
+  ],
+  "target_source_records": 627,
+  "global_underlying_source_identities": 217,
+  "works": 14,
+  "people": 34,
+  "editions": 14,
+  "covers": 14,
+  "portraits": 34,
+  "verification": "Read-only ledger/database/media consistency checks. No test suites, browser automation or test accounts."
+}

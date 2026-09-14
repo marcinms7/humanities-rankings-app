@@ -1,0 +1,102 @@
+{
+  "consulted_on": "2026-09-13",
+  "summary": "Individually relevant cross-target reuse for catalog expansion, using saved consultations and the complete list extractions. No new globally independent source count.",
+  "next": "Publish philosophy and philosophers; keep editions and pictures in a separate pending queue.",
+  "sources": [
+    {
+      "id": "S02",
+      "url": "https://sites.prh.com/modern-library-top-100/",
+      "title": "Modern Library Top 100: board novels and nonfiction lists",
+      "publisher": "Penguin Random House / Modern Library",
+      "family": "independent_ranking",
+      "language": "en",
+      "note": "Examined both complete lists of 100 titles. The nonfiction list includes James, Whitehead/Russell, Rawls, Moore, Dewey, Berlin and Popper as well as history, memoir, criticism and science.",
+      "location": "Nonfiction board list, positions 1–100; factual extraction research/_runs/2026-09-13/compilation/S02-modern-library.json",
+      "candidates": [
+        "The Varieties of Religious Experience",
+        "A Theory of Justice",
+        "Principia Mathematica",
+        "Principia Ethica",
+        "Philosophy and Civilization",
+        "The Open Society and Its Enemies"
+      ],
+      "limits": "English-language twentieth-century selection; editorial board perspective is not a global or reader consensus. Novel and nonfiction positions belong to separate lists.",
+      "targets": {
+        "P": "Philosophical authors explicitly represented by named philosophical books in the board nonfiction list: James, Whitehead/Russell, Rawls, Moore, Dewey, Berlin and Popper. This supports candidate reception, not a poll ordering of philosophers."
+      }
+    },
+    {
+      "id": "S14",
+      "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books",
+      "title": "100 must-read classics, as chosen by our readers",
+      "publisher": "Penguin / Penguin Random House",
+      "family": "publisher_selection",
+      "language": "en",
+      "note": "Reader recommendations and editorial descriptions produce a broad classics selection.",
+      "location": "Relevant introduction, selection, or discussion excerpts; full page review is not asserted.",
+      "candidates": [
+        "Pride and Prejudice",
+        "candidate_pool"
+      ],
+      "limits": "Publisher-curated and commercially linked; shares ownership with Modern Library.",
+      "targets": {
+        "N": "Reader-selected list explicitly includes In Cold Blood, Travels with Charley, I Know Why the Caged Bird Sings, Lark Rise to Candleford and The Art of War. Nonfiction candidates only; fictional titles are not reassigned."
+      }
+    },
+    {
+      "id": "S20",
+      "url": "https://plato.stanford.edu/entries/confucius/",
+      "title": "Confucius",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "language": "en",
+      "note": "The Analects transmits multiple representations of Confucius. The entry treats ritual, virtue and family-state relations while warning that later traditions select different aspects of his legacy.",
+      "location": "Introduction, lines 13–20",
+      "candidates": [
+        "Confucius",
+        "Analects"
+      ],
+      "limits": "Authorship and doctrine are historically underdetermined; no single modern label captures all reception.",
+      "targets": {
+        "N": "The Confucius article supports the Analects as an influential philosophical nonfiction text; compilation and attribution remain qualified."
+      }
+    },
+    {
+      "id": "R015",
+      "url": "https://plato.stanford.edu/entries/laozi/",
+      "title": "Laozi",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "language": "en",
+      "note": "Daodejing's ethical, political and spiritual interpretations differ. The text's influence is broad, but the existence of its traditionally named author is disputed.",
+      "location": "Introduction",
+      "candidates": [
+        "Laozi",
+        "Daodejing"
+      ],
+      "limits": "Do not infer an established historical individual from a surviving named text.",
+      "targets": {
+        "N": "The Laozi article supports the Daodejing as philosophical literature rather than a prose novel; traditional attribution remains qualified."
+      }
+    },
+    {
+      "id": "R009",
+      "url": "https://plato.stanford.edu/entries/nagarjuna/",
+      "title": "Nāgārjuna",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "language": "en",
+      "note": "Emptiness and arguments against intrinsic nature shaped Buddhist philosophy across Asia; the entry distinguishes reliably attributed works from later name-attributions.",
+      "location": "Introduction and life-and-works list",
+      "candidates": [
+        "Nagarjuna",
+        "The Fundamental Wisdom of the Middle Way",
+        "The Dispeller of Disputes"
+      ],
+      "limits": "Dates and attributions are uncertain; verse treatises need complete-work eligibility review.",
+      "targets": {
+        "N": "The Nagarjuna article supports his fundamental Middle Way treatise as philosophical nonfiction; preserve translation and interpretation uncertainty."
+      }
+    }
+  ]
+}

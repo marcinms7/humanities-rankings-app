@@ -1,0 +1,13 @@
+# Funniest books · All time — owner-chat Top 150 intake, 14 September 2026
+
+The owner report is preserved verbatim at `research/incoming/books-funniest-all-time/2026-09-14-owner-chat-attachment/report.txt` (SHA-256 `5254d10c5e4b89db7eddd27869fe210dc632d069610ffe7dd2ceb61eb208d5ad`). It supplies 150 global cross-form literary positions and 351 direct-URL source records. The normalized ledger retains all of them plus three directly read entry-level supplements, for **354 target-local sources / 281 eligible**.
+
+Four report entries initially had only indexed-only citations. Three narrow direct supplementary sources support *Gulliver's Travels*, *Broken Glass* and *The Alienist*; the direct page for the existing *A True Story* lead was read and qualified for its limited parody/reception context. The original access labels are retained rather than rewritten. Revision **2** publishes every report position. Catalog reconciliation reused established identities and created 74 missing works; no editions or media were invented.
+
+The scope now accurately allows books, collections, essays, plays, poems and short stories, as supplied. The two visible views retain the report's order pending a separately reasoned alternative. This is a source-backed editorial synthesis of comic force, not a measured universal verdict or personal scoring result.
+
+## Laughter-weighted revision — 14 September 2026
+
+The owner supplied a revised UTF-8 report, preserved verbatim at `research/incoming/books-funniest-all-time/2026-09-14-laughter-70-revision/report.txt` (SHA-256 `83fad299777b33be618add050fb0bc5c93d712d9631344060ef8dd6c5ab61af9`). It retains the same **150 works** and **351 linked source documents**, but changes the editorial methodology and order: laughter is 70% of the transparent estimated total, with comic invention 9%, literary quality 7%, influence 5%, tradition-specific achievement 5%, cultural reach 2%, and translation/cross-language reception 2%.
+
+The active shared ranking is now revision **3**, with all 150 existing works reconciled one-to-one and no catalog, source-ledger, private or media records added, removed or overwritten. The report's 351 URLs exactly match the retained source register. Every revised entry now records all report-cited source IDs: its eligible evidence links appear first, while any report-cited limited-access lead remains visible separately rather than being silently counted as eligible evidence. The three pre-existing direct supplements remain only for *Broken Glass*, *The Alienist* and *Gulliver's Travels*, whose supplied citations contain no eligible source. This file-driven intake did not independently revisit linked pages; `last_sources_checked_at` is deliberately unchanged.

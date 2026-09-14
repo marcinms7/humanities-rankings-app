@@ -1,0 +1,137 @@
+{
+  "summary": "Independent philosophical criticism adds ontology, agency, philosophical theology and anticolonial political thought. Arabic-language evidence includes both an original newspaper argument and an explicitly identified Rosenthal translation.",
+  "next": "Broaden independent authors/platforms; the three Egid reviews share a critic and must not be treated as three independent critical communities.",
+  "sources": [
+    {
+      "id": "R146",
+      "url": "https://www.doppiozero.com/agamben-tutto-e-reale",
+      "title": "Agamben. Tutto è reale",
+      "publisher": "Doppiozero",
+      "language": "it",
+      "family": "professional_criticism",
+      "note": "Solla reads Agamben’s threshold sections as argumentative devices and examines the claim that possibilities already possess reality without requiring actualization.",
+      "candidates": [
+        "L’irrealizzabile",
+        "The Use of Bodies",
+        "Giorgio Agamben"
+      ],
+      "location": "Threshold discussion and realization argument",
+      "limits": "Reviewer explicitly restricts his interpretation to the new book’s opening threshold.",
+      "targets": {
+        "A": "Philosophical works and intellectual reception.",
+        "N": "Argumentative nonfiction examined through criticism.",
+        "B": "Specific book arguments and interpretive cautions.",
+        "P": "Contributions and contested accounts of these thinkers."
+      }
+    },
+    {
+      "id": "R147",
+      "url": "https://newhumanist.org.uk/articles/impossible-freedom/",
+      "title": "Impossible freedom",
+      "publisher": "New Humanist",
+      "language": "en",
+      "family": "professional_review",
+      "note": "Egid contrasts Kantian and Spinozist responses to determinism, credits Tallis’s critique of neurodeterminism and identifies his account of causation as especially original.",
+      "candidates": [
+        "Freedom: An Impossible Reality",
+        "Raymond Tallis",
+        "Spinoza",
+        "Kant"
+      ],
+      "location": "Opening through causation discussion",
+      "limits": "One review; philosophical interpretation of neuroscience, not clinical guidance.",
+      "targets": {
+        "A": "Philosophical works and intellectual reception.",
+        "N": "Argumentative nonfiction examined through criticism.",
+        "B": "Specific book arguments and interpretive cautions.",
+        "P": "Contributions and contested accounts of these thinkers."
+      }
+    },
+    {
+      "id": "R148",
+      "url": "https://newhumanist.org.uk/articles/book-review-worldmaking-after-empire/",
+      "title": "Book review: Worldmaking After Empire",
+      "publisher": "New Humanist",
+      "language": "en",
+      "family": "professional_review",
+      "note": "Egid credits Getatchew with recovering anticolonial projects for international equality beyond nation-building, emphasizing Nkrumah’s account of economic dependence.",
+      "candidates": [
+        "Worldmaking After Empire",
+        "Adom Getatchew",
+        "Kwame Nkrumah"
+      ],
+      "location": "Main argument and institutional examples",
+      "limits": "Historical political theory; review does not independently verify every institutional claim.",
+      "targets": {
+        "A": "Philosophical works and intellectual reception.",
+        "N": "Argumentative nonfiction examined through criticism.",
+        "B": "Specific book arguments and interpretive cautions.",
+        "P": "Contributions and contested accounts of these thinkers."
+      }
+    },
+    {
+      "id": "R149",
+      "url": "https://newhumanist.org.uk/articles/book-review-being-human/",
+      "title": "Book review: Being Human",
+      "publisher": "New Humanist",
+      "language": "en",
+      "family": "professional_review",
+      "note": "Egid values Williams’s relational account of meaning but rejects the easy inference from reductive explanations to moral danger.",
+      "candidates": [
+        "Being Human",
+        "Rowan Williams"
+      ],
+      "location": "Reductionism and meaningful experience passages",
+      "limits": "Secular reviewer’s perspective on philosophical theology.",
+      "targets": {
+        "A": "Philosophical works and intellectual reception.",
+        "N": "Argumentative nonfiction examined through criticism.",
+        "B": "Specific book arguments and interpretive cautions.",
+        "P": "Contributions and contested accounts of these thinkers."
+      }
+    },
+    {
+      "id": "R150",
+      "url": "https://www.alwatan.com.sa/article/1178179",
+      "title": "هل ألّف ابن خلدون المقدمةَ قبل باقي كِتاب العبر؟",
+      "publisher": "Al Watan / Mahmoud Dhaouadi",
+      "language": "ar",
+      "family": "newspaper_critical_essay",
+      "note": "Dhaouadi questions assumptions about the Muqaddimah’s composition order, comparing autobiographical testimony with al-Jabri and Wafi’s reconstruction.",
+      "candidates": [
+        "Muqaddimah",
+        "Kitab al-Ibar",
+        "Ibn Khaldun"
+      ],
+      "location": "Composition evidence and al-Jabri/Wafi discussion",
+      "limits": "Argument from textual silence is interpretive evidence, not conclusive dating.",
+      "targets": {
+        "A": "Philosophical works and intellectual reception.",
+        "N": "Argumentative nonfiction examined through criticism.",
+        "B": "Specific book arguments and interpretive cautions.",
+        "P": "Contributions and contested accounts of these thinkers."
+      }
+    },
+    {
+      "id": "R151",
+      "url": "https://www.khotwacenter.com/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/",
+      "title": "المقدمة — Franz Rosenthal’s introductory study",
+      "publisher": "Khotwa Center / Franz Rosenthal",
+      "language": "ar",
+      "family": "scholarly_chapter",
+      "note": "Rosenthal explains repetition through lecturing and manuscript constraints, praises the work’s organization, and identifies uneven checking of historical references.",
+      "candidates": [
+        "Muqaddimah",
+        "Ibn Khaldun"
+      ],
+      "location": "Translated introductory study, structure/style/source discussion",
+      "limits": "Arabic translation of Rosenthal’s English introduction; not an independent Arabic-origin judgment or extra translated vote.",
+      "targets": {
+        "A": "Philosophical works and intellectual reception.",
+        "N": "Argumentative nonfiction examined through criticism.",
+        "B": "Specific book arguments and interpretive cautions.",
+        "P": "Contributions and contested accounts of these thinkers."
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "target_id": "mcevoy-favourites",
+  "status": "named_external_list_import",
+  "sources": [
+    {
+      "source_id": "COLLECTION-REPAIR-01",
+      "underlying_source_id": "collection-repair:https://benjaminmcevoy.com/reading-list/",
+      "title": "Benjamin McEvoy · Favourite books — source contents",
+      "canonical_url": "https://benjaminmcevoy.com/reading-list/",
+      "source_family": "published_collection",
+      "target_ids": [
+        "mcevoy-favourites"
+      ],
+      "relevance_by_target": {
+        "mcevoy-favourites": "Seven main choices, two specifically highlighted Shakespeare plays, and two author collections from the closing paragraph. Generic poetry/art book wishes remain in the description, not invented book records."
+      },
+      "evidence_notes": "Seven main choices, two specifically highlighted Shakespeare plays, and two author collections from the closing paragraph. Generic poetry/art book wishes remain in the description, not invented book records.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Named-list membership evidence only; no independent quality assessment or paid lecture content review."
+    }
+  ],
+  "saved_at": "2026-09-13"
+}

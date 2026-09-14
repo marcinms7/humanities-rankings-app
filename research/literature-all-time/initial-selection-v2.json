@@ -1,0 +1,125 @@
+{
+  "target": "literature-all-time",
+  "expected_revision": 1,
+  "version": "initial-selection-2026-09-13-v2",
+  "published_on": "2026-09-13",
+  "notice": "Initial researched selection: 8 novels. Expansion toward 100–200 works continues. Positions compare these included works; this is not a completed worldwide Top 8.",
+  "method": "Two qualitative editorial judgments using the consulted evidence and recorded counterarguments. Critical standing emphasizes formal achievement and enduring reception; reading value emphasizes interpretive, imaginative and ethical reward today. Difficulty does not automatically lower reading value. No numerical criteria, weights or personal scores are assigned. Selection membership currently reflects completed bibliographic and image verification, so omissions are not negative judgments. Exact adjacent positions remain open to revision.",
+  "orders": {
+    "standing": {
+      "label": "Critical standing & enduring influence",
+      "description": "Formal achievement and lasting critical reception, within this selection.",
+      "keys": [
+        "warpeace",
+        "genji",
+        "middlemarch",
+        "mobydick",
+        "magic",
+        "beloved",
+        "doll",
+        "kokoro"
+      ]
+    },
+    "reading": {
+      "label": "Reading value today",
+      "description": "The imaginative, interpretive and ethical rewards of reading the whole work today.",
+      "keys": [
+        "middlemarch",
+        "warpeace",
+        "beloved",
+        "genji",
+        "magic",
+        "mobydick",
+        "doll",
+        "kokoro"
+      ]
+    }
+  },
+  "entries": [
+    {
+      "key": "warpeace",
+      "item_id": 2,
+      "source_ids": [
+        "R180",
+        "R181"
+      ],
+      "standing": "The leading position in this selection reflects the union of social characterization, narrative scale and historical inquiry. Figes’s account explains how repetitions and shifts of language serve this breadth.",
+      "reading": "Second here: its intimate lives and resistance to simple historical explanations sustain a broader encounter than plot alone. Middlemarch leads this lens for its more concentrated investigation of everyday judgment.",
+      "caveat": "The 1886 dissent concerns a partial indirect translation; it records historical resistance, not a verdict on the complete English edition."
+    },
+    {
+      "key": "genji",
+      "item_id": 6,
+      "source_ids": [
+        "S29"
+      ],
+      "standing": "Second here for the sustained psychological and social reach of a narrative extending across generations. Kahrs’s reading of dependence and mortality supports comparison alongside the great European social novels.",
+      "reading": "Fourth here: shifting perspectives on desire, dependence and loss repay a sustained reading across a distant social world. The closer contemporary ethical encounters in the first three entries receive priority under this lens.",
+      "caveat": "One directly mapped expert discussion currently carries this dossier. Claims of a uniquely first novel and exact comparisons across traditions remain contested."
+    },
+    {
+      "key": "middlemarch",
+      "item_id": 7,
+      "source_ids": [
+        "S35",
+        "R055"
+      ],
+      "standing": "Third here for interconnected social understanding and the relationship between private aspiration and institutions. The German critical essay and rereading testimony support its continuing interpretive reach.",
+      "reading": "First here for the depth of its examination of ordinary judgment, disappointed ideals and sympathetic understanding. The slow opening is part of a cumulative social design, not a reason to discount its reading value.",
+      "caveat": "These sources support social interpretation and rereading; they do not independently establish an exact worldwide ordinal position."
+    },
+    {
+      "key": "mobydick",
+      "item_id": 5,
+      "source_ids": [
+        "R185"
+      ],
+      "standing": "Fourth here for a form whose digression and verbal texture make the voyage more than an adventure narrative. Diski’s objection to abridgment supports valuing the whole experimental work.",
+      "reading": "Sixth here: its unruly intellectual and verbal abundance is a central reward. It follows the more sustained interpersonal investigations above; digression itself is not treated as a defect.",
+      "caveat": "The mapped Diski essay is a short intervention about abridgment. A larger historical and comparative dossier remains necessary."
+    },
+    {
+      "key": "magic",
+      "item_id": 4,
+      "source_ids": [
+        "R106",
+        "R179"
+      ],
+      "standing": "Fifth here for integrating intellectual conflict with an unusual experience of narrated time. Two independent reader accounts connect the novel’s form with its philosophical engagement.",
+      "reading": "Fifth here because time, irony and ideological dialogue reward immersion, including passages that initially feel static. This corrects the earlier pilot’s automatic demotion for difficulty.",
+      "caveat": "Reader responses diverge between fascination and boredom. Frenkel’s translation comments concern Lowe-Porter, not the catalog’s Woods edition."
+    },
+    {
+      "key": "beloved",
+      "item_id": 8,
+      "source_ids": [
+        "R184"
+      ],
+      "standing": "Sixth here: the NEA guide supports a major formal achievement in nonlinear memory and reclaimed narrative agency. Its shorter reception history makes an influence-led comparison with older works less settled.",
+      "reading": "Third here for the way haunting and fractured memory make an encounter with slavery’s aftermath an active interpretive experience. Its rise reflects ethical and formal intensity, not an assumption of easy reading.",
+      "caveat": "The guide is institutional interpretation, not an independent global ranking; work-specific scholarly disagreement still needs expansion."
+    },
+    {
+      "key": "doll",
+      "item_id": 1,
+      "source_ids": [
+        "R104",
+        "R178",
+        "R187"
+      ],
+      "standing": "Seventh here: competing social ideals and unreliable narration support a substantial place among social novels. International neglect cautions against confusing limited translation visibility with limited achievement.",
+      "reading": "Seventh here for its testing of ambition and agency within social convention. Its rewarding social ambiguity also produces sharply divided reader judgments about characterization.",
+      "caveat": "The adjacent positions are particularly uncertain. Parrinder reviews the 1996 Welsh edition; it does not verify every feature of the 2011 reissue."
+    },
+    {
+      "key": "kokoro",
+      "item_id": 3,
+      "source_ids": [
+        "R182"
+      ],
+      "standing": "Eighth within this limited selection: the complete-reading testimony supports concentrated psychological and historical interest. Wider comparative standing remains less developed in the mapped evidence.",
+      "reading": "Eighth here for a concentrated encounter with guilt, egoism and generational dislocation. The complete novel changes the interpretation available from school excerpts; this place does not rank it below unlisted works.",
+      "caveat": "The mapped account is student testimony, not faculty scholarship or representative consensus; the comparative dossier is still thin."
+    }
+  ]
+}

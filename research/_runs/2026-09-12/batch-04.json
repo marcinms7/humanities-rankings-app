@@ -1,0 +1,201 @@
+{
+  "summary": "Added or reconsulted eight expert, curricular, review and reader sources. Logged disagreement over canon boundaries and kept educational sequence distinct from ranking.",
+  "next": "Add independently authored scholarly book reviews and blogs; broaden source domains.",
+  "sources": [
+    {
+      "id": "R025",
+      "url": "https://fivebooks.com/best-books/key-philosophical-texts-western-nigel-warburton/",
+      "title": "Key Philosophical Texts in the Western Canon",
+      "author": "Nigel Warburton; interviewed by Sophie Roell",
+      "publisher": "Five Books",
+      "family": "expert_interview",
+      "note": "Warburton selects classics partly for accessibility and literary qualities. His five choices are explicitly Western and all male; Republic is discussed through ethics and political analogy.",
+      "candidates": [
+        "Republic",
+        "Meditations on First Philosophy",
+        "An Enquiry concerning Human Understanding",
+        "On Liberty",
+        "Philosophical Investigations"
+      ],
+      "targets": {
+        "N": "Supplies accessible argumentative nonfiction selections.",
+        "B": "Offers a stated selection rationale, not universal merit positions.",
+        "P": "Provides reception evidence for Plato, Descartes, Hume, Mill and Wittgenstein."
+      },
+      "location": "Selection and opening interview, lines 235–285",
+      "limits": "Narrow Western selection; introductory accessibility is distinct from greatest-ever merit."
+    },
+    {
+      "id": "R026",
+      "url": "https://fivebooks.com/best-books/philosophy-women-lisa-whiting-rebecca-buxton/",
+      "title": "The Best Philosophy Books by Women",
+      "author": "Lisa Whiting and Rebecca Buxton; interviewed by Nigel Warburton",
+      "publisher": "Five Books",
+      "family": "expert_interview",
+      "note": "The interview questions how canons exclude women and selects Davis, Manne, Midgley, Shklar and Benhabib. It distinguishes a book about philosophers from an anthology of their texts.",
+      "candidates": [
+        "Women, Race & Class",
+        "Down Girl",
+        "What Is Philosophy For?",
+        "American Citizenship",
+        "The Rights of Others",
+        "Angela Davis",
+        "Kate Manne",
+        "Mary Midgley",
+        "Judith Shklar",
+        "Seyla Benhabib"
+      ],
+      "targets": {
+        "A": "Broadens political, feminist and citizenship book candidates.",
+        "N": "Adds social-critical nonfiction by five women.",
+        "B": "Adds distinct ethical and political arguments omitted from male-only lists.",
+        "P": "Documents canon exclusion and specific overlooked philosophers."
+      },
+      "location": "Selection and opening interview",
+      "limits": "One jointly authored selection, not five independent sources; shared interviewer with other Five Books pieces."
+    },
+    {
+      "id": "R027",
+      "url": "https://fivebooks.com/best-books/peter-adamson-philosophy-islamic-world/",
+      "title": "The best books on Philosophy in the Islamic World",
+      "author": "Peter Adamson; interviewed by Nigel Warburton",
+      "publisher": "Five Books",
+      "family": "expert_interview",
+      "note": "Adamson distinguishes language, ethnicity, religion and political setting. He recommends studies of Greek-Arabic transmission, Avicenna, Maimonides and al-Razi, rejecting a simple Golden-Age endpoint.",
+      "candidates": [
+        "Greek Thought, Arabic Culture",
+        "Avicenna",
+        "Avicenna's De Anima in the Latin West",
+        "Maimonides in His World",
+        "The Teleological Ethics of Fakhr al-Din al-Razi"
+      ],
+      "targets": {
+        "A": "Adds intellectual history across languages and religious communities.",
+        "N": "Supplies specific historical scholarship candidates.",
+        "B": "Adds philosophical monographs and a scope correction for Islamic-world thought.",
+        "P": "Supports cross-community reception of Avicenna, Maimonides and al-Razi."
+      },
+      "location": "Selection and scope discussion, lines 235–279",
+      "limits": "Recommended books are secondary scholarship; do not imply they are primary texts by the studied philosophers."
+    },
+    {
+      "id": "R028",
+      "url": "https://fivebooks.com/best-books/world-philosophy-bryan-van-norden/",
+      "title": "The best books on World Philosophy",
+      "author": "Bryan Van Norden; interviewed by Nigel Warburton",
+      "publisher": "Five Books",
+      "family": "expert_interview",
+      "note": "Van Norden pairs Plato and Hume with Mengzi, Zhuangzi and Shantideva, arguing that academic access and exclusion shape the apparent canon.",
+      "candidates": [
+        "Republic",
+        "A Treatise of Human Nature",
+        "Mengzi",
+        "Zhuangzi",
+        "Bodhicaryavatara",
+        "Shantideva"
+      ],
+      "targets": {
+        "A": "Adds a comparative cross-tradition reading selection.",
+        "N": "Supports Hume and canon-history nonfiction; hybrid texts retain genre flags.",
+        "B": "Supplies named Chinese and Indian philosophical classics alongside European ones.",
+        "P": "Challenges equating departmental representation with worldwide philosophical merit."
+      },
+      "location": "Selection and initial canon-history discussion",
+      "limits": "Interview's historical claims require independent corroboration; linked editorial is an uncounted lead.",
+      "dependency_note": "The interview explicitly develops the author's joint New York Times editorial and Taking Back Philosophy; not independent votes for those same arguments."
+    },
+    {
+      "id": "R029",
+      "url": "https://philosophynow.org/issues/70/Who_Is_The_Best_Philosopher",
+      "title": "Who Is The Best Philosopher?",
+      "publisher": "Philosophy Now",
+      "family": "reader_community",
+      "note": "Reader submissions disagree about the best philosopher and proposed standards. One Hume submission distinguishes communication, breadth and lasting contribution and cites Think and Kant's first Critique.",
+      "candidates": [
+        "David Hume",
+        "Simon Blackburn",
+        "Think",
+        "Critique of Pure Reason",
+        "Mary Warnock",
+        "Plato"
+      ],
+      "targets": {
+        "A": "Adds reader reception for philosophical nonfiction and a warning about incompatible standards.",
+        "N": "Records reader reasons for valuing Think and critical philosophy.",
+        "B": "Adds criterion disagreement without adopting any proposed standard.",
+        "P": "Direct evidence of disagreement among readers about philosopher comparisons."
+      },
+      "location": "Question introduction and Hume response",
+      "limits": "Edited reader submissions count once; subjective reasons, not a representative poll."
+    },
+    {
+      "id": "R030",
+      "url": "https://philosophynow.org/issues/8/Recommended_Reads",
+      "title": "Recommended Reads",
+      "publisher": "Philosophy Now",
+      "family": "critical_review",
+      "note": "Mini-reviews distinguish accessible introductions from advanced surveys. Ayer's twentieth-century account is criticized for limited Continental coverage; Magee's interview anthology supplies historical entry points.",
+      "candidates": [
+        "Philosophy: The Basics",
+        "Philosophy in the 20th Century",
+        "The Great Philosophers",
+        "Learning to Philosophise"
+      ],
+      "targets": {
+        "A": "Adds nonfiction philosophy introductions and criticism of coverage.",
+        "N": "Supplies review-based nonfiction discovery.",
+        "B": "Distinguishes introductory teaching usefulness from comprehensive philosophical history.",
+        "P": "Shows a familiar selection of Plato, Descartes, Heidegger, Hume and Wittgenstein in public pedagogy."
+      },
+      "location": "Mini-reviews, lines 41–48",
+      "limits": "Historical reviews and prices are not current buying guidance; one review admits partial reading."
+    },
+    {
+      "id": "R031",
+      "url": "https://oyc.yale.edu/political-science/plsc-114",
+      "title": "Introduction to Political Philosophy",
+      "author": "Steven B. Smith",
+      "publisher": "Yale University",
+      "family": "academic_curriculum",
+      "note": "The syllabus groups political texts around city-state, sovereignty, constitutional government and democracy. Sessions assign parts of works, so teaching order is neither complete-book coverage nor rank.",
+      "candidates": [
+        "Republic",
+        "Politics",
+        "The Prince",
+        "Leviathan",
+        "Second Treatise of Government",
+        "Democracy in America",
+        "Social Contract"
+      ],
+      "targets": {
+        "N": "Adds political nonfiction across historical institutional questions.",
+        "B": "Connects named primary texts to specific political-philosophy problems.",
+        "P": "Documents curricular reception of Plato, Aristotle, Machiavelli, Hobbes, Locke, Rousseau and Tocqueville."
+      },
+      "location": "Course description, texts and session list",
+      "limits": "Western introductory syllabus; lecture videos not watched or counted separately."
+    },
+    {
+      "id": "R032",
+      "url": "https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list",
+      "title": "St. John's Reading List: A Great Books Curriculum",
+      "publisher": "St. John's College",
+      "family": "academic_curriculum",
+      "note": "The curriculum links Aristotle's ethical and natural works, Euclid's Elements, Harvey's circulation treatise and Herodotus's Histories. It warns that selections and campus lists vary.",
+      "candidates": [
+        "Nicomachean Ethics",
+        "Metaphysics",
+        "Elements",
+        "On the Motion of the Heart and Blood in Animals",
+        "Histories"
+      ],
+      "targets": {
+        "N": "Adds mathematics, medicine and history rather than treating nonfiction as only philosophy.",
+        "B": "Documents teaching use of Aristotle's philosophical and scientific texts.",
+        "P": "Provides curricular reception of Aristotle; not every listed scientist is a philosopher."
+      },
+      "location": "Introduction and freshman selections, lines 13–172",
+      "limits": "A Western educational collection; extracts and sequence must not acquire merit positions."
+    }
+  ]
+}

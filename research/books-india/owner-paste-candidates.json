@@ -1,0 +1,607 @@
+{
+  "target_id": "books-india",
+  "source_report": "research/incoming/books-india/2026-09-13-owner-paste/report.txt",
+  "reported_source_count": 188,
+  "candidates": [
+    {
+      "position": 1,
+      "reported_title": "Mahabharata",
+      "reported_author": "Vyasa / composite tradition",
+      "raw_line": "1. Mahabharata — Vyasa / composite tradition [Sanskrit]"
+    },
+    {
+      "position": 2,
+      "reported_title": "Ramayana",
+      "reported_author": "Valmiki",
+      "raw_line": "2. Ramayana — Valmiki [Sanskrit]"
+    },
+    {
+      "position": 3,
+      "reported_title": "Principal Upanishads",
+      "reported_author": "Vedic sages / composite tradition",
+      "raw_line": "3. Principal Upanishads — Vedic sages / composite tradition [Sanskrit]"
+    },
+    {
+      "position": 4,
+      "reported_title": "Tirukkural",
+      "reported_author": "Tiruvalluvar",
+      "raw_line": "4. Tirukkural — Tiruvalluvar [Tamil]"
+    },
+    {
+      "position": 5,
+      "reported_title": "Bhagavad Gita",
+      "reported_author": "Mahabharata tradition",
+      "raw_line": "5. Bhagavad Gita — Mahabharata tradition [Sanskrit]"
+    },
+    {
+      "position": 6,
+      "reported_title": "Rig Veda",
+      "reported_author": "Vedic poets / composite tradition",
+      "raw_line": "6. Rig Veda — Vedic poets / composite tradition [Vedic Sanskrit]"
+    },
+    {
+      "position": 7,
+      "reported_title": "Midnight's Children",
+      "reported_author": "Salman Rushdie",
+      "raw_line": "7. Midnight's Children — Salman Rushdie [English]"
+    },
+    {
+      "position": 8,
+      "reported_title": "Gitanjali",
+      "reported_author": "Rabindranath Tagore",
+      "raw_line": "8. Gitanjali — Rabindranath Tagore [Bengali; authorial English version]"
+    },
+    {
+      "position": 9,
+      "reported_title": "Godan",
+      "reported_author": "Premchand",
+      "raw_line": "9. Godan — Premchand [Hindi]"
+    },
+    {
+      "position": 10,
+      "reported_title": "Pather Panchali",
+      "reported_author": "Bibhutibhushan Bandyopadhyay",
+      "raw_line": "10. Pather Panchali — Bibhutibhushan Bandyopadhyay [Bengali]"
+    },
+    {
+      "position": 11,
+      "reported_title": "The God of Small Things",
+      "reported_author": "Arundhati Roy",
+      "raw_line": "11. The God of Small Things — Arundhati Roy [English]"
+    },
+    {
+      "position": 12,
+      "reported_title": "Aag Ka Darya (River of Fire)",
+      "reported_author": "Qurratulain Hyder",
+      "raw_line": "12. Aag Ka Darya (River of Fire) — Qurratulain Hyder [Urdu]"
+    },
+    {
+      "position": 13,
+      "reported_title": "Ramcharitmanas",
+      "reported_author": "Tulsidas",
+      "raw_line": "13. Ramcharitmanas — Tulsidas [Awadhi]"
+    },
+    {
+      "position": 14,
+      "reported_title": "Annihilation of Caste",
+      "reported_author": "B. R. Ambedkar",
+      "raw_line": "14. Annihilation of Caste — B. R. Ambedkar [English]"
+    },
+    {
+      "position": 15,
+      "reported_title": "Abhijnanashakuntalam (Shakuntala)",
+      "reported_author": "Kalidasa",
+      "raw_line": "15. Abhijnanashakuntalam (Shakuntala) — Kalidasa [Sanskrit]"
+    },
+    {
+      "position": 16,
+      "reported_title": "A Fine Balance",
+      "reported_author": "Rohinton Mistry",
+      "raw_line": "16. A Fine Balance — Rohinton Mistry [English]"
+    },
+    {
+      "position": 17,
+      "reported_title": "Samskara",
+      "reported_author": "U. R. Ananthamurthy",
+      "raw_line": "17. Samskara — U. R. Ananthamurthy [Kannada]"
+    },
+    {
+      "position": 18,
+      "reported_title": "Dhammapada",
+      "reported_author": "Buddhist tradition",
+      "raw_line": "18. Dhammapada — Buddhist tradition [Pali]"
+    },
+    {
+      "position": 19,
+      "reported_title": "Gora",
+      "reported_author": "Rabindranath Tagore",
+      "raw_line": "19. Gora — Rabindranath Tagore [Bengali]"
+    },
+    {
+      "position": 20,
+      "reported_title": "Arthashastra",
+      "reported_author": "Kautilya (Chanakya)",
+      "raw_line": "20. Arthashastra — Kautilya (Chanakya) [Sanskrit]"
+    },
+    {
+      "position": 21,
+      "reported_title": "A Suitable Boy",
+      "reported_author": "Vikram Seth",
+      "raw_line": "21. A Suitable Boy — Vikram Seth [English]"
+    },
+    {
+      "position": 22,
+      "reported_title": "The Guide",
+      "reported_author": "R. K. Narayan",
+      "raw_line": "22. The Guide — R. K. Narayan [English]"
+    },
+    {
+      "position": 23,
+      "reported_title": "Six Acres and a Third (Chha Mana Atha Guntha)",
+      "reported_author": "Fakir Mohan Senapati",
+      "raw_line": "23. Six Acres and a Third (Chha Mana Atha Guntha) — Fakir Mohan Senapati [Odia]"
+    },
+    {
+      "position": 24,
+      "reported_title": "The Shadow Lines",
+      "reported_author": "Amitav Ghosh",
+      "raw_line": "24. The Shadow Lines — Amitav Ghosh [English]"
+    },
+    {
+      "position": 25,
+      "reported_title": "Legends of Khasak (Khasakkinte Itihasam)",
+      "reported_author": "O. V. Vijayan",
+      "raw_line": "25. Legends of Khasak (Khasakkinte Itihasam) — O. V. Vijayan [Malayalam]"
+    },
+    {
+      "position": 26,
+      "reported_title": "Guru Granth Sahib",
+      "reported_author": "Sikh Gurus and bhakti/sufi poets",
+      "raw_line": "26. Guru Granth Sahib — Sikh Gurus and bhakti/sufi poets [Punjabi and other North Indian languages]"
+    },
+    {
+      "position": 27,
+      "reported_title": "Meghaduta (The Cloud Messenger)",
+      "reported_author": "Kalidasa",
+      "raw_line": "27. Meghaduta (The Cloud Messenger) — Kalidasa [Sanskrit]"
+    },
+    {
+      "position": 28,
+      "reported_title": "Silappatikaram",
+      "reported_author": "Ilango Adigal",
+      "raw_line": "28. Silappatikaram — Ilango Adigal [Tamil]"
+    },
+    {
+      "position": 29,
+      "reported_title": "Panchatantra",
+      "reported_author": "Vishnu Sharma / composite tradition",
+      "raw_line": "29. Panchatantra — Vishnu Sharma / composite tradition [Sanskrit]"
+    },
+    {
+      "position": 30,
+      "reported_title": "Yoga Sutras",
+      "reported_author": "Patanjali",
+      "raw_line": "30. Yoga Sutras — Patanjali [Sanskrit]"
+    },
+    {
+      "position": 31,
+      "reported_title": "Raag Darbari",
+      "reported_author": "Shrilal Shukla",
+      "raw_line": "31. Raag Darbari — Shrilal Shukla [Hindi]"
+    },
+    {
+      "position": 32,
+      "reported_title": "Kambaramayanam (Ramavataram)",
+      "reported_author": "Kambar",
+      "raw_line": "32. Kambaramayanam (Ramavataram) — Kambar [Tamil]"
+    },
+    {
+      "position": 33,
+      "reported_title": "Train to Pakistan",
+      "reported_author": "Khushwant Singh",
+      "raw_line": "33. Train to Pakistan — Khushwant Singh [English]"
+    },
+    {
+      "position": 34,
+      "reported_title": "Kanthapura",
+      "reported_author": "Raja Rao",
+      "raw_line": "34. Kanthapura — Raja Rao [English]"
+    },
+    {
+      "position": 35,
+      "reported_title": "Untouchable",
+      "reported_author": "Mulk Raj Anand",
+      "raw_line": "35. Untouchable — Mulk Raj Anand [English]"
+    },
+    {
+      "position": 36,
+      "reported_title": "The Home and the World (Ghare-Baire)",
+      "reported_author": "Rabindranath Tagore",
+      "raw_line": "36. The Home and the World (Ghare-Baire) — Rabindranath Tagore [Bengali]"
+    },
+    {
+      "position": 37,
+      "reported_title": "Natyashastra",
+      "reported_author": "Bharata Muni / composite tradition",
+      "raw_line": "37. Natyashastra — Bharata Muni / composite tradition [Sanskrit]"
+    },
+    {
+      "position": 38,
+      "reported_title": "Parva",
+      "reported_author": "S. L. Bhyrappa",
+      "raw_line": "38. Parva — S. L. Bhyrappa [Kannada]"
+    },
+    {
+      "position": 39,
+      "reported_title": "Maila Anchal (The Soiled Border)",
+      "reported_author": "Phanishwar Nath Renu",
+      "raw_line": "39. Maila Anchal (The Soiled Border) — Phanishwar Nath Renu [Hindi]"
+    },
+    {
+      "position": 40,
+      "reported_title": "Jhootha Sach (This Is Not That Dawn)",
+      "reported_author": "Yashpal",
+      "raw_line": "40. Jhootha Sach (This Is Not That Dawn) — Yashpal [Hindi]"
+    },
+    {
+      "position": 41,
+      "reported_title": "The Story of My Experiments with Truth",
+      "reported_author": "M. K. Gandhi",
+      "raw_line": "41. The Story of My Experiments with Truth — M. K. Gandhi [Gujarati]"
+    },
+    {
+      "position": 42,
+      "reported_title": "Hind Swaraj",
+      "reported_author": "M. K. Gandhi",
+      "raw_line": "42. Hind Swaraj — M. K. Gandhi [Gujarati]"
+    },
+    {
+      "position": 43,
+      "reported_title": "The Discovery of India",
+      "reported_author": "Jawaharlal Nehru",
+      "raw_line": "43. The Discovery of India — Jawaharlal Nehru [English]"
+    },
+    {
+      "position": 44,
+      "reported_title": "Bhagavata Purana",
+      "reported_author": "Composite Vaishnava tradition",
+      "raw_line": "44. Bhagavata Purana — Composite Vaishnava tradition [Sanskrit]"
+    },
+    {
+      "position": 45,
+      "reported_title": "Mricchakatika (The Little Clay Cart)",
+      "reported_author": "Shudraka",
+      "raw_line": "45. Mricchakatika (The Little Clay Cart) — Shudraka [Sanskrit]"
+    },
+    {
+      "position": 46,
+      "reported_title": "Gita Govinda",
+      "reported_author": "Jayadeva",
+      "raw_line": "46. Gita Govinda — Jayadeva [Sanskrit]"
+    },
+    {
+      "position": 47,
+      "reported_title": "Ponniyin Selvan",
+      "reported_author": "Kalki Krishnamurthy",
+      "raw_line": "47. Ponniyin Selvan — Kalki Krishnamurthy [Tamil]"
+    },
+    {
+      "position": 48,
+      "reported_title": "Kosala",
+      "reported_author": "Bhalchandra Nemade",
+      "raw_line": "48. Kosala — Bhalchandra Nemade [Marathi]"
+    },
+    {
+      "position": 49,
+      "reported_title": "Tamas",
+      "reported_author": "Bhisham Sahni",
+      "raw_line": "49. Tamas — Bhisham Sahni [Hindi]"
+    },
+    {
+      "position": 50,
+      "reported_title": "The Serpent and the Rope",
+      "reported_author": "Raja Rao",
+      "raw_line": "50. The Serpent and the Rope — Raja Rao [English]"
+    },
+    {
+      "position": 51,
+      "reported_title": "Aranyak",
+      "reported_author": "Bibhutibhushan Bandyopadhyay",
+      "raw_line": "51. Aranyak — Bibhutibhushan Bandyopadhyay [Bengali]"
+    },
+    {
+      "position": 52,
+      "reported_title": "Aparajito",
+      "reported_author": "Bibhutibhushan Bandyopadhyay",
+      "raw_line": "52. Aparajito — Bibhutibhushan Bandyopadhyay [Bengali]"
+    },
+    {
+      "position": 53,
+      "reported_title": "Diwan-e-Ghalib",
+      "reported_author": "Mirza Ghalib",
+      "raw_line": "53. Diwan-e-Ghalib — Mirza Ghalib [Urdu]"
+    },
+    {
+      "position": 54,
+      "reported_title": "Bijak",
+      "reported_author": "Kabir / Kabir tradition",
+      "raw_line": "54. Bijak — Kabir / Kabir tradition [Hindi vernaculars / Sadhukkari]"
+    },
+    {
+      "position": 55,
+      "reported_title": "Yayati",
+      "reported_author": "V. S. Khandekar",
+      "raw_line": "55. Yayati — V. S. Khandekar [Marathi]"
+    },
+    {
+      "position": 56,
+      "reported_title": "Mookajjiya Kanasugalu (Mookajji's Visions)",
+      "reported_author": "K. Shivaram Karanth",
+      "raw_line": "56. Mookajjiya Kanasugalu (Mookajji's Visions) — K. Shivaram Karanth [Kannada]"
+    },
+    {
+      "position": 57,
+      "reported_title": "Malegalalli Madumagalu",
+      "reported_author": "Kuvempu",
+      "raw_line": "57. Malegalalli Madumagalu — Kuvempu [Kannada]"
+    },
+    {
+      "position": 58,
+      "reported_title": "Sursagar",
+      "reported_author": "Surdas / Sur tradition",
+      "raw_line": "58. Sursagar — Surdas / Sur tradition [Braj Bhasha]"
+    },
+    {
+      "position": 59,
+      "reported_title": "One Part Woman (Madhorubhagan)",
+      "reported_author": "Perumal Murugan",
+      "raw_line": "59. One Part Woman (Madhorubhagan) — Perumal Murugan [Tamil]"
+    },
+    {
+      "position": 60,
+      "reported_title": "Tomb of Sand (Ret Samadhi)",
+      "reported_author": "Geetanjali Shree",
+      "raw_line": "60. Tomb of Sand (Ret Samadhi) — Geetanjali Shree [Hindi]"
+    },
+    {
+      "position": 61,
+      "reported_title": "Clear Light of Day",
+      "reported_author": "Anita Desai",
+      "raw_line": "61. Clear Light of Day — Anita Desai [English]"
+    },
+    {
+      "position": 62,
+      "reported_title": "Purananuru",
+      "reported_author": "Sangam poets / anthology",
+      "raw_line": "62. Purananuru — Sangam poets / anthology [Classical Tamil]"
+    },
+    {
+      "position": 63,
+      "reported_title": "Sea of Poppies",
+      "reported_author": "Amitav Ghosh",
+      "raw_line": "63. Sea of Poppies — Amitav Ghosh [English]"
+    },
+    {
+      "position": 64,
+      "reported_title": "Chemmeen",
+      "reported_author": "Thakazhi Sivasankara Pillai",
+      "raw_line": "64. Chemmeen — Thakazhi Sivasankara Pillai [Malayalam]"
+    },
+    {
+      "position": 65,
+      "reported_title": "Pathummayude Aadu (Pathumma's Goat)",
+      "reported_author": "Vaikom Muhammad Basheer",
+      "raw_line": "65. Pathummayude Aadu (Pathumma's Goat) — Vaikom Muhammad Basheer [Malayalam]"
+    },
+    {
+      "position": 66,
+      "reported_title": "Randamoozham",
+      "reported_author": "M. T. Vasudevan Nair",
+      "raw_line": "66. Randamoozham — M. T. Vasudevan Nair [Malayalam]"
+    },
+    {
+      "position": 67,
+      "reported_title": "Indulekha",
+      "reported_author": "O. Chandu Menon",
+      "raw_line": "67. Indulekha — O. Chandu Menon [Malayalam]"
+    },
+    {
+      "position": 68,
+      "reported_title": "Chokher Bali",
+      "reported_author": "Rabindranath Tagore",
+      "raw_line": "68. Chokher Bali — Rabindranath Tagore [Bengali]"
+    },
+    {
+      "position": 69,
+      "reported_title": "Srikanta",
+      "reported_author": "Sarat Chandra Chattopadhyay",
+      "raw_line": "69. Srikanta — Sarat Chandra Chattopadhyay [Bengali]"
+    },
+    {
+      "position": 70,
+      "reported_title": "Putul Nacher Itikatha",
+      "reported_author": "Manik Bandyopadhyay",
+      "raw_line": "70. Putul Nacher Itikatha — Manik Bandyopadhyay [Bengali]"
+    },
+    {
+      "position": 71,
+      "reported_title": "Hajar Churashir Maa (Mother of 1084)",
+      "reported_author": "Mahasweta Devi",
+      "raw_line": "71. Hajar Churashir Maa (Mother of 1084) — Mahasweta Devi [Bengali]"
+    },
+    {
+      "position": 72,
+      "reported_title": "Umrao Jaan Ada",
+      "reported_author": "Mirza Hadi Ruswa",
+      "raw_line": "72. Umrao Jaan Ada — Mirza Hadi Ruswa [Urdu]"
+    },
+    {
+      "position": 73,
+      "reported_title": "Padmavat",
+      "reported_author": "Malik Muhammad Jayasi",
+      "raw_line": "73. Padmavat — Malik Muhammad Jayasi [Awadhi]"
+    },
+    {
+      "position": 74,
+      "reported_title": "Zindaginama",
+      "reported_author": "Krishna Sobti",
+      "raw_line": "74. Zindaginama — Krishna Sobti [Hindi]"
+    },
+    {
+      "position": 75,
+      "reported_title": "Shekhar: Ek Jivani",
+      "reported_author": "Agyeya",
+      "raw_line": "75. Shekhar: Ek Jivani — Agyeya [Hindi]"
+    },
+    {
+      "position": 76,
+      "reported_title": "Deewar Mein Ek Khirki Rehti Thi",
+      "reported_author": "Vinod Kumar Shukla",
+      "raw_line": "76. Deewar Mein Ek Khirki Rehti Thi — Vinod Kumar Shukla [Hindi]"
+    },
+    {
+      "position": 77,
+      "reported_title": "Kamasutra",
+      "reported_author": "Vatsyayana",
+      "raw_line": "77. Kamasutra — Vatsyayana [Sanskrit]"
+    },
+    {
+      "position": 78,
+      "reported_title": "Pinjar",
+      "reported_author": "Amrita Pritam",
+      "raw_line": "78. Pinjar — Amrita Pritam [Punjabi]"
+    },
+    {
+      "position": 79,
+      "reported_title": "Mrityunjay",
+      "reported_author": "Shivaji Sawant",
+      "raw_line": "79. Mrityunjay — Shivaji Sawant [Marathi]"
+    },
+    {
+      "position": 80,
+      "reported_title": "Baluta",
+      "reported_author": "Daya Pawar",
+      "raw_line": "80. Baluta — Daya Pawar [Marathi]"
+    },
+    {
+      "position": 81,
+      "reported_title": "Karukku",
+      "reported_author": "Bama",
+      "raw_line": "81. Karukku — Bama [Tamil]"
+    },
+    {
+      "position": 82,
+      "reported_title": "Joothan",
+      "reported_author": "Omprakash Valmiki",
+      "raw_line": "82. Joothan — Omprakash Valmiki [Hindi]"
+    },
+    {
+      "position": 83,
+      "reported_title": "Akkarmashi (The Outcaste)",
+      "reported_author": "Sharankumar Limbale",
+      "raw_line": "83. Akkarmashi (The Outcaste) — Sharankumar Limbale [Marathi]"
+    },
+    {
+      "position": 84,
+      "reported_title": "Antarani Vasantam (Untouchable Spring)",
+      "reported_author": "G. Kalyana Rao",
+      "raw_line": "84. Antarani Vasantam (Untouchable Spring) — G. Kalyana Rao [Telugu]"
+    },
+    {
+      "position": 85,
+      "reported_title": "Jejuri",
+      "reported_author": "Arun Kolatkar",
+      "raw_line": "85. Jejuri — Arun Kolatkar [English]"
+    },
+    {
+      "position": 86,
+      "reported_title": "Golpitha",
+      "reported_author": "Namdeo Dhasal",
+      "raw_line": "86. Golpitha — Namdeo Dhasal [Marathi]"
+    },
+    {
+      "position": 87,
+      "reported_title": "Madhushala",
+      "reported_author": "Harivansh Rai Bachchan",
+      "raw_line": "87. Madhushala — Harivansh Rai Bachchan [Hindi]"
+    },
+    {
+      "position": 88,
+      "reported_title": "Rashmirathi",
+      "reported_author": "Ramdhari Singh Dinkar",
+      "raw_line": "88. Rashmirathi — Ramdhari Singh Dinkar [Hindi]"
+    },
+    {
+      "position": 89,
+      "reported_title": "Mankutimmana Kagga",
+      "reported_author": "D. V. Gundappa",
+      "raw_line": "89. Mankutimmana Kagga — D. V. Gundappa [Kannada]"
+    },
+    {
+      "position": 90,
+      "reported_title": "Sri Ramayana Darshanam",
+      "reported_author": "Kuvempu",
+      "raw_line": "90. Sri Ramayana Darshanam — Kuvempu [Kannada]"
+    },
+    {
+      "position": 91,
+      "reported_title": "Saraswatichandra",
+      "reported_author": "Govardhanram Tripathi",
+      "raw_line": "91. Saraswatichandra — Govardhanram Tripathi [Gujarati]"
+    },
+    {
+      "position": 92,
+      "reported_title": "Odalaala",
+      "reported_author": "Devanuru Mahadeva",
+      "raw_line": "92. Odalaala — Devanuru Mahadeva [Kannada]"
+    },
+    {
+      "position": 93,
+      "reported_title": "Manvini Bhavai",
+      "reported_author": "Pannalal Patel",
+      "raw_line": "93. Manvini Bhavai — Pannalal Patel [Gujarati]"
+    },
+    {
+      "position": 94,
+      "reported_title": "Ghachar Ghochar",
+      "reported_author": "Vivek Shanbhag",
+      "raw_line": "94. Ghachar Ghochar — Vivek Shanbhag [Kannada]"
+    },
+    {
+      "position": 95,
+      "reported_title": "Manimekalai",
+      "reported_author": "Chithalai Chathanar",
+      "raw_line": "95. Manimekalai — Chithalai Chathanar [Tamil]"
+    },
+    {
+      "position": 96,
+      "reported_title": "Rajatarangini",
+      "reported_author": "Kalhana",
+      "raw_line": "96. Rajatarangini — Kalhana [Sanskrit]"
+    },
+    {
+      "position": 97,
+      "reported_title": "Ashtadhyayi",
+      "reported_author": "Panini",
+      "raw_line": "97. Ashtadhyayi — Panini [Sanskrit]"
+    },
+    {
+      "position": 98,
+      "reported_title": "Swami and Friends",
+      "reported_author": "R. K. Narayan",
+      "raw_line": "98. Swami and Friends — R. K. Narayan [English]"
+    },
+    {
+      "position": 99,
+      "reported_title": "The White Tiger",
+      "reported_author": "Aravind Adiga",
+      "raw_line": "99. The White Tiger — Aravind Adiga [English]"
+    },
+    {
+      "position": 100,
+      "reported_title": "Aadujeevitham (Goat Days)",
+      "reported_author": "Benyamin",
+      "raw_line": "100. Aadujeevitham (Goat Days) — Benyamin [Malayalam]"
+    }
+  ]
+}

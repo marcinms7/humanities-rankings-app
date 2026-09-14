@@ -1,0 +1,180 @@
+{
+  "summary": "Added seven modern/medieval references and an IEP Fanon entry. Logged major work distinctions and textual cautions; SEP Fanon URL failed and is not counted.",
+  "next": "Balance this reference-heavy start with independent reviews, expert selections and reader discussion.",
+  "sources": [
+    {
+      "id": "R017",
+      "url": "https://plato.stanford.edu/entries/beauvoir/",
+      "title": "Simone de Beauvoir",
+      "note": "Beauvoir's original contributions extend across existentialism, ethics and feminism. The entry challenges her treatment as merely Sartre's assistant and separates fiction, memoir and theory.",
+      "candidates": [
+        "Simone de Beauvoir",
+        "The Second Sex",
+        "The Ethics of Ambiguity",
+        "The Coming of Age"
+      ],
+      "targets": {
+        "A": "Adds feminist philosophy and aging to broad book discovery.",
+        "N": "Identifies feminist and social-critical nonfiction, distinct from her novels.",
+        "B": "Supports original philosophical contributions across several books.",
+        "P": "Corrects the reduction of Beauvoir's thought to Sartre's influence."
+      },
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "location": "Introduction and named work section headings",
+      "limits": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed."
+    },
+    {
+      "id": "R018",
+      "url": "https://plato.stanford.edu/entries/arendt/",
+      "title": "Hannah Arendt",
+      "note": "Origins of Totalitarianism, The Human Condition and Eichmann in Jerusalem had academic and public impact. They investigate different questions; the banality-of-evil formulation remains controversial.",
+      "candidates": [
+        "Hannah Arendt",
+        "The Origins of Totalitarianism",
+        "The Human Condition",
+        "Eichmann in Jerusalem"
+      ],
+      "targets": {
+        "A": "Adds political history, philosophy and trial reportage.",
+        "N": "Maps different nonfiction forms rather than treating all books as theoretical treatises.",
+        "B": "Distinguishes political philosophy from reportage within Arendt's corpus.",
+        "P": "Supports public and scholarly reception while preserving controversy."
+      },
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "location": "Introduction and named work section headings",
+      "limits": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed."
+    },
+    {
+      "id": "R019",
+      "url": "https://plato.stanford.edu/entries/wittgenstein/",
+      "title": "Ludwig Wittgenstein",
+      "note": "Tractatus and Philosophical Investigations represent major approaches to language and philosophy. The familiar early/late split is itself disputed by scholarship emphasizing continuity or additional phases.",
+      "candidates": [
+        "Ludwig Wittgenstein",
+        "Tractatus Logico-Philosophicus",
+        "Philosophical Investigations"
+      ],
+      "targets": {
+        "A": "Adds two distinct linguistic-philosophical classics.",
+        "N": "Adds argumentative nonfiction with interpretive uncertainty.",
+        "B": "Requires separate work-level evidence for early and later approaches.",
+        "P": "Documents influence without assuming a simple reversal narrative."
+      },
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "location": "Introduction and named work section headings",
+      "limits": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed."
+    },
+    {
+      "id": "R020",
+      "url": "https://plato.stanford.edu/entries/hume/",
+      "title": "David Hume",
+      "note": "Hume's contemporary historical fame differed from later philosophical reception. The Enquiries rework Treatise topics more concisely; scholarship debates continuity and substantive change.",
+      "candidates": [
+        "David Hume",
+        "A Treatise of Human Nature",
+        "An Enquiry concerning Human Understanding",
+        "An Enquiry concerning the Principles of Morals"
+      ],
+      "targets": {
+        "A": "Adds Enlightenment philosophy and a reception-versus-accessibility contrast.",
+        "N": "Distinguishes the Treatise from its later nonfiction reworkings.",
+        "B": "Supports comparing original and revised philosophical arguments.",
+        "P": "Documents experimental approach and evolving reception."
+      },
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "location": "Introduction and life-and-works excerpts",
+      "limits": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed."
+    },
+    {
+      "id": "R021",
+      "url": "https://plato.stanford.edu/entries/spinoza/",
+      "title": "Baruch Spinoza",
+      "note": "Spinoza links naturalistic metaphysics to passions, happiness and democratic politics. The entry separately treats Ethics and the Theological-Political Treatise.",
+      "candidates": [
+        "Baruch Spinoza",
+        "Ethics",
+        "Theological-Political Treatise"
+      ],
+      "targets": {
+        "A": "Adds metaphysical and political-religious criticism.",
+        "N": "Identifies two substantive argumentative nonfiction works.",
+        "B": "Maps ethics and politics to distinct works.",
+        "P": "Supports Spinoza's original synthesis of several intellectual traditions."
+      },
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "location": "Introduction and named work section headings",
+      "limits": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed."
+    },
+    {
+      "id": "R022",
+      "url": "https://plato.stanford.edu/entries/aquinas/",
+      "title": "Thomas Aquinas",
+      "note": "Aquinas systematically reworked Aristotelian thought. His Summae are theological works with philosophical content; serious comparison should include disputed questions and parallel treatments.",
+      "candidates": [
+        "Thomas Aquinas",
+        "Summa theologiae",
+        "Summa contra gentiles"
+      ],
+      "targets": {
+        "A": "Adds medieval systematic theology and philosophy.",
+        "N": "Identifies large theological-argumentative nonfiction works.",
+        "B": "Distinguishes philosophical contribution from modern genre labels.",
+        "P": "Documents scholastic innovation and subsequent debate."
+      },
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "location": "Introduction and life-and-works excerpts",
+      "limits": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed."
+    },
+    {
+      "id": "R023",
+      "url": "https://plato.stanford.edu/entries/nietzsche/",
+      "title": "Friedrich Nietzsche",
+      "note": "Nietzsche combines psychological critique with proposed new values. The Will to Power is a posthumous notebook selection, unlike the authored Genealogy and Beyond Good and Evil.",
+      "candidates": [
+        "Friedrich Nietzsche",
+        "On the Genealogy of Morality",
+        "Beyond Good and Evil",
+        "The Gay Science",
+        "The Will to Power"
+      ],
+      "targets": {
+        "A": "Adds cultural criticism with a concrete editorial-authenticity warning.",
+        "N": "Separates published critical books from later notebook compilation.",
+        "B": "Supports work-level evidence and edition-sensitive reading.",
+        "P": "Documents Nietzsche's philosophical projects beyond isolated slogans."
+      },
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "location": "Introduction and life-and-works excerpts",
+      "limits": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed."
+    },
+    {
+      "id": "R024",
+      "url": "https://iep.utm.edu/fanon/",
+      "title": "Frantz Fanon",
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "family": "scholarly_reference",
+      "note": "Black Skin, White Masks develops anti-racist humanism; later works shift toward colonized peoples' liberation. The entry places Fanon centrally in Africana political thought.",
+      "candidates": [
+        "Frantz Fanon",
+        "Black Skin, White Masks",
+        "The Wretched of the Earth",
+        "A Dying Colonialism"
+      ],
+      "targets": {
+        "A": "Adds anti-colonial social and political books.",
+        "N": "Distinguishes personal-racial analysis from later decolonization studies.",
+        "B": "Establishes philosophical content and development across Fanon's works.",
+        "P": "Supports Fanon's role in Africana thought and human dignity debates."
+      },
+      "location": "Opening paragraphs",
+      "limits": "Interpretive introduction; debates over violence and later reception need independent criticism."
+    }
+  ]
+}

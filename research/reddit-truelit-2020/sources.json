@@ -1,0 +1,25 @@
+{
+  "target_id": "reddit-truelit-2020",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://docs.google.com/spreadsheets/d/1SDFJoL_Yepj4FvFsfYTYcL1jzMxsr_KIJZnBHeR9POU/edit",
+      "title": "r/TrueLit · Favorite Books (2020) — result publication",
+      "canonical_url": "https://docs.google.com/spreadsheets/d/1SDFJoL_Yepj4FvFsfYTYcL1jzMxsr_KIJZnBHeR9POU/edit",
+      "source_family": "community_poll",
+      "publisher": "r/TrueLit community",
+      "target_ids": [
+        "reddit-truelit-2020"
+      ],
+      "relevance_by_target": {
+        "reddit-truelit-2020": "Published annual result order, transcribed from the cross-year consolidation; source ties and composite works retained."
+      },
+      "evidence_notes": "Published annual result order, transcribed from the cross-year consolidation; source ties and composite works retained.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "The consolidation is community-maintained. Series expanded into volume rows there were restored to the single composite entry used by the original poll."
+    }
+  ]
+}

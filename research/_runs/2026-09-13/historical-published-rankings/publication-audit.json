@@ -1,0 +1,4659 @@
+{
+  "checked_on": "2026-09-13",
+  "targets": {
+    "reddit-truelit-2019": {
+      "ranking_id": 118,
+      "entries": 50,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "72475075edb6c36131d80d84c4db514175a741fc0948740e287b8942ed1b5ded"
+    },
+    "reddit-truelit-2020": {
+      "ranking_id": 119,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "b637db5d18ddd946d0e540590e60599d0f12ca04e4be1e6a87025ec5fd6a7c0e"
+    },
+    "reddit-truelit-2021": {
+      "ranking_id": 120,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "d2bdda594a00327aee8aaae6aa692525dea4a01e6c137d441e6c7b5637d5c527"
+    },
+    "reddit-truelit-2022": {
+      "ranking_id": 121,
+      "entries": 98,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "80c03b4677cb20f6576c644d70fa3efc47469a96f121ae3564b4ff7058598a45"
+    },
+    "reddit-truelit-2024": {
+      "ranking_id": 122,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "9b1fe1a7c4db7b266c6ab0856dfe0171cb4dd9a2eddb5ed9cb578ffb73c6ab1d"
+    },
+    "reddit-truelit-2025": {
+      "ranking_id": 123,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "713c182f1fcc8e990f72bd316f605ad353223257bd3dca9397d245f8be31ba0c"
+    },
+    "reddit-fantasy-top-novels-2014": {
+      "ranking_id": 124,
+      "entries": 105,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "cd543dd178be43697bf5bdab707f9df7d4235fff3bb8100dcfff17f7a78c8fa7"
+    },
+    "reddit-fantasy-top-novels-2015": {
+      "ranking_id": 125,
+      "entries": 85,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "c8bb378e1609fe9a38baef83664b193d27622218ac33560e8c1072c038ddab27"
+    },
+    "reddit-fantasy-top-novels-2017": {
+      "ranking_id": 126,
+      "entries": 94,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "fab4942e6d6a9deb4b5b914c55e4f9ce3ca9af1368d3d887a831ed9fa386faf6"
+    },
+    "reddit-fantasy-top-novels-2019": {
+      "ranking_id": 127,
+      "entries": 147,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "48b2a355b3c74bca1ae956cdce963882b33fbf4747be783785bd8472ef4c1e28"
+    },
+    "reddit-fantasy-top-novels-2021": {
+      "ranking_id": 128,
+      "entries": 233,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "38f5f90dfda81f7e768e8100d331bd6fab46ba4f695a30364d77f19cfcc72198"
+    },
+    "reddit-fantasy-top-novels-2025": {
+      "ranking_id": 129,
+      "entries": 293,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "1e80f6a55672b9daa111268e77f125e27ab7bd8282a723607aa7d36e61f24b79"
+    },
+    "fourchan-lit-top-100-2020": {
+      "ranking_id": 136,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "9d76886be67f1250086ad7561da057148f3ee8b82c726264324b5576b657124e"
+    },
+    "fourchan-lit-top-100-2019": {
+      "ranking_id": 135,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "4daab897b9c7d15e75162bde38d008e997aca53d660ea6a51431f2cbc8cdc2da"
+    },
+    "fourchan-lit-top-100-2018": {
+      "ranking_id": 134,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "fd68133cf78533027ef0ce36fd9dd4a2b04ebbc78dd1905b8e0c6dc75e3723f8"
+    },
+    "fourchan-lit-top-100-2017": {
+      "ranking_id": 133,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "363e20ad64076280cd7e82a2120d3cf0f8f6e876eb9f5fee65edea5de18d3941"
+    },
+    "fourchan-lit-top-100-2016": {
+      "ranking_id": 132,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "48d61bd7349950542c0ea1f23fe0e5699f617a7b05906378f61274d2c9a65be0"
+    },
+    "fourchan-lit-top-100-2015": {
+      "ranking_id": 131,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "4df1f6093c63eccf58e30ddbae35bb3a4ff029fe215e7d1ca13acbfbb9e76c7f"
+    },
+    "fourchan-lit-top-100-2014": {
+      "ranking_id": 130,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "53c5b55c7cfec868e1785303b927c215bf6b51d9f38db69c38d02516058a7dca"
+    },
+    "fourchan-lit-top-100-2021": {
+      "ranking_id": 137,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "6cdcb2722b75e9e555ea0ecd11a42fbc1ade36430fd58dd94cae6e1c448d23a0"
+    },
+    "fourchan-lit-top-100-2023": {
+      "ranking_id": 138,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "71733997a87525336d086770e2053ad0af33805eec0bf66dba03a158d98aea1d"
+    },
+    "fourchan-lit-top-100-2024": {
+      "ranking_id": 139,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "da38aaef0881f11659c99cca5b3f006c064c42370714ff3fb95acad970e6a591"
+    },
+    "modern-library-board-100-novels-1998": {
+      "ranking_id": 140,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "61e4bbf04772d8903e0af28dff3b8861d5836c36064deb115552c37ae5c62cbe"
+    },
+    "new-york-times-best-books-21st-century-2024": {
+      "ranking_id": 141,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "5ecf2d8e3864cfe2fa5a6a7f370469ea3082b654477899e356a7cb37c783fd34"
+    },
+    "bbc-big-read-2003": {
+      "ranking_id": 142,
+      "entries": 200,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "d21a338cadc10b98cccc7797763c25aef40edcbad86b067c1636fe98c87f1331"
+    },
+    "le-monde-fnac-100-books-century-1999": {
+      "ranking_id": 143,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "88d429c10c2f4702cbad11858701b7648f923e4827fe69ef4747f0fbe1d1eb77"
+    }
+  },
+  "catalog": {
+    "created_works": [
+      {
+        "id": 5613,
+        "title": "2666.0",
+        "authors": [
+          "Roberto Bolaño"
+        ],
+        "source": "reddit-truelit-2019"
+      },
+      {
+        "id": 5614,
+        "title": "Darconville's Cat",
+        "authors": [
+          "Alexander Theroux"
+        ],
+        "source": "reddit-truelit-2019"
+      },
+      {
+        "id": 5615,
+        "title": "Journey to the End of Night",
+        "authors": [
+          "Louis-Ferdinand Céline"
+        ],
+        "source": "reddit-truelit-2019"
+      },
+      {
+        "id": 5616,
+        "title": "Hurricane Season",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "source": "reddit-truelit-2019"
+      },
+      {
+        "id": 5617,
+        "title": "Leaves of Grass (1855, 1892)",
+        "authors": [
+          "Walt Whitman"
+        ],
+        "source": "reddit-truelit-2020"
+      },
+      {
+        "id": 5618,
+        "title": "Suttree",
+        "authors": [
+          "Cormac McCarthy"
+        ],
+        "source": "reddit-truelit-2020"
+      },
+      {
+        "id": 5619,
+        "title": "Satantango",
+        "authors": [
+          "László Krasznahorkai"
+        ],
+        "source": "reddit-truelit-2020"
+      },
+      {
+        "id": 5620,
+        "title": "The Last Samurai",
+        "authors": [
+          "Helen DeWitt"
+        ],
+        "source": "reddit-truelit-2020"
+      },
+      {
+        "id": 5621,
+        "title": "The Tartar Steppe",
+        "authors": [
+          "Dino Buzzati"
+        ],
+        "source": "reddit-truelit-2020"
+      },
+      {
+        "id": 5622,
+        "title": "Notes from the Underground",
+        "authors": [
+          "Fyodor Dostoevsky"
+        ],
+        "source": "reddit-truelit-2021"
+      },
+      {
+        "id": 5623,
+        "title": "We Have Always Lived in the Castle",
+        "authors": [
+          "Shirley Jackson"
+        ],
+        "source": "reddit-truelit-2021"
+      },
+      {
+        "id": 5624,
+        "title": "Butcher's Crossing",
+        "authors": [
+          "John Williams"
+        ],
+        "source": "reddit-truelit-2021"
+      },
+      {
+        "id": 5625,
+        "title": "Spring Snow (Sea of Fertility 1)",
+        "authors": [
+          "Yukio Mishima"
+        ],
+        "source": "reddit-truelit-2021"
+      },
+      {
+        "id": 5626,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "source": "reddit-truelit-2021"
+      },
+      {
+        "id": 5627,
+        "title": "The Border Trilogy",
+        "authors": [
+          "Cormac McCarthy"
+        ],
+        "source": "reddit-truelit-2022"
+      },
+      {
+        "id": 5628,
+        "title": "Autobiography of Red",
+        "authors": [
+          "Anne Carson"
+        ],
+        "source": "reddit-truelit-2022"
+      },
+      {
+        "id": 5629,
+        "title": "Watchmen",
+        "authors": [
+          "Alan Moore"
+        ],
+        "source": "reddit-truelit-2022"
+      },
+      {
+        "id": 5630,
+        "title": "Death and the Dervish",
+        "authors": [
+          "Meša Selimović"
+        ],
+        "source": "reddit-truelit-2022"
+      },
+      {
+        "id": 5631,
+        "title": "Human Acts",
+        "authors": [
+          "Han Kang"
+        ],
+        "source": "reddit-truelit-2024"
+      },
+      {
+        "id": 5632,
+        "title": "Libra",
+        "authors": [
+          "Don DeLillo"
+        ],
+        "source": "reddit-truelit-2024"
+      },
+      {
+        "id": 5633,
+        "title": "The Door",
+        "authors": [
+          "Magda Szabó"
+        ],
+        "source": "reddit-truelit-2024"
+      },
+      {
+        "id": 5634,
+        "title": "The Malazan Book of the Fallen",
+        "authors": [
+          "Steven Erikson"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5635,
+        "title": "The Gentleman Bastards",
+        "authors": [
+          "Scott Lynch"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5636,
+        "title": "The First Law",
+        "authors": [
+          "Joe Abercrombie"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5637,
+        "title": "The Broken Empire",
+        "authors": [
+          "Mark Lawrence"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5638,
+        "title": "The Farseer Trilogy",
+        "authors": [
+          "Robin Hobb"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5639,
+        "title": "The Black Company",
+        "authors": [
+          "Glen Cook"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5640,
+        "title": "The Riyria Revelations",
+        "authors": [
+          "Michael J. Sullivan"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5641,
+        "title": "Prince of Nothing",
+        "authors": [
+          "R. Scott Bakker"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5642,
+        "title": "The Belgariad",
+        "authors": [
+          "David Eddings"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5643,
+        "title": "Jonathan Strange and Mr. Norrell",
+        "authors": [
+          "Susanna Clarke"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5644,
+        "title": "The Riftwar Saga",
+        "authors": [
+          "Raymond Feist"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5645,
+        "title": "Dragonlance Novels",
+        "authors": [
+          "Various authors"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5646,
+        "title": "The Liveship Traders",
+        "authors": [
+          "Robin Hobb"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5647,
+        "title": "The Silmarillion",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5648,
+        "title": "The Tawny Man Trilogy",
+        "authors": [
+          "Robin Hobb"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5649,
+        "title": "Best Served Cold",
+        "authors": [
+          "Joe Abercrombie"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5650,
+        "title": "The Dark is Rising",
+        "authors": [
+          "Susan Cooper"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5651,
+        "title": "The Heroes",
+        "authors": [
+          "Joe Abercrombie"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5652,
+        "title": "Memory, Sorrow, and Thorn",
+        "authors": [
+          "Tad Williams"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5653,
+        "title": "Abhorsen",
+        "authors": [
+          "Garth Nix"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5654,
+        "title": "Anansi Boys",
+        "authors": [
+          "Neil Gaiman"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5655,
+        "title": "The Deed of Paksenarrion",
+        "authors": [
+          "Elizabeth Moon"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5656,
+        "title": "The Fionavar Tapestry",
+        "authors": [
+          "Guy Gavriel Kay"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5657,
+        "title": "The Night Angel Trilogy",
+        "authors": [
+          "Brent Weeks"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5658,
+        "title": "A Song for Arbonne",
+        "authors": [
+          "Guy Gavriel Kay"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5659,
+        "title": "The BasLag Cycle",
+        "authors": [
+          "China Miéville"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5660,
+        "title": "The Black Jewels",
+        "authors": [
+          "Anne Bishop"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5661,
+        "title": "Conan the Cimmerian",
+        "authors": [
+          "Robert E. Howard"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5662,
+        "title": "Dune Chronicles",
+        "authors": [
+          "Frank Herbert"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5663,
+        "title": "The Dying Earth",
+        "authors": [
+          "Jack Vance"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5664,
+        "title": "Elric",
+        "authors": [
+          "Michael Moorcock"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5665,
+        "title": "The Empire Trilogy",
+        "authors": [
+          "Ramond Feist",
+          "Janny Wurts"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5666,
+        "title": "Kushiel's Legacy",
+        "authors": [
+          "Jacqueline Carey"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5667,
+        "title": "Night Watch and Day Watch",
+        "authors": [
+          "Sergei Lukyanenko"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5668,
+        "title": "A Picture of Dorian Gray",
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5669,
+        "title": "Red Country",
+        "authors": [
+          "Joe Abercrombie"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5670,
+        "title": "The Saga of Recluse",
+        "authors": [
+          "LE Modesitt Jr"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5671,
+        "title": "The Sun Sword",
+        "authors": [
+          "Michelle West"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5672,
+        "title": "A Wrinkle in Time",
+        "authors": [
+          "Madeleine L'Engle"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5673,
+        "title": "Bartimaeus",
+        "authors": [
+          "Jonathon Stroud"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5674,
+        "title": "Curse of Chalion",
+        "authors": [
+          "Lois McMaster Bujold"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5675,
+        "title": "Dragonriders of Pern",
+        "authors": [
+          "Anne McCaffrey"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5676,
+        "title": "Exiles",
+        "authors": [
+          "Melanie Rawn"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5677,
+        "title": "Guardian of the Flame",
+        "authors": [
+          "Joel Rosenberg"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5678,
+        "title": "The Inheritence Cycle",
+        "authors": [
+          "Christopher Paolini"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5679,
+        "title": "The Iron Dragon's Daughter",
+        "authors": [
+          "Michael Swanwick"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5680,
+        "title": "Last Call",
+        "authors": [
+          "Tim Powers"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5681,
+        "title": "The Legend of Eli Monpress",
+        "authors": [
+          "Rachel Aaron"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5682,
+        "title": "Lord of Light",
+        "authors": [
+          "Roger Zelazny"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5683,
+        "title": "The Low Town Trilogy",
+        "authors": [
+          "Daniel Polanksy"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5684,
+        "title": "Mythago Wood",
+        "authors": [
+          "Robert Holdstock"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5685,
+        "title": "The Old Kingdom Trilogy",
+        "authors": [
+          "Garth Nix"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5686,
+        "title": "The Redemption of Althalus",
+        "authors": [
+          "David",
+          "Leigh Eddings"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5687,
+        "title": "River of Stars",
+        "authors": [
+          "Guy Gavriel Kay"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5688,
+        "title": "Song for the Basilisk",
+        "authors": [
+          "Patricia A. McKillip"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5689,
+        "title": "The Sword of Truth",
+        "authors": [
+          "Terry Goodkind"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5690,
+        "title": "War for the Oaks",
+        "authors": [
+          "Emma Bull"
+        ],
+        "source": "reddit-fantasy-top-novels-2014"
+      },
+      {
+        "id": 5691,
+        "title": "Worm",
+        "authors": [
+          "Wildbow"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5692,
+        "title": "Tawny Man",
+        "authors": [
+          "Robin Hobb"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5693,
+        "title": "The Riyria Chronicles",
+        "authors": [
+          "Michael J. Sullivan"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5694,
+        "title": "New Crobuzon",
+        "authors": [
+          "China Miéville"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5695,
+        "title": "The Legend of Drizzt",
+        "authors": [
+          "R.A. Salvatore"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5696,
+        "title": "The Iron Druid Chronicles",
+        "authors": [
+          "Kevin Hearne"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5697,
+        "title": "Low Town",
+        "authors": [
+          "Daniel Polansky"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5698,
+        "title": "The Orphan's Tales",
+        "authors": [
+          "Catherynne M. Valente"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5699,
+        "title": "Dread Empire",
+        "authors": [
+          "Glen Cook"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5700,
+        "title": "Deverry",
+        "authors": [
+          "Katharine Kerr"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5701,
+        "title": "Inheritance",
+        "authors": [
+          "N.K. Jemisin"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5702,
+        "title": "Conan the Barbarian",
+        "authors": [
+          "Robert E. Howard"
+        ],
+        "source": "reddit-fantasy-top-novels-2015"
+      },
+      {
+        "id": 5703,
+        "title": "Red Rising",
+        "authors": [
+          "Pierce Brown"
+        ],
+        "source": "reddit-fantasy-top-novels-2017"
+      },
+      {
+        "id": 5704,
+        "title": "Enderverse",
+        "authors": [
+          "Orson Scott Card"
+        ],
+        "source": "reddit-fantasy-top-novels-2017"
+      },
+      {
+        "id": 5705,
+        "title": "Tortall",
+        "authors": [
+          "Tamora Pierce"
+        ],
+        "source": "reddit-fantasy-top-novels-2017"
+      },
+      {
+        "id": 5706,
+        "title": "Thrawn Trilogy",
+        "authors": [
+          "Timothy Zahn"
+        ],
+        "source": "reddit-fantasy-top-novels-2017"
+      },
+      {
+        "id": 5707,
+        "title": "Foundation Universe",
+        "authors": [
+          "Isaac Asimov"
+        ],
+        "source": "reddit-fantasy-top-novels-2017"
+      },
+      {
+        "id": 5708,
+        "title": "Twig",
+        "authors": [
+          "Wildbow"
+        ],
+        "source": "reddit-fantasy-top-novels-2017"
+      },
+      {
+        "id": 5709,
+        "title": "The Traitor Baru Cormorant",
+        "authors": [
+          "Seth Dickinson"
+        ],
+        "source": "reddit-fantasy-top-novels-2017"
+      },
+      {
+        "id": 5710,
+        "title": "Percy Jackson & the Olympians",
+        "authors": [
+          "Rick Riordan"
+        ],
+        "source": "reddit-fantasy-top-novels-2017"
+      },
+      {
+        "id": 5711,
+        "title": "The Traitor Son Cycle",
+        "authors": [
+          "Miles Cameron"
+        ],
+        "source": "reddit-fantasy-top-novels-2017"
+      },
+      {
+        "id": 5712,
+        "title": "Pact",
+        "authors": [
+          "Wildbow"
+        ],
+        "source": "reddit-fantasy-top-novels-2017"
+      },
+      {
+        "id": 5713,
+        "title": "The Stormlight Archives",
+        "authors": [
+          "Brandon Sanderson"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5714,
+        "title": "The Kingkiller Chronicles",
+        "authors": [
+          "Patrick Rothfuss"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5715,
+        "title": "Gods of Blood and Powder",
+        "authors": [
+          "Brian McClellan"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5716,
+        "title": "Earthsea",
+        "authors": [
+          "Ursula K Le Guin"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5717,
+        "title": "The Ender Quartet",
+        "authors": [
+          "Orson Scott Card"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5718,
+        "title": "Six of Crows",
+        "authors": [
+          "Leigh Bardugo"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5719,
+        "title": "New Crobuzun",
+        "authors": [
+          "China Miéville"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5720,
+        "title": "The Golem and the Djinni",
+        "authors": [
+          "Helene Wecker"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5721,
+        "title": "Greatcoats series",
+        "authors": [
+          "Sebastian de Castell"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5722,
+        "title": "Imperial Raadch",
+        "authors": [
+          "Ann Leckie"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5723,
+        "title": "Tales of Ketty Jay",
+        "authors": [
+          "Chris Wooding"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5724,
+        "title": "Drenai series",
+        "authors": [
+          "David Gemmell"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5725,
+        "title": "Licanius",
+        "authors": [
+          "James Islington"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5726,
+        "title": "Garrett PI",
+        "authors": [
+          "Glen Cook"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5727,
+        "title": "Guns of the Dawn",
+        "authors": [
+          "Adrian Tchaikovsky"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5728,
+        "title": "The Wounded Kingdom",
+        "authors": [
+          "R.J. Barker"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5729,
+        "title": "Dagger and Coin",
+        "authors": [
+          "Daniel Abraham"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5730,
+        "title": "To Ride Hell's Chasm",
+        "authors": [
+          "Janny Wurts"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5731,
+        "title": "The Tarot Sequence",
+        "authors": [
+          "KD Edwards"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5732,
+        "title": "Saga of Recluce",
+        "authors": [
+          "LE Modesitt Jr"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5733,
+        "title": "The City & the City",
+        "authors": [
+          "China Miéville"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5734,
+        "title": "Shattered Sigil",
+        "authors": [
+          "Courtney Schafer"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5735,
+        "title": "Harry Potter and the Methods of Rationality",
+        "authors": [
+          "Eliezer Yudkowsky"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5736,
+        "title": "The Deeds of Paksenarrion",
+        "authors": [
+          "Elizabeth Moon"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5737,
+        "title": "The Sevenwaters Books",
+        "authors": [
+          "Juliet Marillier"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5738,
+        "title": "Founder's Trilogy",
+        "authors": [
+          "Robert Jackson Bennet"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5739,
+        "title": "Chronicles of Thomas Covenant the Unbeliever",
+        "authors": [
+          "Stephen Donaldson"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5740,
+        "title": "Shades of Magic",
+        "authors": [
+          "V.E. Schwab"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5741,
+        "title": "Nevernight",
+        "authors": [
+          "Jay Kristoff"
+        ],
+        "source": "reddit-fantasy-top-novels-2019"
+      },
+      {
+        "id": 5742,
+        "title": "Sword of Kaigen",
+        "authors": [
+          "M.L. Wang"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5743,
+        "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "authors": [
+          "Terry Pratchett",
+          "Neil Gaiman"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5744,
+        "title": "Memory, Sorrow, & Thorn",
+        "authors": [
+          "Tad Williams"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5745,
+        "title": "The Priory of the Orange Tree",
+        "authors": [
+          "Samantha Shannon"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5746,
+        "title": "Old Man's War",
+        "authors": [
+          "John Scalzi"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5747,
+        "title": "Between Earth and Sky",
+        "authors": [
+          "Rebecca Roanhorse"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5748,
+        "title": "Death Gate Cycle",
+        "authors": [
+          "Margaret Weis",
+          "Tracy Hickman"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5749,
+        "title": "Crown of Stars",
+        "authors": [
+          "Kate Elliott"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5750,
+        "title": "Chronicles of Chrestomanci",
+        "authors": [
+          "Diana Wynne Jones"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5751,
+        "title": "Zamonia",
+        "authors": [
+          "Walter Moers"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5752,
+        "title": "The Space Between Worlds",
+        "authors": [
+          "Micaiah Johnson"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5753,
+        "title": "The Mists of Avalon",
+        "authors": [
+          "Marion Zimmer Bradley"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5754,
+        "title": "The Drowning Empire",
+        "authors": [
+          "Andrea Stewart"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5755,
+        "title": "The Chronicles of Master Li and Number Ten Ox",
+        "authors": [
+          "Barry Hughart"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5756,
+        "title": "Super Powereds",
+        "authors": [
+          "Drew Hayes"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5757,
+        "title": "Star Wars: Thrawn Trilogy",
+        "authors": [
+          "Timothy Zahn"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5758,
+        "title": "Silo Trilogy",
+        "authors": [
+          "Hugh Howey"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5759,
+        "title": "Raven's Mark",
+        "authors": [
+          "Ed McDonald"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5760,
+        "title": "Ranger's Apprentice",
+        "authors": [
+          "John Flanagan"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5761,
+        "title": "Mortal Techniques",
+        "authors": [
+          "Rob J. Hayes"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5762,
+        "title": "Deerskin",
+        "authors": [
+          "Robin McKinley"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5763,
+        "title": "Damar",
+        "authors": [
+          "Robin McKinley"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5764,
+        "title": "Chaos Walking",
+        "authors": [
+          "Patrick Ness"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5765,
+        "title": "Arc of a Scythe",
+        "authors": [
+          "Neal Shusterman"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5766,
+        "title": "An Unkindness of Ghosts",
+        "authors": [
+          "Rivers Solomon"
+        ],
+        "source": "reddit-fantasy-top-novels-2021"
+      },
+      {
+        "id": 5767,
+        "title": "Malazan Universe",
+        "authors": [
+          "Steven Erikson",
+          "Ian C. Esslemont"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5768,
+        "title": "Hierarchy",
+        "authors": [
+          "James Islington"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5769,
+        "title": "Sarantine Universe",
+        "authors": [
+          "Guy Gavriel Kay"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5770,
+        "title": "The Broken Empire Universe",
+        "authors": [
+          "Mark Lawrence"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5771,
+        "title": "The Chronicles of Osreth",
+        "authors": [
+          "Katherine Addison"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5772,
+        "title": "Cosmere",
+        "authors": [
+          "Brandon Sanderson"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5773,
+        "title": "The Banished Lands",
+        "authors": [
+          "John Gwynne"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5774,
+        "title": "Blood Over Bright Haven",
+        "authors": [
+          "M.L. Wang"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5775,
+        "title": "Shadow of the Leviathan",
+        "authors": [
+          "Robert Jackson Bennett"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5776,
+        "title": "The Old Kingdom / Abhorsen",
+        "authors": [
+          "Garth Nix"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5777,
+        "title": "Howl's Castle",
+        "authors": [
+          "Diana Wynne Jones"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5778,
+        "title": "The Bloodsworn Trilogy",
+        "authors": [
+          "John Gwynne"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5779,
+        "title": "House of Leaves",
+        "authors": [
+          "Mark Z. Danielewski"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5780,
+        "title": "Legends and Lattes",
+        "authors": [
+          "Travis Baldree"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5781,
+        "title": "The Tyrant Philosophers",
+        "authors": [
+          "Adrian Tchaikovsky"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5782,
+        "title": "Empire of the Wolf",
+        "authors": [
+          "Richard Swan"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5783,
+        "title": "The Empyrean",
+        "authors": [
+          "Rebecca Yarros"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5784,
+        "title": "Emily Wilde",
+        "authors": [
+          "Heather Fawcett"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5785,
+        "title": "The Adventures of Amina Al-Sirafi",
+        "authors": [
+          "Shannon Chakraborty"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5786,
+        "title": "Beware of Chicken",
+        "authors": [
+          "CasualFarmer"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5787,
+        "title": "Cerulean Chronicles",
+        "authors": [
+          "T.J. Klune"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5788,
+        "title": "To Be Taught, If Fortunate",
+        "authors": [
+          "Becky Chambers"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5789,
+        "title": "Covenant of Steel",
+        "authors": [
+          "Anthony Ryan"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5790,
+        "title": "Neuromancer / Sprawl Trilogy",
+        "authors": [
+          "William Gibson"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5791,
+        "title": "Saint Leibowitz",
+        "authors": [
+          "Walter M. Miller Jr."
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5792,
+        "title": "The Final Architecture",
+        "authors": [
+          "Adrian Tchaikovsky"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5793,
+        "title": "A Court of Thorns and Roses",
+        "authors": [
+          "Sarah J. Maas"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5794,
+        "title": "Thomas Covenant",
+        "authors": [
+          "Stephen R. Donaldson"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5795,
+        "title": "11/22/63",
+        "authors": [
+          "Stephen King"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5796,
+        "title": "The Lost City of [Weep]",
+        "authors": [
+          "Laini Taylor"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5797,
+        "title": "Celaena / Throne of Glass",
+        "authors": [
+          "Sarah J. Maas"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5798,
+        "title": "Jurassic Park",
+        "authors": [
+          "Michael Crichton"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5799,
+        "title": "Fallen Gods / Godkiller",
+        "authors": [
+          "Hannah Kaner"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5800,
+        "title": "The Last War",
+        "authors": [
+          "Mike Shackle"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5801,
+        "title": "The Sign of the Dragon",
+        "authors": [
+          "Mary Soon Lee"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5802,
+        "title": "Saint Death",
+        "authors": [
+          "C. S. E. Cooney"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5803,
+        "title": "Monarchies of God",
+        "authors": [
+          "Paul Kearney"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5804,
+        "title": "Nampeshiweisit",
+        "authors": [
+          "Moniquill Blackgoose"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5805,
+        "title": "The Edge Chronicles",
+        "authors": [
+          "Paul Stewart, Chris Riddell"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5806,
+        "title": "Winnowing Flame Trilogy",
+        "authors": [
+          "Jen Williams"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5807,
+        "title": "Blindsight / Firefall",
+        "authors": [
+          "Peter Watts"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5808,
+        "title": "Mark of the Fool",
+        "authors": [
+          "J.M. Clarke"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5809,
+        "title": "The Obsidian Path",
+        "authors": [
+          "Michael R. Fletcher"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5810,
+        "title": "He Who Fights With Monsters",
+        "authors": [
+          "Shirtaloon"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5811,
+        "title": "Villains",
+        "authors": [
+          "V.E. Schwab"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5812,
+        "title": "Cyteen",
+        "authors": [
+          "C.J. Cherryh"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5813,
+        "title": "I Who Have Never Known Men",
+        "authors": [
+          "Jacqueline Harpman"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5814,
+        "title": "The Buried Giant",
+        "authors": [
+          "Kazuo Ishiguro"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5815,
+        "title": "Navronne / Sanctuary Universe Series",
+        "authors": [
+          "Carol Berg"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5816,
+        "title": "Saga of the Forgotten Warrior",
+        "authors": [
+          "Larry Correia"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5817,
+        "title": "Young Wizards",
+        "authors": [
+          "Diana Duane"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5818,
+        "title": "October Daye",
+        "authors": [
+          "Seanan McGuire"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5819,
+        "title": "Chava and Ahmad",
+        "authors": [
+          "Helene Wecker"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5820,
+        "title": "Sea of Tranquility",
+        "authors": [
+          "Emily St. John Mandel"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5821,
+        "title": "Little, Big",
+        "authors": [
+          "John Crowley"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5822,
+        "title": "Otherland series",
+        "authors": [
+          "Tad Williams"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5823,
+        "title": "The Reformatory",
+        "authors": [
+          "Tananarive Due"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5824,
+        "title": "Heartstrikers",
+        "authors": [
+          "Rachel Aaron"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5825,
+        "title": "Pale",
+        "authors": [
+          "Wildbow"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5826,
+        "title": "Tuyo",
+        "authors": [
+          "Rachel Neumeier"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5827,
+        "title": "Salem's Lot",
+        "authors": [
+          "Stephen King"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5828,
+        "title": "Tamír Triad",
+        "authors": [
+          "Lynn Flewelling"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5829,
+        "title": "Heaven Official’s Blessing",
+        "authors": [
+          "Mo Xiang Tong Xiu"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5830,
+        "title": "The Song of the Shattered Sands",
+        "authors": [
+          "Bradley P. Beaulieu"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5831,
+        "title": "Chain-Gang All-Stars",
+        "authors": [
+          "Nana Kwame Adjei-Brenyah"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5832,
+        "title": "Captive Prince",
+        "authors": [
+          "CS Pacat"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5833,
+        "title": "Pet Sematary",
+        "authors": [
+          "Stephen King"
+        ],
+        "source": "reddit-fantasy-top-novels-2025"
+      },
+      {
+        "id": 5834,
+        "title": "Mein Kampf",
+        "authors": [
+          "Hitler"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5835,
+        "title": "The Quran",
+        "authors": [
+          "Various authors"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5836,
+        "title": "History of Charles XII",
+        "authors": [
+          "Voltaire"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5837,
+        "title": "Modernity and Cultural Decline",
+        "authors": [
+          "Woodley et al"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5838,
+        "title": "The Making of Americans",
+        "authors": [
+          "Stein"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5839,
+        "title": "Extinction",
+        "authors": [
+          "Thomas Bernhard"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5840,
+        "title": "On the Heights of Despair",
+        "authors": [
+          "Emil Cioran"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5841,
+        "title": "Story of the Eye",
+        "authors": [
+          "Georges Bataille"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5842,
+        "title": "Take Five",
+        "authors": [
+          "Mano"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5843,
+        "title": "The Unconsoled",
+        "authors": [
+          "Kazuo Ishiguro"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5844,
+        "title": "Bronze Age Mindset",
+        "authors": [
+          "Bronze Age Pervert"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5845,
+        "title": "The Changing Light at Sandover",
+        "authors": [
+          "James Merrill"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5846,
+        "title": "The Reign of Quantity and the Signs of the Times",
+        "authors": [
+          "René Guénon"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5847,
+        "title": "Foucault's Pendulum",
+        "authors": [
+          "Eco"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5848,
+        "title": "Raise High the Roofbeams, Carpenters and Seymour: An Introduction",
+        "authors": [
+          "J.D. Salinger"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5849,
+        "title": "Voss",
+        "authors": [
+          "Patrick White"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5850,
+        "title": "Antifragile",
+        "authors": [
+          "Nassim Nicholas Taleb"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5851,
+        "title": "The Confidence-Man",
+        "authors": [
+          "Herman Melville"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5852,
+        "title": "London Bridge",
+        "authors": [
+          "Louis-Ferdinand Céline"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5853,
+        "title": "Pan",
+        "authors": [
+          "Knut Hamsun"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5854,
+        "title": "The Fountainhead",
+        "authors": [
+          "Ayn Rand"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5855,
+        "title": "White Fragility",
+        "authors": [
+          "Robin DiAngelo"
+        ],
+        "source": "fourchan-lit-top-100-2020"
+      },
+      {
+        "id": 5856,
+        "title": "Correction",
+        "authors": [
+          "Thomas Bernhard"
+        ],
+        "source": "fourchan-lit-top-100-2019"
+      },
+      {
+        "id": 5857,
+        "title": "The Red & The Black",
+        "authors": [
+          "Stendhal"
+        ],
+        "source": "fourchan-lit-top-100-2019"
+      },
+      {
+        "id": 5858,
+        "title": "Growth of the Soil",
+        "authors": [
+          "Knut Hamsun"
+        ],
+        "source": "fourchan-lit-top-100-2019"
+      },
+      {
+        "id": 5859,
+        "title": "Arcades Project",
+        "authors": [
+          "Walter Benjamin"
+        ],
+        "source": "fourchan-lit-top-100-2019"
+      },
+      {
+        "id": 5860,
+        "title": "Platonic Dialogues",
+        "authors": [
+          "Plato"
+        ],
+        "source": "fourchan-lit-top-100-2017"
+      },
+      {
+        "id": 5861,
+        "title": "Meditations",
+        "authors": [
+          "René Descartes"
+        ],
+        "source": "fourchan-lit-top-100-2017"
+      },
+      {
+        "id": 5862,
+        "title": "The Pale King",
+        "authors": [
+          "David Foster Wallace"
+        ],
+        "source": "fourchan-lit-top-100-2017"
+      },
+      {
+        "id": 5863,
+        "title": "Fanged Noumena",
+        "authors": [
+          "Nick Land"
+        ],
+        "source": "fourchan-lit-top-100-2017"
+      },
+      {
+        "id": 5864,
+        "title": "Farenheit 451",
+        "authors": [
+          "Ray Bradbury"
+        ],
+        "source": "fourchan-lit-top-100-2017"
+      },
+      {
+        "id": 5865,
+        "title": "The Fall",
+        "authors": [
+          "Albert Camus"
+        ],
+        "source": "fourchan-lit-top-100-2017"
+      },
+      {
+        "id": 5866,
+        "title": "60 Stories",
+        "authors": [
+          "Donald Barthelme"
+        ],
+        "source": "fourchan-lit-top-100-2017"
+      },
+      {
+        "id": 5867,
+        "title": "Neuromancer",
+        "authors": [
+          "William Gibson"
+        ],
+        "source": "fourchan-lit-top-100-2017"
+      },
+      {
+        "id": 5868,
+        "title": "Cryptonomicon",
+        "authors": [
+          "Neal Stephenson"
+        ],
+        "source": "fourchan-lit-top-100-2017"
+      },
+      {
+        "id": 5869,
+        "title": "The Temple of the Golden Pavillion",
+        "authors": [
+          "Yukio Mishima"
+        ],
+        "source": "fourchan-lit-top-100-2017"
+      },
+      {
+        "id": 5870,
+        "title": "Bottom's Dream",
+        "authors": [
+          "Arno Schmidt"
+        ],
+        "source": "fourchan-lit-top-100-2016"
+      },
+      {
+        "id": 5871,
+        "title": "Ada, or Ardor",
+        "authors": [
+          "Vladimir Nabokov"
+        ],
+        "source": "fourchan-lit-top-100-2016"
+      },
+      {
+        "id": 5872,
+        "title": "Franny & Zooey",
+        "authors": [
+          "J.D. Salinger"
+        ],
+        "source": "fourchan-lit-top-100-2016"
+      },
+      {
+        "id": 5873,
+        "title": "The Sirens of Titan",
+        "authors": [
+          "Kurt Vonnegut"
+        ],
+        "source": "fourchan-lit-top-100-2015"
+      },
+      {
+        "id": 5874,
+        "title": "The Ego & His Own",
+        "authors": [
+          "Stirner"
+        ],
+        "source": "fourchan-lit-top-100-2015"
+      },
+      {
+        "id": 5875,
+        "title": "Cannery Row",
+        "authors": [
+          "John Steinbeck"
+        ],
+        "source": "fourchan-lit-top-100-2015"
+      },
+      {
+        "id": 5876,
+        "title": "Fear and Loathing in Las Vegas",
+        "authors": [
+          "Hunter S. Thompson"
+        ],
+        "source": "fourchan-lit-top-100-2014"
+      },
+      {
+        "id": 5877,
+        "title": "Dandelion Wine",
+        "authors": [
+          "Ray Bradbury"
+        ],
+        "source": "fourchan-lit-top-100-2014"
+      },
+      {
+        "id": 5878,
+        "title": "Valis",
+        "authors": [
+          "Philip K. Dick"
+        ],
+        "source": "fourchan-lit-top-100-2014"
+      },
+      {
+        "id": 5879,
+        "title": "Fight Club",
+        "authors": [
+          "Chuck Palahniuk"
+        ],
+        "source": "fourchan-lit-top-100-2014"
+      },
+      {
+        "id": 5880,
+        "title": "Illuminatus!",
+        "authors": [
+          "Robert Shea",
+          "Robert Anton Wilson"
+        ],
+        "source": "fourchan-lit-top-100-2014"
+      },
+      {
+        "id": 5881,
+        "title": "The Good Earth",
+        "authors": [
+          "Pearl S. Buck"
+        ],
+        "source": "fourchan-lit-top-100-2014"
+      },
+      {
+        "id": 5882,
+        "title": "Pale Horse, Pale Rider",
+        "authors": [
+          "Katherine Anne Porter"
+        ],
+        "source": "fourchan-lit-top-100-2023"
+      },
+      {
+        "id": 5883,
+        "title": "Loser",
+        "authors": [
+          "Jerry Spinelli"
+        ],
+        "source": "fourchan-lit-top-100-2023"
+      },
+      {
+        "id": 5884,
+        "title": "The Studs Lonigan Trilogy",
+        "authors": [
+          "James T. Farrell"
+        ],
+        "source": "modern-library-board-100-novels-1998"
+      },
+      {
+        "id": 5885,
+        "title": "A Dance To The Music Of Time (Series)",
+        "authors": [
+          "Anthony Powell"
+        ],
+        "source": "modern-library-board-100-novels-1998"
+      },
+      {
+        "id": 5886,
+        "title": "Outline",
+        "authors": [
+          "Rachel Cusk"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5887,
+        "title": "Say Nothing",
+        "authors": [
+          "Patrick Radden Keefe"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5888,
+        "title": "Erasure",
+        "authors": [
+          "Percival Everett"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5889,
+        "title": "Evicted",
+        "authors": [
+          "Matthew Desmond"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5890,
+        "title": "Behind the Beautiful Forevers",
+        "authors": [
+          "Katherine Boo"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5891,
+        "title": "Hateship, Friendship, Courtship, Loveship, Marriage",
+        "authors": [
+          "Alice Munro"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5892,
+        "title": "The Overstory",
+        "authors": [
+          "Richard Powers"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5893,
+        "title": "Random Family",
+        "authors": [
+          "Adrian Nicole LeBlanc"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5894,
+        "title": "Sing, Unburied, Sing",
+        "authors": [
+          "Jesmyn Ward"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5895,
+        "title": "Salvage the Bones",
+        "authors": [
+          "Jesmyn Ward"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5896,
+        "title": "Citizen",
+        "authors": [
+          "Claudia Rankine"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5897,
+        "title": "Fun Home",
+        "authors": [
+          "Alison Bechdel"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5898,
+        "title": "Between the World and Me",
+        "authors": [
+          "Ta-Nehisi Coates"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5899,
+        "title": "H Is for Hawk",
+        "authors": [
+          "Helen Macdonald"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5900,
+        "title": "Postwar",
+        "authors": [
+          "Tony Judt"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5901,
+        "title": "The Fifth Season",
+        "authors": [
+          "N.K. Jemisin"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5902,
+        "title": "The Argonauts",
+        "authors": [
+          "Maggie Nelson"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5903,
+        "title": "A Mercy",
+        "authors": [
+          "Toni Morrison"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5904,
+        "title": "Persepolis",
+        "authors": [
+          "Marjane Satrapi"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5905,
+        "title": "Trust",
+        "authors": [
+          "Hernan Diaz"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5906,
+        "title": "Life After Life",
+        "authors": [
+          "Kate Atkinson"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5907,
+        "title": "Train Dreams",
+        "authors": [
+          "Denis Johnson"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5908,
+        "title": "The Flamethrowers",
+        "authors": [
+          "Rachel Kushner"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5909,
+        "title": "Stay True",
+        "authors": [
+          "Hua Hsu"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5910,
+        "title": "Heavy",
+        "authors": [
+          "Kiese Laymon"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5911,
+        "title": "10:04",
+        "authors": [
+          "Ben Lerner"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5912,
+        "title": "Veronica",
+        "authors": [
+          "Mary Gaitskill"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5913,
+        "title": "The Great Believers",
+        "authors": [
+          "Rebecca Makkai"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5914,
+        "title": "The Plot Against America",
+        "authors": [
+          "Philip Roth"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5915,
+        "title": "We the Animals",
+        "authors": [
+          "Justin Torres"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5916,
+        "title": "Far from the Tree",
+        "authors": [
+          "Andrew Solomon"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5917,
+        "title": "The Friend",
+        "authors": [
+          "Sigrid Nunez"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5918,
+        "title": "The New Jim Crow",
+        "authors": [
+          "Michelle Alexander"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5919,
+        "title": "All Aunt Hagar's Children",
+        "authors": [
+          "Edward P. Jones"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5920,
+        "title": "The Copenhagen Trilogy",
+        "authors": [
+          "Tove Ditlevsen"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5921,
+        "title": "Olive Kitteridge",
+        "authors": [
+          "Elizabeth Strout"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5922,
+        "title": "Exit West",
+        "authors": [
+          "Mohsin Hamid"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5923,
+        "title": "Tomorrow, and Tomorrow, and Tomorrow",
+        "authors": [
+          "Gabrielle Zevin"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5924,
+        "title": "An American Marriage",
+        "authors": [
+          "Tayari Jones"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5925,
+        "title": "Pulphead",
+        "authors": [
+          "John Jeremiah Sullivan"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5926,
+        "title": "When We Cease to Understand the World",
+        "authors": [
+          "Benjamín Labatut"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5927,
+        "title": "Pastoralia",
+        "authors": [
+          "George Saunders"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5928,
+        "title": "Frederick Douglass",
+        "authors": [
+          "David W. Blight"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5929,
+        "title": "Detransition, Baby",
+        "authors": [
+          "Torrey Peters"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5930,
+        "title": "The Human Stain",
+        "authors": [
+          "Philip Roth"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5931,
+        "title": "The Days of Abandonment",
+        "authors": [
+          "Elena Ferrante"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5932,
+        "title": "On Beauty",
+        "authors": [
+          "Zadie Smith"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5933,
+        "title": "Wayward Lives, Beautiful Experiments",
+        "authors": [
+          "Saidiya Hartman"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5934,
+        "title": "Men We Reaped",
+        "authors": [
+          "Jesmyn Ward"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5935,
+        "title": "Bel Canto",
+        "authors": [
+          "Ann Patchett"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5936,
+        "title": "Tree of Smoke",
+        "authors": [
+          "Denis Johnson"
+        ],
+        "source": "new-york-times-best-books-21st-century-2024"
+      },
+      {
+        "id": 5937,
+        "title": "Harry Potter and the Goblet of Fire",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5938,
+        "title": "Captain Corelli's Mandolin",
+        "authors": [
+          "Louis de Bernières"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5939,
+        "title": "The Story of Tracy Beaker",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5940,
+        "title": "Charlie and the Chocolate Factory",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5941,
+        "title": "A Town Like Alice",
+        "authors": [
+          "Nevil Shute"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5942,
+        "title": "Goodnight Mister Tom",
+        "authors": [
+          "Michelle Magorian"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5943,
+        "title": "The Shell Seekers",
+        "authors": [
+          "Rosamunde Pilcher"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5944,
+        "title": "The BFG",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5945,
+        "title": "Swallows and Amazons",
+        "authors": [
+          "Arthur Ransome"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5946,
+        "title": "Noughts & Crosses",
+        "authors": [
+          "Malorie Blackman"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5947,
+        "title": "Memoirs of a Geisha",
+        "authors": [
+          "Arthur Golden"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5948,
+        "title": "The Thorn Birds",
+        "authors": [
+          "Colleen McCullough"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5949,
+        "title": "Mort",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5950,
+        "title": "The Magic Faraway Tree",
+        "authors": [
+          "Enid Blyton"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5951,
+        "title": "Guards! Guards!",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5952,
+        "title": "The Ragged-Trousered Philanthropists",
+        "authors": [
+          "Robert Tressell"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5953,
+        "title": "Night Watch",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5954,
+        "title": "Matilda",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5955,
+        "title": "Bridget Jones's Diary",
+        "authors": [
+          "Helen Fielding"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5956,
+        "title": "Double Act",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5957,
+        "title": "The Twits",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5958,
+        "title": "Holes",
+        "authors": [
+          "Louis Sachar"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5959,
+        "title": "Vicky Angel",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5960,
+        "title": "Magician",
+        "authors": [
+          "Raymond E. Feist"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5961,
+        "title": "The Clan of the Cave Bear",
+        "authors": [
+          "Jean M. Auel"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5962,
+        "title": "The Colour of Magic",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5963,
+        "title": "Katherine",
+        "authors": [
+          "Anya Seton"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5964,
+        "title": "Kane and Abel",
+        "authors": [
+          "Jeffrey Archer"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5965,
+        "title": "Girls in Love",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5966,
+        "title": "The Princess Diaries",
+        "authors": [
+          "Meg Cabot"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5967,
+        "title": "Small Gods",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5968,
+        "title": "The Beach",
+        "authors": [
+          "Alex Garland"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5969,
+        "title": "Point Blanc",
+        "authors": [
+          "Anthony Horowitz"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5970,
+        "title": "Stormbreaker",
+        "authors": [
+          "Anthony Horowitz"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5971,
+        "title": "The Day of the Jackal",
+        "authors": [
+          "Frederick Forsyth"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5972,
+        "title": "The Illustrated Mum",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5973,
+        "title": "The Secret Diary of Adrian Mole, Aged 13¾",
+        "authors": [
+          "Sue Townsend"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5974,
+        "title": "The Cruel Sea",
+        "authors": [
+          "Nicholas Monsarrat"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5975,
+        "title": "The Dare Game",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5976,
+        "title": "Bad Girls",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5977,
+        "title": "Lola Rose",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5978,
+        "title": "Reaper Man",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5979,
+        "title": "Angus, Thongs and Full-Frontal Snogging",
+        "authors": [
+          "Louise Rennison"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5980,
+        "title": "The Hound of the Baskervilles",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5981,
+        "title": "Possession: A Romance",
+        "authors": [
+          "AS Byatt"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5982,
+        "title": "Danny, the Champion of the World",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5983,
+        "title": "George's Marvellous Medicine",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5984,
+        "title": "Wyrd Sisters",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5985,
+        "title": "Hogfather",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5986,
+        "title": "Girls in Tears",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5987,
+        "title": "Sleepovers",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5988,
+        "title": "Behind the Scenes at the Museum",
+        "authors": [
+          "Kate Atkinson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5989,
+        "title": "High Fidelity",
+        "authors": [
+          "Nick Hornby"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5990,
+        "title": "James and the Giant Peach",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5991,
+        "title": "The Green Mile",
+        "authors": [
+          "Stephen King"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5992,
+        "title": "Papillon",
+        "authors": [
+          "Henri Charrière"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5993,
+        "title": "Men at Arms",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5994,
+        "title": "Skeleton Key",
+        "authors": [
+          "Anthony Horowitz"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5995,
+        "title": "Soul Music",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5996,
+        "title": "Thief of Time",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5997,
+        "title": "The Fifth Elephant",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5998,
+        "title": "Secrets",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 5999,
+        "title": "The Silver Sword",
+        "authors": [
+          "Ian Serraillier"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6000,
+        "title": "Cross Stitch",
+        "authors": [
+          "Diana Gabaldon"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6001,
+        "title": "River God",
+        "authors": [
+          "Wilbur Smith"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6002,
+        "title": "The Shipping News",
+        "authors": [
+          "E. Annie Proulx"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6003,
+        "title": "The World According to Garp",
+        "authors": [
+          "John Irving"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6004,
+        "title": "Girls Out Late",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6005,
+        "title": "The Far Pavilions",
+        "authors": [
+          "M. M. Kaye"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6006,
+        "title": "They Used to Play on Grass",
+        "authors": [
+          "Terry Venables",
+          "Gordon Williams"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6007,
+        "title": "Sophie's World",
+        "authors": [
+          "Jostein Gaarder"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6008,
+        "title": "Dustbin Baby",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6009,
+        "title": "Fantastic Mr Fox",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6010,
+        "title": "Jonathan Livingston Seagull",
+        "authors": [
+          "Richard Bach"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6011,
+        "title": "The Suitcase Kid",
+        "authors": [
+          "Jacqueline Wilson"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6012,
+        "title": "The Power of One",
+        "authors": [
+          "Bryce Courtenay"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6013,
+        "title": "Goosebumps",
+        "authors": [
+          "R. L. Stine"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6014,
+        "title": "Man and Boy",
+        "authors": [
+          "Tony Parsons"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6015,
+        "title": "The Truth",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6016,
+        "title": "The Horse Whisperer",
+        "authors": [
+          "Nicholas Evans"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6017,
+        "title": "Witches Abroad",
+        "authors": [
+          "Terry Pratchett"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6018,
+        "title": "The Very Hungry Caterpillar",
+        "authors": [
+          "Eric Carle"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6019,
+        "title": "Flowers in the Attic",
+        "authors": [
+          "V. C. Andrews"
+        ],
+        "source": "bbc-big-read-2003"
+      },
+      {
+        "id": 6020,
+        "title": "The Blue Lotus",
+        "authors": [
+          "Hergé"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6021,
+        "title": "Asterix the Gaul",
+        "authors": [
+          "René Goscinny",
+          "Albert Uderzo"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6022,
+        "title": "Three Essays on the Theory of Sexuality",
+        "authors": [
+          "Sigmund Freud"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6023,
+        "title": "The AbyssZeno of Bruges",
+        "authors": [
+          "Marguerite Yourcenar"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6024,
+        "title": "The Horseman on the Roof",
+        "authors": [
+          "Jean Giono"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6025,
+        "title": "Belle du Seigneur",
+        "authors": [
+          "Albert Cohen"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6026,
+        "title": "Zazie in the Metro",
+        "authors": [
+          "Raymond Queneau"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6027,
+        "title": "Confusion of Feelings",
+        "authors": [
+          "Stefan Zweig"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6028,
+        "title": "Bonjour Tristesse",
+        "authors": [
+          "Françoise Sagan"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6029,
+        "title": "Le Silence de la mer",
+        "authors": [
+          "Vercors"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6030,
+        "title": "Under the Sun of Satan",
+        "authors": [
+          "Georges Bernanos"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6031,
+        "title": "The Joke",
+        "authors": [
+          "Milan Kundera"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6032,
+        "title": "Contempt/A Ghost at Noon",
+        "authors": [
+          "Alberto Moravia"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6033,
+        "title": "Aurélien",
+        "authors": [
+          "Louis Aragon"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6034,
+        "title": "The Satin Slipper",
+        "authors": [
+          "Paul Claudel"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6035,
+        "title": "The Resistible Rise of Arturo Ui",
+        "authors": [
+          "Bertolt Brecht"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6036,
+        "title": "Friday",
+        "authors": [
+          "Michel Tournier"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6037,
+        "title": "If This Is a Man Se questo è un uomo, Survival in Auschwitz",
+        "authors": [
+          "Primo Levi"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6038,
+        "title": "The Tendrils of the Vine",
+        "authors": [
+          "Colette"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6039,
+        "title": "Capital of Pain",
+        "authors": [
+          "Paul Éluard"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6040,
+        "title": "Martin Eden",
+        "authors": [
+          "Jack London"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6041,
+        "title": "The Ballad of the Salty Sea",
+        "authors": [
+          "Hugo Pratt"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6042,
+        "title": "Writing Degree Zero",
+        "authors": [
+          "Roland Barthes"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6043,
+        "title": "The Lost Honour of Katharina Blum",
+        "authors": [
+          "Heinrich Böll"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6044,
+        "title": "The Order of Things",
+        "authors": [
+          "Michel Foucault"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6045,
+        "title": "The Wonderful Adventures of Nils",
+        "authors": [
+          "Selma Lagerlöf"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6046,
+        "title": "The Interrogation",
+        "authors": [
+          "J. M. G. Le Clézio"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6047,
+        "title": "Journal, 1887–1910",
+        "authors": [
+          "Jules Renard"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6048,
+        "title": "Écrits",
+        "authors": [
+          "Jacques Lacan"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6049,
+        "title": "The Theatre and Its Double",
+        "authors": [
+          "Antonin Artaud"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6050,
+        "title": "Manhattan Transfer",
+        "authors": [
+          "John Dos Passos"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6051,
+        "title": "Moravagine",
+        "authors": [
+          "Blaise Cendrars"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6052,
+        "title": "The General of the Dead Army",
+        "authors": [
+          "Ismail Kadare"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6053,
+        "title": "The Strange Case of Peter the Lett",
+        "authors": [
+          "Georges Simenon"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6054,
+        "title": "Furor and Mystery",
+        "authors": [
+          "René Char"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6055,
+        "title": "No Orchids For Miss Blandish",
+        "authors": [
+          "James Hadley Chase"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6056,
+        "title": "Blake and Mortimer",
+        "authors": [
+          "Edgar P. Jacobs"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6057,
+        "title": "The Notebooks of Malte Laurids Brigge",
+        "authors": [
+          "Rainer Maria Rilke"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6058,
+        "title": "The Origins of TotalitarianismThe Burden of Our Time",
+        "authors": [
+          "Hannah Arendt"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6059,
+        "title": "The Rosy Crucifixion",
+        "authors": [
+          "Henry Miller"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6060,
+        "title": "The Big Sleep",
+        "authors": [
+          "Raymond Chandler"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6061,
+        "title": "Amers",
+        "authors": [
+          "Saint-John Perse"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      },
+      {
+        "id": 6062,
+        "title": "GastonGomer Goof",
+        "authors": [
+          "André Franquin"
+        ],
+        "source": "le-monde-fnac-100-books-century-1999"
+      }
+    ],
+    "created_people": [
+      {
+        "id": 3784,
+        "name": "Alexander Theroux"
+      },
+      {
+        "id": 3785,
+        "name": "Fernanda Melchor"
+      },
+      {
+        "id": 3786,
+        "name": "László Krasznahorkai"
+      },
+      {
+        "id": 3787,
+        "name": "Helen DeWitt"
+      },
+      {
+        "id": 3788,
+        "name": "Alan Moore"
+      },
+      {
+        "id": 3789,
+        "name": "Meša Selimović"
+      },
+      {
+        "id": 3790,
+        "name": "Magda Szabó"
+      },
+      {
+        "id": 3791,
+        "name": "Raymond Feist"
+      },
+      {
+        "id": 3792,
+        "name": "Susan Cooper"
+      },
+      {
+        "id": 3793,
+        "name": "Anne Bishop"
+      },
+      {
+        "id": 3794,
+        "name": "Jack Vance"
+      },
+      {
+        "id": 3795,
+        "name": "Ramond Feist"
+      },
+      {
+        "id": 3796,
+        "name": "Sergei Lukyanenko"
+      },
+      {
+        "id": 3797,
+        "name": "LE Modesitt Jr"
+      },
+      {
+        "id": 3798,
+        "name": "Michelle West"
+      },
+      {
+        "id": 3799,
+        "name": "Madeleine L'Engle"
+      },
+      {
+        "id": 3800,
+        "name": "Jonathon Stroud"
+      },
+      {
+        "id": 3801,
+        "name": "Melanie Rawn"
+      },
+      {
+        "id": 3802,
+        "name": "Joel Rosenberg"
+      },
+      {
+        "id": 3803,
+        "name": "Michael Swanwick"
+      },
+      {
+        "id": 3804,
+        "name": "Tim Powers"
+      },
+      {
+        "id": 3805,
+        "name": "Rachel Aaron"
+      },
+      {
+        "id": 3806,
+        "name": "Daniel Polanksy"
+      },
+      {
+        "id": 3807,
+        "name": "Robert Holdstock"
+      },
+      {
+        "id": 3808,
+        "name": "David"
+      },
+      {
+        "id": 3809,
+        "name": "Leigh Eddings"
+      },
+      {
+        "id": 3810,
+        "name": "Terry Goodkind"
+      },
+      {
+        "id": 3811,
+        "name": "Emma Bull"
+      },
+      {
+        "id": 3812,
+        "name": "Kevin Hearne"
+      },
+      {
+        "id": 3813,
+        "name": "Daniel Polansky"
+      },
+      {
+        "id": 3814,
+        "name": "Catherynne M. Valente"
+      },
+      {
+        "id": 3815,
+        "name": "Katharine Kerr"
+      },
+      {
+        "id": 3816,
+        "name": "Timothy Zahn"
+      },
+      {
+        "id": 3817,
+        "name": "Miles Cameron"
+      },
+      {
+        "id": 3818,
+        "name": "Sebastian de Castell"
+      },
+      {
+        "id": 3819,
+        "name": "KD Edwards"
+      },
+      {
+        "id": 3820,
+        "name": "Courtney Schafer"
+      },
+      {
+        "id": 3821,
+        "name": "Eliezer Yudkowsky"
+      },
+      {
+        "id": 3822,
+        "name": "Robert Jackson Bennet"
+      },
+      {
+        "id": 3823,
+        "name": "Stephen Donaldson"
+      },
+      {
+        "id": 3824,
+        "name": "Rebecca Roanhorse"
+      },
+      {
+        "id": 3825,
+        "name": "Kate Elliott"
+      },
+      {
+        "id": 3826,
+        "name": "Walter Moers"
+      },
+      {
+        "id": 3827,
+        "name": "Micaiah Johnson"
+      },
+      {
+        "id": 3828,
+        "name": "Marion Zimmer Bradley"
+      },
+      {
+        "id": 3829,
+        "name": "Andrea Stewart"
+      },
+      {
+        "id": 3830,
+        "name": "Barry Hughart"
+      },
+      {
+        "id": 3831,
+        "name": "Drew Hayes"
+      },
+      {
+        "id": 3832,
+        "name": "Ed McDonald"
+      },
+      {
+        "id": 3833,
+        "name": "John Flanagan"
+      },
+      {
+        "id": 3834,
+        "name": "Rob J. Hayes"
+      },
+      {
+        "id": 3835,
+        "name": "Patrick Ness"
+      },
+      {
+        "id": 3836,
+        "name": "Neal Shusterman"
+      },
+      {
+        "id": 3837,
+        "name": "Rivers Solomon"
+      },
+      {
+        "id": 3838,
+        "name": "Mark Z. Danielewski"
+      },
+      {
+        "id": 3839,
+        "name": "Richard Swan"
+      },
+      {
+        "id": 3840,
+        "name": "Rebecca Yarros"
+      },
+      {
+        "id": 3841,
+        "name": "Heather Fawcett"
+      },
+      {
+        "id": 3842,
+        "name": "Shannon Chakraborty"
+      },
+      {
+        "id": 3843,
+        "name": "CasualFarmer"
+      },
+      {
+        "id": 3844,
+        "name": "Michael Crichton"
+      },
+      {
+        "id": 3845,
+        "name": "Hannah Kaner"
+      },
+      {
+        "id": 3846,
+        "name": "Mike Shackle"
+      },
+      {
+        "id": 3847,
+        "name": "Mary Soon Lee"
+      },
+      {
+        "id": 3848,
+        "name": "C. S. E. Cooney"
+      },
+      {
+        "id": 3849,
+        "name": "Paul Kearney"
+      },
+      {
+        "id": 3850,
+        "name": "Moniquill Blackgoose"
+      },
+      {
+        "id": 3851,
+        "name": "Paul Stewart, Chris Riddell"
+      },
+      {
+        "id": 3852,
+        "name": "Jen Williams"
+      },
+      {
+        "id": 3853,
+        "name": "J.M. Clarke"
+      },
+      {
+        "id": 3854,
+        "name": "Michael R. Fletcher"
+      },
+      {
+        "id": 3855,
+        "name": "Shirtaloon"
+      },
+      {
+        "id": 3856,
+        "name": "Jacqueline Harpman"
+      },
+      {
+        "id": 3857,
+        "name": "Larry Correia"
+      },
+      {
+        "id": 3858,
+        "name": "Diana Duane"
+      },
+      {
+        "id": 3859,
+        "name": "John Crowley"
+      },
+      {
+        "id": 3860,
+        "name": "Tananarive Due"
+      },
+      {
+        "id": 3861,
+        "name": "Rachel Neumeier"
+      },
+      {
+        "id": 3862,
+        "name": "Lynn Flewelling"
+      },
+      {
+        "id": 3863,
+        "name": "Mo Xiang Tong Xiu"
+      },
+      {
+        "id": 3864,
+        "name": "Bradley P. Beaulieu"
+      },
+      {
+        "id": 3865,
+        "name": "Nana Kwame Adjei-Brenyah"
+      },
+      {
+        "id": 3866,
+        "name": "CS Pacat"
+      },
+      {
+        "id": 3867,
+        "name": "Hitler"
+      },
+      {
+        "id": 3868,
+        "name": "Woodley et al"
+      },
+      {
+        "id": 3869,
+        "name": "Stein"
+      },
+      {
+        "id": 3870,
+        "name": "Thomas Bernhard"
+      },
+      {
+        "id": 3871,
+        "name": "Emil Cioran"
+      },
+      {
+        "id": 3872,
+        "name": "Georges Bataille"
+      },
+      {
+        "id": 3873,
+        "name": "Mano"
+      },
+      {
+        "id": 3874,
+        "name": "Bronze Age Pervert"
+      },
+      {
+        "id": 3875,
+        "name": "James Merrill"
+      },
+      {
+        "id": 3876,
+        "name": "René Guénon"
+      },
+      {
+        "id": 3877,
+        "name": "Eco"
+      },
+      {
+        "id": 3878,
+        "name": "Patrick White"
+      },
+      {
+        "id": 3879,
+        "name": "Nassim Nicholas Taleb"
+      },
+      {
+        "id": 3880,
+        "name": "Robin DiAngelo"
+      },
+      {
+        "id": 3881,
+        "name": "Nick Land"
+      },
+      {
+        "id": 3882,
+        "name": "Arno Schmidt"
+      },
+      {
+        "id": 3883,
+        "name": "Stirner"
+      },
+      {
+        "id": 3884,
+        "name": "Hunter S. Thompson"
+      },
+      {
+        "id": 3885,
+        "name": "Chuck Palahniuk"
+      },
+      {
+        "id": 3886,
+        "name": "Robert Shea"
+      },
+      {
+        "id": 3887,
+        "name": "Robert Anton Wilson"
+      },
+      {
+        "id": 3888,
+        "name": "Pearl S. Buck"
+      },
+      {
+        "id": 3889,
+        "name": "Jerry Spinelli"
+      },
+      {
+        "id": 3890,
+        "name": "Rachel Cusk"
+      },
+      {
+        "id": 3891,
+        "name": "Percival Everett"
+      },
+      {
+        "id": 3892,
+        "name": "Matthew Desmond"
+      },
+      {
+        "id": 3893,
+        "name": "Katherine Boo"
+      },
+      {
+        "id": 3894,
+        "name": "Richard Powers"
+      },
+      {
+        "id": 3895,
+        "name": "Adrian Nicole LeBlanc"
+      },
+      {
+        "id": 3896,
+        "name": "Jesmyn Ward"
+      },
+      {
+        "id": 3897,
+        "name": "Alison Bechdel"
+      },
+      {
+        "id": 3898,
+        "name": "Helen Macdonald"
+      },
+      {
+        "id": 3899,
+        "name": "Marjane Satrapi"
+      },
+      {
+        "id": 3900,
+        "name": "Hernan Diaz"
+      },
+      {
+        "id": 3901,
+        "name": "Kate Atkinson"
+      },
+      {
+        "id": 3902,
+        "name": "Rachel Kushner"
+      },
+      {
+        "id": 3903,
+        "name": "Hua Hsu"
+      },
+      {
+        "id": 3904,
+        "name": "Kiese Laymon"
+      },
+      {
+        "id": 3905,
+        "name": "Ben Lerner"
+      },
+      {
+        "id": 3906,
+        "name": "Rebecca Makkai"
+      },
+      {
+        "id": 3907,
+        "name": "Justin Torres"
+      },
+      {
+        "id": 3908,
+        "name": "Andrew Solomon"
+      },
+      {
+        "id": 3909,
+        "name": "Sigrid Nunez"
+      },
+      {
+        "id": 3910,
+        "name": "Michelle Alexander"
+      },
+      {
+        "id": 3911,
+        "name": "Tove Ditlevsen"
+      },
+      {
+        "id": 3912,
+        "name": "Elizabeth Strout"
+      },
+      {
+        "id": 3913,
+        "name": "Mohsin Hamid"
+      },
+      {
+        "id": 3914,
+        "name": "Gabrielle Zevin"
+      },
+      {
+        "id": 3915,
+        "name": "Tayari Jones"
+      },
+      {
+        "id": 3916,
+        "name": "John Jeremiah Sullivan"
+      },
+      {
+        "id": 3917,
+        "name": "Benjamín Labatut"
+      },
+      {
+        "id": 3918,
+        "name": "David W. Blight"
+      },
+      {
+        "id": 3919,
+        "name": "Torrey Peters"
+      },
+      {
+        "id": 3920,
+        "name": "Saidiya Hartman"
+      },
+      {
+        "id": 3921,
+        "name": "Ann Patchett"
+      },
+      {
+        "id": 3922,
+        "name": "Louis de Bernières"
+      },
+      {
+        "id": 3923,
+        "name": "Jacqueline Wilson"
+      },
+      {
+        "id": 3924,
+        "name": "Nevil Shute"
+      },
+      {
+        "id": 3925,
+        "name": "Michelle Magorian"
+      },
+      {
+        "id": 3926,
+        "name": "Rosamunde Pilcher"
+      },
+      {
+        "id": 3927,
+        "name": "Arthur Ransome"
+      },
+      {
+        "id": 3928,
+        "name": "Malorie Blackman"
+      },
+      {
+        "id": 3929,
+        "name": "Arthur Golden"
+      },
+      {
+        "id": 3930,
+        "name": "Enid Blyton"
+      },
+      {
+        "id": 3931,
+        "name": "Robert Tressell"
+      },
+      {
+        "id": 3932,
+        "name": "Helen Fielding"
+      },
+      {
+        "id": 3933,
+        "name": "Louis Sachar"
+      },
+      {
+        "id": 3934,
+        "name": "Jean M. Auel"
+      },
+      {
+        "id": 3935,
+        "name": "Anya Seton"
+      },
+      {
+        "id": 3936,
+        "name": "Jeffrey Archer"
+      },
+      {
+        "id": 3937,
+        "name": "Meg Cabot"
+      },
+      {
+        "id": 3938,
+        "name": "Alex Garland"
+      },
+      {
+        "id": 3939,
+        "name": "Anthony Horowitz"
+      },
+      {
+        "id": 3940,
+        "name": "Frederick Forsyth"
+      },
+      {
+        "id": 3941,
+        "name": "Sue Townsend"
+      },
+      {
+        "id": 3942,
+        "name": "Nicholas Monsarrat"
+      },
+      {
+        "id": 3943,
+        "name": "Louise Rennison"
+      },
+      {
+        "id": 3944,
+        "name": "Nick Hornby"
+      },
+      {
+        "id": 3945,
+        "name": "Henri Charrière"
+      },
+      {
+        "id": 3946,
+        "name": "Ian Serraillier"
+      },
+      {
+        "id": 3947,
+        "name": "Diana Gabaldon"
+      },
+      {
+        "id": 3948,
+        "name": "Wilbur Smith"
+      },
+      {
+        "id": 3949,
+        "name": "E. Annie Proulx"
+      },
+      {
+        "id": 3950,
+        "name": "M. M. Kaye"
+      },
+      {
+        "id": 3951,
+        "name": "Terry Venables"
+      },
+      {
+        "id": 3952,
+        "name": "Gordon Williams"
+      },
+      {
+        "id": 3953,
+        "name": "Jostein Gaarder"
+      },
+      {
+        "id": 3954,
+        "name": "Richard Bach"
+      },
+      {
+        "id": 3955,
+        "name": "Bryce Courtenay"
+      },
+      {
+        "id": 3956,
+        "name": "R. L. Stine"
+      },
+      {
+        "id": 3957,
+        "name": "Tony Parsons"
+      },
+      {
+        "id": 3958,
+        "name": "Nicholas Evans"
+      },
+      {
+        "id": 3959,
+        "name": "Eric Carle"
+      },
+      {
+        "id": 3960,
+        "name": "V. C. Andrews"
+      },
+      {
+        "id": 3961,
+        "name": "Hergé"
+      },
+      {
+        "id": 3962,
+        "name": "René Goscinny"
+      },
+      {
+        "id": 3963,
+        "name": "Albert Uderzo"
+      },
+      {
+        "id": 3964,
+        "name": "Jean Giono"
+      },
+      {
+        "id": 3965,
+        "name": "Albert Cohen"
+      },
+      {
+        "id": 3966,
+        "name": "Françoise Sagan"
+      },
+      {
+        "id": 3967,
+        "name": "Vercors"
+      },
+      {
+        "id": 3968,
+        "name": "Louis Aragon"
+      },
+      {
+        "id": 3969,
+        "name": "Paul Claudel"
+      },
+      {
+        "id": 3970,
+        "name": "Paul Éluard"
+      },
+      {
+        "id": 3971,
+        "name": "Hugo Pratt"
+      },
+      {
+        "id": 3972,
+        "name": "Selma Lagerlöf"
+      },
+      {
+        "id": 3973,
+        "name": "Jules Renard"
+      },
+      {
+        "id": 3974,
+        "name": "Jacques Lacan"
+      },
+      {
+        "id": 3975,
+        "name": "Antonin Artaud"
+      },
+      {
+        "id": 3976,
+        "name": "Blaise Cendrars"
+      },
+      {
+        "id": 3977,
+        "name": "Ismail Kadare"
+      },
+      {
+        "id": 3978,
+        "name": "Georges Simenon"
+      },
+      {
+        "id": 3979,
+        "name": "René Char"
+      },
+      {
+        "id": 3980,
+        "name": "James Hadley Chase"
+      },
+      {
+        "id": 3981,
+        "name": "Edgar P. Jacobs"
+      },
+      {
+        "id": 3982,
+        "name": "Raymond Chandler"
+      },
+      {
+        "id": 3983,
+        "name": "Saint-John Perse"
+      },
+      {
+        "id": 3984,
+        "name": "André Franquin"
+      }
+    ]
+  },
+  "source_snapshots": {
+    "truelit-2019-2025.xlsx": {
+      "bytes": 44304,
+      "sha256": "9bd939507a653fe6e3c6c465390d31f55f9eb1eecd71cb176505cee10c4c9a89"
+    },
+    "rfantasy-2014-mirror.html": {
+      "bytes": 135038,
+      "sha256": "3aba24cc5020c1608b750b9534893fd9db729360b2df88ffbb05ba5671aa2783"
+    },
+    "rfantasy-2015.xlsx": {
+      "bytes": 24644,
+      "sha256": "46204f693566f7fad47617b2e4268b93db128ee310603870c5b1f86090ff6957"
+    },
+    "rfantasy-2019.xlsx": {
+      "bytes": 261114,
+      "sha256": "7055f93391ec3305a8671b061e92da23cf8fe6b123f5e8422a029019cf7a051a"
+    },
+    "rfantasy-2021.xlsx": {
+      "bytes": 351500,
+      "sha256": "e3b90a10332f1b531521e3ff4bdbc838560704ce740f6bfac5cc1277d884387c"
+    },
+    "rfantasy-2025.xlsx": {
+      "bytes": 178818,
+      "sha256": "f7b28fdb2f71618005db81be58ce923ab5b7462477edb7d1105b94d94d24cfb3"
+    },
+    "lit-top100-wiki.html": {
+      "bytes": 178683,
+      "sha256": "b31f478d65838afafe4e7489177fb16e3b2c542445feb0da3af28473a12676ef"
+    },
+    "lit-2014c.jpg": {
+      "bytes": 1294022,
+      "sha256": "228be5e5b72b80a6822878be74d3dcf66b25a8ddbd86918bbec7674dde7e0550"
+    },
+    "lit24-0": {
+      "bytes": 1883276,
+      "sha256": "841523c409a1cfe07d58929fbfc9336dc5b2a35c05a72538265db129b1366d26"
+    },
+    "modern-official.html": {
+      "bytes": 457340,
+      "sha256": "0847618c9ea7bbcde8d3cf97cef1c7faec6ca1d3c6a1b90b2d3902ba3fce7d6b"
+    },
+    "nyt-100.pdf": {
+      "bytes": 519909,
+      "sha256": "4997ba2d7adfa794c6afe27331e648ef8282c552a405be0914b6c59b5e9cfee3"
+    },
+    "bbc.html": {
+      "bytes": 165918,
+      "sha256": "1c75b90dcd9d779feccaf82dea83fa752a35073a1deb798090aae5a2689f4fe0"
+    },
+    "lemonde.html": {
+      "bytes": 191318,
+      "sha256": "83bbb15f8658586e5dae06d21e1035ea78662d225ea51c2a10c1110cff4fbcef"
+    }
+  }
+}

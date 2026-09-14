@@ -1,0 +1,1281 @@
+{
+  "target": "philosophy-books-all-time",
+  "rule": "Unreviewed leads are not counted or imported as consulted evidence.",
+  "lead_count": 159,
+  "existing_overlap_count": 159,
+  "new_unreviewed_count": 0,
+  "rows": [
+    {
+      "lead_id": "owner-001",
+      "url": "https://fivebooks.com/category/philosophy/best-philosophy-books-all-time/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-001"
+      ]
+    },
+    {
+      "lead_id": "owner-002",
+      "url": "https://fivebooks.com/category/philosophy/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-002"
+      ]
+    },
+    {
+      "lead_id": "owner-003",
+      "url": "https://fivebooks.com/category/philosophy/ancient-philosophy/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-003"
+      ]
+    },
+    {
+      "lead_id": "owner-004",
+      "url": "https://fivebooks.com/category/philosophy/philosophy-of-mind/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-004"
+      ]
+    },
+    {
+      "lead_id": "owner-005",
+      "url": "https://fivebooks.com/category/philosophy-books/existentialism/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-005"
+      ]
+    },
+    {
+      "lead_id": "owner-006",
+      "url": "https://fivebooks.com/category/philosophy/ethics-moral-philosophy/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-006"
+      ]
+    },
+    {
+      "lead_id": "owner-007",
+      "url": "https://fivebooks.com/category/philosophy/social-political-philosophy/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-007"
+      ]
+    },
+    {
+      "lead_id": "owner-008",
+      "url": "https://fivebooks.com/category/philosophy/women-in-philosophy/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-008"
+      ]
+    },
+    {
+      "lead_id": "owner-009",
+      "url": "https://fivebooks.com/books/metaphysics/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-009"
+      ]
+    },
+    {
+      "lead_id": "owner-010",
+      "url": "https://fivebooks.com/best-books/continental-philosophy/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-010"
+      ]
+    },
+    {
+      "lead_id": "owner-011",
+      "url": "https://fivebooks.com/category/philosophy/great-philosophers/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-011"
+      ]
+    },
+    {
+      "lead_id": "owner-012",
+      "url": "https://fivebooks.com/best-books/existentialism-sarah-bakewell/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-012"
+      ]
+    },
+    {
+      "lead_id": "owner-013",
+      "url": "https://fivebooks.com/best-books/philosophy-women-lisa-whiting-rebecca-buxton/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "R026"
+      ]
+    },
+    {
+      "lead_id": "owner-014",
+      "url": "https://fivebooks.com/books/indian-philosophy/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-014"
+      ]
+    },
+    {
+      "lead_id": "owner-015",
+      "url": "https://fivebooks.com/best-books/political-philosophy-jonathan-wolff/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-015"
+      ]
+    },
+    {
+      "lead_id": "owner-016",
+      "url": "https://fivebooks.com/category/philosophy/beliefs/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-016"
+      ]
+    },
+    {
+      "lead_id": "owner-017",
+      "url": "https://fivebooks.com/reader-list/the-best-five-books-on-epistemology-alejandro_vazquez_del_mercado/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-017"
+      ]
+    },
+    {
+      "lead_id": "owner-018",
+      "url": "https://www.theguardian.com/books/1999/dec/10/top10s.philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-018"
+      ]
+    },
+    {
+      "lead_id": "owner-019",
+      "url": "https://www.theguardian.com/books/2001/nov/01/bestbooks.philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-019"
+      ]
+    },
+    {
+      "lead_id": "owner-020",
+      "url": "https://topbookreviews.com/philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-020"
+      ]
+    },
+    {
+      "lead_id": "owner-021",
+      "url": "https://www.goodreads.com/shelf/show/popular-philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-021"
+      ]
+    },
+    {
+      "lead_id": "owner-022",
+      "url": "https://www.goodreads.com/shelf/show/pop-philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-022"
+      ]
+    },
+    {
+      "lead_id": "owner-023",
+      "url": "https://www.goodreads.com/list/show/99027.Best_Books_On_Eastern_Philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-023"
+      ]
+    },
+    {
+      "lead_id": "owner-024",
+      "url": "https://www.goodreads.com/list/show/27373.Philosophy_of_Mind",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-024"
+      ]
+    },
+    {
+      "lead_id": "owner-025",
+      "url": "https://www.goodreads.com/list/show/12351.Books_on_Stoic_Philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-025"
+      ]
+    },
+    {
+      "lead_id": "owner-026",
+      "url": "https://www.goodreads.com/list/show/179383.Existentialism",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-026"
+      ]
+    },
+    {
+      "lead_id": "owner-027",
+      "url": "https://www.goodreads.com/list/show/227726.Must_Read_Political_Philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-027"
+      ]
+    },
+    {
+      "lead_id": "owner-028",
+      "url": "https://www.goodreads.com/list/show/113528.10_Eastern_Philosophy_texts_",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-028"
+      ]
+    },
+    {
+      "lead_id": "owner-029",
+      "url": "https://www.goodreads.com/list/show/105686.feminist_philosophy_and_literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-029"
+      ]
+    },
+    {
+      "lead_id": "owner-030",
+      "url": "https://www.goodreads.com/list/show/32443.Stoicism_Stoic_philosophy_",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-030"
+      ]
+    },
+    {
+      "lead_id": "owner-031",
+      "url": "https://www.goodreads.com/list/show/188622.Eastern_Philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-031"
+      ]
+    },
+    {
+      "lead_id": "owner-032",
+      "url": "https://www.goodreads.com/list/show/45589.Popular_Books_on_Stoicism",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-032"
+      ]
+    },
+    {
+      "lead_id": "owner-033",
+      "url": "https://www.goodreads.com/list/show/20963.Philosophy_books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-033"
+      ]
+    },
+    {
+      "lead_id": "owner-034",
+      "url": "https://www.goodreads.com/list/show/453.Best_Philosophical_Literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-034"
+      ]
+    },
+    {
+      "lead_id": "owner-035",
+      "url": "https://www.goodreads.com/list/show/113366.Beginners_Books_on_Stoicism",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-035"
+      ]
+    },
+    {
+      "lead_id": "owner-036",
+      "url": "https://www.goodreads.com/list/show/107383.Political_Philosophy_Classics",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-036"
+      ]
+    },
+    {
+      "lead_id": "owner-037",
+      "url": "https://www.goodreads.com/list/show/62.Best_Feminist_Books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-037"
+      ]
+    },
+    {
+      "lead_id": "owner-038",
+      "url": "https://www.phil.cam.ac.uk/system/files/suggested_preliminary_readings_updated_july_2023.pdf",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-038"
+      ]
+    },
+    {
+      "lead_id": "owner-039",
+      "url": "https://www.philosophie.lmu.de/de/studium/philosophie-fuer-studieninteressierte/index.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-039"
+      ]
+    },
+    {
+      "lead_id": "owner-040",
+      "url": "https://www.uni-bamberg.de/ba-philosophie/bachelor-lektuereliste/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-040"
+      ]
+    },
+    {
+      "lead_id": "owner-041",
+      "url": "https://okapi.uni-frankfurt.de/index.php/Literatur_zum_Studium_der_Philosophie_allgemein",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-041"
+      ]
+    },
+    {
+      "lead_id": "owner-042",
+      "url": "https://philosophy.yale.edu/phd-reading-list-for-philosophy-track-of-joint-classics-philosophy-phd-program",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-042"
+      ]
+    },
+    {
+      "lead_id": "owner-043",
+      "url": "https://classics.princeton.edu/reading-lists",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-043"
+      ]
+    },
+    {
+      "lead_id": "owner-044",
+      "url": "https://philosophy.stanford.edu/tanner-library/philosophy-resources",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-044"
+      ]
+    },
+    {
+      "lead_id": "owner-045",
+      "url": "https://philosophy.stanford.edu/public-philosophy/stanford-encyclopedia-philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-045"
+      ]
+    },
+    {
+      "lead_id": "owner-046",
+      "url": "https://philosophy.princeton.edu/resources/philosophy-specific-resources",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-046"
+      ]
+    },
+    {
+      "lead_id": "owner-047",
+      "url": "https://philosophy.berkeley.edu/courses/detail/740",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-047"
+      ]
+    },
+    {
+      "lead_id": "owner-048",
+      "url": "https://www.philosophy.ox.ac.uk/undergraduate-study",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-048"
+      ]
+    },
+    {
+      "lead_id": "owner-049",
+      "url": "https://www.philosophy.ox.ac.uk/files/lectureprospectustt1915aprpdf",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-049"
+      ]
+    },
+    {
+      "lead_id": "owner-050",
+      "url": "https://www.philosophy.ox.ac.uk/files/lecturescheme2020-21pdf",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-050"
+      ]
+    },
+    {
+      "lead_id": "owner-051",
+      "url": "https://www.philosophy.ox.ac.uk/sites/default/files/philosophy/documents/media/lecture_prospectus_mt25_2.pdf",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-051"
+      ]
+    },
+    {
+      "lead_id": "owner-052",
+      "url": "https://www.philosophy.ox.ac.uk/sites/default/files/philosophy/documents/media/lecture_prospectus_ht26_1.pdf",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-052"
+      ]
+    },
+    {
+      "lead_id": "owner-053",
+      "url": "https://faculty.washington.edu/smcohen/320/320syll.htm",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-053"
+      ]
+    },
+    {
+      "lead_id": "owner-054",
+      "url": "https://dailynous.com/2016/02/05/philosophy-data-from-the-open-syllabus-project-guest-post-by-andrew-higgins/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-054"
+      ]
+    },
+    {
+      "lead_id": "owner-055",
+      "url": "https://en.wikiversity.org/wiki/Doing_Philosophy/Philosophy_Text_Books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-055"
+      ]
+    },
+    {
+      "lead_id": "owner-056",
+      "url": "https://philpapers.org/archive/BOUPOP-3",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-056"
+      ]
+    },
+    {
+      "lead_id": "owner-057",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740818898900056",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-057"
+      ]
+    },
+    {
+      "lead_id": "owner-058",
+      "url": "https://doi.org/10.1007/s11406-024-00793-7",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-058"
+      ]
+    },
+    {
+      "lead_id": "owner-059",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11491420/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-059"
+      ]
+    },
+    {
+      "lead_id": "owner-060",
+      "url": "https://link.springer.com/book/10.1007/978-3-031-53200-9",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-060"
+      ]
+    },
+    {
+      "lead_id": "owner-061",
+      "url": "https://philosophersannual.org/44intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-061"
+      ]
+    },
+    {
+      "lead_id": "owner-062",
+      "url": "https://philosophersannual.org/43intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-062"
+      ]
+    },
+    {
+      "lead_id": "owner-063",
+      "url": "https://philosophersannual.org/42intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-063"
+      ]
+    },
+    {
+      "lead_id": "owner-064",
+      "url": "https://philosophersannual.org/41intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-064"
+      ]
+    },
+    {
+      "lead_id": "owner-065",
+      "url": "https://www.philosophersannual.org/40articles/40intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-065"
+      ]
+    },
+    {
+      "lead_id": "owner-066",
+      "url": "https://philosophersannual.org/39articles/39intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-066"
+      ]
+    },
+    {
+      "lead_id": "owner-067",
+      "url": "https://philosophersannual.org/38articles/38intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-067"
+      ]
+    },
+    {
+      "lead_id": "owner-068",
+      "url": "https://philosophersannual.org/37intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-068"
+      ]
+    },
+    {
+      "lead_id": "owner-069",
+      "url": "https://www.philosophersannual.org/36articles/36intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-069"
+      ]
+    },
+    {
+      "lead_id": "owner-070",
+      "url": "https://philosophersannual.org/35articles/35intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-070"
+      ]
+    },
+    {
+      "lead_id": "owner-071",
+      "url": "https://philosophersannual.org/34articles/34intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-071"
+      ]
+    },
+    {
+      "lead_id": "owner-072",
+      "url": "https://philosophersannual.org/33articles/33intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-072"
+      ]
+    },
+    {
+      "lead_id": "owner-073",
+      "url": "https://philosophersannual.org/32intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-073"
+      ]
+    },
+    {
+      "lead_id": "owner-074",
+      "url": "https://www.philosophersannual.org/29articles/29intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-074"
+      ]
+    },
+    {
+      "lead_id": "owner-075",
+      "url": "https://philosophersannual.org/pa28articles/28intro.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-075"
+      ]
+    },
+    {
+      "lead_id": "owner-076",
+      "url": "https://www.philosophersannual.org/past.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-076"
+      ]
+    },
+    {
+      "lead_id": "owner-077",
+      "url": "https://www.philosophersannual.org/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-077"
+      ]
+    },
+    {
+      "lead_id": "owner-078",
+      "url": "https://booksreddit.com/best/philosophy/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-078"
+      ]
+    },
+    {
+      "lead_id": "owner-079",
+      "url": "https://booksreddit.com/articles/where-to-start-with-philosophy/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-079"
+      ]
+    },
+    {
+      "lead_id": "owner-080",
+      "url": "https://www.redditreads.com/r/philosophy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-080"
+      ]
+    },
+    {
+      "lead_id": "owner-081",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1uwamrs/whats_a_must_read_for_all_philosophy_book_readers/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-081"
+      ]
+    },
+    {
+      "lead_id": "owner-082",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1snmb1o/book_recommendations/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-082"
+      ]
+    },
+    {
+      "lead_id": "owner-083",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1uvbo0t/order_in_which_to_read_philosophy/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-083"
+      ]
+    },
+    {
+      "lead_id": "owner-084",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1ima781/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-084"
+      ]
+    },
+    {
+      "lead_id": "owner-085",
+      "url": "https://book.douban.com/subject/1315184/doulists",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-085"
+      ]
+    },
+    {
+      "lead_id": "owner-086",
+      "url": "https://www.douban.com/doulist/37097658/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-086"
+      ]
+    },
+    {
+      "lead_id": "owner-087",
+      "url": "https://book.douban.com/subject/2285869/doulists",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-087"
+      ]
+    },
+    {
+      "lead_id": "owner-088",
+      "url": "https://www.douban.com/doulist/158447011/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-088"
+      ]
+    },
+    {
+      "lead_id": "owner-089",
+      "url": "https://book.douban.com/subject/3658068/doulists",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-089"
+      ]
+    },
+    {
+      "lead_id": "owner-090",
+      "url": "https://book.douban.com/subject/26892991/doulists?start=0",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-090"
+      ]
+    },
+    {
+      "lead_id": "owner-091",
+      "url": "https://www.douban.com/doulist/152335537/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-091"
+      ]
+    },
+    {
+      "lead_id": "owner-092",
+      "url": "https://book.douban.com/subject/1075249/doulists",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-092"
+      ]
+    },
+    {
+      "lead_id": "owner-093",
+      "url": "https://book.douban.com/subject/37399203/doulists",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-093"
+      ]
+    },
+    {
+      "lead_id": "owner-094",
+      "url": "https://www.douban.com/doulist/161901673/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-094"
+      ]
+    },
+    {
+      "lead_id": "owner-095",
+      "url": "https://www.douban.com/doulist/137720052/?ck=None&collect=yes",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-095"
+      ]
+    },
+    {
+      "lead_id": "owner-096",
+      "url": "https://www.douban.com/doulist/1486786/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-096"
+      ]
+    },
+    {
+      "lead_id": "owner-097",
+      "url": "https://www.senscritique.com/top/resultats/Les_meilleurs_livres_de_philosophie/568407",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-097"
+      ]
+    },
+    {
+      "lead_id": "owner-098",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_de_philosophie/631613",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-098"
+      ]
+    },
+    {
+      "lead_id": "owner-099",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_de_philosophie/3516389",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-099"
+      ]
+    },
+    {
+      "lead_id": "owner-100",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_de_philosophie/3971462",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-100"
+      ]
+    },
+    {
+      "lead_id": "owner-101",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_de_philosophie/1208049",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-101"
+      ]
+    },
+    {
+      "lead_id": "owner-102",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_de_philosophie/3753734",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-102"
+      ]
+    },
+    {
+      "lead_id": "owner-103",
+      "url": "https://www.senscritique.com/liste/philosophie/2973229",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-103"
+      ]
+    },
+    {
+      "lead_id": "owner-104",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_de_philosophie/2251460",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-104"
+      ]
+    },
+    {
+      "lead_id": "owner-105",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_de_philosophie/709502",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-105"
+      ]
+    },
+    {
+      "lead_id": "owner-106",
+      "url": "https://www.senscritique.com/liste/Philosophie_25_lectures_indispensables/472940",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-106"
+      ]
+    },
+    {
+      "lead_id": "owner-107",
+      "url": "https://www.senscritique.com/liste/philosophie/1570272",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-107"
+      ]
+    },
+    {
+      "lead_id": "owner-108",
+      "url": "https://www.senscritique.com/liste/les_classiques_de_la_philosophie/1608100",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-108"
+      ]
+    },
+    {
+      "lead_id": "owner-109",
+      "url": "https://www.senscritique.com/liste/livres_de_philosophie_et_autres_sciences_humaines_a_lire/1031596",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-109"
+      ]
+    },
+    {
+      "lead_id": "owner-110",
+      "url": "https://www.senscritique.com/liste/Philosophie/1279326",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-110"
+      ]
+    },
+    {
+      "lead_id": "owner-111",
+      "url": "https://www.reddit.com/r/buecher/comments/1hnrabf/suche_buchempfehlung_philosophie/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-111"
+      ]
+    },
+    {
+      "lead_id": "owner-112",
+      "url": "https://www.reddit.com/r/buecher/comments/1ncvbfz/eure_philosophieempfehlungen/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-112"
+      ]
+    },
+    {
+      "lead_id": "owner-113",
+      "url": "https://www.reddit.com/r/buecher/comments/1ixpikn/welche_philosophischen_werke_f%C3%BCr_den_einstieg_in/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-113"
+      ]
+    },
+    {
+      "lead_id": "owner-114",
+      "url": "https://www.reddit.com/r/buecher/comments/18k3ir6/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-114"
+      ]
+    },
+    {
+      "lead_id": "owner-115",
+      "url": "https://www.suhrkamp.de/empfehlung/11-klassiker-die-man-gelesen-haben-muss-b-3055",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-115"
+      ]
+    },
+    {
+      "lead_id": "owner-116",
+      "url": "https://www.verlagshausroemerweg.de/collections/philosophie",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-116"
+      ]
+    },
+    {
+      "lead_id": "owner-117",
+      "url": "https://www.wiley-vch.de/de/fachgebiete/geistes-und-sozialwissenschaften/philosophen-und-werke-fuer-dummies-978-3-527-70813-0",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-117"
+      ]
+    },
+    {
+      "lead_id": "owner-118",
+      "url": "https://www.lecturalia.com/libro/74897/las-obras-esenciales-de-la-filosofia",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-118"
+      ]
+    },
+    {
+      "lead_id": "owner-119",
+      "url": "https://www.lecturalia.com/libros/va/mejor-valorados",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-119"
+      ]
+    },
+    {
+      "lead_id": "owner-120",
+      "url": "https://www.lecturalia.com/libros/de/destacados",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-120"
+      ]
+    },
+    {
+      "lead_id": "owner-121",
+      "url": "https://www.reddit.com/r/libros/comments/1udsowy/recomendaciones_sobre_libros_de_filosof%C3%ADa/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-121"
+      ]
+    },
+    {
+      "lead_id": "owner-122",
+      "url": "https://www.reddit.com/r/libros/comments/1uruyu5/libros_de_filosof%C3%ADa/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-122"
+      ]
+    },
+    {
+      "lead_id": "owner-123",
+      "url": "https://www.reddit.com/r/libros/comments/1t16pp7/me_recomiendan_libros_de_filosof%C3%ADa/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-123"
+      ]
+    },
+    {
+      "lead_id": "owner-124",
+      "url": "https://www.reddit.com/r/libros/comments/1uygz4q/que_libros_deber%C3%ADa_leer_s%C3%AD_o_s%C3%AD/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-124"
+      ]
+    },
+    {
+      "lead_id": "owner-125",
+      "url": "https://www.reddit.com/r/libros/comments/1s03ecd/libros_para_entender_filosof%C3%ADa/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-125"
+      ]
+    },
+    {
+      "lead_id": "owner-126",
+      "url": "https://www.reddit.com/r/filosofia_en_espanol/comments/1v9exfb/recomendaciones_de_libros/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-126"
+      ]
+    },
+    {
+      "lead_id": "owner-127",
+      "url": "https://www.reddit.com/r/filosofia_en_espanol/comments/1vdbmbe/hilo_de_libros_para_introducirse_en_la_filosof%C3%ADa/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-127"
+      ]
+    },
+    {
+      "lead_id": "owner-128",
+      "url": "https://www.reddit.com/r/libros/comments/198ox77/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-128"
+      ]
+    },
+    {
+      "lead_id": "owner-129",
+      "url": "https://www.reddit.com/r/libros/comments/1mnjbsa/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-129"
+      ]
+    },
+    {
+      "lead_id": "owner-130",
+      "url": "https://www.reddit.com/r/libros/comments/1isg8s2/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-130"
+      ]
+    },
+    {
+      "lead_id": "owner-131",
+      "url": "https://pescara.unicusano.it/studiare-a-pescara/libri-di-filosofia-da-leggere/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-131"
+      ]
+    },
+    {
+      "lead_id": "owner-132",
+      "url": "https://lubimyczytac.pl/ksiazki/t/filozofia",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-132"
+      ]
+    },
+    {
+      "lead_id": "owner-133",
+      "url": "https://lubimyczytac.pl/ksiazki/k/60/filozofia-etyka",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-133"
+      ]
+    },
+    {
+      "lead_id": "owner-134",
+      "url": "https://lubimyczytac.pl/top100",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-134"
+      ]
+    },
+    {
+      "lead_id": "owner-135",
+      "url": "https://www.reddit.com/r/ksiazki/comments/1m9d2e8/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-135"
+      ]
+    },
+    {
+      "lead_id": "owner-136",
+      "url": "https://www.reddit.com/r/ksiazki/comments/1dnb1n1/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-136"
+      ]
+    },
+    {
+      "lead_id": "owner-137",
+      "url": "https://www.reddit.com/r/ksiazki/comments/1ijwtjw/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-137"
+      ]
+    },
+    {
+      "lead_id": "owner-138",
+      "url": "https://www.livelib.ru/selection/3407386-filosofiya",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-138"
+      ]
+    },
+    {
+      "lead_id": "owner-139",
+      "url": "https://www.livelib.ru/selection/889057-filosofiya",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-139"
+      ]
+    },
+    {
+      "lead_id": "owner-140",
+      "url": "https://www.livelib.ru/genre/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F/top/listview/biglist",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-140"
+      ]
+    },
+    {
+      "lead_id": "owner-141",
+      "url": "https://www.livelib.ru/selection/3349915-knigi-po-filosofii-dlya-nachinayuschih",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-141"
+      ]
+    },
+    {
+      "lead_id": "owner-142",
+      "url": "https://www.livelib.ru/genre/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8-%D0%BF%D0%BE-%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D0%B8/top/listview/biglist",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-142"
+      ]
+    },
+    {
+      "lead_id": "owner-143",
+      "url": "https://www.livelib.ru/genre/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8-%D0%BF%D0%BE-%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D0%B8/best",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-143"
+      ]
+    },
+    {
+      "lead_id": "owner-144",
+      "url": "https://www.livelib.ru/selection/2212741-analiticheskaya-filosofiya",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-144"
+      ]
+    },
+    {
+      "lead_id": "owner-145",
+      "url": "https://www.livelib.ru/selection/2982302-filosofiya-stoitsizm-ekzistentsializm",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-145"
+      ]
+    },
+    {
+      "lead_id": "owner-146",
+      "url": "https://www.livelib.ru/selection/3026375-analiticheskaya-filosofiya",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-146"
+      ]
+    },
+    {
+      "lead_id": "owner-147",
+      "url": "https://www.livelib.ru/selection/2800651-g-religiya-filosofiya-zapadnaya",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-147"
+      ]
+    },
+    {
+      "lead_id": "owner-148",
+      "url": "https://www.livelib.ru/selection/781057-sovremennaya-filosofiya",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-148"
+      ]
+    },
+    {
+      "lead_id": "owner-149",
+      "url": "https://www.livelib.ru/selection/2956121-filosofskij-poedinok",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-149"
+      ]
+    },
+    {
+      "lead_id": "owner-150",
+      "url": "https://amanaut.co.jp/bookcrunch/philosophy-book/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-150"
+      ]
+    },
+    {
+      "lead_id": "owner-151",
+      "url": "https://diamond.jp/articles/-/203807",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-151"
+      ]
+    },
+    {
+      "lead_id": "owner-152",
+      "url": "https://diamond.jp/articles/-/251918",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-152"
+      ]
+    },
+    {
+      "lead_id": "owner-153",
+      "url": "https://ranking.goo.ne.jp/select/3634",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-153"
+      ]
+    },
+    {
+      "lead_id": "owner-154",
+      "url": "https://bookmeter.com/authors/3687092",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-154"
+      ]
+    },
+    {
+      "lead_id": "owner-155",
+      "url": "https://president.jp/articles/-/30206?page=1",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-155"
+      ]
+    },
+    {
+      "lead_id": "owner-156",
+      "url": "https://diamond.jp/articles/-/107995?page=2",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-156"
+      ]
+    },
+    {
+      "lead_id": "owner-157",
+      "url": "https://www.reddit.com/r/FilosofiaBR/comments/1hv6hui/uma_breve_lista_de_livros_da_filosofia_brasileira/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-157"
+      ]
+    },
+    {
+      "lead_id": "owner-158",
+      "url": "https://www.reddit.com/r/brasil/comments/yrf8df/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-158"
+      ]
+    },
+    {
+      "lead_id": "owner-159",
+      "url": "https://www.reddit.com/r/korea/comments/1lhtvjq/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-159"
+      ]
+    }
+  ]
+}

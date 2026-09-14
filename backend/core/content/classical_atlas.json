@@ -1,0 +1,236 @@
+{
+  "revision": "atlas-v1",
+  "note": "A small study atlas, not a complete ancient gazetteer. Marker coordinates are rounded orientation points; no ancient borders, routes or territorial claims are drawn. Connections to syllabus authors/works are editorial study pairings. Mythic entries are kept out of dated historical filtering.",
+  "places": [
+    {
+      "id": "athens",
+      "title": "Athens · Acropolis",
+      "lat": 37.97,
+      "lon": 23.73,
+      "country": "Greece",
+      "period": "Classical Greek",
+      "kind": "Historical place",
+      "dates": "5th century BCE focus",
+      "start": -500,
+      "end": -400,
+      "body": "A civic and religious setting for studying Athenian culture. The Parthenon building programme belongs to 447–432 BCE. The location marker represents the Acropolis, not the whole ancient city.",
+      "event": "Parthenon construction, 447–432 BCE",
+      "people": "Socrates, Plato and the Athenian dramatists: reading connections, not claimed birthplaces.",
+      "modules": [
+        "socrates",
+        "republic",
+        "tragedy",
+        "comedy",
+        "thucydides"
+      ],
+      "sources": [
+        "unesco-athens"
+      ]
+    },
+    {
+      "id": "delphi",
+      "title": "Delphi · Sanctuary of Apollo",
+      "lat": 38.48,
+      "lon": 22.5,
+      "country": "Greece",
+      "period": "Archaic Greek",
+      "kind": "Historical place",
+      "dates": "6th century BCE focus",
+      "start": -600,
+      "end": -501,
+      "body": "A sanctuary and oracle with influence across Greek communities. Its historical religious role should be distinguished from stories about divine speech and the mythical centre of the world.",
+      "event": "Growing religious and political influence in the 6th century BCE",
+      "people": "Read beside Herodotus and the account of the oracle in Plato's Apology.",
+      "modules": [
+        "herodotus",
+        "socrates"
+      ],
+      "sources": [
+        "unesco-delphi"
+      ]
+    },
+    {
+      "id": "troy",
+      "title": "Troy · Archaeological site",
+      "lat": 39.96,
+      "lon": 26.24,
+      "country": "Türkiye",
+      "period": "Bronze Age / epic reception",
+      "kind": "Historical place",
+      "dates": "Multiple occupation layers; epic events not securely dated",
+      "start": null,
+      "end": null,
+      "body": "An archaeological site with many phases of occupation. Its literary association with the Iliad does not make each Homeric episode an excavated historical fact.",
+      "event": "Archaeological layers versus later epic storytelling",
+      "people": "Homeric tradition: study the poems alongside the distinction between material remains and narrative.",
+      "modules": [
+        "iliad",
+        "odyssey",
+        "aeneid"
+      ],
+      "sources": [
+        "unesco-troy"
+      ]
+    },
+    {
+      "id": "troy-myth",
+      "title": "Troy · The epic war",
+      "lat": 39.96,
+      "lon": 26.24,
+      "country": "Literary setting near archaeological Troy",
+      "period": "Mythic / literary",
+      "kind": "Mythic setting",
+      "dates": "Undated here: narrative time is not a verified historical date",
+      "start": null,
+      "end": null,
+      "body": "Achilles, Hector and Priam belong to the poem's account of a war at Troy. This marker shares a literary association with the real site; it is not evidence that the characters or narrated actions are historically established.",
+      "event": "The Iliad's conflict and its aftermath in later epic",
+      "people": "Homeric tradition; Virgil's later reworking.",
+      "modules": [
+        "iliad",
+        "aeneid"
+      ],
+      "sources": [
+        "unesco-troy"
+      ]
+    },
+    {
+      "id": "rome",
+      "title": "Rome · Historic centre",
+      "lat": 41.9,
+      "lon": 12.49,
+      "country": "Italy",
+      "period": "Roman / later reception",
+      "kind": "Historical place",
+      "dates": "Republican, imperial and later layers",
+      "start": null,
+      "end": null,
+      "body": "A layered urban setting for Roman political writing, historical narrative and architecture. Read the city's literary claims against its changing institutions and monuments rather than imagining one unchanging Rome.",
+      "event": "Republican and imperial monuments coexist with later transformations",
+      "people": "Cicero, Virgil and Roman historians: editorial reading connections.",
+      "modules": [
+        "republic-history",
+        "cicero",
+        "aeneid",
+        "empire"
+      ],
+      "sources": [
+        "unesco-rome"
+      ]
+    },
+    {
+      "id": "pompeii",
+      "title": "Pompeii · Vesuvian towns",
+      "lat": 40.75,
+      "lon": 14.49,
+      "country": "Italy",
+      "period": "Roman imperial",
+      "kind": "Historical event",
+      "dates": "79 CE",
+      "start": 79,
+      "end": 79,
+      "body": "The eruption of Vesuvius buried Pompeii and neighbouring settlements in 79 CE. Buildings and objects provide evidence of urban life; the chosen point is a general Pompeii marker, not the full UNESCO multi-site boundary.",
+      "event": "Eruption of Vesuvius, 79 CE",
+      "people": "Pair the imperial-history module with material evidence and the existing Roman architecture course.",
+      "modules": [
+        "empire"
+      ],
+      "sources": [
+        "unesco-pompeii"
+      ]
+    },
+    {
+      "id": "carthage",
+      "title": "Carthage · Punic and Roman city",
+      "lat": 36.85,
+      "lon": 10.32,
+      "country": "Tunisia",
+      "period": "Punic / Roman",
+      "kind": "Historical event",
+      "dates": "146 BCE destruction; later Roman city",
+      "start": -146,
+      "end": -146,
+      "body": "Rome destroyed Punic Carthage in 146 BCE; a Roman city later occupied the site. The source's opening description gives BCE correctly, although one later paragraph contains an inconsistent AD label.",
+      "event": "Destruction of Punic Carthage, 146 BCE",
+      "people": "Read beside Roman historical narratives and Augustine; distinguish their different periods.",
+      "modules": [
+        "republic-history",
+        "augustine"
+      ],
+      "sources": [
+        "unesco-carthage"
+      ]
+    },
+    {
+      "id": "dido",
+      "title": "Carthage · Dido and Aeneas",
+      "lat": 36.85,
+      "lon": 10.32,
+      "country": "Literary setting in North Africa",
+      "period": "Mythic / literary",
+      "kind": "Mythic setting",
+      "dates": "Undated legendary encounter in the Aeneid",
+      "start": null,
+      "end": null,
+      "body": "Virgil's encounter between Dido and Aeneas is a literary story connected with Carthage, not a dated historical meeting. Compare what the poem does with place, belonging and imperial destiny.",
+      "event": "Aeneid: Dido's story",
+      "people": "Virgil and the poem's legendary protagonists.",
+      "modules": [
+        "aeneid"
+      ],
+      "sources": [
+        "unesco-carthage"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "unesco-athens",
+      "title": "Acropolis, Athens",
+      "url": "https://whc.unesco.org/en/list/404/",
+      "checked": "2026-09-14",
+      "access": "Official description / relevant excerpt consulted",
+      "note": "UNESCO World Heritage Centre site description; modern heritage designation is not an ancient political boundary. Paraphrased study note; no images copied."
+    },
+    {
+      "id": "unesco-rome",
+      "title": "Historic Centre of Rome",
+      "url": "https://whc.unesco.org/en/list/91/",
+      "checked": "2026-09-14",
+      "access": "Official description / relevant excerpt consulted",
+      "note": "UNESCO World Heritage Centre site description; modern heritage designation is not an ancient political boundary. Paraphrased study note; no images copied."
+    },
+    {
+      "id": "unesco-troy",
+      "title": "Archaeological Site of Troy",
+      "url": "https://whc.unesco.org/en/list/849/",
+      "checked": "2026-09-14",
+      "access": "Official description / relevant excerpt consulted",
+      "note": "UNESCO World Heritage Centre site description; modern heritage designation is not an ancient political boundary. Paraphrased study note; no images copied."
+    },
+    {
+      "id": "unesco-delphi",
+      "title": "Archaeological Site of Delphi",
+      "url": "https://whc.unesco.org/en/list/393/",
+      "checked": "2026-09-14",
+      "access": "Official description / relevant excerpt consulted",
+      "note": "UNESCO World Heritage Centre site description; modern heritage designation is not an ancient political boundary. Paraphrased study note; no images copied."
+    },
+    {
+      "id": "unesco-pompeii",
+      "title": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+      "url": "https://whc.unesco.org/en/list/829/",
+      "checked": "2026-09-14",
+      "access": "Official description / relevant excerpt consulted",
+      "note": "UNESCO World Heritage Centre site description; modern heritage designation is not an ancient political boundary. Paraphrased study note; no images copied."
+    },
+    {
+      "id": "unesco-carthage",
+      "title": "Archaeological Site of Carthage",
+      "url": "https://whc.unesco.org/en/list/37/",
+      "checked": "2026-09-14",
+      "access": "Official description / relevant excerpt consulted",
+      "note": "UNESCO World Heritage Centre site description; modern heritage designation is not an ancient political boundary. Paraphrased study note; no images copied."
+    }
+  ]
+}

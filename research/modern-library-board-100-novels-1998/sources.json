@@ -1,0 +1,25 @@
+{
+  "target_id": "modern-library-board-100-novels-1998",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://sites.prh.com/modern-library-top-100/",
+      "title": "Modern Library · Board's 100 Best Novels (1998) — result publication",
+      "canonical_url": "https://sites.prh.com/modern-library-top-100/",
+      "source_family": "publisher_list",
+      "publisher": "Modern Library",
+      "target_ids": [
+        "modern-library-board-100-novels-1998"
+      ],
+      "relevance_by_target": {
+        "modern-library-board-100-novels-1998": "All 100 novels in the Modern Library board's published order."
+      },
+      "evidence_notes": "All 100 novels in the Modern Library board's published order.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Restricted to English-language novels of the twentieth century and shaped by the publisher-appointed board."
+    }
+  ]
+}

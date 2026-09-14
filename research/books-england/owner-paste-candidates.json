@@ -1,0 +1,607 @@
+{
+  "target_id": "books-england",
+  "source_report": "research/incoming/books-england/2026-09-13-owner-chat-attachments/report.txt",
+  "reported_source_count": 247,
+  "candidates": [
+    {
+      "position": 1,
+      "reported_title": "Middlemarch",
+      "reported_author": "George Eliot",
+      "raw_line": "1. Middlemarch — George Eliot"
+    },
+    {
+      "position": 2,
+      "reported_title": "Pride and Prejudice",
+      "reported_author": "Jane Austen",
+      "raw_line": "2. Pride and Prejudice — Jane Austen"
+    },
+    {
+      "position": 3,
+      "reported_title": "To the Lighthouse",
+      "reported_author": "Virginia Woolf",
+      "raw_line": "3. To the Lighthouse — Virginia Woolf"
+    },
+    {
+      "position": 4,
+      "reported_title": "Jane Eyre",
+      "reported_author": "Charlotte Brontë",
+      "raw_line": "4. Jane Eyre — Charlotte Brontë"
+    },
+    {
+      "position": 5,
+      "reported_title": "Wuthering Heights",
+      "reported_author": "Emily Brontë",
+      "raw_line": "5. Wuthering Heights — Emily Brontë"
+    },
+    {
+      "position": 6,
+      "reported_title": "The Lord of the Rings",
+      "reported_author": "J. R. R. Tolkien",
+      "raw_line": "6. The Lord of the Rings — J. R. R. Tolkien"
+    },
+    {
+      "position": 7,
+      "reported_title": "Great Expectations",
+      "reported_author": "Charles Dickens",
+      "raw_line": "7. Great Expectations — Charles Dickens"
+    },
+    {
+      "position": 8,
+      "reported_title": "Nineteen Eighty-Four",
+      "reported_author": "George Orwell",
+      "raw_line": "8. Nineteen Eighty-Four — George Orwell"
+    },
+    {
+      "position": 9,
+      "reported_title": "Bleak House",
+      "reported_author": "Charles Dickens",
+      "raw_line": "9. Bleak House — Charles Dickens"
+    },
+    {
+      "position": 10,
+      "reported_title": "Paradise Lost",
+      "reported_author": "John Milton",
+      "raw_line": "10. Paradise Lost — John Milton"
+    },
+    {
+      "position": 11,
+      "reported_title": "Emma",
+      "reported_author": "Jane Austen",
+      "raw_line": "11. Emma — Jane Austen"
+    },
+    {
+      "position": 12,
+      "reported_title": "The Canterbury Tales",
+      "reported_author": "Geoffrey Chaucer",
+      "raw_line": "12. The Canterbury Tales — Geoffrey Chaucer"
+    },
+    {
+      "position": 13,
+      "reported_title": "Mrs Dalloway",
+      "reported_author": "Virginia Woolf",
+      "raw_line": "13. Mrs Dalloway — Virginia Woolf"
+    },
+    {
+      "position": 14,
+      "reported_title": "Frankenstein",
+      "reported_author": "Mary Shelley",
+      "raw_line": "14. Frankenstein — Mary Shelley"
+    },
+    {
+      "position": 15,
+      "reported_title": "David Copperfield",
+      "reported_author": "Charles Dickens",
+      "raw_line": "15. David Copperfield — Charles Dickens"
+    },
+    {
+      "position": 16,
+      "reported_title": "A Room of One's Own",
+      "reported_author": "Virginia Woolf",
+      "raw_line": "16. A Room of One's Own — Virginia Woolf"
+    },
+    {
+      "position": 17,
+      "reported_title": "On the Origin of Species",
+      "reported_author": "Charles Darwin",
+      "raw_line": "17. On the Origin of Species — Charles Darwin"
+    },
+    {
+      "position": 18,
+      "reported_title": "Persuasion",
+      "reported_author": "Jane Austen",
+      "raw_line": "18. Persuasion — Jane Austen"
+    },
+    {
+      "position": 19,
+      "reported_title": "The Waves",
+      "reported_author": "Virginia Woolf",
+      "raw_line": "19. The Waves — Virginia Woolf"
+    },
+    {
+      "position": 20,
+      "reported_title": "Tess of the d'Urbervilles",
+      "reported_author": "Thomas Hardy",
+      "raw_line": "20. Tess of the d'Urbervilles — Thomas Hardy"
+    },
+    {
+      "position": 21,
+      "reported_title": "The Waste Land",
+      "reported_author": "T. S. Eliot",
+      "raw_line": "21. The Waste Land — T. S. Eliot"
+    },
+    {
+      "position": 22,
+      "reported_title": "The Hobbit",
+      "reported_author": "J. R. R. Tolkien",
+      "raw_line": "22. The Hobbit — J. R. R. Tolkien"
+    },
+    {
+      "position": 23,
+      "reported_title": "Sense and Sensibility",
+      "reported_author": "Jane Austen",
+      "raw_line": "23. Sense and Sensibility — Jane Austen"
+    },
+    {
+      "position": 24,
+      "reported_title": "Vanity Fair",
+      "reported_author": "William Makepeace Thackeray",
+      "raw_line": "24. Vanity Fair — William Makepeace Thackeray"
+    },
+    {
+      "position": 25,
+      "reported_title": "Shakespeare's Sonnets",
+      "reported_author": "William Shakespeare",
+      "raw_line": "25. Shakespeare's Sonnets — William Shakespeare"
+    },
+    {
+      "position": 26,
+      "reported_title": "Howards End",
+      "reported_author": "E. M. Forster",
+      "raw_line": "26. Howards End — E. M. Forster"
+    },
+    {
+      "position": 27,
+      "reported_title": "A Passage to India",
+      "reported_author": "E. M. Forster",
+      "raw_line": "27. A Passage to India — E. M. Forster"
+    },
+    {
+      "position": 28,
+      "reported_title": "Animal Farm",
+      "reported_author": "George Orwell",
+      "raw_line": "28. Animal Farm — George Orwell"
+    },
+    {
+      "position": 29,
+      "reported_title": "The Mill on the Floss",
+      "reported_author": "George Eliot",
+      "raw_line": "29. The Mill on the Floss — George Eliot"
+    },
+    {
+      "position": 30,
+      "reported_title": "Lyrical Ballads",
+      "reported_author": "William Wordsworth and Samuel Taylor Coleridge",
+      "raw_line": "30. Lyrical Ballads — William Wordsworth and Samuel Taylor Coleridge"
+    },
+    {
+      "position": 31,
+      "reported_title": "Songs of Innocence and of Experience",
+      "reported_author": "William Blake",
+      "raw_line": "31. Songs of Innocence and of Experience — William Blake"
+    },
+    {
+      "position": 32,
+      "reported_title": "The Prelude",
+      "reported_author": "William Wordsworth",
+      "raw_line": "32. The Prelude — William Wordsworth"
+    },
+    {
+      "position": 33,
+      "reported_title": "Jude the Obscure",
+      "reported_author": "Thomas Hardy",
+      "raw_line": "33. Jude the Obscure — Thomas Hardy"
+    },
+    {
+      "position": 34,
+      "reported_title": "The Mayor of Casterbridge",
+      "reported_author": "Thomas Hardy",
+      "raw_line": "34. The Mayor of Casterbridge — Thomas Hardy"
+    },
+    {
+      "position": 35,
+      "reported_title": "A Christmas Carol",
+      "reported_author": "Charles Dickens",
+      "raw_line": "35. A Christmas Carol — Charles Dickens"
+    },
+    {
+      "position": 36,
+      "reported_title": "Oliver Twist",
+      "reported_author": "Charles Dickens",
+      "raw_line": "36. Oliver Twist — Charles Dickens"
+    },
+    {
+      "position": 37,
+      "reported_title": "Alice's Adventures in Wonderland",
+      "reported_author": "Lewis Carroll",
+      "raw_line": "37. Alice's Adventures in Wonderland — Lewis Carroll"
+    },
+    {
+      "position": 38,
+      "reported_title": "Through the Looking-Glass",
+      "reported_author": "Lewis Carroll",
+      "raw_line": "38. Through the Looking-Glass — Lewis Carroll"
+    },
+    {
+      "position": 39,
+      "reported_title": "Brideshead Revisited",
+      "reported_author": "Evelyn Waugh",
+      "raw_line": "39. Brideshead Revisited — Evelyn Waugh"
+    },
+    {
+      "position": 40,
+      "reported_title": "The Good Soldier",
+      "reported_author": "Ford Madox Ford",
+      "raw_line": "40. The Good Soldier — Ford Madox Ford"
+    },
+    {
+      "position": 41,
+      "reported_title": "Rebecca",
+      "reported_author": "Daphne du Maurier",
+      "raw_line": "41. Rebecca — Daphne du Maurier"
+    },
+    {
+      "position": 42,
+      "reported_title": "Atonement",
+      "reported_author": "Ian McEwan",
+      "raw_line": "42. Atonement — Ian McEwan"
+    },
+    {
+      "position": 43,
+      "reported_title": "Possession",
+      "reported_author": "A. S. Byatt",
+      "raw_line": "43. Possession — A. S. Byatt"
+    },
+    {
+      "position": 44,
+      "reported_title": "Wolf Hall",
+      "reported_author": "Hilary Mantel",
+      "raw_line": "44. Wolf Hall — Hilary Mantel"
+    },
+    {
+      "position": 45,
+      "reported_title": "The Remains of the Day",
+      "reported_author": "Kazuo Ishiguro",
+      "raw_line": "45. The Remains of the Day — Kazuo Ishiguro"
+    },
+    {
+      "position": 46,
+      "reported_title": "White Teeth",
+      "reported_author": "Zadie Smith",
+      "raw_line": "46. White Teeth — Zadie Smith"
+    },
+    {
+      "position": 47,
+      "reported_title": "Never Let Me Go",
+      "reported_author": "Kazuo Ishiguro",
+      "raw_line": "47. Never Let Me Go — Kazuo Ishiguro"
+    },
+    {
+      "position": 48,
+      "reported_title": "The Line of Beauty",
+      "reported_author": "Alan Hollinghurst",
+      "raw_line": "48. The Line of Beauty — Alan Hollinghurst"
+    },
+    {
+      "position": 49,
+      "reported_title": "The Golden Notebook",
+      "reported_author": "Doris Lessing",
+      "raw_line": "49. The Golden Notebook — Doris Lessing"
+    },
+    {
+      "position": 50,
+      "reported_title": "Cold Comfort Farm",
+      "reported_author": "Stella Gibbons",
+      "raw_line": "50. Cold Comfort Farm — Stella Gibbons"
+    },
+    {
+      "position": 51,
+      "reported_title": "The Go-Between",
+      "reported_author": "L. P. Hartley",
+      "raw_line": "51. The Go-Between — L. P. Hartley"
+    },
+    {
+      "position": 52,
+      "reported_title": "I, Claudius",
+      "reported_author": "Robert Graves",
+      "raw_line": "52. I, Claudius — Robert Graves"
+    },
+    {
+      "position": 53,
+      "reported_title": "Lord of the Flies",
+      "reported_author": "William Golding",
+      "raw_line": "53. Lord of the Flies — William Golding"
+    },
+    {
+      "position": 54,
+      "reported_title": "Watership Down",
+      "reported_author": "Richard Adams",
+      "raw_line": "54. Watership Down — Richard Adams"
+    },
+    {
+      "position": 55,
+      "reported_title": "The Hitchhiker's Guide to the Galaxy",
+      "reported_author": "Douglas Adams",
+      "raw_line": "55. The Hitchhiker's Guide to the Galaxy — Douglas Adams"
+    },
+    {
+      "position": 56,
+      "reported_title": "Northern Lights",
+      "reported_author": "Philip Pullman",
+      "raw_line": "56. Northern Lights — Philip Pullman"
+    },
+    {
+      "position": 57,
+      "reported_title": "Harry Potter and the Philosopher's Stone",
+      "reported_author": "J. K. Rowling",
+      "raw_line": "57. Harry Potter and the Philosopher's Stone — J. K. Rowling"
+    },
+    {
+      "position": 58,
+      "reported_title": "Winnie-the-Pooh",
+      "reported_author": "A. A. Milne",
+      "raw_line": "58. Winnie-the-Pooh — A. A. Milne"
+    },
+    {
+      "position": 59,
+      "reported_title": "The Tale of Peter Rabbit",
+      "reported_author": "Beatrix Potter",
+      "raw_line": "59. The Tale of Peter Rabbit — Beatrix Potter"
+    },
+    {
+      "position": 60,
+      "reported_title": "The Secret Garden",
+      "reported_author": "Frances Hodgson Burnett",
+      "raw_line": "60. The Secret Garden — Frances Hodgson Burnett"
+    },
+    {
+      "position": 61,
+      "reported_title": "Black Beauty",
+      "reported_author": "Anna Sewell",
+      "raw_line": "61. Black Beauty — Anna Sewell"
+    },
+    {
+      "position": 62,
+      "reported_title": "The Jungle Book",
+      "reported_author": "Rudyard Kipling",
+      "raw_line": "62. The Jungle Book — Rudyard Kipling"
+    },
+    {
+      "position": 63,
+      "reported_title": "Kim",
+      "reported_author": "Rudyard Kipling",
+      "raw_line": "63. Kim — Rudyard Kipling"
+    },
+    {
+      "position": 64,
+      "reported_title": "The War of the Worlds",
+      "reported_author": "H. G. Wells",
+      "raw_line": "64. The War of the Worlds — H. G. Wells"
+    },
+    {
+      "position": 65,
+      "reported_title": "The Time Machine",
+      "reported_author": "H. G. Wells",
+      "raw_line": "65. The Time Machine — H. G. Wells"
+    },
+    {
+      "position": 66,
+      "reported_title": "Brave New World",
+      "reported_author": "Aldous Huxley",
+      "raw_line": "66. Brave New World — Aldous Huxley"
+    },
+    {
+      "position": 67,
+      "reported_title": "The Day of the Triffids",
+      "reported_author": "John Wyndham",
+      "raw_line": "67. The Day of the Triffids — John Wyndham"
+    },
+    {
+      "position": 68,
+      "reported_title": "Tinker Tailor Soldier Spy",
+      "reported_author": "John le Carré",
+      "raw_line": "68. Tinker Tailor Soldier Spy — John le Carré"
+    },
+    {
+      "position": 69,
+      "reported_title": "The Spy Who Came in from the Cold",
+      "reported_author": "John le Carré",
+      "raw_line": "69. The Spy Who Came in from the Cold — John le Carré"
+    },
+    {
+      "position": 70,
+      "reported_title": "The Moonstone",
+      "reported_author": "Wilkie Collins",
+      "raw_line": "70. The Moonstone — Wilkie Collins"
+    },
+    {
+      "position": 71,
+      "reported_title": "The Woman in White",
+      "reported_author": "Wilkie Collins",
+      "raw_line": "71. The Woman in White — Wilkie Collins"
+    },
+    {
+      "position": 72,
+      "reported_title": "The Murder of Roger Ackroyd",
+      "reported_author": "Agatha Christie",
+      "raw_line": "72. The Murder of Roger Ackroyd — Agatha Christie"
+    },
+    {
+      "position": 73,
+      "reported_title": "And Then There Were None",
+      "reported_author": "Agatha Christie",
+      "raw_line": "73. And Then There Were None — Agatha Christie"
+    },
+    {
+      "position": 74,
+      "reported_title": "The Code of the Woosters",
+      "reported_author": "P. G. Wodehouse",
+      "raw_line": "74. The Code of the Woosters — P. G. Wodehouse"
+    },
+    {
+      "position": 75,
+      "reported_title": "The History of Tom Jones, a Foundling",
+      "reported_author": "Henry Fielding",
+      "raw_line": "75. The History of Tom Jones, a Foundling — Henry Fielding"
+    },
+    {
+      "position": 76,
+      "reported_title": "Clarissa",
+      "reported_author": "Samuel Richardson",
+      "raw_line": "76. Clarissa — Samuel Richardson"
+    },
+    {
+      "position": 77,
+      "reported_title": "Moll Flanders",
+      "reported_author": "Daniel Defoe",
+      "raw_line": "77. Moll Flanders — Daniel Defoe"
+    },
+    {
+      "position": 78,
+      "reported_title": "Robinson Crusoe",
+      "reported_author": "Daniel Defoe",
+      "raw_line": "78. Robinson Crusoe — Daniel Defoe"
+    },
+    {
+      "position": 79,
+      "reported_title": "The Pilgrim's Progress",
+      "reported_author": "John Bunyan",
+      "raw_line": "79. The Pilgrim's Progress — John Bunyan"
+    },
+    {
+      "position": 80,
+      "reported_title": "Mansfield Park",
+      "reported_author": "Jane Austen",
+      "raw_line": "80. Mansfield Park — Jane Austen"
+    },
+    {
+      "position": 81,
+      "reported_title": "Far from the Madding Crowd",
+      "reported_author": "Thomas Hardy",
+      "raw_line": "81. Far from the Madding Crowd — Thomas Hardy"
+    },
+    {
+      "position": 82,
+      "reported_title": "The Return of the Native",
+      "reported_author": "Thomas Hardy",
+      "raw_line": "82. The Return of the Native — Thomas Hardy"
+    },
+    {
+      "position": 83,
+      "reported_title": "Little Dorrit",
+      "reported_author": "Charles Dickens",
+      "raw_line": "83. Little Dorrit — Charles Dickens"
+    },
+    {
+      "position": 84,
+      "reported_title": "Women in Love",
+      "reported_author": "D. H. Lawrence",
+      "raw_line": "84. Women in Love — D. H. Lawrence"
+    },
+    {
+      "position": 85,
+      "reported_title": "Sons and Lovers",
+      "reported_author": "D. H. Lawrence",
+      "raw_line": "85. Sons and Lovers — D. H. Lawrence"
+    },
+    {
+      "position": 86,
+      "reported_title": "The Power and the Glory",
+      "reported_author": "Graham Greene",
+      "raw_line": "86. The Power and the Glory — Graham Greene"
+    },
+    {
+      "position": 87,
+      "reported_title": "The End of the Affair",
+      "reported_author": "Graham Greene",
+      "raw_line": "87. The End of the Affair — Graham Greene"
+    },
+    {
+      "position": 88,
+      "reported_title": "The French Lieutenant's Woman",
+      "reported_author": "John Fowles",
+      "raw_line": "88. The French Lieutenant's Woman — John Fowles"
+    },
+    {
+      "position": 89,
+      "reported_title": "Lucky Jim",
+      "reported_author": "Kingsley Amis",
+      "raw_line": "89. Lucky Jim — Kingsley Amis"
+    },
+    {
+      "position": 90,
+      "reported_title": "The Bloody Chamber",
+      "reported_author": "Angela Carter",
+      "raw_line": "90. The Bloody Chamber — Angela Carter"
+    },
+    {
+      "position": 91,
+      "reported_title": "North and South",
+      "reported_author": "Elizabeth Gaskell",
+      "raw_line": "91. North and South — Elizabeth Gaskell"
+    },
+    {
+      "position": 92,
+      "reported_title": "The Way We Live Now",
+      "reported_author": "Anthony Trollope",
+      "raw_line": "92. The Way We Live Now — Anthony Trollope"
+    },
+    {
+      "position": 93,
+      "reported_title": "Barchester Towers",
+      "reported_author": "Anthony Trollope",
+      "raw_line": "93. Barchester Towers — Anthony Trollope"
+    },
+    {
+      "position": 94,
+      "reported_title": "A Clockwork Orange",
+      "reported_author": "Anthony Burgess",
+      "raw_line": "94. A Clockwork Orange — Anthony Burgess"
+    },
+    {
+      "position": 95,
+      "reported_title": "The Once and Future King",
+      "reported_author": "T. H. White",
+      "raw_line": "95. The Once and Future King — T. H. White"
+    },
+    {
+      "position": 96,
+      "reported_title": "The Diary of Samuel Pepys",
+      "reported_author": "Samuel Pepys",
+      "raw_line": "96. The Diary of Samuel Pepys — Samuel Pepys"
+    },
+    {
+      "position": 97,
+      "reported_title": "A Vindication of the Rights of Woman",
+      "reported_author": "Mary Wollstonecraft",
+      "raw_line": "97. A Vindication of the Rights of Woman — Mary Wollstonecraft"
+    },
+    {
+      "position": 98,
+      "reported_title": "Leviathan",
+      "reported_author": "Thomas Hobbes",
+      "raw_line": "98. Leviathan — Thomas Hobbes"
+    },
+    {
+      "position": 99,
+      "reported_title": "On Liberty",
+      "reported_author": "John Stuart Mill",
+      "raw_line": "99. On Liberty — John Stuart Mill"
+    },
+    {
+      "position": 100,
+      "reported_title": "Homage to Catalonia",
+      "reported_author": "George Orwell",
+      "raw_line": "100. Homage to Catalonia — George Orwell"
+    }
+  ]
+}

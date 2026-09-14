@@ -1,0 +1,3610 @@
+{
+  "target_id": "literature-all-time",
+  "minimum_eligible_sources": 50,
+  "criteria_version": null,
+  "ranking_entries": [],
+  "sources": [
+    {
+      "source_id": "R049",
+      "underlying_source_id": "R049",
+      "title": "La mejor novela de la historia",
+      "author": null,
+      "publisher": "El País",
+      "publisher_group": "El País",
+      "canonical_url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html",
+      "access_url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_ranking",
+      "domain_or_platform": "elpais.com",
+      "language": "es",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction selection, interpretation and canon coverage."
+      },
+      "evidence_notes": "Reports an international writers’ poll favouring Don Quixote; also identifies Proust, Rulfo and García Márquez.",
+      "location": "Poll report, paragraphs 1–4",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Don Quixote",
+        "In Search of Lost Time",
+        "Pedro Páramo"
+      ],
+      "disagreement_or_limitations": "Secondary report of one 2002 poll; mirrors are not independent votes.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-07.json"
+    },
+    {
+      "source_id": "R050",
+      "underlying_source_id": "R050",
+      "title": "Les cent romans qui ont le plus enthousiasmé Le Monde depuis 1944",
+      "author": null,
+      "publisher": "Le Monde",
+      "publisher_group": "Le Monde",
+      "canonical_url": "https://www.lemonde.fr/culture/article/2019/06/21/les-100-romans-qui-ont-le-plus-enthousiasme-le-monde-depuis-1944_5479594_3246.html",
+      "access_url": "https://www.lemonde.fr/culture/article/2019/06/21/les-100-romans-qui-ont-le-plus-enthousiasme-le-monde-depuis-1944_5479594_3246.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "editorial_selection",
+      "domain_or_platform": "lemonde.fr",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction selection, interpretation and canon coverage."
+      },
+      "evidence_notes": "Archive-based selection acknowledges omissions and changing coverage. Includes Perec, Koestler and Agee’s documentary writing.",
+      "location": "Methodology and first decade",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Life A User's Manual",
+        "Darkness at Noon",
+        "Let Us Now Praise Famous Men"
+      ],
+      "disagreement_or_limitations": "Chronological selection, not merit ordering; mixed forms; related announcement counted together.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-07.json"
+    },
+    {
+      "source_id": "R051",
+      "underlying_source_id": "R051",
+      "title": "Les 101 romans préférés des lecteurs du Monde",
+      "author": null,
+      "publisher": "Le Monde",
+      "publisher_group": "Le Monde",
+      "canonical_url": "https://www.lemonde.fr/les-decodeurs/article/2019/12/27/de-harry-potter-a-voyage-au-bout-de-la-nuit-les-101-romans-preferes-des-lecteurs-du-monde_6024208_4355770.html",
+      "access_url": "https://www.lemonde.fr/les-decodeurs/article/2019/12/27/de-harry-potter-a-voyage-au-bout-de-la-nuit-les-101-romans-preferes-des-lecteurs-du-monde_6024208_4355770.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_poll",
+      "domain_or_platform": "lemonde.fr",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction selection, interpretation and canon coverage."
+      },
+      "evidence_notes": "26,000 respondents chose up to five books; only seventeen titles overlap the critics’ selection. French availability constrains nominations.",
+      "location": "Accessible introduction and methodology",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Reader/critic disagreement",
+        "Harry Potter"
+      ],
+      "disagreement_or_limitations": "Interactive complete ordering not inspected; self-selected newspaper readership.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-07.json"
+    },
+    {
+      "source_id": "R052",
+      "underlying_source_id": "R052",
+      "title": "中国现当代文学史：教材",
+      "author": null,
+      "publisher": "Fudan University",
+      "publisher_group": "Fudan University",
+      "canonical_url": "https://gecc.fudan.edu.cn/xdwx/Data/List/jc",
+      "access_url": "https://gecc.fudan.edu.cn/xdwx/Data/List/jc",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "university_reading_list",
+      "domain_or_platform": "gecc.fudan.edu.cn",
+      "language": "zh",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction selection, interpretation and canon coverage."
+      },
+      "evidence_notes": "Textbook descriptions connect literary modernization with close readings spanning Xiao Hong, Lao She, Shen Congwen and Eileen Chang; prose, drama and poetry coexist.",
+      "location": "Textbook descriptions",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Border Town",
+        "Rickshaw Boy",
+        "Field of Life and Death",
+        "Love in a Fallen City",
+        "Thirty Years of Modern Chinese Literature"
+      ],
+      "disagreement_or_limitations": "Course selection not ranking; individual stories, plays and poetry require separate eligibility decisions.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-07.json"
+    },
+    {
+      "source_id": "R053",
+      "underlying_source_id": "R053",
+      "title": "通识书单",
+      "author": null,
+      "publisher": "Peking University Library",
+      "publisher_group": "Peking University Library",
+      "canonical_url": "https://www.lib.pku.edu.cn/portal/cn/fw/ydtj/tongshishudan",
+      "access_url": "https://www.lib.pku.edu.cn/portal/cn/fw/ydtj/tongshishudan",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "university_reading_list",
+      "domain_or_platform": "lib.pku.edu.cn",
+      "language": "zh",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction selection, interpretation and canon coverage."
+      },
+      "evidence_notes": "Course recommendations place Lu Xun and C. T. Hsia’s literary histories alongside Xiao Hong, Mo Yan and Eileen Chang; includes annotated classical texts and historical geography.",
+      "location": "General studies and literature course lists",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Tales of Hulan River",
+        "Red Sorghum",
+        "A Brief History of Chinese Fiction",
+        "The Classic Chinese Novel"
+      ],
+      "disagreement_or_limitations": "One combined curricular source; recommended editions do not create separate works or merit positions.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-07.json"
+    },
+    {
+      "source_id": "R054",
+      "underlying_source_id": "R054",
+      "title": "Pedro Páramo: o romance que colocou a América Latina no mapa da literatura mundial",
+      "author": null,
+      "publisher": "Revista Bula",
+      "publisher_group": "Revista Bula",
+      "canonical_url": "https://www.revistabula.com/94945-pedro-paramo-o-romance-que-colocou-a-america-latina-no-mapa-da-literatura-mundial/",
+      "access_url": "https://www.revistabula.com/94945-pedro-paramo-o-romance-que-colocou-a-america-latina-no-mapa-da-literatura-mundial/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_review",
+      "domain_or_platform": "revistabula.com",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction selection, interpretation and canon coverage."
+      },
+      "evidence_notes": "Interprets fractured chronology and uncertain living/dead voices through Faulkner, familial authority and García Márquez; useful formal comparison beyond a list appearance.",
+      "location": "Review body",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Pedro Páramo"
+      ],
+      "disagreement_or_limitations": "Sweeping historical claims are the critic’s interpretation; Portuguese translation details do not verify English editions.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-07.json"
+    },
+    {
+      "source_id": "R055",
+      "underlying_source_id": "R055",
+      "title": "Wozu noch Klassiker lesen?",
+      "author": null,
+      "publisher": "Deutschlandfunk",
+      "publisher_group": "Deutschlandfunk",
+      "canonical_url": "https://www.deutschlandfunk.de/endlich-mal-erklaert-wozu-noch-klassiker-lesen-100.html",
+      "access_url": "https://www.deutschlandfunk.de/endlich-mal-erklaert-wozu-noch-klassiker-lesen-100.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_essay",
+      "domain_or_platform": "deutschlandfunk.de",
+      "language": "de",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction selection, interpretation and canon coverage."
+      },
+      "evidence_notes": "Albath connects Lost Illusions with media criticism and Middlemarch with social mechanisms; Baldwin’s delayed German resonance illustrates how local reception changes canon visibility.",
+      "location": "Timeless subjects, language and canon paragraphs",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Lost Illusions",
+        "Middlemarch",
+        "The Plague",
+        "James Baldwin"
+      ],
+      "disagreement_or_limitations": "Illustrative argument favouring classics; current relevance does not by itself establish overall merit.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-07.json"
+    },
+    {
+      "source_id": "S04",
+      "underlying_source_id": "oclc",
+      "title": "The Library 100",
+      "author": null,
+      "publisher": "OCLC",
+      "publisher_group": "OCLC",
+      "canonical_url": "https://www.oclc.org/en/worldcat/library100.html",
+      "access_url": "https://www.oclc.org/en/worldcat/library100.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "institutional_ranking",
+      "domain_or_platform": "oclc.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Library-held novels supply institutional reception evidence."
+      },
+      "evidence_notes": "Library holdings put Don Quixote, Alice and Twain near the top; preserves a distinct institutional circulation and collection signal.",
+      "location": "Methodology and first ten entries",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Don Quixote",
+        "Alice's Adventures in Wonderland",
+        "Adventures of Huckleberry Finn"
+      ],
+      "disagreement_or_limitations": "Holdings reflect acquisition, survival and catalogue coverage; children's and genre works need literary-fiction scope review.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-07.json"
+    },
+    {
+      "source_id": "S02",
+      "underlying_source_id": "modern",
+      "title": "Modern Library Top 100",
+      "author": null,
+      "publisher": "Penguin Random House",
+      "publisher_group": "Penguin Random House",
+      "canonical_url": "https://sites.prh.com/modern-library-top-100/",
+      "access_url": "https://sites.prh.com/modern-library-top-100/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_ranking",
+      "domain_or_platform": "sites.prh.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually reconsulted fiction candidates or relevant literary methodology."
+      },
+      "evidence_notes": "Board poll gives Ulysses and The Great Gatsby leading positions; descriptive comments identify formal experimentation and conflicting early reception.",
+      "location": "Introduction and first ten novels",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Ulysses",
+        "The Great Gatsby",
+        "The Sound and the Fury"
+      ],
+      "disagreement_or_limitations": "Publisher board and historically bounded candidate pool; blurb quotations not independently consulted reviews.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-08.json"
+    },
+    {
+      "source_id": "S07",
+      "underlying_source_id": "yale",
+      "title": "Literature Syllabus",
+      "author": null,
+      "publisher": "Yale University",
+      "publisher_group": "Yale University",
+      "canonical_url": "https://directedstudies.yale.edu/syllabi/syllabi/literature-syllabus",
+      "access_url": "https://directedstudies.yale.edu/syllabi/syllabi/literature-syllabus",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "university_reading_list",
+      "domain_or_platform": "directedstudies.yale.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually reconsulted fiction candidates or relevant literary methodology."
+      },
+      "evidence_notes": "2024–25 bookshelves include Hadji Murat, Swann’s Way, Madame Bovary and To the Lighthouse alongside poems, scripture and plays.",
+      "location": "Both semester bookshelves",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Hadji Murat",
+        "Swann's Way",
+        "Madame Bovary",
+        "To the Lighthouse"
+      ],
+      "disagreement_or_limitations": "Teaching sequence not merit ranking; only eligible prose fiction transfers into this target.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-08.json"
+    },
+    {
+      "source_id": "S26",
+      "underlying_source_id": "five-japan",
+      "title": "The Best Modern Japanese Literature",
+      "author": null,
+      "publisher": "Five Books",
+      "publisher_group": "Five Books",
+      "canonical_url": "https://fivebooks.com/best-books/modern-japanese-literature-linda-flores/",
+      "access_url": "https://fivebooks.com/best-books/modern-japanese-literature-linda-flores/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "expert_interview",
+      "domain_or_platform": "fivebooks.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually reconsulted fiction candidates or relevant literary methodology."
+      },
+      "evidence_notes": "Flores reads Convenience Store Woman as humorous but disturbing resistance to prescribed female identity; selects Enchi and Sōseki plus translated feminist criticism.",
+      "location": "Selection and Murata discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Convenience Store Woman",
+        "Masks",
+        "Kokoro",
+        "Woman Critiqued"
+      ],
+      "disagreement_or_limitations": "One expert selection; mixed fiction/criticism; English translation visibility shapes selection.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-08.json"
+    },
+    {
+      "source_id": "S29",
+      "underlying_source_id": "five-eastasia",
+      "title": "Five East Asian Classic Books Worth Reading",
+      "author": null,
+      "publisher": "Five Books",
+      "publisher_group": "Five Books",
+      "canonical_url": "https://fivebooks.com/best-books/east-asian-classic-books-tuva-kahrs/",
+      "access_url": "https://fivebooks.com/best-books/east-asian-classic-books-tuva-kahrs/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "editorial_selection",
+      "domain_or_platform": "fivebooks.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually reconsulted fiction candidates or relevant literary methodology."
+      },
+      "evidence_notes": "Kahrs discusses Genji’s changing perspective on women's dependence and mortality; pairs Chinese fiction with Korean court memoir and supernatural anecdotes.",
+      "location": "Selection and Genji discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Tale of Genji",
+        "Journey to the West",
+        "The Plum in the Golden Vase",
+        "The Memoirs of Lady Hyegyong"
+      ],
+      "disagreement_or_limitations": "Memoir excluded from fiction pool; abridged translations and multivolume identity need reconciliation.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-08.json"
+    },
+    {
+      "source_id": "S35",
+      "underlying_source_id": "bookertalk",
+      "title": "10 Wonderful Classics",
+      "author": null,
+      "publisher": "BookerTalk",
+      "publisher_group": "BookerTalk",
+      "canonical_url": "https://bookertalk.com/10-favourite-classics/",
+      "access_url": "https://bookertalk.com/10-favourite-classics/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_blog",
+      "domain_or_platform": "bookertalk.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually reconsulted fiction candidates or relevant literary methodology."
+      },
+      "evidence_notes": "Repeated reading exposes class and gender questions beyond romance in Austen and Brontë; Middlemarch praised despite slow opening, Germinal for emotionally harsh social struggle.",
+      "location": "Opening and nineteenth-century selections",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Pride and Prejudice",
+        "Jane Eyre",
+        "Middlemarch",
+        "Germinal"
+      ],
+      "disagreement_or_limitations": "Personal rereading preferences; list includes epic poetry outside literary-fiction scope.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-08.json"
+    },
+    {
+      "source_id": "S37",
+      "underlying_source_id": "tony",
+      "title": "Books of the Year",
+      "author": null,
+      "publisher": "Tony's Reading List",
+      "publisher_group": "Tony's Reading List",
+      "canonical_url": "https://tonysreadinglist.wordpress.com/books-of-the-year/",
+      "access_url": "https://tonysreadinglist.wordpress.com/books-of-the-year/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_blog",
+      "domain_or_platform": "tonysreadinglist.wordpress.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually reconsulted fiction candidates or relevant literary methodology."
+      },
+      "evidence_notes": "Annual personal shortlists favour Mishima, Bely and Mizumura; negative awards for James and Shin complicate uncomplicated canon endorsement.",
+      "location": "Introduction and 2009–14 awards",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Sea of Fertility",
+        "Petersburg",
+        "A True Novel",
+        "The Wings of the Dove",
+        "Please Look After Mother"
+      ],
+      "disagreement_or_limitations": "One retrospective selection; reading year differs from publication year; linked reviews not separately counted.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-08.json"
+    },
+    {
+      "source_id": "S44",
+      "underlying_source_id": "publicbooks",
+      "title": "For World Literature",
+      "author": null,
+      "publisher": "Public Books",
+      "publisher_group": "Public Books",
+      "canonical_url": "https://www.publicbooks.org/for-world-literature/",
+      "access_url": "https://www.publicbooks.org/for-world-literature/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "publicbooks.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually reconsulted fiction candidates or relevant literary methodology."
+      },
+      "evidence_notes": "Levine compares Apter, Hayot and Moretti on translation and world scale; European periodization can impose belatedness on other literatures, while translation can conceal idiom.",
+      "location": "Opening comparative argument",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Against World Literature",
+        "On Literary Worlds",
+        "Distant Reading",
+        "Eurocentric periodization"
+      ],
+      "disagreement_or_limitations": "Methodological criticism, not a candidate ranking; reviewed books not counted as separately consulted.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-08.json"
+    },
+    {
+      "source_id": "S09",
+      "underlying_source_id": "librarything",
+      "title": "Great Books from the last 30 years",
+      "author": null,
+      "publisher": "LibraryThing",
+      "publisher_group": "LibraryThing",
+      "canonical_url": "https://www.librarything.com/topic/338851",
+      "access_url": "https://www.librarything.com/topic/338851",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_discussion",
+      "domain_or_platform": "librarything.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually reconsulted fiction candidates or relevant literary methodology."
+      },
+      "evidence_notes": "Readers distinguish enduring merit from entertainment and debate contemporary candidates; Kafka on the Shore receives an argument based on complexity, form and historical resonance.",
+      "location": "Posts 1–7",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Kafka on the Shore",
+        "Never Let Me Go",
+        "Austerlitz",
+        "Piranesi"
+      ],
+      "disagreement_or_limitations": "Small collector community; opening BBC list is dependent and not treated as independent votes.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-08.json"
+    },
+    {
+      "source_id": "R065",
+      "underlying_source_id": "R065",
+      "title": "لماذا تتصدر الروايات القديمة قوائم القراءة من جديد؟",
+      "author": null,
+      "publisher": "Al Jazeera",
+      "publisher_group": "Al Jazeera",
+      "canonical_url": "https://www.aljazeera.net/culture/2026/1/19/لماذا-تتصدر-الروايات-القديمة-قوائم",
+      "access_url": "https://www.aljazeera.net/culture/2026/1/19/لماذا-تتصدر-الروايات-القديمة-قوائم",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_essay",
+      "domain_or_platform": "aljazeera.net",
+      "language": "ar",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Prose fiction candidates and interpretive evidence beyond familiar Anglophone lists."
+      },
+      "evidence_notes": "Reads Ashour’s Granada as memory under oppression and Salih’s Season of Migration as unequal power and exile; links renewed reading to political anxiety.",
+      "location": "Opening and Andalusia/migration section",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Granada trilogy",
+        "Season of Migration to the North",
+        "The Harafish"
+      ],
+      "disagreement_or_limitations": "Reported sales resurgence is not independently audited; contemporary relevance is an interpretive claim.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-09.json"
+    },
+    {
+      "source_id": "R066",
+      "underlying_source_id": "R066",
+      "title": "Reviving the past: translating 100 classic novels across Indian languages",
+      "author": null,
+      "publisher": "Scroll",
+      "publisher_group": "Scroll",
+      "canonical_url": "https://scroll.in/article/879423/reviving-the-past-a-literary-collective-is-translating-100-classic-novels-across-indian-languages",
+      "access_url": "https://scroll.in/article/879423/reviving-the-past-a-literary-collective-is-translating-100-classic-novels-across-indian-languages",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reported_literary_feature",
+      "domain_or_platform": "scroll.in",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Prose fiction candidates and interpretive evidence beyond familiar Anglophone lists."
+      },
+      "evidence_notes": "Dore’s interviews identify an English/regional visibility divide and nominate Karmelin, Godaan, Tamas and Raag Darbari; classics defined through remembered reading as well as scholarship.",
+      "location": "Candidate examples and translation discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Karmelin",
+        "Godaan",
+        "Tamas",
+        "Raag Darbari",
+        "Jhootha Sach"
+      ],
+      "disagreement_or_limitations": "2018 project plans do not prove translations were subsequently completed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-09.json"
+    },
+    {
+      "source_id": "R067",
+      "underlying_source_id": "R067",
+      "title": "Clarice Lispector’s Complete Stories: Knowing the Unknowable Clarice",
+      "author": null,
+      "publisher": "Words Without Borders",
+      "publisher_group": "Words Without Borders",
+      "canonical_url": "https://wordswithoutborders.org/book-reviews/clarice-listpector-complete-stories-knowing-the-unknowable-clarice/",
+      "access_url": "https://wordswithoutborders.org/book-reviews/clarice-listpector-complete-stories-knowing-the-unknowable-clarice/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_review",
+      "domain_or_platform": "wordswithoutborders.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Prose fiction candidates and interpretive evidence beyond familiar Anglophone lists."
+      },
+      "evidence_notes": "McPhee values linguistic experimentation and women’s interior experience while acknowledging deliberately untidy prose and resistance to conventional plot; contrasts Brazilian recognition with limited earlier foreign access.",
+      "location": "Review paragraphs on narrative and translation",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Complete Stories (Clarice Lispector)"
+      ],
+      "disagreement_or_limitations": "A strongly appreciative personal-critical response, not universal agreement.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-09.json"
+    },
+    {
+      "source_id": "R068",
+      "underlying_source_id": "R068",
+      "title": "21 Best African novels",
+      "author": null,
+      "publisher": "The Modern Novel",
+      "publisher_group": "The Modern Novel",
+      "canonical_url": "https://www.themodernnovel.org/my-lists/african/",
+      "access_url": "https://www.themodernnovel.org/my-lists/african/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_blog",
+      "domain_or_platform": "themodernnovel.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Prose fiction candidates and interpretive evidence beyond familiar Anglophone lists."
+      },
+      "evidence_notes": "Personal selection adds Boudjedra, Cheney-Coker, Dib, Djaout and Teixeira de Sousa alongside better-known African novelists; English titles are not always translations.",
+      "location": "Displayed selection",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Last Harmattan of Alusine Dunbar",
+        "Nedjma",
+        "Sleepwalking Land",
+        "God's Bits of Wood",
+        "Ilhéu de Contenda"
+      ],
+      "disagreement_or_limitations": "Heading count differs from displayed list; no merit positions inferred; individual linked reviews uncounted.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-09.json"
+    },
+    {
+      "source_id": "R069",
+      "underlying_source_id": "R069",
+      "title": "The Arab Writers Union’s Top 105 of the 20th Century",
+      "author": null,
+      "publisher": "ArabLit",
+      "publisher_group": "ArabLit",
+      "canonical_url": "https://arablit.org/2011/04/21/the-arab-writers-unions-top-105-of-the-20th-century/",
+      "access_url": "https://arablit.org/2011/04/21/the-arab-writers-unions-top-105-of-the-20th-century/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "annotated_external_selection",
+      "domain_or_platform": "arablit.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Prose fiction candidates and interpretive evidence beyond familiar Anglophone lists."
+      },
+      "evidence_notes": "Annotated union selection distinguishes complete translations from excerpts and unavailable works, spanning Mahfouz, Jabra, Habibi, Samman and al-Koni.",
+      "location": "Introduction and first twenty entries",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Cairo Trilogy",
+        "In Search of Walid Masoud",
+        "The Secret Life of Saeed the Pessoptimist",
+        "Beirut Nightmares",
+        "Tattoo"
+      ],
+      "disagreement_or_limitations": "Dependent on Arab Writers Union selection; author cautions ordering; historical translation claims need current verification.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-09.json"
+    },
+    {
+      "source_id": "R070",
+      "underlying_source_id": "R070",
+      "title": "Radwa Ashour Day: 10 to Read and 1 to Translate",
+      "author": null,
+      "publisher": "ArabLit",
+      "publisher_group": "ArabLit",
+      "canonical_url": "https://arablit.org/2020/05/26/radwa-ashour-day-10-to-read-and-1-to-translate/",
+      "access_url": "https://arablit.org/2020/05/26/radwa-ashour-day-10-to-read-and-1-to-translate/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_reading_guide",
+      "domain_or_platform": "arablit.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Prose fiction candidates and interpretive evidence beyond familiar Anglophone lists."
+      },
+      "evidence_notes": "Distinguishes political and intergenerational narrative in Blue Lorries and The Woman from Tantoura from autobiographical illness/revolution writing in Heavier than Radwa.",
+      "location": "Novel descriptions and one-to-translate section",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Blue Lorries",
+        "The Woman from Tantoura",
+        "Heavier than Radwa"
+      ],
+      "disagreement_or_limitations": "Related union list is background only; independent commentary used; 2020 untranslated status may have changed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-09.json"
+    },
+    {
+      "source_id": "R071",
+      "underlying_source_id": "R071",
+      "title": "The Tale of Mukaburung and translator’s note",
+      "author": null,
+      "publisher": "Asymptote",
+      "publisher_group": "Asymptote",
+      "canonical_url": "https://www.asymptotejournal.com/fiction/the-tale-of-mukaburung-laksmi-pamuntjak/",
+      "access_url": "https://www.asymptotejournal.com/fiction/the-tale-of-mukaburung-laksmi-pamuntjak/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "primary_excerpt_and_translation_commentary",
+      "domain_or_platform": "asymptotejournal.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Prose fiction candidates and interpretive evidence beyond familiar Anglophone lists."
+      },
+      "evidence_notes": "Tucker explains Kitab Kawin’s varied female perspectives and close author collaboration. Examined story section dramatizes gendered punishment and colonial coercion; note traces a Buru Quartet homage.",
+      "location": "Story ending and translator’s note",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Kitab Kawin (The Book of Mating)",
+        "This Earth of Mankind"
+      ],
+      "disagreement_or_limitations": "One story and accompanying note, not whole collection reviewed; provisional English title and publication status unresolved.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-09.json"
+    },
+    {
+      "source_id": "R078",
+      "underlying_source_id": "R078",
+      "title": "Ibn Tufayl and the story of the feral child of philosophy",
+      "author": null,
+      "publisher": "Aeon",
+      "publisher_group": "Aeon",
+      "canonical_url": "https://aeon.co/ideas/ibn-tufayl-and-the-story-of-the-feral-child-of-philosophy",
+      "access_url": "https://aeon.co/ideas/ibn-tufayl-and-the-story-of-the-feral-child-of-philosophy",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "aeon.co",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Philosophical narrative analysed as a literary work."
+      },
+      "evidence_notes": "Elshakry and Idris contrast solitary perfection and political community in Hayy, challenging translations that assimilate its ecstatic trajectory to European rationalism.",
+      "location": "Opening through reason and illumination",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Ibn Tufayl",
+        "Hayy ibn Yaqzan",
+        "Thomas Hobbes"
+      ],
+      "disagreement_or_limitations": "Philosophical fiction: suitable for philosophy books and literary fiction, not silently classified nonfiction.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-10.json"
+    },
+    {
+      "source_id": "R086",
+      "underlying_source_id": "R086",
+      "title": "Favourite philosophy book which changed everything for you?",
+      "author": null,
+      "publisher": "Reddit",
+      "publisher_group": "Reddit",
+      "canonical_url": "https://www.reddit.com/r/RSbookclub/comments/191kcuu/favourite_philosophy_book_which_changed/",
+      "access_url": "https://www.reddit.com/r/RSbookclub/comments/191kcuu/favourite_philosophy_book_which_changed/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_discussion",
+      "domain_or_platform": "reddit.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Substantive reader recommendations include Calvino and Scottish Gothic fiction."
+      },
+      "evidence_notes": "Readers describe powerful responses to Either/Or, Ethics and The Need for Roots; one connects Weil with a changed living practice, while another recommends Scottish fiction and Calvino.",
+      "location": "Opening and Weil exchange",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Either/Or",
+        "Ethics",
+        "The Need for Roots",
+        "Simone Weil",
+        "Invisible Cities",
+        "The Private Memoirs and Confessions of a Justified Sinner"
+      ],
+      "disagreement_or_limitations": "Anecdotal self-report, unverifiable causal influence; one thread regardless of comments.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-11.json"
+    },
+    {
+      "source_id": "S14",
+      "underlying_source_id": "penguin-readers",
+      "title": "100 must-read classics, as chosen by our readers",
+      "author": null,
+      "publisher": "Penguin",
+      "publisher_group": "Penguin",
+      "canonical_url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books",
+      "access_url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "publisher_reader_selection",
+      "domain_or_platform": "penguin.co.uk",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually examined relevant fiction selections and criticism."
+      },
+      "evidence_notes": "Reader comments value ambiguity in The Turn of the Screw, longing in Persuasion and sensuous form in Woolf; editorial and reader voices remain distinguishable.",
+      "location": "Entries 12–18",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Turn of the Screw",
+        "Persuasion",
+        "To the Lighthouse"
+      ],
+      "disagreement_or_limitations": "Publisher-curated social comments are not an independent representative poll.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-12.json"
+    },
+    {
+      "source_id": "S16",
+      "underlying_source_id": "reedsy",
+      "title": "The 100 Best Classic Books to Read",
+      "author": null,
+      "publisher": "Reedsy",
+      "publisher_group": "Reedsy",
+      "canonical_url": "https://reedsy.com/discovery/blog/classic-books",
+      "access_url": "https://reedsy.com/discovery/blog/classic-books",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "editorial_selection",
+      "domain_or_platform": "reedsy.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually examined relevant fiction selections and criticism."
+      },
+      "evidence_notes": "Short appreciations identify Carter’s revision of fairy tales, Plath’s existential concerns and Capote’s unstable self-presentation; mixes forms and commercial links.",
+      "location": "Entries 5–13",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Bloody Chamber",
+        "The Bell Jar",
+        "Breakfast at Tiffany's",
+        "American Indian Stories"
+      ],
+      "disagreement_or_limitations": "Broad introductory blurbs; no full critical argument or consensus implied.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-12.json"
+    },
+    {
+      "source_id": "S21",
+      "underlying_source_id": "macmillan",
+      "title": "Classic books to read at least once in your lifetime",
+      "author": null,
+      "publisher": "Pan Macmillan",
+      "publisher_group": "Pan Macmillan",
+      "canonical_url": "https://www.panmacmillan.com/blogs/classics/classic-books-to-read-before-you-die",
+      "access_url": "https://www.panmacmillan.com/blogs/classics/classic-books-to-read-before-you-die",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "publisher_selection",
+      "domain_or_platform": "panmacmillan.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually examined relevant fiction selections and criticism."
+      },
+      "evidence_notes": "Describes Orlando’s changing gender and Little Women’s constrained ambitions alongside Douglass’s abolitionist memoir; separates literary fiction from memoir.",
+      "location": "Middle selection entries",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Orlando",
+        "Little Women",
+        "Death in Venice",
+        "Narrative of the Life of Frederick Douglass"
+      ],
+      "disagreement_or_limitations": "Publisher marketing; useful candidate discovery with limited evaluative independence.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-12.json"
+    },
+    {
+      "source_id": "S30",
+      "underlying_source_id": "lithub-novels",
+      "title": "The 20 Best Novels of the Decade",
+      "author": null,
+      "publisher": "Literary Hub",
+      "publisher_group": "Literary Hub",
+      "canonical_url": "https://lithub.com/the-20-best-novels-of-the-decade/",
+      "access_url": "https://lithub.com/the-20-best-novels-of-the-decade/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "editorial_selection",
+      "domain_or_platform": "lithub.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually examined relevant fiction selections and criticism."
+      },
+      "evidence_notes": "Staff voting explicitly excludes translations and reissues; Egan’s fractured chronology is interpreted as an account of memory, celebrity and unstable identity.",
+      "location": "Methodology and Egan entry",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "A Visit from the Goon Squad",
+        "English-language 2010s selection limits"
+      ],
+      "disagreement_or_limitations": "Absence of translated classics follows eligibility rules, not negative merit judgments.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-12.json"
+    },
+    {
+      "source_id": "S32",
+      "underlying_source_id": "brittle",
+      "title": "100 Notable African Books of 2022",
+      "author": null,
+      "publisher": "Brittle Paper",
+      "publisher_group": "Brittle Paper",
+      "canonical_url": "https://brittlepaper.com/2022/11/brittle-paper-debuts-100-notable-african-books-of-the-year-list/",
+      "access_url": "https://brittlepaper.com/2022/11/brittle-paper-debuts-100-notable-african-books-of-the-year-list/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "editorial_selection",
+      "domain_or_platform": "brittlepaper.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually examined relevant fiction selections and criticism."
+      },
+      "evidence_notes": "Selection spans 23 countries and multiple genres; examined entries include Nganang’s generational history, Omotoso’s grief narrative, Ajala’s travel memoir and Táíwò’s critique of decolonization.",
+      "location": "Announcement and linked selection, early entries",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "A Trail of Crab Tracks",
+        "An Unusual Grief",
+        "An African Abroad",
+        "Against Decolonization",
+        "Olúfemi Táíwò"
+      ],
+      "disagreement_or_limitations": "Announcement and complete selection counted as one underlying source; distinguish Cornell Táíwò from Olúfẹ́mi O. Táíwò.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-12.json"
+    },
+    {
+      "source_id": "S38",
+      "underlying_source_id": "booker",
+      "title": "The Golden Man Booker",
+      "author": null,
+      "publisher": "Booker Prize Foundation",
+      "publisher_group": "Booker Prize Foundation",
+      "canonical_url": "https://thebookerprizes.com/the-golden-man-booker",
+      "access_url": "https://thebookerprizes.com/the-golden-man-booker",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "prize_selection",
+      "domain_or_platform": "thebookerprizes.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually examined relevant fiction selections and criticism."
+      },
+      "evidence_notes": "Five judges selected one previous winner per decade before public voting selected The English Patient; shortlist also includes Moon Tiger and In a Free State.",
+      "location": "Methodology and shortlist",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The English Patient",
+        "Moon Tiger",
+        "In a Free State",
+        "Wolf Hall",
+        "Lincoln in the Bardo"
+      ],
+      "disagreement_or_limitations": "Candidate pool restricted to past winners; composite judge/public process not global consensus.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-12.json"
+    },
+    {
+      "source_id": "S43",
+      "underlying_source_id": "wlt",
+      "title": "75 Notable Translations of 2025",
+      "author": null,
+      "publisher": "World Literature Today",
+      "publisher_group": "World Literature Today",
+      "canonical_url": "https://worldliteraturetoday.org/blog/lit-lists/world-literature-todays-75-notable-translations-2025-michelle-johnson",
+      "access_url": "https://worldliteraturetoday.org/blog/lit-lists/world-literature-todays-75-notable-translations-2025-michelle-johnson",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "editorial_selection",
+      "domain_or_platform": "worldliteraturetoday.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually examined relevant fiction selections and criticism."
+      },
+      "evidence_notes": "Identifies translated fiction by Myśliwski, Ismailov, Prophète and Shree with translators; includes memoir and essays that require distinct genre treatment.",
+      "location": "Middle and later selections",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Needle's Eye",
+        "We Computers",
+        "Cécé",
+        "Our City That Year",
+        "Sad Tiger",
+        "Exophony"
+      ],
+      "disagreement_or_limitations": "Translation year differs from original publication; entries are recommendations rather than extensive reviews.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-12.json"
+    },
+    {
+      "source_id": "S42",
+      "underlying_source_id": "ann",
+      "title": "Book of the month: Lana Abdelrahman",
+      "author": null,
+      "publisher": "A year of reading the world",
+      "publisher_group": "A year of reading the world",
+      "canonical_url": "https://ayearofreadingtheworld.com/2026/08/31/book-of-the-month-lana-abdelrahman/",
+      "access_url": "https://ayearofreadingtheworld.com/2026/08/31/book-of-the-month-lana-abdelrahman/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_blog",
+      "domain_or_platform": "ayearofreadingtheworld.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Individually examined relevant fiction selections and criticism."
+      },
+      "evidence_notes": "Morgan reads A Spell of Longing through alienated perspectives, barely visible trauma and female agency, with Scheherazade as a recurring imaginative reference.",
+      "location": "Review body",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "A Spell of Longing",
+        "Lana Abdelrahman"
+      ],
+      "disagreement_or_limitations": "Author supplied reviewer’s copy; appreciative contemporary review offers no all-time rank.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-12.json"
+    },
+    {
+      "source_id": "R096",
+      "underlying_source_id": "R096",
+      "title": "Powieść jako forma sztuki",
+      "author": null,
+      "publisher": "Culture.pl / Adam Mickiewicz Institute",
+      "publisher_group": "Culture.pl / Adam Mickiewicz Institute",
+      "canonical_url": "https://culture.pl/pl/artykul/powiesc-jako-forma-sztuki",
+      "access_url": "https://culture.pl/pl/artykul/powiesc-jako-forma-sztuki",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "institutional_critical_feature",
+      "domain_or_platform": "culture.pl",
+      "language": "pl",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Specific formal and reception arguments for fiction candidates."
+      },
+      "evidence_notes": "Explores novels by visual artists, including Bruszewski’s multimedia fiction, Leto’s literary-film diptych and Niemczyk’s countercultural novel; expands form beyond conventional prose prestige.",
+      "location": "Artist-novel case studies",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Big Dick (Wojciech Bruszewski)",
+        "Sailor",
+        "Kurtyzana i pisklęta"
+      ],
+      "disagreement_or_limitations": "Cultural promotion; book/film/artwork identities must remain distinct, English editions unresolved.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-13.json"
+    },
+    {
+      "source_id": "R097",
+      "underlying_source_id": "R097",
+      "title": "Maria Kuncewiczowa, Cudzoziemka",
+      "author": null,
+      "publisher": "Culture.pl / Adam Mickiewicz Institute",
+      "publisher_group": "Culture.pl / Adam Mickiewicz Institute",
+      "canonical_url": "https://culture.pl/pl/dzielo/maria-kuncewiczowa-cudzoziemka",
+      "access_url": "https://culture.pl/pl/dzielo/maria-kuncewiczowa-cudzoziemka",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_review",
+      "domain_or_platform": "culture.pl",
+      "language": "pl",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Specific formal and reception arguments for fiction candidates."
+      },
+      "evidence_notes": "Czempinski analyses one-day recollection, musical and dreamlike structure, and Róża’s compelling yet destructive anger; contrasts Schulz’s psychological reading with later feminist emphasis.",
+      "location": "Psychological construction and feminist reception",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Stranger (Maria Kuncewiczowa)"
+      ],
+      "disagreement_or_limitations": "Not Camus’s similarly titled work; historical reviews mediated through current critic.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-13.json"
+    },
+    {
+      "source_id": "R098",
+      "underlying_source_id": "R098",
+      "title": "日常生活の冒険 — 澁澤龍彦による書評",
+      "author": null,
+      "publisher": "ALL REVIEWS",
+      "publisher_group": "ALL REVIEWS",
+      "canonical_url": "https://allreviews.jp/review/397/",
+      "access_url": "https://allreviews.jp/review/397/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "archival_critical_review",
+      "domain_or_platform": "allreviews.jp",
+      "language": "ja",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Specific formal and reception arguments for fiction candidates."
+      },
+      "evidence_notes": "Shibusawa praises Ōe’s lyrical urban rhythm and irony but finds its heroic-adventure claims and ending unconvincing; separates everyday observation from abstract philosophical rhetoric.",
+      "location": "Critical text paragraphs 69–81",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "日常生活の冒険 (Adventures in Everyday Life)",
+        "Kenzaburō Ōe"
+      ],
+      "disagreement_or_limitations": "Reprinted review, not a newly independent 2017 judgment; English title descriptive, translation availability unverified.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-13.json"
+    },
+    {
+      "source_id": "R099",
+      "underlying_source_id": "R099",
+      "title": "La Storia: Morante narratrice senza anagrafe",
+      "author": null,
+      "publisher": "Doppiozero",
+      "publisher_group": "Doppiozero",
+      "canonical_url": "https://www.doppiozero.com/la-storia-morante-narratrice-senza-anagrafe",
+      "access_url": "https://www.doppiozero.com/la-storia-morante-narratrice-senza-anagrafe",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "doppiozero.com",
+      "language": "it",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Specific formal and reception arguments for fiction candidates."
+      },
+      "evidence_notes": "Schilirò contrasts narrative voices across Morante’s four novels and questions the apparent omniscience of History; entertains Pasolini’s uneven assessment of its sections.",
+      "location": "Comparative opening and narrative perspective",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "History (Elsa Morante)",
+        "Lies and Sorcery",
+        "Arturo's Island",
+        "Aracoeli"
+      ],
+      "disagreement_or_limitations": "Quoted Pasolini criticism is mediated; realist appearance need not exclude fable.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-13.json"
+    },
+    {
+      "source_id": "R100",
+      "underlying_source_id": "R100",
+      "title": "Elsa Morante e L’anno della Storia",
+      "author": null,
+      "publisher": "Doppiozero",
+      "publisher_group": "Doppiozero",
+      "canonical_url": "https://www.doppiozero.com/elsa-morante-e-lanno-della-storia",
+      "access_url": "https://www.doppiozero.com/elsa-morante-e-lanno-della-storia",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "doppiozero.com",
+      "language": "it",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Specific formal and reception arguments for fiction candidates."
+      },
+      "evidence_notes": "Scaffai examines Borghesi’s reconstruction of the History controversy: ideological allegiance and reactions to other reviewers sometimes displaced close attention to the novel itself.",
+      "location": "Reception dispute and Ginzburg/Dostoevsky comparison",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "History (Elsa Morante)",
+        "L'anno della Storia",
+        "Angela Borghesi"
+      ],
+      "disagreement_or_limitations": "Different review from Schilirò, shared publisher; historical judgments not counted as separate sources.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-13.json"
+    },
+    {
+      "source_id": "R101",
+      "underlying_source_id": "R101",
+      "title": "A crítica de Guimarães Rosa",
+      "author": null,
+      "publisher": "Revista Cult",
+      "publisher_group": "Revista Cult",
+      "canonical_url": "https://revistacult.uol.com.br/home/critica-de-guimaraes-rosa/",
+      "access_url": "https://revistacult.uol.com.br/home/critica-de-guimaraes-rosa/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "revistacult.uol.com.br",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Specific formal and reception arguments for fiction candidates."
+      },
+      "evidence_notes": "Holanda traces Benedito Nunes’s interpretation of Rosa between poetic imagery and philosophical concepts; love joins the problems of evil, language and existence.",
+      "location": "Nunes’s critical method and love interpretation",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Grande sertão: veredas",
+        "Corpo de baile",
+        "O dorso do tigre",
+        "Benedito Nunes"
+      ],
+      "disagreement_or_limitations": "Mediates earlier Nunes essays; neither their publication count nor quoted passages create extra sources.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-13.json"
+    },
+    {
+      "source_id": "R102",
+      "underlying_source_id": "R102",
+      "title": "Caminhos do sertão no mundo árabe",
+      "author": null,
+      "publisher": "Revista Cult",
+      "publisher_group": "Revista Cult",
+      "canonical_url": "https://revistacult.uol.com.br/home/caminhos-do-sertao-no-mundo-arabe/",
+      "access_url": "https://revistacult.uol.com.br/home/caminhos-do-sertao-no-mundo-arabe/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "translator_interview",
+      "domain_or_platform": "revistacult.uol.com.br",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Specific formal and reception arguments for fiction candidates."
+      },
+      "evidence_notes": "Benabdelouahed describes translating Rosa into Arabic and the scarcity of Portuguese specialists; experimental form and publisher expectations previously impeded circulation.",
+      "location": "Accessible opening interview",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Grande sertão: veredas",
+        "Said Benabdelouahed"
+      ],
+      "disagreement_or_limitations": "Partial paywall access; only visible translation process and reception barriers support notes.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-13.json"
+    },
+    {
+      "source_id": "R103",
+      "underlying_source_id": "R103",
+      "title": "En busca del tiempo perdido: comentarios y opiniones",
+      "author": null,
+      "publisher": "Lecturalia",
+      "publisher_group": "Lecturalia",
+      "canonical_url": "https://www.lecturalia.com/libro/14611/en-busca-del-tiempo-perdido",
+      "access_url": "https://www.lecturalia.com/libro/14611/en-busca-del-tiempo-perdido",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_reviews",
+      "domain_or_platform": "lecturalia.com",
+      "language": "es",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific reader response and interpretive evidence."
+      },
+      "evidence_notes": "Readers praise patient, immersive prose and Charlus while others abandon the opening or find it tedious without denying its reputation; enjoyment and attributed merit diverge.",
+      "location": "Displayed reader comments",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "In Search of Lost Time"
+      ],
+      "disagreement_or_limitations": "Small self-selected set; early abandonment is not a whole-work evaluation; ratings not normalized.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-14.json"
+    },
+    {
+      "source_id": "R104",
+      "underlying_source_id": "R104",
+      "title": "Lalka: opinie",
+      "author": null,
+      "publisher": "Lubimyczytać",
+      "publisher_group": "Lubimyczytać",
+      "canonical_url": "https://lubimyczytac.pl/ksiazka/opinie/5255314/lalka",
+      "access_url": "https://lubimyczytac.pl/ksiazka/opinie/5255314/lalka",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_reviews",
+      "domain_or_platform": "lubimyczytac.pl",
+      "language": "pl",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific reader response and interpretive evidence."
+      },
+      "evidence_notes": "Displayed readers disagree directly: one finds characters didactic and one-dimensional on rereading, another praises multilayered psychology and the anatomy of nineteenth-century Warsaw.",
+      "location": "Ida and Filip comments, August 2026",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Doll (Bolesław Prus)"
+      ],
+      "disagreement_or_limitations": "Edition-specific page; other editions may pool reviews and must not become extra underlying sources.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-14.json"
+    },
+    {
+      "source_id": "R105",
+      "underlying_source_id": "R105",
+      "title": "Overlooked non-anglophone literature",
+      "author": null,
+      "publisher": "Reddit",
+      "publisher_group": "Reddit",
+      "canonical_url": "https://www.reddit.com/r/TrueLit/comments/1vmfk3d/overlooked_nonanglophone_literature/",
+      "access_url": "https://www.reddit.com/r/TrueLit/comments/1vmfk3d/overlooked_nonanglophone_literature/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_discussion",
+      "domain_or_platform": "reddit.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific reader response and interpretive evidence."
+      },
+      "evidence_notes": "Readers distinguish Nobel recognition from local availability; recommend Jahnn’s imagery, Chang Kuei-hsing’s family violence and Bonomini’s individual/collective tensions.",
+      "location": "Overlooked-status debate and detailed recommendations",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Night of Lead",
+        "Monkey Cup",
+        "The Novices of Lerna",
+        "Kenzaburō Ōe"
+      ],
+      "disagreement_or_limitations": "Availability claims are anecdotal and require verification; translated and untranslated works distinguished.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-14.json"
+    },
+    {
+      "source_id": "R106",
+      "underlying_source_id": "R106",
+      "title": "Un chef d’oeuvre paradoxal",
+      "author": null,
+      "publisher": "SensCritique",
+      "publisher_group": "SensCritique",
+      "canonical_url": "https://www.senscritique.com/livre/la_montagne_magique/critique/278964",
+      "access_url": "https://www.senscritique.com/livre/la_montagne_magique/critique/278964",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "standalone_reader_review",
+      "domain_or_platform": "senscritique.com",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific reader response and interpretive evidence."
+      },
+      "evidence_notes": "Coriolano relates fascination and boredom to the novel’s manipulation of time, detached narrator and irony; recommends cautiously because thin action can deter readers.",
+      "location": "Complete standalone critical text",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Magic Mountain"
+      ],
+      "disagreement_or_limitations": "Review-index excerpt and standalone text count together, not twice; one reader’s experience.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-14.json"
+    },
+    {
+      "source_id": "R107",
+      "underlying_source_id": "R107",
+      "title": "红楼梦：读者短评与版本资料",
+      "author": null,
+      "publisher": "Douban",
+      "publisher_group": "Douban",
+      "canonical_url": "https://book.douban.com/subject/30137806/",
+      "access_url": "https://book.douban.com/subject/30137806/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_reviews",
+      "domain_or_platform": "book.douban.com",
+      "language": "zh",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific reader response and interpretive evidence."
+      },
+      "evidence_notes": "Readers emphasize social observation, recognition of themselves and pervasive sadness; bibliographic panel distinguishes Cao Xueqin from the continuation’s unnamed author.",
+      "location": "Bibliographic panel and displayed short reviews",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Dream of the Red Chamber"
+      ],
+      "disagreement_or_limitations": "Edition-specific rating not universal quality; pooled longer-review previews not separately counted or treated as fully read.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-14.json"
+    },
+    {
+      "source_id": "R108",
+      "underlying_source_id": "R108",
+      "title": "Leesgids: De donkere kamer van Damokles",
+      "author": null,
+      "publisher": "Stichting CPNB / Nederland Leest",
+      "publisher_group": "Stichting CPNB / Nederland Leest",
+      "canonical_url": "https://downloads.hebban.nl/leesclubassistent-de-donkere-kamer-van-damocles.pdf",
+      "access_url": "https://downloads.hebban.nl/leesclubassistent-de-donkere-kamer-van-damocles.pdf",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "institutional_reading_guide",
+      "domain_or_platform": "downloads.hebban.nl",
+      "language": "nl",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific reader response and interpretive evidence."
+      },
+      "evidence_notes": "Enschedé connects unresolved resistance/treason ambiguity with controlled pacing and cool style; Hermans contrasts his persistent mystery with a detective novel’s solved puzzle.",
+      "location": "PDF pages 2–3 (introduction and book discussion)",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Darkroom of Damocles"
+      ],
+      "disagreement_or_limitations": "Reading-promotion guide, not reader poll; source’s historical reception claims need corroboration.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-14.json"
+    },
+    {
+      "source_id": "R117",
+      "underlying_source_id": "R117",
+      "title": "The Golden Muse",
+      "author": null,
+      "publisher": "Los Angeles Review of Books",
+      "publisher_group": "Los Angeles Review of Books",
+      "canonical_url": "https://lareviewofbooks.org/article/the-golden-muse/",
+      "access_url": "https://lareviewofbooks.org/article/the-golden-muse/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_criticism",
+      "domain_or_platform": "lareviewofbooks.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Harris and Carew receive contrasting formal judgments."
+      },
+      "evidence_notes": "Zoellner contrasts Harris’s difficult colonial allegory with Carew’s accessible mining novel, and praises Hart’s monetary explanation while criticizing abandoned narrative threads.",
+      "location": "Sections 4–5, lines 158–193",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Palace of the Peacock",
+        "Black Midas",
+        "Gold: The Race for the World’s Most Seductive Metal"
+      ],
+      "disagreement_or_limitations": "Comparative judgment is one critic’s; the author discloses friendship with another reviewed writer.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-16.json"
+    },
+    {
+      "source_id": "R118",
+      "underlying_source_id": "R118",
+      "title": "The power of Pramoedya",
+      "author": null,
+      "publisher": "Inside Indonesia",
+      "publisher_group": "Inside Indonesia",
+      "canonical_url": "https://www.insideindonesia.org/editions/edition-160-apr-jun-2025/the-power-of-pramoedya",
+      "access_url": "https://www.insideindonesia.org/editions/edition-160-apr-jun-2025/the-power-of-pramoedya",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_criticism",
+      "domain_or_platform": "insideindonesia.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Character development and anticolonial reception."
+      },
+      "evidence_notes": "Hollier follows Minke’s education through colonial contradictions and Nyai Ontosoroh’s teaching; the novels challenged the reviewer’s inherited Australian assumptions.",
+      "location": "Opening and Minke/Nyai discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Buru Quartet",
+        "This Earth of Mankind",
+        "Child of All Nations",
+        "Footsteps"
+      ],
+      "disagreement_or_limitations": "Personal reception and interpretation, not a comparative ranking.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-16.json"
+    },
+    {
+      "source_id": "R119",
+      "underlying_source_id": "R119",
+      "title": "A lesson in courage",
+      "author": null,
+      "publisher": "Inside Indonesia",
+      "publisher_group": "Inside Indonesia",
+      "canonical_url": "https://www.insideindonesia.org/editions/edition-8819/a-lesson-in-courage",
+      "access_url": "https://www.insideindonesia.org/editions/edition-8819/a-lesson-in-courage",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_testimony",
+      "domain_or_platform": "insideindonesia.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Specific narrative virtues and Indonesian reception."
+      },
+      "evidence_notes": "Christanty recalls secretly reading the Buru novels under censorship, praising physical description, historical conviction and flawed, resistant characters who shaped her activism.",
+      "location": "Learning to love Indonesia",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Buru Quartet",
+        "Linda Christanty"
+      ],
+      "disagreement_or_limitations": "Retrospective personal testimony; quoted claims about Nobel eligibility are not endorsed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-16.json"
+    },
+    {
+      "source_id": "R120",
+      "underlying_source_id": "R120",
+      "title": "Truth/Untruth: Mahasweta Devi’s novel about a pregnant maid’s death is as comedic as it is morbid",
+      "author": null,
+      "publisher": "Scroll.in",
+      "publisher_group": "Scroll.in",
+      "canonical_url": "https://scroll.in/article/1047900/truth-untruth-mahasweta-devis-novel-about-a-pregnant-maids-death-is-as-comedic-as-it-is-morbid",
+      "access_url": "https://scroll.in/article/1047900/truth-untruth-mahasweta-devis-novel-about-a-pregnant-maids-death-is-as-comedic-as-it-is-morbid",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "scroll.in",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Social satire and narrative tone."
+      },
+      "evidence_notes": "Debnath reads Devi’s unsentimental treatment of a maid’s death through caste impersonation, class ambition and gendered exploitation.",
+      "location": "Opening critical assessment and plot discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Mahasweta Devi",
+        "Truth/Untruth"
+      ],
+      "disagreement_or_limitations": "One translated novel; reviewer enthusiasm is not worldwide consensus.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-16.json"
+    },
+    {
+      "source_id": "R121",
+      "underlying_source_id": "R121",
+      "title": "Stories untold",
+      "author": null,
+      "publisher": "Africa Is a Country",
+      "publisher_group": "Africa Is a Country",
+      "canonical_url": "https://www.africasacountry.com/2024/06/stories-untold",
+      "access_url": "https://www.africasacountry.com/2024/06/stories-untold",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "historical_critical_essay",
+      "domain_or_platform": "africasacountry.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Oral memory and fictional characterization."
+      },
+      "evidence_notes": "Keïta investigates family testimony connecting a relative to Bagayoko, using migration and naming histories to explore the novel’s possible historical models.",
+      "location": "Opening family testimony and patronym discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "God’s Bits of Wood",
+        "Ousmane Sembène"
+      ],
+      "disagreement_or_limitations": "The proposed character model is conjectural, not established authorship evidence.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-16.json"
+    },
+    {
+      "source_id": "R122",
+      "underlying_source_id": "R122",
+      "title": "Ousmane Sembene invented a new cinema for Africa",
+      "author": null,
+      "publisher": "Africa Is a Country",
+      "publisher_group": "Africa Is a Country",
+      "canonical_url": "https://africasacountry.com/2016/10/ousmane-sembene-invented-a-new-cinema-for-africa",
+      "access_url": "https://africasacountry.com/2016/10/ousmane-sembene-invented-a-new-cinema-for-africa",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "interview",
+      "domain_or_platform": "africasacountry.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Senegalese reader and filmmaker reception."
+      },
+      "evidence_notes": "Gadjigo describes God’s Bits of Wood restoring connections to local places and people after alienating schooling, before explaining Sembène’s turn toward cinema.",
+      "location": "Interview on encountering the novel",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "God’s Bits of Wood",
+        "Ousmane Sembène",
+        "Samba Gadjigo"
+      ],
+      "disagreement_or_limitations": "Film achievements are not transferred to book merit.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-16.json"
+    },
+    {
+      "source_id": "R123",
+      "underlying_source_id": "R123",
+      "title": "Decolonizing African literature begins with language",
+      "author": null,
+      "publisher": "Africa Is a Country",
+      "publisher_group": "Africa Is a Country",
+      "canonical_url": "https://africasacountry.com/2020/10/decolonizing-african-literature-begins-with-language",
+      "access_url": "https://africasacountry.com/2020/10/decolonizing-african-literature-begins-with-language",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "canon_critique",
+      "domain_or_platform": "africasacountry.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Language and educational visibility bias."
+      },
+      "evidence_notes": "Criticizes a classroom canon that reduces African authors to one familiar book and channels recognition through metropolitan publishing and European languages.",
+      "location": "Language and fixed classroom canon discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "A Grain of Wheat",
+        "Things Fall Apart",
+        "God’s Bits of Wood",
+        "The Suns of Independence"
+      ],
+      "disagreement_or_limitations": "English/French versions are one underlying essay; examples are not ranked.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-16.json"
+    },
+    {
+      "source_id": "R124",
+      "underlying_source_id": "R124",
+      "title": "Anna Maria Ortese",
+      "author": null,
+      "publisher": "Doppiozero",
+      "publisher_group": "Doppiozero",
+      "canonical_url": "https://www.doppiozero.com/anna-maria-ortese",
+      "access_url": "https://www.doppiozero.com/anna-maria-ortese",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_criticism",
+      "domain_or_platform": "doppiozero.com",
+      "language": "it",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative form and ethical imagination."
+      },
+      "evidence_notes": "Sironi connects fractured syntax and visionary narrative with vulnerability, loss and care across Ortese’s novels.",
+      "location": "Main essay, syntax and concluding novel comparisons",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Il porto di Toledo",
+        "L’Iguana",
+        "Il cardillo addolorato",
+        "Alonso e i visionari"
+      ],
+      "disagreement_or_limitations": "Interpretive appreciation; not an independent ranking.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-17.json"
+    },
+    {
+      "source_id": "R125",
+      "underlying_source_id": "R125",
+      "title": "I Promessi Sposi: un libro parallelo",
+      "author": null,
+      "publisher": "Doppiozero",
+      "publisher_group": "Doppiozero",
+      "canonical_url": "https://www.doppiozero.com/i-promessi-sposi-un-libro-parallelo",
+      "access_url": "https://www.doppiozero.com/i-promessi-sposi-un-libro-parallelo",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_criticism",
+      "domain_or_platform": "doppiozero.com",
+      "language": "it",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Religious ideology versus formal and historical complexity."
+      },
+      "evidence_notes": "Cortellessa reconstructs disagreement over Catholic propaganda, social power and historical complexity in Manzoni, including Moravia’s accusation and Gadda’s rebuttal.",
+      "location": "Moravia/Gadda dispute and illustration discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "I promessi sposi"
+      ],
+      "disagreement_or_limitations": "Quoted historical critics are mediated through this essay, not separately consulted sources.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-17.json"
+    },
+    {
+      "source_id": "R126",
+      "underlying_source_id": "R126",
+      "title": "Une initiation à l’Afrique ambigüe",
+      "author": null,
+      "publisher": "En attendant Nadeau",
+      "publisher_group": "En attendant Nadeau",
+      "canonical_url": "https://www.en-attendant-nadeau.fr/2022/03/19/initiation-afrique-tchak/",
+      "access_url": "https://www.en-attendant-nadeau.fr/2022/03/19/initiation-afrique-tchak/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "en-attendant-nadeau.fr",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Structural praise and characterization objection."
+      },
+      "evidence_notes": "Mazauric praises Tchak’s nuanced ethnographic satire but finds Safiatou’s motivation insufficiently developed within the self-centered narrator’s perspective.",
+      "location": "Review opening and paragraphs on three-part structure/Safiatou",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Le continent du Tout et du presque Rien"
+      ],
+      "disagreement_or_limitations": "Recent acclaim cannot establish long-term endurance.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-17.json"
+    },
+    {
+      "source_id": "R127",
+      "underlying_source_id": "R127",
+      "title": "Arbasino e i primi Fratelli d’Italia",
+      "author": null,
+      "publisher": "Doppiozero",
+      "publisher_group": "Doppiozero",
+      "canonical_url": "https://www.doppiozero.com/arbasino-e-i-primi-fratelli-ditalia",
+      "access_url": "https://www.doppiozero.com/arbasino-e-i-primi-fratelli-ditalia",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "doppiozero.com",
+      "language": "it",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Voice, pace and relation to Italian modernism."
+      },
+      "evidence_notes": "Narros distinguishes the brisk spoken language of Arbasino’s original novel from Gadda’s multilingual style, emphasizing major changes across successive versions.",
+      "location": "Opening version history and stylistic comparison",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Fratelli d’Italia"
+      ],
+      "disagreement_or_limitations": "1963 and 1993 versions differ substantially; assessments are edition-sensitive.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-17.json"
+    },
+    {
+      "source_id": "R128",
+      "underlying_source_id": "R128",
+      "title": "Gaddabolario: furugozzo di parole",
+      "author": null,
+      "publisher": "Doppiozero",
+      "publisher_group": "Doppiozero",
+      "canonical_url": "https://www.doppiozero.com/gaddabolario-furugozzo-di-parole",
+      "access_url": "https://www.doppiozero.com/gaddabolario-furugozzo-di-parole",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "doppiozero.com",
+      "language": "it",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Gadda’s linguistic pleasure and difficulty."
+      },
+      "evidence_notes": "Castronuovo treats Gadda’s difficulty as a source of comic pleasure and assesses a collaborative dictionary explaining his lexical inventions.",
+      "location": "Review on linguistic estrangement and dictionary structure",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Gaddabolario",
+        "Quer pasticciaccio brutto de via Merulana",
+        "L’Adalgisa",
+        "Eros e Priapo"
+      ],
+      "disagreement_or_limitations": "Dictionary entries are not separately consulted; enthusiasm coexists with demands on readers.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-17.json"
+    },
+    {
+      "source_id": "R129",
+      "underlying_source_id": "R129",
+      "title": "12 polskich książek, które sprawią, że staniesz się innym człowiekiem",
+      "author": null,
+      "publisher": "Culture.pl",
+      "publisher_group": "Culture.pl",
+      "canonical_url": "https://culture.pl/pl/artykul/12-polskich-ksiazek-ktore-sprawia-ze-staniesz-sie-innym-czlowiekiem",
+      "access_url": "https://culture.pl/pl/artykul/12-polskich-ksiazek-ktore-sprawia-ze-staniesz-sie-innym-czlowiekiem",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "curated_recommendations",
+      "domain_or_platform": "culture.pl",
+      "language": "pl",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Specific stylistic and interpretive recommendations."
+      },
+      "evidence_notes": "Biełow contrasts Schulz’s vitality with Kafka, praises Hłasko’s speech rhythms and Gombrowicz’s style, and reads Solaris through limits of self-knowledge.",
+      "location": "Schulz, Hłasko, Gombrowicz and Solaris sections",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Street of Crocodiles",
+        "Sanatorium Under the Sign of the Hourglass",
+        "The First Step in the Clouds",
+        "Pornografia",
+        "Solaris"
+      ],
+      "disagreement_or_limitations": "Cultural-promotion institution and personal selection; numbered count is not merit order.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-17.json"
+    },
+    {
+      "source_id": "R130",
+      "underlying_source_id": "R130",
+      "title": "『草枕』—中野翠による書評",
+      "author": null,
+      "publisher": "ALL REVIEWS",
+      "publisher_group": "ALL REVIEWS",
+      "canonical_url": "https://allreviews.jp/review/4021",
+      "access_url": "https://allreviews.jp/review/4021",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_criticism",
+      "domain_or_platform": "allreviews.jp",
+      "language": "ja",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Canonical prestige tested against adult reading experience."
+      },
+      "evidence_notes": "Nakano finds Sōseki’s famous rhetoric over-polished on rereading, while valuing the conflict between aesthetic detachment, social life and intrusive self-consciousness.",
+      "location": "Reviewer text, paragraphs on rhetoric and nonattachment",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Kusamakura"
+      ],
+      "disagreement_or_limitations": "Reprinted review collected in a 2010 book; 2020 web date is not original judgment.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-17.json"
+    },
+    {
+      "source_id": "R131",
+      "underlying_source_id": "R131",
+      "title": "Od powieści filozoficznej do teatru (post)epickiego? Kosmos Witolda Gombrowicza w inscenizacji Jerzego Jarockiego",
+      "author": null,
+      "publisher": "Załącznik Kulturoznawczy",
+      "publisher_group": "Załącznik Kulturoznawczy",
+      "canonical_url": "https://czasopisma.uksw.edu.pl/index.php/zk/article/view/12518",
+      "access_url": "https://czasopisma.uksw.edu.pl/index.php/zk/article/view/12518",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_article",
+      "domain_or_platform": "czasopisma.uksw.edu.pl",
+      "language": "en",
+      "access_level": "abstract_only",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Adaptability and active reception, narrowly supported."
+      },
+      "evidence_notes": "Gołos-Dąbrowska’s abstract argues Jarocki’s adaptation preserves epic elements of Cosmos and uses staging to activate philosophical interpretation.",
+      "location": "English abstract and article metadata",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Cosmos"
+      ],
+      "disagreement_or_limitations": "Abstract only; stagecraft does not establish novel merit. Full Polish argument remains unread.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-17.json"
+    },
+    {
+      "source_id": "R132",
+      "underlying_source_id": "R132",
+      "title": "Ein düsteres Kapitel im Kanon der Weltliteratur",
+      "author": null,
+      "publisher": "Deutschlandfunk",
+      "publisher_group": "Deutschlandfunk",
+      "canonical_url": "https://www.deutschlandfunk.de/thomas-hardy-jude-fawley-der-unbekannte-ein-duesteres-100.html",
+      "access_url": "https://www.deutschlandfunk.de/thomas-hardy-jude-fawley-der-unbekannte-ein-duesteres-100.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "deutschlandfunk.de",
+      "language": "de",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Realism, radicalism and historical reception."
+      },
+      "evidence_notes": "Moritz emphasizes Hardy’s attack on marriage as an institution and the hostile reception that followed, alongside the novel’s realism.",
+      "location": "Marriage critique and reception paragraphs",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Jude the Obscure"
+      ],
+      "disagreement_or_limitations": "New translation discussed separately from the underlying novel.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-18.json"
+    },
+    {
+      "source_id": "R133",
+      "underlying_source_id": "R133",
+      "title": "Große Romane der Weltliteratur: Die Geschichte eines faszinierenden Genres",
+      "author": null,
+      "publisher": "Deutschlandfunk",
+      "publisher_group": "Deutschlandfunk",
+      "canonical_url": "https://www.deutschlandfunk.de/grosse-romane-der-weltliteratur-die-geschichte-eines-100.html",
+      "access_url": "https://www.deutschlandfunk.de/grosse-romane-der-weltliteratur-die-geschichte-eines-100.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "interview",
+      "domain_or_platform": "deutschlandfunk.de",
+      "language": "de",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Satirical traditions and cross-century connections."
+      },
+      "evidence_notes": "Kesting uses Rabelais’s miniature world to trace the novel’s formal self-awareness and connects grotesque invention across centuries to Grass.",
+      "location": "Kesting/Gutzeit opening discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Gargantua and Pantagruel",
+        "The Tin Drum",
+        "Don Quixote"
+      ],
+      "disagreement_or_limitations": "European-focused selection of forty works; interview is one source, not forty.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-18.json"
+    },
+    {
+      "source_id": "R134",
+      "underlying_source_id": "R134",
+      "title": "Fest des Erzählens – Festival des Kommentierens",
+      "author": null,
+      "publisher": "Deutschlandfunk",
+      "publisher_group": "Deutschlandfunk",
+      "canonical_url": "https://www.deutschlandfunk.de/thomas-mann-joseph-und-seine-brueder-i-und-ii-fest-des-100.html",
+      "access_url": "https://www.deutschlandfunk.de/thomas-mann-joseph-und-seine-brueder-i-und-ii-fest-des-100.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "deutschlandfunk.de",
+      "language": "de",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Psychological expansion and contested influences."
+      },
+      "evidence_notes": "Review highlights Mann’s expansion of marginalized biblical characters and commentary that complicates received claims about Freud’s influence and exposes speculative source material.",
+      "location": "Mut-em-enet, commentary and Freud discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Joseph and His Brothers"
+      ],
+      "disagreement_or_limitations": "Novel’s borrowed pseudoscientific ideas are identified, not endorsed; commentary and novel distinguished.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-18.json"
+    },
+    {
+      "source_id": "R135",
+      "underlying_source_id": "R135",
+      "title": "Resenha: Grande Sertão Veredas – Viver é muito perigoso!",
+      "author": null,
+      "publisher": "Newton Nitro",
+      "publisher_group": "Newton Nitro",
+      "canonical_url": "https://newtonrocha.wordpress.com/2014/11/27/resenha-grande-sertao-veredas-de-joao-guimaraes-rosa-viver-e-muito-perigoso-nitrobloge-par/",
+      "access_url": "https://newtonrocha.wordpress.com/2014/11/27/resenha-grande-sertao-veredas-de-joao-guimaraes-rosa-viver-e-muito-perigoso-nitrobloge-par/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_blog",
+      "domain_or_platform": "newtonrocha.wordpress.com",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Local speech, narrative rhythm and accessibility."
+      },
+      "evidence_notes": "Rocha recalls overcoming repeated false starts as Rosa’s language evoked family speech; praises psychological chronology and philosophical reflection integrated with action.",
+      "location": "Personal reading history and narrative-technique paragraphs",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Grande sertão: veredas"
+      ],
+      "disagreement_or_limitations": "Regional familiarity shapes this enthusiastic response.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-18.json"
+    },
+    {
+      "source_id": "R136",
+      "underlying_source_id": "R136",
+      "title": "Grande Sertão: Veredas — uma resenha crítica",
+      "author": null,
+      "publisher": "Ivo Korytowski",
+      "publisher_group": "Ivo Korytowski",
+      "canonical_url": "https://sites.google.com/site/livrosdeivokorytowski/grande-sert%C3%A3o-veredas-resenha",
+      "access_url": "https://sites.google.com/site/livrosdeivokorytowski/grande-sert%C3%A3o-veredas-resenha",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_blog",
+      "domain_or_platform": "sites.google.com",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative motivation and ethical objections."
+      },
+      "evidence_notes": "Korytowski challenges reverence surrounding Rosa, questions the aimlessness of jagunço warfare and objects to romanticizing a violent narrator despite acknowledged poetic qualities.",
+      "location": "Opening and objections 1–2",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Grande sertão: veredas"
+      ],
+      "disagreement_or_limitations": "Strongly moralizing counter-reading; character wrongdoing does not itself disprove literary achievement.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-18.json"
+    },
+    {
+      "source_id": "R137",
+      "underlying_source_id": "R137",
+      "title": "10 Considerações sobre Grande sertão: veredas",
+      "author": null,
+      "publisher": "Listas Literárias / Douglas Eralldo",
+      "publisher_group": "Listas Literárias / Douglas Eralldo",
+      "canonical_url": "https://www.listasliterarias.com/2024/06/10-consideracoes-sobre-grande-sertao.html",
+      "access_url": "https://www.listasliterarias.com/2024/06/10-consideracoes-sobre-grande-sertao.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_blog",
+      "domain_or_platform": "listasliterarias.com",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Desire, uncertainty and reading difficulty."
+      },
+      "evidence_notes": "Eralldo’s rereading foregrounds unresolved desire, religious doubt and the reader’s willingness to enter experimental narration, with attention to edition history.",
+      "location": "Considerations 1–4",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Grande sertão: veredas"
+      ],
+      "disagreement_or_limitations": "Cited critical essays are not separately consulted; review contains plot disclosures.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-18.json"
+    },
+    {
+      "source_id": "R138",
+      "underlying_source_id": "R138",
+      "title": "Clarín: las contradicciones de un realismo límite",
+      "author": null,
+      "publisher": "Biblioteca Virtual Miguel de Cervantes",
+      "publisher_group": "Biblioteca Virtual Miguel de Cervantes",
+      "canonical_url": "https://www.cervantesvirtual.com/obra-visor/clarn---las-contradicciones-de-un-realismo-lmite-0/html/ff8389b0-82b1-11df-acc7-002185ce6064_13.html",
+      "access_url": "https://www.cervantesvirtual.com/obra-visor/clarn---las-contradicciones-de-un-realismo-lmite-0/html/ff8389b0-82b1-11df-acc7-002185ce6064_13.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_chapter",
+      "domain_or_platform": "cervantesvirtual.com",
+      "language": "es",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Genre transformation and narrative temperament."
+      },
+      "evidence_notes": "Traces Clarín’s move from naturalist totality toward psychological and poetic fiction, locating Su único hijo between extreme interiority and the grotesque.",
+      "location": "Novel-theory crisis and Su único hijo sections",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Su único hijo",
+        "Doña Berta"
+      ],
+      "disagreement_or_limitations": "One chapter of a larger study; cited critics are mediated evidence.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-18.json"
+    },
+    {
+      "source_id": "R139",
+      "underlying_source_id": "R139",
+      "title": "La presencia de Leopoldo Alas, La Estafeta Literaria",
+      "author": null,
+      "publisher": "Centro Virtual Cervantes",
+      "publisher_group": "Centro Virtual Cervantes",
+      "canonical_url": "https://cvc.cervantes.es/literatura/clarin_espejo/ballesteros.htm",
+      "access_url": "https://cvc.cervantes.es/literatura/clarin_espejo/ballesteros.htm",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_essay",
+      "domain_or_platform": "cvc.cervantes.es",
+      "language": "es",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Reception history and publication bias."
+      },
+      "evidence_notes": "Ballesteros shows that one influential magazine’s scant attention to Clarín failed to track his wider scholarly revival, revealing selective postwar visibility.",
+      "location": "Opening historical comparison and first publication period",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "La Regenta",
+        "Leopoldo Alas"
+      ],
+      "disagreement_or_limitations": "Single periodical is an unrepresentative proxy; no absence-as-low-quality inference.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-18.json"
+    },
+    {
+      "source_id": "R140",
+      "underlying_source_id": "R140",
+      "title": "첫 만남부터 손수 밥지어준 ‘박경리 인품’ 전하고 싶었죠",
+      "author": null,
+      "publisher": "Hankyoreh, reprinted by Nanam",
+      "publisher_group": "Hankyoreh, reprinted by Nanam",
+      "canonical_url": "https://www.nanam.net/nanam/news.php?code=news&idx=4115&page=13&ptype=view",
+      "access_url": "https://www.nanam.net/nanam/news.php?code=news&idx=4115&page=13&ptype=view",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "interview",
+      "domain_or_platform": "nanam.net",
+      "language": "ko",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Regional language and situated reader response."
+      },
+      "evidence_notes": "Kim Hyung-kook describes Toji’s regional dialect and ordinary lives as decisive attractions; his biography draws on long acquaintance and contemporaneous notes.",
+      "location": "Interview, dialect and biography-method passages",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Toji",
+        "박경리 이야기"
+      ],
+      "disagreement_or_limitations": "Publisher-hosted newspaper reprint counts once; personal intimacy can shape interpretation.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-19.json"
+    },
+    {
+      "source_id": "R141",
+      "underlying_source_id": "R141",
+      "title": "박경리 ‘토지’에 나타난 진주지역에서의 형평사운동에 관한 소고",
+      "author": null,
+      "publisher": "Korean Law & Society Association",
+      "publisher_group": "Korean Law & Society Association",
+      "canonical_url": "https://klsa.jams.or.kr/co/download/popup/poDownload.kci?orteFileId=KCI_FI002028013",
+      "access_url": "https://klsa.jams.or.kr/co/download/popup/poDownload.kci?orteFileId=KCI_FI002028013",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_article",
+      "domain_or_platform": "klsa.jams.or.kr",
+      "language": "ko",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Praise and specific historical reservations."
+      },
+      "evidence_notes": "Yoon Chul-hong credits Toji’s depiction of status emancipation while identifying discrepancies in organizational origins and excessive localization of the Hyŏngp’yŏng movement.",
+      "location": "Korean abstract and introduction, pp.173–176",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Toji"
+      ],
+      "disagreement_or_limitations": "Historical accuracy is one dimension; remaining detailed argument not fully reviewed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-19.json"
+    },
+    {
+      "source_id": "R160",
+      "underlying_source_id": "R160",
+      "title": "موسم الهجرة إلى الشمال.. وسؤال الهوية عند الطيب صالح",
+      "author": null,
+      "publisher": "Al Jazeera / Sherif Murad",
+      "publisher_group": "Al Jazeera / Sherif Murad",
+      "canonical_url": "https://www.aljazeera.net/culture/2017/1/17/%D8%B3%D8%A4%D8%A7%D9%84-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%B7%D9%8A%D8%A8-%D8%B5%D8%A7%D9%84%D8%AD",
+      "access_url": "https://www.aljazeera.net/culture/2017/1/17/%D8%B3%D8%A4%D8%A7%D9%84-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%B7%D9%8A%D8%A8-%D8%B5%D8%A7%D9%84%D8%AD",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_criticism",
+      "domain_or_platform": "aljazeera.net",
+      "language": "ar",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative interpretation and situated reading."
+      },
+      "evidence_notes": "Murad reads three generations of characters as contrasting responses to colonialism and modernization, arguing that migration gives the novel renewed relevance.",
+      "location": "Opening and three-character interpretation",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Season of Migration to the North"
+      ],
+      "disagreement_or_limitations": "Contemporary relevance is the critic’s interpretation.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-22.json"
+    },
+    {
+      "source_id": "R161",
+      "underlying_source_id": "R161",
+      "title": "مراجعات موسم الهجرة إلى الشمال",
+      "author": null,
+      "publisher": "Abjjad",
+      "publisher_group": "Abjjad",
+      "canonical_url": "https://www.abjjad.com/book/15445042/%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84/2171109820/reviews",
+      "access_url": "https://www.abjjad.com/book/15445042/%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84/2171109820/reviews",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_community",
+      "domain_or_platform": "abjjad.com",
+      "language": "ar",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative interpretation and situated reading."
+      },
+      "evidence_notes": "A substantive rereading values Salih’s sensory description and female characterization while acknowledging unresolved passages and the influence of earlier reading and criticism.",
+      "location": "Displayed extended rereading, lines 114–133",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Season of Migration to the North"
+      ],
+      "disagreement_or_limitations": "One work-review page; reader admits critical dependence, so interpretation is not fully independent.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-22.json"
+    },
+    {
+      "source_id": "R162",
+      "underlying_source_id": "R162",
+      "title": "ثلاثيّة نجيب محفوظ: مقاربة نقديّة",
+      "author": null,
+      "publisher": "Alantologia / Ziad al-Awf",
+      "publisher_group": "Alantologia / Ziad al-Awf",
+      "canonical_url": "https://alantologia.com/blogs/68584/",
+      "access_url": "https://alantologia.com/blogs/68584/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "specialist_critical_essay",
+      "domain_or_platform": "alantologia.com",
+      "language": "ar",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative interpretation and situated reading."
+      },
+      "evidence_notes": "Al-Awf interprets the trilogy’s movement from patriarch to son to grandchildren as a changing social and intellectual map of Egypt.",
+      "location": "Opening and discussion of each volume",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Cairo Trilogy",
+        "Palace Walk",
+        "Palace of Desire",
+        "Sugar Street"
+      ],
+      "disagreement_or_limitations": "Essay hosted in a literary community; provenance retained as one article.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-22.json"
+    },
+    {
+      "source_id": "R163",
+      "underlying_source_id": "R163",
+      "title": "خلاصه و نقد کتاب بوف کور",
+      "author": null,
+      "publisher": "Taaghche",
+      "publisher_group": "Taaghche",
+      "canonical_url": "https://taaghche.com/blog/1398/11/30/%D9%86%D9%82%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A8%D9%88%D9%81-%DA%A9%D9%88%D8%B1/",
+      "access_url": "https://taaghche.com/blog/1398/11/30/%D9%86%D9%82%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A8%D9%88%D9%81-%DA%A9%D9%88%D8%B1/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "bookseller_critical_blog",
+      "domain_or_platform": "taaghche.com",
+      "language": "fa",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative interpretation and situated reading."
+      },
+      "evidence_notes": "Persian reading guide interprets the owl symbolism and fragmented narrator through isolation and the erosion of selfhood.",
+      "location": "Symbolism and narrator sections",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Blind Owl"
+      ],
+      "disagreement_or_limitations": "Commercial platform; chronological context conflicts with its own later publication account. Influence and dating claims require independent verification and are not adopted.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-22.json"
+    },
+    {
+      "source_id": "R164",
+      "underlying_source_id": "R164",
+      "title": "М. А. Булгаков — Мастер и Маргарита",
+      "author": null,
+      "publisher": "Buklya / Yulia Shepel",
+      "publisher_group": "Buklya / Yulia Shepel",
+      "canonical_url": "https://buklya.com/articles/2964-m-a-bulgakov-master-i-margarita",
+      "access_url": "https://buklya.com/articles/2964-m-a-bulgakov-master-i-margarita",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_review",
+      "domain_or_platform": "buklya.com",
+      "language": "ru",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative interpretation and situated reading."
+      },
+      "evidence_notes": "Shepel recalls vivid, absorbing school-age reading and credits rereading with complicating binary judgments of good and evil.",
+      "location": "Personal reading account and moral interpretation",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Master and Margarita"
+      ],
+      "disagreement_or_limitations": "Personal effect and author-intent speculation are distinct; no claim of representative Russian opinion.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-22.json"
+    },
+    {
+      "source_id": "R165",
+      "underlying_source_id": "R165",
+      "title": "Rulfo y sus críticos",
+      "author": null,
+      "publisher": "Letras Libres",
+      "publisher_group": "Letras Libres",
+      "canonical_url": "https://letraslibres.com/revista/rulfo-y-sus-criticos/",
+      "access_url": "https://letraslibres.com/revista/rulfo-y-sus-criticos/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reception_history",
+      "domain_or_platform": "letraslibres.com",
+      "language": "es",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative interpretation and situated reading."
+      },
+      "evidence_notes": "Reconstructs Rulfo’s critical reception, questions claims of initial neglect and definitive editions, and distinguishes scholarly attention from wider literary uptake.",
+      "location": "Edition/reception discussion, lines 210–220",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Pedro Páramo",
+        "El llano en llamas",
+        "Claves narrativas de Juan Rulfo",
+        "La recepción inicial de Pedro Páramo"
+      ],
+      "disagreement_or_limitations": "Cited studies are not extra consultations; edition authority itself is disputed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-22.json"
+    },
+    {
+      "source_id": "S08",
+      "underlying_source_id": "stanford",
+      "title": "Between Canon and Corpus: Six Perspectives on 20th-Century Novels",
+      "author": null,
+      "publisher": "Stanford Literary Lab",
+      "publisher_group": "Stanford Literary Lab",
+      "canonical_url": "https://litlab.stanford.edu/LiteraryLabPamphlet8.pdf",
+      "access_url": "https://litlab.stanford.edu/LiteraryLabPamphlet8.pdf",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_study",
+      "domain_or_platform": "litlab.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific interpretation or evidence-selection limits."
+      },
+      "evidence_notes": "Examines corpus selection under cost and availability constraints, rejecting a single scholar’s private library as an adequate basis for collective literary analysis.",
+      "location": "Dilemmas of Selection, pp.1–3",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Selection bias",
+        "Twentieth-century fiction"
+      ],
+      "disagreement_or_limitations": "English-language corpus design; not a merit ranking.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-23.json"
+    },
+    {
+      "source_id": "S10",
+      "underlying_source_id": "reddit-greatest",
+      "title": "What is the greatest novel ever written?",
+      "author": null,
+      "publisher": "Reddit r/classicliterature",
+      "publisher_group": "Reddit r/classicliterature",
+      "canonical_url": "https://www.reddit.com/r/classicliterature/comments/1rjd539/what_is_the_greatest_novel_ever_written/",
+      "access_url": "https://www.reddit.com/r/classicliterature/comments/1rjd539/what_is_the_greatest_novel_ever_written/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_discussion",
+      "domain_or_platform": "reddit.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific interpretation or evidence-selection limits."
+      },
+      "evidence_notes": "Readers praise Les Misérables for narrative scope, digression and the discoveries enabled by repeated reading.",
+      "location": "Opening substantive replies",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Les Misérables"
+      ],
+      "disagreement_or_limitations": "Self-selected discussion; repeated praise is not an independent survey.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-23.json"
+    },
+    {
+      "source_id": "S13",
+      "underlying_source_id": "reddit-difficulty",
+      "title": "Reviewing and Ranking the 40 Classics I’ve Read",
+      "author": null,
+      "publisher": "Reddit r/classicliterature / Lipe18090",
+      "publisher_group": "Reddit r/classicliterature / Lipe18090",
+      "canonical_url": "https://www.reddit.com/r/classicliterature/comments/1u07sps/reviewing_and_ranking_the_40_classics_ive_read/",
+      "access_url": "https://www.reddit.com/r/classicliterature/comments/1u07sps/reviewing_and_ranking_the_40_classics_ive_read/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_ranking",
+      "domain_or_platform": "reddit.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific interpretation or evidence-selection limits."
+      },
+      "evidence_notes": "Separates enjoyment from difficulty; prefers Camus’s fiction to his essays, finds Aristotle demanding but rewarding, and reports personal benefit from Marcus Aurelius.",
+      "location": "Opening reviews and philosophical entries 31,30,24",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Heart of Darkness",
+        "The Myth of Sisyphus",
+        "Politics",
+        "Meditations",
+        "Nausea"
+      ],
+      "disagreement_or_limitations": "One reader’s restricted finished-book set; replies contest the Sartre judgment.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-23.json"
+    },
+    {
+      "source_id": "S15",
+      "underlying_source_id": "cambridge-summary",
+      "title": "Canons and canon formation",
+      "author": null,
+      "publisher": "Cambridge University Press / Jan Gorak",
+      "publisher_group": "Cambridge University Press / Jan Gorak",
+      "canonical_url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-literary-criticism/canons-and-canon-formation/7A23B3485FDA4C5B00982A0C0BC7C712",
+      "access_url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-literary-criticism/canons-and-canon-formation/7A23B3485FDA4C5B00982A0C0BC7C712",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_chapter",
+      "domain_or_platform": "cambridge.org",
+      "language": "en",
+      "access_level": "summary_only",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific interpretation or evidence-selection limits."
+      },
+      "evidence_notes": "Accessible summary frames criticism as selection, restoration and evaluation, shaped by growing production and increasingly heterogeneous audiences.",
+      "location": "Accessible chapter summary",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Canon formation"
+      ],
+      "disagreement_or_limitations": "Summary only; no claim to have read the full chapter.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-23.json"
+    },
+    {
+      "source_id": "S31",
+      "underlying_source_id": "calvino",
+      "title": "Why Read the Classics?",
+      "author": null,
+      "publisher": "Italo Calvino / NYRB, CUNY-hosted translation",
+      "publisher_group": "Italo Calvino / NYRB, CUNY-hosted translation",
+      "canonical_url": "https://files.blogs.baruch.cuny.edu/wp-content/blogs.dir/8383/files/2021/01/calvino_why-read-the-classics.pdf",
+      "access_url": "https://files.blogs.baruch.cuny.edu/wp-content/blogs.dir/8383/files/2021/01/calvino_why-read-the-classics.pdf",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_essay",
+      "domain_or_platform": "files.blogs.baruch.cuny.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific interpretation or evidence-selection limits."
+      },
+      "evidence_notes": "Calvino distinguishes canonical talk from actual reading and treats first reading and rereading at different ages as distinct sources of literary discovery.",
+      "location": "Opening definitions and examples, p.1",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Why Read the Classics?",
+        "Balzac",
+        "Dickens",
+        "Rougon-Macquart"
+      ],
+      "disagreement_or_limitations": "English translation of one essay; anecdotal examples are not rankings.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-23.json"
+    },
+    {
+      "source_id": "S45",
+      "underlying_source_id": "reddit-canon",
+      "title": "Results: Literature Canon",
+      "author": null,
+      "publisher": "Reddit r/literature",
+      "publisher_group": "Reddit r/literature",
+      "canonical_url": "https://www.reddit.com/r/literature/comments/zzz8iz",
+      "access_url": "https://www.reddit.com/r/literature/comments/zzz8iz",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_poll",
+      "domain_or_platform": "reddit.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific interpretation or evidence-selection limits."
+      },
+      "evidence_notes": "A 130-participant exercise explicitly targets a Western canon and retains books receiving at least three votes, including fiction alongside poetry and drama.",
+      "location": "Poll method and displayed fiction entries",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "As I Lay Dying",
+        "Song of Solomon",
+        "Pale Fire",
+        "The Magic Mountain"
+      ],
+      "disagreement_or_limitations": "One poll; mixed-form results must be filtered for literary fiction.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-23.json"
+    },
+    {
+      "source_id": "S48",
+      "underlying_source_id": "corpus",
+      "title": "Common Library 1.0",
+      "author": null,
+      "publisher": "Allen Riddell and collaborators / arXiv",
+      "publisher_group": "Allen Riddell and collaborators / arXiv",
+      "canonical_url": "https://arxiv.org/pdf/1909.02602",
+      "access_url": "https://arxiv.org/pdf/1909.02602",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_study",
+      "domain_or_platform": "arxiv.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific interpretation or evidence-selection limits."
+      },
+      "evidence_notes": "Matches a Victorian corpus’s publication-year and author-gender proportions to a wider bibliography while explicitly declining a full statistical representativeness claim.",
+      "location": "Abstract and introduction, pp.1–2",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Corpus and reprint bias"
+      ],
+      "disagreement_or_limitations": "Population resemblance does not establish literary merit.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-23.json"
+    },
+    {
+      "source_id": "S50",
+      "underlying_source_id": "booker-gender",
+      "title": "Judging a Book by its Description",
+      "author": null,
+      "publisher": "Nishtha Madaan and collaborators / arXiv",
+      "publisher_group": "Nishtha Madaan and collaborators / arXiv",
+      "canonical_url": "https://arxiv.org/pdf/1807.10615",
+      "access_url": "https://arxiv.org/pdf/1807.10615",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_study",
+      "domain_or_platform": "arxiv.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Fiction-specific interpretation or evidence-selection limits."
+      },
+      "evidence_notes": "Analyzes gender patterns in Goodreads descriptions of 275 Booker-shortlisted books, illustrating the limited proxy available when studying prize-associated fiction.",
+      "location": "Abstract and opening research design",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Booker descriptions",
+        "Gender representation"
+      ],
+      "disagreement_or_limitations": "Descriptions are not whole novels; shortlist sample is not world literature.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-23.json"
+    },
+    {
+      "source_id": "R178",
+      "underlying_source_id": "R178",
+      "title": "Bolesław Prus, Lalka",
+      "author": "Robert Kowalski",
+      "publisher": "Culture.pl / Adam Mickiewicz Institute",
+      "publisher_group": "Culture.pl / Adam Mickiewicz Institute",
+      "canonical_url": "https://culture.pl/pl/dzielo/boleslaw-prus-lalka",
+      "access_url": "https://culture.pl/pl/dzielo/boleslaw-prus-lalka",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "institutional_critical_essay",
+      "domain_or_platform": "culture.pl",
+      "language": "pl",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Direct candidate criticism, disagreement or complete-reading testimony strengthens placement comparisons."
+      },
+      "evidence_notes": "Contrasts romanticism, positivism and capitalism, highlighting unreliable narration and a newer reading in which both Wokulski and Łęcka lose agency to social conventions.",
+      "location": "Full critical article",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Doll"
+      ],
+      "disagreement_or_limitations": "Cultural-institution perspective; cited scholarship is not separately consulted.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-26.json"
+    },
+    {
+      "source_id": "R179",
+      "underlying_source_id": "R179",
+      "title": "A review of The Magic Mountain",
+      "author": "Tom Frenkel",
+      "publisher": "Compulsive Reader",
+      "publisher_group": "Compulsive Reader",
+      "canonical_url": "https://compulsivereader.com/2010/05/19/a-review-of-the-magic-mountain-by-thomas-mann/",
+      "access_url": "https://compulsivereader.com/2010/05/19/a-review-of-the-magic-mountain-by-thomas-mann/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_review",
+      "domain_or_platform": "compulsivereader.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Direct candidate criticism, disagreement or complete-reading testimony strengthens placement comparisons."
+      },
+      "evidence_notes": "Describes a difficult beginning followed by unusually rewarding intellectual engagement; considers time, ideological dialogue and divided responses to Lowe-Porter’s deliberately foreign-sounding translation.",
+      "location": "Review including translation discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Magic Mountain"
+      ],
+      "disagreement_or_limitations": "Dated 1997, posted 2010, revised 2011; one underlying review, not three.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-26.json"
+    },
+    {
+      "source_id": "R180",
+      "underlying_source_id": "R180",
+      "title": "Tolstoy’s Real Hero",
+      "author": "Orlando Figes",
+      "publisher": "The New York Review of Books",
+      "publisher_group": "The New York Review of Books",
+      "canonical_url": "https://www.nybooks.com/articles/2007/11/22/tolstoys-real-hero/",
+      "access_url": "https://www.nybooks.com/articles/2007/11/22/tolstoys-real-hero/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "nybooks.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Direct candidate criticism, disagreement or complete-reading testimony strengthens placement comparisons."
+      },
+      "evidence_notes": "Connects literary form, historical inquiry and multilingual social characterization; praises Pevear/Volokhonsky’s repetitions while noting errors. Distinguishes the completed novel from Bromfield’s early-draft version.",
+      "location": "Sections 2–3 and bibliography footnote 8",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "War and Peace"
+      ],
+      "disagreement_or_limitations": "Comparative translation judgment is one scholar’s position, not consensus.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-26.json"
+    },
+    {
+      "source_id": "R181",
+      "underlying_source_id": "R181",
+      "title": "An 1886 Review of War and Peace",
+      "author": "Unsigned historical review",
+      "publisher": "New York Times; excerpt republished by Book Marks",
+      "publisher_group": "New York Times; excerpt republished by Book Marks",
+      "canonical_url": "https://bookmarks.reviews/an-1886-review-of-war-and-peace/",
+      "access_url": "https://bookmarks.reviews/an-1886-review-of-war-and-peace/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "historical_review",
+      "domain_or_platform": "bookmarks.reviews",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Direct candidate criticism, disagreement or complete-reading testimony strengthens placement comparisons."
+      },
+      "evidence_notes": "The 1886 critic objects to fatalism, analytical distance and plot structure while recognizing descriptive power. The reviewed text was only an initial portion translated through French.",
+      "location": "Reproduced review excerpts",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "War and Peace"
+      ],
+      "disagreement_or_limitations": "Partial-work, indirect-translation reception cannot stand as a review of a modern complete edition; one underlying NYT review.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-26.json"
+    },
+    {
+      "source_id": "R182",
+      "underlying_source_id": "R182",
+      "title": "夏目漱石著『こころ』",
+      "author": "Student S, Faculty of Intelligence and Informatics",
+      "publisher": "Konan University Library",
+      "publisher_group": "Konan University Library",
+      "canonical_url": "https://www.konan-u.ac.jp/lib/blog/archives/7958",
+      "access_url": "https://www.konan-u.ac.jp/lib/blog/archives/7958",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_review",
+      "domain_or_platform": "konan-u.ac.jp",
+      "language": "ja",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Direct candidate criticism, disagreement or complete-reading testimony strengthens placement comparisons."
+      },
+      "evidence_notes": "A student contrasts school-excerpt impressions with a later complete reading, finding greater understanding of guilt, egoism and historical dislocation rather than simply a gloomy protagonist.",
+      "location": "Student recommendation, paragraphs 1–6",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Kokoro"
+      ],
+      "disagreement_or_limitations": "Student testimony hosted by a university, not faculty scholarship or representative reader consensus.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-26.json"
+    },
+    {
+      "source_id": "R183",
+      "underlying_source_id": "R183",
+      "title": "Cien años de soledad: una novela cósmica",
+      "author": "Eduardo E. Parrilla",
+      "publisher": "Archipiélago / UNAM",
+      "publisher_group": "Archipiélago / UNAM",
+      "canonical_url": "https://revistas.unam.mx/index.php/archipielago/article/download/82287/72164",
+      "access_url": "https://revistas.unam.mx/index.php/archipielago/article/download/82287/72164",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_book_excerpt",
+      "domain_or_platform": "revistas.unam.mx",
+      "language": "es",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Direct candidate criticism, disagreement or complete-reading testimony strengthens placement comparisons."
+      },
+      "evidence_notes": "Challenges a single Latin-American-allegory interpretation through regional differences and multiple symbolic layers; links technical innovation to openness and the novel’s continued interpretive vitality.",
+      "location": "Book-introduction excerpt, printed pp.32–33",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "One Hundred Years of Solitude"
+      ],
+      "disagreement_or_limitations": "A two-page introduction, not the full monograph; cited Eco/Vargas Llosa works are not extra consulted sources.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-26.json"
+    },
+    {
+      "source_id": "R184",
+      "underlying_source_id": "R184",
+      "title": "NEA Big Read: Beloved",
+      "author": null,
+      "publisher": "National Endowment for the Arts",
+      "publisher_group": "National Endowment for the Arts",
+      "canonical_url": "https://www.arts.gov/initiatives/nea-big-read/beloved",
+      "access_url": "https://www.arts.gov/initiatives/nea-big-read/beloved",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "institutional_reading_guide",
+      "domain_or_platform": "arts.gov",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Form, reception and disagreement inform literary placement."
+      },
+      "evidence_notes": "Connects nonlinear memory, haunting and narrative agency; records contested institutional recognition before the Pulitzer. Supports sustained rereading beyond a simple historical plot.",
+      "location": "Introduction, author and work discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Beloved"
+      ],
+      "disagreement_or_limitations": "Guide, not an independent ranking. Biographical date inconsistencies are excluded from catalog verification.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-27.json"
+    },
+    {
+      "source_id": "R185",
+      "underlying_source_id": "R185",
+      "title": "Moby, without the Dicks",
+      "author": "Jenny Diski",
+      "publisher": "London Review of Books",
+      "publisher_group": "London Review of Books",
+      "canonical_url": "https://www.lrb.co.uk/blog/2009/september/moby-without-the-dicks",
+      "access_url": "https://www.lrb.co.uk/blog/2009/september/moby-without-the-dicks",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_blog",
+      "domain_or_platform": "lrb.co.uk",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Form, reception and disagreement inform literary placement."
+      },
+      "evidence_notes": "Defends digression and verbal texture against abridgment: apparent obstacles can constitute the novel’s reading reward. Searls’s extracted omissions are a separate project.",
+      "location": "Main blog essay",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Moby-Dick"
+      ],
+      "disagreement_or_limitations": "Short intervention about abridgment, not a comprehensive critical study; shares LRB ownership with other consulted articles.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-27.json"
+    },
+    {
+      "source_id": "R186",
+      "underlying_source_id": "R186",
+      "title": "The Cacophonous Miracle of The Brothers Karamazov",
+      "author": "Jennifer Wilson",
+      "publisher": "The New Yorker",
+      "publisher_group": "The New Yorker",
+      "canonical_url": "https://www.newyorker.com/magazine/2023/07/31/the-cacophonous-miracle-of-the-brothers-karamazov",
+      "access_url": "https://www.newyorker.com/magazine/2023/07/31/the-cacophonous-miracle-of-the-brothers-karamazov",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "newyorker.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Form, reception and disagreement inform literary placement."
+      },
+      "evidence_notes": "Finds formal coherence in conflicting voices and shared guilt; praises Katz’s dialogue while confronting the author’s exclusionary nationalism.",
+      "location": "Critical essay body",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Brothers Karamazov"
+      ],
+      "disagreement_or_limitations": "One interpretation; translation praise is not consensus.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-27.json"
+    },
+    {
+      "source_id": "R187",
+      "underlying_source_id": "R187",
+      "title": "To arms!",
+      "author": "Patrick Parrinder",
+      "publisher": "London Review of Books",
+      "publisher_group": "London Review of Books",
+      "canonical_url": "https://www.lrb.co.uk/the-paper/v19/n06/patrick-parrinder/to-arms",
+      "access_url": "https://www.lrb.co.uk/the-paper/v19/n06/patrick-parrinder/to-arms",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "lrb.co.uk",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Form, reception and disagreement inform literary placement."
+      },
+      "evidence_notes": "Reads contradictory ambitions through capitalism, censorship and blocked political agency. Notes the revised Welsh translation’s restored material and appendix; questions include antisemitism and international neglect.",
+      "location": "Review paragraphs on narrative, censorship, politics and reception",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Doll"
+      ],
+      "disagreement_or_limitations": "Reviews 1996 edition, not direct verification of every feature of 2011 reissue. Historical reception claims are time-specific.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-27.json"
+    },
+    {
+      "source_id": "R188",
+      "underlying_source_id": "R188",
+      "title": "Orgullo y prejuicio: El número 1 de Austen",
+      "author": "Lucía Martínez Alcalde",
+      "publisher": "Nuestro Tiempo / Universidad de Navarra",
+      "publisher_group": "Nuestro Tiempo / Universidad de Navarra",
+      "canonical_url": "https://nuestrotiempo.unav.edu/w/orgullo-prejuicio-resena-jane-austen",
+      "access_url": "https://nuestrotiempo.unav.edu/w/orgullo-prejuicio-resena-jane-austen",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "institutional_critical_review",
+      "domain_or_platform": "nuestrotiempo.unav.edu",
+      "language": "es",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative form and interpretive disagreement inform literary comparisons."
+      },
+      "evidence_notes": "Locates achievement in free indirect discourse, irony and moral self-correction, connecting marriage conventions and inherited privilege with the novel’s comic force.",
+      "location": "Review body, 27 March 2026",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Pride and Prejudice"
+      ],
+      "disagreement_or_limitations": "One critic’s appraisal; title is an Austen-specific preference, not a global numerical ranking.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-28.json"
+    },
+    {
+      "source_id": "R189",
+      "underlying_source_id": "R189",
+      "title": "Franz Kafka, ou l’aveu de la réalité",
+      "author": "Denis de Rougemont",
+      "publisher": "Les Personnes du drame; digital edition Université de Genève",
+      "publisher_group": "Les Personnes du drame; digital edition Université de Genève",
+      "canonical_url": "https://www.unige.ch/rougemont/livres/ddr19441210persdram/6",
+      "access_url": "https://www.unige.ch/rougemont/livres/ddr19441210persdram/6",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "historical_critical_book_chapter",
+      "domain_or_platform": "unige.ch",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative form and interpretive disagreement inform literary comparisons."
+      },
+      "evidence_notes": "Reads The Trial through exact everyday observation and suspended judgment, and The Castle through uncertain grace; its explicit Christian framework exposes interpretive commitments.",
+      "location": "Chapter sections I–II, printed pages 105–119",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Trial",
+        "The Castle"
+      ],
+      "disagreement_or_limitations": "1944 theological interpretation, not neutral explanation of authorial intention; references to Brod are dependent, not separately consulted.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-28.json"
+    },
+    {
+      "source_id": "R190",
+      "underlying_source_id": "R190",
+      "title": "Pour un Kafka en procès",
+      "author": "Gerhard Neumann; French translation Isabelle Vodoz",
+      "publisher": "Genesis / Persée",
+      "publisher_group": "Genesis / Persée",
+      "canonical_url": "https://www.persee.fr/doc/item_1167-5101_1994_num_5_1_955",
+      "access_url": "https://www.persee.fr/doc/item_1167-5101_1994_num_5_1_955",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_article_excerpt",
+      "domain_or_platform": "persee.fr",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative form and interpretive disagreement inform literary comparisons."
+      },
+      "evidence_notes": "Opening argues that Kafka transforms narrative formation into a process of writing, with The Trial joining discipline, freedom, interrogation and comedy.",
+      "location": "Opening page 63, Genèse section",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Trial"
+      ],
+      "disagreement_or_limitations": "Only accessible opening examined, not the complete pages 63–87. Supports this stated thesis without claiming its full demonstration.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-28.json"
+    },
+    {
+      "source_id": "R191",
+      "underlying_source_id": "R191",
+      "title": "O sotão de Virgina Woolf: um diálogo com a loucura feminina?",
+      "author": "Allana Meneses",
+      "publisher": "Itinerários / UNESP",
+      "publisher_group": "Itinerários / UNESP",
+      "canonical_url": "https://periodicos.fclar.unesp.br/itinerarios/article/view/20171",
+      "access_url": "https://periodicos.fclar.unesp.br/itinerarios/article/view/20171",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_article_abstract",
+      "domain_or_platform": "periodicos.fclar.unesp.br",
+      "language": "pt",
+      "access_level": "abstract_only",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Narrative form and interpretive disagreement inform literary comparisons."
+      },
+      "evidence_notes": "Abstract proposes that fragmented time and interior narration make Mrs Dalloway a critique of patriarchal regulation and normalized psychological experience.",
+      "location": "Author abstract, published 17 December 2025",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Mrs Dalloway"
+      ],
+      "disagreement_or_limitations": "Full PDF unavailable. Records the stated interpretation only; no claim to have evaluated its textual argument or clinical validity.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-28.json"
+    },
+    {
+      "source_id": "R203",
+      "underlying_source_id": "R203",
+      "title": "豆瓣读书 Top 250",
+      "author": null,
+      "publisher": "Douban",
+      "publisher_group": "Douban",
+      "canonical_url": "https://book.douban.com/top250",
+      "access_url": "https://book.douban.com/top250",
+      "publication_date": null,
+      "accessed_at": "2026-09-13",
+      "source_family": "reader_community",
+      "domain_or_platform": "book.douban.com",
+      "language": "zh",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Reader reception of prose fiction including Chinese works and translated classics; exclude nonfiction and unmatched series."
+      },
+      "evidence_notes": "Examined the first two pages (50 entries). A Chinese-language reader-rating algorithm puts Chinese and translated books together. Includes historical biography, sociology, travel memoir and art history as well as fiction. Edition and series identities need normalization.",
+      "location": "Top 250 pages start=0 and start=25, first 50 displayed entries; only these pages consulted.",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Dream of the Red Chamber",
+        "To Live",
+        "The Brothers Karamazov",
+        "Deng Xiaoping and the Transformation of China",
+        "Stories of the Sahara",
+        "From the Soil",
+        "Sapiens",
+        "River Town",
+        "1587, A Year of No Significance",
+        "The Story of Art"
+      ],
+      "disagreement_or_limitations": "Platform users are not representative of all Chinese readers. Ratings depend on edition, number of ratings and algorithm; series and volumes are mixed. No full-250 consultation claimed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-13/batch-35.json"
+    },
+    {
+      "source_id": "R205",
+      "underlying_source_id": "R205",
+      "title": "Le Top 111 livres — classement des membres",
+      "author": null,
+      "publisher": "SensCritique",
+      "publisher_group": "SensCritique",
+      "canonical_url": "https://www.senscritique.com/livres/tops/top111",
+      "access_url": "https://www.senscritique.com/livres/tops/top111",
+      "publication_date": null,
+      "accessed_at": "2026-09-13",
+      "source_family": "reader_community",
+      "domain_or_platform": "senscritique.com",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "literature-all-time"
+      ],
+      "relevance_by_target": {
+        "literature-all-time": "Specific prose-fiction reception signals; preserve volume distinctions."
+      },
+      "evidence_notes": "The site describes a weekly ranking by member-average rating. Examined the first 20 entries, including fiction, Holocaust testimony, oral history and film interviews. French publication/volume identifiers differ from work-level English identities.",
+      "location": "Method statement and positions 1–20 only.",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Stone Butch Blues",
+        "The Sea of Fertility",
+        "None of Us Will Return",
+        "Secondhand Time",
+        "East of Eden",
+        "The Brothers Karamazov",
+        "Hitchcock/Truffaut",
+        "The Human Race"
+      ],
+      "disagreement_or_limitations": "Member averages, not a representative French poll. Volume and translation effects are substantial; do not treat constituent-volume ranks as whole-series ranks.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-13/batch-35.json"
+    }
+  ],
+  "status": "collecting_evidence_criteria_unset",
+  "saved_at": "2026-09-13"
+}

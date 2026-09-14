@@ -1,0 +1,82 @@
+{
+  "django_migrations": {
+    "count": 21,
+    "sha256": "9ee97ffc8bc702c925c8aef716480db53c53e1411d5a657a9316d8e2ebbe1fc1"
+  },
+  "django_content_type": {
+    "count": 17,
+    "sha256": "37de695cbb8857a695080737cd8f19c8a6624c47b4b5807585c7ec8f76d2c15a"
+  },
+  "auth_group_permissions": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "auth_permission": {
+    "count": 68,
+    "sha256": "2af90d69efd8b34ab16d0b94c59046c58d12e104d7c8c7a89c4ac97b31ab8b16"
+  },
+  "auth_group": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_user_groups": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_user_user_permissions": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_work_authors": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_work_tags": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_rankingpreference": {
+    "count": 1,
+    "sha256": "e0ca4b12df28e457bb3c0f641221e1f2a1d7869bd74babb2993e092d23df58b4"
+  },
+  "core_rankingrevision": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_planitem": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_libraryitem": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "django_admin_log": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_edition": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_person": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_rankingentry": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_tag": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "core_user": {
+    "count": 1,
+    "sha256": "9e8e8ff62d2e70d460f83a236e6a615472690ac36881d971c3762f152586c6d9"
+  },
+  "core_work": {
+    "count": 0,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "summary": "Four individually reconsulted original sources now receive nonfiction-specific relevance. Adds recent science and reporting contenders plus older art, economic and historical candidates; preserves original all-books records.",
+  "next": "Evaluate these candidate leads independently; do not treat decade selections or a reproduced TIME list as worldwide ordering.",
+  "sources": [
+    {
+      "language": "en",
+      "id": "S27",
+      "url": "https://lithub.com/the-20-best-works-of-nonfiction-of-the-decade/",
+      "title": "The 20 Best Works of Nonfiction of the Decade",
+      "publisher": "Literary Hub",
+      "author": "Emily Temple and contributing editors",
+      "family": "editorial_selection",
+      "note": "Staff selection values narrative research across science, biography, social history and reporting; scope is English publication in 2010–2019.",
+      "candidates": [
+        "The New Jim Crow",
+        "The Emperor of All Maladies",
+        "The Immortal Life of Henrietta Lacks",
+        "Bloodlands",
+        "The Warmth of Other Suns",
+        "The Passage of Power",
+        "The Black Count",
+        "The Sixth Extinction",
+        "Between the World and Me",
+        "The Invention of Nature",
+        "The Witches",
+        "Secondhand Time",
+        "Dark Money",
+        "How to Survive a Plague",
+        "The Other Slavery",
+        "All the Single Ladies",
+        "Prairie Fires",
+        "Frederick Douglass: Prophet of Freedom",
+        "Underland"
+      ],
+      "location": "Method and individually discussed entries through Underland",
+      "limits": "Chronological editorial selection, not global merit positions; cited external reviews are not additional consultations.",
+      "targets": {
+        "N": "Expands candidate pool beyond philosophy through work-specific editorial judgments."
+      }
+    },
+    {
+      "language": "en",
+      "id": "S22",
+      "url": "https://s-usih.org/2011/08/all-time-100-best-non-fiction-books/",
+      "title": "The All-TIME 100 Best Non-Fiction Books",
+      "publisher": "Society for US Intellectual History",
+      "author": "Ben Alpers",
+      "family": "scholarly_blog_discussion",
+      "note": "Introduces TIME's English-language, post-1923 scope and invites criticism; comments identify absent thinkers. The reproduced list supplies leads, not independent votes.",
+      "candidates": [
+        "Maus",
+        "The Power Broker",
+        "The General Theory",
+        "The Story of Art",
+        "Against Interpretation",
+        "A Room of One's Own",
+        "The Fatal Shore",
+        "The Gnostic Gospels",
+        "Gödel, Escher, Bach",
+        "Imagined Communities",
+        "Orientalism",
+        "In Cold Blood",
+        "Homage to Catalonia",
+        "The Structure of Scientific Revolutions",
+        "The Death and Life of Great American Cities",
+        "Working",
+        "Hiroshima"
+      ],
+      "location": "Scope introduction, selected reproduced categories and opening comments",
+      "limits": "Reproduced TIME choices are dependent. Unrelated spam links ignored; book-level critical support remains thin.",
+      "targets": {
+        "N": "Scope critique and candidate discovery across neglected nonfiction fields."
+      }
+    },
+    {
+      "language": "en",
+      "id": "S47",
+      "url": "https://time.com/5157662/black-history-month-books-2018/",
+      "title": "9 Books to Read for Black History Month, According to Scholars",
+      "publisher": "TIME",
+      "author": "Sarah Begley; recommendations by named historians",
+      "family": "expert_selection",
+      "note": "Historians recommend testimony, institutional history and memoir; Berry highlights Jacobs, Collier-Thomas Alexander, and Lewis Johnson.",
+      "candidates": [
+        "Incidents in the Life of a Slave Girl",
+        "The New Jim Crow",
+        "Along This Way",
+        "Black Reconstruction in America"
+      ],
+      "location": "Historical article body after unrelated newsletter material; first four recommendations",
+      "limits": "One assembled selection. Promotional header excluded; source claims are attributed, not independent historical verification.",
+      "targets": {
+        "N": "Target-specific testimony and historical writing recommendations."
+      }
+    },
+    {
+      "language": "en",
+      "id": "S34",
+      "url": "https://www.smithsonianmag.com/smart-news/the-ten-best-science-books-of-2024-180985592/",
+      "title": "The Ten Best Science Books of 2024",
+      "publisher": "Smithsonian Magazine",
+      "author": "Science editors and contributing writers",
+      "family": "editorial_selection",
+      "note": "Reviews distinguish narrative reporting, scientific explanation and contested interpretations; The Light Eaters explicitly faces disagreement over plant intelligence.",
+      "candidates": [
+        "The Light Eaters",
+        "Challenger",
+        "Why We Remember",
+        "How to Kill an Asteroid",
+        "I Heard There Was a Secret Chord",
+        "What If We Get It Right?",
+        "Twelve Trees",
+        "Our Moon",
+        "The Language Puzzle"
+      ],
+      "location": "Methodology and reviews through The Language Puzzle",
+      "limits": "2024 selection, not all-time standing. Scientific and therapeutic claims require specialist scrutiny before reuse as factual guidance.",
+      "targets": {
+        "N": "Expands science candidates and records reading merits separately from scientific validation."
+      }
+    }
+  ]
+}

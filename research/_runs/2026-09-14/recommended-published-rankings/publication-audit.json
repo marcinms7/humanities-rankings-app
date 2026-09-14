@@ -1,0 +1,2138 @@
+{
+  "checked_on": "2026-09-14",
+  "targets": {
+    "asia-weekly-chinese-fiction-100-1999": {
+      "ranking_id": 153,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 2,
+      "unresolved": 0,
+      "input_sha256": "164fea9a17d908903ea8b082b1e43293dde63e3a9717b3a27d764c1ba8bd4b40"
+    },
+    "booklive-best-100-novels-2018": {
+      "ranking_id": 154,
+      "entries": 99,
+      "revision": 2,
+      "source_count": 3,
+      "unresolved": 1,
+      "input_sha256": "2d25d5e99428232108e635e907c2150d963d5712eb5d65334b3ff2852352de4e"
+    },
+    "modern-library-board-100-nonfiction-1999": {
+      "ranking_id": 155,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "unresolved": 0,
+      "input_sha256": "d37b15f509b6bc3441c548da6565e7ef1f5c919dfc5649583c5e9ad4639f12c3"
+    },
+    "pbs-great-american-read-2018": {
+      "ranking_id": 156,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 2,
+      "unresolved": 0,
+      "input_sha256": "bc7624c6aef89130e90db0905d82be07b2586b2b2321a7669c2e9d4cb743fdae"
+    }
+  },
+  "catalog": {
+    "created_works": [
+      {
+        "id": 7763,
+        "title": "Children of the Rich",
+        "authors": [
+          "Lu Ling"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7764,
+        "title": "A Race of Generals",
+        "authors": [
+          "Chen Yingzhen"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7765,
+        "title": "Drowning",
+        "authors": [
+          "Yu Dafu"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7766,
+        "title": "Ripples Across Stagnant Water",
+        "authors": [
+          "Li Jieren"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7767,
+        "title": "The Marriage of Young Blacky",
+        "authors": [
+          "Zhao Shuli"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7768,
+        "title": "The Chess Master",
+        "authors": [
+          "Ah Cheng"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7769,
+        "title": "Half a Lifelong Romance",
+        "authors": [
+          "Eileen Chang"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7770,
+        "title": "Hu Xueyan",
+        "authors": [
+          "Gao Yang"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7771,
+        "title": "Fate in Tears and Laughter",
+        "authors": [
+          "Zhang Henshui"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7772,
+        "title": "The Sandwich Man",
+        "authors": [
+          "Huang Chun-ming"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7773,
+        "title": "Miss Sophie's Diary",
+        "authors": [
+          "Ding Ling"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7774,
+        "title": "The Deer and the Cauldron",
+        "authors": [
+          "Jin Yong"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7775,
+        "title": "A Flower in a Sinful Sea",
+        "authors": [
+          "Zeng Pu"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7776,
+        "title": "Making Trouble",
+        "authors": [
+          "Lai Ho"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7777,
+        "title": "An Oxcart for Dowry",
+        "authors": [
+          "Wang Zhenhe"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7778,
+        "title": "The Alien Realm",
+        "authors": [
+          "Bo Yang"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7779,
+        "title": "Zeng Guofan",
+        "authors": [
+          "Tang Haoming"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7780,
+        "title": "My Native Land",
+        "authors": [
+          "Chung Li-ho"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7781,
+        "title": "The Jiling Chronicles",
+        "authors": [
+          "Li Yongping"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7782,
+        "title": "Yellow Peril",
+        "authors": [
+          "Wang Lixiong"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7783,
+        "title": "Sandstorm",
+        "authors": [
+          "Sima Zhongyuan"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7784,
+        "title": "The Bright Sunny Day",
+        "authors": [
+          "Hao Ran"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7785,
+        "title": "Cemetery",
+        "authors": [
+          "Mu Shiying"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7786,
+        "title": "The Old Site",
+        "authors": [
+          "Li Rui"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7787,
+        "title": "Stars, Moon, Sun",
+        "authors": [
+          "Xu Su"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7788,
+        "title": "Taiwanese Trilogy",
+        "authors": [
+          "Chung Chao-cheng"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7789,
+        "title": "Baptism",
+        "authors": [
+          "Yang Jiang"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7790,
+        "title": "The Whirlwind",
+        "authors": [
+          "Chiang Kuei"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7791,
+        "title": "Lotus Creek",
+        "authors": [
+          "Sun Li"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7792,
+        "title": "The Love Story of a Young Monk",
+        "authors": [
+          "Wang Zengqi"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7793,
+        "title": "Iron Slurry",
+        "authors": [
+          "Chu Hsi-ning"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7794,
+        "title": "Fin de Siècle Splendor",
+        "authors": [
+          "Chu T'ien-wen"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7795,
+        "title": "Legend of the Swordsmen of the Mountains of Shu",
+        "authors": [
+          "Huanzhulouzhu"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7796,
+        "title": "Again the Palm Trees",
+        "authors": [
+          "Yu Lihua"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7797,
+        "title": "Turbulence",
+        "authors": [
+          "Jia Pingwa"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7798,
+        "title": "The Young Newcomer in the Organizational Department",
+        "authors": [
+          "Wang Meng"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7799,
+        "title": "The Soul of Jade Pear",
+        "authors": [
+          "Xu Zhenya"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7800,
+        "title": "Hong Kong Trilogy",
+        "authors": [
+          "Shi Shuqing"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7801,
+        "title": "Moment in Peking",
+        "authors": [
+          "Lin Yutang"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7802,
+        "title": "Ni Huanzhi",
+        "authors": [
+          "Ye Shengtao"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7803,
+        "title": "Spring Peach",
+        "authors": [
+          "Xu Dishan"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7804,
+        "title": "Mulberry and Peach",
+        "authors": [
+          "Hualing Nieh"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7805,
+        "title": "The Blue and the Black",
+        "authors": [
+          "Wang Lan"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7806,
+        "title": "February",
+        "authors": [
+          "Rou Shi"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7807,
+        "title": "The Wind Whistles",
+        "authors": [
+          "Xu Xu"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7808,
+        "title": "A Small Town Called Hibiscus",
+        "authors": [
+          "Gu Hua"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7809,
+        "title": "Son of the Earth",
+        "authors": [
+          "Tai Jingnong"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7810,
+        "title": "Memories of Peking",
+        "authors": [
+          "Lin Hai-yin"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7811,
+        "title": "The Ancient Ship",
+        "authors": [
+          "Zhang Wei"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7812,
+        "title": "Song Never to End",
+        "authors": [
+          "Luqiao"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7813,
+        "title": "Heavy Wings",
+        "authors": [
+          "Zhang Jie"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7814,
+        "title": "Records of Orchard City",
+        "authors": [
+          "Shi Tuo"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7815,
+        "title": "Stones in the Wall",
+        "authors": [
+          "Dai Houying"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7816,
+        "title": "Dogshit Food",
+        "authors": [
+          "Liu Heng"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7817,
+        "title": "Chess King",
+        "authors": [
+          "Chang Hsi-kuo"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7818,
+        "title": "Lai Suo",
+        "authors": [
+          "Huang Fan"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7819,
+        "title": "Farewell to My Concubine",
+        "authors": [
+          "Lilian Lee"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7820,
+        "title": "The Butcher's Wife",
+        "authors": [
+          "Li Ang"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7821,
+        "title": "Chu Liuxiang",
+        "authors": [
+          "Gu Long"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7822,
+        "title": "Outside the Window",
+        "authors": [
+          "Chiung Yao"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7823,
+        "title": "Silent Island",
+        "authors": [
+          "Su Wei-chen"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7824,
+        "title": "The Bride with White Hair",
+        "authors": [
+          "Liang Yusheng"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7825,
+        "title": "The Execution of Mayor Yin",
+        "authors": [
+          "Chen Ruoxi"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7826,
+        "title": "Lucky Worries About His Country",
+        "authors": [
+          "Chang Ta-chun"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7827,
+        "title": "The Story of Hay Bo",
+        "authors": [
+          "Yi Shu"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7828,
+        "title": "Half of Man Is Woman",
+        "authors": [
+          "Zhang Xianliang"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7829,
+        "title": "The General's Head",
+        "authors": [
+          "Shi Zhecun"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7830,
+        "title": "Blue Blood Being",
+        "authors": [
+          "Ni Kuang"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7831,
+        "title": "The Lure of the Gangdise Mountains",
+        "authors": [
+          "Ma Yuan"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7832,
+        "title": "Ten Years and Ten Cases of Hysteria",
+        "authors": [
+          "Lin Jinlan"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7833,
+        "title": "North Pole Landscape Painting",
+        "authors": [
+          "Anonymous"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7834,
+        "title": "Yongzheng Emperor",
+        "authors": [
+          "Eryue He"
+        ],
+        "source": "asia-weekly-chinese-fiction-100-1999"
+      },
+      {
+        "id": 7835,
+        "title": "Anne of Green Gables series",
+        "authors": [
+          "L.M. Montgomery"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7836,
+        "title": "Legend of the Galactic Heroes",
+        "authors": [
+          "Yoshiki Tanaka"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7837,
+        "title": "竜馬がゆく",
+        "authors": [
+          "Ryotaro Shiba"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7838,
+        "title": "Library War series",
+        "authors": [
+          "Hiro Arikawa"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7839,
+        "title": "鬼平犯科帳",
+        "authors": [
+          "Shotaro Ikenami"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7840,
+        "title": "坂の上の雲",
+        "authors": [
+          "Ryotaro Shiba"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7841,
+        "title": "下町ロケットシリーズ",
+        "authors": [
+          "Jun Ikeido"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7842,
+        "title": "The Heroic Legend of Arslan novels",
+        "authors": [
+          "Yoshiki Tanaka"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7843,
+        "title": "守り人シリーズ",
+        "authors": [
+          "Nahoko Uehashi"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7844,
+        "title": "沈まぬ太陽",
+        "authors": [
+          "Toyoko Yamasaki"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7845,
+        "title": "金田一耕助ファイル",
+        "authors": [
+          "Seishi Yokomizo"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7846,
+        "title": "Monogatari series",
+        "authors": [
+          "Nisio Isin"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7847,
+        "title": "I Want to Eat Your Pancreas",
+        "authors": [
+          "Yoru Sumino"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7848,
+        "title": "三國志",
+        "authors": [
+          "Kenzo Kitakata"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7849,
+        "title": "剣客商売",
+        "authors": [
+          "Shotaro Ikenami"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7850,
+        "title": "陰陽師",
+        "authors": [
+          "Baku Yumemakura"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7851,
+        "title": "Your Name",
+        "authors": [
+          "Makoto Shinkai"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7852,
+        "title": "舟を編む",
+        "authors": [
+          "Shion Miura"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7853,
+        "title": "64（ロクヨン）",
+        "authors": [
+          "Hideo Yokoyama"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7854,
+        "title": "From the New World",
+        "authors": [
+          "Yusuke Kishi"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7855,
+        "title": "悪の教典",
+        "authors": [
+          "Yusuke Kishi"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7856,
+        "title": "のぼうの城",
+        "authors": [
+          "Ryo Wada"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7857,
+        "title": "ローマ人の物語",
+        "authors": [
+          "Nanami Shiono"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7858,
+        "title": "幼女戦記",
+        "authors": [
+          "Carlo Zen"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7859,
+        "title": "蜘蛛ですが、なにか？",
+        "authors": [
+          "Okina Baba"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7860,
+        "title": "池袋ウエストゲートパークシリーズ",
+        "authors": [
+          "Ira Ishida"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7861,
+        "title": "古典部シリーズ",
+        "authors": [
+          "Honobu Yonezawa"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7862,
+        "title": "謎解きはディナーのあとで",
+        "authors": [
+          "Tokuya Higashigawa"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7863,
+        "title": "陸王",
+        "authors": [
+          "Jun Ikeido"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7864,
+        "title": "蜜蜂と遠雷",
+        "authors": [
+          "Riku Onda"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7865,
+        "title": "獣の奏者",
+        "authors": [
+          "Nahoko Uehashi"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7866,
+        "title": "万能鑑定士Qの事件簿",
+        "authors": [
+          "Keisuke Matsuoka"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7867,
+        "title": "天地明察",
+        "authors": [
+          "Tow Ubukata"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7868,
+        "title": "世界から猫が消えたなら",
+        "authors": [
+          "Genki Kawamura"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7869,
+        "title": "心霊探偵八雲",
+        "authors": [
+          "Manabu Kaminaga"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7870,
+        "title": "徳川家康",
+        "authors": [
+          "Sohachi Yamaoka"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7871,
+        "title": "神様の御用人",
+        "authors": [
+          "Natsu Asaba"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7872,
+        "title": "警部補 姫川玲子シリーズ",
+        "authors": [
+          "Tetsuya Honda"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7873,
+        "title": "空飛ぶタイヤ",
+        "authors": [
+          "Jun Ikeido"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7874,
+        "title": "デスマーチからはじまる異世界狂想曲",
+        "authors": [
+          "Hiro Ainana"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7875,
+        "title": "隠蔽捜査",
+        "authors": [
+          "Bin Konno"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7876,
+        "title": "RDG レッドデータガール",
+        "authors": [
+          "Noriko Ogiwara"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7877,
+        "title": "大水滸伝シリーズ",
+        "authors": [
+          "Kenzo Kitakata"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7878,
+        "title": "十二国記シリーズ",
+        "authors": [
+          "Nahoko Uehashi"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7879,
+        "title": "空飛ぶ広報室",
+        "authors": [
+          "Hiro Arikawa"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7880,
+        "title": "ビブリア古書堂の事件手帖",
+        "authors": [
+          "En Mikami"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7881,
+        "title": "ルーズヴェルト・ゲーム",
+        "authors": [
+          "Jun Ikeido"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7882,
+        "title": "殺し屋シリーズ",
+        "authors": [
+          "Kotaro Isaka"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7883,
+        "title": "The Saga of Darren Shan",
+        "authors": [
+          "Darren Shan"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7884,
+        "title": "館シリーズ",
+        "authors": [
+          "Yukito Ayatsuji"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7885,
+        "title": "イニシエーション・ラブ",
+        "authors": [
+          "Kurumi Inui"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7886,
+        "title": "居酒屋ぼったくり",
+        "authors": [
+          "Takimi Akikawa"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7887,
+        "title": "鹿の王",
+        "authors": [
+          "Nahoko Uehashi"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7888,
+        "title": "アナザーフェイス",
+        "authors": [
+          "Shunichi Doba"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7889,
+        "title": "吸血鬼ハンター",
+        "authors": [
+          "Hideyuki Kikuchi"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7890,
+        "title": "妖怪アパートの幽雅な日常",
+        "authors": [
+          "Hinowa Kozuki"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7891,
+        "title": "街道をゆく",
+        "authors": [
+          "Ryotaro Shiba"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7892,
+        "title": "御宿かわせみ",
+        "authors": [
+          "Yumie Hiraiwa"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7893,
+        "title": "花咲舞が黙ってないシリーズ",
+        "authors": [
+          "Jun Ikeido"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7894,
+        "title": "かくりよの宿飯",
+        "authors": [
+          "Midori Yuma"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7895,
+        "title": "戯言シリーズ",
+        "authors": [
+          "Nisio Isin"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7896,
+        "title": "グイン・サーガ",
+        "authors": [
+          "Kaoru Kurimoto"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7897,
+        "title": "村上海賊の娘",
+        "authors": [
+          "Ryo Wada"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7898,
+        "title": "Spark",
+        "authors": [
+          "Naoki Matayoshi"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7899,
+        "title": "置かれた場所で咲きなさい",
+        "authors": [
+          "Kazuko Watanabe"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7900,
+        "title": "ＳＴ 警視庁科学特捜班シリーズ",
+        "authors": [
+          "Bin Konno"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7901,
+        "title": "異世界でスキルを解体したらチートな嫁が増殖しました",
+        "authors": [
+          "Sakaki Sengetsu"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7902,
+        "title": "羊と鋼の森",
+        "authors": [
+          "Natsu Miyashita"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7903,
+        "title": "櫻子さんの足下には死体が埋まっている",
+        "authors": [
+          "Shiori Ota"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7904,
+        "title": "Ｓ＆Ｍシリーズ",
+        "authors": [
+          "Hiroshi Mori"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7905,
+        "title": "新宿鮫シリーズ",
+        "authors": [
+          "Arimasa Osawa"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7906,
+        "title": "公爵令嬢の嗜み",
+        "authors": [
+          "Reia"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7907,
+        "title": "おかしな転生",
+        "authors": [
+          "Nozomu Koryu"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7908,
+        "title": "紅霞後宮物語",
+        "authors": [
+          "Kana Yukimura"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7909,
+        "title": "真田太平記",
+        "authors": [
+          "Shotaro Ikenami"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7910,
+        "title": "ハゲタカシリーズ",
+        "authors": [
+          "Jin Mayama"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7911,
+        "title": "百舌シリーズ",
+        "authors": [
+          "Go Osaka"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7912,
+        "title": "探偵の探偵",
+        "authors": [
+          "Keisuke Matsuoka"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7913,
+        "title": "永遠の0",
+        "authors": [
+          "Naoki Hyakuta"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7914,
+        "title": "皇国の守護者",
+        "authors": [
+          "Daisuke Sato"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7915,
+        "title": "Lonely Castle in the Mirror",
+        "authors": [
+          "Mizuki Tsujimura"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7916,
+        "title": "GOSICKシリーズ",
+        "authors": [
+          "Kazuki Sakuraba"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7917,
+        "title": "忘却探偵シリーズ",
+        "authors": [
+          "Nisio Isin"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7918,
+        "title": "浜村渚の計算ノート",
+        "authors": [
+          "Aito Aoyagi"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7919,
+        "title": "Millennium series",
+        "authors": [
+          "Stieg Larsson"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7920,
+        "title": "妻は、くノ一",
+        "authors": [
+          "Machio Kazeno"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7921,
+        "title": "京極堂シリーズ",
+        "authors": [
+          "Natsuhiko Kyogoku"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7922,
+        "title": "東京バンドワゴンシリーズ",
+        "authors": [
+          "Yukiya Shoji"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7923,
+        "title": "宇宙軍士官学校シリーズ",
+        "authors": [
+          "Kazuyuki Takami"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7924,
+        "title": "蒼穹の昴シリーズ",
+        "authors": [
+          "Jiro Asada"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7925,
+        "title": "塩の街",
+        "authors": [
+          "Hiro Arikawa"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7926,
+        "title": "Sherlock Holmes series",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7927,
+        "title": "満願",
+        "authors": [
+          "Honobu Yonezawa"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7928,
+        "title": "巨人たちの星シリーズ",
+        "authors": [
+          "James P. Hogan"
+        ],
+        "source": "booklive-best-100-novels-2018"
+      },
+      {
+        "id": 7929,
+        "title": "The Help",
+        "authors": [
+          "Kathryn Stockett"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7930,
+        "title": "Where the Red Fern Grows",
+        "authors": [
+          "Wilson Rawls"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7931,
+        "title": "The Shack",
+        "authors": [
+          "William P. Young"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7932,
+        "title": "The Curious Incident of the Dog in the Night-Time",
+        "authors": [
+          "Mark Haddon"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7933,
+        "title": "A Separate Peace",
+        "authors": [
+          "John Knowles"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7934,
+        "title": "The Lovely Bones",
+        "authors": [
+          "Alice Sebold"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7935,
+        "title": "Hatchet (Series)",
+        "authors": [
+          "Gary Paulsen"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7936,
+        "title": "The Twilight Saga (Series)",
+        "authors": [
+          "Stephenie Meyer"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7937,
+        "title": "Tales of the City (Series)",
+        "authors": [
+          "Armistead Maupin"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7938,
+        "title": "Left Behind (Series)",
+        "authors": [
+          "Tim LaHaye",
+          "Jerry B. Jenkins"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7939,
+        "title": "Watchers",
+        "authors": [
+          "Dean Koontz"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7940,
+        "title": "Alex Cross Mysteries (Series)",
+        "authors": [
+          "James Patterson"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7941,
+        "title": "Fifty Shades of Grey (Series)",
+        "authors": [
+          "E.L. James"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7942,
+        "title": "This Present Darkness",
+        "authors": [
+          "Frank E. Peretti"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7943,
+        "title": "Looking for Alaska",
+        "authors": [
+          "John Green"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7944,
+        "title": "Swan Song",
+        "authors": [
+          "Robert R. McCammon"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7945,
+        "title": "Mind Invaders",
+        "authors": [
+          "Dave Hunt"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7946,
+        "title": "Ghost",
+        "authors": [
+          "Jason Reynolds"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7947,
+        "title": "The Coldest Winter Ever",
+        "authors": [
+          "Sister Souljah"
+        ],
+        "source": "pbs-great-american-read-2018"
+      },
+      {
+        "id": 7948,
+        "title": "The Intuitionist",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "source": "pbs-great-american-read-2018"
+      }
+    ],
+    "created_people": [
+      {
+        "id": 5262,
+        "name": "Lu Ling"
+      },
+      {
+        "id": 5263,
+        "name": "Chen Yingzhen"
+      },
+      {
+        "id": 5264,
+        "name": "Yu Dafu"
+      },
+      {
+        "id": 5265,
+        "name": "Li Jieren"
+      },
+      {
+        "id": 5266,
+        "name": "Zhao Shuli"
+      },
+      {
+        "id": 5267,
+        "name": "Ah Cheng"
+      },
+      {
+        "id": 5268,
+        "name": "Gao Yang"
+      },
+      {
+        "id": 5269,
+        "name": "Zhang Henshui"
+      },
+      {
+        "id": 5270,
+        "name": "Huang Chun-ming"
+      },
+      {
+        "id": 5271,
+        "name": "Ding Ling"
+      },
+      {
+        "id": 5272,
+        "name": "Zeng Pu"
+      },
+      {
+        "id": 5273,
+        "name": "Lai Ho"
+      },
+      {
+        "id": 5274,
+        "name": "Wang Zhenhe"
+      },
+      {
+        "id": 5275,
+        "name": "Bo Yang"
+      },
+      {
+        "id": 5276,
+        "name": "Tang Haoming"
+      },
+      {
+        "id": 5277,
+        "name": "Chung Li-ho"
+      },
+      {
+        "id": 5278,
+        "name": "Li Yongping"
+      },
+      {
+        "id": 5279,
+        "name": "Wang Lixiong"
+      },
+      {
+        "id": 5280,
+        "name": "Sima Zhongyuan"
+      },
+      {
+        "id": 5281,
+        "name": "Hao Ran"
+      },
+      {
+        "id": 5282,
+        "name": "Mu Shiying"
+      },
+      {
+        "id": 5283,
+        "name": "Li Rui"
+      },
+      {
+        "id": 5284,
+        "name": "Xu Su"
+      },
+      {
+        "id": 5285,
+        "name": "Chung Chao-cheng"
+      },
+      {
+        "id": 5286,
+        "name": "Chiang Kuei"
+      },
+      {
+        "id": 5287,
+        "name": "Sun Li"
+      },
+      {
+        "id": 5288,
+        "name": "Wang Zengqi"
+      },
+      {
+        "id": 5289,
+        "name": "Chu Hsi-ning"
+      },
+      {
+        "id": 5290,
+        "name": "Huanzhulouzhu"
+      },
+      {
+        "id": 5291,
+        "name": "Yu Lihua"
+      },
+      {
+        "id": 5292,
+        "name": "Wang Meng"
+      },
+      {
+        "id": 5293,
+        "name": "Xu Zhenya"
+      },
+      {
+        "id": 5294,
+        "name": "Shi Shuqing"
+      },
+      {
+        "id": 5295,
+        "name": "Lin Yutang"
+      },
+      {
+        "id": 5296,
+        "name": "Ye Shengtao"
+      },
+      {
+        "id": 5297,
+        "name": "Xu Dishan"
+      },
+      {
+        "id": 5298,
+        "name": "Hualing Nieh"
+      },
+      {
+        "id": 5299,
+        "name": "Wang Lan"
+      },
+      {
+        "id": 5300,
+        "name": "Rou Shi"
+      },
+      {
+        "id": 5301,
+        "name": "Xu Xu"
+      },
+      {
+        "id": 5302,
+        "name": "Tai Jingnong"
+      },
+      {
+        "id": 5303,
+        "name": "Lin Hai-yin"
+      },
+      {
+        "id": 5304,
+        "name": "Zhang Wei"
+      },
+      {
+        "id": 5305,
+        "name": "Luqiao"
+      },
+      {
+        "id": 5306,
+        "name": "Zhang Jie"
+      },
+      {
+        "id": 5307,
+        "name": "Shi Tuo"
+      },
+      {
+        "id": 5308,
+        "name": "Dai Houying"
+      },
+      {
+        "id": 5309,
+        "name": "Liu Heng"
+      },
+      {
+        "id": 5310,
+        "name": "Chang Hsi-kuo"
+      },
+      {
+        "id": 5311,
+        "name": "Huang Fan"
+      },
+      {
+        "id": 5312,
+        "name": "Lilian Lee"
+      },
+      {
+        "id": 5313,
+        "name": "Li Ang"
+      },
+      {
+        "id": 5314,
+        "name": "Gu Long"
+      },
+      {
+        "id": 5315,
+        "name": "Chiung Yao"
+      },
+      {
+        "id": 5316,
+        "name": "Su Wei-chen"
+      },
+      {
+        "id": 5317,
+        "name": "Liang Yusheng"
+      },
+      {
+        "id": 5318,
+        "name": "Chen Ruoxi"
+      },
+      {
+        "id": 5319,
+        "name": "Chang Ta-chun"
+      },
+      {
+        "id": 5320,
+        "name": "Yi Shu"
+      },
+      {
+        "id": 5321,
+        "name": "Zhang Xianliang"
+      },
+      {
+        "id": 5322,
+        "name": "Shi Zhecun"
+      },
+      {
+        "id": 5323,
+        "name": "Ni Kuang"
+      },
+      {
+        "id": 5324,
+        "name": "Ma Yuan"
+      },
+      {
+        "id": 5325,
+        "name": "Lin Jinlan"
+      },
+      {
+        "id": 5326,
+        "name": "Eryue He"
+      },
+      {
+        "id": 5327,
+        "name": "Ryotaro Shiba"
+      },
+      {
+        "id": 5328,
+        "name": "Hiro Arikawa"
+      },
+      {
+        "id": 5329,
+        "name": "Shotaro Ikenami"
+      },
+      {
+        "id": 5330,
+        "name": "Jun Ikeido"
+      },
+      {
+        "id": 5331,
+        "name": "Nahoko Uehashi"
+      },
+      {
+        "id": 5332,
+        "name": "Toyoko Yamasaki"
+      },
+      {
+        "id": 5333,
+        "name": "Yoru Sumino"
+      },
+      {
+        "id": 5334,
+        "name": "Kenzo Kitakata"
+      },
+      {
+        "id": 5335,
+        "name": "Makoto Shinkai"
+      },
+      {
+        "id": 5336,
+        "name": "Shion Miura"
+      },
+      {
+        "id": 5337,
+        "name": "Ryo Wada"
+      },
+      {
+        "id": 5338,
+        "name": "Nanami Shiono"
+      },
+      {
+        "id": 5339,
+        "name": "Carlo Zen"
+      },
+      {
+        "id": 5340,
+        "name": "Okina Baba"
+      },
+      {
+        "id": 5341,
+        "name": "Ira Ishida"
+      },
+      {
+        "id": 5342,
+        "name": "Honobu Yonezawa"
+      },
+      {
+        "id": 5343,
+        "name": "Tokuya Higashigawa"
+      },
+      {
+        "id": 5344,
+        "name": "Riku Onda"
+      },
+      {
+        "id": 5345,
+        "name": "Keisuke Matsuoka"
+      },
+      {
+        "id": 5346,
+        "name": "Tow Ubukata"
+      },
+      {
+        "id": 5347,
+        "name": "Genki Kawamura"
+      },
+      {
+        "id": 5348,
+        "name": "Sohachi Yamaoka"
+      },
+      {
+        "id": 5349,
+        "name": "Natsu Asaba"
+      },
+      {
+        "id": 5350,
+        "name": "Tetsuya Honda"
+      },
+      {
+        "id": 5351,
+        "name": "Hiro Ainana"
+      },
+      {
+        "id": 5352,
+        "name": "Bin Konno"
+      },
+      {
+        "id": 5353,
+        "name": "Noriko Ogiwara"
+      },
+      {
+        "id": 5354,
+        "name": "En Mikami"
+      },
+      {
+        "id": 5355,
+        "name": "Kotaro Isaka"
+      },
+      {
+        "id": 5356,
+        "name": "Darren Shan"
+      },
+      {
+        "id": 5357,
+        "name": "Kurumi Inui"
+      },
+      {
+        "id": 5358,
+        "name": "Takimi Akikawa"
+      },
+      {
+        "id": 5359,
+        "name": "Shunichi Doba"
+      },
+      {
+        "id": 5360,
+        "name": "Hideyuki Kikuchi"
+      },
+      {
+        "id": 5361,
+        "name": "Hinowa Kozuki"
+      },
+      {
+        "id": 5362,
+        "name": "Yumie Hiraiwa"
+      },
+      {
+        "id": 5363,
+        "name": "Midori Yuma"
+      },
+      {
+        "id": 5364,
+        "name": "Kaoru Kurimoto"
+      },
+      {
+        "id": 5365,
+        "name": "Naoki Matayoshi"
+      },
+      {
+        "id": 5366,
+        "name": "Kazuko Watanabe"
+      },
+      {
+        "id": 5367,
+        "name": "Sakaki Sengetsu"
+      },
+      {
+        "id": 5368,
+        "name": "Natsu Miyashita"
+      },
+      {
+        "id": 5369,
+        "name": "Shiori Ota"
+      },
+      {
+        "id": 5370,
+        "name": "Hiroshi Mori"
+      },
+      {
+        "id": 5371,
+        "name": "Arimasa Osawa"
+      },
+      {
+        "id": 5372,
+        "name": "Reia"
+      },
+      {
+        "id": 5373,
+        "name": "Nozomu Koryu"
+      },
+      {
+        "id": 5374,
+        "name": "Kana Yukimura"
+      },
+      {
+        "id": 5375,
+        "name": "Jin Mayama"
+      },
+      {
+        "id": 5376,
+        "name": "Go Osaka"
+      },
+      {
+        "id": 5377,
+        "name": "Naoki Hyakuta"
+      },
+      {
+        "id": 5378,
+        "name": "Daisuke Sato"
+      },
+      {
+        "id": 5379,
+        "name": "Mizuki Tsujimura"
+      },
+      {
+        "id": 5380,
+        "name": "Kazuki Sakuraba"
+      },
+      {
+        "id": 5381,
+        "name": "Aito Aoyagi"
+      },
+      {
+        "id": 5382,
+        "name": "Machio Kazeno"
+      },
+      {
+        "id": 5383,
+        "name": "Natsuhiko Kyogoku"
+      },
+      {
+        "id": 5384,
+        "name": "Yukiya Shoji"
+      },
+      {
+        "id": 5385,
+        "name": "Kazuyuki Takami"
+      },
+      {
+        "id": 5386,
+        "name": "Jiro Asada"
+      },
+      {
+        "id": 5387,
+        "name": "James P. Hogan"
+      },
+      {
+        "id": 5388,
+        "name": "Kathryn Stockett"
+      },
+      {
+        "id": 5389,
+        "name": "Wilson Rawls"
+      },
+      {
+        "id": 5390,
+        "name": "William P. Young"
+      },
+      {
+        "id": 5391,
+        "name": "Mark Haddon"
+      },
+      {
+        "id": 5392,
+        "name": "John Knowles"
+      },
+      {
+        "id": 5393,
+        "name": "Alice Sebold"
+      },
+      {
+        "id": 5394,
+        "name": "Gary Paulsen"
+      },
+      {
+        "id": 5395,
+        "name": "Armistead Maupin"
+      },
+      {
+        "id": 5396,
+        "name": "Tim LaHaye"
+      },
+      {
+        "id": 5397,
+        "name": "Jerry B. Jenkins"
+      },
+      {
+        "id": 5398,
+        "name": "James Patterson"
+      },
+      {
+        "id": 5399,
+        "name": "E.L. James"
+      },
+      {
+        "id": 5400,
+        "name": "Frank E. Peretti"
+      },
+      {
+        "id": 5401,
+        "name": "John Green"
+      },
+      {
+        "id": 5402,
+        "name": "Robert R. McCammon"
+      },
+      {
+        "id": 5403,
+        "name": "Dave Hunt"
+      },
+      {
+        "id": 5404,
+        "name": "Jason Reynolds"
+      },
+      {
+        "id": 5405,
+        "name": "Sister Souljah"
+      }
+    ]
+  },
+  "source_snapshots": {
+    "asiaweekly-chinese100.html": {
+      "bytes": 9682,
+      "sha256": "ecb154cc07d09bdb2f6483d4d460163f1b33e2c512f4fd6a5ed8a7386f9c9d5a"
+    },
+    "booklive-novel100-wayback-20200102.html": {
+      "bytes": 620681,
+      "sha256": "950ba9984a1dc8f8a78b71157058e0739c37a09cc84ac37e09fc991ef92c8cb9"
+    },
+    "booklive-press-20180531.html": {
+      "bytes": 37282,
+      "sha256": "9f60ef7a089a16c995a6da6814cbb614daf1b67ee7c582e17ac180894c67d714"
+    },
+    "modern-library-top100.html": {
+      "bytes": 457337,
+      "sha256": "02ef481ceb42607ebe9c33a787563ffcc46d026dc9cb621f940dbbe59909e931"
+    },
+    "pbs-great-american-read.html": {
+      "bytes": 76983,
+      "sha256": "960a280f1040aef7f8b80987c453f10a2be0cd6df4c256dc6e973c07c10bc577"
+    },
+    "pbs-great-american-read-books.html": {
+      "bytes": 63583,
+      "sha256": "f2f124d859a46a05189b8985579f5c1b3879ac8f2a7b244398cb6a03edde3200"
+    },
+    "pbs-gar-books.json": {
+      "bytes": 231885,
+      "sha256": "0e301372808bf3f65d845d6e61b7f2ad550bedaa8d5505e0829d713ae78dc368"
+    }
+  }
+}

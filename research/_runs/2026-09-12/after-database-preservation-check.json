@@ -1,0 +1,207 @@
+{
+  "django_migrations": {
+    "count": 21,
+    "before_count": 21,
+    "unchanged": true,
+    "serialization_match": [
+      "repr"
+    ]
+  },
+  "django_content_type": {
+    "count": 17,
+    "before_count": 17,
+    "unchanged": true,
+    "serialization_match": [
+      "repr"
+    ]
+  },
+  "auth_group_permissions": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "auth_permission": {
+    "count": 68,
+    "before_count": 68,
+    "unchanged": true,
+    "serialization_match": [
+      "repr"
+    ]
+  },
+  "auth_group": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_user_groups": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_user_user_permissions": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_work_authors": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_work_tags": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_rankingpreference": {
+    "count": 1,
+    "before_count": 1,
+    "unchanged": true,
+    "serialization_match": [
+      "repr"
+    ]
+  },
+  "core_rankingrevision": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_planitem": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_libraryitem": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "django_admin_log": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_edition": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_person": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_rankingentry": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_tag": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  },
+  "core_user": {
+    "count": 1,
+    "before_count": 1,
+    "unchanged": true,
+    "serialization_match": [
+      "repr"
+    ]
+  },
+  "core_work": {
+    "count": 0,
+    "before_count": 0,
+    "unchanged": true,
+    "serialization_match": [
+      "repr",
+      "json",
+      "json_ascii_false",
+      "json_sorted"
+    ]
+  }
+}

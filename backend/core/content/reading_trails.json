@@ -1,0 +1,37 @@
+{
+  "revision": "reading-trails-v1",
+  "note": "Marginalia editorial reading sequences, not merit rankings or university syllabi. Steps connect existing catalog books and their current visible rankings. Suggested selections do not mark whole books read. Library completion is shown only as context; nothing is automatically scheduled or saved. These are selective starting routes, not comprehensive histories or claims of direct influence.",
+  "trails": [
+    {
+      "id": "tragedy-modern", "title": "From Greek tragedy to modern drama", "theme": "Drama & authority",
+      "scope": "Four plays; begin with a conflict between household and civic duty, contrast another Greek dramatic world, then examine adaptation and a thematic modern comparison.",
+      "steps": [
+        {"work": 647, "label": "Antigone · Sophocles", "reading": "Read the play, especially the confrontation between Antigone and Creon.", "question": "Who is allowed to define duty, and what makes their claim persuasive?", "bridge": "Starting point: establish the competing obligations before reading a modern reworking."},
+        {"work": 644, "label": "Bacchae · Euripides", "reading": "Read the play with attention to the chorus and Pentheus.", "question": "How does an encounter with divine authority change the shape of political conflict?", "bridge": "Comparative step, not an assertion that this play derives from Antigone."},
+        {"work": 8721, "label": "Antigone · Jean Anouilh", "reading": "Read the modern play alongside your notes on Sophocles.", "question": "What changes in Creon's reasoning and Antigone's choices?", "bridge": "A named adaptation branch returning to the first step; use Classical education → Reception trails for the publisher reference."},
+        {"work": 3190, "label": "A Doll's House · Henrik Ibsen", "reading": "Read the play, then revisit the final conversation.", "question": "How do public and domestic obligations constrain a person's account of themselves?", "bridge": "Thematic comparison only. This sequence does not claim Ibsen's play is an adaptation of Antigone."}
+      ]
+    },
+    {
+      "id": "understanding-china", "title": "Understanding China: five literary entry points", "theme": "China & Chinese-language traditions",
+      "scope": "A selective path through ethical argument, philosophical storytelling, family fiction, satire and memoir. Neither five books nor a single cultural canon can represent all Chinese experiences; memoir and fiction are situated accounts, not transparent histories.",
+      "steps": [
+        {"work": 34, "label": "Analects · Confucius", "reading": "Start with Books 1–4; keep the translator's notes nearby.", "question": "How are learning, ritual and relationships connected?", "bridge": "Establish a vocabulary of cultivated conduct without treating every saying as a timeless national trait."},
+        {"work": 35, "label": "Zhuangzi", "reading": "Begin with the Inner Chapters (1–7).", "question": "What happens when a story unsettles the categories used by its speakers?", "bridge": "A contrasting philosophical voice, not a simple opposite or an exhaustive history of Daoism."},
+        {"work": 17, "label": "Dream of the Red Chamber · Cao Xueqin", "reading": "Begin with Chapters 1–5, then continue the novel if its world draws you in.", "question": "What can a household reveal that a philosophical maxim cannot?", "bridge": "Move from compact argument and parable to a sustained social and emotional world. Editions differ in titles and continuation material."},
+        {"work": 6708, "label": "The True Story of Ah Q · Lu Xun", "reading": "Read the complete novella/story; check your collection's translation credit.", "question": "How does the narrator make both the protagonist and the act of telling his story uncomfortable?", "bridge": "A shorter satirical lens after the long novel; no claim of a direct line of influence."},
+        {"work": 8148, "label": "Wild Swans · Jung Chang", "reading": "Read as a family memoir, checking historical questions against other sources.", "question": "Where does testimony illuminate events, and where do you need a wider historical account?", "bridge": "Conclude with situated life writing. One family's perspective does not stand for every region, class or political experience."}
+      ]
+    },
+    {
+      "id": "scientific-thought", "title": "The history of scientific thought: a starting trail", "theme": "Science & explanation",
+      "scope": "Four contrasting accounts of nature and scientific change, not a complete global history or a claim that science advances in one straight line. Read historical science as historical argument, not current practical guidance.",
+      "steps": [
+        {"work": 444, "label": "On the Nature of Things · Lucretius", "reading": "Start with Book 1's account of nature and explanation.", "question": "How can a poem argue for a theory of the physical world?", "bridge": "Start with ancient natural philosophy; distinguish its explanatory ambition from modern experimental science."},
+        {"work": 7996, "label": "Dialogue Concerning the Two Chief World Systems · Galileo Galilei", "reading": "Begin with the First Day; consult diagrams and editorial context.", "question": "What roles do observation, thought experiment and dialogue play?", "bridge": "Change the argumentative setting. This is not a claim that Galileo simply extends Lucretius."},
+        {"work": 11, "label": "On the Origin of Species · Charles Darwin", "reading": "Read the introduction and Chapters 1–4 before deciding whether to continue in full.", "question": "How does Darwin assemble a case from many kinds of evidence?", "bridge": "Move from physical systems to living populations. Record which edition you use."},
+        {"work": 230, "label": "The Structure of Scientific Revolutions · Thomas S. Kuhn", "reading": "Read the book with examples from the earlier steps in mind.", "question": "Which aspects of those arguments fit Kuhn's account, and which resist it?", "bridge": "Finish by questioning how histories of science are told, not by treating this account as the final word."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "summary": "Six new sources span five languages and six platforms; disagreements concern character depth, slow narrative, recognition versus availability, and unresolved historical truth. Failed generic Reddit region thread and blocked Babelio not counted.",
+  "next": "Add scholarly and regional criticism to complement this reader-focused batch.",
+  "sources": [
+    {
+      "id": "R103",
+      "url": "https://www.lecturalia.com/libro/14611/en-busca-del-tiempo-perdido",
+      "title": "En busca del tiempo perdido: comentarios y opiniones",
+      "publisher": "Lecturalia",
+      "family": "reader_reviews",
+      "language": "es",
+      "note": "Readers praise patient, immersive prose and Charlus while others abandon the opening or find it tedious without denying its reputation; enjoyment and attributed merit diverge.",
+      "candidates": [
+        "In Search of Lost Time"
+      ],
+      "location": "Displayed reader comments",
+      "limits": "Small self-selected set; early abandonment is not a whole-work evaluation; ratings not normalized.",
+      "targets": {
+        "A": "Distinct international reception or textual interpretation.",
+        "L": "Fiction-specific reader response and interpretive evidence."
+      }
+    },
+    {
+      "id": "R104",
+      "url": "https://lubimyczytac.pl/ksiazka/opinie/5255314/lalka",
+      "title": "Lalka: opinie",
+      "publisher": "Lubimyczytać",
+      "family": "reader_reviews",
+      "language": "pl",
+      "note": "Displayed readers disagree directly: one finds characters didactic and one-dimensional on rereading, another praises multilayered psychology and the anatomy of nineteenth-century Warsaw.",
+      "candidates": [
+        "The Doll (Bolesław Prus)"
+      ],
+      "location": "Ida and Filip comments, August 2026",
+      "limits": "Edition-specific page; other editions may pool reviews and must not become extra underlying sources.",
+      "targets": {
+        "A": "Distinct international reception or textual interpretation.",
+        "L": "Fiction-specific reader response and interpretive evidence."
+      }
+    },
+    {
+      "id": "R105",
+      "url": "https://www.reddit.com/r/TrueLit/comments/1vmfk3d/overlooked_nonanglophone_literature/",
+      "title": "Overlooked non-anglophone literature",
+      "publisher": "Reddit",
+      "family": "reader_discussion",
+      "language": "en",
+      "note": "Readers distinguish Nobel recognition from local availability; recommend Jahnn’s imagery, Chang Kuei-hsing’s family violence and Bonomini’s individual/collective tensions.",
+      "candidates": [
+        "The Night of Lead",
+        "Monkey Cup",
+        "The Novices of Lerna",
+        "Kenzaburō Ōe"
+      ],
+      "location": "Overlooked-status debate and detailed recommendations",
+      "limits": "Availability claims are anecdotal and require verification; translated and untranslated works distinguished.",
+      "targets": {
+        "A": "Distinct international reception or textual interpretation.",
+        "L": "Fiction-specific reader response and interpretive evidence."
+      }
+    },
+    {
+      "id": "R106",
+      "url": "https://www.senscritique.com/livre/la_montagne_magique/critique/278964",
+      "title": "Un chef d’oeuvre paradoxal",
+      "publisher": "SensCritique",
+      "family": "standalone_reader_review",
+      "language": "fr",
+      "note": "Coriolano relates fascination and boredom to the novel’s manipulation of time, detached narrator and irony; recommends cautiously because thin action can deter readers.",
+      "candidates": [
+        "The Magic Mountain"
+      ],
+      "location": "Complete standalone critical text",
+      "limits": "Review-index excerpt and standalone text count together, not twice; one reader’s experience.",
+      "targets": {
+        "A": "Distinct international reception or textual interpretation.",
+        "L": "Fiction-specific reader response and interpretive evidence."
+      }
+    },
+    {
+      "id": "R107",
+      "url": "https://book.douban.com/subject/30137806/",
+      "title": "红楼梦：读者短评与版本资料",
+      "publisher": "Douban",
+      "family": "reader_reviews",
+      "language": "zh",
+      "note": "Readers emphasize social observation, recognition of themselves and pervasive sadness; bibliographic panel distinguishes Cao Xueqin from the continuation’s unnamed author.",
+      "candidates": [
+        "Dream of the Red Chamber"
+      ],
+      "location": "Bibliographic panel and displayed short reviews",
+      "limits": "Edition-specific rating not universal quality; pooled longer-review previews not separately counted or treated as fully read.",
+      "targets": {
+        "A": "Distinct international reception or textual interpretation.",
+        "L": "Fiction-specific reader response and interpretive evidence."
+      }
+    },
+    {
+      "id": "R108",
+      "url": "https://downloads.hebban.nl/leesclubassistent-de-donkere-kamer-van-damocles.pdf",
+      "title": "Leesgids: De donkere kamer van Damokles",
+      "publisher": "Stichting CPNB / Nederland Leest",
+      "family": "institutional_reading_guide",
+      "language": "nl",
+      "note": "Enschedé connects unresolved resistance/treason ambiguity with controlled pacing and cool style; Hermans contrasts his persistent mystery with a detective novel’s solved puzzle.",
+      "candidates": [
+        "The Darkroom of Damocles"
+      ],
+      "location": "PDF pages 2–3 (introduction and book discussion)",
+      "limits": "Reading-promotion guide, not reader poll; source’s historical reception claims need corroboration.",
+      "targets": {
+        "A": "Distinct international reception or textual interpretation.",
+        "L": "Fiction-specific reader response and interpretive evidence."
+      }
+    }
+  ]
+}

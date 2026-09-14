@@ -1,0 +1,234 @@
+{
+  "purpose": "Replace editorial-placement wording in the newly created profiles with factual philosophical introductions; preserve previous input.",
+  "people": [
+    {
+      "key": "plato",
+      "name": "Plato",
+      "expected_before": "A philosopher whose dialogues investigate justice, knowledge and the examined life. The dramatic Socrates in these works is not simply interchangeable with Plato.",
+      "biography": "A philosopher whose dialogues investigate justice, knowledge and the examined life. The dramatic Socrates in these works is not simply interchangeable with Plato.",
+      "source_ids": [
+        "S17",
+        "R028",
+        "R041"
+      ]
+    },
+    {
+      "key": "aristotle",
+      "name": "Aristotle",
+      "expected_before": "Breadth across disciplines supports leading historical consideration. Influence does not certify current scientific correctness.",
+      "biography": "A philosopher whose surviving works range across logic, biology, metaphysics and ethics. Much of this corpus uses compressed technical prose and has a complex editorial history.",
+      "source_ids": [
+        "R002",
+        "R041"
+      ]
+    },
+    {
+      "key": "kant",
+      "name": "Immanuel Kant",
+      "expected_before": "Several reception routes support a leading position. Exact position against non-European traditions is unresolved.",
+      "biography": "A philosopher whose three Critiques connect knowledge, ethics and judgment through questions of reason and autonomy.",
+      "source_ids": [
+        "S23",
+        "R041",
+        "R029"
+      ]
+    },
+    {
+      "key": "confucius",
+      "name": "Confucius",
+      "expected_before": "Long reception supports a high historical case. Received text and historical person need separation.",
+      "biography": "A thinker associated with ritual, virtue and the relations between family and political life. The Analects preserves multiple representations of him through later transmission.",
+      "source_ids": [
+        "S20"
+      ]
+    },
+    {
+      "key": "hume",
+      "name": "David Hume",
+      "expected_before": "Scholarly and comparative selections support high standing. Contemporary historical fame differs from later philosophical fame.",
+      "biography": "A philosopher and historian who investigated experience, causal reasoning and human nature. His Enquiries revisit subjects of the earlier Treatise with both continuity and revision.",
+      "source_ids": [
+        "R020",
+        "R028",
+        "R029"
+      ]
+    },
+    {
+      "key": "avicenna",
+      "name": "Avicenna / Ibn Sīnā",
+      "expected_before": "Cross-disciplinary and interreligious reception supports a high place. Medicine and philosophy contribute different kinds of influence.",
+      "biography": "A philosopher and physician whose work connects scientific and philosophical inquiry. Later thinkers across religious communities developed, revised and challenged his arguments.",
+      "source_ids": [
+        "R011",
+        "R027"
+      ]
+    },
+    {
+      "key": "nagarjuna",
+      "name": "Nāgārjuna",
+      "expected_before": "Buddhist reception across Asia supports high historical consideration. Work attributions are not uniformly secure.",
+      "biography": "A Buddhist philosopher associated with arguments about emptiness and the absence of intrinsic nature. Not every work later attributed to him has secure authorship.",
+      "source_ids": [
+        "R009"
+      ]
+    },
+    {
+      "key": "aquinas",
+      "name": "Thomas Aquinas",
+      "expected_before": "Scholastic reception supports upper-group consideration. A comparative worldwide rank needs more than reference coverage.",
+      "biography": "A philosopher and theologian who systematically reworked Aristotelian thought. His theological syntheses and disputed questions contain extensive philosophical argument.",
+      "source_ids": [
+        "R022",
+        "R084"
+      ]
+    },
+    {
+      "key": "wittgenstein",
+      "name": "Ludwig Wittgenstein",
+      "expected_before": "Language and method provide a strong historical case. Do not flatten contested phases into two simple doctrines.",
+      "biography": "A philosopher concerned with language and the practice of philosophy. The relationship between the Tractatus and Philosophical Investigations remains a subject of interpretation.",
+      "source_ids": [
+        "R019",
+        "S19"
+      ]
+    },
+    {
+      "key": "shankara",
+      "name": "Śaṅkara",
+      "expected_before": "Vedānta reception supports an upper historical group. Religious authority and philosophical argument need separate evaluation.",
+      "biography": "An Advaita philosopher whose commentaries explore consciousness, metaphysics and methods of teaching, including readings of the Brahmasutras, Bhagavad Gita and principal Upanishads.",
+      "source_ids": [
+        "R010",
+        "R082",
+        "S49"
+      ]
+    },
+    {
+      "key": "spinozap",
+      "name": "Baruch Spinoza",
+      "expected_before": "Critical, editorial and reader evidence support inclusion. Reader enthusiasm is self-selected.",
+      "biography": "A philosopher linking metaphysics with the passions, freedom, happiness and political life. His works include the Ethics and Theological-Political Treatise.",
+      "source_ids": [
+        "R021",
+        "R044",
+        "R086"
+      ]
+    },
+    {
+      "key": "nietzsche",
+      "name": "Friedrich Nietzsche",
+      "expected_before": "Psychological and value critique supports high standing. Authored works must be separated from notebook compilations.",
+      "biography": "A philosopher whose writing joins psychological criticism with a re-examination of values. His authored books must be distinguished from posthumous notebook compilations.",
+      "source_ids": [
+        "R023",
+        "R041"
+      ]
+    },
+    {
+      "key": "beauvoir",
+      "name": "Simone de Beauvoir",
+      "expected_before": "Independent contribution merits more than derivative status. Do not reduce the corpus to one book.",
+      "biography": "A writer and philosopher whose contributions span existentialism, ethics and feminism, across theory, fiction and memoir.",
+      "source_ids": [
+        "R017"
+      ]
+    },
+    {
+      "key": "ghazali",
+      "name": "al-Ghazālī",
+      "expected_before": "Philosophical criticism and later reception support inclusion. Reject unsupported philosophy-decline shorthand.",
+      "biography": "A thinker whose criticism of selected philosophical doctrines coexists with the use of philosophical argument in theology. His work resists a simple description as rejection of philosophy.",
+      "source_ids": [
+        "R115"
+      ]
+    },
+    {
+      "key": "mencius",
+      "name": "Mencius",
+      "expected_before": "Comparative ethics supports substantial historical consideration. Text compilation is distinct from personal authorship.",
+      "biography": "A thinker associated with ethical cultivation and debates about human nature. The received Mengzi was compiled by followers and subsequently edited.",
+      "source_ids": [
+        "R013",
+        "R028"
+      ]
+    },
+    {
+      "key": "arendt",
+      "name": "Hannah Arendt",
+      "expected_before": "Public and scholarly reception supports inclusion. Different books and controversies require separate treatment.",
+      "biography": "A political thinker whose books investigate totalitarianism, human activity and judgment. Her distinct arguments and public controversies should be read in their particular contexts.",
+      "source_ids": [
+        "R018"
+      ]
+    },
+    {
+      "key": "rawls",
+      "name": "John Rawls",
+      "expected_before": "Institutional and international reception support inclusion. National reception produces conflicting political interpretations.",
+      "biography": "A political philosopher whose theory of justice generated extensive international debate. Its reception has taken different forms within different political and academic institutions.",
+      "source_ids": [
+        "R043",
+        "R083",
+        "R075"
+      ]
+    },
+    {
+      "key": "fanon",
+      "name": "Frantz Fanon",
+      "expected_before": "Africana and postcolonial reception sustain the historical case. Further independent debate over violence remains needed.",
+      "biography": "A thinker whose work examines racism, alienation and colonial liberation. His books develop different perspectives on lived experience and political transformation.",
+      "source_ids": [
+        "R024",
+        "R045"
+      ]
+    },
+    {
+      "key": "mozi",
+      "name": "Mozi",
+      "expected_before": "A thinker associated with the Mohist tradition. The received text also reflects later members of the school, so the collective corpus is not treated as single-person authorship.",
+      "biography": "A thinker associated with the Mohist tradition. The received text also reflects later members of the school, so the collective corpus is not treated as single-person authorship.",
+      "source_ids": [
+        "R046",
+        "R153"
+      ]
+    },
+    {
+      "key": "mill",
+      "name": "John Stuart Mill",
+      "expected_before": "Canonical argument supports historical inclusion. Colonial exclusions complicate a universalist reading.",
+      "biography": "A philosopher who defended open discussion and individuality through arguments about fallibility and utility. His account of liberty also contains exclusions that require critical attention.",
+      "source_ids": [
+        "R157",
+        "S19"
+      ]
+    },
+    {
+      "key": "ambedkar",
+      "name": "B. R. Ambedkar",
+      "expected_before": "Indian political reception supports a substantial case. A book-level comparison does not measure the whole philosopher.",
+      "biography": "An anti-caste thinker whose work links social hierarchy with questions of democratic transformation and recognition.",
+      "source_ids": [
+        "R073",
+        "R074"
+      ]
+    },
+    {
+      "key": "wollstonecraft",
+      "name": "Mary Wollstonecraft",
+      "expected_before": "Feminist philosophical reception supports consideration. More work-specific and comparative evidence needed.",
+      "biography": "A writer and philosopher whose critique of women’s condition connects education and rights with wider social relations. Her work also extends into travel writing.",
+      "source_ids": [
+        "S40"
+      ]
+    },
+    {
+      "key": "sadra",
+      "name": "Mullā Ṣadrā",
+      "expected_before": "Later Islamic philosophy challenges a truncated historical canon. English availability must be verified for a particular entry work.",
+      "biography": "A philosopher whose thought brings rational argument into conversation with revelation and mystical insight. His major works include the Four Journeys.",
+      "source_ids": [
+        "R110"
+      ]
+    }
+  ]
+}

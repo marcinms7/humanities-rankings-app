@@ -1,0 +1,1609 @@
+{
+  "target": "history-books-all-time",
+  "rule": "Unreviewed leads are not counted or imported as consulted evidence.",
+  "lead_count": 200,
+  "existing_overlap_count": 200,
+  "new_unreviewed_count": 0,
+  "rows": [
+    {
+      "lead_id": "owner-001",
+      "url": "https://www.goodreads.com/list/show/1362.Best_History_Books_",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-001"
+      ]
+    },
+    {
+      "lead_id": "owner-002",
+      "url": "https://www.goodreads.com/list/show/108393.Best_Popular_History_Books_on_Goodreads",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-002"
+      ]
+    },
+    {
+      "lead_id": "owner-003",
+      "url": "https://www.goodreads.com/list/show/290.Best_American_History_Books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-003"
+      ]
+    },
+    {
+      "lead_id": "owner-004",
+      "url": "https://www.goodreads.com/list/show/9405.Best_Medieval_History_Books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-004"
+      ]
+    },
+    {
+      "lead_id": "owner-005",
+      "url": "https://www.goodreads.com/list/show/78883.Best_Books_About_Ancient_History",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-005"
+      ]
+    },
+    {
+      "lead_id": "owner-006",
+      "url": "https://www.goodreads.com/list/show/11683.Military_History",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-006"
+      ]
+    },
+    {
+      "lead_id": "owner-007",
+      "url": "https://www.goodreads.com/list/show/180313.Best_Books_on_African_History_",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-007"
+      ]
+    },
+    {
+      "lead_id": "owner-008",
+      "url": "https://www.goodreads.com/award/show/5991-libris-geschiedenis-prijs",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-008"
+      ]
+    },
+    {
+      "lead_id": "owner-009",
+      "url": "https://www.librarything.com/list/68/dmofnd",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-009"
+      ]
+    },
+    {
+      "lead_id": "owner-010",
+      "url": "https://www.redditreads.com/r/history",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-010"
+      ]
+    },
+    {
+      "lead_id": "owner-011",
+      "url": "https://booksreddit.com/best/history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-011"
+      ]
+    },
+    {
+      "lead_id": "owner-012",
+      "url": "https://www.book-filter.com/genres/nonfiction",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-012"
+      ]
+    },
+    {
+      "lead_id": "owner-013",
+      "url": "https://www.shortform.com/best-books/genre/best-history-books-of-all-time",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-013"
+      ]
+    },
+    {
+      "lead_id": "owner-014",
+      "url": "https://www.listchallenges.com/goodreads-top-200-history-books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-014"
+      ]
+    },
+    {
+      "lead_id": "owner-015",
+      "url": "https://thegreatestbooks.org/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-015"
+      ]
+    },
+    {
+      "lead_id": "owner-016",
+      "url": "https://bookmarks.reviews/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-016"
+      ]
+    },
+    {
+      "lead_id": "owner-017",
+      "url": "https://search.worldcat.org/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-017"
+      ]
+    },
+    {
+      "lead_id": "owner-018",
+      "url": "https://books.google.com/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-018"
+      ]
+    },
+    {
+      "lead_id": "owner-019",
+      "url": "https://archive.org/details/books?tab=collection",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-019"
+      ]
+    },
+    {
+      "lead_id": "owner-020",
+      "url": "https://openlibrary.org/subjects/history",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-020"
+      ]
+    },
+    {
+      "lead_id": "owner-021",
+      "url": "https://scholar.google.com/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-021"
+      ]
+    },
+    {
+      "lead_id": "owner-022",
+      "url": "https://www.jstor.org/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-022"
+      ]
+    },
+    {
+      "lead_id": "owner-023",
+      "url": "https://muse.jhu.edu/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-023"
+      ]
+    },
+    {
+      "lead_id": "owner-024",
+      "url": "https://books.google.com/ngrams/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-024"
+      ]
+    },
+    {
+      "lead_id": "owner-025",
+      "url": "https://www.goodreads.com/list",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-025"
+      ]
+    },
+    {
+      "lead_id": "owner-026",
+      "url": "https://fivebooks.com/category/history-books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-026"
+      ]
+    },
+    {
+      "lead_id": "owner-027",
+      "url": "https://fivebooks.com/category/history/world-history-books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-027"
+      ]
+    },
+    {
+      "lead_id": "owner-028",
+      "url": "https://fivebooks.com/category/history/ancient-history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-028"
+      ]
+    },
+    {
+      "lead_id": "owner-029",
+      "url": "https://fivebooks.com/category/history/medieval-history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-029"
+      ]
+    },
+    {
+      "lead_id": "owner-030",
+      "url": "https://fivebooks.com/category/history/british-history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-030"
+      ]
+    },
+    {
+      "lead_id": "owner-031",
+      "url": "https://fivebooks.com/category/history/chinese-history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-031"
+      ]
+    },
+    {
+      "lead_id": "owner-032",
+      "url": "https://fivebooks.com/category/history/military-history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-032"
+      ]
+    },
+    {
+      "lead_id": "owner-033",
+      "url": "https://fivebooks.com/books/ancient-greece/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-033"
+      ]
+    },
+    {
+      "lead_id": "owner-034",
+      "url": "https://fivebooks.com/best-books/the-best-roman-history-books-ross-king/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-034"
+      ]
+    },
+    {
+      "lead_id": "owner-035",
+      "url": "https://fivebooks.com/best-books/the-middle-ages-hannah-skoda/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-035"
+      ]
+    },
+    {
+      "lead_id": "owner-036",
+      "url": "https://fivebooks.com/category/history-books/french-history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-036"
+      ]
+    },
+    {
+      "lead_id": "owner-037",
+      "url": "https://fivebooks.com/books/renaissance/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-037"
+      ]
+    },
+    {
+      "lead_id": "owner-038",
+      "url": "https://fivebooks.com/best-books/the-cold-war-archie-brown/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-038"
+      ]
+    },
+    {
+      "lead_id": "owner-039",
+      "url": "https://fivebooks.com/best-books/holocaust-steven-katz/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-039"
+      ]
+    },
+    {
+      "lead_id": "owner-040",
+      "url": "https://fivebooks.com/books/slavery/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-040"
+      ]
+    },
+    {
+      "lead_id": "owner-041",
+      "url": "https://fivebooks.com/best-books/slavery-race-david-olusoga/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-041"
+      ]
+    },
+    {
+      "lead_id": "owner-042",
+      "url": "https://fivebooks.com/best-books/james-dunkerley-on-latin-american-history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-042"
+      ]
+    },
+    {
+      "lead_id": "owner-043",
+      "url": "https://fivebooks.com/books/south-america/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-043"
+      ]
+    },
+    {
+      "lead_id": "owner-044",
+      "url": "https://fivebooks.com/category/world/asia/japan/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-044"
+      ]
+    },
+    {
+      "lead_id": "owner-045",
+      "url": "https://fivebooks.com/best-books/world-war-ii-antony-beevor/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-045"
+      ]
+    },
+    {
+      "lead_id": "owner-046",
+      "url": "https://fivebooks.com/best-books/world-war-i-jonathan-boff/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-046"
+      ]
+    },
+    {
+      "lead_id": "owner-047",
+      "url": "https://fivebooks.com/best-books/american-history-brent-glass/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-047"
+      ]
+    },
+    {
+      "lead_id": "owner-048",
+      "url": "https://fivebooks.com/best-books/pulitzer-prize-winning-history-books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-048"
+      ]
+    },
+    {
+      "lead_id": "owner-049",
+      "url": "https://fivebooks.com/best-books/the-best-history-books-of-2025-helen-king/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-049"
+      ]
+    },
+    {
+      "lead_id": "owner-050",
+      "url": "https://fivebooks.com/best-books/best-history-books-2024-diarmaid-macculloch/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-050"
+      ]
+    },
+    {
+      "lead_id": "owner-051",
+      "url": "https://fivebooks.com/best-books/the-best-history-books-the-2022-wolfson-prize-shortlist-carole-hillenbrand/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-051"
+      ]
+    },
+    {
+      "lead_id": "owner-052",
+      "url": "https://www.smithsonianmag.com/history/the-ten-best-history-books-of-2025-180987706/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-052"
+      ]
+    },
+    {
+      "lead_id": "owner-053",
+      "url": "https://www.theguardian.com/books/2025/dec/02/best-history-politics-books-2025-simon-hart-owen-hatherley-emily-callaci",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-053"
+      ]
+    },
+    {
+      "lead_id": "owner-054",
+      "url": "https://www.theguardian.com/books/2022/dec/03/the-best-history-and-politics-books-of-2022",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-054"
+      ]
+    },
+    {
+      "lead_id": "owner-055",
+      "url": "https://www.theguardian.com/p/xnf9a",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-055"
+      ]
+    },
+    {
+      "lead_id": "owner-056",
+      "url": "https://www.wolfsonhistoryprize.org.uk/past-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-056"
+      ]
+    },
+    {
+      "lead_id": "owner-057",
+      "url": "https://www.wolfsonhistoryprize.org.uk/past-winners/all-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-057"
+      ]
+    },
+    {
+      "lead_id": "owner-058",
+      "url": "https://www.wolfsonhistoryprize.org.uk/about/history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-058"
+      ]
+    },
+    {
+      "lead_id": "owner-059",
+      "url": "https://www.cundillprize.com/about",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-059"
+      ]
+    },
+    {
+      "lead_id": "owner-060",
+      "url": "https://www.cundillprize.com/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-060"
+      ]
+    },
+    {
+      "lead_id": "owner-061",
+      "url": "https://duffcooperprize.org/past-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-061"
+      ]
+    },
+    {
+      "lead_id": "owner-062",
+      "url": "https://royalhistsoc.org/prizes/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-062"
+      ]
+    },
+    {
+      "lead_id": "owner-063",
+      "url": "https://royalhistsoc.org/prizes/royal-historical-society-first-book-prize/recipients-of-the-royal-historical-society-book-prizes-1977-2024/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-063"
+      ]
+    },
+    {
+      "lead_id": "owner-064",
+      "url": "https://royalhistsoc.org/prizes/gladstone-history-book-prize/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-064"
+      ]
+    },
+    {
+      "lead_id": "owner-065",
+      "url": "https://royalhistsoc.org/prizes/gladstone-history-book-prize/rhs-gladstone-past-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-065"
+      ]
+    },
+    {
+      "lead_id": "owner-066",
+      "url": "https://royalhistsoc.org/prizes/whitfield-book-prize/rhs-whitfield-prize-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-066"
+      ]
+    },
+    {
+      "lead_id": "owner-067",
+      "url": "https://www.historians.org/community-careers/awards-grants/awards-prizes/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-067"
+      ]
+    },
+    {
+      "lead_id": "owner-068",
+      "url": "https://www.historians.org/perspectives-article/american-historical-association-announces-2025-prize-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-068"
+      ]
+    },
+    {
+      "lead_id": "owner-069",
+      "url": "https://www.historians.org/perspectives-article/american-historical-association-announces-2024-prize-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-069"
+      ]
+    },
+    {
+      "lead_id": "owner-070",
+      "url": "https://www.historians.org/award-grant/john-k-fairbank-prize/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-070"
+      ]
+    },
+    {
+      "lead_id": "owner-071",
+      "url": "https://www.historians.org/award-grant/patricia-buckley-ebrey-prize/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-071"
+      ]
+    },
+    {
+      "lead_id": "owner-072",
+      "url": "https://www.historians.org/award-grant/joan-kelly-memorial-prize/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-072"
+      ]
+    },
+    {
+      "lead_id": "owner-073",
+      "url": "https://library.columbia.edu/about/awards/bancroft.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-073"
+      ]
+    },
+    {
+      "lead_id": "owner-074",
+      "url": "https://sah.columbia.edu/content/prizes",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-074"
+      ]
+    },
+    {
+      "lead_id": "owner-075",
+      "url": "https://www.smh-hq.org/awards/books.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-075"
+      ]
+    },
+    {
+      "lead_id": "owner-076",
+      "url": "https://www.englishpen.org/prizes/pen-hessell-tiltman-prize/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-076"
+      ]
+    },
+    {
+      "lead_id": "owner-077",
+      "url": "https://www.thebailliegiffordprize.co.uk/year-by-year",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-077"
+      ]
+    },
+    {
+      "lead_id": "owner-078",
+      "url": "https://www.thebailliegiffordprize.co.uk/books-and-authors?accolades=winner",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-078"
+      ]
+    },
+    {
+      "lead_id": "owner-079",
+      "url": "https://www.pulitzer.org/prize-winners-by-year",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-079"
+      ]
+    },
+    {
+      "lead_id": "owner-080",
+      "url": "https://www.pulitzer.org/prize-winners-by-year/2025",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-080"
+      ]
+    },
+    {
+      "lead_id": "owner-081",
+      "url": "https://www.nationalbook.org/award-category/history-biography/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-081"
+      ]
+    },
+    {
+      "lead_id": "owner-082",
+      "url": "https://www.nationalbook.org/national-book-awards/search/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-082"
+      ]
+    },
+    {
+      "lead_id": "owner-083",
+      "url": "https://proseawards.com/winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-083"
+      ]
+    },
+    {
+      "lead_id": "owner-084",
+      "url": "https://www.ala.org/acrl-choice/outstanding",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-084"
+      ]
+    },
+    {
+      "lead_id": "owner-085",
+      "url": "https://www.choice360.org/choice-pick/outstanding-academic-titles-2023-global-history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-085"
+      ]
+    },
+    {
+      "lead_id": "owner-086",
+      "url": "https://www.medievalacademy.org/page/Haskins_Recipients",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-086"
+      ]
+    },
+    {
+      "lead_id": "owner-087",
+      "url": "https://www.asianstudies.org/grants-awards/book-prizes/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-087"
+      ]
+    },
+    {
+      "lead_id": "owner-088",
+      "url": "https://www.asianstudies.org/aas-2026-prizes/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-088"
+      ]
+    },
+    {
+      "lead_id": "owner-089",
+      "url": "https://africanstudies.org/awards-prizes/asa-best-book-prize/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-089"
+      ]
+    },
+    {
+      "lead_id": "owner-090",
+      "url": "https://www.lasaweb.org/en/lasa2026/bryce-wood-book-award/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-090"
+      ]
+    },
+    {
+      "lead_id": "owner-091",
+      "url": "https://www.lasaweb.org/en/news/lasa2025-winning-books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-091"
+      ]
+    },
+    {
+      "lead_id": "owner-092",
+      "url": "https://berksconference.org/annual-prizes/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-092"
+      ]
+    },
+    {
+      "lead_id": "owner-093",
+      "url": "https://berksconference.org/annual-prizes/book-prize-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-093"
+      ]
+    },
+    {
+      "lead_id": "owner-094",
+      "url": "https://www.smh-hq.org/booknom.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-094"
+      ]
+    },
+    {
+      "lead_id": "owner-095",
+      "url": "https://www.historians.org/community-careers/awards-grants/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-095"
+      ]
+    },
+    {
+      "lead_id": "owner-096",
+      "url": "https://www.senscritique.com/top/resultats/les_meilleurs_livres_d_histoire_essais/1014250",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-096"
+      ]
+    },
+    {
+      "lead_id": "owner-097",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_d_histoire_essais/2714939",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-097"
+      ]
+    },
+    {
+      "lead_id": "owner-098",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_d_histoire_essais/2127762",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-098"
+      ]
+    },
+    {
+      "lead_id": "owner-099",
+      "url": "https://www.senscritique.com/top/Les_meilleurs_livres_d_histoire_essais/1017319",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-099"
+      ]
+    },
+    {
+      "lead_id": "owner-100",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_d_histoire_essais/3080152",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-100"
+      ]
+    },
+    {
+      "lead_id": "owner-101",
+      "url": "https://www.fnac.com/l8471/Meilleures-ventes-Histoire/Histoire",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-101"
+      ]
+    },
+    {
+      "lead_id": "owner-102",
+      "url": "https://www.fnac.com/l241308/Meilleures-ventes-Histoire-de-France/Toute-l-Histoire-de-France/Histoire",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-102"
+      ]
+    },
+    {
+      "lead_id": "owner-103",
+      "url": "https://www.academie-francaise.fr/grand-prix-gobert",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-103"
+      ]
+    },
+    {
+      "lead_id": "owner-104",
+      "url": "https://rdv-histoire.com/grand-prix-des-rendez-vous-de-lhistoire",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-104"
+      ]
+    },
+    {
+      "lead_id": "owner-105",
+      "url": "https://rdv-histoire.com/le-festival/les-prix",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-105"
+      ]
+    },
+    {
+      "lead_id": "owner-106",
+      "url": "https://www.senat.fr/le-senat-et-vous/les-prix-decernes-par-le-senat/le-prix-du-livre-dhistoire.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-106"
+      ]
+    },
+    {
+      "lead_id": "owner-107",
+      "url": "https://hsozkult.geschichte.hu-berlin.de/index.asp?name=projektvorstellung&pn=forum&type=buchpreis&year=2002",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-107"
+      ]
+    },
+    {
+      "lead_id": "owner-108",
+      "url": "https://hsozkult.geschichte.hu-berlin.de/index.asp?name=projektvorstellung&pn=forum&type=buchpreis&year=2003",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-108"
+      ]
+    },
+    {
+      "lead_id": "owner-109",
+      "url": "https://hsozkult.geschichte.hu-berlin.de/index.asp?name=projektvorstellung&pn=forum&type=buchpreis&year=2004",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-109"
+      ]
+    },
+    {
+      "lead_id": "owner-110",
+      "url": "https://www.zeit.de/serie/sachbuch-bestenliste",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-110"
+      ]
+    },
+    {
+      "lead_id": "owner-111",
+      "url": "https://www.zdf.de/kultur/aspekte/bestenliste-288",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-111"
+      ]
+    },
+    {
+      "lead_id": "owner-112",
+      "url": "https://www.ndr.de/kultur/buch/sachbuchpreis",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-112"
+      ]
+    },
+    {
+      "lead_id": "owner-113",
+      "url": "https://www.ndr.de/kultur/buch/sachbuchpreis/ndr-sachbuchpreis-alle-preistraegerinnen-und-preistraeger-im-ueberblick%2Csachbuchpreisgewinner100.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-113"
+      ]
+    },
+    {
+      "lead_id": "owner-114",
+      "url": "https://www.deutsche-bank-stiftung.de/portfolio/deutscher-sachbuchpreis/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-114"
+      ]
+    },
+    {
+      "lead_id": "owner-115",
+      "url": "https://www.bmfwf.gv.at/ministerium/presse/20260205.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-115"
+      ]
+    },
+    {
+      "lead_id": "owner-116",
+      "url": "https://www.cultura.gob.es/cultura/libro/premios-literarios/listado-de-premios/premios-nacionales/historia-espana/presentacion.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-116"
+      ]
+    },
+    {
+      "lead_id": "owner-117",
+      "url": "https://www.cultura.gob.es/premiado/busquedaPremioParticularAction.do?cache=init&layout=PremioNacHistoriaEspanaLibro&language=es",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-117"
+      ]
+    },
+    {
+      "lead_id": "owner-118",
+      "url": "https://www.todostuslibros.com/mas_vendidos/historia-general-y-del-mundo_271",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-118"
+      ]
+    },
+    {
+      "lead_id": "owner-119",
+      "url": "https://www.todostuslibros.com/mas_vendidos/historia-acontecimientos-y-temas-especificos_262",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-119"
+      ]
+    },
+    {
+      "lead_id": "owner-120",
+      "url": "https://www.casadellibro.com/libros/historia/115000000",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-120"
+      ]
+    },
+    {
+      "lead_id": "owner-121",
+      "url": "https://www.casadellibro.com/libros/historia/historia-por-paises/115006000",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-121"
+      ]
+    },
+    {
+      "lead_id": "owner-122",
+      "url": "https://www.lecturalia.com/libros/va/mejor-valorados",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-122"
+      ]
+    },
+    {
+      "lead_id": "owner-123",
+      "url": "https://www.ibs.it/libri/storia-archeologia",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-123"
+      ]
+    },
+    {
+      "lead_id": "owner-124",
+      "url": "https://www.libreriauniversitaria.it/libri-storia/storia-top-of-the-year.htm",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-124"
+      ]
+    },
+    {
+      "lead_id": "owner-125",
+      "url": "https://www.raicultura.it/speciali/premioacquistoria2025",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-125"
+      ]
+    },
+    {
+      "lead_id": "owner-126",
+      "url": "https://www.heinen.nl/non-fictie/libris-geschiedenis-prijs/shortlist-libris-geschiedenis-prijs",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-126"
+      ]
+    },
+    {
+      "lead_id": "owner-127",
+      "url": "https://www.heinen.nl/non-fictie/libris-geschiedenis-prijs/longlist-libris-geschiedenis-prijs",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-127"
+      ]
+    },
+    {
+      "lead_id": "owner-128",
+      "url": "https://libris.nl/bij-arie/non-fictie/libris-geschiedenis-prijs/winnaar-libris-geschiedenis-prijs",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-128"
+      ]
+    },
+    {
+      "lead_id": "owner-129",
+      "url": "https://snl.no/Brageprisen",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-129"
+      ]
+    },
+    {
+      "lead_id": "owner-130",
+      "url": "https://historiaikultura.pl/nagroda-klio/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-130"
+      ]
+    },
+    {
+      "lead_id": "owner-131",
+      "url": "https://historia.uw.edu.pl/nagroda-historyczna-klio-2024/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-131"
+      ]
+    },
+    {
+      "lead_id": "owner-132",
+      "url": "https://wydawca.com.pl/2024/11/28/32-targi-ksiazki-historycznej-nagroda-klio-laureaci/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-132"
+      ]
+    },
+    {
+      "lead_id": "owner-133",
+      "url": "https://archiwum.ipn.gov.pl/pl/aktualnosci/70540%2CNagroda-Historyczna-Polityki-dla-publikacji-IPN.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-133"
+      ]
+    },
+    {
+      "lead_id": "owner-134",
+      "url": "https://ast.ru/awards/prosvetitel/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-134"
+      ]
+    },
+    {
+      "lead_id": "owner-135",
+      "url": "https://eksmo.ru/lit-premii/premiaprosvetitel/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-135"
+      ]
+    },
+    {
+      "lead_id": "owner-136",
+      "url": "https://book.douban.com/tag/%E5%8E%86%E5%8F%B2",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-136"
+      ]
+    },
+    {
+      "lead_id": "owner-137",
+      "url": "https://book.douban.com/tag/%E5%8E%86%E5%8F%B2?start=0&type=T",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-137"
+      ]
+    },
+    {
+      "lead_id": "owner-138",
+      "url": "https://read.douban.com/topic/7884/?limit=20&start=20",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-138"
+      ]
+    },
+    {
+      "lead_id": "owner-139",
+      "url": "https://blog.douban.com/douban/2026/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-139"
+      ]
+    },
+    {
+      "lead_id": "owner-140",
+      "url": "https://www.digitaling.com/articles/1442216.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-140"
+      ]
+    },
+    {
+      "lead_id": "owner-141",
+      "url": "https://www.douban.com/doulist/160511870/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-141"
+      ]
+    },
+    {
+      "lead_id": "owner-142",
+      "url": "https://bang.dangdang.com/books/bestsellers/01.36.00.00.00.00-year-2025-0-1-1",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-142"
+      ]
+    },
+    {
+      "lead_id": "owner-143",
+      "url": "https://bang.dangdang.com/books/bestsellers/01.36.00.00.00.00-recent7-0-0-2-1",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-143"
+      ]
+    },
+    {
+      "lead_id": "owner-144",
+      "url": "https://bang.dangdang.com/books/bestsellers/01.36.04.00.00.00-recent7-0-0-2-1",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-144"
+      ]
+    },
+    {
+      "lead_id": "owner-145",
+      "url": "https://bookmeter.com/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-145"
+      ]
+    },
+    {
+      "lead_id": "owner-146",
+      "url": "https://honto.jp/ranking.html?cid=ip_hb_service_ft01",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-146"
+      ]
+    },
+    {
+      "lead_id": "owner-147",
+      "url": "https://ranking.rakuten.co.jp/daily/200447/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-147"
+      ]
+    },
+    {
+      "lead_id": "owner-148",
+      "url": "https://ranking.rakuten.co.jp/realtime/200524/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-148"
+      ]
+    },
+    {
+      "lead_id": "owner-149",
+      "url": "https://www.bookscrolling.com/the-best-japanese-history-and-nonfiction-books-of-all-time/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-149"
+      ]
+    },
+    {
+      "lead_id": "owner-150",
+      "url": "https://www.shortform.com/best-books/genre/best-japanese-history-books-of-all-time",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-150"
+      ]
+    },
+    {
+      "lead_id": "owner-151",
+      "url": "https://store.kyobobook.co.kr/category/domestic/1909/best?pcMode=on",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-151"
+      ]
+    },
+    {
+      "lead_id": "owner-152",
+      "url": "https://www.historians.org/award-grant/beveridge-family-prize-in-american-history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-152"
+      ]
+    },
+    {
+      "lead_id": "owner-153",
+      "url": "https://www.asianstudies.org/aas-2025-prizes/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-153"
+      ]
+    },
+    {
+      "lead_id": "owner-154",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/l3pl15",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-154"
+      ]
+    },
+    {
+      "lead_id": "owner-155",
+      "url": "https://www.historians.org/award-grant/jerry-bentley-prize/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-155"
+      ]
+    },
+    {
+      "lead_id": "owner-156",
+      "url": "https://www.newindiafoundation.org/book-prize",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-156"
+      ]
+    },
+    {
+      "lead_id": "owner-157",
+      "url": "https://www.newindiafoundation.org/winner-nif-book-prize-2025",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-157"
+      ]
+    },
+    {
+      "lead_id": "owner-158",
+      "url": "https://www.newindiafoundation.org/shortlist2025-1",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-158"
+      ]
+    },
+    {
+      "lead_id": "owner-159",
+      "url": "https://www.newindiafoundation.org/longlist2025-1",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-159"
+      ]
+    },
+    {
+      "lead_id": "owner-160",
+      "url": "https://creative.gov.au/news-events/news/announcing-winners-2026-prime-ministers-literary-awards",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-160"
+      ]
+    },
+    {
+      "lead_id": "owner-161",
+      "url": "https://www.creative.gov.au/news-events/news/announcing-shortlist-2026-prime-ministers-literary-awards",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-161"
+      ]
+    },
+    {
+      "lead_id": "owner-162",
+      "url": "https://www.creative.gov.au/news-events/news/announcing-winners-2025-prime-ministers-literary-awards",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-162"
+      ]
+    },
+    {
+      "lead_id": "owner-163",
+      "url": "https://creative.gov.au/news-events/news/winners-2024-prime-ministers-literary-awards-announced",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-163"
+      ]
+    },
+    {
+      "lead_id": "owner-164",
+      "url": "https://www.goodreads.com/list/show/171103.Australia_New_Zealand_Oceania_History_Books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-164"
+      ]
+    },
+    {
+      "lead_id": "owner-165",
+      "url": "https://www.historians.org/award-grant/herbert-baxter-adams-prize/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-165"
+      ]
+    },
+    {
+      "lead_id": "owner-166",
+      "url": "https://www.goodreads.com/list/show/19927.European_History",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-166"
+      ]
+    },
+    {
+      "lead_id": "owner-167",
+      "url": "https://www.goodreads.com/list/show/126684.History_around_the_world_non_fiction_",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-167"
+      ]
+    },
+    {
+      "lead_id": "owner-168",
+      "url": "https://www.premiojabuti.com.br/jabuti/premiados-por-edicao/premiacao/?ano=2015&categoria=099e78c5-481e-e811-a837-000d3ac0a338",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-168"
+      ]
+    },
+    {
+      "lead_id": "owner-169",
+      "url": "https://www.premiojabuti.com.br/jabuti/premiados-por-edicao/premiacao/?ano=2014&categoria=099e78c5-481e-e811-a837-000d3ac0a338",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-169"
+      ]
+    },
+    {
+      "lead_id": "owner-170",
+      "url": "https://premiojabuti.microsoftcrmportals.com/jabuti/premiados-por-edicao/premiacao/?ano=1993",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-170"
+      ]
+    },
+    {
+      "lead_id": "owner-171",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24243",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-171"
+      ]
+    },
+    {
+      "lead_id": "owner-172",
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2025-42274&lang=es",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-172"
+      ]
+    },
+    {
+      "lead_id": "owner-173",
+      "url": "https://ast.ru/awards/prosvetitel/?CODE=prosvetitel&PAGEN_1=2",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-173"
+      ]
+    },
+    {
+      "lead_id": "owner-174",
+      "url": "https://www.deutschlandfunkkultur.de/sachbuchbestenliste-die-10-besten-sachbuecher-im-dezember-100.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-174"
+      ]
+    },
+    {
+      "lead_id": "owner-175",
+      "url": "https://www.historians.org/award-grant/leo-gershoy-award/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-175"
+      ]
+    },
+    {
+      "lead_id": "owner-176",
+      "url": "https://reviews.history.ac.uk/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-176"
+      ]
+    },
+    {
+      "lead_id": "owner-177",
+      "url": "https://www.h-net.org/reviews/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-177"
+      ]
+    },
+    {
+      "lead_id": "owner-178",
+      "url": "https://academic.oup.com/ahr",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-178"
+      ]
+    },
+    {
+      "lead_id": "owner-179",
+      "url": "https://www.cambridge.org/core/journals/journal-of-global-history",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-179"
+      ]
+    },
+    {
+      "lead_id": "owner-180",
+      "url": "https://www.journals.uchicago.edu/toc/jmh/current",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-180"
+      ]
+    },
+    {
+      "lead_id": "owner-181",
+      "url": "https://academic.oup.com/ehr",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-181"
+      ]
+    },
+    {
+      "lead_id": "owner-182",
+      "url": "https://academic.oup.com/past",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-182"
+      ]
+    },
+    {
+      "lead_id": "owner-183",
+      "url": "https://www.cambridge.org/core/journals/historical-journal",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-183"
+      ]
+    },
+    {
+      "lead_id": "owner-184",
+      "url": "https://academic.oup.com/hwj",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-184"
+      ]
+    },
+    {
+      "lead_id": "owner-185",
+      "url": "https://www.cambridge.org/core/journals/journal-of-african-history",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-185"
+      ]
+    },
+    {
+      "lead_id": "owner-186",
+      "url": "https://www.cambridge.org/core/journals/journal-of-asian-studies",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-186"
+      ]
+    },
+    {
+      "lead_id": "owner-187",
+      "url": "https://read.dukeupress.edu/hahr",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-187"
+      ]
+    },
+    {
+      "lead_id": "owner-188",
+      "url": "https://www.cambridge.org/core/journals/slavic-review",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-188"
+      ]
+    },
+    {
+      "lead_id": "owner-189",
+      "url": "https://www.americanantiquarian.org/wmq",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-189"
+      ]
+    },
+    {
+      "lead_id": "owner-190",
+      "url": "https://www.choice360.org/about/for-publishers/outstanding-academic-titles/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-190"
+      ]
+    },
+    {
+      "lead_id": "owner-191",
+      "url": "https://www.reddit.com/r/AskHistorians/wiki/books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-191"
+      ]
+    },
+    {
+      "lead_id": "owner-192",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/p0lyv4",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-192"
+      ]
+    },
+    {
+      "lead_id": "owner-193",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1pfskei/give_a_gift_of_history_with_the_askhistorians/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-193"
+      ]
+    },
+    {
+      "lead_id": "owner-194",
+      "url": "https://www.reddit.com/r/HistoryBooks/comments/1pwwlop/what_was_the_best_history_book_you_read_in_2025/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-194"
+      ]
+    },
+    {
+      "lead_id": "owner-195",
+      "url": "https://www.reddit.com/r/HistoryBooks/comments/1udqmwh/whats_a_good_first_time_history_book/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-195"
+      ]
+    },
+    {
+      "lead_id": "owner-196",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1rp98n7/does_anyone_can_send_detail_history_book_list/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-196"
+      ]
+    },
+    {
+      "lead_id": "owner-197",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1v3qjm1/what_are_good_books_to_read_if_i_want_to_start/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-197"
+      ]
+    },
+    {
+      "lead_id": "owner-198",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/bynosm",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-198"
+      ]
+    },
+    {
+      "lead_id": "owner-199",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/cs6cz8",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-199"
+      ]
+    },
+    {
+      "lead_id": "owner-200",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1d3fy5d",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-200"
+      ]
+    }
+  ]
+}

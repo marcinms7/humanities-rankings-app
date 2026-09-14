@@ -1,0 +1,61 @@
+{
+  "target_id": "booklive-best-100-novels-2018",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-14",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://booklive.jp/feature/index/id/novel100",
+      "title": "BookLive · Readers’ Best 100 Novels (2018) — result publication",
+      "canonical_url": "https://booklive.jp/feature/index/id/novel100",
+      "source_family": "public_poll",
+      "publisher": "BookLive",
+      "evidence_notes": "Published reader-poll positions from BookLive's 1,835-member survey, conducted 26 April–6 May 2018; series-level entries are retained as published.",
+      "limitations": "BookLive suppresses position 92 for signed-out visitors under its content controls, including in all located archived captures. The other 99 positions are verified; position 92 remains explicitly unresolved and is not guessed or renumbered.",
+      "target_ids": [
+        "booklive-best-100-novels-2018"
+      ],
+      "relevance_by_target": {
+        "booklive-best-100-novels-2018": "Published reader-poll positions from BookLive's 1,835-member survey, conducted 26 April–6 May 2018; series-level entries are retained as published."
+      },
+      "accessed_at": "2026-09-14",
+      "eligible": true
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "published-list:https://www.booklive.co.jp/topics/18490",
+      "title": "BookLive · Readers’ Best 100 Novels (2018) — official method notice",
+      "canonical_url": "https://www.booklive.co.jp/topics/18490",
+      "source_family": "list_transcription",
+      "publisher": "BookLive",
+      "evidence_notes": "Used to verify methodology, identities, or the complete visible source order.",
+      "limitations": "Corroborates the same published list; not independent opinion evidence.",
+      "target_ids": [
+        "booklive-best-100-novels-2018"
+      ],
+      "relevance_by_target": {
+        "booklive-best-100-novels-2018": "Used to verify methodology, identities, or the complete visible source order."
+      },
+      "accessed_at": "2026-09-14",
+      "eligible": true
+    },
+    {
+      "source_id": "PUBLISHED-LIST-03",
+      "underlying_source_id": "published-list:https://web.archive.org/web/20200102121444/https://booklive.jp/feature/index/id/novel100",
+      "title": "BookLive · Readers’ Best 100 Novels (2018) — transcription/data cross-check",
+      "canonical_url": "https://web.archive.org/web/20200102121444/https://booklive.jp/feature/index/id/novel100",
+      "source_family": "list_transcription",
+      "publisher": "BookLive",
+      "evidence_notes": "Used to verify methodology, identities, or the complete visible source order.",
+      "limitations": "Corroborates the same published list; not independent opinion evidence.",
+      "target_ids": [
+        "booklive-best-100-novels-2018"
+      ],
+      "relevance_by_target": {
+        "booklive-best-100-novels-2018": "Used to verify methodology, identities, or the complete visible source order."
+      },
+      "accessed_at": "2026-09-14",
+      "eligible": true
+    }
+  ]
+}

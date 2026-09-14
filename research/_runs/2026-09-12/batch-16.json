@@ -1,0 +1,139 @@
+{
+  "summary": "Literary criticism and reception from Indonesia, Bengal, Senegal and Guyana broaden the evidence beyond Anglo-American lists. Character-model speculation and film/book distinctions remain explicit.",
+  "next": "Continue multilingual literary criticism and independent philosophical reviews.",
+  "sources": [
+    {
+      "id": "R117",
+      "url": "https://lareviewofbooks.org/article/the-golden-muse/",
+      "title": "The Golden Muse",
+      "publisher": "Los Angeles Review of Books",
+      "family": "professional_criticism",
+      "note": "Zoellner contrasts Harris’s difficult colonial allegory with Carew’s accessible mining novel, and praises Hart’s monetary explanation while criticizing abandoned narrative threads.",
+      "candidates": [
+        "Palace of the Peacock",
+        "Black Midas",
+        "Gold: The Race for the World’s Most Seductive Metal"
+      ],
+      "location": "Sections 4–5, lines 158–193",
+      "limits": "Comparative judgment is one critic’s; the author discloses friendship with another reviewed writer.",
+      "targets": {
+        "A": "Fiction and reportage compared.",
+        "L": "Harris and Carew receive contrasting formal judgments.",
+        "N": "Hart’s explanatory strengths and narrative weaknesses."
+      }
+    },
+    {
+      "id": "R118",
+      "url": "https://www.insideindonesia.org/editions/edition-160-apr-jun-2025/the-power-of-pramoedya",
+      "title": "The power of Pramoedya",
+      "publisher": "Inside Indonesia",
+      "family": "professional_criticism",
+      "note": "Hollier follows Minke’s education through colonial contradictions and Nyai Ontosoroh’s teaching; the novels challenged the reviewer’s inherited Australian assumptions.",
+      "candidates": [
+        "Buru Quartet",
+        "This Earth of Mankind",
+        "Child of All Nations",
+        "Footsteps"
+      ],
+      "location": "Opening and Minke/Nyai discussion",
+      "limits": "Personal reception and interpretation, not a comparative ranking.",
+      "targets": {
+        "A": "Historical fiction and political education.",
+        "L": "Character development and anticolonial reception."
+      }
+    },
+    {
+      "id": "R119",
+      "url": "https://www.insideindonesia.org/editions/edition-8819/a-lesson-in-courage",
+      "title": "A lesson in courage",
+      "publisher": "Inside Indonesia",
+      "family": "reader_testimony",
+      "note": "Christanty recalls secretly reading the Buru novels under censorship, praising physical description, historical conviction and flawed, resistant characters who shaped her activism.",
+      "candidates": [
+        "Buru Quartet",
+        "Linda Christanty"
+      ],
+      "location": "Learning to love Indonesia",
+      "limits": "Retrospective personal testimony; quoted claims about Nobel eligibility are not endorsed.",
+      "targets": {
+        "A": "Documented effects of fiction on a writer.",
+        "L": "Specific narrative virtues and Indonesian reception."
+      }
+    },
+    {
+      "id": "R120",
+      "url": "https://scroll.in/article/1047900/truth-untruth-mahasweta-devis-novel-about-a-pregnant-maids-death-is-as-comedic-as-it-is-morbid",
+      "title": "Truth/Untruth: Mahasweta Devi’s novel about a pregnant maid’s death is as comedic as it is morbid",
+      "publisher": "Scroll.in",
+      "family": "professional_review",
+      "note": "Debnath reads Devi’s unsentimental treatment of a maid’s death through caste impersonation, class ambition and gendered exploitation.",
+      "candidates": [
+        "Mahasweta Devi",
+        "Truth/Untruth"
+      ],
+      "location": "Opening critical assessment and plot discussion",
+      "limits": "One translated novel; reviewer enthusiasm is not worldwide consensus.",
+      "targets": {
+        "A": "Bengali fiction absent from dominant lists.",
+        "L": "Social satire and narrative tone."
+      }
+    },
+    {
+      "id": "R121",
+      "url": "https://www.africasacountry.com/2024/06/stories-untold",
+      "title": "Stories untold",
+      "publisher": "Africa Is a Country",
+      "family": "historical_critical_essay",
+      "note": "Keïta investigates family testimony connecting a relative to Bagayoko, using migration and naming histories to explore the novel’s possible historical models.",
+      "candidates": [
+        "God’s Bits of Wood",
+        "Ousmane Sembène"
+      ],
+      "location": "Opening family testimony and patronym discussion",
+      "limits": "The proposed character model is conjectural, not established authorship evidence.",
+      "targets": {
+        "A": "Historical research on a Senegalese novel.",
+        "L": "Oral memory and fictional characterization."
+      }
+    },
+    {
+      "id": "R122",
+      "url": "https://africasacountry.com/2016/10/ousmane-sembene-invented-a-new-cinema-for-africa",
+      "title": "Ousmane Sembene invented a new cinema for Africa",
+      "publisher": "Africa Is a Country",
+      "family": "interview",
+      "note": "Gadjigo describes God’s Bits of Wood restoring connections to local places and people after alienating schooling, before explaining Sembène’s turn toward cinema.",
+      "candidates": [
+        "God’s Bits of Wood",
+        "Ousmane Sembène",
+        "Samba Gadjigo"
+      ],
+      "location": "Interview on encountering the novel",
+      "limits": "Film achievements are not transferred to book merit.",
+      "targets": {
+        "A": "First-person account of a novel’s influence.",
+        "L": "Senegalese reader and filmmaker reception."
+      }
+    },
+    {
+      "id": "R123",
+      "url": "https://africasacountry.com/2020/10/decolonizing-african-literature-begins-with-language",
+      "title": "Decolonizing African literature begins with language",
+      "publisher": "Africa Is a Country",
+      "family": "canon_critique",
+      "note": "Criticizes a classroom canon that reduces African authors to one familiar book and channels recognition through metropolitan publishing and European languages.",
+      "candidates": [
+        "A Grain of Wheat",
+        "Things Fall Apart",
+        "God’s Bits of Wood",
+        "The Suns of Independence"
+      ],
+      "location": "Language and fixed classroom canon discussion",
+      "limits": "English/French versions are one underlying essay; examples are not ranked.",
+      "targets": {
+        "A": "Challenges inherited book-selection mechanisms.",
+        "L": "Language and educational visibility bias."
+      }
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "target_id": "books-france",
+  "representative_source_ids": [
+    "FRANCE-001",
+    "FRANCE-002",
+    "FRANCE-003",
+    "FRANCE-004",
+    "FRANCE-005"
+  ],
+  "entries": [
+    {
+      "key": "books-france-001",
+      "position": 1,
+      "reported_title": "À la recherche du temps perdu (In Search of Lost Time)"
+    },
+    {
+      "key": "books-france-002",
+      "position": 2,
+      "reported_title": "Madame Bovary"
+    },
+    {
+      "key": "books-france-003",
+      "position": 3,
+      "reported_title": "Les Misérables"
+    },
+    {
+      "key": "books-france-004",
+      "position": 4,
+      "reported_title": "Le Rouge et le Noir (The Red and the Black)"
+    },
+    {
+      "key": "books-france-006",
+      "position": 6,
+      "reported_title": "Essais (Essays)"
+    },
+    {
+      "key": "books-france-007",
+      "position": 7,
+      "reported_title": "L’Étranger (The Stranger)"
+    },
+    {
+      "key": "books-france-008",
+      "position": 8,
+      "reported_title": "Gargantua et Pantagruel"
+    },
+    {
+      "key": "books-france-009",
+      "position": 9,
+      "reported_title": "Illusions perdues (Lost Illusions)"
+    },
+    {
+      "key": "books-france-010",
+      "position": 10,
+      "reported_title": "Le Comte de Monte-Cristo (The Count of Monte Cristo)"
+    },
+    {
+      "key": "books-france-011",
+      "position": 11,
+      "reported_title": "Voyage au bout de la nuit (Journey to the End of the Night)"
+    },
+    {
+      "key": "books-france-012",
+      "position": 12,
+      "reported_title": "Candide"
+    },
+    {
+      "key": "books-france-013",
+      "position": 13,
+      "reported_title": "La Chartreuse de Parme (The Charterhouse of Parma)"
+    },
+    {
+      "key": "books-france-014",
+      "position": 14,
+      "reported_title": "Germinal"
+    },
+    {
+      "key": "books-france-015",
+      "position": 15,
+      "reported_title": "Les Liaisons dangereuses (Dangerous Liaisons)"
+    },
+    {
+      "key": "books-france-016",
+      "position": 16,
+      "reported_title": "Pensées"
+    },
+    {
+      "key": "books-france-017",
+      "position": 17,
+      "reported_title": "Le Père Goriot (Père Goriot)"
+    },
+    {
+      "key": "books-france-018",
+      "position": 18,
+      "reported_title": "La Princesse de Clèves (The Princess of Clèves)"
+    },
+    {
+      "key": "books-france-019",
+      "position": 19,
+      "reported_title": "L’Éducation sentimentale (Sentimental Education)"
+    },
+    {
+      "key": "books-france-020",
+      "position": 20,
+      "reported_title": "Le Petit Prince (The Little Prince)"
+    },
+    {
+      "key": "books-france-021",
+      "position": 21,
+      "reported_title": "Les Confessions (Confessions)"
+    },
+    {
+      "key": "books-france-022",
+      "position": 22,
+      "reported_title": "Notre-Dame de Paris (The Hunchback of Notre-Dame)"
+    },
+    {
+      "key": "books-france-023",
+      "position": 23,
+      "reported_title": "Le Deuxième Sexe (The Second Sex)"
+    },
+    {
+      "key": "books-france-024",
+      "position": 24,
+      "reported_title": "Phèdre"
+    },
+    {
+      "key": "books-france-025",
+      "position": 25,
+      "reported_title": "Tartuffe"
+    },
+    {
+      "key": "books-france-026",
+      "position": 26,
+      "reported_title": "La Vie mode d’emploi (Life: A User’s Manual)"
+    },
+    {
+      "key": "books-france-027",
+      "position": 27,
+      "reported_title": "De la démocratie en Amérique (Democracy in America)"
+    },
+    {
+      "key": "books-france-028",
+      "position": 28,
+      "reported_title": "La Peste (The Plague)"
+    },
+    {
+      "key": "books-france-029",
+      "position": 29,
+      "reported_title": "Discours de la méthode (Discourse on Method)"
+    },
+    {
+      "key": "books-france-030",
+      "position": 30,
+      "reported_title": "Les Faux-Monnayeurs (The Counterfeiters)"
+    },
+    {
+      "key": "books-france-031",
+      "position": 31,
+      "reported_title": "La Condition humaine (Man’s Fate)"
+    },
+    {
+      "key": "books-france-032",
+      "position": 32,
+      "reported_title": "Alcools"
+    },
+    {
+      "key": "books-france-033",
+      "position": 33,
+      "reported_title": "Une saison en enfer (A Season in Hell)"
+    },
+    {
+      "key": "books-france-034",
+      "position": 34,
+      "reported_title": "Du contrat social (The Social Contract)"
+    },
+    {
+      "key": "books-france-035",
+      "position": 35,
+      "reported_title": "L’Assommoir"
+    },
+    {
+      "key": "books-france-036",
+      "position": 36,
+      "reported_title": "Les Trois Mousquetaires (The Three Musketeers)"
+    },
+    {
+      "key": "books-france-037",
+      "position": 37,
+      "reported_title": "À rebours (Against Nature)"
+    },
+    {
+      "key": "books-france-038",
+      "position": 38,
+      "reported_title": "La Nausée (Nausea)"
+    },
+    {
+      "key": "books-france-039",
+      "position": 39,
+      "reported_title": "Fables"
+    },
+    {
+      "key": "books-france-040",
+      "position": 40,
+      "reported_title": "Le Misanthrope (The Misanthrope)"
+    },
+    {
+      "key": "books-france-041",
+      "position": 41,
+      "reported_title": "Le Grand Meaulnes"
+    },
+    {
+      "key": "books-france-042",
+      "position": 42,
+      "reported_title": "La Chanson de Roland (The Song of Roland)"
+    },
+    {
+      "key": "books-france-043",
+      "position": 43,
+      "reported_title": "Le Roman de la Rose (The Romance of the Rose)"
+    },
+    {
+      "key": "books-france-044",
+      "position": 44,
+      "reported_title": "Le Cid"
+    },
+    {
+      "key": "books-france-045",
+      "position": 45,
+      "reported_title": "De l’esprit des lois (The Spirit of the Laws)"
+    },
+    {
+      "key": "books-france-046",
+      "position": 46,
+      "reported_title": "Le Neveu de Rameau (Rameau’s Nephew)"
+    },
+    {
+      "key": "books-france-047",
+      "position": 47,
+      "reported_title": "Jacques le fataliste et son maître (Jacques the Fatalist)"
+    },
+    {
+      "key": "books-france-048",
+      "position": 48,
+      "reported_title": "Le Mythe de Sisyphe (The Myth of Sisyphus)"
+    },
+    {
+      "key": "books-france-049",
+      "position": 49,
+      "reported_title": "Maximes"
+    },
+    {
+      "key": "books-france-050",
+      "position": 50,
+      "reported_title": "Lettres persanes (Persian Letters)"
+    },
+    {
+      "key": "books-france-051",
+      "position": 51,
+      "reported_title": "Manon Lescaut"
+    },
+    {
+      "key": "books-france-052",
+      "position": 52,
+      "reported_title": "L’Être et le Néant (Being and Nothingness)"
+    },
+    {
+      "key": "books-france-053",
+      "position": 53,
+      "reported_title": "Les Contemplations"
+    },
+    {
+      "key": "books-france-054",
+      "position": 54,
+      "reported_title": "Mémoires d’Hadrien (Memoirs of Hadrian)"
+    },
+    {
+      "key": "books-france-055",
+      "position": 55,
+      "reported_title": "Le Rivage des Syrtes (The Opposing Shore)"
+    },
+    {
+      "key": "books-france-056",
+      "position": 56,
+      "reported_title": "Les Années (The Years)"
+    },
+    {
+      "key": "books-france-057",
+      "position": 57,
+      "reported_title": "Tristes Tropiques"
+    },
+    {
+      "key": "books-france-058",
+      "position": 58,
+      "reported_title": "L’Amant (The Lover)"
+    },
+    {
+      "key": "books-france-059",
+      "position": 59,
+      "reported_title": "Mort à crédit (Death on Credit)"
+    },
+    {
+      "key": "books-france-060",
+      "position": 60,
+      "reported_title": "Bel-Ami"
+    },
+    {
+      "key": "books-france-061",
+      "position": 61,
+      "reported_title": "La Cousine Bette (Cousin Bette)"
+    },
+    {
+      "key": "books-france-062",
+      "position": 62,
+      "reported_title": "Eugénie Grandet"
+    },
+    {
+      "key": "books-france-063",
+      "position": 63,
+      "reported_title": "Nana"
+    },
+    {
+      "key": "books-france-064",
+      "position": 64,
+      "reported_title": "Julie, ou la Nouvelle Héloïse (Julie, or the New Heloise)"
+    },
+    {
+      "key": "books-france-065",
+      "position": 65,
+      "reported_title": "Journal d’un curé de campagne (Diary of a Country Priest)"
+    },
+    {
+      "key": "books-france-066",
+      "position": 66,
+      "reported_title": "Thérèse Desqueyroux"
+    },
+    {
+      "key": "books-france-067",
+      "position": 67,
+      "reported_title": "Chéri"
+    },
+    {
+      "key": "books-france-068",
+      "position": 68,
+      "reported_title": "L’Écume des jours (Froth on the Daydream)"
+    },
+    {
+      "key": "books-france-069",
+      "position": 69,
+      "reported_title": "Paroles"
+    },
+    {
+      "key": "books-france-070",
+      "position": 70,
+      "reported_title": "Nadja"
+    },
+    {
+      "key": "books-france-071",
+      "position": 71,
+      "reported_title": "Cahier d’un retour au pays natal (Notebook of a Return to the Native Land)"
+    },
+    {
+      "key": "books-france-072",
+      "position": 72,
+      "reported_title": "Mythologies"
+    },
+    {
+      "key": "books-france-073",
+      "position": 73,
+      "reported_title": "Surveiller et punir (Discipline and Punish)"
+    },
+    {
+      "key": "books-france-074",
+      "position": 74,
+      "reported_title": "La Route des Flandres (The Flanders Road)"
+    },
+    {
+      "key": "books-france-075",
+      "position": 75,
+      "reported_title": "La Jalousie (Jealousy)"
+    },
+    {
+      "key": "books-france-076",
+      "position": 76,
+      "reported_title": "La Modification (Second Thoughts)"
+    },
+    {
+      "key": "books-france-077",
+      "position": 77,
+      "reported_title": "Tropismes (Tropisms)"
+    },
+    {
+      "key": "books-france-078",
+      "position": 78,
+      "reported_title": "Exercices de style (Exercises in Style)"
+    },
+    {
+      "key": "books-france-079",
+      "position": 79,
+      "reported_title": "W ou le souvenir d’enfance (W, or the Memory of Childhood)"
+    },
+    {
+      "key": "books-france-080",
+      "position": 80,
+      "reported_title": "Le Ravissement de Lol V. Stein (The Ravishing of Lol Stein)"
+    },
+    {
+      "key": "books-france-081",
+      "position": 81,
+      "reported_title": "Notre-Dame-des-Fleurs (Our Lady of the Flowers)"
+    },
+    {
+      "key": "books-france-082",
+      "position": 82,
+      "reported_title": "La Vie devant soi (The Life Before Us)"
+    },
+    {
+      "key": "books-france-083",
+      "position": 83,
+      "reported_title": "Le Roi des Aulnes (The Ogre)"
+    },
+    {
+      "key": "books-france-084",
+      "position": 84,
+      "reported_title": "Rue des boutiques obscures (Missing Person)"
+    },
+    {
+      "key": "books-france-085",
+      "position": 85,
+      "reported_title": "Désert"
+    },
+    {
+      "key": "books-france-086",
+      "position": 86,
+      "reported_title": "Vies minuscules (Small Lives)"
+    },
+    {
+      "key": "books-france-087",
+      "position": 87,
+      "reported_title": "La Place (A Man’s Place)"
+    },
+    {
+      "key": "books-france-088",
+      "position": 88,
+      "reported_title": "Les Particules élémentaires (The Elementary Particles)"
+    },
+    {
+      "key": "books-france-089",
+      "position": 89,
+      "reported_title": "L’Adversaire (The Adversary)"
+    },
+    {
+      "key": "books-france-090",
+      "position": 90,
+      "reported_title": "Vingt mille lieues sous les mers (Twenty Thousand Leagues Under the Seas)"
+    },
+    {
+      "key": "books-france-091",
+      "position": 91,
+      "reported_title": "Le Tour du monde en quatre-vingts jours (Around the World in Eighty Days)"
+    },
+    {
+      "key": "books-france-092",
+      "position": 92,
+      "reported_title": "Cyrano de Bergerac"
+    },
+    {
+      "key": "books-france-093",
+      "position": 93,
+      "reported_title": "Le Mariage de Figaro (The Marriage of Figaro)"
+    },
+    {
+      "key": "books-france-094",
+      "position": 94,
+      "reported_title": "Discours de la servitude volontaire (Discourse on Voluntary Servitude)"
+    },
+    {
+      "key": "books-france-095",
+      "position": 95,
+      "reported_title": "Le Livre de la Cité des dames (The Book of the City of Ladies)"
+    },
+    {
+      "key": "books-france-096",
+      "position": 96,
+      "reported_title": "L’Heptaméron (The Heptameron)"
+    },
+    {
+      "key": "books-france-097",
+      "position": 97,
+      "reported_title": "Le Testament (The Grand Testament)"
+    },
+    {
+      "key": "books-france-098",
+      "position": 98,
+      "reported_title": "Le Parti pris des choses (The Voice of Things)"
+    },
+    {
+      "key": "books-france-099",
+      "position": 99,
+      "reported_title": "La Distinction (Distinction: A Social Critique of the Judgement of Taste)"
+    },
+    {
+      "key": "books-france-100",
+      "position": 100,
+      "reported_title": "La Société du spectacle (The Society of the Spectacle)"
+    }
+  ]
+}

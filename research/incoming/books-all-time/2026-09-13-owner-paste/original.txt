@@ -1,0 +1,1800 @@
+001. Modern Library – 100 Best Novels (Board's List)
+URL: https://sites.prh.com/modern-library-top-100/
+Region: US / Anglophone
+Type: Expert/editorial canon
+Use: Primary score
+Description: Publisher-hosted canonical list selected by the Modern Library editorial board; a major 20th-century English-language prestige signal.
+Caveat: English-language and 20th-century scope; institutional/publisher taste rather than global readership.
+Priority: A
+
+002. Goodreads – Modern Library 100 Best Novels: Board's List
+URL: https://www.goodreads.com/list/show/8797.Modern_Library_100_Best_Novels_The_Board_s_List
+Region: Global / English interface
+Type: Reader platform mirror + ratings
+Use: Supporting score
+Description: Goodreads rendering of the Modern Library board list, useful for combining the institutional canon with reader ratings, review counts and discussion.
+Caveat: Same underlying canon as Modern Library; do not count list inclusion twice.
+Priority: B
+
+003. Goodreads – Modern Library 100 Best Novels (community list)
+URL: https://www.goodreads.com/list/show/2127.100_best_novels_modern_library
+Region: Global / English interface
+Type: Crowd-voted list
+Use: Primary reader score
+Description: Community-voted counterpart to the Modern Library canon; useful for measuring how mass-reader preferences diverge from editorial prestige.
+Caveat: Goodreads demographics and English-language bias; susceptible to popularity effects.
+Priority: B
+
+004. 1001 Books You Must Read Before You Die – overview
+URL: https://en.wikipedia.org/wiki/1001_Books_You_Must_Read_Before_You_Die
+Region: International
+Type: Expert-curated reference canon
+Use: Primary score
+Description: Reference work edited by Peter Boxall with contributions from many critics; unusually broad historical and international fiction coverage.
+Caveat: Edition changes alter the contents; strongly shaped by English-language publishing availability.
+Priority: A
+
+005. Goodreads – 1001 Books You Must Read Before You Die
+URL: https://www.goodreads.com/list/show/952.1001_Books_You_Must_Read_Before_You_Die
+Region: Global / English interface
+Type: Reader platform mirror + ratings
+Use: Supporting score
+Description: Large Goodreads implementation of the Boxall canon, giving list order plus contemporary ratings and review-volume signals.
+Caveat: Underlying selection is not independent of the Boxall book; reader metrics are platform-biased.
+Priority: B
+
+006. World Library / Norwegian Book Club – Goodreads rendering
+URL: https://www.goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List
+Region: International
+Type: International writer poll
+Use: Primary score
+Description: The famous Bokklubben World Library list: writers from dozens of countries nominated the most important works of world literature.
+Caveat: Mixed literary forms and translations; writer-elite rather than mass-reader taste.
+Priority: A
+
+007. World Library / Norwegian Book Club – methodology record
+URL: https://thegreatestbooks.org/lists/28
+Region: International
+Type: Meta/archive methodology record
+Use: Primary score + provenance
+Description: Methodology-rich record of the Norwegian Book Club/Nobel Institute poll, including the international writer-voter design.
+Caveat: Secondary host; use it to document methodology, not as an extra independent vote.
+Priority: A
+
+008. The Guardian – 100 greatest novels of all time (2003)
+URL: https://www.theguardian.com/books/2003/oct/12/features.fiction
+Region: UK / international canon
+Type: Critic/editorial list
+Use: Primary score
+Description: Robert McCrum's influential chronological 100-novel canon; useful as a long-lived British critical reference point.
+Caveat: Single-editorial tradition and Anglophone tilt despite translated works.
+Priority: A
+
+009. The Guardian – 100 best novels written in English (2015)
+URL: https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list
+Region: Anglophone
+Type: Critic/editorial list
+Use: Primary score
+Description: Major Guardian canon explicitly restricted to novels written in English, useful as a strong Anglophone-quality benchmark.
+Caveat: By design excludes world fiction written in other languages.
+Priority: A
+
+010. The Guardian – 100 best novels of all time, expert poll (2026)
+URL: https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time
+Region: International
+Type: Large expert poll
+Use: Primary score
+Description: Poll of roughly 170 writers, critics and academics worldwide, including translated fiction; one of the strongest recent expert all-time signals.
+Caveat: English-publication visibility still affects the candidate universe.
+Priority: A
+
+011. The Guardian – readers' top 100 novels (2026)
+URL: https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels
+Region: International / Guardian readership
+Type: Large reader poll
+Use: Primary reader score
+Description: Reader counterpart to the 2026 expert poll, useful for directly comparing public affection with expert prestige.
+Caveat: Self-selecting newspaper readership; English-speaking audience overrepresented.
+Priority: A
+
+012. The Guardian – 100 best books of the 21st century (2019)
+URL: https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century
+Region: UK / international
+Type: Editorial/expert list
+Use: Supporting score
+Description: High-profile 21st-century list that helps counter the tendency of all-time canons to overweight older books.
+Caveat: Includes nonfiction as well as fiction, so fiction titles must be filtered.
+Priority: B
+
+013. The Guardian – readers' best books of the 21st century (2019)
+URL: https://www.theguardian.com/books/2019/sep/23/it-has-saved-countless-lives-readers-picks-of-the-best-books-this-century
+Region: UK / international
+Type: Reader poll
+Use: Supporting reader score
+Description: Public-reader response to the Guardian's 21st-century exercise; useful as a contemporary popularity/impact comparison.
+Caveat: Mixed fiction/nonfiction and Guardian-reader demographics.
+Priority: B
+
+014. OCLC WorldCat – Library 100
+URL: https://www.oclc.org/en/worldcat/library100.html
+Region: Global libraries
+Type: Library-holdings canon
+Use: Institutional endurance score
+Description: Ranks novels by global WorldCat library holdings, providing a non-opinion measure of institutional reach and endurance.
+Caveat: Holdings measure availability/circulation infrastructure, not aesthetic quality.
+Priority: A
+
+015. OCLC WorldCat – Top 500
+URL: https://www.oclc.org/en/worldcat/library100/top500.html
+Region: Global libraries
+Type: Library-holdings dataset
+Use: Institutional endurance score
+Description: Broader WorldCat holdings list extending beyond the top 100; valuable for identifying durable works that narrower canons miss.
+Caveat: Same institutional-holdings signal as Library 100; use as an expanded pool, not a separate vote.
+Priority: B
+
+016. PBS – The Great American Read results
+URL: https://www.pbs.org/the-great-american-read/results/
+Region: US
+Type: Mass public poll
+Use: Primary reader score
+Description: Nationwide public vote on America's best-loved novels; a strong large-scale affection/popularity signal.
+Caveat: US audience; 'best-loved' is not the same construct as literary greatness.
+Priority: A
+
+017. PBS – The Great American Read methodology/home
+URL: https://www.pbs.org/the-great-american-read/home/
+Region: US
+Type: Poll methodology
+Use: Methodology/context
+Description: Explains the survey and voting framework behind The Great American Read and is useful for weighting its results properly.
+Caveat: Not an independent ranking from the results page.
+Priority: B
+
+018. TIME – All-TIME 100 Novels
+URL: https://entertainment.time.com/2005/10/16/all-time-100-novels/slide/all/
+Region: US / Anglophone
+Type: Critic/editorial canon
+Use: Primary score
+Description: TIME critics' influential selection of English-language novels published since 1923; a useful American critical benchmark.
+Caveat: English-language and post-1923 only.
+Priority: A
+
+019. New York Times – 100 Best Books of the 21st Century (2024 archive)
+URL: https://archive.ph/0f40U
+Region: US / international
+Type: Large writer/critic poll
+Use: Supporting score
+Description: Poll of hundreds of novelists, writers, critics and other literary figures; valuable for recent canon formation.
+Caveat: Mixed fiction/nonfiction; archive mirror rather than the live NYT page.
+Priority: A
+
+020. BBC Culture – 100 Greatest British Novels (Goodreads rendering)
+URL: https://www.goodreads.com/list/show/94275.BBC_Culture_Worldwide_100_Greatest_British_Novels
+Region: UK, voted internationally
+Type: International critic poll
+Use: Primary score
+Description: BBC Culture poll of international critics on British novels, designed partly to reduce purely domestic British taste.
+Caveat: National scope: British novels only.
+Priority: A
+
+021. BBC Culture – 100 Stories That Shaped the World (Goodreads rendering)
+URL: https://www.goodreads.com/list/show/124388.BBC_Culture_The_100_Stories_That_Shaped_The_World
+Region: International
+Type: Global expert poll
+Use: Primary/supporting score
+Description: BBC project drawing on experts across many countries and languages to identify stories with broad cultural impact.
+Caveat: Includes forms beyond the novel; must filter to eligible fiction books.
+Priority: A
+
+022. The Guardian – BBC poll of best 21st-century novels
+URL: https://www.theguardian.com/books/2015/jan/20/brief-wondrous-life-of-oscar-wao-novel-21st-century-best-junot-diaz
+Region: International
+Type: International critic poll report
+Use: Supporting score
+Description: Report on BBC Culture's international critics' poll of major 21st-century novels; useful as a contemporary critical signal.
+Caveat: Restricted to the 21st century and mediated through a news report.
+Priority: B
+
+023. The Telegraph – 100 novels everyone should read
+URL: http://www.telegraph.co.uk/books/what-to-read/100-novels-everyone-should-read/
+Region: UK
+Type: Editorial canon
+Use: Primary/supporting score
+Description: Long-running British newspaper list with broad canonical coverage; useful as another mainstream critical-editorial perspective.
+Caveat: Paywall/archive fragility and UK editorial bias.
+Priority: B
+
+024. J. Peder Zane – The Top Ten: Writers Pick Their Favorite Books
+URL: https://thegreatestbooks.org/lists/44
+Region: International / Anglophone
+Type: Writer poll
+Use: Primary/supporting score
+Description: 125 prominent writers' top-ten ballots; excellent elite-writer preference data.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+025. Ronald Schwartz – For the Love of Books
+URL: https://thegreatestbooks.org/lists/120
+Region: International / Anglophone
+Type: Writer poll
+Use: Primary/supporting score
+Description: Poll of 115 writers about books they value; useful as a writer-to-writer canon signal.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+026. Télérama – 25 favorite books of Francophone writers
+URL: https://thegreatestbooks.org/lists/114
+Region: Francophone
+Type: Writer poll
+Use: Primary/supporting score
+Description: Francophone writers' favorite books; strong non-Anglophone elite signal.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+027. Transfuge – Best Foreign Works of Fiction chosen by Francophone writers
+URL: https://thegreatestbooks.org/lists/308
+Region: France / translated fiction
+Type: Writer poll
+Use: Primary/supporting score
+Description: Francophone writers select foreign fiction, useful for how translated literature is valued in France.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+028. France CNL – Fifty French Writers Choose Their Ten Favorite Books
+URL: https://thegreatestbooks.org/lists/1051
+Region: France
+Type: Writer poll
+Use: Primary/supporting score
+Description: Fifty French writers' personal top tens; valuable French literary-elite preference dataset.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+029. Martin Seymour-Smith – The 100 Most Influential Books / Finest Works of Fiction record
+URL: https://thegreatestbooks.org/lists/140
+Region: UK / international
+Type: Critic canon
+Use: Primary/supporting score
+Description: A critic's criterion-based fiction canon useful as a historical expert viewpoint.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+030. The Times – 50 Best Books of the Past 100 Years
+URL: https://thegreatestbooks.org/lists/377
+Region: UK
+Type: Expert/editorial poll
+Use: Primary/supporting score
+Description: Times jury of authors and critics; a mainstream UK prestige signal.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+031. Dutch Literary Canon in 100 Works
+URL: https://thegreatestbooks.org/lists/485
+Region: Netherlands / Dutch
+Type: Institutional expert survey
+Use: Primary/supporting score
+Description: Survey-based Dutch canon drawing on members of the Society for Dutch Literature; unusually transparent expert-institutional methodology.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+032. Atlantic Canada's 100 Greatest Books
+URL: https://thegreatestbooks.org/lists/862
+Region: Canada / Atlantic Canada
+Type: Regional expert poll
+Use: Primary/supporting score
+Description: Large regional poll of authors, editors and critics; useful for countering metropolitan/global-center bias.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+033. Los Angeles Times – 30 Best Fiction Books of the Last 30 Years
+URL: https://thegreatestbooks.org/lists/957
+Region: US / international
+Type: Critic/writer poll
+Use: Primary/supporting score
+Description: Authors, critics and scholars selecting recent fiction; strong modern literary-prestige signal.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+034. De Groene Amsterdammer – 21 Best Books of the 21st Century
+URL: https://thegreatestbooks.org/lists/969
+Region: Netherlands
+Type: Expert poll
+Use: Primary/supporting score
+Description: Dutch critics, writers, academics and publishers vote on 21st-century books.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+035. Oxford American – Best Southern Novels
+URL: https://thegreatestbooks.org/lists/33
+Region: US South
+Type: Expert poll
+Use: Primary/supporting score
+Description: Regional writers and experts select Southern novels; useful for regional-canon correction.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+036. Guardian – Essential Library
+URL: https://thegreatestbooks.org/lists/328
+Region: UK / international
+Type: Writer/editorial recommendations
+Use: Primary/supporting score
+Description: Eminent writers select essential books by field, including fiction and fiction in translation.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+037. Center for Fiction – 200 Books That Shaped 200 Years of Literature
+URL: https://thegreatestbooks.org/lists/398
+Region: US / international
+Type: Author/institutional canon
+Use: Primary/supporting score
+Description: Panel of major authors plus institutional staff identifying historically shaping books.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+038. New Zealand – 20 Best Books of the 21st Century (The Conversation)
+URL: https://thegreatestbooks.org/lists/568
+Region: New Zealand
+Type: Expert poll
+Use: Primary/supporting score
+Description: Local literary experts nominate recent New Zealand books; useful national-canon signal.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+039. Le Monde/Fnac – 100 Books of the Century
+URL: https://thegreatestbooks.org/lists/108
+Region: France
+Type: Bookseller/journalist shortlist + mass vote
+Use: Primary/supporting score
+Description: Two-stage French list: professional preselection followed by a very large public vote.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+040. New York Times staff – Fiction favorites
+URL: https://thegreatestbooks.org/lists/288
+Region: US
+Type: Editorial staff poll
+Use: Primary/supporting score
+Description: NYT staff members' fiction favorites; lighter-weight but useful editorial taste signal.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+041. Illinois Wesleyan – 100 Must-Read Books
+URL: https://thegreatestbooks.org/lists/860
+Region: US academic
+Type: Campus community canon
+Use: Primary/supporting score
+Description: Faculty, staff and student nominations; useful academic-community rather than critic-only signal.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+042. Publishing Triangle – 100 Best Lesbian and Gay Novels
+URL: https://thegreatestbooks.org/lists/908
+Region: US / LGBTQ literature
+Type: Writer/critic panel
+Use: Primary/supporting score
+Description: Specialist canon chosen by writers and critics, helping correct mainstream-canon omissions.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+043. Le Monde – 100 novels that enthralled its critics since 1944
+URL: https://thegreatestbooks.org/lists/457
+Region: France
+Type: Critic/editorial canon
+Use: Primary/supporting score
+Description: Long-horizon French newspaper critic canon, useful for postwar French reception.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+044. Readings – 30 Best Australian Books of the 21st Century
+URL: https://thegreatestbooks.org/lists/556
+Region: Australia
+Type: Bookseller/writer/publisher poll
+Use: Primary/supporting score
+Description: Australian literary ecosystem vote covering writers, booksellers and publishers.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+045. Il Rifugio dell’Ircocervo – 100 Best Italian Books of the Last 200 Years
+URL: https://thegreatestbooks.org/lists/819
+Region: Italy
+Type: Critical/cultural canon
+Use: Primary/supporting score
+Description: Italian narrative-prose canon built around critical, cultural and reader criteria.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+046. Literary Hub – 20 Best Novels of the 2010s
+URL: https://thegreatestbooks.org/lists/283
+Region: US / international
+Type: Editorial meta-list
+Use: Primary/supporting score
+Description: Editorial selection with explicit dissenting opinions; useful for seeing contemporary consensus and disagreement.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+047. Good Reading / NCTE – 101 Significant Books
+URL: https://thegreatestbooks.org/lists/542
+Region: US academic/education
+Type: Committee canon
+Use: Primary/supporting score
+Description: National Council of Teachers of English committee selection; an education-sector canon signal.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+048. New York Times readers – 100 Best Books of the 21st Century
+URL: https://thegreatestbooks.org/lists/432
+Region: US / international
+Type: Reader poll
+Use: Primary/supporting score
+Description: Reader counterpart to the NYT expert list, useful for expert-vs-reader divergence.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+049. Koen Book Distributors – Top 100 of the Past Century
+URL: https://thegreatestbooks.org/lists/104
+Region: US booksellers
+Type: Bookseller poll
+Use: Primary/supporting score
+Description: Bookseller-customer nominations provide a retail-professional taste signal distinct from critics.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+050. NPR – Top 100 Killer Thrillers
+URL: https://thegreatestbooks.org/lists/312
+Region: US
+Type: Mass nominations + expert panel
+Use: Primary/supporting score
+Description: Large public nomination/vote combined with expert curation; useful specialist genre input.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+051. Radcliffe – 100 Best Novels
+URL: https://thegreatestbooks.org/lists/3
+Region: US academic/publishing
+Type: Student/publishing-course poll
+Use: Primary/supporting score
+Description: Publishing-course students ranked a candidate pool similar to Modern Library; useful comparison with the professional board.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+052. Library of Congress – Books That Shaped America
+URL: https://thegreatestbooks.org/lists/343
+Region: US
+Type: Institutional cultural-impact canon
+Use: Primary/supporting score
+Description: Institutional list emphasizing cultural impact rather than pure literary merit.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+053. William H. F. Lamont – 100 Best Novels
+URL: https://thegreatestbooks.org/lists/382
+Region: International / historical
+Type: Historical scholarly canon
+Use: Primary/supporting score
+Description: Mid-century attempt to revise earlier novel canons with input from scholars, including more continental/South American work.
+Caveat: Secondary methodology/archive host; where possible trace the original publication before final scoring.
+Priority: B
+
+054. Douban Book Top 250
+URL: https://book.douban.com/top250
+Region: China / Chinese
+Type: Mass reader platform ranking
+Use: Primary/supporting score
+Description: One of the most important Chinese reader signals: algorithmic Top 250 based on readership and ratings.
+Caveat: Algorithm/popularity bias; platform users skew urban/online.
+Priority: A
+
+055. Douban 2025 annual book charts
+URL: https://blog.douban.com/douban/2026/
+Region: China / Chinese
+Type: Annual reader/platform charts
+Use: Primary/supporting score
+Description: Recent Douban annual charts by literary category, useful for contemporary Chinese reader taste and translated-fiction reception.
+Caveat: Annual rather than all-time; recent-release bias.
+Priority: B
+
+056. Yazhou Zhoukan – 100 Best Chinese Novels of the 20th Century (Huaqiao University mirror)
+URL: https://lib.hqu.edu.cn/info/1315/3378.htm
+Region: China/HK/Taiwan/Sinophone
+Type: Expert canon
+Use: Primary/supporting score
+Description: Influential Chinese-language 20th-century novel canon associated with Yazhou Zhoukan.
+Caveat: Historical list; mirror rather than original magazine page.
+Priority: A
+
+057. Yazhou Zhoukan Chinese-novel canon methodology (Sogou Baike)
+URL: https://baike.sogou.com/m/fullLemma?lid=70848218
+Region: Sinophone
+Type: Methodology/context
+Use: Primary/supporting score
+Description: Provides background on candidate pool and cross-regional judging for the famous Chinese novel poll.
+Caveat: Encyclopedic secondary source.
+Priority: B
+
+058. Archived mirror of Yazhou Zhoukan 20th-century Chinese novel list
+URL: https://project.zo.uni-heidelberg.de/DACHS_Leiden/archive/leiden/poetry/20040712/white-collar.net/wx_wxf/wxf01/w_99055.html
+Region: Sinophone
+Type: Archive/mirror
+Use: Primary/supporting score
+Description: Archival preservation of the full list; useful if the original magazine page is unavailable.
+Caveat: Not independent of the Yazhou Zhoukan poll.
+Priority: B
+
+059. Goodreads – Best Chinese Fiction Books of the Last Century
+URL: https://www.goodreads.com/list/show/118444.The_Best_Chinese_Fiction_Books_of_the_Last_Century
+Region: China / international readers
+Type: Community rendering of expert poll
+Use: Primary/supporting score
+Description: English-language reader access point to the Time Out Beijing Chinese-fiction expert poll.
+Caveat: Underlying expert poll is the real signal; Goodreads adds platform ratings.
+Priority: B
+
+060. Goodreads – Fiction from the Chinese Mainland
+URL: https://www.goodreads.com/list/show/1852.Fiction_from_the_Chinese_Mainland
+Region: China / international readers
+Type: Crowd-voted national list
+Use: Primary/supporting score
+Description: Reader-created list focused on fiction from mainland China; useful for translated titles and diaspora readership.
+Caveat: Small/English-speaking voter base.
+Priority: B
+
+061. Goodreads – Chinese Literature
+URL: https://www.goodreads.com/list/show/6498.Chinese_Literature
+Region: Sinophone / international readers
+Type: Crowd-voted national list
+Use: Primary/supporting score
+Description: Broad Chinese-literature list; a useful discovery and reader-affection signal across canonical and modern titles.
+Caveat: Includes some non-fiction and works outside a strict novel-only scope.
+Priority: B
+
+062. China Fiction Book Club list
+URL: https://www.goodreads.com/list/show/78120.China_Fiction_Book_Club
+Region: China / translation
+Type: Specialist reader-community list
+Use: Primary/supporting score
+Description: Translation-oriented list associated with Chinese literature translators/readers; helpful for less globally obvious Chinese fiction.
+Caveat: Specialist and relatively small community.
+Priority: B
+
+063. Time Out Beijing – 20 Best Chinese Fiction Books of the 20th Century
+URL: https://thegreatestbooks.org/lists/576
+Region: China / Chinese literature
+Type: Expert poll
+Use: Primary/supporting score
+Description: Poll of Chinese literature experts, novelists, agents, publishers, editors, critics and journalists.
+Caveat: English availability was part of the framing, which can bias selection.
+Priority: A
+
+064. Shinchosha – 100 Books (2026)
+URL: https://www.shinchosha.co.jp/ebook/E066981/
+Region: Japan / Japanese
+Type: Publisher-curated national list
+Use: Primary/supporting score
+Description: Current Shincho Bunko thematic 100-book selection drawn from a major Japanese publisher catalogue.
+Caveat: Publisher-catalogue bias; not all-time or independent of availability.
+Priority: B
+
+065. Shinchosha – 20th Century: 100 Books
+URL: https://www.shinchosha.co.jp/book/610309/
+Region: Japan / Japanese
+Type: Single-critic historical canon
+Use: Primary/supporting score
+Description: Sekikawa Natsuo's one-book-per-year 20th-century selection mixing Japanese and translated literature.
+Caveat: One critic's taste and rigid one-per-year format.
+Priority: B
+
+066. Da Vinci Book of the Year 2025
+URL: https://www.kadokawa.co.jp/product/322501001216/
+Region: Japan / Japanese
+Type: Large reader poll
+Use: Primary/supporting score
+Description: Japanese magazine's annual reader-based rankings, including a substantial novel category.
+Caveat: Annual/recent publication bias.
+Priority: A
+
+067. KADOKAWA methodology/context for Da Vinci Book of the Year
+URL: https://www.kadokawa.co.jp/topics/15198/
+Region: Japan / Japanese
+Type: Poll methodology
+Use: Primary/supporting score
+Description: Explains the long-running Da Vinci reader-ranking project and its reader-vote context.
+Caveat: Methodology page, not an additional independent ranking.
+Priority: B
+
+068. Da Vinci Book of the Year 2024
+URL: https://www.kadokawa.co.jp/product/322402000106/
+Region: Japan / Japanese
+Type: Reader poll
+Use: Primary/supporting score
+Description: Prior-year Japanese reader rankings; useful as a stability check against one-off annual hype.
+Caveat: Annual/recent bias.
+Priority: B
+
+069. Da Vinci Book of the Year 2022
+URL: https://www.kadokawa.co.jp/product/322202000306/
+Region: Japan / Japanese
+Type: Reader poll
+Use: Primary/supporting score
+Description: Older Da Vinci edition that broadens the time series of Japanese mass-reader preferences.
+Caveat: Annual/recent bias.
+Priority: B
+
+070. Honya Taisho – Japan Booksellers' Award history
+URL: https://www.hontai.or.jp/history/
+Region: Japan / Japanese
+Type: Bookseller prize archive
+Use: Primary/supporting score
+Description: Japanese booksellers vote on books they most want to recommend; strong professional-reader signal since 2004.
+Caveat: Contemporary and commercially available titles only.
+Priority: A
+
+071. Amazon Japan all-time best 100 novels – Shinchosha report
+URL: https://www.shinchosha.co.jp/bunko/blog/2014/01/20.html
+Region: Japan / Japanese
+Type: Sales/review-platform retrospective
+Use: Primary/supporting score
+Description: Shinchosha report on Amazon Japan's all-time novel ranking using years of sales/review data.
+Caveat: Commercial-platform methodology and historical snapshot.
+Priority: B
+
+072. Bookmeter – rankings
+URL: https://bookmeter.com/rankings
+Region: Japan / Japanese
+Type: Mass reader platform ranking
+Use: Primary/supporting score
+Description: Large Japanese reading social network with rankings by books read/wanted and time period.
+Caveat: Popularity/activity rather than literary-quality metric.
+Priority: A
+
+073. Bookmeter – ranking methodology/help
+URL: https://bookmeter.com/help/search/ranking
+Region: Japan / Japanese
+Type: Platform methodology
+Use: Primary/supporting score
+Description: Explains Bookmeter's read/want-to-read/monthly ranking categories, useful for interpreting the signal.
+Caveat: Not an independent ranking.
+Priority: B
+
+074. Bookmeter of the Year 2025–2026
+URL: https://bookmeter.com/specials/bookmeter_of_the_year?track=top-pc
+Region: Japan / Japanese
+Type: Reader award + review-volume shortlist
+Use: Primary/supporting score
+Description: Combines millions of reader reactions/reviews with user voting for an annual best-book ranking.
+Caveat: Recent-release focus.
+Priority: B
+
+075. Goodreads – Japanese Literature
+URL: https://www.goodreads.com/list/show/6497.Japanese_Literature
+Region: Japan / international readers
+Type: Crowd-voted national list
+Use: Primary/supporting score
+Description: Large English-interface reader list of Japanese literature, useful as international reception signal.
+Caveat: English-speaking/translation availability bias.
+Priority: B
+
+076. Goodreads – Japanese Literature in English
+URL: https://www.goodreads.com/list/show/108744.Japanese_Literature_in_English
+Region: Japan / translated
+Type: Crowd-voted translation list
+Use: Primary/supporting score
+Description: Specifically captures Japanese works available in English and their reader reception.
+Caveat: Translation-selection bias.
+Priority: B
+
+077. Goodreads – Japanese Fiction
+URL: https://www.goodreads.com/list/show/10701.Japanese_Fiction
+Region: Japan / international readers
+Type: Crowd-voted national list
+Use: Primary/supporting score
+Description: Reader-voted list focused on Japanese fiction, useful for popular and canonical translated works.
+Caveat: English-platform demographics.
+Priority: B
+
+078. Asahi Shimbun – Best Japanese Fiction of the Heisei Era
+URL: https://thegreatestbooks.org/lists/480
+Region: Japan
+Type: Expert/reviewer poll
+Use: Primary/supporting score
+Description: Poll of literary experts and reviewers on fiction from the Heisei era; strong Japanese critical signal.
+Caveat: Period-limited rather than all-time.
+Priority: A
+
+079. Tozai Mystery Best 100
+URL: https://thegreatestbooks.org/lists/252
+Region: Japan
+Type: Large specialist poll
+Use: Primary/supporting score
+Description: Japanese mystery canon revised with hundreds of voters including Mystery Writers of Japan members.
+Caveat: Genre-specific.
+Priority: B
+
+080. Kyobo reader poll on Korean novels (Yonhap report)
+URL: https://www.yna.co.kr/view/AKR20171213050300005
+Region: South Korea / Korean
+Type: Bookseller + mass reader poll
+Use: Primary/supporting score
+Description: Korean bookseller-led novel poll with a large online voting phase; useful domestic-reader signal.
+Caveat: Poll tied to a specific campaign/year.
+Priority: A
+
+081. Seoul National University 100 recommended books – Naver explainer
+URL: https://contents.premium.naver.com/history1876/smallstep/contents/260119211608497vp
+Region: South Korea / Korean
+Type: Academic canon / explainer
+Use: Primary/supporting score
+Description: Widely circulated Korean university recommended-reading canon, useful as an institutional prestige signal.
+Caveat: Broad list, not fiction-only; secondary explainer.
+Priority: B
+
+082. SensCritique – Les meilleurs romans de tous les temps
+URL: https://www.senscritique.com/liste/les_meilleurs_romans_de_tous_les_temps/1086438
+Region: France / French
+Type: French community ranking
+Use: Primary/supporting score
+Description: Large French culture-platform user list of greatest novels; important non-English mass-reader signal.
+Caveat: Self-selecting platform users and list-voting mechanics.
+Priority: A
+
+083. Télérama – readers vote for favorite books of all time
+URL: https://www.telerama.fr/livre/chers-lecteurs-de-telerama-votez-pour-vos-livres-preferes-de-tous-les-temps-7031201.php
+Region: France / French
+Type: Reader poll
+Use: Primary/supporting score
+Description: French cultural magazine's all-time reader-vote exercise; strong domestic reader-preference signal.
+Caveat: Self-selected Télérama readership.
+Priority: A
+
+084. Télérama – best novels and narratives of 2025
+URL: https://www.telerama.fr/livre/les-meilleurs-romans-et-recits-de-2025-le-top-20-de-telerama-7028586.php
+Region: France / French
+Type: Editorial annual list
+Use: Primary/supporting score
+Description: French critics' annual fiction selection, useful for contemporary literary prestige.
+Caveat: Annual/recent bias.
+Priority: B
+
+085. Télérama readers – best novels/narratives of 2025
+URL: https://www.telerama.fr/livre/les-cinq-meilleurs-romans-et-recits-de-2025-selon-les-lectrices-et-lecteurs-de-telerama-3227-7028852.php
+Region: France / French
+Type: Reader poll
+Use: Primary/supporting score
+Description: Thousands of French readers voting on recent fiction; useful for critic-versus-reader comparison.
+Caveat: Annual and self-selecting audience.
+Priority: B
+
+086. Reich-Ranicki – Der Kanon
+URL: https://www.m-reich-ranicki.de/content_themen_kanon.html
+Region: Germany / German
+Type: Major critic canon
+Use: Primary/supporting score
+Description: Marcel Reich-Ranicki's influential canon of German-language literature, including a core set of novels.
+Caveat: One critic's canon and German-language focus.
+Priority: A
+
+087. ZEIT – World Literature: 100 Books
+URL: https://www.zeit.de/kultur/literatur/2023-11/weltliteratur-zeit-bibliothek-100-buecher-empfehlungen
+Region: Germany / German
+Type: Editorial/expert canon
+Use: Primary/supporting score
+Description: German newspaper world-literature library assembled from writer/critic recommendations.
+Caveat: Editorial framing and German publishing availability.
+Priority: A
+
+088. ZEIT – World Literature 100 methodology record
+URL: https://thegreatestbooks.org/lists/438
+Region: Germany / German
+Type: Meta/archive record
+Use: Primary/supporting score
+Description: Structured record of the ZEIT list, useful for extraction and methodology notes.
+Caveat: Secondary host; not an additional independent list.
+Priority: B
+
+089. Goodreads – Best German/Austrian/Swiss Literature
+URL: https://www.goodreads.com/list/show/484.Best_German_Austrian_Swiss_Literature
+Region: German-language / international readers
+Type: Crowd-voted national-language list
+Use: Primary/supporting score
+Description: Large reader list for German-language literature; useful international reception counterweight to German critics.
+Caveat: English-platform and translation bias.
+Priority: B
+
+090. Polityka – Literary Canon for 100 Years of Polish Independence
+URL: https://www.polityka.pl/tygodnikpolityka/kultura/1768460%2C1%2Cliteracki-kanon-na-100-lecie-niepodleglosci.read
+Region: Poland / Polish
+Type: Critic/editorial national canon
+Use: Primary/supporting score
+Description: Major Polish weekly's national literary canon exercise; strong domestic critical signal.
+Caveat: National framing and anniversary context.
+Priority: A
+
+091. Polityka – cultural figures build a new reading canon
+URL: https://www.polityka.pl/tygodnikpolityka/kultura/1769026%2C1%2Cludzie-kultury-ukladaja-nowy-kanon-lektur.read
+Region: Poland / Polish
+Type: Writer/cultural-figure nominations
+Use: Primary/supporting score
+Description: Individual nominations by Polish cultural figures; useful for recovering preference distributions behind a canon.
+Caveat: Related to the same anniversary conversation; avoid double-counting as identical.
+Priority: B
+
+092. Lubimyczytać – Book of the Year rules
+URL: https://s.lubimyczytac.pl/rwd/src/assets/images/lcaward/lcaward-2025/regulamin_plebiscyt_ksiazka_roku.pdf
+Region: Poland / Polish
+Type: Mass reader award methodology
+Use: Primary/supporting score
+Description: Rules document for Poland's major reader platform annual awards; establishes nomination and public-vote mechanics.
+Caveat: Annual rather than all-time.
+Priority: B
+
+093. Lubimyczytać – 12 best books of all time article
+URL: https://lubimyczytac.pl/aktualnosci/21014/12-najlepszych-ksiazek-wszech-czasow-sprawdz-ile-z-nich-czytales
+Region: Poland / Polish
+Type: Reader-site editorial/meta list
+Use: Primary/supporting score
+Description: Polish reader site's all-time discussion piece, useful especially for local comments and reaction.
+Caveat: Editorial/meta framing; list may derive from external rankings.
+Priority: B
+
+094. Lubimyczytać – discussion thread on best books
+URL: https://lubimyczytac.pl/dyskusja/433/34627/12-najlepszych-ksiazek-wszech-czasow-sprawdz-ile-z-nich-czytales
+Region: Poland / Polish
+Type: Reader forum discussion
+Use: Primary/supporting score
+Description: Hundreds of Polish reader comments reacting to an all-time list; valuable qualitative preference evidence.
+Caveat: Unstructured and self-selected; sentiment extraction needed.
+Priority: B
+
+095. Goodreads – Best Polish Literature
+URL: https://www.goodreads.com/list/show/2461.Best_Polish_Literature
+Region: Poland / international readers
+Type: Crowd-voted national list
+Use: Primary/supporting score
+Description: Reader-voted Polish literature list; useful for translation/global-reception signal.
+Caveat: Small voter counts on many titles.
+Priority: B
+
+096. El País / Babelia – Spanish-language novels poll report
+URL: https://elpais.com/diario/2009/11/28/babelia/1259370748_850215.html
+Region: Spain/Latin America / Spanish
+Type: Writer/editor/critic poll
+Use: Primary/supporting score
+Description: Report on a major Spanish-language poll involving writers, editors, journalists and critics.
+Caveat: Period/scope constraints of the original poll; news report rather than data table.
+Priority: A
+
+097. Lecturalia – 100 novels you should read
+URL: https://www.lecturalia.com/blog/2009/03/29/100-novelas-que-debes-leer-i/
+Region: Spain / Spanish
+Type: Spanish book-site canon
+Use: Primary/supporting score
+Description: Spanish reading portal's long-form canon list; useful local editorial/community perspective.
+Caveat: Editorial list and site demographics.
+Priority: B
+
+098. Lecturalia – book database
+URL: https://www.lecturalia.com/portada/libros
+Region: Spain / Spanish
+Type: Reader database/ratings
+Use: Primary/supporting score
+Description: Large Spanish-language book database with ratings and comments; useful for title-level reader metrics.
+Caveat: Not a single ranking; requires extracting ratings for candidate books.
+Priority: B
+
+099. Quelibroleo – 100 best books according to users
+URL: https://quelibroleo.com/noticias/libros/los-100-mejores-libros-de-quelibroleo-segun-nuestros-usuarios/
+Region: Spain / Spanish
+Type: Mass reader ranking
+Use: Primary/supporting score
+Description: Spanish reader-community Top 100 based on site users; strong non-English reader signal.
+Caveat: Platform demographics and rating-volume effects.
+Priority: A
+
+100. Quelibroleo – updated users' Top 100
+URL: https://quelibroleo.com/noticias/libros/100-mejores-segun-usuarios/
+Region: Spain / Spanish
+Type: Mass reader ranking
+Use: Primary/supporting score
+Description: Updated iteration of the site's community best-books list, useful for measuring ranking stability over time.
+Caveat: Same platform; use as time-series update rather than independent vote.
+Priority: B
+
+101. Quelibroleo – best books in literary history according to readers
+URL: https://quelibroleo.com/noticias/libros/los-mejores-libros-de-la-historia-de-la-literatura-segun-los-lectores-de-quelibroleo/
+Region: Spain / Spanish
+Type: Reader ratings synthesis
+Use: Primary/supporting score
+Description: Reader-driven all-time literary list based on thousands of ratings; valuable Spanish-language mass reception.
+Caveat: Popularity/visibility bias.
+Priority: A
+
+102. LiveLib – Top 100 books
+URL: https://www.livelib.ru/books/top
+Region: Russia / Russian
+Type: Mass reader platform ranking
+Use: Primary/supporting score
+Description: Major Russian-language reading network ranking, using reader ratings and readership; key non-Western platform signal.
+Caveat: Platform algorithm/popularity effects.
+Priority: A
+
+103. LiveLib – 'best books of all time' community discussion
+URL: https://www.livelib.ru/group/1636/topic/3196-luchshie-knigi-na-vse-vremena
+Region: Russia / Russian
+Type: Reader forum discussion
+Use: Primary/supporting score
+Description: Russian readers compare and assemble all-time lists; useful qualitative evidence beyond the platform algorithm.
+Caveat: Unstructured and self-selected.
+Priority: B
+
+104. Polka Academy – Main Works of Russian Literature
+URL: https://thegreatestbooks.org/lists/278
+Region: Russia / Russian
+Type: Expert/institutional canon
+Use: Primary/supporting score
+Description: Curated Russian literary canon from an institution focused on teaching/curating Russian classics.
+Caveat: Institutional editorial choices; national canon scope.
+Priority: A
+
+105. Databáze knih – 100 highest-rated books
+URL: https://www.databazeknih.cz/zebricky/100-nejlepe-hodnocenych-knih
+Region: Czech Republic / Czech
+Type: Mass reader platform ranking
+Use: Primary/supporting score
+Description: Large Czech book community's highest-rated books, with visible rating counts.
+Caveat: Popularity and series effects; includes all book types.
+Priority: A
+
+106. Databáze knih – fiction-filtered ranking
+URL: https://www.databazeknih.cz/zebricky/100-nejlepe-hodnocenych-knih?genreId=12
+Region: Czech Republic / Czech
+Type: Mass reader genre ranking
+Use: Primary/supporting score
+Description: Genre-filtered Czech reader ranking that better isolates fiction than the site's global chart.
+Caveat: Category taxonomy and popularity effects.
+Priority: A
+
+107. Goodreads – The Best Dutch Literature
+URL: https://www.goodreads.com/list/show/5053.The_best_Dutch_literature
+Region: Netherlands/Flanders / international readers
+Type: Crowd-voted national-language list
+Use: Primary/supporting score
+Description: Reader-voted Dutch-language novel list; useful international reception signal for Dutch/Flemish fiction.
+Caveat: English-interface voter base and translation availability.
+Priority: B
+
+108. Goodreads – Best Scandinavian and Nordic Literature
+URL: https://www.goodreads.com/list/show/1318.Best_Scandinavian_and_Nordic_Literature
+Region: Nordic / international readers
+Type: Crowd-voted regional list
+Use: Primary/supporting score
+Description: Large cross-Nordic literature list covering Sweden, Finland, Iceland, Denmark and Norway.
+Caveat: English-interface and popular-crime-fiction bias.
+Priority: B
+
+109. Goodreads – Best Italian Novels
+URL: https://www.goodreads.com/list/show/42622.Best_Italian_Novels_
+Region: Italy / international readers
+Type: Crowd-voted national list
+Use: Primary/supporting score
+Description: Reader list of Italian novels from medieval to contemporary periods.
+Caveat: Small-to-moderate voter counts and translation bias.
+Priority: B
+
+110. Goodreads – Best Russian Literature
+URL: https://www.goodreads.com/list/show/113.Best_Russian_Literature
+Region: Russia / international readers
+Type: Crowd-voted national list
+Use: Primary/supporting score
+Description: Large international-reader ranking of Russian literature with substantial vote counts at the top.
+Caveat: English-speaking readership and canonical visibility.
+Priority: B
+
+111. Goodreads – Greatest Russian Novels of All Time
+URL: https://www.goodreads.com/list/show/17853.Greatest_Russian_Novels_of_All_Time
+Region: Russia / international readers
+Type: Crowd-voted novel list
+Use: Primary/supporting score
+Description: Novel-specific Russian list that reduces poetry/nonfiction contamination from broader Russian-literature lists.
+Caveat: Smaller electorate than the broader list.
+Priority: B
+
+112. Goodreads – Best Soviet Literature 1917–1991
+URL: https://www.goodreads.com/list/show/3133.Best_Russian_Soviet_1917_1991_Literature
+Region: Soviet / international readers
+Type: Crowd-voted historical-national list
+Use: Primary/supporting score
+Description: Period-specific reader list useful for Soviet fiction that may be underweighted in general Russian lists.
+Caveat: English-platform and historical-scope limitations.
+Priority: B
+
+113. Goodreads – Best French Literature
+URL: https://www.goodreads.com/list/show/67.Best_French_Literature
+Region: France / international readers
+Type: Crowd-voted national list
+Use: Primary/supporting score
+Description: Large Goodreads list with hundreds of French works and substantial votes on major classics.
+Caveat: Translation/English readership bias.
+Priority: B
+
+114. Goodreads – Best Indian Fiction Books
+URL: https://www.goodreads.com/list/show/4098.Best_Indian_Fiction_Books
+Region: India/diaspora / international readers
+Type: Crowd-voted regional list
+Use: Primary/supporting score
+Description: Large literary-fiction list spanning India and diaspora, with significant voter participation.
+Caveat: English-language/translation accessibility and diaspora framing.
+Priority: B
+
+115. Hindustan Times – 70 Iconic Indian Books
+URL: https://thegreatestbooks.org/lists/539
+Region: India
+Type: Curated national canon
+Use: Primary/supporting score
+Description: Curated selection designed around impact, quality and durability, including some translated regional literature.
+Caveat: Not fiction-only and mediated through an English-language national newspaper.
+Priority: B
+
+116. Arab Writers Union – Best 100 Arabic Books
+URL: https://thegreatestbooks.org/lists/427
+Region: Arab world / Arabic
+Type: Institutional/writer canon
+Use: Primary/supporting score
+Description: Canonical Arabic-book selection associated with the Arab Writers Union; important regional elite signal.
+Caveat: May mix genres/forms; use only eligible fiction.
+Priority: A
+
+117. Brazil – Bravo! 100 best Brazilian books
+URL: https://thegreatestbooks.org/lists/822
+Region: Brazil / Portuguese
+Type: National critical canon
+Use: Primary/supporting score
+Description: Brazilian cultural canon emphasizing national significance and critical recognition.
+Caveat: Broad 'books' scope; filter fiction.
+Priority: A
+
+118. Hungary – A Nagy Könyv / Big Read
+URL: https://thegreatestbooks.org/lists/282
+Region: Hungary / Hungarian
+Type: Mass national poll
+Use: Primary/supporting score
+Description: Huge multi-round Hungarian public poll of favorite novels, beginning with any novel available in Hungarian.
+Caveat: Popularity and translation availability.
+Priority: A
+
+119. Bulgaria – Big Read
+URL: https://thegreatestbooks.org/lists/289
+Region: Bulgaria / Bulgarian
+Type: Mass national poll
+Use: Primary/supporting score
+Description: Large Bulgarian public vote on favorite novels; useful domestic mass-reader signal.
+Caveat: Popularity and TV-campaign effects.
+Priority: A
+
+120. Israel – Yedioth Ahronoth 100 Best Books 1900–present
+URL: https://thegreatestbooks.org/lists/971
+Region: Israel / Hebrew literary ecosystem
+Type: Large expert poll
+Use: Primary/supporting score
+Description: Over 100 Israeli writers, critics, editors, translators and scholars submitted top tens.
+Caveat: National literary-elite perspective and period start at 1900.
+Priority: A
+
+121. New Zealand – Spinoff 50 best NZ books of last 50 years
+URL: https://thegreatestbooks.org/lists/790
+Region: New Zealand
+Type: Expert poll
+Use: Primary/supporting score
+Description: Fifty local experts/authors/publishers/academics/booksellers select national books.
+Caveat: National and last-50-years scope.
+Priority: A
+
+122. Booker Prize – full winners, shortlists and longlists
+URL: https://thebookerprizes.com/the-booker-library/features/full-list-of-booker-prize-winners-shortlisted-and-longlisted-authors
+Region: UK/Ireland publication; global Anglophone
+Type: Major literary prize archive
+Use: Prestige/supporting score
+Description: Long-running juried English-language fiction archive; use repeated nominations/wins as prestige, not as direct all-time rank.
+Caveat: Prize eligibility and annual jury effects.
+Priority: A
+
+123. International Booker Prize – full archive
+URL: https://thebookerprizes.com/the-booker-library/features/full-list-of-international-booker-prize-winners-shortlisted-authors-and-their-books
+Region: Global translated fiction
+Type: Major translation prize archive
+Use: Prestige/supporting score
+Description: One of the strongest modern datasets for translated fiction reaching English; includes winners, shortlists and longlists.
+Caveat: Only works translated into English and published in UK/Ireland.
+Priority: A
+
+124. Dublin Literary Award – winners
+URL: https://dublinliteraryaward.ie/the-library/winners/
+Region: International
+Type: Library-nominated global prize
+Use: Prestige/supporting score
+Description: Global novel prize drawing nominations from libraries around the world; unusually valuable institutional-global signal.
+Caveat: Contemporary annual prize and English/translation publication constraints.
+Priority: A
+
+125. Dublin Literary Award – prize years/nominated library
+URL: https://dublinliteraryaward.ie/the-library/prize-years/
+Region: International
+Type: Prize archive / nomination dataset
+Use: Prestige/supporting score
+Description: Extends beyond winners to yearly nominated/longlisted books, supporting frequency and cross-library analysis.
+Caveat: Same prize ecosystem; do not treat winner and nominee pages as independent votes.
+Priority: B
+
+126. Women's Prize for Fiction
+URL: https://womensprize.com/prizes/womens-prize-for-fiction/
+Region: UK publication / global English
+Type: Major juried fiction prize
+Use: Prestige/supporting score
+Description: Annual prize for full-length novels by women, adding a corrective signal to historically male-heavy canons.
+Caveat: English-written/UK-published eligibility and contemporary scope.
+Priority: A
+
+127. Women's Prize – previous winners
+URL: https://womensprize.com/prizes/womens-prize-for-fiction/previous-prizes/
+Region: UK publication / global English
+Type: Prize archive
+Use: Prestige/supporting score
+Description: Complete historical winner sequence for longitudinal prestige analysis.
+Caveat: Same prize as above; archive rather than independent signal.
+Priority: B
+
+128. Pulitzer Prize for Fiction – category archive
+URL: https://www.pulitzer.org/prize-winners-by-category/219
+Region: US
+Type: Major juried fiction prize
+Use: Prestige/supporting score
+Description: Century-long American fiction award; winners and finalists provide a deep prestige series.
+Caveat: American-author eligibility and US-life preference historically.
+Priority: A
+
+129. National Book Awards – archive search
+URL: https://www.nationalbook.org/national-book-awards/search/
+Region: US
+Type: Major juried book award
+Use: Prestige/supporting score
+Description: Seven-decade archive with fiction honorees; useful as US literary-establishment prestige signal.
+Caveat: US publishing eligibility and annual jury variation.
+Priority: A
+
+130. National Book Critics Circle – all past winners/finalists
+URL: https://www.bookcritics.org/awards/past/
+Region: US
+Type: Professional critic award
+Use: Prestige/supporting score
+Description: Critics' annual fiction choices provide a professional-reviewer signal distinct from authors and public voters.
+Caveat: US publication market and annual focus.
+Priority: A
+
+131. PEN/Faulkner Award for Fiction – past winners/finalists
+URL: https://www.penfaulkner.org/our-awards/pen-faulkner-award/
+Region: US
+Type: Juried fiction prize
+Use: Prestige/supporting score
+Description: Long-running peer/jury award with winners and finalists, strong for post-1980 US fiction.
+Caveat: US publication eligibility; contemporary.
+Priority: A
+
+132. PEN/Hemingway Award – past winners
+URL: https://www.penfaulkner.org/our-awards/the-pen-hemingway-award/
+Region: US
+Type: Debut-fiction prize
+Use: Prestige/supporting score
+Description: Useful for identifying debut novels that became durable literary works before retrospective canonization.
+Caveat: Debut-only and US publishing focus.
+Priority: B
+
+133. Prix Goncourt – all winners
+URL: https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt
+Region: France / Francophone
+Type: Major national literary prize
+Use: Prestige/supporting score
+Description: Complete Goncourt winner history, central to French literary prestige and sales.
+Caveat: Annual Francophone prize; institutional politics and recency effects.
+Priority: A
+
+134. Prix Goncourt – yearly selections
+URL: https://www.academiegoncourt.com/prix-goncourt-et-selection-annee
+Region: France / Francophone
+Type: Prize longlist/selection archive
+Use: Prestige/supporting score
+Description: Adds shortlisted/selected novels, avoiding winner-only survivorship bias.
+Caveat: Same prize ecosystem; use nomination depth rather than independent count.
+Priority: B
+
+135. Académie française – Grand Prix du Roman
+URL: https://www.academie-francaise.fr/grand-prix-du-roman
+Region: France / Francophone
+Type: Major academy prize
+Use: Prestige/supporting score
+Description: Annual academy-selected best novel; a distinct French institutional prestige signal from Goncourt.
+Caveat: French institutional taste and contemporary scope.
+Priority: A
+
+136. Premio Strega – winners
+URL: https://premiostrega.it/PS/vincitori-strega/
+Region: Italy / Italian
+Type: Major national literary prize
+Use: Prestige/supporting score
+Description: Italy's flagship literary prize archive since 1947; key domestic prestige signal.
+Caveat: Annual Italian publication field and prize-politics effects.
+Priority: A
+
+137. Premio Strega – archive
+URL: https://premiostrega.it/PS/archivio/
+Region: Italy / Italian
+Type: Prize archive
+Use: Prestige/supporting score
+Description: Year-by-year books/authors archive useful for finalists and historical depth.
+Caveat: Same Strega ecosystem; not an independent vote.
+Priority: B
+
+138. Premio Strega Europeo – winners
+URL: https://premiostrega.it/PSE/elenco-dei-vincitori/
+Region: Italy / European translated literature
+Type: European fiction prize
+Use: Prestige/supporting score
+Description: Italian prize for European literature, useful for how translated continental fiction is valued in Italy.
+Caveat: Recent prize, Europe-only.
+Priority: B
+
+139. Deutscher Buchpreis – archive
+URL: https://www.deutscher-buchpreis.de/archiv/
+Region: Germany/Austria/Switzerland / German
+Type: Major national-language prize
+Use: Prestige/supporting score
+Description: Winner, shortlist and longlist archive for German-language novels since 2005.
+Caveat: Contemporary and publication-year limited.
+Priority: A
+
+140. Nordic Council Literature Prize
+URL: https://www.norden.org/en/literature-prize
+Region: Nordic region
+Type: Regional juried prize
+Use: Prestige/supporting score
+Description: Long-running cross-Nordic institutional prize; captures Danish, Swedish, Norwegian, Icelandic, Finnish and autonomous-region literature.
+Caveat: Includes poetry/nonfiction-like literary forms; filter fiction.
+Priority: A
+
+141. International Prize for Arabic Fiction – archive
+URL: https://archive.arabicfiction.org/en
+Region: Arab world / Arabic
+Type: Major regional novel prize
+Use: Prestige/supporting score
+Description: Flagship contemporary Arabic novel prize, crucial for balancing English/French-centered award data.
+Caveat: Contemporary and prize-eligible publishing field.
+Priority: A
+
+142. Akutagawa Prize – winners list
+URL: https://bungakushinko.or.jp/award/akutagawa/list.html
+Region: Japan / Japanese
+Type: Major national literary prize
+Use: Prestige/supporting score
+Description: Long historical list of Japan's prestigious prize for emerging literary fiction.
+Caveat: Often novella/short-novel length and emerging-author focus.
+Priority: A
+
+143. Hugo Awards – 2026/results and archive gateway
+URL: https://www.thehugoawards.org/2026/
+Region: International SF community
+Type: Member-voted genre award
+Use: Prestige/supporting score
+Description: Worldcon member voting provides a long-running fan/community prestige signal for science fiction and fantasy novels.
+Caveat: Genre-specific and convention-member demographics.
+Priority: B
+
+144. Nebula Awards – Best Novel nominees and winners
+URL: https://nebulas.sfwa.org/award/best-novel/
+Region: US/international SF field
+Type: Writer-voted genre award
+Use: Prestige/supporting score
+Description: SFWA professional-writer voting supplies a creator-peer signal for speculative fiction.
+Caveat: Genre-specific and modern eligibility.
+Priority: B
+
+145. Neustadt International Prize – laureates
+URL: https://www.neustadtprize.org/neustadt-laureates/
+Region: International
+Type: Global literary prize
+Use: Prestige/supporting score
+Description: International author-level prize often considered a major world-literature prestige signal; use representative fiction by laureates as context.
+Caveat: Author-level rather than book-level award.
+Priority: B
+
+146. Walter Scott Prize for Historical Fiction – winners/shortlists
+URL: https://www.walterscottprize.co.uk/about-the-prize/resources/
+Region: UK / international historical fiction
+Type: Juried genre prize
+Use: Prestige/supporting score
+Description: Strong specialist signal for historical novels, with winners and shortlists since 2010.
+Caveat: Genre-specific and contemporary.
+Priority: B
+
+147. r/TrueLit – 100 Best Books of the Quarter Century (2024)
+URL: https://www.reddit.com/r/TrueLit/comments/1fwciah/truelits_100_best_books_of_the_quarter_century/
+Region: Global / English Reddit
+Type: Community poll
+Use: Reader/community signal
+Description: Serious-literature community poll with explicit vote rules and tie-break rounds; high-value engaged-reader signal.
+Caveat: Self-selecting literary Reddit users.
+Priority: A
+
+148. r/TrueLit – 2024 Top 100 Favorite Books
+URL: https://www.reddit.com/r/TrueLit/comments/1i5re2u/truelits_2024_top_100_favorite_books/
+Region: Global / English Reddit
+Type: Community poll
+Use: Reader/community signal
+Description: Large annual favorite-books list with one-book-per-author rule, useful for engaged-reader canon formation.
+Caveat: Subreddit demographics; author-cap rule changes raw preference.
+Priority: A
+
+149. r/TrueLit – 2023 Top 100 Favorite Books
+URL: https://www.reddit.com/r/TrueLit/comments/197l37n/truelits_2023_top_100_favorite_books/
+Region: Global / English Reddit
+Type: Community poll
+Use: Reader/community signal
+Description: Previous annual poll with raw-data discussion; useful for stability and trend analysis.
+Caveat: Same community as later polls; use longitudinally, not as independent population.
+Priority: A
+
+150. r/TrueLit – 2025 Annual Favorite 100 voting thread
+URL: https://www.reddit.com/r/TrueLit/comments/1pfw2e5/truelits_annual_favorite_100_poll_2025_edition/
+Region: Global / English Reddit
+Type: Community poll methodology
+Use: Reader/community signal
+Description: Documents current voting rules and favorite/greatest framing, useful for interpreting the eventual list.
+Caveat: Voting thread rather than final results.
+Priority: B
+
+151. r/TrueLit – 2024 poll voting thread
+URL: https://www.reddit.com/r/TrueLit/comments/1hgcepf
+Region: Global / English Reddit
+Type: Community poll methodology
+Use: Reader/community signal
+Description: Shows anonymous voting and one-work-per-author rules behind the 2024 list.
+Caveat: Methodology only; not separate outcome.
+Priority: B
+
+152. r/TrueLit – first annual Top 100 voting thread (2020)
+URL: https://www.reddit.com/r/TrueLit/comments/ezipi7/vote_in_the_first_annual_rtruelit_top_100/
+Region: Global / English Reddit
+Type: Community poll history
+Use: Reader/community signal
+Description: Earliest TrueLit canon exercise; useful baseline for how the community's canon evolved.
+Caveat: Small early-community sample.
+Priority: B
+
+153. r/printSF – Top Book Poll results
+URL: https://www.reddit.com/r/printSF/comments/10ywsk7/our_very_own_top_book_poll_results/
+Region: Global / English Reddit
+Type: Community genre poll
+Use: Reader/community signal
+Description: Detailed speculative-fiction poll with hundreds of titles and transparent ballot counts.
+Caveat: Genre-specific; Reddit demographics.
+Priority: A
+
+154. r/printSF – Top Novel Poll voting thread
+URL: https://www.reddit.com/r/printSF/comments/10oj7im/our_very_own_top_novel_poll/
+Region: Global / English Reddit
+Type: Community poll methodology
+Use: Reader/community signal
+Description: Voting design and individual top-ten ballots for the r/printSF poll.
+Caveat: Methodology, same poll ecosystem as results.
+Priority: B
+
+155. r/printSF – 2025 Top 50 aggregation
+URL: https://www.reddit.com/r/printSF/comments/1l1rzv2/a_few_days_ago_i_asked_rprintsf_what_they/
+Region: Global / English Reddit
+Type: Community aggregation
+Use: Reader/community signal
+Description: Recent aggregation of users' single-best SF choices, useful as a fresh genre preference snapshot.
+Caveat: Not a formally representative poll.
+Priority: B
+
+156. r/Fantasy – 2025 Top Novels Poll
+URL: https://www.reddit.com/r/Fantasy/comments/1inoxxy/the_rfantasy_2025_top_novels_poll_voting_thread/
+Region: Global / English Reddit
+Type: Community genre poll
+Use: Reader/community signal
+Description: Large specialist fantasy-community poll; useful for works that literary-mainstream lists often omit.
+Caveat: Genre-specific and fandom demographics.
+Priority: A
+
+157. r/Fantasy – 2023 Top Novels voting thread
+URL: https://www.reddit.com/r/Fantasy/comments/10jeg5i
+Region: Global / English Reddit
+Type: Community genre poll
+Use: Reader/community signal
+Description: Earlier r/Fantasy poll, useful for longitudinal stability.
+Caveat: Same community; voting thread rather than final ranking.
+Priority: B
+
+158. r/Fantasy – 2021 Top Novels voting thread
+URL: https://www.reddit.com/r/Fantasy/comments/nfc2fy
+Region: Global / English Reddit
+Type: Community genre poll
+Use: Reader/community signal
+Description: Earlier voting data for longitudinal comparison.
+Caveat: Same community and genre-specific.
+Priority: B
+
+159. r/Fantasy – 2021 Top Novels results
+URL: https://www.reddit.com/r/Fantasy/comments/p1mwnx
+Region: Global / English Reddit
+Type: Community genre poll
+Use: Reader/community signal
+Description: Large poll results with roughly a thousand voters and thousands of votes; strong fan-canon signal.
+Caveat: Genre-specific and fandom demographics.
+Priority: A
+
+160. r/Fantasy – consistency analysis across Top Novel polls
+URL: https://www.reddit.com/r/Fantasy/comments/p2dxo9
+Region: Global / English Reddit
+Type: Community meta-analysis
+Use: Reader/community signal
+Description: Analyzes which books remain consistently high across repeated r/Fantasy polls.
+Caveat: Secondary analysis of the same poll family.
+Priority: B
+
+161. r/Fantasy – alternative rank-order scoring of historical polls
+URL: https://www.reddit.com/r/Fantasy/comments/1j178ao
+Region: Global / English Reddit
+Type: Community meta-analysis
+Use: Reader/community signal
+Description: Alternative scoring over historical fantasy polls, useful for testing sensitivity to ranking method.
+Caveat: Dependent on prior r/Fantasy poll data.
+Priority: B
+
+162. r/classicliterature – Favorite 100 Poll
+URL: https://www.reddit.com/r/classicliterature/comments/1pmcwkf/rclassicliterature_favourite_100_poll/
+Region: Global / English Reddit
+Type: Community classics poll
+Use: Reader/community signal
+Description: Classic-literature community's top-ten ballot exercise, highly relevant for pre-20th-century fiction.
+Caveat: Subreddit self-selection and 'classic' definition.
+Priority: A
+
+163. r/classicliterature – Top 10 Favorite Works discussion
+URL: https://www.reddit.com/r/classicliterature/comments/1n2vd8p/top_10_favorite_works_of_literature/
+Region: Global / English Reddit
+Type: Qualitative discussion
+Use: Reader/community signal
+Description: High-engagement favorites thread useful for extracting reasons, not just ranks.
+Caveat: Unstructured and not a formal poll.
+Priority: B
+
+164. r/classicliterature – reaction to Guardian 2026 top 100
+URL: https://www.reddit.com/r/classicliterature/comments/1tdfwy4/the_guardians_100_best_novels_of_all_time_fiction/
+Region: Global / English Reddit
+Type: Qualitative reaction
+Use: Reader/community signal
+Description: Reader critique of a major expert canon, useful for omission/bias analysis.
+Caveat: Reactive discussion rather than independent ranking.
+Priority: B
+
+165. r/books – meta-analysis of best-books lists
+URL: https://www.reddit.com/r/books/comments/wmi7ty/the_best_books_ever_written_a_metaanalysis_of_the/
+Region: Global / English Reddit
+Type: User meta-analysis
+Use: Reader/community signal
+Description: Community-created synthesis of roughly twenty internet lists; useful as a check on consensus clustering.
+Caveat: Dependent on underlying lists and user's methodology.
+Priority: B
+
+166. r/books – discussion of NYT 100 Best Books of 21st Century
+URL: https://www.reddit.com/r/books/comments/1dycz6m
+Region: Global / English Reddit
+Type: Qualitative reaction
+Use: Reader/community signal
+Description: Large mainstream-reader reaction to a professional literary poll, useful for divergence and controversy signals.
+Caveat: Not independent ranking; recency/US focus.
+Priority: B
+
+167. r/horror – Dreadit's Top Horror Books
+URL: https://www.reddit.com/r/horror/comments/gtybjv
+Region: Global / English Reddit
+Type: Community genre poll
+Use: Reader/community signal
+Description: Horror-community ranked poll; useful for genre classics underrepresented in general literary lists.
+Caveat: Genre-specific.
+Priority: B
+
+168. Horror: The 100 Best Books
+URL: https://thegreatestbooks.org/lists/260
+Region: International / Anglophone
+Type: Author poll / specialist canon
+Use: Supporting / bias-correction signal
+Description: 100 horror, fantasy and SF writers choose favorites; creator-peer genre canon.
+Caveat: Genre-specific and historical.
+Priority: B
+
+169. The Times – 100 Best Crime and Thrillers since 1945
+URL: https://thegreatestbooks.org/lists/376
+Region: UK / international
+Type: Editorial genre canon
+Use: Supporting / bias-correction signal
+Description: Mainstream critic selection for crime/thriller fiction; genre-correction source.
+Caveat: Genre-specific and post-1945.
+Priority: B
+
+170. NPR – Click If You Dare: 100 Favorite Horror Stories
+URL: https://thegreatestbooks.org/lists/313
+Region: US
+Type: Audience nominations + expert curation
+Use: Supporting / bias-correction signal
+Description: Thousands of audience nominations combined with curation; blends public and expert horror taste.
+Caveat: Genre-specific and includes stories beyond novels.
+Priority: B
+
+171. TIME – 100 Best YA Books
+URL: https://thegreatestbooks.org/lists/281
+Region: US / international
+Type: Expert-panel genre list
+Use: Supporting / bias-correction signal
+Description: Expert/author panel on young-adult books; catches influential fiction missing from adult-literary canons.
+Caveat: YA-specific.
+Priority: B
+
+172. CounterPunch – 100 Best Novels in Translation Since 1900
+URL: https://thegreatestbooks.org/lists/291
+Region: International translated fiction
+Type: Critic/editorial translation canon
+Use: Supporting / bias-correction signal
+Description: Explicitly prioritizes translated novels, useful corrective to Anglophone-language dominance.
+Caveat: Small editorial team and post-1900 only.
+Priority: A
+
+173. Publishers Weekly – 20 Best Books in Translation You’ve Never Read
+URL: https://thegreatestbooks.org/lists/899
+Region: International translated fiction
+Type: Translation-specialist recommendations
+Use: Supporting / bias-correction signal
+Description: Specialists Chad Post and Stephen Sparks spotlight overlooked translated books, useful anti-popularity correction.
+Caveat: Discovery-oriented, intentionally obscure, not an all-time ranking.
+Priority: B
+
+174. National Book Award authors – 100 Life-Changing Books
+URL: https://thegreatestbooks.org/lists/142
+Region: US / international
+Type: Author recommendations
+Use: Supporting / bias-correction signal
+Description: Award-winning authors' life-changing books capture influential reading rather than institutional rankings.
+Caveat: Personal influence ≠ literary greatness.
+Priority: B
+
+175. Télérama – favorite books of ten Goncourt winners
+URL: https://thegreatestbooks.org/lists/446
+Region: France / Francophone
+Type: Laureate-author recommendations
+Use: Supporting / bias-correction signal
+Description: Goncourt-winning authors' favorites provide high-literary French taste outside prize voting.
+Caveat: Tiny elite sample.
+Priority: B
+
+176. BBC – 100 Novels That Shaped Our World
+URL: https://thegreatestbooks.org/lists/194
+Region: UK
+Type: Small expert panel
+Use: Supporting / bias-correction signal
+Description: BBC panel organized novels by themes of social/cultural impact rather than only aesthetic quality.
+Caveat: Six-person panel and UK/English-language framing.
+Priority: B
+
+177. The Greatest Books – list inventory
+URL: https://thegreatestbooks.org/lists
+Region: International
+Type: Meta-index / discovery
+Use: Supporting / bias-correction signal
+Description: Large index of hundreds of book lists with methodology notes; invaluable for source discovery and de-duplication.
+Caveat: Aggregator, not an independent ranking.
+Priority: B
+
+178. LibraryThing – Top 100 to Read Before You Die
+URL: https://www.librarything.com/list/12023/all/Top-100-to-Read-before-you-Die
+Region: Global / English interface
+Type: Collaborative reader list
+Use: Supporting / bias-correction signal
+Description: Long-running book-community list with member discussion/reviews; useful alternative to Goodreads.
+Caveat: Smaller platform and list-specific participation.
+Priority: B
+
+179. The institutional repertoire in the hands of ordinary readers
+URL: https://academic.oup.com/dsh/article/41/1/170/8361719
+Region: France/Portugal + Goodreads
+Type: Academic paper / digital humanities
+Use: Methodology / weighting / bias correction
+Description: Quantitatively compares school canons with Goodreads reception; directly useful for modeling canon vs reader popularity.
+Caveat: Studies specific school canons and platform metrics, not all literature.
+Priority: A
+
+180. Comparative analysis of classics book-review data across Douban and Goodreads
+URL: https://academic.oup.com/dsh/article/41/Supplement_1/i89/8253512
+Region: China vs global English readership
+Type: Academic paper / digital humanities
+Use: Methodology / weighting / bias correction
+Description: Direct cross-platform comparison of classic-book ratings on Douban and Goodreads; crucial for calibrating cultural platform bias.
+Caveat: Limited shared-book sample.
+Priority: A
+
+181. Franco Moretti – Conjectures on World Literature
+URL: https://newleftreview.org/issues/ii1/articles/franco-moretti-conjectures-on-world-literature
+Region: Global
+Type: Academic theory
+Use: Methodology / weighting / bias correction
+Description: Foundational argument for world-literature systems and distant reading; helps prevent a ranking from simply scaling up an Anglophone canon.
+Caveat: Theoretical rather than a ranking dataset.
+Priority: A
+
+182. Franco Moretti – More Conjectures
+URL: https://newleftreview.org/issues/ii20/articles/franco-moretti-more-conjectures
+Region: Global
+Type: Academic theory
+Use: Methodology / weighting / bias correction
+Description: Refines debates about core/periphery and world-literary circulation; useful for bias correction across languages.
+Caveat: Theoretical.
+Priority: B
+
+183. Franco Moretti – Graphs, Maps, Trees (NLR essay)
+URL: https://newleftreview.org/issues/ii24/articles/franco-moretti-graphs-maps-trees-1
+Region: Global
+Type: Digital-humanities methodology
+Use: Methodology / weighting / bias correction
+Description: Quantitative literary-history framework encouraging analysis of whole fields rather than only famous canonical works.
+Caveat: Methodology, not ranking input.
+Priority: A
+
+184. Of centers and peripheries: book translation flows in Europe
+URL: https://www.sciencedirect.com/science/article/pii/S0304422X25000841
+Region: Europe
+Type: Academic paper / bibliometrics
+Use: Methodology / weighting / bias correction
+Description: Large translation-flow study useful for estimating language-center effects and correcting for translation visibility.
+Caveat: Europe-focused; translation frequency is not quality.
+Priority: A
+
+185. How supranational literary prizes shape translation flows
+URL: https://lwc1.benjamins.com/catalog/tris.23007.jan
+Region: Europe/global translation
+Type: Academic paper
+Use: Methodology / weighting / bias correction
+Description: Compares Booker and EU literary-prize mechanisms and how they change translation circulation.
+Caveat: Focuses on prize effects, not intrinsic quality.
+Priority: A
+
+186. Canon y Premio Nobel: un estado de la cuestión
+URL: https://ojs.utlib.ee/index.php/IL/article/view/24539
+Region: Global
+Type: Academic review
+Use: Methodology / weighting / bias correction
+Description: Reviews scholarship on how the Nobel shapes the global literary canon and exposes ideological/economic factors.
+Caveat: Author-level prize focus.
+Priority: A
+
+187. Literary Prize Culture
+URL: https://academic.oup.com/edited-volume/61883/chapter-abstract/547770166
+Region: Global
+Type: Academic reference article
+Use: Methodology / weighting / bias correction
+Description: Explains how prizes create cultural capital, sales and canonization; useful for preventing prize-count over-weighting.
+Caveat: General theory rather than book-level data.
+Priority: A
+
+188. Literary and Translation Prizes in the Cultural Transfer Process
+URL: https://research.rug.nl/en/publications/literary-and-translation-prizes-in-the-cultural-transfer-process-/
+Region: Global
+Type: Peer-reviewed academic chapter
+Use: Methodology / weighting / bias correction
+Description: Shows how local, national and international prizes interact with translation to create literary consecration.
+Caveat: Focuses on institutions rather than book quality.
+Priority: A
+
+189. Literary Prizes and Cultural Transfer
+URL: https://www.jstor.org/stable/j.ctv23wf37q
+Region: Global
+Type: Academic edited volume
+Use: Methodology / weighting / bias correction
+Description: Cross-national study of literary/translation prizes, including peripheral language areas and cultural transmitters.
+Caveat: Book-length theory/context, not a ranking.
+Priority: A
+
+190. Literary Awards as Humanities Data: Measuring Prestige
+URL: https://www.degruyterbrill.com/document/doi/10.1515/dsll-2025-0011/html?lang=en
+Region: Global / digital humanities
+Type: Academic methods article
+Use: Methodology / weighting / bias correction
+Description: Argues for combining prizes, syllabi, scholarship, sales and Goodreads rather than treating any single list as canonical truth.
+Caveat: Methodological source, not candidate list.
+Priority: A
+
+191. The Symbolic Economy of the Nobel Prize in Literature
+URL: https://www.sciencedirect.com/science/article/pii/S0304422X23000633
+Region: Global
+Type: Academic sociology paper
+Use: Methodology / weighting / bias correction
+Description: Analyzes how the Nobel creates and reproduces symbolic capital and translation visibility in world literature.
+Caveat: Author-level and prize-focused.
+Priority: A
+
+192. What Is World Literature? – David Damrosch
+URL: https://www.jstor.org/stable/j.ctv301fqn
+Region: Global
+Type: Academic monograph
+Use: Methodology / weighting / bias correction
+Description: Key framework treating world literature as circulation and reading across cultures rather than a fixed Western masterpiece canon.
+Caveat: Conceptual, not quantitative.
+Priority: A
+
+193. Gatekeeping and World Literature – William Marling
+URL: https://academic.oup.com/book/11651/chapter-abstract/160570508
+Region: Global
+Type: Academic book chapter
+Use: Methodology / weighting / bias correction
+Description: Examines agents, editors, translators, publishers and reviewers as gatekeepers determining which works become 'world literature'.
+Caveat: Case-study based; not ranking data.
+Priority: B
+
+194. The Booker Prize and Post-Imperial British Literature
+URL: https://academic.oup.com/edited-volume/61883/chapter-abstract/547815363
+Region: Anglophone / post-imperial
+Type: Academic reference article
+Use: Methodology / weighting / bias correction
+Description: Useful critique of the Booker as a gatekeeper/tastemaker for global Anglophone fiction.
+Caveat: Prize-specific.
+Priority: B
+
+195. Translation and the Making of Indian Literary Canons
+URL: https://www.eduresearchjournal.com/index.php/ijlll/article/view/433
+Region: India / regional languages
+Type: Academic paper
+Use: Methodology / weighting / bias correction
+Description: Examines how English translation can determine which Indian regional-language works gain national/global canonicity.
+Caveat: Recent paper; theory/case analysis rather than universal result.
+Priority: B
+
+196. Dutch Literature in Translation: A Global View
+URL: https://www.tandfonline.com/doi/full/10.1080/03096564.2020.1747006
+Region: Netherlands / translation
+Type: Academic paper
+Use: Methodology / weighting / bias correction
+Description: Translation dataset perspective on how Dutch literature circulates globally, useful for language-bias correction.
+Caveat: One national literature.
+Priority: B
+
+197. Fiction from the Periphery: Dutch writers in the English-language field
+URL: https://journals.sagepub.com/doi/10.1177/1749975515576940
+Region: Netherlands / Anglophone field
+Type: Academic sociology paper
+Use: Methodology / weighting / bias correction
+Description: Studies how peripheral-language fiction enters the English-language market; useful for modeling gatekeeping.
+Caveat: One case/language system.
+Priority: B
+
+198. Swedish upper-secondary school literary canon study
+URL: https://lnu.diva-portal.org/smash/record.jsf?pid=diva2%3A610565
+Region: Sweden / Swedish
+Type: Academic canon study
+Use: Methodology / weighting / bias correction
+Description: Empirical study of school canon formation, helpful for distinguishing educational institutionalization from reader popularity.
+Caveat: National education context.
+Priority: B
+
+199. BookTok and the emergence of a new popular literary canon
+URL: https://scholar.utc.edu/honors-theses/467/
+Region: Global / social reading culture
+Type: Academic thesis / reader-culture study
+Use: Methodology / weighting / bias correction
+Description: Empirical study of BookTok and avid readers, useful for understanding how social-media discovery creates a contemporary popular canon distinct from academic and critic canons.
+Caveat: Platform-era and contemporary; not itself an all-time ranking.
+Priority: B
+
+200. Chinese Literature, Translation, and World Literature
+URL: https://academic.oup.com/hong-kong-scholarship-online/book/44416/chapter-abstract/373753760
+Region: China / global translation
+Type: Academic book chapter
+Use: Methodology / weighting / bias correction
+Description: Examines how Chinese literature enters world-literature circuits through translation, helping correct for the structural visibility gap between domestic Chinese canons and English-facing global lists.
+Caveat: Conceptual/case-based rather than a book-ranking dataset.
+Priority: B
+

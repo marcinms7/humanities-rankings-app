@@ -1,0 +1,43 @@
+{
+  "target_id": "new-york-times-best-books-21st-century-2024",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html",
+      "title": "The New York Times · 100 Best Books of the 21st Century (2024) — result publication",
+      "canonical_url": "https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html",
+      "source_family": "media_expert_poll",
+      "publisher": "The New York Times Book Review",
+      "target_ids": [
+        "new-york-times-best-books-21st-century-2024"
+      ],
+      "relevance_by_target": {
+        "new-york-times-best-books-21st-century-2024": "All 100 positions from the Book Review's 2024 survey of 503 writers, critics and other literary participants."
+      },
+      "evidence_notes": "All 100 positions from the Book Review's 2024 survey of 503 writers, critics and other literary participants.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "A survey of invited participants, published only a quarter of the way through the century; source order is not Marginalia's assessment."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "published-list:https://english.northwestern.edu/documents/undergraduate/literature/nyt-best-100-books-21c-two-pager.pdf",
+      "title": "The New York Times · 100 Best Books of the 21st Century (2024) — transcription/data mirror",
+      "canonical_url": "https://english.northwestern.edu/documents/undergraduate/literature/nyt-best-100-books-21c-two-pager.pdf",
+      "source_family": "list_transcription",
+      "publisher": "The New York Times Book Review",
+      "target_ids": [
+        "new-york-times-best-books-21st-century-2024"
+      ],
+      "relevance_by_target": {
+        "new-york-times-best-books-21st-century-2024": "Row-level transcription used to preserve and cross-check the complete order."
+      },
+      "evidence_notes": "Row-level transcription used to preserve and cross-check the complete order.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Mirror of the same list; not counted as independent opinion evidence."
+    }
+  ]
+}

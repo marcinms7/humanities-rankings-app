@@ -1,0 +1,43 @@
+{
+  "target_id": "reddit-printsf-top-books-2023",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "COMMUNITY-LIST-01",
+      "underlying_source_id": "community-list:https://www.reddit.com/r/printSF/comments/10ywsk7/our_very_own_top_book_poll_results/",
+      "title": "r/printSF · Top Book Poll (2023) — result publication",
+      "canonical_url": "https://www.reddit.com/r/printSF/comments/10ywsk7/our_very_own_top_book_poll_results/",
+      "source_family": "community_poll",
+      "publisher": "r/printSF community",
+      "target_ids": [
+        "reddit-printsf-top-books-2023"
+      ],
+      "relevance_by_target": {
+        "reddit-printsf-top-books-2023": "All 115 rows from the official tally-vote sheet with three or more votes, matching the complete table published in the result post."
+      },
+      "evidence_notes": "All 115 rows from the official tally-vote sheet with three or more votes, matching the complete table published in the result post.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "The source mixes books and series; its tally order breaks equal-vote rows sequentially rather than assigning tied source ranks."
+    },
+    {
+      "source_id": "COMMUNITY-LIST-02",
+      "underlying_source_id": "community-list:https://docs.google.com/spreadsheets/d/19DgrwPi7A1PVS2wEIGdl903DkKAoBLImx8p8IDMPsYo/edit",
+      "title": "r/printSF · Top Book Poll (2023) — official linked result spreadsheet",
+      "canonical_url": "https://docs.google.com/spreadsheets/d/19DgrwPi7A1PVS2wEIGdl903DkKAoBLImx8p8IDMPsYo/edit",
+      "source_family": "community_poll_data",
+      "publisher": "r/printSF community",
+      "target_ids": [
+        "reddit-printsf-top-books-2023"
+      ],
+      "relevance_by_target": {
+        "reddit-printsf-top-books-2023": "Official linked row-level tally used to preserve titles, authors, ordering, votes and published cutoff."
+      },
+      "evidence_notes": "Official linked row-level tally used to preserve titles, authors, ordering, votes and published cutoff.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Spreadsheet is poll evidence, not an independent critical source."
+    }
+  ]
+}

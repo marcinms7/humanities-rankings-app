@@ -1,0 +1,10 @@
+# Runtime dependencies, pinned to the versions used for this build.
+asgiref==3.12.1
+Django==5.2.17
+djangorestframework==3.18.1
+gunicorn==26.2.0
+pillow==12.3.0
+psycopg[binary]==3.3.5
+sqlparse==0.6.0
+typing_extensions==4.16.0
+whitenoise==6.12.0

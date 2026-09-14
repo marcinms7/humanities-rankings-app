@@ -1,0 +1,25 @@
+{
+  "target_id": "reddit-fantasy-top-novels-2019",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.reddit.com/r/Fantasy/comments/c7d7z8/the_rfantasy_2019_top_novels_poll_results/",
+      "title": "r/Fantasy · Top Novels (2019) — result publication",
+      "canonical_url": "https://www.reddit.com/r/Fantasy/comments/c7d7z8/the_rfantasy_2019_top_novels_poll_results/",
+      "source_family": "community_poll",
+      "publisher": "r/Fantasy community",
+      "target_ids": [
+        "reddit-fantasy-top-novels-2019"
+      ],
+      "relevance_by_target": {
+        "reddit-fantasy-top-novels-2019": "Complete result at the edition's published cutoff, preserving source ranks, ties, votes and series-level entries."
+      },
+      "evidence_notes": "Complete result at the edition's published cutoff, preserving source ranks, ties, votes and series-level entries.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Community self-selection; the source deliberately mixes standalone books, series and fictional universes."
+    }
+  ]
+}

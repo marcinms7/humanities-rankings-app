@@ -1,0 +1,1609 @@
+{
+  "target": "poetry-all-time",
+  "rule": "Unreviewed leads are not counted or imported as consulted evidence.",
+  "lead_count": 200,
+  "existing_overlap_count": 200,
+  "new_unreviewed_count": 0,
+  "rows": [
+    {
+      "lead_id": "owner-001",
+      "url": "https://poets.org/anthology/100-best-poems",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-001"
+      ]
+    },
+    {
+      "lead_id": "owner-002",
+      "url": "https://www.goodreads.com/list/show/36.Best_Poetry_Books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-002"
+      ]
+    },
+    {
+      "lead_id": "owner-003",
+      "url": "https://www.goodreads.com/list/show/107268.Best_Popular_Poetry_Books_on_Goodreads",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-003"
+      ]
+    },
+    {
+      "lead_id": "owner-004",
+      "url": "https://www.goodreads.com/list/show/443.Best_of_Epic_Poetry",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-004"
+      ]
+    },
+    {
+      "lead_id": "owner-005",
+      "url": "https://www.goodreads.com/list/show/149710.Epic_Poems",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-005"
+      ]
+    },
+    {
+      "lead_id": "owner-006",
+      "url": "https://www.goodreads.com/list/show/232464.Essential_Epic_Poetry",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-006"
+      ]
+    },
+    {
+      "lead_id": "owner-007",
+      "url": "https://www.goodreads.com/list/show/12121.Modern_Poetry_Poetics_List",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-007"
+      ]
+    },
+    {
+      "lead_id": "owner-008",
+      "url": "https://www.goodreads.com/list/show/150658.ACTUALLY_GOOD_MODERN_POETRY",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-008"
+      ]
+    },
+    {
+      "lead_id": "owner-009",
+      "url": "https://www.goodreads.com/list/show/100756.Must_Read_Poetry",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-009"
+      ]
+    },
+    {
+      "lead_id": "owner-010",
+      "url": "https://www.goodreads.com/list/show/139579.Great_Poetry",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-010"
+      ]
+    },
+    {
+      "lead_id": "owner-011",
+      "url": "https://www.goodreads.com/list/show/177507.New_Translations_of_Classic_Poetry",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-011"
+      ]
+    },
+    {
+      "lead_id": "owner-012",
+      "url": "https://www.goodreads.com/list/show/123447.Short_Poetry_Must_Reads",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-012"
+      ]
+    },
+    {
+      "lead_id": "owner-013",
+      "url": "https://www.goodreads.com/list/show/104198.The_Telegraph_15_best_poetry_books_of_all_time",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-013"
+      ]
+    },
+    {
+      "lead_id": "owner-014",
+      "url": "https://lithub.com/the-10-best-poetry-collections-of-the-decade/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-014"
+      ]
+    },
+    {
+      "lead_id": "owner-015",
+      "url": "https://lithub.com/the-most-anthologized-poems-of-the-last-25-years/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-015"
+      ]
+    },
+    {
+      "lead_id": "owner-016",
+      "url": "https://www.theguardian.com/books/2025/dec/05/the-best-poetry-books-of-2025",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-016"
+      ]
+    },
+    {
+      "lead_id": "owner-017",
+      "url": "https://www.theguardian.com/books/2024/dec/03/the-best-poetry-books-of-2024",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-017"
+      ]
+    },
+    {
+      "lead_id": "owner-018",
+      "url": "https://www.theguardian.com/books/2023/dec/05/best-poetry-books-of-2023",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-018"
+      ]
+    },
+    {
+      "lead_id": "owner-019",
+      "url": "https://www.theguardian.com/books/2022/dec/03/the-best-poetry-books-of-2022",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-019"
+      ]
+    },
+    {
+      "lead_id": "owner-020",
+      "url": "https://www.theguardian.com/books/2020/nov/28/best-poetry-books-of-2020",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-020"
+      ]
+    },
+    {
+      "lead_id": "owner-021",
+      "url": "https://www.theguardian.com/books/2015/dec/08/best-poetry-books-2015-clive-james-claudia-rankine/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-021"
+      ]
+    },
+    {
+      "lead_id": "owner-022",
+      "url": "https://fivebooks.com/category/fiction/poetry/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-022"
+      ]
+    },
+    {
+      "lead_id": "owner-023",
+      "url": "https://fivebooks.com/category/fiction/poetry/page/2/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-023"
+      ]
+    },
+    {
+      "lead_id": "owner-024",
+      "url": "https://fivebooks.com/category/fiction/poetry/page/3/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-024"
+      ]
+    },
+    {
+      "lead_id": "owner-025",
+      "url": "https://fivebooks.com/best-books/the-best-poetry-books-of-2020-alexandra-harris/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-025"
+      ]
+    },
+    {
+      "lead_id": "owner-026",
+      "url": "https://fivebooks.com/best-books/poetry-2019-jamie-mckendrick/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-026"
+      ]
+    },
+    {
+      "lead_id": "owner-027",
+      "url": "https://fivebooks.com/best-books/best-poetry-books-2017/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-027"
+      ]
+    },
+    {
+      "lead_id": "owner-028",
+      "url": "https://www.shortform.com/best-books/genre/best-poetry-books-of-all-time",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-028"
+      ]
+    },
+    {
+      "lead_id": "owner-029",
+      "url": "https://www.panmacmillan.com/blogs/literary/best-poetry-books-best-poetry-anthologies",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-029"
+      ]
+    },
+    {
+      "lead_id": "owner-030",
+      "url": "https://bookshop.org/lists/best-poetry-collections-of-the-decade",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-030"
+      ]
+    },
+    {
+      "lead_id": "owner-031",
+      "url": "https://westbraeliterarygroup.com/blog/best-poetry-collections",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-031"
+      ]
+    },
+    {
+      "lead_id": "owner-032",
+      "url": "https://www.bookscrolling.com/the-best-poetry-books-of-2018-a-year-end-list-aggregation/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-032"
+      ]
+    },
+    {
+      "lead_id": "owner-033",
+      "url": "https://www.goodreads.com/list/show/133101.Best_Poetry_Books_2019",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-033"
+      ]
+    },
+    {
+      "lead_id": "owner-034",
+      "url": "https://www.goodreads.com/list/show/234613.Best_Of_Poetry",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-034"
+      ]
+    },
+    {
+      "lead_id": "owner-035",
+      "url": "https://atlanticbooks.com/collections/poetry-books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-035"
+      ]
+    },
+    {
+      "lead_id": "owner-036",
+      "url": "https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-036"
+      ]
+    },
+    {
+      "lead_id": "owner-037",
+      "url": "https://www.loc.gov/poetry/180/index.html?loclr=blogloc",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-037"
+      ]
+    },
+    {
+      "lead_id": "owner-038",
+      "url": "https://www.poetryfoundation.org/poems/poem-of-the-day",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-038"
+      ]
+    },
+    {
+      "lead_id": "owner-039",
+      "url": "https://www.poetryfoundation.org/collections",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-039"
+      ]
+    },
+    {
+      "lead_id": "owner-040",
+      "url": "https://www.poetryfoundation.org/articles/68445/hit-singles",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-040"
+      ]
+    },
+    {
+      "lead_id": "owner-041",
+      "url": "https://cup.columbia.edu/book/the-classic-hundred-poems/9780231112598/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-041"
+      ]
+    },
+    {
+      "lead_id": "owner-042",
+      "url": "https://www.favoritepoem.org/about/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-042"
+      ]
+    },
+    {
+      "lead_id": "owner-043",
+      "url": "https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/favorite-poem-project/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-043"
+      ]
+    },
+    {
+      "lead_id": "owner-044",
+      "url": "https://poets.org/text/favorite-poem-project",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-044"
+      ]
+    },
+    {
+      "lead_id": "owner-045",
+      "url": "https://poetryoutloud.org/search/?type=poem",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-045"
+      ]
+    },
+    {
+      "lead_id": "owner-046",
+      "url": "https://poetryoutloud.org/search/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-046"
+      ]
+    },
+    {
+      "lead_id": "owner-047",
+      "url": "https://www.penguin.co.uk/books/427107/the-nations-favourite-poems-by-various/9781405608268",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-047"
+      ]
+    },
+    {
+      "lead_id": "owner-048",
+      "url": "https://poets.org/collection/international-anthologies",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-048"
+      ]
+    },
+    {
+      "lead_id": "owner-049",
+      "url": "https://poets.org/book/book-luminous-things-international-anthology",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-049"
+      ]
+    },
+    {
+      "lead_id": "owner-050",
+      "url": "https://us.macmillan.com/books/9780571225835/therattlebag/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-050"
+      ]
+    },
+    {
+      "lead_id": "owner-051",
+      "url": "https://www.bloodaxebooks.com/ecs/product/being-alive-785",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-051"
+      ]
+    },
+    {
+      "lead_id": "owner-052",
+      "url": "https://www.bloodaxebooks.com/ecs/product/being-human-905",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-052"
+      ]
+    },
+    {
+      "lead_id": "owner-053",
+      "url": "https://books.google.com/books/about/Against_Forgetting.html?id=i2xnQgAACAAJ",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-053"
+      ]
+    },
+    {
+      "lead_id": "owner-054",
+      "url": "https://wwnorton.co.uk/books/9780393321784-the-making-of-a-poem",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-054"
+      ]
+    },
+    {
+      "lead_id": "owner-055",
+      "url": "https://www.penguinrandomhouse.com/books/296178/the-penguin-book-of-english-verse-by-paul-keegan/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-055"
+      ]
+    },
+    {
+      "lead_id": "owner-056",
+      "url": "https://www.penguinrandomhouse.com/books/261179/the-penguin-book-of-french-poetry-by-selected-translated-and-introduced-by-william-rees/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-056"
+      ]
+    },
+    {
+      "lead_id": "owner-057",
+      "url": "https://www.penguin.co.uk/books/41425/the-penguin-book-of-spanish-verse-by-ed-jm-cohen/9780140585704",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-057"
+      ]
+    },
+    {
+      "lead_id": "owner-058",
+      "url": "https://www.penguin.co.uk/books/133054/the-penguin-book-of-japanese-verse-by-bownas-g-thwaite-a/9780141190945",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-058"
+      ]
+    },
+    {
+      "lead_id": "owner-059",
+      "url": "https://www.penguinrandomhouse.com/books/317453/the-penguin-book-of-russian-poetry-by-edited-by-robert-chandler-boris-dralyuk-and-irina-mashinski-introductory-notes-by-robert-chandler-and-boris-dralyuk/9780141198309/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-059"
+      ]
+    },
+    {
+      "lead_id": "owner-060",
+      "url": "https://www.penguinrandomhouse.com/books/301584/the-penguin-book-of-modern-african-poetry-by-edited-by-gerald-moore-introduction-by-gerald-moore-and-ulli-beier/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-060"
+      ]
+    },
+    {
+      "lead_id": "owner-061",
+      "url": "https://www.pulitzer.org/prize-winners-by-year/2025",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-061"
+      ]
+    },
+    {
+      "lead_id": "owner-062",
+      "url": "https://www.nationalbook.org/national-book-awards/search/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-062"
+      ]
+    },
+    {
+      "lead_id": "owner-063",
+      "url": "https://www.nationalbook.org/2025-national-book-awards-longlist-for-poetry/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-063"
+      ]
+    },
+    {
+      "lead_id": "owner-064",
+      "url": "https://www.nationalbook.org/2025-national-book-awards-finalists-announced/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-064"
+      ]
+    },
+    {
+      "lead_id": "owner-065",
+      "url": "https://www.nationalbook.org/winners-of-the-2025-national-book-awards-announced/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-065"
+      ]
+    },
+    {
+      "lead_id": "owner-066",
+      "url": "https://poets.org/academy-american-poets/prizes/lenore-marshall-poetry-prize",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-066"
+      ]
+    },
+    {
+      "lead_id": "owner-067",
+      "url": "https://poets.org/academy-american-poets/prizes/james-laughlin-award",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-067"
+      ]
+    },
+    {
+      "lead_id": "owner-068",
+      "url": "https://yalebooks.yale.edu/yale-series-of-younger-poets-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-068"
+      ]
+    },
+    {
+      "lead_id": "owner-069",
+      "url": "https://yalebooks.yale.edu/yale-series-of-younger-poets-judges/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-069"
+      ]
+    },
+    {
+      "lead_id": "owner-070",
+      "url": "https://poetrysociety.org/award-winners/year/2026",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-070"
+      ]
+    },
+    {
+      "lead_id": "owner-071",
+      "url": "https://poetrysociety.org/awards/frost-shelley-awards/frost-medalist-2026",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-071"
+      ]
+    },
+    {
+      "lead_id": "owner-072",
+      "url": "https://poetrysociety.org/award-winners/name/four-quartets-prize",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-072"
+      ]
+    },
+    {
+      "lead_id": "owner-073",
+      "url": "https://poetrysociety.org/award-winners/name/individual-awards",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-073"
+      ]
+    },
+    {
+      "lead_id": "owner-074",
+      "url": "https://forwardartsfoundation.org/prizes-2025-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-074"
+      ]
+    },
+    {
+      "lead_id": "owner-075",
+      "url": "https://poetrysociety.org.uk/competitions/national-poetry-competition/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-075"
+      ]
+    },
+    {
+      "lead_id": "owner-076",
+      "url": "https://poetrysociety.org.uk/competitions/national-poetry-competition/history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-076"
+      ]
+    },
+    {
+      "lead_id": "owner-077",
+      "url": "https://poetrysociety.org.uk/competitions/ted-hughes-award/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-077"
+      ]
+    },
+    {
+      "lead_id": "owner-078",
+      "url": "https://poetrysociety.org.uk/competitions/foyle-young-poets-of-the-year-award/get-inspired-by-previous-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-078"
+      ]
+    },
+    {
+      "lead_id": "owner-079",
+      "url": "https://griffinpoetryprize.com/finalists/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-079"
+      ]
+    },
+    {
+      "lead_id": "owner-080",
+      "url": "https://griffinpoetryprize.com/finalists/prize-year/2025/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-080"
+      ]
+    },
+    {
+      "lead_id": "owner-081",
+      "url": "https://pen.org/literary-awards/pen-award-poetry-translation/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-081"
+      ]
+    },
+    {
+      "lead_id": "owner-082",
+      "url": "https://www.latimes.com/events/festival-of-books/book-prizes/history",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-082"
+      ]
+    },
+    {
+      "lead_id": "owner-083",
+      "url": "https://arts.cgu.edu/tufts-poetry-awards/awards-ceremony/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-083"
+      ]
+    },
+    {
+      "lead_id": "owner-084",
+      "url": "https://www.poetryfoundation.org/articles/1825934/2026-pegasus-awards-celebrate-poetrys-range",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-084"
+      ]
+    },
+    {
+      "lead_id": "owner-085",
+      "url": "https://www.poetryfoundation.org/articles/1723145/poetry-foundation-announces-2025-recipients-of-the-21st-annual-pegasus-awards",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-085"
+      ]
+    },
+    {
+      "lead_id": "owner-086",
+      "url": "https://poetrysociety.org.uk/news/hannah-lowe-wins-costa-poetry-award/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-086"
+      ]
+    },
+    {
+      "lead_id": "owner-087",
+      "url": "https://poetrysociety.org.uk/news/don-paterson-wins-costa-poetry-award/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-087"
+      ]
+    },
+    {
+      "lead_id": "owner-088",
+      "url": "https://wordswithoutborders.org/read/article/2019-09/september-2019-poems-in-translation-contest-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-088"
+      ]
+    },
+    {
+      "lead_id": "owner-089",
+      "url": "https://wordswithoutborders.org/read/article/2020-09/announcing-the-winners-of-the-2020-poems-in-translation-contest/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-089"
+      ]
+    },
+    {
+      "lead_id": "owner-090",
+      "url": "https://wordswithoutborders.org/read/article/2021-09/announcing-the-winners-of-the-2021-poems-in-translation-contest/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-090"
+      ]
+    },
+    {
+      "lead_id": "owner-091",
+      "url": "https://book.douban.com/tag/%E8%AF%97%E6%AD%8C?start=0&type=R",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-091"
+      ]
+    },
+    {
+      "lead_id": "owner-092",
+      "url": "https://book.douban.com/tag/%E8%AF%97%E6%AD%8C?type=S",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-092"
+      ]
+    },
+    {
+      "lead_id": "owner-093",
+      "url": "https://book.douban.com/tag/%E8%AF%97?type=S",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-093"
+      ]
+    },
+    {
+      "lead_id": "owner-094",
+      "url": "https://book.douban.com/tag/%E8%A9%A9%E8%A9%9E",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-094"
+      ]
+    },
+    {
+      "lead_id": "owner-095",
+      "url": "https://book.douban.com/tag/%E5%8F%A4%E8%AF%97%E8%AF%8D",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-095"
+      ]
+    },
+    {
+      "lead_id": "owner-096",
+      "url": "https://book.douban.com/tag/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-096"
+      ]
+    },
+    {
+      "lead_id": "owner-097",
+      "url": "https://book.douban.com/tag/%E5%8F%A4%E6%96%87%E8%AF%97%E8%AF%8D?type=S",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-097"
+      ]
+    },
+    {
+      "lead_id": "owner-098",
+      "url": "https://www.douban.com/doulist/43795433/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-098"
+      ]
+    },
+    {
+      "lead_id": "owner-099",
+      "url": "https://book.douban.com/subject/25986265/doulists",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-099"
+      ]
+    },
+    {
+      "lead_id": "owner-100",
+      "url": "https://book.douban.com/tag/%E8%AF%97%E8%AF%8D?start=20&type=S",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-100"
+      ]
+    },
+    {
+      "lead_id": "owner-101",
+      "url": "https://book.douban.com/tag/%E8%AF%97%E8%AF%8D?start=100&type=S",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-101"
+      ]
+    },
+    {
+      "lead_id": "owner-102",
+      "url": "https://www.goodreads.com/list/show/90640.Chinese_Poetry_Bilingual",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-102"
+      ]
+    },
+    {
+      "lead_id": "owner-103",
+      "url": "https://www.goodreads.com/list/show/195670.Chinese_Poetry_in_Translation",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-103"
+      ]
+    },
+    {
+      "lead_id": "owner-104",
+      "url": "https://www.goodreads.com/list/show/416495.Chinese_Poetry_in_Translation_2",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-104"
+      ]
+    },
+    {
+      "lead_id": "owner-105",
+      "url": "https://www.goodreads.com/list/show/420545.Chinese_Poetry_in_English_Translation",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-105"
+      ]
+    },
+    {
+      "lead_id": "owner-106",
+      "url": "https://dukeupress.edu/chinese-poetry-2nd-ed-revised",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-106"
+      ]
+    },
+    {
+      "lead_id": "owner-107",
+      "url": "https://www.jstor.org/stable/10.7312/cai-13940",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-107"
+      ]
+    },
+    {
+      "lead_id": "owner-108",
+      "url": "https://amanaut.co.jp/bookcrunch/poetry-collection-recommendations/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-108"
+      ]
+    },
+    {
+      "lead_id": "owner-109",
+      "url": "https://japan-poets-club.d.dooo.jp/award/award_club.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-109"
+      ]
+    },
+    {
+      "lead_id": "owner-110",
+      "url": "https://japan-poets-club.d.dooo.jp/award/award_shikai.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-110"
+      ]
+    },
+    {
+      "lead_id": "owner-111",
+      "url": "https://japan-poets-club.d.dooo.jp/award/award_new.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-111"
+      ]
+    },
+    {
+      "lead_id": "owner-112",
+      "url": "https://japan-poets-club.d.dooo.jp/award/3awad.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-112"
+      ]
+    },
+    {
+      "lead_id": "owner-113",
+      "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I033702428",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-113"
+      ]
+    },
+    {
+      "lead_id": "owner-114",
+      "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=2000027055&page=man_view",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-114"
+      ]
+    },
+    {
+      "lead_id": "owner-115",
+      "url": "https://download.booklog.jp/author/%E6%96%87%E5%AD%A6%E3%83%BB%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E3%83%BB%E8%A9%A9%E9%9B%86",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-115"
+      ]
+    },
+    {
+      "lead_id": "owner-116",
+      "url": "https://download.booklog.jp/author/%E3%83%9C%E3%83%BC%E3%83%89%E3%83%AC%E3%83%BC%E3%83%AB",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-116"
+      ]
+    },
+    {
+      "lead_id": "owner-117",
+      "url": "https://www.goodreads.com/list/show/5280.Japanese_Tanka_in_Translation",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-117"
+      ]
+    },
+    {
+      "lead_id": "owner-118",
+      "url": "https://cup.columbia.edu/book/the-columbia-anthology-of-modern-japanese-literature/9780231118606/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-118"
+      ]
+    },
+    {
+      "lead_id": "owner-119",
+      "url": "https://cup.columbia.edu/book/the-columbia-anthology-of-modern-japanese-literature/9780231118613/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-119"
+      ]
+    },
+    {
+      "lead_id": "owner-120",
+      "url": "https://wordswithoutborders.org/read/article/2026-04/the-watchlist-april-2026-tobias-carroll/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-120"
+      ]
+    },
+    {
+      "lead_id": "owner-121",
+      "url": "https://silesius.wroclaw.pl/laureaci/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-121"
+      ]
+    },
+    {
+      "lead_id": "owner-122",
+      "url": "https://silesius.wroclaw.pl/o-nagrodzie/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-122"
+      ]
+    },
+    {
+      "lead_id": "owner-123",
+      "url": "https://silesius.wroclaw.pl/laureaci/silesius-2018/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-123"
+      ]
+    },
+    {
+      "lead_id": "owner-124",
+      "url": "https://silesius.wroclaw.pl/silesius-2019/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-124"
+      ]
+    },
+    {
+      "lead_id": "owner-125",
+      "url": "https://nagrodaszymborskiej.pl/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-125"
+      ]
+    },
+    {
+      "lead_id": "owner-126",
+      "url": "https://nagrodaszymborskiej.pl/laureaci/edycja-2026/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-126"
+      ]
+    },
+    {
+      "lead_id": "owner-127",
+      "url": "https://www.orfeusz-nagroda.pl/laureaci/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-127"
+      ]
+    },
+    {
+      "lead_id": "owner-128",
+      "url": "https://www.orfeusz-nagroda.pl/final-nagrody-orfeusza-2025/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-128"
+      ]
+    },
+    {
+      "lead_id": "owner-129",
+      "url": "https://lubimyczytac.pl/ksiazka/302870/poezje",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-129"
+      ]
+    },
+    {
+      "lead_id": "owner-130",
+      "url": "https://www.academie-francaise.fr/grand-prix-de-poesie",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-130"
+      ]
+    },
+    {
+      "lead_id": "owner-131",
+      "url": "https://www.prix-apollinaire.fr/Laureats.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-131"
+      ]
+    },
+    {
+      "lead_id": "owner-132",
+      "url": "https://www.senscritique.com/liste/les_10_meilleurs_recueils_de_poesie_francaise/2060428",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-132"
+      ]
+    },
+    {
+      "lead_id": "owner-133",
+      "url": "https://www.senscritique.com/liste/Les_meilleurs_recueils_de_poesie/824133",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-133"
+      ]
+    },
+    {
+      "lead_id": "owner-134",
+      "url": "https://www.senscritique.com/liste/250_des_meilleurs_recueils_de_poesie_de_tous_les_temps/4049338",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-134"
+      ]
+    },
+    {
+      "lead_id": "owner-135",
+      "url": "https://www.arllfb.be/prixlitteraires/grandprixpoesie.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-135"
+      ]
+    },
+    {
+      "lead_id": "owner-136",
+      "url": "https://www.cultura.gob.es/premiado/busquedaPremioParticularAction.do?action=busquedaInicial&cache=init&language=es&layout=PremioNacPoesiaLibro&params.id_tipo_premio=100",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-136"
+      ]
+    },
+    {
+      "lead_id": "owner-137",
+      "url": "https://www.cultura.gob.es/mcd/cultura/libro/premios-literarios/listado-de-premios/premios-nacionales/literatura-poesia.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-137"
+      ]
+    },
+    {
+      "lead_id": "owner-138",
+      "url": "https://premioreinasofia.usal.es/premiados/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-138"
+      ]
+    },
+    {
+      "lead_id": "owner-139",
+      "url": "https://www.lecturalia.com/libros-tema/11/poesia",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-139"
+      ]
+    },
+    {
+      "lead_id": "owner-140",
+      "url": "https://www.lecturalia.com/premio-literario/cpc/premio-de-la-critica-de-poesia-castellana",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-140"
+      ]
+    },
+    {
+      "lead_id": "owner-141",
+      "url": "https://www.lecturalia.com/libro/113656/las-cien-mejores-poesias-de-la-lengua-castellana",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-141"
+      ]
+    },
+    {
+      "lead_id": "owner-142",
+      "url": "https://premioletterarioviareggiorepaci.it/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-142"
+      ]
+    },
+    {
+      "lead_id": "owner-143",
+      "url": "https://premioletterarioviareggiorepaci.it/premi/premio-letterario-viareggio-repaci/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-143"
+      ]
+    },
+    {
+      "lead_id": "owner-144",
+      "url": "https://www.premiostrega.it/PO/vincitori/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-144"
+      ]
+    },
+    {
+      "lead_id": "owner-145",
+      "url": "https://www.lovelybooks.de/buecher/literatur/Lyrik-die-sch%C3%B6nsten-Gedichte-469457676/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-145"
+      ]
+    },
+    {
+      "lead_id": "owner-146",
+      "url": "https://india.oup.com/product/the-oxford-anthology-of-modern-indian-poetry-9780195639179",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-146"
+      ]
+    },
+    {
+      "lead_id": "owner-147",
+      "url": "https://india.oup.com/product/the-oxford-india-anthology-of-twelve-modern-indian-poets-9780195628678",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-147"
+      ]
+    },
+    {
+      "lead_id": "owner-148",
+      "url": "https://www.goodreads.com/list/show/88374.Best_Indian_Poetry",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-148"
+      ]
+    },
+    {
+      "lead_id": "owner-149",
+      "url": "https://www.goodreads.com/list/show/110503.Indian_Poetry",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-149"
+      ]
+    },
+    {
+      "lead_id": "owner-150",
+      "url": "https://www.goodreads.com/list/show/187952.Hindi_Poetry_Lovers",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-150"
+      ]
+    },
+    {
+      "lead_id": "owner-151",
+      "url": "https://www.goodreads.com/list/show/126368.Best_Persian_Poetry_",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-151"
+      ]
+    },
+    {
+      "lead_id": "owner-152",
+      "url": "https://www.goodreads.com/list/show/6071.Arabic_Poetry_Books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-152"
+      ]
+    },
+    {
+      "lead_id": "owner-153",
+      "url": "https://www.goodreads.com/list/show/14932._",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-153"
+      ]
+    },
+    {
+      "lead_id": "owner-154",
+      "url": "https://www.ucpress.edu/books/an-anthology-of-modern-arabic-poetry/hardcover",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-154"
+      ]
+    },
+    {
+      "lead_id": "owner-155",
+      "url": "https://www.goodreads.com/list/show/153360.African_Poetry",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-155"
+      ]
+    },
+    {
+      "lead_id": "owner-156",
+      "url": "https://www.goodreads.com/list/show/9123.Latin_American_Poets",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-156"
+      ]
+    },
+    {
+      "lead_id": "owner-157",
+      "url": "https://www.goodreads.com/list/show/200967.Spanish",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-157"
+      ]
+    },
+    {
+      "lead_id": "owner-158",
+      "url": "https://www.goodreads.com/list/tag/poesia",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-158"
+      ]
+    },
+    {
+      "lead_id": "owner-159",
+      "url": "https://www.livelib.ru/genre/%D0%9F%D0%BE%D1%8D%D0%B7%D0%B8%D1%8F/top",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-159"
+      ]
+    },
+    {
+      "lead_id": "owner-160",
+      "url": "https://trigger.livelib.ru/genre/%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D1%8D%D0%B7%D0%B8%D1%8F/best",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-160"
+      ]
+    },
+    {
+      "lead_id": "owner-161",
+      "url": "https://www.jstor.org/stable/j.ctt1sq5v63",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-161"
+      ]
+    },
+    {
+      "lead_id": "owner-162",
+      "url": "https://academic.oup.com/edited-volume/63226",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-162"
+      ]
+    },
+    {
+      "lead_id": "owner-163",
+      "url": "https://www.jstor.org/stable/jj.20336444",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-163"
+      ]
+    },
+    {
+      "lead_id": "owner-164",
+      "url": "https://www.lyrik-empfehlungen.de/2018/empfehlungen",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-164"
+      ]
+    },
+    {
+      "lead_id": "owner-165",
+      "url": "https://www.literatpro.de/gedichte/index",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-165"
+      ]
+    },
+    {
+      "lead_id": "owner-166",
+      "url": "https://researchportalplus.anu.edu.au/en/publications/ranking-canonical-english-poems/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-166"
+      ]
+    },
+    {
+      "lead_id": "owner-167",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0276237415621188",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-167"
+      ]
+    },
+    {
+      "lead_id": "owner-168",
+      "url": "https://iris.siue.edu/poetrydata/tracking-seven-widely-anthologized-poems/index.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-168"
+      ]
+    },
+    {
+      "lead_id": "owner-169",
+      "url": "https://openlit.commons.gc.cuny.edu/poetry/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-169"
+      ]
+    },
+    {
+      "lead_id": "owner-170",
+      "url": "https://www.poetryinternational.com/en/poets-poems/article/104-29991_Welcome-to-p-Archives/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-170"
+      ]
+    },
+    {
+      "lead_id": "owner-171",
+      "url": "https://www.poetryinternational.com/en/poets-poems/poets?country=in",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-171"
+      ]
+    },
+    {
+      "lead_id": "owner-172",
+      "url": "https://www.poetrytranslation.org/poets-translators/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-172"
+      ]
+    },
+    {
+      "lead_id": "owner-173",
+      "url": "https://www.poetrytranslation.org/sarah-maguire-prize/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-173"
+      ]
+    },
+    {
+      "lead_id": "owner-174",
+      "url": "https://www.poetrytranslation.org/articles-news/sarah-maguire-prize-for-poetry-in-translation-shortlist/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-174"
+      ]
+    },
+    {
+      "lead_id": "owner-175",
+      "url": "https://wordswithoutborders.org/read/article/2022-07/8-poetry-collections-in-translation-to-read-in-2022/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-175"
+      ]
+    },
+    {
+      "lead_id": "owner-176",
+      "url": "https://wordswithoutborders.org/read/article/2021-12/the-best-translated-books-of-2021/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-176"
+      ]
+    },
+    {
+      "lead_id": "owner-177",
+      "url": "https://wordswithoutborders.org/read/article/2025-12/the-best-books-in-and-on-translation-we-read-in-2025/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-177"
+      ]
+    },
+    {
+      "lead_id": "owner-178",
+      "url": "https://worldliteraturetoday.org/blog/news-and-events/2017-best-translated-book-award-shortlist",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-178"
+      ]
+    },
+    {
+      "lead_id": "owner-179",
+      "url": "https://www.lecturalia.com/libro/94268/poemas-y-poetas-el-canon-de-la-poesia",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-179"
+      ]
+    },
+    {
+      "lead_id": "owner-180",
+      "url": "https://poets.org/anthology/poetry-anthology",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-180"
+      ]
+    },
+    {
+      "lead_id": "owner-181",
+      "url": "https://www.reddit.com/r/Poetry/comments/1bwbgow/help_what_are_the_most_quintessential_poetry/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-181"
+      ]
+    },
+    {
+      "lead_id": "owner-182",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1562pk5",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-182"
+      ]
+    },
+    {
+      "lead_id": "owner-183",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1f7hzuq",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-183"
+      ]
+    },
+    {
+      "lead_id": "owner-184",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/175y0wz",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-184"
+      ]
+    },
+    {
+      "lead_id": "owner-185",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/e3b5si",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-185"
+      ]
+    },
+    {
+      "lead_id": "owner-186",
+      "url": "https://www.reddit.com/r/Poetry/comments/1ja8s7r/opinion_what_are_some_of_your_favorite_poems_or/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-186"
+      ]
+    },
+    {
+      "lead_id": "owner-187",
+      "url": "https://www.reddit.com/r/Poetry/comments/1j9s9t4",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-187"
+      ]
+    },
+    {
+      "lead_id": "owner-188",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1jokwjq",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-188"
+      ]
+    },
+    {
+      "lead_id": "owner-189",
+      "url": "https://www.reddit.com/r/classics/comments/1inxgpm/best_translation_of_the_iliad_and_the_odyssey/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-189"
+      ]
+    },
+    {
+      "lead_id": "owner-190",
+      "url": "https://www.reddit.com/r/classics/comments/11xbnz9/what_do_classics_scholars_think_is_the_best/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-190"
+      ]
+    },
+    {
+      "lead_id": "owner-191",
+      "url": "https://www.reddit.com/r/classics/comments/1ihso9b",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-191"
+      ]
+    },
+    {
+      "lead_id": "owner-192",
+      "url": "https://www.reddit.com/r/classics/comments/1dbz9qb/best_translation_of_the_iliad/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-192"
+      ]
+    },
+    {
+      "lead_id": "owner-193",
+      "url": "https://www.reddit.com/r/classics/comments/1g43unq/which_translation_of_the_odyssey_the_iliad_is_best/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-193"
+      ]
+    },
+    {
+      "lead_id": "owner-194",
+      "url": "https://www.reddit.com/r/classics/comments/ooejiz",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-194"
+      ]
+    },
+    {
+      "lead_id": "owner-195",
+      "url": "https://www.reddit.com/r/classics/comments/1g2zpi0",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-195"
+      ]
+    },
+    {
+      "lead_id": "owner-196",
+      "url": "https://www.reddit.com/r/classics/comments/n2147i",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-196"
+      ]
+    },
+    {
+      "lead_id": "owner-197",
+      "url": "https://www.reddit.com/r/AskLiteraryStudies/comments/8gh89p/western_canon_of_literature/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-197"
+      ]
+    },
+    {
+      "lead_id": "owner-198",
+      "url": "https://www.reddit.com/r/ksiazki/comments/191h8r1",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-198"
+      ]
+    },
+    {
+      "lead_id": "owner-199",
+      "url": "https://www.reddit.com/r/Poetry/comments/1vbq8u7/help_nich%C3%A9_arabic_poetry_recommendations/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-199"
+      ]
+    },
+    {
+      "lead_id": "owner-200",
+      "url": "https://www.reddit.com/r/classics/comments/1d7diwb/which_translation_of_the_iliad_and_odyssey_should/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-200"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "target": "books-all-time",
+  "expected_revision": 1,
+  "version": "initial-selection-2026-09-13-v2",
+  "published_on": "2026-09-13",
+  "notice": "Initial researched selection: 14 books across fiction, philosophy, social inquiry and science. Other subjects and worldwide traditions remain substantially underrepresented. Positions compare included works; expansion toward 100–200 continues.",
+  "method": "Two qualitative editorial comparisons based on target-local consulted evidence. Critical standing emphasizes achievement and enduring intellectual or critical reception; reading value emphasizes conceptual, imaginative and ethical rewards today. Difficulty is not an automatic deduction. These positions are editorial inferences, not aggregated source votes or personal scores. Membership currently reflects completed work, edition and image verification, not a claim that absent candidates were defeated. Adjacent positions and comparisons between subjects remain uncertain.",
+  "orders": {
+    "standing": {
+      "label": "Critical standing & enduring influence",
+      "description": "Achievement and lasting reception within this included selection.",
+      "keys": [
+        "republic",
+        "darwin",
+        "warpeace",
+        "genji",
+        "middlemarch",
+        "enquiry",
+        "mobydick",
+        "souls",
+        "magic",
+        "beloved",
+        "silent",
+        "liberty",
+        "doll",
+        "kokoro"
+      ]
+    },
+    "reading": {
+      "label": "Reading value today",
+      "description": "The conceptual, imaginative and ethical rewards of reading today.",
+      "keys": [
+        "middlemarch",
+        "warpeace",
+        "souls",
+        "enquiry",
+        "beloved",
+        "republic",
+        "genji",
+        "magic",
+        "silent",
+        "mobydick",
+        "liberty",
+        "darwin",
+        "doll",
+        "kokoro"
+      ]
+    }
+  },
+  "entries": [
+    {
+      "source_ids": [
+        "S19"
+      ],
+      "standing": "Its sustained dialogue about justice, knowledge and political order supports the leading influence position in this selection. The ethical and political analogy matters alongside its literary construction.",
+      "reading": "Its argumentative encounters offer lasting rewards, while requiring resistance as well as engagement. This lens puts the more concentrated inquiries into lived social experience and everyday belief ahead of its larger political design.",
+      "caveat": "Warburton’s selection has an explicitly Western, all-male scope. Neither its order nor its candidate boundaries determine this synthesis.",
+      "key": "republic",
+      "item_id": 9
+    },
+    {
+      "source_ids": [
+        "R174",
+        "R201"
+      ],
+      "standing": "An argument built from observations and explanatory comparison earns an upper place for intellectual transformation across subjects. The historical review adds evidence of early response to its presentation.",
+      "reading": "The accumulation and organization of evidence remain rewarding to follow. For current readers, the other nonfiction works here offer more direct engagement with still-open ethical and social questions; this book requires a historical scientific frame.",
+      "caveat": "Historical importance does not make an 1859 text a substitute for current biology. Gray’s consulted opening is narrow reception evidence, not an all-time verdict.",
+      "key": "darwin",
+      "item_id": 11
+    },
+    {
+      "key": "warpeace",
+      "item_id": 2,
+      "source_ids": [
+        "R180",
+        "R181"
+      ],
+      "standing": "Narrative scale, social characterization and historical inquiry place it near the front of this cross-subject selection. Its literary explanation of experience complements the different kinds of inquiry in Plato and Darwin.",
+      "reading": "Near the front for the interaction of intimate lives and resistance to simple historical explanations; Middlemarch receives a slight preference for its concentrated investigation of everyday judgment.",
+      "caveat": "The 1886 dissent concerns a partial indirect translation; it records historical resistance, not a verdict on the complete English edition."
+    },
+    {
+      "key": "genji",
+      "item_id": 6,
+      "source_ids": [
+        "S29"
+      ],
+      "standing": "Its sustained psychological and social reach across generations supports an upper literary position within the wider book comparison. Dependence and mortality connect its distant courtly setting with broader questions of human life.",
+      "reading": "An encounter with changing perspectives on desire and loss rewards sustained attention. The more concentrated ethical and conceptual encounters ahead of it take priority in this particular reading lens.",
+      "caveat": "One directly mapped expert discussion currently carries this dossier. Claims of a uniquely first novel and exact comparisons across traditions remain contested."
+    },
+    {
+      "key": "middlemarch",
+      "item_id": 7,
+      "source_ids": [
+        "S35",
+        "R055"
+      ],
+      "standing": "Its interconnected social understanding places it high among the literary works in this cross-subject selection. Critical commentary and rereading testimony support its continuing interpretive reach.",
+      "reading": "First here for its examination of ordinary judgment, disappointed ideals and sympathetic understanding. Its slow accumulation of social detail contributes to the reward.",
+      "caveat": "These sources support social interpretation and rereading; they do not independently establish an exact worldwide ordinal position."
+    },
+    {
+      "source_ids": [
+        "R020",
+        "R158"
+      ],
+      "standing": "The examination of inference and causal reasoning supports a high philosophical position. Its relationship to the Treatise involves revision as well as compression, so the books are not interchangeable.",
+      "reading": "An early philosophical reading priority: examination of experience and habit puts ordinary confidence under sustained scrutiny. Concision aids engagement but is not itself a measure of merit.",
+      "caveat": "The primary text supports interpretation; it is not an independent reception vote. Exact comparison with other traditions is still underdeveloped.",
+      "key": "enquiry",
+      "item_id": 13
+    },
+    {
+      "key": "mobydick",
+      "item_id": 5,
+      "source_ids": [
+        "R185"
+      ],
+      "standing": "The voyage’s digression and verbal texture support a substantial place for literary experiment among the scientific and philosophical inquiries in this selection.",
+      "reading": "Its unruly intellectual and verbal abundance rewards attention. This lens gives earlier priority to more sustained interpersonal or ethical investigations without treating digression as a defect.",
+      "caveat": "The mapped Diski essay is a short intervention about abridgment. A larger historical and comparative dossier remains necessary."
+    },
+    {
+      "source_ids": [
+        "S18"
+      ],
+      "standing": "The conjunction of racial, historical, social and aesthetic inquiry supports inclusion among major intellectual books. Its interdisciplinary character prevents reducing its achievement to a single subject.",
+      "reading": "Its combination of social argument and lived experience gives it an early place beside the leading novels. The question of race makes intellectual inquiry inseparable from the conditions of life.",
+      "caveat": "The mapped scholarly source surveys Du Bois’s wider development. More direct book-specific criticism is needed before exact positions can be treated as well settled.",
+      "key": "souls",
+      "item_id": 10
+    },
+    {
+      "key": "magic",
+      "item_id": 4,
+      "source_ids": [
+        "R106",
+        "R179"
+      ],
+      "standing": "Intellectual conflict and an unusual experience of narrated time give it a place alongside works that pursue ideas through direct argument.",
+      "reading": "Time, irony and ideological dialogue reward immersion, including apparently static passages. Its placement corrects the earlier pilot’s automatic penalty for difficulty.",
+      "caveat": "Reader responses diverge between fascination and boredom. Frenkel’s translation comments concern Lowe-Porter, not the catalog’s Woods edition."
+    },
+    {
+      "key": "beloved",
+      "item_id": 8,
+      "source_ids": [
+        "R184"
+      ],
+      "standing": "Nonlinear memory and reclaimed narrative agency support a major formal achievement. Its shorter reception history makes influence-led comparison with older books less settled.",
+      "reading": "Haunting and fractured memory create an active encounter with slavery’s aftermath. Its rise reflects ethical and formal intensity rather than easy reading.",
+      "caveat": "The guide is institutional interpretation, not an independent global ranking; work-specific scholarly disagreement still needs expansion."
+    },
+    {
+      "source_ids": [
+        "R175",
+        "R176"
+      ],
+      "standing": "Its synthesis of scattered research into public environmental argument earns a substantial place. Wilson’s qualification keeps the book’s contribution distinct from the wider scientific and activist movement.",
+      "reading": "The rewards lie in attending to ecological relationships and how evidence becomes a public argument. That reflective value lifts it relative to an ordering led by the longer reception of earlier works.",
+      "caveat": "The sources differ in how much change they attribute to the book. Contemporary scientific and policy questions require newer evidence.",
+      "key": "silent",
+      "item_id": 12
+    },
+    {
+      "source_ids": [
+        "R157"
+      ],
+      "standing": "The defense of discussion through fallibility supports inclusion, but this deliberately small comparison gives wider philosophical systems and interdisciplinary transformations greater standing.",
+      "reading": "A focused encounter with dissent, individuality and authority gives it continuing reading value. Its exclusions should be confronted as part of the argument rather than silently removed.",
+      "caveat": "Mill’s own text is the direct evidence here; fuller independent criticism and historical reception remain necessary.",
+      "key": "liberty",
+      "item_id": 14
+    },
+    {
+      "key": "doll",
+      "item_id": 1,
+      "source_ids": [
+        "R104",
+        "R178",
+        "R187"
+      ],
+      "standing": "Competing social ideals and unreliable narration support its place among social novels. International translation visibility should not be mistaken for the extent of its achievement.",
+      "reading": "The novel tests ambition and agency within social convention, provoking opposed responses to characterization. Exact comparison with the other social novels remains particularly uncertain.",
+      "caveat": "The adjacent positions are particularly uncertain. Parrinder reviews the 1996 Welsh edition; it does not verify every feature of the 2011 reissue."
+    },
+    {
+      "key": "kokoro",
+      "item_id": 3,
+      "source_ids": [
+        "R182"
+      ],
+      "standing": "Concentrated psychological and historical interest supports inclusion in this expanding selection. Its comparative reception needs a deeper dossier.",
+      "reading": "The whole novel offers an encounter with guilt, egoism and generational dislocation that school excerpts may obscure. A later position within this limited selection is not a verdict against unlisted works.",
+      "caveat": "The mapped account is student testimony, not faculty scholarship or representative consensus; the comparative dossier is still thin."
+    }
+  ]
+}

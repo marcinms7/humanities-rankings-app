@@ -1,0 +1,39 @@
+# Project instructions
+
+For continuation state and copyable prompts, read [HANDOVER.md](HANDOVER.md). For app implementation/maintenance, follow [the development skill](docs/skills/humanities-app-development/SKILL.md).
+
+Read [PROJECT_PLAN.md](PROJECT_PLAN.md) for the product plan and answered questions, and [README.md](README.md) for the running implementation. A first local Django/React app now exists. The existing database now includes five illustrated initial researched selections, catalog books/people and target-specific evidence ledgers. Read HANDOVER.md for current counts; do not assume the older empty-catalog state. Personal numerical assessments remain unset.
+
+Confirmed architecture: Python/Django backend, React/TypeScript frontend, PostgreSQL/Docker support, and a responsive website for desktop and phone. The direct local launch intentionally uses SQLite because Docker is not installed in the workspace. Preserve the full requested product scope when sequencing implementation and distinguish this first usable version from the full public release.
+
+For humanities ranking research, source collection, assessment, or imports, read and follow [the project research skill](docs/skills/humanities-ranking-research/SKILL.md).
+
+**Latest owner priority (13 September 2026): compile broad rankings quickly from established published lists, then iterate. Aim for approximately 250 entries in the broad all-time targets. Read [the production workflow](docs/RANKING_RESEARCH_WORKFLOW.md). The owner rejected hours of source gathering and edition/image checks that yielded only 14 books. Existing evidence already exceeds 50 consulted sources per active target; expand the rankings before further open-ended research.** Preserve honest source counting, relevance and diversity; 100–200 sources is not a publication gate. The earlier 50-source floor applies to completed target research, never to every candidate.
+
+Agents propose criterion assessments with explanations; the owner chooses weights and can override assessments. The specific criteria will be designed separately. Preserve source rankings, personal overrides, manual lists, and previous versions when updating research.
+
+Keep rankings and assessments unpopulated during template work. Source discovery can precede criterion design when requested, but final personalized scores require the agreed criteria. Do not infer a research run from an ordinary software task.
+
+Each ranking's research is separate. The saved 51-source ledger belongs only to `books-all-time`; it must not be copied wholesale to philosophy, country, period or other rankings. Reuse needs individually recorded relevance. Save consulted evidence incrementally in `research/<target>/sources.json` and run `manage.py import_research <file> --target <slug>` to persist it. The initial build-time research pause is historical; current research and illustrated ranking population are explicitly authorized. Imports must preserve personal notes, source positions, override values, earlier revisions and research freshness.
+
+The main Rankings section contains shared rankings researched and populated by agents from relevant online sources. It is read-only in the normal reader interface, including for the local owner. Keep catalog/research administration separate. Bookmarked rankings can expose private weights/overrides and a personal-copy action; entry additions, removals and reordering affect only the owner's personal copy, never the shared source ranking.
+
+Keep three distinct discovery sections: **Researched rankings** (`origin=curated`), **Published rankings** (`origin=external`, `presentation=ranked`, preserving the publisher's original ordering), and **Reading collections** (`origin=external`, unranked or reading sequence). Guardian lists belong to published rankings; McEvoy's lists/lecture programmes and Great Books belong to reading collections. A non-ranking collection may inform a synthesis, but must not silently acquire merit positions. Personal copies remain separate.
+
+Testing preference (12 September 2026): the owner has tested the app in the browser and asked to stop further testing for this iteration. For future browser verification, ask the owner to try the app instead of launching automated browser checks unless explicitly requested. Necessary builds still make interface changes runnable. Do not create test accounts or books in a database the owner is using.
+
+Launch: `./scripts/setup_local.sh` for initial setup, then `./scripts/run_local.sh`. Backend tests are available with `.venv/bin/python manage.py test backend.core` and domain checks with `.venv/bin/python -m unittest discover -s tests`; respect the owner's current testing preference above. Build frontend changes with `PATH="$PWD/.node/bin:$PATH" npm --prefix frontend run build`. Commit schema migrations. Docker files are provided but have not been run in this workspace.
+
+
+Persistence and recovery: use the existing `data/db.sqlite3` (unless the owner explicitly selects another configured database) and preserve the real account. Shared records use archive flags and API/admin, ORM and database deletion guards. Read [DATA_SAFETY.md](docs/DATA_SAFETY.md) before schema/import changes; table rebuilds must preserve triggers. Private records are database-backed with user ownership. Local password recovery uses `bash scripts/reset_password.sh USERNAME`; passwords already use one-way hashing and must never be stored as plaintext.
+
+Planner: weekly/monthly targets, optional per-reading-day targets, flexible reading days, and explicit provisional effort/density adjustments. Python is authoritative. Preserve physical page counts and locked allocations. The rhythm panel is collapsed by default with equal-height expanded controls; keep month cards visible near the top. The sidebar must scroll in short windows. Keep the owner-approved colours. See [READING_TIME.md](docs/READING_TIME.md).
+
+On context handoff, update HANDOVER.md with actual saved state and outstanding work. Do not launch ranking research from a development request or treat a source threshold as finished ranking publication.
+
+
+Separate-agent research handoffs: [EXTERNAL_AGENT_RESEARCH_BRIEF.md](docs/EXTERNAL_AGENT_RESEARCH_BRIEF.md) is a self-contained copy-paste brief for an outside agent. Its preferred output is one complete Word `.docx` per target, with report, detailed source register and candidate records; JSON is optional. When the owner returns results, follow [EXTERNAL_AGENT_RESULTS_INTAKE.md](docs/EXTERNAL_AGENT_RESULTS_INTAKE.md) to read the document, preserve provenance, normalize/audit records and import supported evidence without changing private data.
+
+Owner-provided files can be placed in [pending_rankings_to_process/](pending_rankings_to_process/README.md) or supplied as accessible chat attachments. When asked to update rankings from files, follow the inbox README and intake guide, preserve originals, maintain a content-hash processing log, and reconcile with existing records. Process useful supported material without demanding JSON. This is a file-driven update, not an automatic request for broad new internet research. Report partial evidence, completed database writes and ranking publication separately; dropping files into the inbox does not automatically import them.
+
+Research continuation requirement (13 September 2026, corrected): save checkpoints and imports after meaningful small batches. Build and publish the broad candidate comparison first, retaining both owner-selected orderings. Obtain a credited image for every book/person in batches, keeping explicit unresolved media tasks; missing images or detailed edition metadata must not exclude major candidates or determine merit order. Preserve previous evidence and ranking revisions, but reassess the tiny subset's ordinal positions against the full pool.

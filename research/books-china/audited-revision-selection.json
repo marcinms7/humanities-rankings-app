@@ -1,0 +1,1550 @@
+{
+  "target": "books-china",
+  "expected_revision": 2,
+  "allow_expansion": true,
+  "version": "owner-chat-audited-chinese-language-revision-2026-09-14",
+  "published_on": "2026-09-14",
+  "allow_pending_metadata": true,
+  "reviewed_exclusions": [
+    {
+      "item_id": 925,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 931,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 936,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 944,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 948,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 950,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 955,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 959,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 960,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 964,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 965,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    },
+    {
+      "item_id": 966,
+      "reason": "Explicitly removed in the owner-supplied audited revision; preserved in previous revision history and not deleted."
+    }
+  ],
+  "notice": "Owner-supplied audited revision; previous revision and source history are preserved, with no personal numerical scores.",
+  "method": "Audited Chinese-language-literature synthesis with entry-level source pointers. The supplied order is retained in both views pending a separately reasoned reading-value order.",
+  "entries": [
+    {
+      "key": "china-revision-001",
+      "item_id": 17,
+      "source_ids": [
+        "CHINA-225",
+        "CHINA-098"
+      ],
+      "standing": "Position 1 in the owner-supplied audited 14 September 2026 Chinese-language revision. Its interlocking domestic, economic, erotic and metaphysical worlds sustain the first position. The poetry and shifting viewpoints make the household both a social totality and a record of lives that exceed its rules. This ranking does not settle the continuation's authorship.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-225, CHINA-098. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-002",
+      "item_id": 878,
+      "source_ids": [
+        "CHINA-200",
+        "CHINA-157"
+      ],
+      "standing": "Position 2 in the owner-supplied audited 14 September 2026 Chinese-language revision. Few works make philosophical doubt so inseparable from literary invention. Transformations, jokes, invented dialogues and unreliable perspectives repeatedly unsettle the reader's categories. Its second position rewards that imaginative achievement as well as its extraordinary afterlife.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-200, CHINA-157. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-003",
+      "item_id": 877,
+      "source_ids": [
+        "CHINA-229",
+        "CHINA-020"
+      ],
+      "standing": "Position 3 in the owner-supplied audited 14 September 2026 Chinese-language revision. A history whose arrangement lets exemplary lives contradict official success. Biography, speech and dramatic encounter create a durable repertoire for later prose and fiction. It remains the leading historical work here, although a literary ranking need not place it above Zhuangzi.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-229, CHINA-020. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-004",
+      "item_id": 897,
+      "source_ids": [
+        "CHINA-178",
+        "CHINA-206",
+        "CHINA-137"
+      ],
+      "standing": "Position 4 in the owner-supplied audited 14 September 2026 Chinese-language revision. Technical compression, intimate observation and historical catastrophe are held together without reducing people to examples. Raising Du Fu corrects the old list's treatment of poetry as supplementary to novels and philosophy. The slot covers his poetic corpus, not one modern selection.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-178, CHINA-206, CHINA-137. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-005",
+      "item_id": 6534,
+      "source_ids": [
+        "CHINA-230",
+        "CHINA-149"
+      ],
+      "standing": "Position 5 in the owner-supplied audited 14 September 2026 Chinese-language revision. Song, ritual, labor, courtship and political complaint share a remarkably durable language of repetition and indirection. Its collective and internally varied character is a strength. Its importance is literary as well as educational and canonical.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-230, CHINA-149. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-006",
+      "item_id": 879,
+      "source_ids": [
+        "CHINA-195",
+        "CHINA-217"
+      ],
+      "standing": "Position 6 in the owner-supplied audited 14 September 2026 Chinese-language revision. Brief exchanges make character, hesitation and judgment visible without a systematic treatise. Its immense influence supports a high place, but literary comparison moves it slightly below the strongest poetry. It is not treated as a book personally written by Confucius.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-195, CHINA-217. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-007",
+      "item_id": 39,
+      "source_ids": [
+        "CHINA-196"
+      ],
+      "standing": "Position 7 in the owner-supplied audited 14 September 2026 Chinese-language revision. The terse reversals invite incompatible readings while preserving striking verbal force. Its power is partly the ability to condense political and personal questions into memorable language. Neither a literal sixth-century authorship nor a single original sequence is assumed.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-196. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-008",
+      "item_id": 881,
+      "source_ids": [
+        "CHINA-212",
+        "CHINA-098"
+      ],
+      "standing": "Position 8 in the owner-supplied audited 14 September 2026 Chinese-language revision. Comic appetite and spiritual discipline continually interrupt one another. The book's episodic variety, verbal play and recurring tests produce a narrative engine of exceptional adaptability. Its vast popular afterlife reinforces rather than substitutes for the literary case.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-212, CHINA-098. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-009",
+      "item_id": 898,
+      "source_ids": [
+        "CHINA-213",
+        "CHINA-137",
+        "CHINA-149"
+      ],
+      "standing": "Position 9 in the owner-supplied audited 14 September 2026 Chinese-language revision. Exhilarating shifts of scale turn drinking, friendship, exile and mountain travel into feats of imaginative freedom. The rise recognizes a foundational poetic achievement in its own form, rather than measuring poems against the architecture of long fiction.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-213, CHINA-137, CHINA-149. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-010",
+      "item_id": 884,
+      "source_ids": [
+        "CHINA-220",
+        "CHINA-031"
+      ],
+      "standing": "Position 10 in the owner-supplied audited 14 September 2026 Chinese-language revision. Its small forms expose how language, spectatorship and ordinary social habits sustain violence. The collection's variety and reflexive preface make it more than a sequence of reformist messages. It remains the highest-ranked modern collection, with its components counted only once.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-220, CHINA-031. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-011",
+      "item_id": 886,
+      "source_ids": [
+        "CHINA-211",
+        "CHINA-098"
+      ],
+      "standing": "Position 11 in the owner-supplied audited 14 September 2026 Chinese-language revision. The accumulation of transactions, meals, gifts, gossip and desire makes everyday life structurally consequential. Its unsentimental scrutiny of household power gives it exceptional force. Different recensions are acknowledged without crediting a securely identified author.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-211, CHINA-098. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-012",
+      "item_id": 885,
+      "source_ids": [
+        "CHINA-204",
+        "CHINA-149"
+      ],
+      "standing": "Position 12 in the owner-supplied audited 14 September 2026 Chinese-language revision. Mythic journeys, lament and ritual voices extend the imaginative range of early poetry. The whole collection is ranked, rather than assigning all its contents to Qu Yuan or giving the Li Sao a second overlapping slot.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-204, CHINA-149. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-013",
+      "item_id": 887,
+      "source_ids": [
+        "CHINA-244",
+        "CHINA-010"
+      ],
+      "standing": "Position 13 in the owner-supplied audited 14 September 2026 Chinese-language revision. Scenes of deliberation, diplomatic speech and disastrous misreading give history dramatic density. It belongs near the top for narrative craft and characterization, not simply because it comments on an accepted classic. Traditional attribution is distinguished from established authorship.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-244, CHINA-010. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-014",
+      "item_id": 882,
+      "source_ids": [
+        "CHINA-235",
+        "CHINA-026",
+        "CHINA-098"
+      ],
+      "standing": "Position 14 in the owner-supplied audited 14 September 2026 Chinese-language revision. A formidable design of alliances, competing loyalties and strategic reversals. Its mythmaking remains artistically potent even when characters become exemplary types. The revised position recognizes the greater psychological and stylistic range of several works now above it.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-235, CHINA-026, CHINA-098. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-015",
+      "item_id": 883,
+      "source_ids": [
+        "CHINA-237",
+        "CHINA-026",
+        "CHINA-098"
+      ],
+      "standing": "Position 15 in the owner-supplied audited 14 September 2026 Chinese-language revision. Individual episodes combine kinetic storytelling with an unstable ethics of brotherhood and violence. The ranking covers the work across its principal textual traditions, not a fictitious single original containing all the seventy-, hundred- and hundred-twenty-chapter versions.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-237, CHINA-026, CHINA-098. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-016",
+      "item_id": 890,
+      "source_ids": [
+        "CHINA-215",
+        "CHINA-026",
+        "CHINA-098"
+      ],
+      "standing": "Position 16 in the owner-supplied audited 14 September 2026 Chinese-language revision. Foxes, ghosts and transformations make desire and social judgment unfamiliar again. The collection's concision and tonal changes matter as much as its supernatural repertoire. Its composition and later print history should not be collapsed into one publication date.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-215, CHINA-026, CHINA-098. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-017",
+      "item_id": 891,
+      "source_ids": [
+        "CHINA-226",
+        "CHINA-098"
+      ],
+      "standing": "Position 17 in the owner-supplied audited 14 September 2026 Chinese-language revision. Its relay of characters exposes institutions through ordinary vanity, embarrassment and compromise. The lack of a single conquering protagonist is a formal advantage: the social system persists as its representatives change. It remains one of the strongest sustained satires.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-226, CHINA-098. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-018",
+      "item_id": 907,
+      "source_ids": [
+        "CHINA-187",
+        "CHINA-031"
+      ],
+      "standing": "Position 18 in the owner-supplied audited 14 September 2026 Chinese-language revision. Meticulous surfaces carry emotional coercion, self-deception and unequal bargains. Moving the collection upward recognizes a prose achievement that is easy to understate in histories organized around public movements. This slot is the Chinese collection, not a later English selection with different contents.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-187, CHINA-031. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-019",
+      "item_id": 952,
+      "source_ids": [
+        "CHINA-234",
+        "CHINA-133"
+      ],
+      "standing": "Position 19 in the owner-supplied audited 14 September 2026 Chinese-language revision. Plainness becomes a highly controlled way of thinking about work, withdrawal, mortality and companionship. The elevation recognizes the creative difficulty and enormous afterlife of that apparent simplicity. The corpus includes the prose as well as the poems.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-234, CHINA-133. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-020",
+      "item_id": 904,
+      "source_ids": [
+        "CHINA-190",
+        "CHINA-031"
+      ],
+      "standing": "Position 20 in the owner-supplied audited 14 September 2026 Chinese-language revision. The spare narrative joins landscape, custom and unspoken feeling without resolving their contradictions. Its apparent idyll remains vulnerable to misunderstanding and loss. A higher position reflects its stylistic concentration and its resistance to schematic social explanation.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-190, CHINA-031. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-021",
+      "item_id": 895,
+      "source_ids": [
+        "CHINA-223"
+      ],
+      "standing": "Position 21 in the owner-supplied audited 14 September 2026 Chinese-language revision. Desire crosses the boundaries of dream, death and social authorization through theatrical song and action. Its position rewards a work written for performance as well as reading. The preface itself makes imagination a challenge to restrictive accounts of what is possible.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-223. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-022",
+      "item_id": 888,
+      "source_ids": [
+        "CHINA-197"
+      ],
+      "standing": "Position 22 in the owner-supplied audited 14 September 2026 Chinese-language revision. Analogies, sharply staged encounters and counterquestions give ethical reasoning dramatic life. It stays high for the force of its argumentative prose, but its civilizational authority no longer automatically places it above major poetry, fiction and drama.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-197. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-023",
+      "item_id": 905,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-097"
+      ],
+      "standing": "Position 23 in the owner-supplied audited 14 September 2026 Chinese-language revision. Metaphor and social observation repeatedly undermine the characters' claims to sophistication. The novel's intellectual comedy is inseparable from insecurity, marriage and compromised employment. It moves upward for the sustained inventiveness of its sentences and its refusal of an easy superior standpoint.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-097. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-024",
+      "item_id": 953,
+      "source_ids": [
+        "CHINA-233",
+        "CHINA-136"
+      ],
+      "standing": "Position 24 in the owner-supplied audited 14 September 2026 Chinese-language revision. An extraordinary range of tones turns exile, friendship, practical affairs and landscape into occasions for reflection. His cross-genre achievement earns a much higher place. The slot encompasses poetry, ci and prose, even though individual collected editions package them differently.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-233, CHINA-136. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-025",
+      "item_id": 928,
+      "source_ids": [
+        "CHINA-162",
+        "CHINA-031"
+      ],
+      "standing": "Position 25 in the owner-supplied audited 14 September 2026 Chinese-language revision. Repeated encounters with lost worlds become a formally varied examination of memory and displacement. The collection combines modernist technique with inherited idioms without treating either as decorative. Its rise makes Taiwan central to the modern canon represented here.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-162, CHINA-031. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-026",
+      "item_id": 880,
+      "source_ids": [
+        "CHINA-155"
+      ],
+      "standing": "Position 26 in the owner-supplied audited 14 September 2026 Chinese-language revision. Cryptic images and patterned transformation have generated exceptional interpretive productivity. The substantial fall distinguishes this civilizational importance from sustained literary realization. This is the received classic as a textual complex, not Zhu Xi's later commentary as a separate hidden addition.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-155. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-027",
+      "item_id": 906,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-034"
+      ],
+      "standing": "Position 27 in the owner-supplied audited 14 September 2026 Chinese-language revision. The body at work anchors a devastating study of aspiration, exploitation and social isolation. Its characterization and urban speech justify a stronger position than generic labels such as social realism convey. The original Chinese narrative is the unit, not an altered early translation.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-028",
+      "item_id": 910,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-034"
+      ],
+      "standing": "Position 28 in the owner-supplied audited 14 September 2026 Chinese-language revision. A child's perspective makes ordinary customs at once familiar and terrifying. Its episodic, atmospheric construction challenges conventional ideas of a well-made novel. The higher rank recognizes formal originality as well as the exposure of habitual cruelty.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-029",
+      "item_id": 896,
+      "source_ids": [
+        "CHINA-240"
+      ],
+      "standing": "Position 29 in the owner-supplied audited 14 September 2026 Chinese-language revision. Verbal dexterity and theatrical maneuvering make romantic desire a practical contest with authority. Its comic intermediaries matter as much as its lovers. This is Wang Shifu's dramatic cycle, not every earlier or later work called a Western Chamber.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-240. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-030",
+      "item_id": 957,
+      "source_ids": [
+        "CHINA-241",
+        "CHINA-049"
+      ],
+      "standing": "Position 30 in the owner-supplied audited 14 September 2026 Chinese-language revision. Dream logic and unresolved contradiction make this a crucial alternative to Lu Xun's public image as a straightforward social critic. The sharp rise recognizes the collection's experimental language and inward pressure. It does not duplicate the stories in Call to Arms.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-241, CHINA-049. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-031",
+      "item_id": 951,
+      "source_ids": [
+        "CHINA-178"
+      ],
+      "standing": "Position 31 in the owner-supplied audited 14 September 2026 Chinese-language revision. Musical precision and emotional shifts compress intimate experience and historical rupture. Her importance should not depend on reducing every lyric to autobiography. A much higher place recognizes a distinctive formal intelligence and the difficulties of transmission that shape what survives.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-178. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-032",
+      "item_id": 893,
+      "source_ids": [
+        "CHINA-238",
+        "CHINA-021"
+      ],
+      "standing": "Position 32 in the owner-supplied audited 14 September 2026 Chinese-language revision. A work in which critical analysis is itself a disciplined literary performance. Its account of genres, composition and verbal pattern merits inclusion alongside imaginative writing. The lower position reflects the larger space now given to primary poetic achievements.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-238, CHINA-021. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-033",
+      "item_id": 894,
+      "source_ids": [
+        "CHINA-049",
+        "CHINA-097"
+      ],
+      "standing": "Position 33 in the owner-supplied audited 14 September 2026 Chinese-language revision. The economical retrospective voice makes endurance both moving and morally unsettled. Its emotional reach remains important, but very large readership does not settle comparison with the strongest classical and modernist works. It remains the highest-ranked recent mainland novel here.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-049, CHINA-097. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-034",
+      "item_id": 892,
+      "source_ids": [
+        "CHINA-020",
+        "CHINA-021"
+      ],
+      "standing": "Position 34 in the owner-supplied audited 14 September 2026 Chinese-language revision. Selection, juxtaposition and narrative pacing turn a vast historical record into an argument about action and consequence. It retains a substantial place as crafted historical prose. Governance influence alone, however, no longer secures a position in the first twenty.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-020, CHINA-021. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-035",
+      "item_id": 903,
+      "source_ids": [
+        "CHINA-239",
+        "CHINA-149"
+      ],
+      "standing": "Position 35 in the owner-supplied audited 14 September 2026 Chinese-language revision. Unlike a later introductory sampler, this collection was constitutive of literary education and generic understanding. Its editorial architecture and preservation of difficult, influential forms justify a separate slot despite overlap with individual writers elsewhere in the ranking.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-239, CHINA-149. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-036",
+      "item_id": 913,
+      "source_ids": [
+        "CHINA-231"
+      ],
+      "standing": "Position 36 in the owner-supplied audited 14 September 2026 Chinese-language revision. A gesture, reply or social misstep can define an entire personality. Its compressed scenes helped make cultivated eccentricity and conversational style literary subjects. The rise rewards this small-scale narrative artistry without treating its anecdotes as transparent historical documentation.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-231. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-037",
+      "item_id": 954,
+      "source_ids": [
+        "CHINA-178",
+        "CHINA-137"
+      ],
+      "standing": "Position 37 in the owner-supplied audited 14 September 2026 Chinese-language revision. Landscape, sound and absence are organized with exceptional economy. The elevation rewards a distinctive poetic practice rather than a generic association with serene nature or Buddhism. Individual editions may include prose, but this slot is centered on the poetry.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-178, CHINA-137. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-038",
+      "item_id": 956,
+      "source_ids": [
+        "CHINA-236",
+        "CHINA-031"
+      ],
+      "standing": "Position 38 in the owner-supplied audited 14 September 2026 Chinese-language revision. Disillusionment is rendered through voices and relationships that resist an easy diagnosis. Its concentrated social and psychological observation warrants a major rise. The collection supplies a different literary argument from both Call to Arms and Wild Grass.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-236, CHINA-031. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-039",
+      "item_id": 900,
+      "source_ids": [
+        "CHINA-199"
+      ],
+      "standing": "Position 39 in the owner-supplied audited 14 September 2026 Chinese-language revision. The sustained essay becomes a vehicle for ambitious reasoning about learning, language, ritual and human formation. Its place rewards argumentative architecture, not endorsement of its political prescriptions. Some chapters have more complicated authorship than the author's name alone suggests.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-199. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-040",
+      "item_id": 899,
+      "source_ids": [
+        "CHINA-224",
+        "CHINA-020"
+      ],
+      "standing": "Position 40 in the owner-supplied audited 14 September 2026 Chinese-language revision. A life story and striking exchanges make spiritual authority a literary contest over experience and language. Its inclusion recognizes a Chinese-composed Buddhist classic. It is not a verbatim autobiography or a securely dated book personally written by Huineng.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-224, CHINA-020. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-041",
+      "item_id": 914,
+      "source_ids": [
+        "CHINA-029",
+        "CHINA-034"
+      ],
+      "standing": "Position 41 in the owner-supplied audited 14 September 2026 Chinese-language revision. A recurring public space lets historical change appear through work, conversation and disappearing livelihoods. Its compact social design gives it a strength different from an expansive family saga. It is explicitly classified as a play, correcting a misleading supplied web list.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-029, CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-042",
+      "item_id": 912,
+      "source_ids": [
+        "CHINA-232"
+      ],
+      "standing": "Position 42 in the owner-supplied audited 14 September 2026 Chinese-language revision. The attention to shared pleasures and domestic improvisation gives intimacy an unusual density. The title's promise of six parts must not disguise the transmission problem: this ranking does not silently incorporate spurious later continuations as Shen Fu's work.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-232. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-043",
+      "item_id": 911,
+      "source_ids": [
+        "CHINA-034"
+      ],
+      "standing": "Position 43 in the owner-supplied audited 14 September 2026 Chinese-language revision. A confined household turns unequal power into escalating dramatic pressure. Its ambitious adaptation of modern theatrical form and its lasting performability justify the place, while its melodramatic machinery keeps it below the most flexible narratives in the upper group.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-044",
+      "item_id": 909,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-034"
+      ],
+      "standing": "Position 44 in the owner-supplied audited 14 September 2026 Chinese-language revision. Generational conflict becomes a vivid drama of constrained lives and uneven courage. Its influence is inseparable from its direct emotional address. The original novel is ranked alone, without silently absorbing Spring and Autumn from the larger trilogy.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-045",
+      "item_id": 917,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-097"
+      ],
+      "standing": "Position 45 in the owner-supplied audited 14 September 2026 Chinese-language revision. Unstable family memory, bodily excess and violence disrupt solemn historical narration. The book earns its place through narrative energy and perspective, not by converting Mo Yan's Nobel Prize into a work-specific award. The 1987 composite book is the unit.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-097. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-046",
+      "item_id": 6522,
+      "source_ids": [
+        "CHINA-203",
+        "CHINA-149"
+      ],
+      "standing": "Position 46 in the owner-supplied audited 14 September 2026 Chinese-language revision. Public address, extended narrative and apparently accessible diction are major poetic accomplishments, not evidence of simplicity. Adding Bai Juyi corrects a conspicuous omission from the classical poetry field and makes room for a different kind of poetic ambition.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-203, CHINA-149. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-047",
+      "item_id": 6523,
+      "source_ids": [
+        "CHINA-214",
+        "CHINA-149"
+      ],
+      "standing": "Position 47 in the owner-supplied audited 14 September 2026 Chinese-language revision. Dense allusion and uncertain situations make the relation between verbal beauty and knowledge unusually difficult. The addition recognizes a central alternative to the transparency often associated with lyric poetry. Obscurity is assessed as an artistic resource, not automatic profundity.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-214, CHINA-149. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-048",
+      "item_id": 908,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-034"
+      ],
+      "standing": "Position 48 in the owner-supplied audited 14 September 2026 Chinese-language revision. Finance, industry, politics and domestic life become interdependent narrative systems. It stays as a major attempt to represent capitalist modernity at scale. The lower placement reflects the revised emphasis on stylistic concentration and less programmatic characterization elsewhere.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-049",
+      "item_id": 889,
+      "source_ids": [
+        "CHINA-202"
+      ],
+      "standing": "Position 49 in the owner-supplied audited 14 September 2026 Chinese-language revision. Its economical argument makes circumstances, uncertainty and the costs of action central. The substantial demotion separates worldwide strategic influence from literary achievement. It still merits a place for verbal compression and conceptual force, not for presumed practical infallibility.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-202. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-050",
+      "item_id": 6535,
+      "source_ids": [
+        "CHINA-216"
+      ],
+      "standing": "Position 50 in the owner-supplied audited 14 September 2026 Chinese-language revision. Narrative examples and reflections on embodied social life exceed a mere manual of ceremony. It remains important as a varied prose collection. The Great Learning and Doctrine of the Mean are not counted again as additional ranked books.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-216. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-051",
+      "item_id": 901,
+      "source_ids": [
+        "CHINA-198",
+        "CHINA-219"
+      ],
+      "standing": "Position 51 in the owner-supplied audited 14 September 2026 Chinese-language revision. Its unusual combination of sustained disputation and practical inquiry broadens the philosophical prose represented here. The composite work matters more than an idealized single author. Its place is lower than its intellectual importance alone might suggest under a literary-first comparison.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-198, CHINA-219. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-052",
+      "item_id": 902,
+      "source_ids": [
+        "CHINA-208"
+      ],
+      "standing": "Position 52 in the owner-supplied audited 14 September 2026 Chinese-language revision. Anecdotes and paradoxes give the analysis of power a sharp literary edge. The ranking recognizes rhetorical accomplishment while keeping it distinct from agreement with the political outlook. Its complicated textual authorship is retained explicitly.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-208. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-053",
+      "item_id": 6524,
+      "source_ids": [
+        "CHINA-173",
+        "CHINA-140"
+      ],
+      "standing": "Position 53 in the owner-supplied audited 14 September 2026 Chinese-language revision. The unstable narration connects artistic aspiration, exhaustion and commercial writing. Adding it gives Hong Kong modernism an independent place in the list, supported by its formal experimentation rather than by treating the city as an appendage of mainland literary history.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-173, CHINA-140. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-054",
+      "item_id": 6525,
+      "source_ids": [
+        "CHINA-176",
+        "CHINA-129",
+        "CHINA-140"
+      ],
+      "standing": "Position 54 in the owner-supplied audited 14 September 2026 Chinese-language revision. Its seemingly childlike voice makes everyday urban experience a site of formal invention. The addition recognizes both its influence and its refusal of a simple collective identity. The serial and book dates are distinguished using the Hong Kong literary archive.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-176, CHINA-129, CHINA-140. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-055",
+      "item_id": 921,
+      "source_ids": [
+        "CHINA-161",
+        "CHINA-031"
+      ],
+      "standing": "Position 55 in the owner-supplied audited 14 September 2026 Chinese-language revision. Food, bodily survival and skilled play carry a reflection on freedom without requiring a heroic political plot. The novella is the ranked unit, not every later collection bearing its title and not Xi Chuan's unrelated poem of the same name.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-161, CHINA-031. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-056",
+      "item_id": 919,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-034"
+      ],
+      "standing": "Position 56 in the owner-supplied audited 14 September 2026 Chinese-language revision. The interaction of lineage, desire and political upheaval gives a local world considerable scale. It remains a major late-century achievement, though its placement does not simply inherit the authority of prizes or a national historical narrative.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-057",
+      "item_id": 6526,
+      "source_ids": [
+        "CHINA-175",
+        "CHINA-031"
+      ],
+      "standing": "Position 57 in the owner-supplied audited 14 September 2026 Chinese-language revision. The family is made strange through fractured arrangement and painstaking verbal invention. Its addition corrects an absence particularly visible when Taiwan's modernist writing is considered alongside the mainland family novels already prominent in the baseline.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-175, CHINA-031. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-058",
+      "item_id": 958,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-034"
+      ],
+      "standing": "Position 58 in the owner-supplied audited 14 September 2026 Chinese-language revision. Ordinary vulnerability replaces the earlier novel's more declarative generational conflict. The constrained household and working life produce an austere emotional force. Its large rise recognizes the mature novel's artistic concentration without removing Family's distinct historical achievement.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-059",
+      "item_id": 922,
+      "source_ids": [
+        "CHINA-169"
+      ],
+      "standing": "Position 59 in the owner-supplied audited 14 September 2026 Chinese-language revision. Shifts in pronoun, storytelling and observation frustrate the expectation of a stable traveler and a unified national landscape. It stays for this formal inquiry. The author's Nobel recognition does not establish the exact literary standing of this particular book.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-169. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-060",
+      "item_id": 930,
+      "source_ids": [
+        "CHINA-170"
+      ],
+      "standing": "Position 60 in the owner-supplied audited 14 September 2026 Chinese-language revision. The entry form makes language itself organize social memory, challenging a single causal plot. The work's linguistic curiosity and distributed structure keep it in the central modern group. A contradictory introductory date in one critical page is not reproduced uncritically.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-170. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-061",
+      "item_id": 924,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-035"
+      ],
+      "standing": "Position 61 in the owner-supplied audited 14 September 2026 Chinese-language revision. A woman's life and the rhythms of urban interiors become ways of narrating historical duration. Its pacing and attention to everyday material culture sustain its place. The title must not be confused with Bai Juyi's earlier poem.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-035. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-062",
+      "item_id": 6527,
+      "source_ids": [
+        "CHINA-242"
+      ],
+      "standing": "Position 62 in the owner-supplied audited 14 September 2026 Chinese-language revision. Objects, performances, foods and vanished pleasures acquire force through finely measured recollection. The addition strengthens literary nonfiction with a work whose episodic form is inseparable from historical loss. Its composition and eventual publication are distinguished.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-242. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-063",
+      "item_id": 937,
+      "source_ids": [
+        "CHINA-222"
+      ],
+      "standing": "Position 63 in the owner-supplied audited 14 September 2026 Chinese-language revision. A love story and the collapse of a political world are designed to illuminate and disturb one another. Its theatrical scale and historical imagination justify a modest rise. It belongs among the major dramas without being reduced to a historical source.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-222. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-064",
+      "item_id": 938,
+      "source_ids": [
+        "CHINA-207"
+      ],
+      "standing": "Position 64 in the owner-supplied audited 14 September 2026 Chinese-language revision. Lyric spectacle carries the tension between sovereign pleasure and public disaster. Its durable dramatic design earns the place beside, but distinct from, The Peach Blossom Fan. The comparison concerns works for performance as well as their textual beauty.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-207. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-065",
+      "item_id": 939,
+      "source_ids": [
+        "CHINA-205"
+      ],
+      "standing": "Position 65 in the owner-supplied audited 14 September 2026 Chinese-language revision. Coercion, debt and judicial violence become an intensely staged demand that injustice be recognized. The play's directness and rhythmic escalation give it continuing force. Its supernatural response is assessed as theatrical form, not as evidence about historical legal practice.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-205. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-066",
+      "item_id": 940,
+      "source_ids": [
+        "CHINA-221"
+      ],
+      "standing": "Position 66 in the owner-supplied audited 14 September 2026 Chinese-language revision. The extreme demands of loyalty and revenge make a powerful, troubling theatrical construction. It remains for dramatic concentration and its long interpretive afterlife. This slot covers the Chinese play, not its later European adaptations.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-221. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-067",
+      "item_id": 941,
+      "source_ids": [
+        "CHINA-031"
+      ],
+      "standing": "Position 67 in the owner-supplied audited 14 September 2026 Chinese-language revision. Observation, storytelling and political criticism meet in a restless itinerary. It serves as an important bridge within the ranking between late imperial narrative and twentieth-century prose. Its unfinished condition is acknowledged rather than disguised by a modern edition's packaging.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-068",
+      "item_id": 942,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-020"
+      ],
+      "standing": "Position 68 in the owner-supplied audited 14 September 2026 Chinese-language revision. Social knowledge emerges through speech, transactions and the partial perspectives of participants. Its linguistic specificity and refusal of a simple moral vantage justify retaining it. The Wu dialogue is part of the literary achievement, not an obstacle to be normalized away.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-020. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-069",
+      "item_id": 949,
+      "source_ids": [
+        "CHINA-209"
+      ],
+      "standing": "Position 69 in the owner-supplied audited 14 September 2026 Chinese-language revision. The book joins institutional description with sharply shaped lives and documents. A rise recognizes the literary work performed by historical arrangement. Authorship is collaborative across generations, so the familiar shorthand of Ban Gu alone is inadequate.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-209. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-070",
+      "item_id": 6536,
+      "source_ids": [
+        "CHINA-227",
+        "CHINA-131"
+      ],
+      "standing": "Position 70 in the owner-supplied audited 14 September 2026 Chinese-language revision. The pressure of public utterance shaped a long tradition of political prose. It survives in the ranking for that literary and historical depth, with explicit caution: the received collection is not a uniformly ancient book and not a modern documentary transcript.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-227, CHINA-131. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-071",
+      "item_id": 945,
+      "source_ids": [
+        "CHINA-228"
+      ],
+      "standing": "Position 71 in the owner-supplied audited 14 September 2026 Chinese-language revision. The catalogue form generates a world at once systematic and impossible. Its extraordinary repertoire of places and beings makes it a literary resource far beyond its apparent classificatory purpose. No single author or exact composition year is asserted.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-228. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-072",
+      "item_id": 946,
+      "source_ids": [
+        "CHINA-243",
+        "CHINA-010"
+      ],
+      "standing": "Position 72 in the owner-supplied audited 14 September 2026 Chinese-language revision. Speech becomes action in scenes of bargaining, calculation and verbal risk. The collection's narrative rhetoric justifies its place even when the historicity of individual encounters is uncertain. It is a compilation rather than a book written by one strategist.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-243, CHINA-010. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-073",
+      "item_id": 947,
+      "source_ids": [
+        "CHINA-210"
+      ],
+      "standing": "Position 73 in the owner-supplied audited 14 September 2026 Chinese-language revision. Myth, analogy and extended exposition connect cosmology with practical questions of life and government. Its verbal and conceptual variety earns retention. The patron is not mistaken for the sole author, and intellectual comprehensiveness is not treated as an automatic top-tier literary claim.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-210. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-074",
+      "item_id": 6528,
+      "source_ids": [
+        "CHINA-172",
+        "CHINA-031",
+        "CHINA-140"
+      ],
+      "standing": "Position 74 in the owner-supplied audited 14 September 2026 Chinese-language revision. Humor and humiliation reveal people negotiating work, poverty and unequal modernization. The addition gives Taiwan's local realist tradition a place beside its modernists. The original Chinese collection is distinguished from later translated selections named after the title story.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-172, CHINA-031, CHINA-140. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-075",
+      "item_id": 6529,
+      "source_ids": [
+        "CHINA-189",
+        "CHINA-184"
+      ],
+      "standing": "Position 75 in the owner-supplied audited 14 September 2026 Chinese-language revision. Compression, dislocation and resistant speech make this a necessary counterweight to a modern section dominated by novels. The entry is the Chinese selected collection recorded for 1986, not every later English volume titled Selected Poems or the author's entire prose output.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-189, CHINA-184. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-076",
+      "item_id": 6530,
+      "source_ids": [
+        "CHINA-154",
+        "CHINA-184"
+      ],
+      "standing": "Position 76 in the owner-supplied audited 14 September 2026 Chinese-language revision. Precise images, reflective movement and encounters with classical and international writing enlarge modern lyric possibilities. This addition uses the same openly declared corpus convention applied to classical poets. It does not pretend that an English retrospective anthology is the original Chinese book.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-154, CHINA-184. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-077",
+      "item_id": 916,
+      "source_ids": [
+        "CHINA-191",
+        "CHINA-179",
+        "CHINA-201"
+      ],
+      "standing": "Position 77 in the owner-supplied audited 14 September 2026 Chinese-language revision. Erotic and logical irreverence expose the instability of official explanations. It stays for its distinctive comic intelligence, but drops as the revision reduces the influence of cult reputation. The title novella is the unit; later same-title collections are not silently absorbed.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-191, CHINA-179, CHINA-201. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-078",
+      "item_id": 920,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-034"
+      ],
+      "standing": "Position 78 in the owner-supplied audited 14 September 2026 Chinese-language revision. A large narrative of apprenticeship, loyalty and contested obligation sustains popular form at considerable scale. Its place recognizes literary accomplishment within genre. It is one novel across its revisions, not the entire Condor trilogy or the author's complete oeuvre.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-079",
+      "item_id": 923,
+      "source_ids": [
+        "CHINA-047",
+        "CHINA-049"
+      ],
+      "standing": "Position 79 in the owner-supplied audited 14 September 2026 Chinese-language revision. The first novel couples historical trauma with a striking expansion of intellectual scale. It remains because conceptual construction can be a literary achievement, while the lower rank registers comparatively schematic characterization. Neither the trilogy's reader score nor its later volumes is assigned to this single book.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-047, CHINA-049. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-080",
+      "item_id": 926,
+      "source_ids": [
+        "CHINA-159"
+      ],
+      "standing": "Position 80 in the owner-supplied audited 14 September 2026 Chinese-language revision. Repeated animal lives make historical change bodily, comic and estranging. The book retains a place for a formal project distinct from Red Sorghum. Its lower position reflects the stronger comparative field, not a claim that an author can deserve only one slot.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-159, CHINA-102. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-081",
+      "item_id": 927,
+      "source_ids": [
+        "CHINA-245"
+      ],
+      "standing": "Position 81 in the owner-supplied audited 14 September 2026 Chinese-language revision. Repetition and bodily exchange organize the account of household survival. Its deceptive narrative ease makes the accumulation of obligation and damage effective. It remains beside To Live for a different structural emphasis, though neither commercial success nor shared authorship determines the ordering.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-102. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-082",
+      "item_id": 918,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-034"
+      ],
+      "standing": "Position 82 in the owner-supplied audited 14 September 2026 Chinese-language revision. The sustained attention to work, aspiration and unequal opportunity has substantial narrative and reader significance. It remains an important popular realist achievement. The large fall reflects a literary-first comparison that gives greater weight to formal inventiveness and verbal concentration.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-083",
+      "item_id": 915,
+      "source_ids": [
+        "CHINA-031",
+        "CHINA-034"
+      ],
+      "standing": "Position 83 in the owner-supplied audited 14 September 2026 Chinese-language revision. The extended household lets accommodation, resistance and ordinary endurance appear together. It is retained as a substantial large-scale counterpart to Lao She's more concentrated works. Its breadth is valuable, but the revised list prefers Rickshaw Boy and Teahouse's tighter designs.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031, CHINA-034. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-084",
+      "item_id": 6531,
+      "source_ids": [
+        "CHINA-186"
+      ],
+      "standing": "Position 84 in the owner-supplied audited 14 September 2026 Chinese-language revision. Diaries, shifts of tone and the crocodile figure make identity both intimate and socially estranging. Its addition recognizes an inventive queer literary work, rather than assigning a slot solely for subject representation. The mix of forms is central to the case.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-186. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-085",
+      "item_id": 6532,
+      "source_ids": [
+        "CHINA-160",
+        "CHINA-142",
+        "CHINA-168"
+      ],
+      "standing": "Position 85 in the owner-supplied audited 14 September 2026 Chinese-language revision. Invented archival authority and map-reading turn the city's disappearance into a problem of narration. The addition rewards an unusually coherent experiment across fragments and genres. The author's publication account resolves the conflicting year in a secondary bibliography.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-160, CHINA-142, CHINA-168. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-086",
+      "item_id": 6533,
+      "source_ids": [
+        "CHINA-150",
+        "CHINA-180",
+        "CHINA-182"
+      ],
+      "standing": "Position 86 in the owner-supplied audited 14 September 2026 Chinese-language revision. Its restless narration refuses to make colonial violence and survival into a consoling heroic story. The addition recognizes a difficult formal and ethical achievement. A Han Taiwanese author's representation of Indigenous lives is not labeled Indigenous-language authorship, and the dating discrepancy is retained.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-150, CHINA-180, CHINA-182. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-087",
+      "item_id": 929,
+      "source_ids": [
+        "CHINA-165"
+      ],
+      "standing": "Position 87 in the owner-supplied audited 14 September 2026 Chinese-language revision. The voice of an elderly Evenki narrator organizes ecological change and historical loss. The work remains, with a lower position that takes account of critical disagreement about the novel's standing within the author's oeuvre. Its original language is Chinese, not Evenki.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-165. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-088",
+      "item_id": 968,
+      "source_ids": [
+        "CHINA-177"
+      ],
+      "standing": "Position 88 in the owner-supplied audited 14 September 2026 Chinese-language revision. Competing textual forms unsettle the reader's access to famine, coercion and complicity. The rise favors its ambitious narrative construction over using awards or topical seriousness as substitutes for literary judgment. The title is not the Confucian Four Books.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-177, CHINA-102. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-089",
+      "item_id": 969,
+      "source_ids": [
+        "CHINA-164",
+        "CHINA-181"
+      ],
+      "standing": "Position 89 in the owner-supplied audited 14 September 2026 Chinese-language revision. Conflicting accounts and recursive suspicion make a community's supposed knowledge dissolve. Retention recognizes a radical alternative to realist social explanation. Publication dates follow the MIT bibliography and the specialist account rather than confusing it with the author's 1988 story collection.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-164, CHINA-181. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-090",
+      "item_id": 961,
+      "source_ids": [
+        "CHINA-174"
+      ],
+      "standing": "Position 90 in the owner-supplied audited 14 September 2026 Chinese-language revision. Place, disability, memory and the persistence of other lives become a sustained meditation. The essay earns retention for structure and attention, not for the inspirational framing often imposed on its author. This is the 1991 essay, not a later anthology sharing its title.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-174. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-091",
+      "item_id": 962,
+      "source_ids": [
+        "CHINA-034",
+        "CHINA-020"
+      ],
+      "standing": "Position 91 in the owner-supplied audited 14 September 2026 Chinese-language revision. Restraint, small observations and tonal control make institutional humiliation palpable without a monumental narrative. The title's relation to earlier memoir writing helps explain its literary interest. The six-chapter sequence is ranked as a single book.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-034, CHINA-020. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-092",
+      "item_id": 932,
+      "source_ids": [
+        "CHINA-035"
+      ],
+      "standing": "Position 92 in the owner-supplied audited 14 September 2026 Chinese-language revision. The crowded local world gives cultural and economic change a texture resistant to a single plot line. It remains as the selected Jia Pingwa novel. Its substantial demotion reflects the enlarged comparative field and the reduced reliance on contemporary prize recognition.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-035, CHINA-102. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-093",
+      "item_id": 933,
+      "source_ids": [
+        "CHINA-020",
+        "CHINA-021"
+      ],
+      "standing": "Position 93 in the owner-supplied audited 14 September 2026 Chinese-language revision. Journeys through inverted societies make custom appear contingent, while the book's verbal games stretch the novel's capacities. It stays for this distinctive project, although encyclopedic display and episodic unevenness limit its position in a literary-first ordering.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-020, CHINA-021. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-094",
+      "item_id": 934,
+      "source_ids": [
+        "CHINA-094"
+      ],
+      "standing": "Position 94 in the owner-supplied audited 14 September 2026 Chinese-language revision. The combination of dynastic conflict and divine bureaucracy creates a remarkably productive narrative world. The lower placement separates cultural reach from consistency of characterization and prose. Its familiar attribution is presented as traditional, not certain.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-094. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-095",
+      "item_id": 935,
+      "source_ids": [
+        "CHINA-020",
+        "CHINA-021"
+      ],
+      "standing": "Position 95 in the owner-supplied audited 14 September 2026 Chinese-language revision. The collection makes urban relationships, money, desire and narrative reversal central to vernacular fiction. It remains as a major editorial and literary achievement. This slot covers the first Sanyan collection, not all three collections under one convenient title.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-020, CHINA-021. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-096",
+      "item_id": 943,
+      "source_ids": [
+        "CHINA-031"
+      ],
+      "standing": "Position 96 in the owner-supplied audited 14 September 2026 Chinese-language revision. The circulation of favors and money gives bureaucratic life a compelling serial form. Retention preserves the late-Qing critical novel's distinct place. It falls as several works with greater formal and tonal range enter the list.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-097",
+      "item_id": 963,
+      "source_ids": [
+        "CHINA-031"
+      ],
+      "standing": "Position 97 in the owner-supplied audited 14 September 2026 Chinese-language revision. The limited household world makes rivalry and surveillance increasingly oppressive. Its compressed design earns retention. The ranked text is the novella, not every translation collection titled Raise the Red Lantern and not the film adaptation.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-031. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-098",
+      "item_id": 967,
+      "source_ids": [
+        "CHINA-035"
+      ],
+      "standing": "Position 98 in the owner-supplied audited 14 September 2026 Chinese-language revision. The narrator's uncertain understanding destabilizes an account of power and social transition. Its perspective and regional world justify retention. The language of composition is Chinese; the author's ethnicity does not make it a Tibetan-language book.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-035, CHINA-102. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-099",
+      "item_id": 621,
+      "source_ids": [
+        "CHINA-020",
+        "CHINA-021"
+      ],
+      "standing": "Position 99 in the owner-supplied audited 14 September 2026 Chinese-language revision. It retains a boundary position because lucid conceptual prose has itself shaped how social experience is narrated and understood. Its scholarly importance is larger than its place in a literary ranking. Inclusion does not turn every influential social-science book into a literary candidate.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-020, CHINA-021. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "china-revision-100",
+      "item_id": 620,
+      "source_ids": [
+        "CHINA-049"
+      ],
+      "standing": "Position 100 in the owner-supplied audited 14 September 2026 Chinese-language revision. The accessible voice and episodic intimacy have a durable reader appeal. It remains at the boundary as a significant prose phenomenon, while the large fall reflects stronger competing claims from poetry and formally ambitious fiction. Memoir is not treated as an unmediated factual record.",
+      "reading": "No separate reading-value order was supplied; this view retains the revised report order.",
+      "caveat": "Citations support literary, textual, historical, reception or bibliographic claims rather than an exact consensus rank. Supplied audit leads retained for this entry: CHINA-049. Editions and media are pending.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    }
+  ],
+  "orders": {
+    "standing": {
+      "label": "Audited revised all-time order",
+      "description": "The supplied revised editorial order.",
+      "keys": [
+        "china-revision-001",
+        "china-revision-002",
+        "china-revision-003",
+        "china-revision-004",
+        "china-revision-005",
+        "china-revision-006",
+        "china-revision-007",
+        "china-revision-008",
+        "china-revision-009",
+        "china-revision-010",
+        "china-revision-011",
+        "china-revision-012",
+        "china-revision-013",
+        "china-revision-014",
+        "china-revision-015",
+        "china-revision-016",
+        "china-revision-017",
+        "china-revision-018",
+        "china-revision-019",
+        "china-revision-020",
+        "china-revision-021",
+        "china-revision-022",
+        "china-revision-023",
+        "china-revision-024",
+        "china-revision-025",
+        "china-revision-026",
+        "china-revision-027",
+        "china-revision-028",
+        "china-revision-029",
+        "china-revision-030",
+        "china-revision-031",
+        "china-revision-032",
+        "china-revision-033",
+        "china-revision-034",
+        "china-revision-035",
+        "china-revision-036",
+        "china-revision-037",
+        "china-revision-038",
+        "china-revision-039",
+        "china-revision-040",
+        "china-revision-041",
+        "china-revision-042",
+        "china-revision-043",
+        "china-revision-044",
+        "china-revision-045",
+        "china-revision-046",
+        "china-revision-047",
+        "china-revision-048",
+        "china-revision-049",
+        "china-revision-050",
+        "china-revision-051",
+        "china-revision-052",
+        "china-revision-053",
+        "china-revision-054",
+        "china-revision-055",
+        "china-revision-056",
+        "china-revision-057",
+        "china-revision-058",
+        "china-revision-059",
+        "china-revision-060",
+        "china-revision-061",
+        "china-revision-062",
+        "china-revision-063",
+        "china-revision-064",
+        "china-revision-065",
+        "china-revision-066",
+        "china-revision-067",
+        "china-revision-068",
+        "china-revision-069",
+        "china-revision-070",
+        "china-revision-071",
+        "china-revision-072",
+        "china-revision-073",
+        "china-revision-074",
+        "china-revision-075",
+        "china-revision-076",
+        "china-revision-077",
+        "china-revision-078",
+        "china-revision-079",
+        "china-revision-080",
+        "china-revision-081",
+        "china-revision-082",
+        "china-revision-083",
+        "china-revision-084",
+        "china-revision-085",
+        "china-revision-086",
+        "china-revision-087",
+        "china-revision-088",
+        "china-revision-089",
+        "china-revision-090",
+        "china-revision-091",
+        "china-revision-092",
+        "china-revision-093",
+        "china-revision-094",
+        "china-revision-095",
+        "china-revision-096",
+        "china-revision-097",
+        "china-revision-098",
+        "china-revision-099",
+        "china-revision-100"
+      ]
+    },
+    "reading": {
+      "label": "Revised order (reading-value view pending)",
+      "description": "No separate reading-value order was supplied.",
+      "keys": [
+        "china-revision-001",
+        "china-revision-002",
+        "china-revision-003",
+        "china-revision-004",
+        "china-revision-005",
+        "china-revision-006",
+        "china-revision-007",
+        "china-revision-008",
+        "china-revision-009",
+        "china-revision-010",
+        "china-revision-011",
+        "china-revision-012",
+        "china-revision-013",
+        "china-revision-014",
+        "china-revision-015",
+        "china-revision-016",
+        "china-revision-017",
+        "china-revision-018",
+        "china-revision-019",
+        "china-revision-020",
+        "china-revision-021",
+        "china-revision-022",
+        "china-revision-023",
+        "china-revision-024",
+        "china-revision-025",
+        "china-revision-026",
+        "china-revision-027",
+        "china-revision-028",
+        "china-revision-029",
+        "china-revision-030",
+        "china-revision-031",
+        "china-revision-032",
+        "china-revision-033",
+        "china-revision-034",
+        "china-revision-035",
+        "china-revision-036",
+        "china-revision-037",
+        "china-revision-038",
+        "china-revision-039",
+        "china-revision-040",
+        "china-revision-041",
+        "china-revision-042",
+        "china-revision-043",
+        "china-revision-044",
+        "china-revision-045",
+        "china-revision-046",
+        "china-revision-047",
+        "china-revision-048",
+        "china-revision-049",
+        "china-revision-050",
+        "china-revision-051",
+        "china-revision-052",
+        "china-revision-053",
+        "china-revision-054",
+        "china-revision-055",
+        "china-revision-056",
+        "china-revision-057",
+        "china-revision-058",
+        "china-revision-059",
+        "china-revision-060",
+        "china-revision-061",
+        "china-revision-062",
+        "china-revision-063",
+        "china-revision-064",
+        "china-revision-065",
+        "china-revision-066",
+        "china-revision-067",
+        "china-revision-068",
+        "china-revision-069",
+        "china-revision-070",
+        "china-revision-071",
+        "china-revision-072",
+        "china-revision-073",
+        "china-revision-074",
+        "china-revision-075",
+        "china-revision-076",
+        "china-revision-077",
+        "china-revision-078",
+        "china-revision-079",
+        "china-revision-080",
+        "china-revision-081",
+        "china-revision-082",
+        "china-revision-083",
+        "china-revision-084",
+        "china-revision-085",
+        "china-revision-086",
+        "china-revision-087",
+        "china-revision-088",
+        "china-revision-089",
+        "china-revision-090",
+        "china-revision-091",
+        "china-revision-092",
+        "china-revision-093",
+        "china-revision-094",
+        "china-revision-095",
+        "china-revision-096",
+        "china-revision-097",
+        "china-revision-098",
+        "china-revision-099",
+        "china-revision-100"
+      ]
+    }
+  }
+}

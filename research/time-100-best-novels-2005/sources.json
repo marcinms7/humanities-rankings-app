@@ -1,0 +1,61 @@
+{
+  "target_id": "time-100-best-novels-2005",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-14",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://time.com/archive/6675063/times-100-best-novels/",
+      "title": "TIME · 100 Best Novels (1923–2005) — official publication",
+      "canonical_url": "https://time.com/archive/6675063/times-100-best-novels/",
+      "source_family": "media_editorial_selection",
+      "publisher": "TIME",
+      "target_ids": [
+        "time-100-best-novels-2005"
+      ],
+      "relevance_by_target": {
+        "time-100-best-novels-2005": "The complete 100-title selection by TIME critics Lev Grossman and Richard Lacayo, displayed alphabetically rather than as merit positions."
+      },
+      "evidence_notes": "The complete 100-title selection by TIME critics Lev Grossman and Richard Lacayo, displayed alphabetically rather than as merit positions.",
+      "accessed_at": "2026-09-14",
+      "eligible": true,
+      "limitations": "Restricted to English-language novels published from 1923 through 2005. Alphabetical display order is not a ranking."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "transcription:https://private.michaelhan.net/snapshots/book-list-1.pdf",
+      "title": "Archived PDF of TIME's complete alphabetical list",
+      "canonical_url": "https://private.michaelhan.net/snapshots/book-list-1.pdf",
+      "source_family": "list_transcription",
+      "publisher": "Archived TIME page",
+      "target_ids": [
+        "time-100-best-novels-2005"
+      ],
+      "relevance_by_target": {
+        "time-100-best-novels-2005": "Complete title-level snapshot of TIME's displayed list, used to verify membership and alphabetical presentation."
+      },
+      "evidence_notes": "Complete title-level snapshot of TIME's displayed list, used to verify membership and alphabetical presentation.",
+      "accessed_at": "2026-09-14",
+      "eligible": true,
+      "limitations": "Mirror of the same TIME list; not an independent editorial source."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-03",
+      "underlying_source_id": "transcription:https://de.wikipedia.org/wiki/Time-Auswahl_der_besten_100_englischsprachigen_Romane_von_1923_bis_2005",
+      "title": "German Wikipedia — TIME selection title/author table",
+      "canonical_url": "https://de.wikipedia.org/wiki/Time-Auswahl_der_besten_100_englischsprachigen_Romane_von_1923_bis_2005",
+      "source_family": "list_transcription",
+      "publisher": "Wikipedia contributors",
+      "target_ids": [
+        "time-100-best-novels-2005"
+      ],
+      "relevance_by_target": {
+        "time-100-best-novels-2005": "Complete author/year table cross-checked against the archived official title list."
+      },
+      "evidence_notes": "Complete author/year table cross-checked against the archived official title list.",
+      "accessed_at": "2026-09-14",
+      "eligible": true,
+      "limitations": "Secondary transcription; title spellings and dates were corrected against TIME's own displayed list."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "target_id": "mcevoy-time-novels-goodreads-top-50",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-14",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-video:https://www.youtube.com/watch?v=lB_rjfkMCEw",
+      "title": "The 50 Greatest Modern Novels According to Time Magazine — Reaction",
+      "canonical_url": "https://www.youtube.com/watch?v=lB_rjfkMCEw",
+      "source_family": "video_reader_rating_ranking",
+      "publisher": "Benjamin McEvoy / Hardcore Literature",
+      "target_ids": [
+        "mcevoy-time-novels-goodreads-top-50"
+      ],
+      "relevance_by_target": {
+        "mcevoy-time-novels-goodreads-top-50": "Primary publication: McEvoy explicitly announces each rank from 50 through 1 and explains the Goodreads-reception method."
+      },
+      "evidence_notes": "Primary publication: McEvoy explicitly announces each rank from 50 through 1 and explains the Goodreads-reception method.",
+      "accessed_at": "2026-09-14",
+      "eligible": true,
+      "limitations": "This is a derivative Goodreads-reception ranking, not TIME's original order and not McEvoy's personal or objective literary assessment. The video does not publish the Goodreads snapshot date, values, weighting formula, or a complete bottom 50; Goodreads data can change. The spoken introduction says 1923–2010, but the underlying TIME selection is explicitly 1923–2005. Auto-generated captions were checked against the spoken rank announcements."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "underlying-selection:https://time.com/archive/6675063/times-100-best-novels/",
+      "title": "TIME · 100 Best Novels (1923–2005) — underlying selection",
+      "canonical_url": "https://time.com/archive/6675063/times-100-best-novels/",
+      "source_family": "underlying_editorial_selection",
+      "publisher": "TIME",
+      "target_ids": [
+        "mcevoy-time-novels-goodreads-top-50"
+      ],
+      "relevance_by_target": {
+        "mcevoy-time-novels-goodreads-top-50": "Defines the 100-novel candidate universe and confirms that TIME's own displayed selection is alphabetical rather than ranked."
+      },
+      "evidence_notes": "Defines the 100-novel candidate universe and confirms that TIME's own displayed selection is alphabetical rather than ranked.",
+      "accessed_at": "2026-09-14",
+      "eligible": true,
+      "limitations": "Underlying candidate list only; it does not independently support McEvoy's derivative Goodreads order."
+    }
+  ]
+}

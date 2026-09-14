@@ -1,0 +1,169 @@
+{
+  "summary": "Literature opening batch: Spanish international-poll report, distinct French editorial and reader selections, Chinese curricula, Portuguese review and German canon criticism. Genre and methodology differences preserved.",
+  "next": "Reconsult relevant earlier literary sources individually, then expand regional criticism, independent blogs and reader discussions.",
+  "sources": [
+    {
+      "id": "R049",
+      "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html",
+      "title": "La mejor novela de la historia",
+      "publisher": "El País",
+      "family": "independent_ranking",
+      "language": "es",
+      "note": "Reports an international writers’ poll favouring Don Quixote; also identifies Proust, Rulfo and García Márquez.",
+      "candidates": [
+        "Don Quixote",
+        "In Search of Lost Time",
+        "Pedro Páramo"
+      ],
+      "location": "Poll report, paragraphs 1–4",
+      "limits": "Secondary report of one 2002 poll; mirrors are not independent votes.",
+      "targets": {
+        "A": "Literary candidates and reception methods for cross-subject comparison.",
+        "L": "Fiction selection, interpretation and canon coverage."
+      }
+    },
+    {
+      "id": "R050",
+      "url": "https://www.lemonde.fr/culture/article/2019/06/21/les-100-romans-qui-ont-le-plus-enthousiasme-le-monde-depuis-1944_5479594_3246.html",
+      "title": "Les cent romans qui ont le plus enthousiasmé Le Monde depuis 1944",
+      "publisher": "Le Monde",
+      "family": "editorial_selection",
+      "language": "fr",
+      "note": "Archive-based selection acknowledges omissions and changing coverage. Includes Perec, Koestler and Agee’s documentary writing.",
+      "candidates": [
+        "Life A User's Manual",
+        "Darkness at Noon",
+        "Let Us Now Praise Famous Men"
+      ],
+      "location": "Methodology and first decade",
+      "limits": "Chronological selection, not merit ordering; mixed forms; related announcement counted together.",
+      "targets": {
+        "A": "Literary candidates and reception methods for cross-subject comparison.",
+        "L": "Fiction selection, interpretation and canon coverage.",
+        "N": "Agee supplies documentary nonfiction despite the list’s novels label."
+      }
+    },
+    {
+      "id": "R051",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2019/12/27/de-harry-potter-a-voyage-au-bout-de-la-nuit-les-101-romans-preferes-des-lecteurs-du-monde_6024208_4355770.html",
+      "title": "Les 101 romans préférés des lecteurs du Monde",
+      "publisher": "Le Monde",
+      "family": "reader_poll",
+      "language": "fr",
+      "note": "26,000 respondents chose up to five books; only seventeen titles overlap the critics’ selection. French availability constrains nominations.",
+      "candidates": [
+        "Reader/critic disagreement",
+        "Harry Potter"
+      ],
+      "location": "Accessible introduction and methodology",
+      "limits": "Interactive complete ordering not inspected; self-selected newspaper readership.",
+      "targets": {
+        "A": "Literary candidates and reception methods for cross-subject comparison.",
+        "L": "Fiction selection, interpretation and canon coverage."
+      }
+    },
+    {
+      "id": "R052",
+      "url": "https://gecc.fudan.edu.cn/xdwx/Data/List/jc",
+      "title": "中国现当代文学史：教材",
+      "publisher": "Fudan University",
+      "family": "university_reading_list",
+      "language": "zh",
+      "note": "Textbook descriptions connect literary modernization with close readings spanning Xiao Hong, Lao She, Shen Congwen and Eileen Chang; prose, drama and poetry coexist.",
+      "candidates": [
+        "Border Town",
+        "Rickshaw Boy",
+        "Field of Life and Death",
+        "Love in a Fallen City",
+        "Thirty Years of Modern Chinese Literature"
+      ],
+      "location": "Textbook descriptions",
+      "limits": "Course selection not ranking; individual stories, plays and poetry require separate eligibility decisions.",
+      "targets": {
+        "A": "Literary candidates and reception methods for cross-subject comparison.",
+        "L": "Fiction selection, interpretation and canon coverage.",
+        "N": "Named literary-history textbooks add criticism candidates."
+      }
+    },
+    {
+      "id": "R053",
+      "url": "https://www.lib.pku.edu.cn/portal/cn/fw/ydtj/tongshishudan",
+      "title": "通识书单",
+      "publisher": "Peking University Library",
+      "family": "university_reading_list",
+      "language": "zh",
+      "note": "Course recommendations place Lu Xun and C. T. Hsia’s literary histories alongside Xiao Hong, Mo Yan and Eileen Chang; includes annotated classical texts and historical geography.",
+      "candidates": [
+        "Tales of Hulan River",
+        "Red Sorghum",
+        "A Brief History of Chinese Fiction",
+        "The Classic Chinese Novel"
+      ],
+      "location": "General studies and literature course lists",
+      "limits": "One combined curricular source; recommended editions do not create separate works or merit positions.",
+      "targets": {
+        "A": "Literary candidates and reception methods for cross-subject comparison.",
+        "L": "Fiction selection, interpretation and canon coverage.",
+        "N": "Chinese literary histories and historical geography broaden nonfiction coverage."
+      }
+    },
+    {
+      "id": "R054",
+      "url": "https://www.revistabula.com/94945-pedro-paramo-o-romance-que-colocou-a-america-latina-no-mapa-da-literatura-mundial/",
+      "title": "Pedro Páramo: o romance que colocou a América Latina no mapa da literatura mundial",
+      "publisher": "Revista Bula",
+      "family": "critical_review",
+      "language": "pt",
+      "note": "Interprets fractured chronology and uncertain living/dead voices through Faulkner, familial authority and García Márquez; useful formal comparison beyond a list appearance.",
+      "candidates": [
+        "Pedro Páramo"
+      ],
+      "location": "Review body",
+      "limits": "Sweeping historical claims are the critic’s interpretation; Portuguese translation details do not verify English editions.",
+      "targets": {
+        "A": "Literary candidates and reception methods for cross-subject comparison.",
+        "L": "Fiction selection, interpretation and canon coverage."
+      }
+    },
+    {
+      "id": "R055",
+      "url": "https://www.deutschlandfunk.de/endlich-mal-erklaert-wozu-noch-klassiker-lesen-100.html",
+      "title": "Wozu noch Klassiker lesen?",
+      "publisher": "Deutschlandfunk",
+      "family": "critical_essay",
+      "language": "de",
+      "note": "Albath connects Lost Illusions with media criticism and Middlemarch with social mechanisms; Baldwin’s delayed German resonance illustrates how local reception changes canon visibility.",
+      "candidates": [
+        "Lost Illusions",
+        "Middlemarch",
+        "The Plague",
+        "James Baldwin"
+      ],
+      "location": "Timeless subjects, language and canon paragraphs",
+      "limits": "Illustrative argument favouring classics; current relevance does not by itself establish overall merit.",
+      "targets": {
+        "A": "Literary candidates and reception methods for cross-subject comparison.",
+        "L": "Fiction selection, interpretation and canon coverage."
+      }
+    },
+    {
+      "id": "R056",
+      "url": "https://www.oclc.org/en/worldcat/library100.html",
+      "title": "The Library 100",
+      "publisher": "OCLC",
+      "family": "institutional_ranking",
+      "language": "en",
+      "note": "Library holdings put Don Quixote, Alice and Twain near the top; preserves a distinct institutional circulation and collection signal.",
+      "candidates": [
+        "Don Quixote",
+        "Alice's Adventures in Wonderland",
+        "Adventures of Huckleberry Finn"
+      ],
+      "location": "Methodology and first ten entries",
+      "limits": "Holdings reflect acquisition, survival and catalogue coverage; children's and genre works need literary-fiction scope review.",
+      "targets": {
+        "L": "Library-held novels supply institutional reception evidence."
+      }
+    }
+  ]
+}

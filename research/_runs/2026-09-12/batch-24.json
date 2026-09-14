@@ -1,0 +1,101 @@
+{
+  "summary": "Synthesis-directed science/history/testimony evidence; five sources, including individually relevant AHA reuse.",
+  "next": "Produce two provisional 25-candidate orderings per target; expand incomplete coverage and verify editions.",
+  "sources": [
+    {
+      "id": "R174",
+      "url": "https://darwin-online.org.uk/converted/published/1859_Origin_F373/1859_Origin_F373.html",
+      "title": "On the Origin of Species — 1859 first edition, introduction",
+      "publisher": "Darwin Online",
+      "author": "Charles Darwin; edition prepared by John van Wyhe and Sue Asscher",
+      "family": "primary_text",
+      "note": "Darwin explains evidence accumulation, Wallace’s parallel discovery, and the need to explain adaptation. He acknowledges incomplete documentation and counterevidence; the hosted first edition provides an English text.",
+      "candidates": [
+        "On the Origin of Species"
+      ],
+      "targets": {
+        "A": "Scientific argument and verified historical English edition.",
+        "N": "Primary scientific nonfiction; argument structure, not an independent reception vote."
+      },
+      "location": "Bibliographic record and introduction pp.1–5",
+      "limits": "Selected passages only; historical theory must not be treated as a current biology textbook."
+    },
+    {
+      "id": "R175",
+      "url": "https://science.nasa.gov/earth/earth-observatory/rachel-carson/",
+      "title": "Rachel Carson (1907–1964)",
+      "publisher": "NASA Earth Observatory",
+      "family": "institutional_critical_essay",
+      "note": "Connects Silent Spring’s ecological synthesis and public-facing prose with environmental mobilization, while describing industrial opposition. Its celebratory account requires comparison with more qualified causal histories.",
+      "candidates": [
+        "Silent Spring",
+        "The Sea Around Us"
+      ],
+      "targets": {
+        "A": "Science writing and public reception beyond literary and philosophical canons.",
+        "N": "Environmental nonfiction, explanatory writing and historical reception."
+      },
+      "location": "Silent Spring and Quiet Courage sections",
+      "limits": "Retrospective institutional account; influence is not attributable to one book alone.",
+      "date": "2002-11-13"
+    },
+    {
+      "id": "R176",
+      "url": "https://www.fao.org/fileadmin/templates/library/pdf/Silent_spring.pdf",
+      "title": "Silent Spring — Edward O. Wilson’s 2002 afterword",
+      "publisher": "Mariner Books / Houghton Mifflin; FAO-hosted excerpt",
+      "author": "Edward O. Wilson",
+      "family": "scholarly_book_chapter",
+      "note": "Wilson credits Carson’s synthesis of scattered research, clarifies her opposition to reckless broad-spectrum spraying, and cautions that the book’s influence mingled with other scientific and activist efforts.",
+      "candidates": [
+        "Silent Spring"
+      ],
+      "targets": {
+        "A": "Scientific synthesis and limits on claims of singular historical influence.",
+        "N": "Scientist’s retrospective evaluation of environmental nonfiction."
+      },
+      "location": "Afterword pp.357–362; edition imprint PDF p.2",
+      "limits": "One underlying afterword, not an additional FAO judgment. PDF is a 33-page excerpt, not the complete book."
+    },
+    {
+      "id": "R177",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2024/04/03/carlo-greppi-the-italian-writer-who-brings-primo-levi-s-savior-back-to-life_6667219_117.html",
+      "title": "Carlo Greppi, the Italian writer who brings Primo Levi’s savior back to life",
+      "publisher": "Le Monde",
+      "family": "critical_profile",
+      "note": "Uses Perrone’s assistance to discuss dignity and moral agency in Levi’s testimony.",
+      "candidates": [
+        "If This Is a Man"
+      ],
+      "targets": {
+        "A": "Testimonial prose and ethical reflection.",
+        "N": "Memoir interpretation; limited comparative evidence."
+      },
+      "location": "An essential role",
+      "limits": "Profile excerpt, not a full comparative review of Levi.",
+      "date": "2024-04-03"
+    },
+    {
+      "id": "S33",
+      "url": "https://www.historians.org/perspectives-article/five-history-books-recommended-by-you-august-2011/",
+      "title": "Five History Books Recommended by You",
+      "publisher": "American Historical Association",
+      "family": "expert_selection",
+      "note": "Members recommend Bloch’s accessible reflections on historical method and Trouillot’s treatment of power and historical silencing. Other selections cover memory, gender and antimodernism.",
+      "candidates": [
+        "The Historian’s Craft",
+        "Silencing the Past",
+        "History Matters",
+        "Race and Reunion",
+        "No Place of Grace"
+      ],
+      "targets": {
+        "A": "Reconsultation expands candidate mapping; original record preserved.",
+        "N": "Historical method, memory and power, with member reception evidence."
+      },
+      "location": "Five annotated recommendations",
+      "limits": "Selective member responses and quoted reviews; not a representative poll or five independent sources.",
+      "date": "2011-08-02"
+    }
+  ]
+}

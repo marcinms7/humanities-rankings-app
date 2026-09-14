@@ -1,0 +1,43 @@
+{
+  "target_id": "reddit-fantasy-top-novels-2014",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.reddit.com/r/Fantasy/comments/1ynqcm/the_top_rfantasy_novels_of_all_time_results_thread/",
+      "title": "r/Fantasy · Top Novels (2014) — result publication",
+      "canonical_url": "https://www.reddit.com/r/Fantasy/comments/1ynqcm/the_top_rfantasy_novels_of_all_time_results_thread/",
+      "source_family": "community_poll",
+      "publisher": "r/Fantasy community",
+      "target_ids": [
+        "reddit-fantasy-top-novels-2014"
+      ],
+      "relevance_by_target": {
+        "reddit-fantasy-top-novels-2014": "Complete result at the edition's published cutoff, preserving source ranks, ties, votes and series-level entries."
+      },
+      "evidence_notes": "Complete result at the edition's published cutoff, preserving source ranks, ties, votes and series-level entries.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Community self-selection; the source deliberately mixes standalone books, series and fictional universes."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "published-list:https://riyria.blogspot.com/2015/03/in-2014-rfantasy-had-more-than-50000.html",
+      "title": "r/Fantasy · Top Novels (2014) — transcription/data mirror",
+      "canonical_url": "https://riyria.blogspot.com/2015/03/in-2014-rfantasy-had-more-than-50000.html",
+      "source_family": "list_transcription",
+      "publisher": "r/Fantasy community",
+      "target_ids": [
+        "reddit-fantasy-top-novels-2014"
+      ],
+      "relevance_by_target": {
+        "reddit-fantasy-top-novels-2014": "Row-level transcription used to preserve and cross-check the complete order."
+      },
+      "evidence_notes": "Row-level transcription used to preserve and cross-check the complete order.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Mirror of the same list; not counted as independent opinion evidence."
+    }
+  ]
+}

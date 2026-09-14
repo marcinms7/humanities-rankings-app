@@ -1,0 +1,512 @@
+{
+  "target_id": "books-england",
+  "representative_source_ids": [
+    "ENGLAND-001",
+    "ENGLAND-002",
+    "ENGLAND-003",
+    "ENGLAND-004",
+    "ENGLAND-005"
+  ],
+  "entries": [
+    {
+      "key": "books-england-001",
+      "position": 1,
+      "reported_title": "Middlemarch"
+    },
+    {
+      "key": "books-england-002",
+      "position": 2,
+      "reported_title": "Pride and Prejudice"
+    },
+    {
+      "key": "books-england-003",
+      "position": 3,
+      "reported_title": "To the Lighthouse"
+    },
+    {
+      "key": "books-england-004",
+      "position": 4,
+      "reported_title": "Jane Eyre"
+    },
+    {
+      "key": "books-england-005",
+      "position": 5,
+      "reported_title": "Wuthering Heights"
+    },
+    {
+      "key": "books-england-006",
+      "position": 6,
+      "reported_title": "The Lord of the Rings"
+    },
+    {
+      "key": "books-england-007",
+      "position": 7,
+      "reported_title": "Great Expectations"
+    },
+    {
+      "key": "books-england-008",
+      "position": 8,
+      "reported_title": "Nineteen Eighty-Four"
+    },
+    {
+      "key": "books-england-009",
+      "position": 9,
+      "reported_title": "Bleak House"
+    },
+    {
+      "key": "books-england-010",
+      "position": 10,
+      "reported_title": "Paradise Lost"
+    },
+    {
+      "key": "books-england-011",
+      "position": 11,
+      "reported_title": "Emma"
+    },
+    {
+      "key": "books-england-012",
+      "position": 12,
+      "reported_title": "The Canterbury Tales"
+    },
+    {
+      "key": "books-england-013",
+      "position": 13,
+      "reported_title": "Mrs Dalloway"
+    },
+    {
+      "key": "books-england-014",
+      "position": 14,
+      "reported_title": "Frankenstein"
+    },
+    {
+      "key": "books-england-015",
+      "position": 15,
+      "reported_title": "David Copperfield"
+    },
+    {
+      "key": "books-england-016",
+      "position": 16,
+      "reported_title": "A Room of One's Own"
+    },
+    {
+      "key": "books-england-017",
+      "position": 17,
+      "reported_title": "On the Origin of Species"
+    },
+    {
+      "key": "books-england-018",
+      "position": 18,
+      "reported_title": "Persuasion"
+    },
+    {
+      "key": "books-england-019",
+      "position": 19,
+      "reported_title": "The Waves"
+    },
+    {
+      "key": "books-england-020",
+      "position": 20,
+      "reported_title": "Tess of the d'Urbervilles"
+    },
+    {
+      "key": "books-england-021",
+      "position": 21,
+      "reported_title": "The Waste Land"
+    },
+    {
+      "key": "books-england-022",
+      "position": 22,
+      "reported_title": "The Hobbit"
+    },
+    {
+      "key": "books-england-023",
+      "position": 23,
+      "reported_title": "Sense and Sensibility"
+    },
+    {
+      "key": "books-england-024",
+      "position": 24,
+      "reported_title": "Vanity Fair"
+    },
+    {
+      "key": "books-england-025",
+      "position": 25,
+      "reported_title": "Shakespeare's Sonnets"
+    },
+    {
+      "key": "books-england-026",
+      "position": 26,
+      "reported_title": "Howards End"
+    },
+    {
+      "key": "books-england-027",
+      "position": 27,
+      "reported_title": "A Passage to India"
+    },
+    {
+      "key": "books-england-028",
+      "position": 28,
+      "reported_title": "Animal Farm"
+    },
+    {
+      "key": "books-england-029",
+      "position": 29,
+      "reported_title": "The Mill on the Floss"
+    },
+    {
+      "key": "books-england-030",
+      "position": 30,
+      "reported_title": "Lyrical Ballads"
+    },
+    {
+      "key": "books-england-031",
+      "position": 31,
+      "reported_title": "Songs of Innocence and of Experience"
+    },
+    {
+      "key": "books-england-032",
+      "position": 32,
+      "reported_title": "The Prelude"
+    },
+    {
+      "key": "books-england-033",
+      "position": 33,
+      "reported_title": "Jude the Obscure"
+    },
+    {
+      "key": "books-england-034",
+      "position": 34,
+      "reported_title": "The Mayor of Casterbridge"
+    },
+    {
+      "key": "books-england-035",
+      "position": 35,
+      "reported_title": "A Christmas Carol"
+    },
+    {
+      "key": "books-england-036",
+      "position": 36,
+      "reported_title": "Oliver Twist"
+    },
+    {
+      "key": "books-england-037",
+      "position": 37,
+      "reported_title": "Alice's Adventures in Wonderland"
+    },
+    {
+      "key": "books-england-038",
+      "position": 38,
+      "reported_title": "Through the Looking-Glass"
+    },
+    {
+      "key": "books-england-039",
+      "position": 39,
+      "reported_title": "Brideshead Revisited"
+    },
+    {
+      "key": "books-england-040",
+      "position": 40,
+      "reported_title": "The Good Soldier"
+    },
+    {
+      "key": "books-england-041",
+      "position": 41,
+      "reported_title": "Rebecca"
+    },
+    {
+      "key": "books-england-042",
+      "position": 42,
+      "reported_title": "Atonement"
+    },
+    {
+      "key": "books-england-043",
+      "position": 43,
+      "reported_title": "Possession"
+    },
+    {
+      "key": "books-england-044",
+      "position": 44,
+      "reported_title": "Wolf Hall"
+    },
+    {
+      "key": "books-england-045",
+      "position": 45,
+      "reported_title": "The Remains of the Day"
+    },
+    {
+      "key": "books-england-046",
+      "position": 46,
+      "reported_title": "White Teeth"
+    },
+    {
+      "key": "books-england-047",
+      "position": 47,
+      "reported_title": "Never Let Me Go"
+    },
+    {
+      "key": "books-england-048",
+      "position": 48,
+      "reported_title": "The Line of Beauty"
+    },
+    {
+      "key": "books-england-049",
+      "position": 49,
+      "reported_title": "The Golden Notebook"
+    },
+    {
+      "key": "books-england-050",
+      "position": 50,
+      "reported_title": "Cold Comfort Farm"
+    },
+    {
+      "key": "books-england-051",
+      "position": 51,
+      "reported_title": "The Go-Between"
+    },
+    {
+      "key": "books-england-052",
+      "position": 52,
+      "reported_title": "I, Claudius"
+    },
+    {
+      "key": "books-england-053",
+      "position": 53,
+      "reported_title": "Lord of the Flies"
+    },
+    {
+      "key": "books-england-054",
+      "position": 54,
+      "reported_title": "Watership Down"
+    },
+    {
+      "key": "books-england-055",
+      "position": 55,
+      "reported_title": "The Hitchhiker's Guide to the Galaxy"
+    },
+    {
+      "key": "books-england-056",
+      "position": 56,
+      "reported_title": "Northern Lights"
+    },
+    {
+      "key": "books-england-057",
+      "position": 57,
+      "reported_title": "Harry Potter and the Philosopher's Stone"
+    },
+    {
+      "key": "books-england-058",
+      "position": 58,
+      "reported_title": "Winnie-the-Pooh"
+    },
+    {
+      "key": "books-england-059",
+      "position": 59,
+      "reported_title": "The Tale of Peter Rabbit"
+    },
+    {
+      "key": "books-england-060",
+      "position": 60,
+      "reported_title": "The Secret Garden"
+    },
+    {
+      "key": "books-england-061",
+      "position": 61,
+      "reported_title": "Black Beauty"
+    },
+    {
+      "key": "books-england-062",
+      "position": 62,
+      "reported_title": "The Jungle Book"
+    },
+    {
+      "key": "books-england-063",
+      "position": 63,
+      "reported_title": "Kim"
+    },
+    {
+      "key": "books-england-064",
+      "position": 64,
+      "reported_title": "The War of the Worlds"
+    },
+    {
+      "key": "books-england-065",
+      "position": 65,
+      "reported_title": "The Time Machine"
+    },
+    {
+      "key": "books-england-066",
+      "position": 66,
+      "reported_title": "Brave New World"
+    },
+    {
+      "key": "books-england-067",
+      "position": 67,
+      "reported_title": "The Day of the Triffids"
+    },
+    {
+      "key": "books-england-068",
+      "position": 68,
+      "reported_title": "Tinker Tailor Soldier Spy"
+    },
+    {
+      "key": "books-england-069",
+      "position": 69,
+      "reported_title": "The Spy Who Came in from the Cold"
+    },
+    {
+      "key": "books-england-070",
+      "position": 70,
+      "reported_title": "The Moonstone"
+    },
+    {
+      "key": "books-england-071",
+      "position": 71,
+      "reported_title": "The Woman in White"
+    },
+    {
+      "key": "books-england-072",
+      "position": 72,
+      "reported_title": "The Murder of Roger Ackroyd"
+    },
+    {
+      "key": "books-england-073",
+      "position": 73,
+      "reported_title": "And Then There Were None"
+    },
+    {
+      "key": "books-england-074",
+      "position": 74,
+      "reported_title": "The Code of the Woosters"
+    },
+    {
+      "key": "books-england-075",
+      "position": 75,
+      "reported_title": "The History of Tom Jones, a Foundling"
+    },
+    {
+      "key": "books-england-076",
+      "position": 76,
+      "reported_title": "Clarissa"
+    },
+    {
+      "key": "books-england-077",
+      "position": 77,
+      "reported_title": "Moll Flanders"
+    },
+    {
+      "key": "books-england-078",
+      "position": 78,
+      "reported_title": "Robinson Crusoe"
+    },
+    {
+      "key": "books-england-079",
+      "position": 79,
+      "reported_title": "The Pilgrim's Progress"
+    },
+    {
+      "key": "books-england-080",
+      "position": 80,
+      "reported_title": "Mansfield Park"
+    },
+    {
+      "key": "books-england-081",
+      "position": 81,
+      "reported_title": "Far from the Madding Crowd"
+    },
+    {
+      "key": "books-england-082",
+      "position": 82,
+      "reported_title": "The Return of the Native"
+    },
+    {
+      "key": "books-england-083",
+      "position": 83,
+      "reported_title": "Little Dorrit"
+    },
+    {
+      "key": "books-england-084",
+      "position": 84,
+      "reported_title": "Women in Love"
+    },
+    {
+      "key": "books-england-085",
+      "position": 85,
+      "reported_title": "Sons and Lovers"
+    },
+    {
+      "key": "books-england-086",
+      "position": 86,
+      "reported_title": "The Power and the Glory"
+    },
+    {
+      "key": "books-england-087",
+      "position": 87,
+      "reported_title": "The End of the Affair"
+    },
+    {
+      "key": "books-england-088",
+      "position": 88,
+      "reported_title": "The French Lieutenant's Woman"
+    },
+    {
+      "key": "books-england-089",
+      "position": 89,
+      "reported_title": "Lucky Jim"
+    },
+    {
+      "key": "books-england-090",
+      "position": 90,
+      "reported_title": "The Bloody Chamber"
+    },
+    {
+      "key": "books-england-091",
+      "position": 91,
+      "reported_title": "North and South"
+    },
+    {
+      "key": "books-england-092",
+      "position": 92,
+      "reported_title": "The Way We Live Now"
+    },
+    {
+      "key": "books-england-093",
+      "position": 93,
+      "reported_title": "Barchester Towers"
+    },
+    {
+      "key": "books-england-094",
+      "position": 94,
+      "reported_title": "A Clockwork Orange"
+    },
+    {
+      "key": "books-england-095",
+      "position": 95,
+      "reported_title": "The Once and Future King"
+    },
+    {
+      "key": "books-england-096",
+      "position": 96,
+      "reported_title": "The Diary of Samuel Pepys"
+    },
+    {
+      "key": "books-england-097",
+      "position": 97,
+      "reported_title": "A Vindication of the Rights of Woman"
+    },
+    {
+      "key": "books-england-098",
+      "position": 98,
+      "reported_title": "Leviathan"
+    },
+    {
+      "key": "books-england-099",
+      "position": 99,
+      "reported_title": "On Liberty"
+    },
+    {
+      "key": "books-england-100",
+      "position": 100,
+      "reported_title": "Homage to Catalonia"
+    }
+  ]
+}

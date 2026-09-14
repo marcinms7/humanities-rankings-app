@@ -1,0 +1,535 @@
+{
+  "target_id": "philosophy-books-all-time",
+  "version": "2026-09-12-two-lenses-v1",
+  "status": "partial_editorial_proposal_not_published",
+  "methodology": "../DRAFT_METHOD.md",
+  "owner_direction": "Show both orderings to expose the tradeoffs",
+  "intended_final_length": "100–200",
+  "pilot_candidate_count": 25,
+  "eligible_sources_in_target": 91,
+  "comparison_universe": "the same selected 25 candidates in each lens; not an exhaustive global comparison",
+  "coverage_gaps": "Avicenna, Aquinas, Śaṅkara, Rāmānuja, Dharmakīrti, Mozi, Mulla Sadra, Kyoto-school works, African philosophy and Latin American philosophy need more work-level comparisons. Further major challengers include Hobbes, Locke, Rousseau, Hegel, Kierkegaard, Marx, Heidegger, Weil, Murdoch, Parfit and noncanonical women. Verse treatises and collected texts require complete-work and translation checks.",
+  "tradeoffs": [
+    "Hume’s Enquiry moves from 24 to 1; his Treatise moves from 8 to 22. The source explicitly distinguishes the more concise later work from the larger earlier system.",
+    "Epistemic Injustice moves from 23 to 11: potential conceptual usefulness rises, while the conflicting reviews remain visible.",
+    "Kant moves from 2 to 25 in this scenario. This is a preparation-sensitive reading hypothesis, not a finding of lesser philosophical quality."
+  ],
+  "candidates": [
+    {
+      "candidate_id": "republic",
+      "name": "Republic",
+      "creator": "Plato",
+      "item_type": "work",
+      "standing_position_draft": 1,
+      "reading_position_draft": 2,
+      "reading_movement_up": -1,
+      "source_ids": [
+        "S17",
+        "S19",
+        "R028"
+      ],
+      "standing_argument_proposed": "Scholarly and cross-tradition selections converge on its foundational standing.",
+      "reading_argument_proposed": "Its argumentative encounters keep it near the front of both orders.",
+      "uncertainty": "Historical influence does not endorse its political prescriptions.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "critique",
+      "name": "Critique of Pure Reason",
+      "creator": "Immanuel Kant",
+      "item_type": "work",
+      "standing_position_draft": 2,
+      "reading_position_draft": 25,
+      "reading_movement_up": -23,
+      "source_ids": [
+        "S23",
+        "R029"
+      ],
+      "standing_argument_proposed": "Strong scholarly reception supports a leading historical position.",
+      "reading_argument_proposed": "Move down for demanding prerequisites; intellectual value remains high.",
+      "uncertainty": "Difficulty assessment needs edition-specific reading evidence.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "ethicsar",
+      "name": "Nicomachean Ethics",
+      "creator": "Aristotle",
+      "item_type": "work",
+      "standing_position_draft": 3,
+      "reading_position_draft": 12,
+      "reading_movement_up": -9,
+      "source_ids": [
+        "R002",
+        "S03"
+      ],
+      "standing_argument_proposed": "Broad corpus and curricular reception support its enduring position.",
+      "reading_argument_proposed": "Practical ethical inquiry supports a high reading priority.",
+      "uncertainty": "Curriculum inclusion is not a merit vote.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "analects",
+      "name": "Analects",
+      "creator": "Confucius and subsequent transmitters",
+      "item_type": "work",
+      "standing_position_draft": 4,
+      "reading_position_draft": 10,
+      "reading_movement_up": -6,
+      "source_ids": [
+        "S20"
+      ],
+      "standing_argument_proposed": "Long intellectual reception supports early placement.",
+      "reading_argument_proposed": "Compact exchanges invite continued reflection with historical context.",
+      "uncertainty": "Received text is not a single author’s manuscript.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "zhuangzi",
+      "name": "Zhuangzi",
+      "creator": "Zhuang Zhou and later contributors",
+      "item_type": "work",
+      "standing_position_draft": 5,
+      "reading_position_draft": 3,
+      "reading_movement_up": 2,
+      "source_ids": [
+        "S25",
+        "R028"
+      ],
+      "standing_argument_proposed": "Scholarly and world-philosophy selection support high standing.",
+      "reading_argument_proposed": "Literary philosophy raises its priority for exploratory reading.",
+      "uncertainty": "Textual strata and complete-versus-selected editions require care.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "spinoza",
+      "name": "Ethics",
+      "creator": "Baruch Spinoza",
+      "item_type": "work",
+      "standing_position_draft": 6,
+      "reading_position_draft": 18,
+      "reading_movement_up": -12,
+      "source_ids": [
+        "R021",
+        "R044",
+        "R086"
+      ],
+      "standing_argument_proposed": "Metaphysical and ethical reception sustains its historical case.",
+      "reading_argument_proposed": "Passions and happiness reward close reading; system imposes demands.",
+      "uncertainty": "Enthusiastic reader transformation does not prove general accessibility.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "investigations",
+      "name": "Philosophical Investigations",
+      "creator": "Ludwig Wittgenstein",
+      "item_type": "work",
+      "standing_position_draft": 7,
+      "reading_position_draft": 20,
+      "reading_movement_up": -13,
+      "source_ids": [
+        "R019",
+        "S19"
+      ],
+      "standing_argument_proposed": "Major reception in language and philosophical method supports high standing.",
+      "reading_argument_proposed": "Move below more immediately usable entry points.",
+      "uncertainty": "Early/late continuity remains a scholarly dispute.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "treatise",
+      "name": "A Treatise of Human Nature",
+      "creator": "David Hume",
+      "item_type": "work",
+      "standing_position_draft": 8,
+      "reading_position_draft": 22,
+      "reading_movement_up": -14,
+      "source_ids": [
+        "R020",
+        "R028"
+      ],
+      "standing_argument_proposed": "Systematic breadth and later reception support a high position.",
+      "reading_argument_proposed": "The Enquiry is proposed earlier as a more concise encounter.",
+      "uncertainty": "The later books are not mere abridgments of this work.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "daodejing",
+      "name": "Daodejing",
+      "creator": "Traditionally attributed to Laozi",
+      "item_type": "work",
+      "standing_position_draft": 9,
+      "reading_position_draft": 14,
+      "reading_movement_up": -5,
+      "source_ids": [
+        "R015"
+      ],
+      "standing_argument_proposed": "Broad, divergent traditions of interpretation support inclusion.",
+      "reading_argument_proposed": "Compactness encourages return, while interpretation still needs guidance.",
+      "uncertainty": "Do not turn traditional attribution into a verified biography.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "middleway",
+      "name": "The Fundamental Wisdom of the Middle Way",
+      "creator": "Nāgārjuna",
+      "item_type": "work",
+      "standing_position_draft": 10,
+      "reading_position_draft": 23,
+      "reading_movement_up": -13,
+      "source_ids": [
+        "R009"
+      ],
+      "standing_argument_proposed": "Arguments about intrinsic nature have extensive Buddhist reception.",
+      "reading_argument_proposed": "Move down for technical demands rather than presumed lesser value.",
+      "uncertainty": "Verse treatise; verify a complete translation and attribution.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "secondsex",
+      "name": "The Second Sex",
+      "creator": "Simone de Beauvoir",
+      "item_type": "work",
+      "standing_position_draft": 11,
+      "reading_position_draft": 7,
+      "reading_movement_up": 4,
+      "source_ids": [
+        "R017"
+      ],
+      "standing_argument_proposed": "Original philosophical contribution and feminist reception support high standing.",
+      "reading_argument_proposed": "Proposed rise reflects continuing conceptual and experiential engagement.",
+      "uncertainty": "Primary-book and translation comparison remain incomplete.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "justice",
+      "name": "A Theory of Justice",
+      "creator": "John Rawls",
+      "item_type": "work",
+      "standing_position_draft": 12,
+      "reading_position_draft": 19,
+      "reading_movement_up": -7,
+      "source_ids": [
+        "R043",
+        "R083"
+      ],
+      "standing_argument_proposed": "International institutional reception sustains historical significance.",
+      "reading_argument_proposed": "Detailed system is placed after more direct entry points.",
+      "uncertainty": "Political readings differ across national reception contexts.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "mengzi",
+      "name": "Mengzi",
+      "creator": "Mencius and subsequent compilers",
+      "item_type": "work",
+      "standing_position_draft": 13,
+      "reading_position_draft": 8,
+      "reading_movement_up": 5,
+      "source_ids": [
+        "R013",
+        "R028"
+      ],
+      "standing_argument_proposed": "Cross-tradition ethical comparisons strengthen its inclusion.",
+      "reading_argument_proposed": "Ethical cultivation supports an earlier reading position.",
+      "uncertainty": "Do not erase compilation and editorial history.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "liberty",
+      "name": "On Liberty",
+      "creator": "John Stuart Mill",
+      "item_type": "work",
+      "standing_position_draft": 14,
+      "reading_position_draft": 4,
+      "reading_movement_up": 10,
+      "source_ids": [
+        "S19",
+        "R157"
+      ],
+      "standing_argument_proposed": "Canonical selection and direct argument support inclusion.",
+      "reading_argument_proposed": "Compact debate about dissent raises proposed reading priority.",
+      "uncertainty": "Universal-sounding language coexists with colonial exclusions.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "meditations",
+      "name": "Meditations on First Philosophy",
+      "creator": "René Descartes",
+      "item_type": "work",
+      "standing_position_draft": 15,
+      "reading_position_draft": 15,
+      "reading_movement_up": 0,
+      "source_ids": [
+        "S19"
+      ],
+      "standing_argument_proposed": "Expert canonical selection supports substantial historical standing.",
+      "reading_argument_proposed": "Focused argumentative sequence raises its reading priority.",
+      "uncertainty": "Single expert selection needs deeper independent evidence.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "genealogy",
+      "name": "On the Genealogy of Morality",
+      "creator": "Friedrich Nietzsche",
+      "item_type": "work",
+      "standing_position_draft": 16,
+      "reading_position_draft": 6,
+      "reading_movement_up": 10,
+      "source_ids": [
+        "R023"
+      ],
+      "standing_argument_proposed": "Psychological critique supports its place among authored philosophical books.",
+      "reading_argument_proposed": "Provocation and value-questioning move it upward.",
+      "uncertainty": "Do not substitute the posthumous Will to Power compilation.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "theological",
+      "name": "Theological-Political Treatise",
+      "creator": "Baruch Spinoza",
+      "item_type": "work",
+      "standing_position_draft": 17,
+      "reading_position_draft": 21,
+      "reading_movement_up": -4,
+      "source_ids": [
+        "R021"
+      ],
+      "standing_argument_proposed": "Interlocking philosophy and politics support historical consideration.",
+      "reading_argument_proposed": "Political and interpretive questions offer another route into Spinoza.",
+      "uncertainty": "Needs independent work-specific criticism.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "incoherence",
+      "name": "The Incoherence of the Philosophers",
+      "creator": "al-Ghazālī",
+      "item_type": "work",
+      "standing_position_draft": 18,
+      "reading_position_draft": 24,
+      "reading_movement_up": -6,
+      "source_ids": [
+        "R115"
+      ],
+      "standing_argument_proposed": "Critical reception within Islamic philosophy supports inclusion.",
+      "reading_argument_proposed": "Technical and theological context lowers initial reading priority.",
+      "uncertainty": "Do not repeat a simplistic narrative of philosophy ending afterward.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "xunzi",
+      "name": "Xunzi",
+      "creator": "Xun Kuang and subsequent editors",
+      "item_type": "work",
+      "standing_position_draft": 19,
+      "reading_position_draft": 17,
+      "reading_movement_up": 2,
+      "source_ids": [
+        "R014"
+      ],
+      "standing_argument_proposed": "Reassessment and renewed recognition challenge inherited rankings.",
+      "reading_argument_proposed": "Cultivation and social thought justify comparative reading with Mengzi.",
+      "uncertainty": "Received collection is textually layered.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "caste",
+      "name": "Annihilation of Caste",
+      "creator": "B. R. Ambedkar",
+      "item_type": "work",
+      "standing_position_draft": 20,
+      "reading_position_draft": 5,
+      "reading_movement_up": 15,
+      "source_ids": [
+        "R073",
+        "R074"
+      ],
+      "standing_argument_proposed": "Anti-caste argument and comparative Indian reception support inclusion.",
+      "reading_argument_proposed": "Coherent argument and continuing social questions motivate a large rise.",
+      "uncertainty": "A published book-length address, not an invented essay collection.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "blackskin",
+      "name": "Black Skin, White Masks",
+      "creator": "Frantz Fanon",
+      "item_type": "work",
+      "standing_position_draft": 21,
+      "reading_position_draft": 9,
+      "reading_movement_up": 12,
+      "source_ids": [
+        "R024"
+      ],
+      "standing_argument_proposed": "Africana philosophical significance supports strong inclusion.",
+      "reading_argument_proposed": "Lived alienation and anti-racist inquiry raise its proposed reading place.",
+      "uncertainty": "Needs more independent work-specific disagreement.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "humancondition",
+      "name": "The Human Condition",
+      "creator": "Hannah Arendt",
+      "item_type": "work",
+      "standing_position_draft": 22,
+      "reading_position_draft": 13,
+      "reading_movement_up": 9,
+      "source_ids": [
+        "R018"
+      ],
+      "standing_argument_proposed": "Broad public and academic reception supports inclusion.",
+      "reading_argument_proposed": "Proposed priority recognizes enduring questions of activity and public life.",
+      "uncertainty": "Avoid transferring claims about Arendt’s other books to this one.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "injustice",
+      "name": "Epistemic Injustice",
+      "creator": "Miranda Fricker",
+      "item_type": "work",
+      "standing_position_draft": 23,
+      "reading_position_draft": 11,
+      "reading_movement_up": 12,
+      "source_ids": [
+        "R034",
+        "R143"
+      ],
+      "standing_argument_proposed": "Two contrasting reviews support serious contemporary consideration.",
+      "reading_argument_proposed": "Conceptual tools for understanding exclusion motivate a substantial rise.",
+      "uncertainty": "Normative scope and individual remedies are contested.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "enquiry",
+      "name": "An Enquiry concerning Human Understanding",
+      "creator": "David Hume",
+      "item_type": "work",
+      "standing_position_draft": 24,
+      "reading_position_draft": 1,
+      "reading_movement_up": 23,
+      "source_ids": [
+        "R020",
+        "R158",
+        "S19"
+      ],
+      "standing_argument_proposed": "Canonical reception and primary argument sustain its standing.",
+      "reading_argument_proposed": "Concise treatment of habit and inference places it ahead of the Treatise.",
+      "uncertainty": "Philosophical revision prevents treating it as a simple shorter substitute.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "bodhi",
+      "name": "Bodhicaryāvatāra / The Way of the Bodhisattva",
+      "creator": "Śāntideva",
+      "item_type": "work",
+      "standing_position_draft": 25,
+      "reading_position_draft": 16,
+      "reading_movement_up": 9,
+      "source_ids": [
+        "R028"
+      ],
+      "standing_argument_proposed": "World-philosophy selection supports cross-tradition inclusion.",
+      "reading_argument_proposed": "Ethical reflection merits comparative reading beyond Western defaults.",
+      "uncertainty": "Full verse work; religious context and translation need review.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    }
+  ]
+}

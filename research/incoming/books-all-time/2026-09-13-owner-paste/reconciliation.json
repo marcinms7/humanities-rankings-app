@@ -1,0 +1,1609 @@
+{
+  "target": "books-all-time",
+  "rule": "Unreviewed leads are not counted or imported as consulted evidence.",
+  "lead_count": 200,
+  "existing_overlap_count": 200,
+  "new_unreviewed_count": 0,
+  "rows": [
+    {
+      "lead_id": "owner-001",
+      "url": "https://sites.prh.com/modern-library-top-100/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "S02"
+      ]
+    },
+    {
+      "lead_id": "owner-002",
+      "url": "https://www.goodreads.com/list/show/8797.Modern_Library_100_Best_Novels_The_Board_s_List",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-002"
+      ]
+    },
+    {
+      "lead_id": "owner-003",
+      "url": "https://www.goodreads.com/list/show/2127.100_best_novels_modern_library",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-003"
+      ]
+    },
+    {
+      "lead_id": "owner-004",
+      "url": "https://en.wikipedia.org/wiki/1001_Books_You_Must_Read_Before_You_Die",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-004"
+      ]
+    },
+    {
+      "lead_id": "owner-005",
+      "url": "https://www.goodreads.com/list/show/952.1001_Books_You_Must_Read_Before_You_Die",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-005"
+      ]
+    },
+    {
+      "lead_id": "owner-006",
+      "url": "https://www.goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-006"
+      ]
+    },
+    {
+      "lead_id": "owner-007",
+      "url": "https://thegreatestbooks.org/lists/28",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-007"
+      ]
+    },
+    {
+      "lead_id": "owner-008",
+      "url": "https://www.theguardian.com/books/2003/oct/12/features.fiction",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-008"
+      ]
+    },
+    {
+      "lead_id": "owner-009",
+      "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-009"
+      ]
+    },
+    {
+      "lead_id": "owner-010",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "S05"
+      ]
+    },
+    {
+      "lead_id": "owner-011",
+      "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-011"
+      ]
+    },
+    {
+      "lead_id": "owner-012",
+      "url": "https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-012"
+      ]
+    },
+    {
+      "lead_id": "owner-013",
+      "url": "https://www.theguardian.com/books/2019/sep/23/it-has-saved-countless-lives-readers-picks-of-the-best-books-this-century",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-013"
+      ]
+    },
+    {
+      "lead_id": "owner-014",
+      "url": "https://www.oclc.org/en/worldcat/library100.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "S04"
+      ]
+    },
+    {
+      "lead_id": "owner-015",
+      "url": "https://www.oclc.org/en/worldcat/library100/top500.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-015"
+      ]
+    },
+    {
+      "lead_id": "owner-016",
+      "url": "https://www.pbs.org/the-great-american-read/results/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-016"
+      ]
+    },
+    {
+      "lead_id": "owner-017",
+      "url": "https://www.pbs.org/the-great-american-read/home/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-017"
+      ]
+    },
+    {
+      "lead_id": "owner-018",
+      "url": "https://entertainment.time.com/2005/10/16/all-time-100-novels/slide/all/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-018"
+      ]
+    },
+    {
+      "lead_id": "owner-019",
+      "url": "https://archive.ph/0f40U",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-019"
+      ]
+    },
+    {
+      "lead_id": "owner-020",
+      "url": "https://www.goodreads.com/list/show/94275.BBC_Culture_Worldwide_100_Greatest_British_Novels",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-020"
+      ]
+    },
+    {
+      "lead_id": "owner-021",
+      "url": "https://www.goodreads.com/list/show/124388.BBC_Culture_The_100_Stories_That_Shaped_The_World",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-021"
+      ]
+    },
+    {
+      "lead_id": "owner-022",
+      "url": "https://www.theguardian.com/books/2015/jan/20/brief-wondrous-life-of-oscar-wao-novel-21st-century-best-junot-diaz",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-022"
+      ]
+    },
+    {
+      "lead_id": "owner-023",
+      "url": "http://www.telegraph.co.uk/books/what-to-read/100-novels-everyone-should-read/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-023"
+      ]
+    },
+    {
+      "lead_id": "owner-024",
+      "url": "https://thegreatestbooks.org/lists/44",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-024"
+      ]
+    },
+    {
+      "lead_id": "owner-025",
+      "url": "https://thegreatestbooks.org/lists/120",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-025"
+      ]
+    },
+    {
+      "lead_id": "owner-026",
+      "url": "https://thegreatestbooks.org/lists/114",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-026"
+      ]
+    },
+    {
+      "lead_id": "owner-027",
+      "url": "https://thegreatestbooks.org/lists/308",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-027"
+      ]
+    },
+    {
+      "lead_id": "owner-028",
+      "url": "https://thegreatestbooks.org/lists/1051",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-028"
+      ]
+    },
+    {
+      "lead_id": "owner-029",
+      "url": "https://thegreatestbooks.org/lists/140",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-029"
+      ]
+    },
+    {
+      "lead_id": "owner-030",
+      "url": "https://thegreatestbooks.org/lists/377",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-030"
+      ]
+    },
+    {
+      "lead_id": "owner-031",
+      "url": "https://thegreatestbooks.org/lists/485",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-031"
+      ]
+    },
+    {
+      "lead_id": "owner-032",
+      "url": "https://thegreatestbooks.org/lists/862",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-032"
+      ]
+    },
+    {
+      "lead_id": "owner-033",
+      "url": "https://thegreatestbooks.org/lists/957",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-033"
+      ]
+    },
+    {
+      "lead_id": "owner-034",
+      "url": "https://thegreatestbooks.org/lists/969",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-034"
+      ]
+    },
+    {
+      "lead_id": "owner-035",
+      "url": "https://thegreatestbooks.org/lists/33",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-035"
+      ]
+    },
+    {
+      "lead_id": "owner-036",
+      "url": "https://thegreatestbooks.org/lists/328",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-036"
+      ]
+    },
+    {
+      "lead_id": "owner-037",
+      "url": "https://thegreatestbooks.org/lists/398",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-037"
+      ]
+    },
+    {
+      "lead_id": "owner-038",
+      "url": "https://thegreatestbooks.org/lists/568",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-038"
+      ]
+    },
+    {
+      "lead_id": "owner-039",
+      "url": "https://thegreatestbooks.org/lists/108",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-039"
+      ]
+    },
+    {
+      "lead_id": "owner-040",
+      "url": "https://thegreatestbooks.org/lists/288",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-040"
+      ]
+    },
+    {
+      "lead_id": "owner-041",
+      "url": "https://thegreatestbooks.org/lists/860",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-041"
+      ]
+    },
+    {
+      "lead_id": "owner-042",
+      "url": "https://thegreatestbooks.org/lists/908",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-042"
+      ]
+    },
+    {
+      "lead_id": "owner-043",
+      "url": "https://thegreatestbooks.org/lists/457",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-043"
+      ]
+    },
+    {
+      "lead_id": "owner-044",
+      "url": "https://thegreatestbooks.org/lists/556",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-044"
+      ]
+    },
+    {
+      "lead_id": "owner-045",
+      "url": "https://thegreatestbooks.org/lists/819",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-045"
+      ]
+    },
+    {
+      "lead_id": "owner-046",
+      "url": "https://thegreatestbooks.org/lists/283",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-046"
+      ]
+    },
+    {
+      "lead_id": "owner-047",
+      "url": "https://thegreatestbooks.org/lists/542",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-047"
+      ]
+    },
+    {
+      "lead_id": "owner-048",
+      "url": "https://thegreatestbooks.org/lists/432",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-048"
+      ]
+    },
+    {
+      "lead_id": "owner-049",
+      "url": "https://thegreatestbooks.org/lists/104",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-049"
+      ]
+    },
+    {
+      "lead_id": "owner-050",
+      "url": "https://thegreatestbooks.org/lists/312",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-050"
+      ]
+    },
+    {
+      "lead_id": "owner-051",
+      "url": "https://thegreatestbooks.org/lists/3",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-051"
+      ]
+    },
+    {
+      "lead_id": "owner-052",
+      "url": "https://thegreatestbooks.org/lists/343",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-052"
+      ]
+    },
+    {
+      "lead_id": "owner-053",
+      "url": "https://thegreatestbooks.org/lists/382",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-053"
+      ]
+    },
+    {
+      "lead_id": "owner-054",
+      "url": "https://book.douban.com/top250",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "R203"
+      ]
+    },
+    {
+      "lead_id": "owner-055",
+      "url": "https://blog.douban.com/douban/2026/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-055"
+      ]
+    },
+    {
+      "lead_id": "owner-056",
+      "url": "https://lib.hqu.edu.cn/info/1315/3378.htm",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-056"
+      ]
+    },
+    {
+      "lead_id": "owner-057",
+      "url": "https://baike.sogou.com/m/fullLemma?lid=70848218",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-057"
+      ]
+    },
+    {
+      "lead_id": "owner-058",
+      "url": "https://project.zo.uni-heidelberg.de/DACHS_Leiden/archive/leiden/poetry/20040712/white-collar.net/wx_wxf/wxf01/w_99055.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-058"
+      ]
+    },
+    {
+      "lead_id": "owner-059",
+      "url": "https://www.goodreads.com/list/show/118444.The_Best_Chinese_Fiction_Books_of_the_Last_Century",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-059"
+      ]
+    },
+    {
+      "lead_id": "owner-060",
+      "url": "https://www.goodreads.com/list/show/1852.Fiction_from_the_Chinese_Mainland",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-060"
+      ]
+    },
+    {
+      "lead_id": "owner-061",
+      "url": "https://www.goodreads.com/list/show/6498.Chinese_Literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-061"
+      ]
+    },
+    {
+      "lead_id": "owner-062",
+      "url": "https://www.goodreads.com/list/show/78120.China_Fiction_Book_Club",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-062"
+      ]
+    },
+    {
+      "lead_id": "owner-063",
+      "url": "https://thegreatestbooks.org/lists/576",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-063"
+      ]
+    },
+    {
+      "lead_id": "owner-064",
+      "url": "https://www.shinchosha.co.jp/ebook/E066981/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-064"
+      ]
+    },
+    {
+      "lead_id": "owner-065",
+      "url": "https://www.shinchosha.co.jp/book/610309/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-065"
+      ]
+    },
+    {
+      "lead_id": "owner-066",
+      "url": "https://www.kadokawa.co.jp/product/322501001216/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-066"
+      ]
+    },
+    {
+      "lead_id": "owner-067",
+      "url": "https://www.kadokawa.co.jp/topics/15198/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-067"
+      ]
+    },
+    {
+      "lead_id": "owner-068",
+      "url": "https://www.kadokawa.co.jp/product/322402000106/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-068"
+      ]
+    },
+    {
+      "lead_id": "owner-069",
+      "url": "https://www.kadokawa.co.jp/product/322202000306/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-069"
+      ]
+    },
+    {
+      "lead_id": "owner-070",
+      "url": "https://www.hontai.or.jp/history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-070"
+      ]
+    },
+    {
+      "lead_id": "owner-071",
+      "url": "https://www.shinchosha.co.jp/bunko/blog/2014/01/20.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-071"
+      ]
+    },
+    {
+      "lead_id": "owner-072",
+      "url": "https://bookmeter.com/rankings",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-072"
+      ]
+    },
+    {
+      "lead_id": "owner-073",
+      "url": "https://bookmeter.com/help/search/ranking",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-073"
+      ]
+    },
+    {
+      "lead_id": "owner-074",
+      "url": "https://bookmeter.com/specials/bookmeter_of_the_year?track=top-pc",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-074"
+      ]
+    },
+    {
+      "lead_id": "owner-075",
+      "url": "https://www.goodreads.com/list/show/6497.Japanese_Literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-075"
+      ]
+    },
+    {
+      "lead_id": "owner-076",
+      "url": "https://www.goodreads.com/list/show/108744.Japanese_Literature_in_English",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-076"
+      ]
+    },
+    {
+      "lead_id": "owner-077",
+      "url": "https://www.goodreads.com/list/show/10701.Japanese_Fiction",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-077"
+      ]
+    },
+    {
+      "lead_id": "owner-078",
+      "url": "https://thegreatestbooks.org/lists/480",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-078"
+      ]
+    },
+    {
+      "lead_id": "owner-079",
+      "url": "https://thegreatestbooks.org/lists/252",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-079"
+      ]
+    },
+    {
+      "lead_id": "owner-080",
+      "url": "https://www.yna.co.kr/view/AKR20171213050300005",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-080"
+      ]
+    },
+    {
+      "lead_id": "owner-081",
+      "url": "https://contents.premium.naver.com/history1876/smallstep/contents/260119211608497vp",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-081"
+      ]
+    },
+    {
+      "lead_id": "owner-082",
+      "url": "https://www.senscritique.com/liste/les_meilleurs_romans_de_tous_les_temps/1086438",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-082"
+      ]
+    },
+    {
+      "lead_id": "owner-083",
+      "url": "https://www.telerama.fr/livre/chers-lecteurs-de-telerama-votez-pour-vos-livres-preferes-de-tous-les-temps-7031201.php",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-083"
+      ]
+    },
+    {
+      "lead_id": "owner-084",
+      "url": "https://www.telerama.fr/livre/les-meilleurs-romans-et-recits-de-2025-le-top-20-de-telerama-7028586.php",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-084"
+      ]
+    },
+    {
+      "lead_id": "owner-085",
+      "url": "https://www.telerama.fr/livre/les-cinq-meilleurs-romans-et-recits-de-2025-selon-les-lectrices-et-lecteurs-de-telerama-3227-7028852.php",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-085"
+      ]
+    },
+    {
+      "lead_id": "owner-086",
+      "url": "https://www.m-reich-ranicki.de/content_themen_kanon.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-086"
+      ]
+    },
+    {
+      "lead_id": "owner-087",
+      "url": "https://www.zeit.de/kultur/literatur/2023-11/weltliteratur-zeit-bibliothek-100-buecher-empfehlungen",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-087"
+      ]
+    },
+    {
+      "lead_id": "owner-088",
+      "url": "https://thegreatestbooks.org/lists/438",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-088"
+      ]
+    },
+    {
+      "lead_id": "owner-089",
+      "url": "https://www.goodreads.com/list/show/484.Best_German_Austrian_Swiss_Literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-089"
+      ]
+    },
+    {
+      "lead_id": "owner-090",
+      "url": "https://www.polityka.pl/tygodnikpolityka/kultura/1768460%2C1%2Cliteracki-kanon-na-100-lecie-niepodleglosci.read",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-090"
+      ]
+    },
+    {
+      "lead_id": "owner-091",
+      "url": "https://www.polityka.pl/tygodnikpolityka/kultura/1769026%2C1%2Cludzie-kultury-ukladaja-nowy-kanon-lektur.read",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-091"
+      ]
+    },
+    {
+      "lead_id": "owner-092",
+      "url": "https://s.lubimyczytac.pl/rwd/src/assets/images/lcaward/lcaward-2025/regulamin_plebiscyt_ksiazka_roku.pdf",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-092"
+      ]
+    },
+    {
+      "lead_id": "owner-093",
+      "url": "https://lubimyczytac.pl/aktualnosci/21014/12-najlepszych-ksiazek-wszech-czasow-sprawdz-ile-z-nich-czytales",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-093"
+      ]
+    },
+    {
+      "lead_id": "owner-094",
+      "url": "https://lubimyczytac.pl/dyskusja/433/34627/12-najlepszych-ksiazek-wszech-czasow-sprawdz-ile-z-nich-czytales",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-094"
+      ]
+    },
+    {
+      "lead_id": "owner-095",
+      "url": "https://www.goodreads.com/list/show/2461.Best_Polish_Literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-095"
+      ]
+    },
+    {
+      "lead_id": "owner-096",
+      "url": "https://elpais.com/diario/2009/11/28/babelia/1259370748_850215.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-096"
+      ]
+    },
+    {
+      "lead_id": "owner-097",
+      "url": "https://www.lecturalia.com/blog/2009/03/29/100-novelas-que-debes-leer-i/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-097"
+      ]
+    },
+    {
+      "lead_id": "owner-098",
+      "url": "https://www.lecturalia.com/portada/libros",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-098"
+      ]
+    },
+    {
+      "lead_id": "owner-099",
+      "url": "https://quelibroleo.com/noticias/libros/los-100-mejores-libros-de-quelibroleo-segun-nuestros-usuarios/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-099"
+      ]
+    },
+    {
+      "lead_id": "owner-100",
+      "url": "https://quelibroleo.com/noticias/libros/100-mejores-segun-usuarios/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-100"
+      ]
+    },
+    {
+      "lead_id": "owner-101",
+      "url": "https://quelibroleo.com/noticias/libros/los-mejores-libros-de-la-historia-de-la-literatura-segun-los-lectores-de-quelibroleo/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-101"
+      ]
+    },
+    {
+      "lead_id": "owner-102",
+      "url": "https://www.livelib.ru/books/top",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-102"
+      ]
+    },
+    {
+      "lead_id": "owner-103",
+      "url": "https://www.livelib.ru/group/1636/topic/3196-luchshie-knigi-na-vse-vremena",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-103"
+      ]
+    },
+    {
+      "lead_id": "owner-104",
+      "url": "https://thegreatestbooks.org/lists/278",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-104"
+      ]
+    },
+    {
+      "lead_id": "owner-105",
+      "url": "https://www.databazeknih.cz/zebricky/100-nejlepe-hodnocenych-knih",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-105"
+      ]
+    },
+    {
+      "lead_id": "owner-106",
+      "url": "https://www.databazeknih.cz/zebricky/100-nejlepe-hodnocenych-knih?genreId=12",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-106"
+      ]
+    },
+    {
+      "lead_id": "owner-107",
+      "url": "https://www.goodreads.com/list/show/5053.The_best_Dutch_literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-107"
+      ]
+    },
+    {
+      "lead_id": "owner-108",
+      "url": "https://www.goodreads.com/list/show/1318.Best_Scandinavian_and_Nordic_Literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-108"
+      ]
+    },
+    {
+      "lead_id": "owner-109",
+      "url": "https://www.goodreads.com/list/show/42622.Best_Italian_Novels_",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-109"
+      ]
+    },
+    {
+      "lead_id": "owner-110",
+      "url": "https://www.goodreads.com/list/show/113.Best_Russian_Literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-110"
+      ]
+    },
+    {
+      "lead_id": "owner-111",
+      "url": "https://www.goodreads.com/list/show/17853.Greatest_Russian_Novels_of_All_Time",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-111"
+      ]
+    },
+    {
+      "lead_id": "owner-112",
+      "url": "https://www.goodreads.com/list/show/3133.Best_Russian_Soviet_1917_1991_Literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-112"
+      ]
+    },
+    {
+      "lead_id": "owner-113",
+      "url": "https://www.goodreads.com/list/show/67.Best_French_Literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-113"
+      ]
+    },
+    {
+      "lead_id": "owner-114",
+      "url": "https://www.goodreads.com/list/show/4098.Best_Indian_Fiction_Books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-114"
+      ]
+    },
+    {
+      "lead_id": "owner-115",
+      "url": "https://thegreatestbooks.org/lists/539",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-115"
+      ]
+    },
+    {
+      "lead_id": "owner-116",
+      "url": "https://thegreatestbooks.org/lists/427",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-116"
+      ]
+    },
+    {
+      "lead_id": "owner-117",
+      "url": "https://thegreatestbooks.org/lists/822",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-117"
+      ]
+    },
+    {
+      "lead_id": "owner-118",
+      "url": "https://thegreatestbooks.org/lists/282",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-118"
+      ]
+    },
+    {
+      "lead_id": "owner-119",
+      "url": "https://thegreatestbooks.org/lists/289",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-119"
+      ]
+    },
+    {
+      "lead_id": "owner-120",
+      "url": "https://thegreatestbooks.org/lists/971",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-120"
+      ]
+    },
+    {
+      "lead_id": "owner-121",
+      "url": "https://thegreatestbooks.org/lists/790",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-121"
+      ]
+    },
+    {
+      "lead_id": "owner-122",
+      "url": "https://thebookerprizes.com/the-booker-library/features/full-list-of-booker-prize-winners-shortlisted-and-longlisted-authors",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-122"
+      ]
+    },
+    {
+      "lead_id": "owner-123",
+      "url": "https://thebookerprizes.com/the-booker-library/features/full-list-of-international-booker-prize-winners-shortlisted-authors-and-their-books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-123"
+      ]
+    },
+    {
+      "lead_id": "owner-124",
+      "url": "https://dublinliteraryaward.ie/the-library/winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-124"
+      ]
+    },
+    {
+      "lead_id": "owner-125",
+      "url": "https://dublinliteraryaward.ie/the-library/prize-years/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-125"
+      ]
+    },
+    {
+      "lead_id": "owner-126",
+      "url": "https://womensprize.com/prizes/womens-prize-for-fiction/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-126"
+      ]
+    },
+    {
+      "lead_id": "owner-127",
+      "url": "https://womensprize.com/prizes/womens-prize-for-fiction/previous-prizes/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-127"
+      ]
+    },
+    {
+      "lead_id": "owner-128",
+      "url": "https://www.pulitzer.org/prize-winners-by-category/219",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-128"
+      ]
+    },
+    {
+      "lead_id": "owner-129",
+      "url": "https://www.nationalbook.org/national-book-awards/search/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-129"
+      ]
+    },
+    {
+      "lead_id": "owner-130",
+      "url": "https://www.bookcritics.org/awards/past/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-130"
+      ]
+    },
+    {
+      "lead_id": "owner-131",
+      "url": "https://www.penfaulkner.org/our-awards/pen-faulkner-award/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-131"
+      ]
+    },
+    {
+      "lead_id": "owner-132",
+      "url": "https://www.penfaulkner.org/our-awards/the-pen-hemingway-award/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-132"
+      ]
+    },
+    {
+      "lead_id": "owner-133",
+      "url": "https://www.academiegoncourt.com/tous-les-laureats-prix-goncourt",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-133"
+      ]
+    },
+    {
+      "lead_id": "owner-134",
+      "url": "https://www.academiegoncourt.com/prix-goncourt-et-selection-annee",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-134"
+      ]
+    },
+    {
+      "lead_id": "owner-135",
+      "url": "https://www.academie-francaise.fr/grand-prix-du-roman",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-135"
+      ]
+    },
+    {
+      "lead_id": "owner-136",
+      "url": "https://premiostrega.it/PS/vincitori-strega/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-136"
+      ]
+    },
+    {
+      "lead_id": "owner-137",
+      "url": "https://premiostrega.it/PS/archivio/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-137"
+      ]
+    },
+    {
+      "lead_id": "owner-138",
+      "url": "https://premiostrega.it/PSE/elenco-dei-vincitori/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-138"
+      ]
+    },
+    {
+      "lead_id": "owner-139",
+      "url": "https://www.deutscher-buchpreis.de/archiv/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-139"
+      ]
+    },
+    {
+      "lead_id": "owner-140",
+      "url": "https://www.norden.org/en/literature-prize",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-140"
+      ]
+    },
+    {
+      "lead_id": "owner-141",
+      "url": "https://archive.arabicfiction.org/en",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-141"
+      ]
+    },
+    {
+      "lead_id": "owner-142",
+      "url": "https://bungakushinko.or.jp/award/akutagawa/list.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-142"
+      ]
+    },
+    {
+      "lead_id": "owner-143",
+      "url": "https://www.thehugoawards.org/2026/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-143"
+      ]
+    },
+    {
+      "lead_id": "owner-144",
+      "url": "https://nebulas.sfwa.org/award/best-novel/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-144"
+      ]
+    },
+    {
+      "lead_id": "owner-145",
+      "url": "https://www.neustadtprize.org/neustadt-laureates/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-145"
+      ]
+    },
+    {
+      "lead_id": "owner-146",
+      "url": "https://www.walterscottprize.co.uk/about-the-prize/resources/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-146"
+      ]
+    },
+    {
+      "lead_id": "owner-147",
+      "url": "https://www.reddit.com/r/TrueLit/comments/1fwciah/truelits_100_best_books_of_the_quarter_century/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-147"
+      ]
+    },
+    {
+      "lead_id": "owner-148",
+      "url": "https://www.reddit.com/r/TrueLit/comments/1i5re2u/truelits_2024_top_100_favorite_books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-148"
+      ]
+    },
+    {
+      "lead_id": "owner-149",
+      "url": "https://www.reddit.com/r/TrueLit/comments/197l37n/truelits_2023_top_100_favorite_books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-149"
+      ]
+    },
+    {
+      "lead_id": "owner-150",
+      "url": "https://www.reddit.com/r/TrueLit/comments/1pfw2e5/truelits_annual_favorite_100_poll_2025_edition/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-150"
+      ]
+    },
+    {
+      "lead_id": "owner-151",
+      "url": "https://www.reddit.com/r/TrueLit/comments/1hgcepf",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-151"
+      ]
+    },
+    {
+      "lead_id": "owner-152",
+      "url": "https://www.reddit.com/r/TrueLit/comments/ezipi7/vote_in_the_first_annual_rtruelit_top_100/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-152"
+      ]
+    },
+    {
+      "lead_id": "owner-153",
+      "url": "https://www.reddit.com/r/printSF/comments/10ywsk7/our_very_own_top_book_poll_results/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-153"
+      ]
+    },
+    {
+      "lead_id": "owner-154",
+      "url": "https://www.reddit.com/r/printSF/comments/10oj7im/our_very_own_top_novel_poll/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-154"
+      ]
+    },
+    {
+      "lead_id": "owner-155",
+      "url": "https://www.reddit.com/r/printSF/comments/1l1rzv2/a_few_days_ago_i_asked_rprintsf_what_they/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-155"
+      ]
+    },
+    {
+      "lead_id": "owner-156",
+      "url": "https://www.reddit.com/r/Fantasy/comments/1inoxxy/the_rfantasy_2025_top_novels_poll_voting_thread/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-156"
+      ]
+    },
+    {
+      "lead_id": "owner-157",
+      "url": "https://www.reddit.com/r/Fantasy/comments/10jeg5i",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-157"
+      ]
+    },
+    {
+      "lead_id": "owner-158",
+      "url": "https://www.reddit.com/r/Fantasy/comments/nfc2fy",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-158"
+      ]
+    },
+    {
+      "lead_id": "owner-159",
+      "url": "https://www.reddit.com/r/Fantasy/comments/p1mwnx",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-159"
+      ]
+    },
+    {
+      "lead_id": "owner-160",
+      "url": "https://www.reddit.com/r/Fantasy/comments/p2dxo9",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-160"
+      ]
+    },
+    {
+      "lead_id": "owner-161",
+      "url": "https://www.reddit.com/r/Fantasy/comments/1j178ao",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-161"
+      ]
+    },
+    {
+      "lead_id": "owner-162",
+      "url": "https://www.reddit.com/r/classicliterature/comments/1pmcwkf/rclassicliterature_favourite_100_poll/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-162"
+      ]
+    },
+    {
+      "lead_id": "owner-163",
+      "url": "https://www.reddit.com/r/classicliterature/comments/1n2vd8p/top_10_favorite_works_of_literature/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-163"
+      ]
+    },
+    {
+      "lead_id": "owner-164",
+      "url": "https://www.reddit.com/r/classicliterature/comments/1tdfwy4/the_guardians_100_best_novels_of_all_time_fiction/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-164"
+      ]
+    },
+    {
+      "lead_id": "owner-165",
+      "url": "https://www.reddit.com/r/books/comments/wmi7ty/the_best_books_ever_written_a_metaanalysis_of_the/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-165"
+      ]
+    },
+    {
+      "lead_id": "owner-166",
+      "url": "https://www.reddit.com/r/books/comments/1dycz6m",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-166"
+      ]
+    },
+    {
+      "lead_id": "owner-167",
+      "url": "https://www.reddit.com/r/horror/comments/gtybjv",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-167"
+      ]
+    },
+    {
+      "lead_id": "owner-168",
+      "url": "https://thegreatestbooks.org/lists/260",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-168"
+      ]
+    },
+    {
+      "lead_id": "owner-169",
+      "url": "https://thegreatestbooks.org/lists/376",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-169"
+      ]
+    },
+    {
+      "lead_id": "owner-170",
+      "url": "https://thegreatestbooks.org/lists/313",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-170"
+      ]
+    },
+    {
+      "lead_id": "owner-171",
+      "url": "https://thegreatestbooks.org/lists/281",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-171"
+      ]
+    },
+    {
+      "lead_id": "owner-172",
+      "url": "https://thegreatestbooks.org/lists/291",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-172"
+      ]
+    },
+    {
+      "lead_id": "owner-173",
+      "url": "https://thegreatestbooks.org/lists/899",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-173"
+      ]
+    },
+    {
+      "lead_id": "owner-174",
+      "url": "https://thegreatestbooks.org/lists/142",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-174"
+      ]
+    },
+    {
+      "lead_id": "owner-175",
+      "url": "https://thegreatestbooks.org/lists/446",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-175"
+      ]
+    },
+    {
+      "lead_id": "owner-176",
+      "url": "https://thegreatestbooks.org/lists/194",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-176"
+      ]
+    },
+    {
+      "lead_id": "owner-177",
+      "url": "https://thegreatestbooks.org/lists",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-177"
+      ]
+    },
+    {
+      "lead_id": "owner-178",
+      "url": "https://www.librarything.com/list/12023/all/Top-100-to-Read-before-you-Die",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-178"
+      ]
+    },
+    {
+      "lead_id": "owner-179",
+      "url": "https://academic.oup.com/dsh/article/41/1/170/8361719",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-179"
+      ]
+    },
+    {
+      "lead_id": "owner-180",
+      "url": "https://academic.oup.com/dsh/article/41/Supplement_1/i89/8253512",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-180"
+      ]
+    },
+    {
+      "lead_id": "owner-181",
+      "url": "https://newleftreview.org/issues/ii1/articles/franco-moretti-conjectures-on-world-literature",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-181"
+      ]
+    },
+    {
+      "lead_id": "owner-182",
+      "url": "https://newleftreview.org/issues/ii20/articles/franco-moretti-more-conjectures",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-182"
+      ]
+    },
+    {
+      "lead_id": "owner-183",
+      "url": "https://newleftreview.org/issues/ii24/articles/franco-moretti-graphs-maps-trees-1",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-183"
+      ]
+    },
+    {
+      "lead_id": "owner-184",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304422X25000841",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-184"
+      ]
+    },
+    {
+      "lead_id": "owner-185",
+      "url": "https://lwc1.benjamins.com/catalog/tris.23007.jan",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-185"
+      ]
+    },
+    {
+      "lead_id": "owner-186",
+      "url": "https://ojs.utlib.ee/index.php/IL/article/view/24539",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-186"
+      ]
+    },
+    {
+      "lead_id": "owner-187",
+      "url": "https://academic.oup.com/edited-volume/61883/chapter-abstract/547770166",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-187"
+      ]
+    },
+    {
+      "lead_id": "owner-188",
+      "url": "https://research.rug.nl/en/publications/literary-and-translation-prizes-in-the-cultural-transfer-process-/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-188"
+      ]
+    },
+    {
+      "lead_id": "owner-189",
+      "url": "https://www.jstor.org/stable/j.ctv23wf37q",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-189"
+      ]
+    },
+    {
+      "lead_id": "owner-190",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/dsll-2025-0011/html?lang=en",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-190"
+      ]
+    },
+    {
+      "lead_id": "owner-191",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304422X23000633",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-191"
+      ]
+    },
+    {
+      "lead_id": "owner-192",
+      "url": "https://www.jstor.org/stable/j.ctv301fqn",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-192"
+      ]
+    },
+    {
+      "lead_id": "owner-193",
+      "url": "https://academic.oup.com/book/11651/chapter-abstract/160570508",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-193"
+      ]
+    },
+    {
+      "lead_id": "owner-194",
+      "url": "https://academic.oup.com/edited-volume/61883/chapter-abstract/547815363",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-194"
+      ]
+    },
+    {
+      "lead_id": "owner-195",
+      "url": "https://www.eduresearchjournal.com/index.php/ijlll/article/view/433",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-195"
+      ]
+    },
+    {
+      "lead_id": "owner-196",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/03096564.2020.1747006",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-196"
+      ]
+    },
+    {
+      "lead_id": "owner-197",
+      "url": "https://journals.sagepub.com/doi/10.1177/1749975515576940",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-197"
+      ]
+    },
+    {
+      "lead_id": "owner-198",
+      "url": "https://lnu.diva-portal.org/smash/record.jsf?pid=diva2%3A610565",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-198"
+      ]
+    },
+    {
+      "lead_id": "owner-199",
+      "url": "https://scholar.utc.edu/honors-theses/467/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-199"
+      ]
+    },
+    {
+      "lead_id": "owner-200",
+      "url": "https://academic.oup.com/hong-kong-scholarship-online/book/44416/chapter-abstract/373753760",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-200"
+      ]
+    }
+  ]
+}

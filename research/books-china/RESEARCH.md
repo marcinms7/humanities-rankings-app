@@ -1,0 +1,13 @@
+# Books · Chinese-language tradition — owner-paste intake, 13 September 2026
+
+## Audited revision — 14 September 2026
+
+The owner-supplied revised Top 100 is preserved verbatim at `research/incoming/books-china/2026-09-14-owner-chat-audited-revision/report.txt` (SHA-256 `e28e86118df889db65ad7fe08bdf8165fe2b276fec0530af065ce181b8ac0d59`). It updates every prior `CHINA-001`–`CHINA-128` source record and adds `CHINA-129`–`CHINA-244`; the resulting ledger retains all **244 supplied records**. The report's audited status makes 30 of the earlier records and all 116 additions eligible, while metadata, shell and unavailable records remain retained but uncounted. `CHINA-245`, a directly read MCLC academic review, was added as a narrow supplementary entry-validation source for *Chronicle of a Blood Merchant*, whose supplied sole citation was a metadata-only directory lead. It brings the target to **245 retained / 147 eligible** without changing the supplied audit status for `CHINA-102`.
+
+Revision 3 publishes the report's Top 100 positions. The intake retained existing work identities where available, imported 12 new attributed works and recorded three collective/unresolved classical corpora authorlessly rather than inventing authors. The supplied order is intentionally used for both current views because no separately reasoned reading-value order was supplied. Source-ledger, candidate, catalog, authorless-import and selection receipts are in this directory; previous revision and source history remain intact.
+
+The owner's pasted Top 100 synthesis is preserved verbatim at `research/incoming/books-china/2026-09-13-owner-paste/report.txt` (SHA-256 `97647681a2ea448a7a0b09f66f49c8f8f36a3716d3467cd87afb183da32d20b0`). Its 128 distinct reported source URLs were normalized to `sources.json` and imported into the target ledger.
+
+The supplied scope expressly includes the wider Chinese-language tradition, including mainland China, Hong Kong and Taiwan. The existing target keeps its stable `books-china` slug but is displayed as **Books · Chinese-language tradition** with that scope stated explicitly. The provisional revision-2 selection contains 97 entries. The reading-value view retains the supplied order because no separate reading order was provided; editions and media remain pending.
+
+`Book of Songs` (6), `Book of Rites` (27) and `Book of Documents` (78) remain saved but unpublished pending a resolved collective-attribution representation. Source-family audit: 25 academic/institutional, 55 editorial/specialist, 48 reader-community. Records retain external-report provenance and corpus-level, rather than per-work, evidence mapping.

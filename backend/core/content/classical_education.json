@@ -1,0 +1,1295 @@
+{
+  "revision": "paideia-v1",
+  "modules": [
+    {
+      "id": "iliad",
+      "number": 1,
+      "title": "The Iliad",
+      "author": "Homer",
+      "subtitle": "Anger, honour & the human cost of war",
+      "stage": "1 — Epic & early voices",
+      "periods": [
+        "Archaic Greece"
+      ],
+      "subjects": [
+        "Literature"
+      ],
+      "era": "c. 8th–7th century BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "Begin with the epic vocabulary that tragedy, Roman epic and later writers repeatedly reshape. The poem concerns a short stretch of the Trojan War; it does not narrate the fall of Troy.",
+      "prerequisites": [],
+      "light": {
+        "hours": 12,
+        "reading": "Books 1, 6, 9, 16, 18, 22 and 24. Read a plot outline for the intervening books.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 30,
+        "reading": "All 24 books. Compare one passage in two translations and keep a glossary of honour, excellence, fate and glory.",
+        "exercise": "Write 800 words on honour and grief, using three short passages and noting who speaks."
+      },
+      "support": "Before reading: locate Troy, Mycenae and the Aegean on an atlas. Read your edition’s introduction on oral poetry and watch Yale lectures 1–6 selectively for historical orientation. Myth is not a documentary record of the Bronze Age.",
+      "question": "Does the encounter between Achilles and Priam change what the poem asks us to admire?",
+      "refs": [
+        "iliad",
+        "yale"
+      ]
+    },
+    {
+      "id": "odyssey",
+      "number": 2,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "subtitle": "Homecoming, identity & the art of storytelling",
+      "stage": "1 — Epic & early voices",
+      "periods": [
+        "Archaic Greece"
+      ],
+      "subjects": [
+        "Literature"
+      ],
+      "era": "c. 8th–7th century BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "A productive counterpoint to the Iliad: survival, recognition and household order replace the battlefield’s central values.",
+      "prerequisites": [
+        "iliad"
+      ],
+      "light": {
+        "hours": 14,
+        "reading": "Books 1, 5–12, 19 and 23. Bridge the remaining action with a synopsis.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 28,
+        "reading": "All 24 books. Track the changing narrators, disguises and recognition scenes.",
+        "exercise": "Compare the values of Achilles and Odysseus in a 1,000-word argument."
+      },
+      "support": "Use the introduction and notes in an annotated translation. Track hospitality and slavery as historical institutions, not simply as timeless moral symbols.",
+      "question": "When does Odysseus’s ability to invent a story help him, and when does it endanger him?",
+      "refs": [
+        "odyssey"
+      ]
+    },
+    {
+      "id": "hesiod",
+      "number": 3,
+      "title": "Gods, work & lyric voices",
+      "author": "Hesiod · Sappho",
+      "subtitle": "Beyond the heroic world",
+      "stage": "1 — Epic & early voices",
+      "periods": [
+        "Archaic Greece"
+      ],
+      "subjects": [
+        "Literature",
+        "Philosophy"
+      ],
+      "era": "c. 700–570 BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "Broaden early Greek literature beyond Homer: divine genealogy, labour, justice and personal desire require different reading habits.",
+      "prerequisites": [
+        "iliad"
+      ],
+      "light": {
+        "hours": 5,
+        "reading": "Hesiod, Theogony: opening through the Prometheus and Pandora episode; Works and Days, lines 1–285. Sappho, fragments 1 and 31 (standard numbering).",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 14,
+        "reading": "Theogony and Works and Days complete. Read an annotated selection of Sappho, including fragments 1, 16, 31 and 58; distinguish surviving words from editorial reconstruction.",
+        "exercise": "Annotate one Sappho fragment and explain what its gaps prevent us from knowing."
+      },
+      "support": "Use a modern edition with fragment numbers and brackets. Build a small genealogy of the gods rather than trying to memorise every name.",
+      "question": "How do work and desire complicate the heroic ideal?",
+      "refs": [
+        "archive",
+        "dcc"
+      ]
+    },
+    {
+      "id": "herodotus",
+      "number": 4,
+      "title": "The Histories",
+      "author": "Herodotus",
+      "subtitle": "Inquiry, difference & the Persian Wars",
+      "stage": "2 — The Greek city",
+      "periods": [
+        "Classical Greece"
+      ],
+      "subjects": [
+        "History"
+      ],
+      "era": "5th century BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "Establish the historical setting of the polis and practise distinguishing report, story, explanation and evidence.",
+      "prerequisites": [
+        "iliad"
+      ],
+      "light": {
+        "hours": 7,
+        "reading": "Book 1.1–94 (Croesus) and 7.201–239 (Thermopylae). Use a timeline to connect the Persian Wars.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 35,
+        "reading": "Books 1, 2 and 6–9, with summaries of 3–5. Track competing reports and the limits of the narrator’s knowledge.",
+        "exercise": "Write a 1,000-word source criticism of the Croesus narrative."
+      },
+      "support": "Pair with Yale lectures 7–12 and the relevant chapters of the course’s listed textbook, Pomeroy et al., Ancient Greece (a newer edition is fine). Include Persian perspectives and archaeology when assessing Greek claims.",
+      "question": "Does Herodotus explain defeat through human choices, divine forces, or both?",
+      "refs": [
+        "archive",
+        "yale"
+      ]
+    },
+    {
+      "id": "tragedy",
+      "number": 5,
+      "title": "Justice on the tragic stage",
+      "author": "Aeschylus · Sophocles",
+      "subtitle": "From family vengeance to civic law",
+      "stage": "2 — The Greek city",
+      "periods": [
+        "Classical Greece"
+      ],
+      "subjects": [
+        "Literature",
+        "Philosophy"
+      ],
+      "era": "458–c. 441 BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "Epic households become public problems. The Athenian festival setting helps explain the relationship between theatrical conflict and civic life.",
+      "prerequisites": [
+        "iliad",
+        "herodotus"
+      ],
+      "light": {
+        "hours": 8,
+        "reading": "Sophocles, Antigone, complete; Aeschylus, Eumenides, complete, after a synopsis of Agamemnon and The Libation Bearers.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 18,
+        "reading": "The Oresteia trilogy and Antigone complete. Read one scene aloud and compare how two translations handle the chorus.",
+        "exercise": "Write 1,200 words comparing the authority of law in Antigone and Eumenides."
+      },
+      "support": "Read your edition’s introduction to the City Dionysia and chorus. These plays offer contested voices; a character’s speech is not automatically the playwright’s position.",
+      "question": "What remains unresolved when a tragic conflict appears to have been settled?",
+      "refs": [
+        "archive"
+      ]
+    },
+    {
+      "id": "comedy",
+      "number": 6,
+      "title": "Outsiders & comic citizens",
+      "author": "Euripides · Aristophanes",
+      "subtitle": "Medea meets Lysistrata",
+      "stage": "2 — The Greek city",
+      "periods": [
+        "Classical Greece"
+      ],
+      "subjects": [
+        "Literature"
+      ],
+      "era": "431 & 411 BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "Read tragedy and comedy together to test how gender, citizenship and exclusion shape the Athenian stage.",
+      "prerequisites": [
+        "tragedy"
+      ],
+      "light": {
+        "hours": 6,
+        "reading": "Medea, complete; Lysistrata, opening through the women’s oath, then the reconciliation ending, using scene divisions in your edition.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 15,
+        "reading": "Medea and Lysistrata complete. Add Euripides’ Bacchae, paying attention to performance and religious context.",
+        "exercise": "Compare a serious and comic use of gender reversal in 800 words."
+      },
+      "support": "Use annotated editions for topical jokes, sexual language and festival references. Separate theatrical agency from the legal position of women in Athens.",
+      "question": "Do these plays challenge social hierarchies, restore them, or do both at once?",
+      "refs": [
+        "archive"
+      ]
+    },
+    {
+      "id": "thucydides",
+      "number": 7,
+      "title": "War, power & democracy",
+      "author": "Thucydides",
+      "subtitle": "The Peloponnesian War",
+      "stage": "2 — The Greek city",
+      "periods": [
+        "Classical Greece"
+      ],
+      "subjects": [
+        "History",
+        "Rhetoric"
+      ],
+      "era": "Late 5th century BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "Move from Herodotus’s inquiry to a different account of political causation, contested speeches and imperial power.",
+      "prerequisites": [
+        "herodotus"
+      ],
+      "light": {
+        "hours": 7,
+        "reading": "1.1–23; 2.34–65 (Funeral Oration, plague and assessment of Pericles); 5.84–116 (Melian Dialogue).",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 36,
+        "reading": "Books 1–3 and 5–7; synopsis of Book 4 and surviving Book 8. Compare the Mytilenean debate and Melian Dialogue.",
+        "exercise": "Write 1,200 words testing an argument about Athenian power against two contrasting speeches."
+      },
+      "support": "Pair with Yale lectures 13–20. Read 1.22 carefully: speeches are mediated reconstructions, not transcripts.",
+      "question": "How does the plague change the meaning of the Funeral Oration?",
+      "refs": [
+        "archive",
+        "yale"
+      ]
+    },
+    {
+      "id": "socrates",
+      "number": 8,
+      "title": "The examined life",
+      "author": "Plato",
+      "subtitle": "Apology, Euthyphro & Crito",
+      "stage": "3 — Thinking & persuading",
+      "periods": [
+        "Classical Greece"
+      ],
+      "subjects": [
+        "Philosophy",
+        "Rhetoric"
+      ],
+      "era": "4th century BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "Short dialogues introduce argument, definition and ethical difficulty before the more demanding Republic. Plato’s Socrates is a literary and philosophical construction.",
+      "prerequisites": [
+        "herodotus"
+      ],
+      "light": {
+        "hours": 6,
+        "reading": "Apology and Crito complete. Summarise each main argument in premises and conclusion.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 15,
+        "reading": "Euthyphro, Apology and Crito complete. Add Phaedo, 57a–84b, and compare the different dramatic settings.",
+        "exercise": "Reconstruct one argument, give its strongest objection, and attempt a reply in 900 words."
+      },
+      "support": "Read the notes in a modern annotated translation. Use the Stanford political philosophy entry for context after your own first reconstruction of the argument.",
+      "question": "Can Socrates defend both questioning the city and obeying its judgement?",
+      "refs": [
+        "apology",
+        "sep"
+      ]
+    },
+    {
+      "id": "republic",
+      "number": 9,
+      "title": "Justice & the ideal city",
+      "author": "Plato",
+      "subtitle": "The Republic",
+      "stage": "3 — Thinking & persuading",
+      "periods": [
+        "Classical Greece"
+      ],
+      "subjects": [
+        "Philosophy"
+      ],
+      "era": "4th century BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "The earlier dialogues and historical debates prepare you to follow an extended argument about the soul, education and political authority.",
+      "prerequisites": [
+        "socrates",
+        "thucydides"
+      ],
+      "light": {
+        "hours": 10,
+        "reading": "Books 1–2, Book 4, and Book 7.514a–521b (the cave and its interpretation); bridge with an outline of the whole dialogue.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 32,
+        "reading": "All 10 books. Map the relation between the city and soul; examine the treatment of poetry against Homer and tragedy.",
+        "exercise": "Write 1,500 words defending or criticising one central argument rather than surveying the whole book."
+      },
+      "support": "Use Stanford’s Ancient Political Philosophy, Plato sections. Cite standard Stephanus numbers so arguments can be located across translations.",
+      "question": "Does the city–soul analogy demonstrate what justice is, or assume it?",
+      "refs": [
+        "archive",
+        "sep"
+      ]
+    },
+    {
+      "id": "aristotle",
+      "number": 10,
+      "title": "Flourishing & political life",
+      "author": "Aristotle",
+      "subtitle": "Nicomachean Ethics & Politics",
+      "stage": "3 — Thinking & persuading",
+      "periods": [
+        "Classical Greece"
+      ],
+      "subjects": [
+        "Philosophy"
+      ],
+      "era": "4th century BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "Aristotle offers a contrasting method: begin with human practices and distinctions, then test accounts of virtue, friendship and citizenship.",
+      "prerequisites": [
+        "republic"
+      ],
+      "light": {
+        "hours": 9,
+        "reading": "Nicomachean Ethics, Books 1–2; Politics, Book 1, chapters 1–2, and Book 3, chapters 1–5.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 30,
+        "reading": "Nicomachean Ethics, Books 1–3, 6 and 8–10; Politics, Books 1, 3 and 7.",
+        "exercise": "Write 1,200 words on whether habituation is sufficient for virtue, with objections."
+      },
+      "support": "Consult the Aristotle sections of Stanford’s Ancient Political Philosophy. Record ancient exclusions from citizenship and the arguments used to justify them.",
+      "question": "How far does Aristotle’s account of flourishing depend on a particular social order?",
+      "refs": [
+        "archive",
+        "sep"
+      ]
+    },
+    {
+      "id": "rhetoric",
+      "number": 11,
+      "title": "The arts of persuasion",
+      "author": "Aristotle",
+      "subtitle": "Rhetoric & Poetics",
+      "stage": "3 — Thinking & persuading",
+      "periods": [
+        "Classical Greece"
+      ],
+      "subjects": [
+        "Rhetoric",
+        "Literature"
+      ],
+      "era": "4th century BCE",
+      "language": "Ancient Greek → English",
+      "rationale": "Analyse how arguments and literary forms work, then apply the vocabulary to speeches and plays you have already read.",
+      "prerequisites": [
+        "aristotle",
+        "tragedy",
+        "thucydides"
+      ],
+      "light": {
+        "hours": 6,
+        "reading": "Rhetoric, Book 1, chapters 1–3 and Book 2, chapter 1; Poetics, chapters 1–14.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 24,
+        "reading": "Rhetoric, Books 1–2 and Book 3, chapters 1–12; Poetics complete.",
+        "exercise": "Write a 500-word speech for a contested policy, then annotate its reasoning, credibility and emotional appeals."
+      },
+      "support": "Use the introduction and technical glossary in an annotated edition. Distinguish Aristotle’s analysis of tragedy from a rulebook every play must satisfy.",
+      "question": "Can a persuasive speech be ethically good if its conclusion is false?",
+      "refs": [
+        "archive"
+      ]
+    },
+    {
+      "id": "hellenistic",
+      "number": 12,
+      "title": "Living without fear",
+      "author": "Epicurus · Lucretius",
+      "subtitle": "Philosophy after the classical polis",
+      "stage": "3 — Thinking & persuading",
+      "periods": [
+        "Hellenistic world",
+        "Roman Republic"
+      ],
+      "subjects": [
+        "Philosophy",
+        "Literature"
+      ],
+      "era": "3rd century & 1st century BCE",
+      "language": "Ancient Greek & Latin → English",
+      "rationale": "Follow Epicurean ideas from Greek philosophical teaching into Roman didactic poetry. This is one tradition crossing languages and periods.",
+      "prerequisites": [
+        "aristotle"
+      ],
+      "light": {
+        "hours": 5,
+        "reading": "Epicurus, Letter to Menoeceus; Lucretius, On the Nature of Things, Book 3, lines 830–1094, using your edition’s line references.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 25,
+        "reading": "Epicurus, Letter to Menoeceus and Principal Doctrines; Lucretius, Books 1–3 and 6.",
+        "exercise": "Write a philosophical objection and response, then explain what poetry adds to the argument."
+      },
+      "support": "Read edition introductions on atomism and Hellenistic philosophical schools. Reconstruct the arguments about death before deciding whether they console.",
+      "question": "Does the argument that death is nothing to us address the fear of losing a future?",
+      "refs": [
+        "archive"
+      ]
+    },
+    {
+      "id": "alexander",
+      "number": 13,
+      "title": "A Mediterranean in transition",
+      "author": "Arrian · Polybius",
+      "subtitle": "Alexander, successors & the rise of Rome",
+      "stage": "4 — From Greece to Rome",
+      "periods": [
+        "Hellenistic world",
+        "Roman Republic",
+        "Roman Empire"
+      ],
+      "subjects": [
+        "History"
+      ],
+      "era": "Events: 4th–2nd centuries BCE; authors: 2nd century BCE & 2nd century CE",
+      "language": "Ancient Greek → English",
+      "rationale": "Bridge the often-missed space between classical Athens and imperial Rome. Arrian is a much later source for Alexander, while Polybius writes within Rome’s rise.",
+      "prerequisites": [
+        "thucydides"
+      ],
+      "light": {
+        "hours": 6,
+        "reading": "Arrian, Anabasis, Book 7, chapters 24–30; Polybius, Histories, Book 6, chapters 11–18. Read a modern timeline from Philip II to the Roman conquest of Greece.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 24,
+        "reading": "Arrian, Anabasis, Books 1 and 7; Polybius, Histories, Books 1 and 6. Extend the timeline to the successor kingdoms and their cultural centres.",
+        "exercise": "Create an annotated timeline with five events, separating dates of events from dates of the sources."
+      },
+      "support": "Use Yale lectures 21–24 for the fourth-century Greek background, then edition introductions for the successor kingdoms. Record the distance between an event and its surviving account.",
+      "question": "What makes Polybius’s account of Rome’s constitution persuasive, and what does it leave out?",
+      "refs": [
+        "archive",
+        "yale"
+      ]
+    },
+    {
+      "id": "republic-history",
+      "number": 14,
+      "title": "Rome: republic & civil conflict",
+      "author": "Livy · Sallust",
+      "subtitle": "Foundation stories and the problem of decline",
+      "stage": "4 — From Greece to Rome",
+      "periods": [
+        "Roman Republic",
+        "Roman Empire"
+      ],
+      "subjects": [
+        "History"
+      ],
+      "era": "1st century BCE–early 1st century CE; earlier events",
+      "language": "Latin → English",
+      "rationale": "Learn the institutions and retrospective moral narratives that underpin Cicero, Virgil and Roman imperial history.",
+      "prerequisites": [
+        "alexander"
+      ],
+      "light": {
+        "hours": 6,
+        "reading": "Livy, Book 1, chapters 1–16 and 57–60; Sallust, The Conspiracy of Catiline, chapters 1–13 and 50–61.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 22,
+        "reading": "Livy, Books 1–2; Sallust, The Conspiracy of Catiline complete. Compare their accounts of exemplary virtue and corruption.",
+        "exercise": "Compare a Livian exemplum with Sallust’s explanation of decline in 1,000 words."
+      },
+      "support": "Use a modern Roman history overview and annotated edition introductions to map monarchy, republic, magistracies, Senate and civil wars. Livy writes about the early republic from the Augustan age.",
+      "question": "When does a foundation story explain the past, and when does it justify later institutions?",
+      "refs": [
+        "archive"
+      ]
+    },
+    {
+      "id": "cicero",
+      "number": 15,
+      "title": "Speaking for the republic",
+      "author": "Cicero",
+      "subtitle": "Public rhetoric & moral duty",
+      "stage": "4 — From Greece to Rome",
+      "periods": [
+        "Roman Republic"
+      ],
+      "subjects": [
+        "Rhetoric",
+        "Philosophy"
+      ],
+      "era": "1st century BCE",
+      "language": "Latin → English",
+      "rationale": "Bring Greek rhetorical analysis into Roman political practice. Compare a speech’s persuasive aims with an explicit account of duty.",
+      "prerequisites": [
+        "rhetoric",
+        "republic-history"
+      ],
+      "light": {
+        "hours": 6,
+        "reading": "First Catilinarian speech complete; On Duties, Book 1, sections 1–60.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 22,
+        "reading": "First and Second Catilinarian speeches; On Duties, Books 1 and 3; On the Orator, Book 1, sections 30–73.",
+        "exercise": "Annotate the First Catilinarian using Aristotle’s categories, then write a 700-word ethical assessment."
+      },
+      "support": "Read the historical introduction to the Catiline conspiracy. Pair Cicero’s account with Sallust; neither is a neutral transcript of events.",
+      "question": "What duties does an orator owe when a persuasive account benefits the speaker?",
+      "refs": [
+        "archive",
+        "sep"
+      ]
+    },
+    {
+      "id": "aeneid",
+      "number": 16,
+      "title": "The Aeneid",
+      "author": "Virgil",
+      "subtitle": "The price of founding an empire",
+      "stage": "4 — From Greece to Rome",
+      "periods": [
+        "Roman Empire"
+      ],
+      "subjects": [
+        "Literature",
+        "History"
+      ],
+      "era": "29–19 BCE",
+      "language": "Latin → English",
+      "rationale": "Virgil reworks both Homeric epics within the Augustan world. Read its public promises alongside its intimate losses.",
+      "prerequisites": [
+        "iliad",
+        "odyssey",
+        "republic-history"
+      ],
+      "light": {
+        "hours": 11,
+        "reading": "Books 1, 2, 4, 6 and 12; use a synopsis to connect the rest.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 28,
+        "reading": "All 12 books. Compare Book 6 with Odyssey 11 and Book 12 with the Iliad’s ending.",
+        "exercise": "Write 1,200 words on a Homeric scene transformed by Virgil, attending to both continuities and differences."
+      },
+      "support": "Use the introduction on Augustus in an annotated edition. Dickinson’s commentaries can support selected Latin passages if you later add language study.",
+      "question": "Does the ending confirm or unsettle the poem’s account of Roman destiny?",
+      "refs": [
+        "aeneid",
+        "dcc"
+      ]
+    },
+    {
+      "id": "ovid",
+      "number": 17,
+      "title": "Love, poetry & transformation",
+      "author": "Catullus · Ovid",
+      "subtitle": "Small voices, changing bodies, unstable authority",
+      "stage": "4 — From Greece to Rome",
+      "periods": [
+        "Roman Republic",
+        "Roman Empire"
+      ],
+      "subjects": [
+        "Literature"
+      ],
+      "era": "1st century BCE–early 1st century CE",
+      "language": "Latin → English",
+      "rationale": "Read Latin literature beyond national epic. Catullus adapts Greek lyric; Ovid transforms the mythic archive through unstable narrators and metamorphosis.",
+      "prerequisites": [
+        "hesiod",
+        "aeneid"
+      ],
+      "light": {
+        "hours": 8,
+        "reading": "Catullus, poems 5, 8, 51 and 85; Ovid, Metamorphoses, Books 1, 6 and 10.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 30,
+        "reading": "Catullus, poems 1–14, 51, 64, 85 and 101; Metamorphoses complete.",
+        "exercise": "Close-read one Ovidian story, then compare it with another ancient telling cited in your edition’s notes."
+      },
+      "support": "Use modern editions with poem and line numbers. Compare Catullus 51 with Sappho 31; note translation, adaptation and the fragmentary state of Sappho’s text.",
+      "question": "Who controls the telling of a transformation, and whose voice is lost?",
+      "refs": [
+        "archive",
+        "dcc"
+      ]
+    },
+    {
+      "id": "stoics",
+      "number": 18,
+      "title": "Philosophy as daily practice",
+      "author": "Seneca · Epictetus · Marcus Aurelius",
+      "subtitle": "Judgement, freedom & attention",
+      "stage": "5 — Empire & transformation",
+      "periods": [
+        "Roman Empire"
+      ],
+      "subjects": [
+        "Philosophy"
+      ],
+      "era": "1st–2nd centuries CE",
+      "language": "Latin & Ancient Greek → English",
+      "rationale": "Compare three Roman-period Stoic voices and their genres: letters, teaching preserved by a pupil, and personal exercises.",
+      "prerequisites": [
+        "hellenistic"
+      ],
+      "light": {
+        "hours": 5,
+        "reading": "Epictetus, Enchiridion complete; Seneca, Letters 1 and 47; Marcus Aurelius, Meditations, Book 2.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 23,
+        "reading": "Enchiridion and Meditations complete; Seneca, Letters 1, 7, 47, 71, 76 and 104; Epictetus, Discourses, Book 1, chapters 1 and 18.",
+        "exercise": "Keep a seven-day judgement log, then critique one Stoic claim in an 800-word argument."
+      },
+      "support": "Use edition introductions to locate each writer socially. Keep historical Stoicism distinct from isolated motivational quotations.",
+      "question": "How does an account of inner freedom confront, or fail to confront, external injustice?",
+      "refs": [
+        "archive",
+        "dcc"
+      ]
+    },
+    {
+      "id": "empire",
+      "number": 19,
+      "title": "Power under the emperors",
+      "author": "Tacitus · Suetonius",
+      "subtitle": "Historical narrative and imperial biography",
+      "stage": "5 — Empire & transformation",
+      "periods": [
+        "Roman Empire"
+      ],
+      "subjects": [
+        "History",
+        "Rhetoric"
+      ],
+      "era": "Early 2nd century CE; 1st-century events",
+      "language": "Latin → English",
+      "rationale": "Different genres expose different aspects of imperial power. Practise resisting both official self-presentation and scandal as sufficient explanation.",
+      "prerequisites": [
+        "republic-history",
+        "cicero"
+      ],
+      "light": {
+        "hours": 5,
+        "reading": "Tacitus, Annals, Book 1, chapters 1–15 and Book 15, chapters 38–44; Suetonius, Augustus, sections 26–28.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 23,
+        "reading": "Tacitus, Annals, Books 1 and 14–16; Suetonius, Augustus complete.",
+        "exercise": "Compare two accounts of imperial authority and identify what further evidence would test them."
+      },
+      "support": "Use annotated introductions and a Julio-Claudian family tree. Ask when a reported speech or anecdote serves an author’s larger narrative.",
+      "question": "What can literary hostility reveal about power, and what can it distort?",
+      "refs": [
+        "archive"
+      ]
+    },
+    {
+      "id": "augustine",
+      "number": 20,
+      "title": "An ancient world reinterpreted",
+      "author": "Augustine",
+      "subtitle": "Confessions and the turn inward",
+      "stage": "5 — Empire & transformation",
+      "periods": [
+        "Late antiquity"
+      ],
+      "subjects": [
+        "Philosophy",
+        "Literature"
+      ],
+      "era": "c. 397–400 CE",
+      "language": "Latin → English",
+      "rationale": "Late antiquity transforms classical education through Christian interpretation. Augustine’s rhetorical training and philosophical debts remain part of the story.",
+      "prerequisites": [
+        "republic",
+        "aeneid",
+        "stoics"
+      ],
+      "light": {
+        "hours": 8,
+        "reading": "Confessions, Books 1, 8 and 11. Use an outline for the intervening autobiographical narrative.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 27,
+        "reading": "Confessions complete; City of God, Book 19, chapters 1–17.",
+        "exercise": "Write 1,000 words on how Augustine reuses and criticises classical learning."
+      },
+      "support": "Read an annotated edition’s account of Roman North Africa, Christian traditions and Platonism. Do not collapse Christian and pagan late antiquity into a single tradition.",
+      "question": "How does the analysis of time relate to the act of telling a life?",
+      "refs": [
+        "augustine",
+        "sep"
+      ]
+    },
+    {
+      "id": "dante",
+      "number": 21,
+      "title": "Virgil in a new afterlife",
+      "author": "Dante Alighieri",
+      "subtitle": "The Divine Comedy",
+      "stage": "6 — The classical afterlife",
+      "periods": [
+        "Medieval reception"
+      ],
+      "subjects": [
+        "Reception",
+        "Literature",
+        "Philosophy"
+      ],
+      "era": "Early 14th century",
+      "language": "Italian → English",
+      "rationale": "Observe an ancient poet becoming a character and an authority within a medieval Christian poem, with both power and limits.",
+      "prerequisites": [
+        "aeneid",
+        "augustine"
+      ],
+      "light": {
+        "hours": 7,
+        "reading": "Inferno, cantos 1–5 and 26; Purgatorio, canto 30. Read canto summaries to situate the selections.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 28,
+        "reading": "Inferno complete; Purgatorio, cantos 1–3 and 27–33; Paradiso, cantos 1 and 30–33.",
+        "exercise": "Compare Odyssey 11, Aeneid 6 and Inferno 26 in 1,500 words."
+      },
+      "support": "Use Columbia’s Digital Dante for text, translation and canto commentary. Record where the poem’s Ulysses differs from Homer’s Odysseus.",
+      "question": "What can Virgil teach Dante, and why can he not guide the entire journey?",
+      "refs": [
+        "dante"
+      ]
+    },
+    {
+      "id": "shakespeare",
+      "number": 22,
+      "title": "Rome on the English stage",
+      "author": "William Shakespeare",
+      "subtitle": "Julius Caesar & the public voice",
+      "stage": "6 — The classical afterlife",
+      "periods": [
+        "Early modern reception"
+      ],
+      "subjects": [
+        "Reception",
+        "Literature",
+        "Rhetoric"
+      ],
+      "era": "c. 1599",
+      "language": "Early Modern English",
+      "rationale": "Roman political history becomes theatre for a new audience. Compare the performance of persuasion with the historical and rhetorical texts behind it.",
+      "prerequisites": [
+        "cicero",
+        "republic-history",
+        "tragedy"
+      ],
+      "light": {
+        "hours": 5,
+        "reading": "Julius Caesar complete, with special attention to Act 3, scene 2.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 18,
+        "reading": "Julius Caesar complete; compare the relevant Caesar and Brutus passages in Plutarch’s Lives, preferably Thomas North’s translation used by Shakespeare. Add Antony and Cleopatra.",
+        "exercise": "Perform a speech aloud, then write 800 words analysing its audience, pauses and argumentative turns."
+      },
+      "support": "Use the Folger text and editorial introduction. Track the route through Plutarch, translation and dramatic adaptation rather than treating Shakespeare as direct Roman evidence.",
+      "question": "Why do Brutus and Antony’s funeral speeches have such different effects?",
+      "refs": [
+        "folger"
+      ]
+    },
+    {
+      "id": "milton",
+      "number": 23,
+      "title": "Epic after antiquity",
+      "author": "John Milton",
+      "subtitle": "Paradise Lost",
+      "stage": "6 — The classical afterlife",
+      "periods": [
+        "Early modern reception"
+      ],
+      "subjects": [
+        "Reception",
+        "Literature"
+      ],
+      "era": "1667; revised 1674",
+      "language": "Early Modern English",
+      "rationale": "Follow epic invocations, similes and underworld scenes into an English Christian poem about obedience and freedom.",
+      "prerequisites": [
+        "aeneid",
+        "augustine",
+        "dante"
+      ],
+      "light": {
+        "hours": 8,
+        "reading": "Books 1, 4 and 9 (12-book edition). Read a whole-poem synopsis first.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 30,
+        "reading": "All 12 books. Annotate three classical echoes and explain what changes in their new theological setting.",
+        "exercise": "Compare one epic simile or invocation across Homer, Virgil and Milton in 1,200 words."
+      },
+      "support": "Use an annotated edition with biblical and classical references. Read Genesis 1–3 as a separate primary source and distinguish scriptural material from epic invention.",
+      "question": "How does classical heroism complicate Milton’s representation of rebellion?",
+      "refs": [
+        "milton"
+      ]
+    },
+    {
+      "id": "walcott",
+      "number": 24,
+      "title": "Homer across the Atlantic",
+      "author": "Derek Walcott",
+      "subtitle": "Omeros",
+      "stage": "6 — The classical afterlife",
+      "periods": [
+        "Modern reception"
+      ],
+      "subjects": [
+        "Reception",
+        "Literature",
+        "History"
+      ],
+      "era": "1990",
+      "language": "English, with Caribbean linguistic textures",
+      "rationale": "Finish by questioning who inherits antiquity. Walcott’s Saint Lucian poem engages Homer while making its own claims about colonial history, labour and place.",
+      "prerequisites": [
+        "iliad",
+        "odyssey",
+        "ovid"
+      ],
+      "light": {
+        "hours": 8,
+        "reading": "Book 1 and Book 7. Use a chapter outline to understand how the intervening narratives connect.",
+        "exercise": "Write a 150–250-word response to the study question below. Anchor it in two passages and note one uncertainty to return to."
+      },
+      "rigorous": {
+        "hours": 27,
+        "reading": "All seven books. Keep a map of voices, journeys and recurring images; avoid forcing every character into a Homeric equivalent.",
+        "exercise": "Capstone: write 1,500 words comparing one ancient text and one reception text, including what the later work refuses to inherit."
+      },
+      "support": "Use a library copy and a scholarly introduction or companion. The Nobel author page offers initial context; Omeros remains a distinct Caribbean work, not simply a retelling of Homer.",
+      "question": "What changes when epic names and wounds move into a Caribbean landscape?",
+      "refs": [
+        "walcott"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": "yale",
+      "title": "Introduction to Ancient Greek History",
+      "provider": "Open Yale Courses",
+      "type": "Recorded university course",
+      "summary": "Free · 24 lectures · Self-paced",
+      "description": "Donald Kagan’s 2007 lecture course, with a syllabus and primary-source readings. Useful structure for the Greek history modules; no live tuition is included.",
+      "modules": [
+        "herodotus",
+        "thucydides",
+        "alexander"
+      ],
+      "note": "Archive available; use alongside newer scholarship.",
+      "url": "https://oyc.yale.edu/classics/clcv-205"
+    },
+    {
+      "id": "oxford",
+      "title": "Greek Mythology",
+      "provider": "Oxford Lifelong Learning",
+      "type": "Tutor-led online course",
+      "summary": "Paid · 10 weeks · About 100 study hours",
+      "description": "A scheduled short course combining myth, interpretation, discussion and written assignments. A useful option if you want feedback alongside epic and drama.",
+      "modules": [
+        "hesiod",
+        "tragedy",
+        "ovid"
+      ],
+      "note": "Provider listing checked 13 September 2026. Check the linked intake, fee and availability before enrolling.",
+      "url": "https://lifelong-learning.ox.ac.uk/courses/greek-mythology-online-o26p359ahv/"
+    },
+    {
+      "id": "latin",
+      "title": "Getting started on classical Latin",
+      "provider": "The Open University · OpenLearn",
+      "type": "Structured independent course",
+      "summary": "Free · 10 hours · Beginner",
+      "description": "A short introduction to pronunciation, grammatical terms and basic Latin sentences. An optional taster before sustained language study; it does not prepare you to read Virgil unaided.",
+      "modules": [
+        "cicero",
+        "aeneid",
+        "ovid"
+      ],
+      "note": "Open-access material; an account enables provider progress tracking.",
+      "url": "https://www.open.edu/openlearn/history-the-arts/getting-started-on-classical-latin/content-section-0"
+    },
+    {
+      "id": "greek",
+      "title": "Getting started on ancient Greek",
+      "provider": "The Open University · OpenLearn",
+      "type": "Structured independent course",
+      "summary": "Free · 16 hours · Beginner",
+      "description": "An introduction to the alphabet and the early stages of reading Greek. Take it alongside the translation syllabus if you want to explore the language.",
+      "modules": [
+        "iliad",
+        "socrates",
+        "aristotle"
+      ],
+      "note": "Open-access material; an account enables provider progress tracking.",
+      "url": "https://www.open.edu/openlearn/history-the-arts/getting-started-on-ancient-greek/content-section-0"
+    }
+  ],
+  "resources": [
+    {
+      "id": "milton",
+      "title": "Dartmouth · The John Milton Reading Room",
+      "description": "Paradise Lost with an introduction and navigation by book.",
+      "url": "https://milton.host.dartmouth.edu/reading_room/pl/intro/text.shtml"
+    },
+    {
+      "id": "augustine",
+      "title": "Georgetown · Augustine: texts and translations",
+      "description": "Links to Latin texts, commentary and English translations of Confessions and other works.",
+      "url": "https://faculty.georgetown.edu/jod/augustine/textstrans.html"
+    },
+    {
+      "id": "archive",
+      "title": "Internet Classics Archive · texts by author",
+      "description": "Free English translations; many are older. Use a modern annotated translation where possible.",
+      "url": "https://classics.mit.edu/Browse/index.html"
+    },
+    {
+      "id": "yale",
+      "title": "Open Yale · Introduction to Ancient Greek History",
+      "description": "Donald Kagan’s 24 recorded lectures (2007), syllabus and primary-source reading list. An older scholarly perspective to compare with newer work.",
+      "url": "https://oyc.yale.edu/classics/clcv-205"
+    },
+    {
+      "id": "sep",
+      "title": "Stanford Encyclopedia · Ancient Political Philosophy",
+      "description": "Supporting scholarship on Greek and Roman political thought; consult relevant sections after reading the primary text.",
+      "url": "https://plato.stanford.edu/entries/ancient-political/"
+    },
+    {
+      "id": "dcc",
+      "title": "Dickinson College Commentaries",
+      "description": "Selected Greek and Latin texts with vocabulary, notes and introductions. Original-language support, not a beginner course.",
+      "url": "https://dcc.dickinson.edu/available-texts"
+    },
+    {
+      "id": "iliad",
+      "title": "Homer · Iliad (English text)",
+      "description": "Samuel Butler’s older prose translation; useful for access and comparison.",
+      "url": "https://classics.mit.edu/Homer/iliad.html"
+    },
+    {
+      "id": "odyssey",
+      "title": "Homer · Odyssey (English text)",
+      "description": "Samuel Butler’s older prose translation; useful for access and comparison.",
+      "url": "https://classics.mit.edu/Homer/odyssey.html"
+    },
+    {
+      "id": "apology",
+      "title": "Plato · Apology (English text)",
+      "description": "Benjamin Jowett’s older translation.",
+      "url": "https://classics.mit.edu/Plato/apology.html"
+    },
+    {
+      "id": "aeneid",
+      "title": "Virgil · Aeneid (English text)",
+      "description": "John Dryden’s verse translation; compare with a modern annotated edition.",
+      "url": "https://classics.mit.edu/Virgil/aeneid.html"
+    },
+    {
+      "id": "dante",
+      "title": "Columbia · Digital Dante",
+      "description": "Italian text, translations and scholarly commentary for the Divine Comedy.",
+      "url": "https://digitaldante.columbia.edu/dante/divine-comedy/"
+    },
+    {
+      "id": "folger",
+      "title": "Folger · Julius Caesar",
+      "description": "Full play with scene navigation and editorial support.",
+      "url": "https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/"
+    },
+    {
+      "id": "walcott",
+      "title": "Nobel Prize · Derek Walcott",
+      "description": "Author context. Obtain Omeros through a library or bookseller; it is not a free text here.",
+      "url": "https://www.nobelprize.org/prizes/literature/1992/walcott/facts/"
+    }
+  ],
+  "expanded": [
+    {
+      "id": "F0",
+      "title": "Overall choice",
+      "body": "Build “Classics: Greece, Rome and their Reception” as a broad curriculum with literature and philosophy, continuous ancient-language study, a historical framework, material culture and explicit training in interpreting evidence."
+    },
+    {
+      "id": "F1",
+      "title": "ANCIENT GREEK",
+      "body": "Purpose: progress from beginner knowledge to increasingly independent reading, including sensitivity to grammar, expression and interpretation."
+    },
+    {
+      "id": "F2",
+      "title": "LATIN",
+      "body": "Purpose: build a sustained route from elementary grammar to authentic prose and poetry."
+    },
+    {
+      "id": "F3",
+      "title": "GREEK POETRY",
+      "body": "Coverage: epic, didactic poetry, lyric, iambic poetry, choral poetry, pastoral and Hellenistic experimentation."
+    },
+    {
+      "id": "F4",
+      "title": "ROMAN POETRY",
+      "body": "Coverage: lyric, short personal poetry, epic, pastoral, didactic poetry, elegy, satire and epigram."
+    },
+    {
+      "id": "F5",
+      "title": "DRAMA AND PERFORMANCE",
+      "body": "Selected catalogue:"
+    },
+    {
+      "id": "F6",
+      "title": "PROSE FICTION, DIALOGUE AND BIOGRAPHY",
+      "body": "Selected catalogue:"
+    },
+    {
+      "id": "F7",
+      "title": "ANCIENT PHILOSOPHY",
+      "body": "Sequence: Presocratic fragments → Socrates and Plato → Aristotle → Epicureanism, Stoicism and scepticism → Plotinus and Augustine, with Boethius as a bridge into medieval thought."
+    },
+    {
+      "id": "F8",
+      "title": "ESSAYS, LETTERS AND REFLECTIVE PROSE",
+      "body": "Selected catalogue:"
+    },
+    {
+      "id": "F9",
+      "title": "RHETORIC AND LITERARY CRITICISM",
+      "body": "Selected catalogue:"
+    },
+    {
+      "id": "F10",
+      "title": "GREEK HISTORY AND HISTORIOGRAPHY",
+      "body": "Historical coverage: Bronze Age societies; early Iron Age and archaic Greece; emergence of the polis; colonisation; Persia and the Greek world; classical Athens and Sparta; the Peloponnesian War; fourth-century developments; Philip II; Alexander; Hellenistic kingdoms."
+    },
+    {
+      "id": "F11",
+      "title": "ROMAN HISTORY AND HISTORIOGRAPHY",
+      "body": "Historical coverage: early Italy and Rome; republican institutions; Mediterranean expansion; civil conflict; the transition to the principate; imperial government; provincial worlds; the later empire and late antiquity."
+    },
+    {
+      "id": "F12",
+      "title": "RELIGION AND MYTHOLOGY",
+      "body": "Coverage: Greek and Roman cult, ritual, sacrifice, festivals, divination, household religion, mystery cults, Judaism in the ancient Mediterranean and early Christianity."
+    },
+    {
+      "id": "F13",
+      "title": "SOCIETY, INSTITUTIONS AND LAW",
+      "body": "Coverage: citizenship, slavery, gender, households, education, sexuality, migration, work, trade, social hierarchy and government."
+    },
+    {
+      "id": "F14",
+      "title": "ART, ARCHAEOLOGY AND MATERIAL CULTURE",
+      "body": "Coverage: architecture, sculpture, pottery, painting, urban space, domestic buildings, burial and landscapes."
+    },
+    {
+      "id": "F15",
+      "title": "HOW CLASSICAL SCHOLARSHIP WORKS",
+      "body": "Coverage: source criticism, translation comparison, textual transmission, manuscripts, critical editions, metre and introductory historical linguistics."
+    },
+    {
+      "id": "F16",
+      "title": "CLASSICAL RECEPTION",
+      "body": "Coverage: reception within antiquity; Byzantine preservation and scholarship; Arabic philosophical transmission; medieval Latin culture; Renaissance humanism; later and modern reinterpretations."
+    },
+    {
+      "id": "F17",
+      "title": "OPTIONAL ANCIENT SCIENCE AND MEDICINE",
+      "body": "This is an optional catalogue strand rather than a requirement to study every listed author."
+    },
+    {
+      "id": "G1",
+      "title": "Early thought and fragmentary evidence",
+      "body": "Authors: Heraclitus, Parmenides, Democritus, situated within a wider introductory account of early Greek philosophy."
+    },
+    {
+      "id": "G2",
+      "title": "Socratic inquiry",
+      "body": "Primary texts: Plato’s Euthyphro, Apology, Crito and Meno."
+    },
+    {
+      "id": "G3",
+      "title": "Plato in depth",
+      "body": "Primary texts: Phaedo, Symposium and Republic, followed by selected Theaetetus and Timaeus."
+    },
+    {
+      "id": "G4",
+      "title": "Aristotle in depth",
+      "body": "Primary texts: Nicomachean Ethics, Politics and Poetics, plus selected Categories, Physics, On the Soul and Metaphysics."
+    },
+    {
+      "id": "G5",
+      "title": "Hellenistic and Roman schools",
+      "body": "Primary texts/authors: Epicurus’ letters and doctrines; Lucretius; Cicero’s philosophical works; Seneca; Epictetus; Marcus Aurelius; selected Sextus Empiricus."
+    },
+    {
+      "id": "G6",
+      "title": "Late antiquity and the medieval bridge",
+      "body": "Primary texts/authors: selected Plotinus; Augustine’s Confessions and appropriate related material; Boethius’ Consolation of Philosophy."
+    },
+    {
+      "id": "G7",
+      "title": "Philosophy discovery filters [HANDOFF RECOMMENDATION]",
+      "body": "Subfield tags: ethics; politics; epistemology; metaphysics; logic; nature; mind/soul; aesthetics; philosophy of religion where relevant."
+    },
+    {
+      "id": "H1",
+      "title": "Language routes",
+      "body": "Offer four independent language choices: translations; Latin; Greek; both languages."
+    },
+    {
+      "id": "H2",
+      "title": "Suggested progression within each language",
+      "body": "- Orientation: script where applicable, sound system, basic grammatical terminology and an introduction to how the language works."
+    },
+    {
+      "id": "H3",
+      "title": "Main textbook decisions",
+      "body": "No definitive Greek or Latin textbook was chosen in the proposal. Do not silently treat an OpenLearn taster as the main course. The eventual main textbook, exercise bank and feedback arrangement must be selected and labelled as a new editorial decision."
+    },
+    {
+      "id": "H4",
+      "title": "Broad reading versus close study",
+      "body": "Retain a smaller set of central works for substantial or complete reading: the Homeric epics, selected plays, Republic, Aeneid and a major prose narrative such as The Golden Ass were identified as central choices."
+    },
+    {
+      "id": "H5",
+      "title": "Parallel strands",
+      "body": "History, language and methods should run alongside literary reading. A learner should not have to finish an enormous history course before reading a play."
+    },
+    {
+      "id": "H6",
+      "title": "Historical and textual distinctions",
+      "body": "Record composition context separately from represented events. Record original language separately from an author’s geographical/cultural context and the language used by the learner."
+    },
+    {
+      "id": "I1",
+      "title": "Three independent controls",
+      "body": "Coverage:"
+    },
+    {
+      "id": "I2",
+      "title": "What “assessed work” means",
+      "body": "Every substantial module should offer an appropriate piece of work: close commentary, philosophical argument, source comparison, object analysis, translation, oral presentation or research essay."
+    },
+    {
+      "id": "I3",
+      "title": "Proposed module contents",
+      "body": "For each developed module, provide:"
+    },
+    {
+      "id": "I4",
+      "title": "Additional discovery controls [HANDOFF RECOMMENDATION]",
+      "body": "Retain period, subject, progress and search. Add useful filters when corresponding metadata is available: form/genre, original language, language requirement, author, coverage tier, study depth, skill and time estimate."
+    },
+    {
+      "id": "I5",
+      "title": "Reading order and dependencies",
+      "body": "Keep both a chronological overview and a pedagogical reading route. They serve different purposes and must be labelled."
+    },
+    {
+      "id": "I6",
+      "title": "Modern scholarship",
+      "body": "Use a manageable supporting spine: historical surveys, annotated editions, introductions, scholarly chapters and selected articles linked to primary evidence."
+    },
+    {
+      "id": "I7",
+      "title": "Organised courses",
+      "body": "Keep a separate directory. Each entry should identify provider, course title, delivery mode, language/entry requirements, time commitment, access/cost type, dates where verified, feedback/assessment provision, exact source URL, last check date and its relationship to syllabus modules."
+    },
+    {
+      "id": "I8",
+      "title": "Workload and study planning",
+      "body": "New material requires fresh estimates. Separate primary reading, secondary reading, language exercises, writing, tutorials and optional field/museum activity where useful."
+    },
+    {
+      "id": "I9",
+      "title": "Progress and export [HANDOFF RECOMMENDATION]",
+      "body": "Preserve notes and completion for existing modules. Provide progress per assignment and route, not a single “all Classics completed” tick."
+    },
+    {
+      "id": "I10",
+      "title": "Course and source availability",
+      "body": "Store course-check dates independently of document-generation dates. Never refresh a verification date without checking the source."
+    },
+    {
+      "id": "J1",
+      "title": "Existing module field mapping",
+      "body": "id = stable identifier, retained in each BEGIN_MODULE / END_MODULE pair."
+    },
+    {
+      "id": "J2",
+      "title": "Recommended expanded entities",
+      "body": "Work: stable ID; canonical title; alternate titles; author/tradition; original language; form/genre; composition context; represented period; survival status; editions and translations."
+    },
+    {
+      "id": "J3",
+      "title": "Migration from V1",
+      "body": "Retain the 24 existing IDs in Section C. If modules are split, preserve a mapping from each old ID and assignment to new records."
+    },
+    {
+      "id": "J4",
+      "title": "Import priorities",
+      "body": "1. Import the implemented V1 records faithfully as the introductory route."
+    },
+    {
+      "id": "J5",
+      "title": "Suggested acceptance criteria for an expanded implementation",
+      "body": "- Every current module, stage, course and resource can be recovered from the import."
+    },
+    {
+      "id": "J6",
+      "title": "How to use this handoff as an AI/app-builder instruction",
+      "body": "Use this document as the content and product specification for a private Classics syllabus explorer. Preserve the implemented introductory route and the exact reading scopes. Represent the expanded curriculum as proposed until each assignment is developed. Organise the catalogue by subject, form, period, original language, difficulty and skills without flattening cross-cultural or chronological distinctions. Keep organised courses separate. Maintain stable IDs and existing user data. Do not invent missing passage assignments, scholarly sources, course availability, completed learning or degree equivalence. Request explicit approval before broadening access beyond the owner."
+    },
+    {
+      "id": "K1",
+      "title": "Sources informing the expanded curriculum’s disciplinary breadth",
+      "body": "The selection of individual works is an editorial recommendation. The university pages below support the inclusion of languages, literature, history, philosophy, archaeology, linguistic/philological methods and reception; they do not endorse this exact app or prescribe this exact reading list."
+    },
+    {
+      "id": "K2",
+      "title": "Existing resources and courses",
+      "body": "All direct URLs for the initial text resources and course entries are reproduced in Sections C, D and E. Repeated URLs there are intentional cross-references, not claims of additional distinct research sources."
+    },
+    {
+      "id": "K3",
+      "title": "Remaining editorial work before calling V2 fully specified",
+      "body": "- Decide the final common core, extended survey and specialist allocation."
+    },
+    {
+      "id": "K4",
+      "title": "Scope statement",
+      "body": "This handoff describes the existing app completely at the content/behaviour level and records the full proposed expansion discussed so far. It is not a finished university-scale reading pack for every new subject. Fields expressly marked “to be specified” are genuine remaining design decisions."
+    }
+  ]
+}

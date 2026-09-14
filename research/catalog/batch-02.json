@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "consulted_on": "2026-09-12",
+  "purpose": "Publisher bibliographic verification; not additional critical-source credit.",
+  "works": [
+    {
+      "key": "mobydick",
+      "title": "Moby-Dick",
+      "authors": [
+        "Herman Melville"
+      ],
+      "original_language": "English",
+      "countries": [
+        "United States"
+      ],
+      "original_year": 1851,
+      "form": "book",
+      "field": "literature",
+      "description": "A whaling voyage becomes a novel of obsession, interpretation and the limits of human mastery.",
+      "work_source_url": "https://www.penguinrandomhouse.com/books/323502/moby-dick-by-herman-melville/",
+      "evidence_ids": [
+        "R185"
+      ],
+      "edition": {
+        "language": "English",
+        "translator": "",
+        "publisher": "Penguin Classics",
+        "isbn": "9780141199603",
+        "pages": 720,
+        "publication_date": "2015-11-24",
+        "source_url": "https://www.penguinrandomhouse.com/books/323502/moby-dick-by-herman-melville/",
+        "completeness_status": "standard_novel_edition_publisher_record",
+        "translation_notes": "Clothbound hardcover using the Northwestern–Newberry text, with introduction by Andrew Delbanco and commentary by Tom Quirk. Do not confuse it with the abridged audio format on the same product page."
+      }
+    },
+    {
+      "key": "genji",
+      "title": "The Tale of Genji",
+      "authors": [
+        "Murasaki Shikibu"
+      ],
+      "original_language": "Japanese",
+      "countries": [
+        "Japan"
+      ],
+      "original_year": null,
+      "form": "book",
+      "field": "literature",
+      "description": "A long narrative of relationships, court life and changing generations in Heian Japan. Composition belongs to the early eleventh century; an exact year is not asserted.",
+      "work_source_url": "https://www.penguin.co.uk/books/62239/the-tale-of-genji-by-murasaki-shikibu-trans-royall-tyler/9780142437148",
+      "evidence_ids": [
+        "S29",
+        "S37"
+      ],
+      "edition": {
+        "language": "English",
+        "translator": "Royall Tyler",
+        "publisher": "Penguin Classics",
+        "isbn": "9780142437148",
+        "pages": 1216,
+        "publication_date": "2003-04-24",
+        "source_url": "https://www.penguin.co.uk/books/62239/the-tale-of-genji-by-murasaki-shikibu-trans-royall-tyler/9780142437148",
+        "completeness_status": "complete_work_verified",
+        "translation_notes": "Publisher explicitly identifies a complete translation, with notes, glossaries, character lists and chronology."
+      }
+    },
+    {
+      "key": "middlemarch",
+      "title": "Middlemarch",
+      "authors": [
+        "George Eliot"
+      ],
+      "original_language": "English",
+      "countries": [
+        "England"
+      ],
+      "original_year": null,
+      "form": "book",
+      "field": "literature",
+      "description": "An interconnected provincial society tests aspiration, marriage, vocation and the limits of sympathy.",
+      "work_source_url": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549",
+      "evidence_ids": [
+        "S35",
+        "R055"
+      ],
+      "edition": {
+        "language": "English",
+        "translator": "",
+        "publisher": "Penguin Classics",
+        "isbn": "9780141439549",
+        "pages": 880,
+        "publication_date": "2003-01-30",
+        "source_url": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549",
+        "completeness_status": "standard_novel_edition_publisher_record",
+        "translation_notes": "Edited with introduction by Rosemary Ashton. Physical extent and date refer to the UK publisher record for this ISBN."
+      }
+    },
+    {
+      "key": "beloved",
+      "title": "Beloved",
+      "authors": [
+        "Toni Morrison"
+      ],
+      "original_language": "English",
+      "countries": [
+        "United States"
+      ],
+      "original_year": 1987,
+      "form": "book",
+      "field": "literature",
+      "description": "A novel of slavery’s aftermath, memory, motherhood and the difficult reclamation of agency.",
+      "work_source_url": "https://www.penguinrandomhouseretail.com/book/?isbn=9781400033416",
+      "evidence_ids": [
+        "R184"
+      ],
+      "edition": {
+        "language": "English",
+        "translator": "",
+        "publisher": "Vintage",
+        "isbn": "9781400033416",
+        "pages": 368,
+        "publication_date": "2004-06-08",
+        "source_url": "https://www.penguinrandomhouseretail.com/book/?isbn=9781400033416",
+        "completeness_status": "standard_novel_edition_publisher_record",
+        "translation_notes": "Current publisher record lists 368 pages with a new introduction by Honorée Fanonne Jeffers and an author afterword. Its on-sale date is the ISBN’s 2004 record, not a claim that the new introduction appeared in 2004; older printings have different extents."
+      }
+    }
+  ]
+}

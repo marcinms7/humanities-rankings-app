@@ -1,0 +1,85 @@
+{
+  "summary": "Physics, Chinese historiography and economic thought receive direct evidence. Smith scholarship and reader disagreement distinguish historical importance from present-day use. Sima Qian's full-English-edition eligibility remains unresolved.",
+  "next": "Verify complete Euclid/Newton/Smith editions, broaden other nonfiction fields, and investigate Sima Qian translation completeness before eligibility.",
+  "sources": [
+    {
+      "language": "en",
+      "id": "R192",
+      "url": "https://royalsociety.org/blog/2014/07/principia/",
+      "title": "Principia",
+      "publisher": "Royal Society",
+      "author": "Keith Moore",
+      "family": "institutional_history_of_science",
+      "note": "Describes the 1687 manuscript and publication, including the three-book structure and Halley’s contribution; situates the work’s laws of motion and gravity in scientific reception.",
+      "candidates": [
+        "Philosophiæ Naturalis Principia Mathematica"
+      ],
+      "location": "Historical manuscript discussion",
+      "limits": "Institutional commemorative essay, not a full critical analysis of mathematical arguments.",
+      "targets": {
+        "A": "Physics candidate and work-boundary evidence expands all-subject coverage.",
+        "N": "History-of-science evidence supports inclusion, without assuming modern textbook usefulness."
+      }
+    },
+    {
+      "language": "en",
+      "id": "R193",
+      "url": "https://www.jstage.jst.go.jp/article/jshet/53/1/53_100/_article/-char/en",
+      "title": "The Recent Scholarship on Adam Smith’s The Wealth of Nations: A Review",
+      "publisher": "The Japanese Society for the History of Economic Thought / J-STAGE",
+      "author": "Keiichi Watanabe",
+      "family": "scholarly_review_abstract",
+      "access": "abstract_only",
+      "note": "Abstract contrasts economic-history and moral-philosophical approaches, surveying Japanese and international Smith scholarship.",
+      "candidates": [
+        "The Wealth of Nations",
+        "Adam Smith"
+      ],
+      "location": "English abstract, 2011 article",
+      "limits": "Full PDF unavailable; cited studies not separately consulted.",
+      "targets": {
+        "A": "Economic and philosophical reception.",
+        "N": "Nonfiction scope and reception.",
+        "B": "Political economy within moral philosophy.",
+        "P": "Smith's multidisciplinary reception."
+      }
+    },
+    {
+      "language": "en",
+      "id": "R194",
+      "url": "https://chinabooksreview.com/wp-content/uploads/2025/09/Archive-Sima-Qian.pdf",
+      "title": "Sima Qian: Records of the Grand Historian",
+      "publisher": "China Books Review",
+      "author": "Jeremiah Jenne",
+      "family": "scholarly_critical_essay",
+      "note": "Connects historical method, moral narrative and lasting cultural influence. Identifies Watson’s selective translation and an unfinished Nienhauser project, requiring an explicit English-completeness check.",
+      "candidates": [
+        "Records of the Grand Historian"
+      ],
+      "location": "Full essay, 9 September 2025",
+      "limits": "PDF and web versions are one essay. Its translation-status claim is dated 2025 and must be checked before excluding the work.",
+      "targets": {
+        "A": "Chinese historiography expands the comparison universe; eligibility is pending.",
+        "N": "Supports historical and reading significance while exposing edition limitations."
+      }
+    },
+    {
+      "language": "en",
+      "id": "R195",
+      "url": "https://www.reddit.com/r/AskEconomics/comments/17yfk78/how_can_i_build_up_enough_economic_literacy_to_be/",
+      "title": "How can I build up enough economic literacy to read The Wealth of Nations?",
+      "publisher": "Reddit / r/AskEconomics",
+      "family": "reader_discussion",
+      "note": "Readers disagree over accessibility and value: several prefer current textbooks, while others praise historical observation and the colonies chapter. Historical importance does not settle present reading priority.",
+      "candidates": [
+        "The Wealth of Nations"
+      ],
+      "location": "Substantive comments, excluding related-thread links",
+      "limits": "Self-selected forum; credentials and sweeping historical claims unverified. Abridgment recommendations do not meet complete-work eligibility.",
+      "targets": {
+        "A": "Direct disagreement helps compare historical standing with reading value.",
+        "N": "Reader experience tests the case for reading an old economics work today."
+      }
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "target_id": "books-united-states",
+  "source_report": "research/incoming/books-united-states/2026-09-13-owner-paste/report.txt",
+  "reported_source_count": 113,
+  "candidates": [
+    {
+      "position": 1,
+      "reported_title": "Moby-Dick",
+      "reported_author": "Herman Melville (1851)",
+      "raw_line": "1. Moby-Dick — Herman Melville (1851)"
+    },
+    {
+      "position": 2,
+      "reported_title": "Beloved",
+      "reported_author": "Toni Morrison (1987)",
+      "raw_line": "2. Beloved — Toni Morrison (1987)"
+    },
+    {
+      "position": 3,
+      "reported_title": "Adventures of Huckleberry Finn",
+      "reported_author": "Mark Twain (1884)",
+      "raw_line": "3. Adventures of Huckleberry Finn — Mark Twain (1884)"
+    },
+    {
+      "position": 4,
+      "reported_title": "The Great Gatsby",
+      "reported_author": "F. Scott Fitzgerald (1925)",
+      "raw_line": "4. The Great Gatsby — F. Scott Fitzgerald (1925)"
+    },
+    {
+      "position": 5,
+      "reported_title": "The Sound and the Fury",
+      "reported_author": "William Faulkner (1929)",
+      "raw_line": "5. The Sound and the Fury — William Faulkner (1929)"
+    },
+    {
+      "position": 6,
+      "reported_title": "Leaves of Grass",
+      "reported_author": "Walt Whitman (1855)",
+      "raw_line": "6. Leaves of Grass — Walt Whitman (1855)"
+    },
+    {
+      "position": 7,
+      "reported_title": "Invisible Man",
+      "reported_author": "Ralph Ellison (1952)",
+      "raw_line": "7. Invisible Man — Ralph Ellison (1952)"
+    },
+    {
+      "position": 8,
+      "reported_title": "Absalom, Absalom!",
+      "reported_author": "William Faulkner (1936)",
+      "raw_line": "8. Absalom, Absalom! — William Faulkner (1936)"
+    },
+    {
+      "position": 9,
+      "reported_title": "Blood Meridian",
+      "reported_author": "Cormac McCarthy (1985)",
+      "raw_line": "9. Blood Meridian — Cormac McCarthy (1985)"
+    },
+    {
+      "position": 10,
+      "reported_title": "The Grapes of Wrath",
+      "reported_author": "John Steinbeck (1939)",
+      "raw_line": "10. The Grapes of Wrath — John Steinbeck (1939)"
+    },
+    {
+      "position": 11,
+      "reported_title": "Lolita",
+      "reported_author": "Vladimir Nabokov (1955)",
+      "raw_line": "11. Lolita — Vladimir Nabokov (1955)"
+    },
+    {
+      "position": 12,
+      "reported_title": "Song of Solomon",
+      "reported_author": "Toni Morrison (1977)",
+      "raw_line": "12. Song of Solomon — Toni Morrison (1977)"
+    },
+    {
+      "position": 13,
+      "reported_title": "The Scarlet Letter",
+      "reported_author": "Nathaniel Hawthorne (1850)",
+      "raw_line": "13. The Scarlet Letter — Nathaniel Hawthorne (1850)"
+    },
+    {
+      "position": 14,
+      "reported_title": "Their Eyes Were Watching God",
+      "reported_author": "Zora Neale Hurston (1937)",
+      "raw_line": "14. Their Eyes Were Watching God — Zora Neale Hurston (1937)"
+    },
+    {
+      "position": 15,
+      "reported_title": "Walden",
+      "reported_author": "Henry David Thoreau (1854)",
+      "raw_line": "15. Walden — Henry David Thoreau (1854)"
+    },
+    {
+      "position": 16,
+      "reported_title": "The Portrait of a Lady",
+      "reported_author": "Henry James (1881)",
+      "raw_line": "16. The Portrait of a Lady — Henry James (1881)"
+    },
+    {
+      "position": 17,
+      "reported_title": "The Sun Also Rises",
+      "reported_author": "Ernest Hemingway (1926)",
+      "raw_line": "17. The Sun Also Rises — Ernest Hemingway (1926)"
+    },
+    {
+      "position": 18,
+      "reported_title": "Light in August",
+      "reported_author": "William Faulkner (1932)",
+      "raw_line": "18. Light in August — William Faulkner (1932)"
+    },
+    {
+      "position": 19,
+      "reported_title": "The Age of Innocence",
+      "reported_author": "Edith Wharton (1920)",
+      "raw_line": "19. The Age of Innocence — Edith Wharton (1920)"
+    },
+    {
+      "position": 20,
+      "reported_title": "Native Son",
+      "reported_author": "Richard Wright (1940)",
+      "raw_line": "20. Native Son — Richard Wright (1940)"
+    },
+    {
+      "position": 21,
+      "reported_title": "Gravity's Rainbow",
+      "reported_author": "Thomas Pynchon (1973)",
+      "raw_line": "21. Gravity's Rainbow — Thomas Pynchon (1973)"
+    },
+    {
+      "position": 22,
+      "reported_title": "Catch-22",
+      "reported_author": "Joseph Heller (1961)",
+      "raw_line": "22. Catch-22 — Joseph Heller (1961)"
+    },
+    {
+      "position": 23,
+      "reported_title": "Slaughterhouse-Five",
+      "reported_author": "Kurt Vonnegut (1969)",
+      "raw_line": "23. Slaughterhouse-Five — Kurt Vonnegut (1969)"
+    },
+    {
+      "position": 24,
+      "reported_title": "The Color Purple",
+      "reported_author": "Alice Walker (1982)",
+      "raw_line": "24. The Color Purple — Alice Walker (1982)"
+    },
+    {
+      "position": 25,
+      "reported_title": "The Adventures of Augie March",
+      "reported_author": "Saul Bellow (1953)",
+      "raw_line": "25. The Adventures of Augie March — Saul Bellow (1953)"
+    },
+    {
+      "position": 26,
+      "reported_title": "To Kill a Mockingbird",
+      "reported_author": "Harper Lee (1960)",
+      "raw_line": "26. To Kill a Mockingbird — Harper Lee (1960)"
+    },
+    {
+      "position": 27,
+      "reported_title": "The House of Mirth",
+      "reported_author": "Edith Wharton (1905)",
+      "raw_line": "27. The House of Mirth — Edith Wharton (1905)"
+    },
+    {
+      "position": 28,
+      "reported_title": "As I Lay Dying",
+      "reported_author": "William Faulkner (1930)",
+      "raw_line": "28. As I Lay Dying — William Faulkner (1930)"
+    },
+    {
+      "position": 29,
+      "reported_title": "Underworld",
+      "reported_author": "Don DeLillo (1997)",
+      "raw_line": "29. Underworld — Don DeLillo (1997)"
+    },
+    {
+      "position": 30,
+      "reported_title": "White Noise",
+      "reported_author": "Don DeLillo (1985)",
+      "raw_line": "30. White Noise — Don DeLillo (1985)"
+    },
+    {
+      "position": 31,
+      "reported_title": "East of Eden",
+      "reported_author": "John Steinbeck (1952)",
+      "raw_line": "31. East of Eden — John Steinbeck (1952)"
+    },
+    {
+      "position": 32,
+      "reported_title": "Go Tell It on the Mountain",
+      "reported_author": "James Baldwin (1953)",
+      "raw_line": "32. Go Tell It on the Mountain — James Baldwin (1953)"
+    },
+    {
+      "position": 33,
+      "reported_title": "Another Country",
+      "reported_author": "James Baldwin (1962)",
+      "raw_line": "33. Another Country — James Baldwin (1962)"
+    },
+    {
+      "position": 34,
+      "reported_title": "The Crying of Lot 49",
+      "reported_author": "Thomas Pynchon (1966)",
+      "raw_line": "34. The Crying of Lot 49 — Thomas Pynchon (1966)"
+    },
+    {
+      "position": 35,
+      "reported_title": "The Road",
+      "reported_author": "Cormac McCarthy (2006)",
+      "raw_line": "35. The Road — Cormac McCarthy (2006)"
+    },
+    {
+      "position": 36,
+      "reported_title": "The Known World",
+      "reported_author": "Edward P. Jones (2003)",
+      "raw_line": "36. The Known World — Edward P. Jones (2003)"
+    },
+    {
+      "position": 37,
+      "reported_title": "A Good Man Is Hard to Find",
+      "reported_author": "Flannery O'Connor (1955)",
+      "raw_line": "37. A Good Man Is Hard to Find — Flannery O'Connor (1955)"
+    },
+    {
+      "position": 38,
+      "reported_title": "Tales of Mystery and Imagination / Collected Tales",
+      "reported_author": "Edgar Allan Poe (1840)",
+      "raw_line": "38. Tales of Mystery and Imagination / Collected Tales — Edgar Allan Poe (1840)"
+    },
+    {
+      "position": 39,
+      "reported_title": "The Catcher in the Rye",
+      "reported_author": "J. D. Salinger (1951)",
+      "raw_line": "39. The Catcher in the Rye — J. D. Salinger (1951)"
+    },
+    {
+      "position": 40,
+      "reported_title": "The Autobiography of Malcolm X",
+      "reported_author": "Malcolm X and Alex Haley (1965)",
+      "raw_line": "40. The Autobiography of Malcolm X — Malcolm X and Alex Haley (1965)"
+    },
+    {
+      "position": 41,
+      "reported_title": "The Souls of Black Folk",
+      "reported_author": "W. E. B. Du Bois (1903)",
+      "raw_line": "41. The Souls of Black Folk — W. E. B. Du Bois (1903)"
+    },
+    {
+      "position": 42,
+      "reported_title": "Narrative of the Life of Frederick Douglass",
+      "reported_author": "Frederick Douglass (1845)",
+      "raw_line": "42. Narrative of the Life of Frederick Douglass — Frederick Douglass (1845)"
+    },
+    {
+      "position": 43,
+      "reported_title": "The Complete Poems",
+      "reported_author": "Emily Dickinson (1955)",
+      "raw_line": "43. The Complete Poems — Emily Dickinson (1955)"
+    },
+    {
+      "position": 44,
+      "reported_title": "The Things They Carried",
+      "reported_author": "Tim O'Brien (1990)",
+      "raw_line": "44. The Things They Carried — Tim O'Brien (1990)"
+    },
+    {
+      "position": 45,
+      "reported_title": "The Recognitions",
+      "reported_author": "William Gaddis (1955)",
+      "raw_line": "45. The Recognitions — William Gaddis (1955)"
+    },
+    {
+      "position": 46,
+      "reported_title": "J R",
+      "reported_author": "William Gaddis (1975)",
+      "raw_line": "46. J R — William Gaddis (1975)"
+    },
+    {
+      "position": 47,
+      "reported_title": "American Pastoral",
+      "reported_author": "Philip Roth (1997)",
+      "raw_line": "47. American Pastoral — Philip Roth (1997)"
+    },
+    {
+      "position": 48,
+      "reported_title": "Herzog",
+      "reported_author": "Saul Bellow (1964)",
+      "raw_line": "48. Herzog — Saul Bellow (1964)"
+    },
+    {
+      "position": 49,
+      "reported_title": "Rabbit, Run",
+      "reported_author": "John Updike (1960)",
+      "raw_line": "49. Rabbit, Run — John Updike (1960)"
+    },
+    {
+      "position": 50,
+      "reported_title": "Housekeeping",
+      "reported_author": "Marilynne Robinson (1980)",
+      "raw_line": "50. Housekeeping — Marilynne Robinson (1980)"
+    },
+    {
+      "position": 51,
+      "reported_title": "Gilead",
+      "reported_author": "Marilynne Robinson (2004)",
+      "raw_line": "51. Gilead — Marilynne Robinson (2004)"
+    },
+    {
+      "position": 52,
+      "reported_title": "The Left Hand of Darkness",
+      "reported_author": "Ursula K. Le Guin (1969)",
+      "raw_line": "52. The Left Hand of Darkness — Ursula K. Le Guin (1969)"
+    },
+    {
+      "position": 53,
+      "reported_title": "Kindred",
+      "reported_author": "Octavia E. Butler (1979)",
+      "raw_line": "53. Kindred — Octavia E. Butler (1979)"
+    },
+    {
+      "position": 54,
+      "reported_title": "The Bluest Eye",
+      "reported_author": "Toni Morrison (1970)",
+      "raw_line": "54. The Bluest Eye — Toni Morrison (1970)"
+    },
+    {
+      "position": 55,
+      "reported_title": "Ceremony",
+      "reported_author": "Leslie Marmon Silko (1977)",
+      "raw_line": "55. Ceremony — Leslie Marmon Silko (1977)"
+    },
+    {
+      "position": 56,
+      "reported_title": "The Joy Luck Club",
+      "reported_author": "Amy Tan (1989)",
+      "raw_line": "56. The Joy Luck Club — Amy Tan (1989)"
+    },
+    {
+      "position": 57,
+      "reported_title": "Sula",
+      "reported_author": "Toni Morrison (1973)",
+      "raw_line": "57. Sula — Toni Morrison (1973)"
+    },
+    {
+      "position": 58,
+      "reported_title": "Little Women",
+      "reported_author": "Louisa May Alcott (1868)",
+      "raw_line": "58. Little Women — Louisa May Alcott (1868)"
+    },
+    {
+      "position": 59,
+      "reported_title": "Uncle Tom's Cabin",
+      "reported_author": "Harriet Beecher Stowe (1852)",
+      "raw_line": "59. Uncle Tom's Cabin — Harriet Beecher Stowe (1852)"
+    },
+    {
+      "position": 60,
+      "reported_title": "Sister Carrie",
+      "reported_author": "Theodore Dreiser (1900)",
+      "raw_line": "60. Sister Carrie — Theodore Dreiser (1900)"
+    },
+    {
+      "position": 61,
+      "reported_title": "Main Street",
+      "reported_author": "Sinclair Lewis (1920)",
+      "raw_line": "61. Main Street — Sinclair Lewis (1920)"
+    },
+    {
+      "position": 62,
+      "reported_title": "Babbitt",
+      "reported_author": "Sinclair Lewis (1922)",
+      "raw_line": "62. Babbitt — Sinclair Lewis (1922)"
+    },
+    {
+      "position": 63,
+      "reported_title": "U.S.A. Trilogy",
+      "reported_author": "John Dos Passos (1930)",
+      "raw_line": "63. U.S.A. Trilogy — John Dos Passos (1930)"
+    },
+    {
+      "position": 64,
+      "reported_title": "Winesburg, Ohio",
+      "reported_author": "Sherwood Anderson (1919)",
+      "raw_line": "64. Winesburg, Ohio — Sherwood Anderson (1919)"
+    },
+    {
+      "position": 65,
+      "reported_title": "The Awakening",
+      "reported_author": "Kate Chopin (1899)",
+      "raw_line": "65. The Awakening — Kate Chopin (1899)"
+    },
+    {
+      "position": 66,
+      "reported_title": "My Ántonia",
+      "reported_author": "Willa Cather (1918)",
+      "raw_line": "66. My Ántonia — Willa Cather (1918)"
+    },
+    {
+      "position": 67,
+      "reported_title": "The Ambassadors",
+      "reported_author": "Henry James (1903)",
+      "raw_line": "67. The Ambassadors — Henry James (1903)"
+    },
+    {
+      "position": 68,
+      "reported_title": "The Golden Bowl",
+      "reported_author": "Henry James (1904)",
+      "raw_line": "68. The Golden Bowl — Henry James (1904)"
+    },
+    {
+      "position": 69,
+      "reported_title": "The Old Man and the Sea",
+      "reported_author": "Ernest Hemingway (1952)",
+      "raw_line": "69. The Old Man and the Sea — Ernest Hemingway (1952)"
+    },
+    {
+      "position": 70,
+      "reported_title": "A Farewell to Arms",
+      "reported_author": "Ernest Hemingway (1929)",
+      "raw_line": "70. A Farewell to Arms — Ernest Hemingway (1929)"
+    },
+    {
+      "position": 71,
+      "reported_title": "One Flew Over the Cuckoo's Nest",
+      "reported_author": "Ken Kesey (1962)",
+      "raw_line": "71. One Flew Over the Cuckoo's Nest — Ken Kesey (1962)"
+    },
+    {
+      "position": 72,
+      "reported_title": "Sometimes a Great Notion",
+      "reported_author": "Ken Kesey (1964)",
+      "raw_line": "72. Sometimes a Great Notion — Ken Kesey (1964)"
+    },
+    {
+      "position": 73,
+      "reported_title": "All the King's Men",
+      "reported_author": "Robert Penn Warren (1946)",
+      "raw_line": "73. All the King's Men — Robert Penn Warren (1946)"
+    },
+    {
+      "position": 74,
+      "reported_title": "The Moviegoer",
+      "reported_author": "Walker Percy (1961)",
+      "raw_line": "74. The Moviegoer — Walker Percy (1961)"
+    },
+    {
+      "position": 75,
+      "reported_title": "Wise Blood",
+      "reported_author": "Flannery O'Connor (1952)",
+      "raw_line": "75. Wise Blood — Flannery O'Connor (1952)"
+    },
+    {
+      "position": 76,
+      "reported_title": "The Heart Is a Lonely Hunter",
+      "reported_author": "Carson McCullers (1940)",
+      "raw_line": "76. The Heart Is a Lonely Hunter — Carson McCullers (1940)"
+    },
+    {
+      "position": 77,
+      "reported_title": "The Haunting of Hill House",
+      "reported_author": "Shirley Jackson (1959)",
+      "raw_line": "77. The Haunting of Hill House — Shirley Jackson (1959)"
+    },
+    {
+      "position": 78,
+      "reported_title": "The Bell Jar",
+      "reported_author": "Sylvia Plath (1963)",
+      "raw_line": "78. The Bell Jar — Sylvia Plath (1963)"
+    },
+    {
+      "position": 79,
+      "reported_title": "Play It as It Lays",
+      "reported_author": "Joan Didion (1970)",
+      "raw_line": "79. Play It as It Lays — Joan Didion (1970)"
+    },
+    {
+      "position": 80,
+      "reported_title": "Slouching Towards Bethlehem",
+      "reported_author": "Joan Didion (1968)",
+      "raw_line": "80. Slouching Towards Bethlehem — Joan Didion (1968)"
+    },
+    {
+      "position": 81,
+      "reported_title": "The Fire Next Time",
+      "reported_author": "James Baldwin (1963)",
+      "raw_line": "81. The Fire Next Time — James Baldwin (1963)"
+    },
+    {
+      "position": 82,
+      "reported_title": "On the Road",
+      "reported_author": "Jack Kerouac (1957)",
+      "raw_line": "82. On the Road — Jack Kerouac (1957)"
+    },
+    {
+      "position": 83,
+      "reported_title": "Pale Fire",
+      "reported_author": "Vladimir Nabokov (1962)",
+      "raw_line": "83. Pale Fire — Vladimir Nabokov (1962)"
+    },
+    {
+      "position": 84,
+      "reported_title": "The Executioner's Song",
+      "reported_author": "Norman Mailer (1979)",
+      "raw_line": "84. The Executioner's Song — Norman Mailer (1979)"
+    },
+    {
+      "position": 85,
+      "reported_title": "In Cold Blood",
+      "reported_author": "Truman Capote (1966)",
+      "raw_line": "85. In Cold Blood — Truman Capote (1966)"
+    },
+    {
+      "position": 86,
+      "reported_title": "The Underground Railroad",
+      "reported_author": "Colson Whitehead (2016)",
+      "raw_line": "86. The Underground Railroad — Colson Whitehead (2016)"
+    },
+    {
+      "position": 87,
+      "reported_title": "A Visit from the Goon Squad",
+      "reported_author": "Jennifer Egan (2010)",
+      "raw_line": "87. A Visit from the Goon Squad — Jennifer Egan (2010)"
+    },
+    {
+      "position": 88,
+      "reported_title": "The Brief Wondrous Life of Oscar Wao",
+      "reported_author": "Junot Díaz (2007)",
+      "raw_line": "88. The Brief Wondrous Life of Oscar Wao — Junot Díaz (2007)"
+    },
+    {
+      "position": 89,
+      "reported_title": "The Amazing Adventures of Kavalier & Clay",
+      "reported_author": "Michael Chabon (2000)",
+      "raw_line": "89. The Amazing Adventures of Kavalier & Clay — Michael Chabon (2000)"
+    },
+    {
+      "position": 90,
+      "reported_title": "Middlesex",
+      "reported_author": "Jeffrey Eugenides (2002)",
+      "raw_line": "90. Middlesex — Jeffrey Eugenides (2002)"
+    },
+    {
+      "position": 91,
+      "reported_title": "The Corrections",
+      "reported_author": "Jonathan Franzen (2001)",
+      "raw_line": "91. The Corrections — Jonathan Franzen (2001)"
+    },
+    {
+      "position": 92,
+      "reported_title": "Infinite Jest",
+      "reported_author": "David Foster Wallace (1996)",
+      "raw_line": "92. Infinite Jest — David Foster Wallace (1996)"
+    },
+    {
+      "position": 93,
+      "reported_title": "The Secret History",
+      "reported_author": "Donna Tartt (1992)",
+      "raw_line": "93. The Secret History — Donna Tartt (1992)"
+    },
+    {
+      "position": 94,
+      "reported_title": "Lonesome Dove",
+      "reported_author": "Larry McMurtry (1985)",
+      "raw_line": "94. Lonesome Dove — Larry McMurtry (1985)"
+    },
+    {
+      "position": 95,
+      "reported_title": "Angle of Repose",
+      "reported_author": "Wallace Stegner (1971)",
+      "raw_line": "95. Angle of Repose — Wallace Stegner (1971)"
+    },
+    {
+      "position": 96,
+      "reported_title": "Stoner",
+      "reported_author": "John Williams (1965)",
+      "raw_line": "96. Stoner — John Williams (1965)"
+    },
+    {
+      "position": 97,
+      "reported_title": "The House on Mango Street",
+      "reported_author": "Sandra Cisneros (1984)",
+      "raw_line": "97. The House on Mango Street — Sandra Cisneros (1984)"
+    },
+    {
+      "position": 98,
+      "reported_title": "Bless Me, Ultima",
+      "reported_author": "Rudolfo Anaya (1972)",
+      "raw_line": "98. Bless Me, Ultima — Rudolfo Anaya (1972)"
+    },
+    {
+      "position": 99,
+      "reported_title": "Love Medicine",
+      "reported_author": "Louise Erdrich (1984)",
+      "raw_line": "99. Love Medicine — Louise Erdrich (1984)"
+    },
+    {
+      "position": 100,
+      "reported_title": "The New York Trilogy",
+      "reported_author": "Paul Auster (1987)",
+      "raw_line": "100. The New York Trilogy — Paul Auster (1987)"
+    }
+  ]
+}

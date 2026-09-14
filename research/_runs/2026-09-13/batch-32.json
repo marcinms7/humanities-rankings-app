@@ -1,0 +1,27 @@
+{
+  "consulted_on": "2026-09-13",
+  "summary": "A contemporaneous scientific review adds historical reception and rhetorical evidence for Darwin. Publisher edition pages remain bibliographic verification only.",
+  "next": "Continue illustrated publication and expand direct comparative criticism for non-philosophy nonfiction.",
+  "sources": [
+    {
+      "id": "R201",
+      "url": "https://www.theatlantic.com/magazine/archive/1860/07/darwin-on-the-origin-of-species/304152/",
+      "title": "Darwin on the Origin of Species",
+      "author": "Asa Gray",
+      "publisher": "The Atlantic",
+      "date": "1860-07-01",
+      "language": "en",
+      "family": "historical_scientific_review",
+      "note": "Gray dramatizes resistance to unfamiliar theory, then describes how Darwin begins with familiar domesticated organisms. This supports attention to argumentative presentation and early reception.",
+      "location": "Opening paragraphs, lines 82–90 of consulted archive page",
+      "candidates": [
+        "On the Origin of Species"
+      ],
+      "targets": {
+        "A": "Historical critical response to an included scientific book.",
+        "N": "Contemporaneous reception and the presentation of scientific argument."
+      },
+      "limits": "Opening excerpt only; not a review of current biological knowledge or proof of an exact all-time position."
+    }
+  ]
+}

@@ -1,0 +1,1167 @@
+{
+  "checked_on": "2026-09-14",
+  "targets": {
+    "oclc-library-100": {
+      "ranking_id": 149,
+      "entries": 100,
+      "revision": 2,
+      "presentation": "ranked",
+      "null_source_ranks": 0,
+      "source_count": 1,
+      "imported_this_run": true,
+      "input_sha256": "a53969f9d37b0dd9b1a0f0ed58e35ea859e176242fd4e5ca1c3534e25c0c694f"
+    },
+    "time-100-best-novels-2005": {
+      "ranking_id": 150,
+      "entries": 100,
+      "revision": 2,
+      "presentation": "unranked",
+      "null_source_ranks": 100,
+      "source_count": 3,
+      "imported_this_run": true,
+      "input_sha256": "e9a97166bfa072bb2a7fa1c72590e83106db72a984cbf518a564a02183eec97c"
+    },
+    "time-100-mystery-thriller-books-2023": {
+      "ranking_id": 151,
+      "entries": 100,
+      "revision": 2,
+      "presentation": "unranked",
+      "null_source_ranks": 100,
+      "source_count": 4,
+      "imported_this_run": true,
+      "input_sha256": "37b19a31e0ea1288bbdb8e38e1036fb17d2f610de6c18ec6ddf0d948d45d1c5d"
+    }
+  },
+  "catalog": {
+    "created_works": [
+      {
+        "id": 6238,
+        "title": "The Return of the King",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "source": "oclc-library-100"
+      },
+      {
+        "id": 6239,
+        "title": "The Complete Sherlock Holmes",
+        "authors": [
+          "Arthur Conan Doyle"
+        ],
+        "source": "oclc-library-100"
+      },
+      {
+        "id": 6240,
+        "title": "Peter Pan",
+        "authors": [
+          "J. M. Barrie"
+        ],
+        "source": "oclc-library-100"
+      },
+      {
+        "id": 6241,
+        "title": "The Fellowship of the Ring",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "source": "oclc-library-100"
+      },
+      {
+        "id": 6242,
+        "title": "Are You There God? It's Me, Margaret",
+        "authors": [
+          "Judy Blume"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6243,
+        "title": "The Assistant",
+        "authors": [
+          "Bernard Malamud"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6244,
+        "title": "The Berlin Stories",
+        "authors": [
+          "Christopher Isherwood"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6245,
+        "title": "The Blind Assassin",
+        "authors": [
+          "Margaret Atwood"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6246,
+        "title": "Call It Sleep",
+        "authors": [
+          "Henry Roth"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6247,
+        "title": "The Confessions of Nat Turner",
+        "authors": [
+          "William Styron"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6248,
+        "title": "A Death in the Family",
+        "authors": [
+          "James Agee"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6249,
+        "title": "Dog Soldiers",
+        "authors": [
+          "Robert Stone"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6250,
+        "title": "Falconer",
+        "authors": [
+          "John Cheever"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6251,
+        "title": "The Man Who Loved Children",
+        "authors": [
+          "Christina Stead"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6252,
+        "title": "Money",
+        "authors": [
+          "Martin Amis"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6253,
+        "title": "The Painted Bird",
+        "authors": [
+          "Jerzy Kosinski"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6254,
+        "title": "Red Harvest",
+        "authors": [
+          "Dashiell Hammett"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6255,
+        "title": "Revolutionary Road",
+        "authors": [
+          "Richard Yates"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6256,
+        "title": "The Sportswriter",
+        "authors": [
+          "Richard Ford"
+        ],
+        "source": "time-100-best-novels-2005"
+      },
+      {
+        "id": 6257,
+        "title": "A Dark-Adapted Eye",
+        "authors": [
+          "Barbara Vine"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6258,
+        "title": "A Kiss Before Dying",
+        "authors": [
+          "Ira Levin"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6259,
+        "title": "A Man Lay Dead",
+        "authors": [
+          "Ngaio Marsh"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6260,
+        "title": "A Place of Execution",
+        "authors": [
+          "Val McDermid"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6261,
+        "title": "Beast in View",
+        "authors": [
+          "Margaret Millar"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6262,
+        "title": "Beat Not the Bones",
+        "authors": [
+          "Charlotte Jay"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6263,
+        "title": "Big Little Lies",
+        "authors": [
+          "Liane Moriarty"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6264,
+        "title": "Blacktop Wasteland",
+        "authors": [
+          "S. A. Cosby"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6265,
+        "title": "Blanche Passes Go",
+        "authors": [
+          "Barbara Neely"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6266,
+        "title": "Bluebird, Bluebird",
+        "authors": [
+          "Attica Locke"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6267,
+        "title": "Bury Your Dead",
+        "authors": [
+          "Louise Penny"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6268,
+        "title": "Case Histories",
+        "authors": [
+          "Kate Atkinson"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6269,
+        "title": "Casino Royale",
+        "authors": [
+          "Ian Fleming"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6270,
+        "title": "Dead Time",
+        "authors": [
+          "Eleanor Taylor Bland"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6271,
+        "title": "Death of a Red Heroine",
+        "authors": [
+          "Qiu Xiaolong"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6272,
+        "title": "Devil in a Blue Dress",
+        "authors": [
+          "Walter Mosley"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6273,
+        "title": "Djinn Patrol on the Purple Line",
+        "authors": [
+          "Deepa Anappara"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6274,
+        "title": "Double Indemnity",
+        "authors": [
+          "James M. Cain"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6275,
+        "title": "Everything I Never Told You",
+        "authors": [
+          "Celeste Ng"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6276,
+        "title": "Faceless Killers",
+        "authors": [
+          "Henning Mankell"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6277,
+        "title": "Fade Away",
+        "authors": [
+          "Harlan Coben"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6278,
+        "title": "Faithful Place",
+        "authors": [
+          "Tana French"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6279,
+        "title": "Gaudy Night",
+        "authors": [
+          "Dorothy L. Sayers"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6280,
+        "title": "Gone Girl",
+        "authors": [
+          "Gillian Flynn"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6281,
+        "title": "Hollywood Homicide",
+        "authors": [
+          "Kellye Garrett"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6282,
+        "title": "If He Hollers Let Him Go",
+        "authors": [
+          "Chester Himes"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6283,
+        "title": "In a Lonely Place",
+        "authors": [
+          "Dorothy B. Hughes"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6284,
+        "title": "Inner City Blues",
+        "authors": [
+          "Paula L. Woods"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6285,
+        "title": "Killing Floor",
+        "authors": [
+          "Lee Child"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6286,
+        "title": "Lady Joker",
+        "authors": [
+          "Kaoru Takamura"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6287,
+        "title": "Land of Shadows",
+        "authors": [
+          "Rachel Howzell Hall"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6288,
+        "title": "Mean Spirit",
+        "authors": [
+          "Linda Hogan"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6289,
+        "title": "Miracle Creek",
+        "authors": [
+          "Angie Kim"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6290,
+        "title": "Morituri",
+        "authors": [
+          "Yasmina Khadra"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6291,
+        "title": "My Sister, the Serial Killer",
+        "authors": [
+          "Oyinkan Braithwaite"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6292,
+        "title": "Mystic River",
+        "authors": [
+          "Dennis Lehane"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6293,
+        "title": "Ordinary Grace",
+        "authors": [
+          "William Kent Krueger"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6294,
+        "title": "Postmortem",
+        "authors": [
+          "Patricia Cornwell"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6295,
+        "title": "Queenpin",
+        "authors": [
+          "Megan Abbott"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6296,
+        "title": "Six Four",
+        "authors": [
+          "Hideo Yokoyama"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6297,
+        "title": "Smilla's Sense of Snow",
+        "authors": [
+          "Peter Høeg"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6298,
+        "title": "Snakeskin Shamisen",
+        "authors": [
+          "Naomi Hirahara"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6299,
+        "title": "Survivor's Guilt",
+        "authors": [
+          "Robyn Gigl"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6300,
+        "title": "A Coffin for Dimitrios",
+        "authors": [
+          "Eric Ambler"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6301,
+        "title": "The Conjure-Man Dies",
+        "authors": [
+          "Rudolph Fisher"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6302,
+        "title": "The Crime at Black Dudley",
+        "authors": [
+          "Margery Allingham"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6303,
+        "title": "The Daughter of Time",
+        "authors": [
+          "Josephine Tey"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6304,
+        "title": "The Decagon House Murders",
+        "authors": [
+          "Yukito Ayatsuji"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6305,
+        "title": "The Emperor of Ocean Park",
+        "authors": [
+          "Stephen L. Carter"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6306,
+        "title": "The Girl with the Dragon Tattoo",
+        "authors": [
+          "Stieg Larsson"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6307,
+        "title": "The Honjin Murders",
+        "authors": [
+          "Seishi Yokomizo"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6308,
+        "title": "The Hunt for Red October",
+        "authors": [
+          "Tom Clancy"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6309,
+        "title": "The Ice Princess",
+        "authors": [
+          "Camilla Läckberg"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6310,
+        "title": "The Last Good Kiss",
+        "authors": [
+          "James Crumley"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6311,
+        "title": "The Leavenworth Case",
+        "authors": [
+          "Anna Katharine Green"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6312,
+        "title": "The Lincoln Lawyer",
+        "authors": [
+          "Michael Connelly"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6313,
+        "title": "The Long Goodbye",
+        "authors": [
+          "Raymond Chandler"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6314,
+        "title": "The Need",
+        "authors": [
+          "Helen Phillips"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6315,
+        "title": "The Other Americans",
+        "authors": [
+          "Laila Lalami"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6316,
+        "title": "The Patient in Room 18",
+        "authors": [
+          "Mignon G. Eberhart"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6317,
+        "title": "The Plotters",
+        "authors": [
+          "Un-su Kim"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6318,
+        "title": "The Redbreast",
+        "authors": [
+          "Jo Nesbø"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6319,
+        "title": "The Round House",
+        "authors": [
+          "Louise Erdrich"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6320,
+        "title": "The Shadow of the Wind",
+        "authors": [
+          "Carlos Ruiz Zafón"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6321,
+        "title": "The Shining",
+        "authors": [
+          "Stephen King"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6322,
+        "title": "The Silence of the Lambs",
+        "authors": [
+          "Thomas Harris"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6323,
+        "title": "The Surgeon",
+        "authors": [
+          "Tess Gerritsen"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6324,
+        "title": "The Three Coffins",
+        "authors": [
+          "John Dickson Carr"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6325,
+        "title": "The Turn of the Key",
+        "authors": [
+          "Ruth Ware"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6326,
+        "title": "The Widows of Malabar Hill",
+        "authors": [
+          "Sujata Massey"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6327,
+        "title": "The Yiddish Policemen's Union",
+        "authors": [
+          "Michael Chabon"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6328,
+        "title": "Those Bones Are Not My Child",
+        "authors": [
+          "Toni Cade Bambara"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6329,
+        "title": "What the Dead Know",
+        "authors": [
+          "Laura Lippman"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6330,
+        "title": "When Death Comes Stealing",
+        "authors": [
+          "Valerie Wilson Wesley"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6331,
+        "title": "When No One Is Watching",
+        "authors": [
+          "Alyssa Cole"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6332,
+        "title": "Where Are the Children?",
+        "authors": [
+          "Mary Higgins Clark"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6333,
+        "title": "Wife of the Gods",
+        "authors": [
+          "Kwei Quartey"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6334,
+        "title": "Winter Counts",
+        "authors": [
+          "David Heska Wanbli Weiden"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      },
+      {
+        "id": 6335,
+        "title": "Your House Will Pay",
+        "authors": [
+          "Steph Cha"
+        ],
+        "source": "time-100-mystery-thriller-books-2023"
+      }
+    ],
+    "created_people": [
+      {
+        "id": 4198,
+        "name": "Judy Blume"
+      },
+      {
+        "id": 4199,
+        "name": "Christopher Isherwood"
+      },
+      {
+        "id": 4200,
+        "name": "Henry Roth"
+      },
+      {
+        "id": 4201,
+        "name": "James Agee"
+      },
+      {
+        "id": 4202,
+        "name": "Robert Stone"
+      },
+      {
+        "id": 4203,
+        "name": "Christina Stead"
+      },
+      {
+        "id": 4204,
+        "name": "Martin Amis"
+      },
+      {
+        "id": 4205,
+        "name": "Jerzy Kosinski"
+      },
+      {
+        "id": 4206,
+        "name": "Richard Ford"
+      },
+      {
+        "id": 4207,
+        "name": "Barbara Vine"
+      },
+      {
+        "id": 4208,
+        "name": "Ira Levin"
+      },
+      {
+        "id": 4209,
+        "name": "Ngaio Marsh"
+      },
+      {
+        "id": 4210,
+        "name": "Val McDermid"
+      },
+      {
+        "id": 4211,
+        "name": "Margaret Millar"
+      },
+      {
+        "id": 4212,
+        "name": "Charlotte Jay"
+      },
+      {
+        "id": 4213,
+        "name": "Liane Moriarty"
+      },
+      {
+        "id": 4214,
+        "name": "S. A. Cosby"
+      },
+      {
+        "id": 4215,
+        "name": "Barbara Neely"
+      },
+      {
+        "id": 4216,
+        "name": "Attica Locke"
+      },
+      {
+        "id": 4217,
+        "name": "Louise Penny"
+      },
+      {
+        "id": 4218,
+        "name": "Ian Fleming"
+      },
+      {
+        "id": 4219,
+        "name": "Eleanor Taylor Bland"
+      },
+      {
+        "id": 4220,
+        "name": "Qiu Xiaolong"
+      },
+      {
+        "id": 4221,
+        "name": "Walter Mosley"
+      },
+      {
+        "id": 4222,
+        "name": "Deepa Anappara"
+      },
+      {
+        "id": 4223,
+        "name": "Celeste Ng"
+      },
+      {
+        "id": 4224,
+        "name": "Henning Mankell"
+      },
+      {
+        "id": 4225,
+        "name": "Harlan Coben"
+      },
+      {
+        "id": 4226,
+        "name": "Tana French"
+      },
+      {
+        "id": 4227,
+        "name": "Dorothy L. Sayers"
+      },
+      {
+        "id": 4228,
+        "name": "Gillian Flynn"
+      },
+      {
+        "id": 4229,
+        "name": "Kellye Garrett"
+      },
+      {
+        "id": 4230,
+        "name": "Chester Himes"
+      },
+      {
+        "id": 4231,
+        "name": "Dorothy B. Hughes"
+      },
+      {
+        "id": 4232,
+        "name": "Paula L. Woods"
+      },
+      {
+        "id": 4233,
+        "name": "Lee Child"
+      },
+      {
+        "id": 4234,
+        "name": "Kaoru Takamura"
+      },
+      {
+        "id": 4235,
+        "name": "Rachel Howzell Hall"
+      },
+      {
+        "id": 4236,
+        "name": "Linda Hogan"
+      },
+      {
+        "id": 4237,
+        "name": "Angie Kim"
+      },
+      {
+        "id": 4238,
+        "name": "Yasmina Khadra"
+      },
+      {
+        "id": 4239,
+        "name": "Oyinkan Braithwaite"
+      },
+      {
+        "id": 4240,
+        "name": "Dennis Lehane"
+      },
+      {
+        "id": 4241,
+        "name": "William Kent Krueger"
+      },
+      {
+        "id": 4242,
+        "name": "Patricia Cornwell"
+      },
+      {
+        "id": 4243,
+        "name": "Megan Abbott"
+      },
+      {
+        "id": 4244,
+        "name": "Hideo Yokoyama"
+      },
+      {
+        "id": 4245,
+        "name": "Peter Høeg"
+      },
+      {
+        "id": 4246,
+        "name": "Naomi Hirahara"
+      },
+      {
+        "id": 4247,
+        "name": "Robyn Gigl"
+      },
+      {
+        "id": 4248,
+        "name": "Eric Ambler"
+      },
+      {
+        "id": 4249,
+        "name": "Rudolph Fisher"
+      },
+      {
+        "id": 4250,
+        "name": "Margery Allingham"
+      },
+      {
+        "id": 4251,
+        "name": "Josephine Tey"
+      },
+      {
+        "id": 4252,
+        "name": "Yukito Ayatsuji"
+      },
+      {
+        "id": 4253,
+        "name": "Stephen L. Carter"
+      },
+      {
+        "id": 4254,
+        "name": "Stieg Larsson"
+      },
+      {
+        "id": 4255,
+        "name": "Seishi Yokomizo"
+      },
+      {
+        "id": 4256,
+        "name": "Tom Clancy"
+      },
+      {
+        "id": 4257,
+        "name": "Camilla Läckberg"
+      },
+      {
+        "id": 4258,
+        "name": "James Crumley"
+      },
+      {
+        "id": 4259,
+        "name": "Anna Katharine Green"
+      },
+      {
+        "id": 4260,
+        "name": "Michael Connelly"
+      },
+      {
+        "id": 4261,
+        "name": "Helen Phillips"
+      },
+      {
+        "id": 4262,
+        "name": "Mignon G. Eberhart"
+      },
+      {
+        "id": 4263,
+        "name": "Un-su Kim"
+      },
+      {
+        "id": 4264,
+        "name": "Jo Nesbø"
+      },
+      {
+        "id": 4265,
+        "name": "Carlos Ruiz Zafón"
+      },
+      {
+        "id": 4266,
+        "name": "Thomas Harris"
+      },
+      {
+        "id": 4267,
+        "name": "Tess Gerritsen"
+      },
+      {
+        "id": 4268,
+        "name": "John Dickson Carr"
+      },
+      {
+        "id": 4269,
+        "name": "Ruth Ware"
+      },
+      {
+        "id": 4270,
+        "name": "Sujata Massey"
+      },
+      {
+        "id": 4271,
+        "name": "Laura Lippman"
+      },
+      {
+        "id": 4272,
+        "name": "Valerie Wilson Wesley"
+      },
+      {
+        "id": 4273,
+        "name": "Alyssa Cole"
+      },
+      {
+        "id": 4274,
+        "name": "Mary Higgins Clark"
+      },
+      {
+        "id": 4275,
+        "name": "Kwei Quartey"
+      },
+      {
+        "id": 4276,
+        "name": "David Heska Wanbli Weiden"
+      },
+      {
+        "id": 4277,
+        "name": "Steph Cha"
+      }
+    ]
+  },
+  "source_snapshots": {
+    "time-novels-official-snapshot.pdf": {
+      "bytes": 473339,
+      "sha256": "6604b266aa795fc676d72b11aa4fc9d56ee617068ac4828d8e072cb2476da406"
+    },
+    "time-novels-de.html": {
+      "bytes": 157366,
+      "sha256": "93b0b726eb744a048bec3ce156e40541d27cf2bd8ea4b6f4147165381f9347e7"
+    },
+    "time-mystery-mirror.html": {
+      "bytes": 159123,
+      "sha256": "98ce72b0f1b1d4623b93bd8fc42a12e1f2ee1d816baeaab90c9832f4c642b4ac"
+    },
+    "time-mystery-mirror-page2.html": {
+      "bytes": 159650,
+      "sha256": "80f5a695d9b2a96282bac0cd17f0d57b85ea2249731179d67e3ce6a9f17e7005"
+    },
+    "time-mystery-ebsco.html": {
+      "bytes": 100023,
+      "sha256": "acfdcffc092f1c2b854399bf73afc24ef7fdc74c22b106de7bbe144837169569"
+    }
+  }
+}

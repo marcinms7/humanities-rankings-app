@@ -1,0 +1,43 @@
+{
+  "target_id": "new-york-times-readers-best-books-21st-century-2024",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-14",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.nytimes.com/interactive/2024/books/reader-best-books-21st-century.html",
+      "title": "The New York Times · Readers' 100 Best Books of the 21st Century (2024) — primary interactive",
+      "canonical_url": "https://www.nytimes.com/interactive/2024/books/reader-best-books-21st-century.html",
+      "source_family": "public_poll",
+      "publisher": "The New York Times Book Review",
+      "evidence_notes": "Identifies the publisher, scope, reader-list status and relationship to the expert list.",
+      "limitations": "The primary interactive returned an automated-access block during this run; its row order was checked through the saved transcription mirror.",
+      "eligible": false,
+      "target_ids": [
+        "new-york-times-readers-best-books-21st-century-2024"
+      ],
+      "relevance_by_target": {
+        "new-york-times-readers-best-books-21st-century-2024": "Identifies the publisher, scope, reader-list status and relationship to the expert list."
+      },
+      "accessed_at": "2026-09-14"
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "published-list:https://thegreatestbooks.org/lists/432",
+      "title": "The New York Times · Readers' 100 Best Books of the 21st Century (2024) — complete transcription mirror",
+      "canonical_url": "https://thegreatestbooks.org/lists/432",
+      "source_family": "list_transcription",
+      "publisher": "The Greatest Books",
+      "evidence_notes": "Complete row-level transcription used for all 100 source positions, titles and authors.",
+      "limitations": "Dependent transcription of the New York Times list, not an independent vote or opinion source.",
+      "eligible": true,
+      "target_ids": [
+        "new-york-times-readers-best-books-21st-century-2024"
+      ],
+      "relevance_by_target": {
+        "new-york-times-readers-best-books-21st-century-2024": "Complete row-level transcription used for all 100 source positions, titles and authors."
+      },
+      "accessed_at": "2026-09-14"
+    }
+  ]
+}

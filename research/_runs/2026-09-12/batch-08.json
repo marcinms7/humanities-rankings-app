@@ -1,0 +1,161 @@
+{
+  "summary": "Eight existing all-books sources individually reconsulted for literature; no wholesale ledger copying. Blogs, forum reception, curriculum, board poll and scholarly canon criticism distinguish evidence types.",
+  "next": "Add independent regional literary criticism and non-English reader perspectives.",
+  "sources": [
+    {
+      "id": "R057",
+      "url": "https://sites.prh.com/modern-library-top-100/",
+      "title": "Modern Library Top 100",
+      "publisher": "Penguin Random House",
+      "family": "independent_ranking",
+      "note": "Board poll gives Ulysses and The Great Gatsby leading positions; descriptive comments identify formal experimentation and conflicting early reception.",
+      "candidates": [
+        "Ulysses",
+        "The Great Gatsby",
+        "The Sound and the Fury"
+      ],
+      "location": "Introduction and first ten novels",
+      "limits": "Publisher board and historically bounded candidate pool; blurb quotations not independently consulted reviews.",
+      "targets": {
+        "L": "Individually reconsulted fiction candidates or relevant literary methodology."
+      }
+    },
+    {
+      "id": "R058",
+      "url": "https://directedstudies.yale.edu/syllabi/syllabi/literature-syllabus",
+      "title": "Literature Syllabus",
+      "publisher": "Yale University",
+      "family": "university_reading_list",
+      "note": "2024–25 bookshelves include Hadji Murat, Swann’s Way, Madame Bovary and To the Lighthouse alongside poems, scripture and plays.",
+      "candidates": [
+        "Hadji Murat",
+        "Swann's Way",
+        "Madame Bovary",
+        "To the Lighthouse"
+      ],
+      "location": "Both semester bookshelves",
+      "limits": "Teaching sequence not merit ranking; only eligible prose fiction transfers into this target.",
+      "targets": {
+        "L": "Individually reconsulted fiction candidates or relevant literary methodology."
+      }
+    },
+    {
+      "id": "R059",
+      "url": "https://fivebooks.com/best-books/modern-japanese-literature-linda-flores/",
+      "title": "The Best Modern Japanese Literature",
+      "publisher": "Five Books",
+      "family": "expert_interview",
+      "note": "Flores reads Convenience Store Woman as humorous but disturbing resistance to prescribed female identity; selects Enchi and Sōseki plus translated feminist criticism.",
+      "candidates": [
+        "Convenience Store Woman",
+        "Masks",
+        "Kokoro",
+        "Woman Critiqued"
+      ],
+      "location": "Selection and Murata discussion",
+      "limits": "One expert selection; mixed fiction/criticism; English translation visibility shapes selection.",
+      "targets": {
+        "L": "Individually reconsulted fiction candidates or relevant literary methodology.",
+        "N": "Woman Critiqued adds translated Japanese feminist literary criticism."
+      }
+    },
+    {
+      "id": "R060",
+      "url": "https://fivebooks.com/best-books/east-asian-classic-books-tuva-kahrs/",
+      "title": "Five East Asian Classic Books Worth Reading",
+      "publisher": "Five Books",
+      "family": "editorial_selection",
+      "note": "Kahrs discusses Genji’s changing perspective on women's dependence and mortality; pairs Chinese fiction with Korean court memoir and supernatural anecdotes.",
+      "candidates": [
+        "The Tale of Genji",
+        "Journey to the West",
+        "The Plum in the Golden Vase",
+        "The Memoirs of Lady Hyegyong"
+      ],
+      "location": "Selection and Genji discussion",
+      "limits": "Memoir excluded from fiction pool; abridged translations and multivolume identity need reconciliation.",
+      "targets": {
+        "L": "Individually reconsulted fiction candidates or relevant literary methodology.",
+        "N": "Lady Hyegyong supplies a Korean memoir candidate."
+      }
+    },
+    {
+      "id": "R061",
+      "url": "https://bookertalk.com/10-favourite-classics/",
+      "title": "10 Wonderful Classics",
+      "publisher": "BookerTalk",
+      "family": "independent_blog",
+      "note": "Repeated reading exposes class and gender questions beyond romance in Austen and Brontë; Middlemarch praised despite slow opening, Germinal for emotionally harsh social struggle.",
+      "candidates": [
+        "Pride and Prejudice",
+        "Jane Eyre",
+        "Middlemarch",
+        "Germinal"
+      ],
+      "location": "Opening and nineteenth-century selections",
+      "limits": "Personal rereading preferences; list includes epic poetry outside literary-fiction scope.",
+      "targets": {
+        "L": "Individually reconsulted fiction candidates or relevant literary methodology."
+      }
+    },
+    {
+      "id": "R062",
+      "url": "https://tonysreadinglist.wordpress.com/books-of-the-year/",
+      "title": "Books of the Year",
+      "publisher": "Tony's Reading List",
+      "family": "independent_blog",
+      "note": "Annual personal shortlists favour Mishima, Bely and Mizumura; negative awards for James and Shin complicate uncomplicated canon endorsement.",
+      "candidates": [
+        "The Sea of Fertility",
+        "Petersburg",
+        "A True Novel",
+        "The Wings of the Dove",
+        "Please Look After Mother"
+      ],
+      "location": "Introduction and 2009–14 awards",
+      "limits": "One retrospective selection; reading year differs from publication year; linked reviews not separately counted.",
+      "targets": {
+        "L": "Individually reconsulted fiction candidates or relevant literary methodology."
+      }
+    },
+    {
+      "id": "R063",
+      "url": "https://www.publicbooks.org/for-world-literature/",
+      "title": "For World Literature",
+      "publisher": "Public Books",
+      "family": "scholarly_critical_essay",
+      "note": "Levine compares Apter, Hayot and Moretti on translation and world scale; European periodization can impose belatedness on other literatures, while translation can conceal idiom.",
+      "candidates": [
+        "Against World Literature",
+        "On Literary Worlds",
+        "Distant Reading",
+        "Eurocentric periodization"
+      ],
+      "location": "Opening comparative argument",
+      "limits": "Methodological criticism, not a candidate ranking; reviewed books not counted as separately consulted.",
+      "targets": {
+        "L": "Individually reconsulted fiction candidates or relevant literary methodology.",
+        "N": "Comparative critical evaluation of three nonfiction literary studies."
+      }
+    },
+    {
+      "id": "R064",
+      "url": "https://www.librarything.com/topic/338851",
+      "title": "Great Books from the last 30 years",
+      "publisher": "LibraryThing",
+      "family": "reader_discussion",
+      "note": "Readers distinguish enduring merit from entertainment and debate contemporary candidates; Kafka on the Shore receives an argument based on complexity, form and historical resonance.",
+      "candidates": [
+        "Kafka on the Shore",
+        "Never Let Me Go",
+        "Austerlitz",
+        "Piranesi"
+      ],
+      "location": "Posts 1–7",
+      "limits": "Small collector community; opening BBC list is dependent and not treated as independent votes.",
+      "targets": {
+        "L": "Individually reconsulted fiction candidates or relevant literary methodology."
+      }
+    }
+  ]
+}

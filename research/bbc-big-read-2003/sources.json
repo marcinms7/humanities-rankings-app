@@ -1,0 +1,43 @@
+{
+  "target_id": "bbc-big-read-2003",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.bbc.co.uk/arts/bigread/",
+      "title": "BBC · The Big Read (2003) — result publication",
+      "canonical_url": "https://www.bbc.co.uk/arts/bigread/",
+      "source_family": "public_poll",
+      "publisher": "BBC",
+      "target_ids": [
+        "bbc-big-read-2003"
+      ],
+      "relevance_by_target": {
+        "bbc-big-read-2003": "All 200 novels in the final public-vote order."
+      },
+      "evidence_notes": "All 200 novels in the final public-vote order.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "UK public popularity poll; multiple books by an author could appear below the top 21, while the final top-21 vote imposed one book per author."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "published-list:https://en.wikipedia.org/wiki/The_Big_Read",
+      "title": "BBC · The Big Read (2003) — transcription/data mirror",
+      "canonical_url": "https://en.wikipedia.org/wiki/The_Big_Read",
+      "source_family": "list_transcription",
+      "publisher": "BBC",
+      "target_ids": [
+        "bbc-big-read-2003"
+      ],
+      "relevance_by_target": {
+        "bbc-big-read-2003": "Row-level transcription used to preserve and cross-check the complete order."
+      },
+      "evidence_notes": "Row-level transcription used to preserve and cross-check the complete order.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Mirror of the same list; not counted as independent opinion evidence."
+    }
+  ]
+}

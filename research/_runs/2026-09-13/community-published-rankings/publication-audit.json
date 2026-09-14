@@ -1,0 +1,3653 @@
+{
+  "checked_on": "2026-09-13",
+  "targets": {
+    "reddit-truelit-2023": {
+      "ranking_id": 109,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "19e5ffb0c50aee03739e2cad8f09e20131d6bbd590d32445be8dcd4392714cc8"
+    },
+    "reddit-classicliterature-2025": {
+      "ranking_id": 110,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "919258bc764ee61819d46e4be8200ac2f4a042f415e900d048f512ef36433b36"
+    },
+    "reddit-fantasy-top-novels-2023": {
+      "ranking_id": 111,
+      "entries": 266,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "ec84683ac5b85c2d6a0a3797f51cb5e019c1b26227f68d233f7b13882cbdf24d"
+    },
+    "reddit-printsf-top-books-2023": {
+      "ranking_id": 112,
+      "entries": 115,
+      "revision": 2,
+      "source_count": 2,
+      "input_sha256": "7539456c585e9a7a7520cdc963380a425ec4363459accdf7e8bb475735832135"
+    },
+    "fourchan-lit-top-100-2025": {
+      "ranking_id": 113,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "5025b2f28b0e7a340c156bc4aa855e11750f8184e7c4b3002fce4a88880e144d"
+    },
+    "fourchan-lit-decade-aggregate-2014-2024": {
+      "ranking_id": 114,
+      "entries": 100,
+      "revision": 2,
+      "source_count": 1,
+      "input_sha256": "19f013cc980df77f98c79c146dc584d5a27d8147852ba60abfc0df450eaeebe8"
+    }
+  },
+  "catalog": {
+    "created_works": [
+      {
+        "id": 4801,
+        "title": "The Master and Margharita",
+        "authors": [
+          "Bulgakov"
+        ]
+      },
+      {
+        "id": 4802,
+        "title": "The Trilogy",
+        "authors": [
+          "Beckett"
+        ]
+      },
+      {
+        "id": 4803,
+        "title": "The Melancholy of Resistance",
+        "authors": [
+          "Krasznahorkai"
+        ]
+      },
+      {
+        "id": 4804,
+        "title": "Septology",
+        "authors": [
+          "Fosse"
+        ]
+      },
+      {
+        "id": 4805,
+        "title": "My Struggle",
+        "authors": [
+          "Knausgard"
+        ]
+      },
+      {
+        "id": 4806,
+        "title": "Nightwood",
+        "authors": [
+          "Barnes"
+        ]
+      },
+      {
+        "id": 4807,
+        "title": "A Month in the Country",
+        "authors": [
+          "Carr"
+        ]
+      },
+      {
+        "id": 4808,
+        "title": "1984",
+        "authors": [
+          "Orwell"
+        ]
+      },
+      {
+        "id": 4809,
+        "title": "The Neapolitan Novels",
+        "authors": [
+          "Ferrante"
+        ]
+      },
+      {
+        "id": 4810,
+        "title": "Solenoid",
+        "authors": [
+          "Mircea Cărtărescu"
+        ]
+      },
+      {
+        "id": 4811,
+        "title": "The Sea of Fertility",
+        "authors": [
+          "Mishima"
+        ]
+      },
+      {
+        "id": 4812,
+        "title": "Gormenghast Trilogy",
+        "authors": [
+          "Peake"
+        ]
+      },
+      {
+        "id": 4813,
+        "title": "Huckleberry Finn",
+        "authors": [
+          "Twain"
+        ]
+      },
+      {
+        "id": 4814,
+        "title": "Short Stories of Flannery O'Conner",
+        "authors": [
+          "Flannery O'Connor"
+        ]
+      },
+      {
+        "id": 4815,
+        "title": "Dickinson's Collected Poems",
+        "authors": [
+          "Dickinson"
+        ]
+      },
+      {
+        "id": 4816,
+        "title": "The Book of the New Sun",
+        "authors": [
+          "Wolfe"
+        ]
+      },
+      {
+        "id": 4817,
+        "title": "Lincoln in the Bardo",
+        "authors": [
+          "Saunders"
+        ]
+      },
+      {
+        "id": 4818,
+        "title": "Woodcutters",
+        "authors": [
+          "Bernhard"
+        ]
+      },
+      {
+        "id": 4819,
+        "title": "The Goldfinch",
+        "authors": [
+          "Tartt"
+        ]
+      },
+      {
+        "id": 4820,
+        "title": "The Sellout",
+        "authors": [
+          "Beatty"
+        ]
+      },
+      {
+        "id": 4821,
+        "title": "Notes from Underground",
+        "authors": [
+          "Fyodor Dostoevsky"
+        ]
+      },
+      {
+        "id": 4822,
+        "title": "The Phantom of the Opera",
+        "authors": [
+          "Gaston Leroux"
+        ]
+      },
+      {
+        "id": 4823,
+        "title": "A Game of Thrones",
+        "authors": [
+          "George R. R. Martin"
+        ]
+      },
+      {
+        "id": 4824,
+        "title": "Cat's Cradle",
+        "authors": [
+          "Kurt Vonnegut"
+        ]
+      },
+      {
+        "id": 4825,
+        "title": "The Stormlight Archive",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      },
+      {
+        "id": 4826,
+        "title": "Middle-Earth Universe",
+        "authors": [
+          "J.R.R. Tolkien"
+        ]
+      },
+      {
+        "id": 4827,
+        "title": "First Law World",
+        "authors": [
+          "Joe Abercrombie"
+        ]
+      },
+      {
+        "id": 4828,
+        "title": "A Song of Ice and Fire",
+        "authors": [
+          "George R. R. Martin"
+        ]
+      },
+      {
+        "id": 4829,
+        "title": "Mistborn",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      },
+      {
+        "id": 4830,
+        "title": "The Wheel of Time",
+        "authors": [
+          "Robert Jordan"
+        ]
+      },
+      {
+        "id": 4831,
+        "title": "Realm of the Elderlings",
+        "authors": [
+          "Robin Hobb"
+        ]
+      },
+      {
+        "id": 4832,
+        "title": "Discworld",
+        "authors": [
+          "Terry Pratchett"
+        ]
+      },
+      {
+        "id": 4833,
+        "title": "Malazan",
+        "authors": [
+          "Steven Erikson"
+        ]
+      },
+      {
+        "id": 4834,
+        "title": "The Green Bone Saga",
+        "authors": [
+          "Fonda Lee"
+        ]
+      },
+      {
+        "id": 4835,
+        "title": "Gentleman Bastard",
+        "authors": [
+          "Scott Lynch"
+        ]
+      },
+      {
+        "id": 4836,
+        "title": "Harry Potter",
+        "authors": [
+          "J.K. Rowling"
+        ]
+      },
+      {
+        "id": 4837,
+        "title": "The Kingkiller Chronicle",
+        "authors": [
+          "Patrick Rothfuss"
+        ]
+      },
+      {
+        "id": 4838,
+        "title": "Red Rising Saga",
+        "authors": [
+          "Pierce Brown"
+        ]
+      },
+      {
+        "id": 4839,
+        "title": "The Dresden Files",
+        "authors": [
+          "Jim Butcher"
+        ]
+      },
+      {
+        "id": 4840,
+        "title": "Cradle",
+        "authors": [
+          "Will Wight"
+        ]
+      },
+      {
+        "id": 4841,
+        "title": "The Murderbot Diaries",
+        "authors": [
+          "Martha Wells"
+        ]
+      },
+      {
+        "id": 4842,
+        "title": "The Broken Earth",
+        "authors": [
+          "N.K. Jemisin"
+        ]
+      },
+      {
+        "id": 4843,
+        "title": "Earthsea Cycle",
+        "authors": [
+          "Ursula K. Le Guin"
+        ]
+      },
+      {
+        "id": 4844,
+        "title": "The Locked Tomb",
+        "authors": [
+          "Tamsyn Muir"
+        ]
+      },
+      {
+        "id": 4845,
+        "title": "The Witcher",
+        "authors": [
+          "Andrzej Sapkowski"
+        ]
+      },
+      {
+        "id": 4846,
+        "title": "The Dark Tower",
+        "authors": [
+          "Stephen King"
+        ]
+      },
+      {
+        "id": 4847,
+        "title": "The Expanse",
+        "authors": [
+          "James S. A. Corey"
+        ]
+      },
+      {
+        "id": 4848,
+        "title": "Hyperion Cantos",
+        "authors": [
+          "Dan Simmons"
+        ]
+      },
+      {
+        "id": 4849,
+        "title": "His Dark Materials",
+        "authors": [
+          "Philip Pullman"
+        ]
+      },
+      {
+        "id": 4850,
+        "title": "The Books of Babel",
+        "authors": [
+          "Josiah Bancroft"
+        ]
+      },
+      {
+        "id": 4851,
+        "title": "Percy Jackson and the Olympians",
+        "authors": [
+          "Rick Riordan"
+        ]
+      },
+      {
+        "id": 4852,
+        "title": "Wayfarers",
+        "authors": [
+          "Becky Chambers"
+        ]
+      },
+      {
+        "id": 4853,
+        "title": "Book of the Ancestor",
+        "authors": [
+          "Mark Lawrence"
+        ]
+      },
+      {
+        "id": 4854,
+        "title": "Riyria",
+        "authors": [
+          "Michael J. Sullivan"
+        ]
+      },
+      {
+        "id": 4855,
+        "title": "Children of Time",
+        "authors": [
+          "Adrian Tchaikovsky"
+        ]
+      },
+      {
+        "id": 4856,
+        "title": "The Faithful and the Fallen",
+        "authors": [
+          "John Gwynne"
+        ]
+      },
+      {
+        "id": 4857,
+        "title": "The Goblin Emperor",
+        "authors": [
+          "Katherine Addison"
+        ]
+      },
+      {
+        "id": 4858,
+        "title": "The Band",
+        "authors": [
+          "Nicholas Eames"
+        ]
+      },
+      {
+        "id": 4859,
+        "title": "Hainish Cycle",
+        "authors": [
+          "Ursula K. Le Guin"
+        ]
+      },
+      {
+        "id": 4860,
+        "title": "Teixcalaan",
+        "authors": [
+          "Arkady Martine"
+        ]
+      },
+      {
+        "id": 4861,
+        "title": "Warbreaker",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      },
+      {
+        "id": 4862,
+        "title": "Powder Mage",
+        "authors": [
+          "Brian McClellan"
+        ]
+      },
+      {
+        "id": 4863,
+        "title": "The Osten Ard Saga",
+        "authors": [
+          "Tad Williams"
+        ]
+      },
+      {
+        "id": 4864,
+        "title": "Project Hail Mary",
+        "authors": [
+          "Andy Weir"
+        ]
+      },
+      {
+        "id": 4865,
+        "title": "World of the Five Gods",
+        "authors": [
+          "Lois McMaster Bujold"
+        ]
+      },
+      {
+        "id": 4866,
+        "title": "American Gods",
+        "authors": [
+          "Neil Gaiman"
+        ]
+      },
+      {
+        "id": 4867,
+        "title": "The Old Kingdom",
+        "authors": [
+          "Garth Nix"
+        ]
+      },
+      {
+        "id": 4868,
+        "title": "Ender's Saga",
+        "authors": [
+          "Orson Scott Card"
+        ]
+      },
+      {
+        "id": 4869,
+        "title": "Tress of the Emerald Sea",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      },
+      {
+        "id": 4870,
+        "title": "Circe",
+        "authors": [
+          "Madeline Miller"
+        ]
+      },
+      {
+        "id": 4871,
+        "title": "Scholomance",
+        "authors": [
+          "Naomi Novik"
+        ]
+      },
+      {
+        "id": 4872,
+        "title": "Lightbringer",
+        "authors": [
+          "Brent Weeks"
+        ]
+      },
+      {
+        "id": 4873,
+        "title": "The Chronicles of the Black Company",
+        "authors": [
+          "Glen Cook"
+        ]
+      },
+      {
+        "id": 4874,
+        "title": "Berserk",
+        "authors": [
+          "Kentaro Miura"
+        ]
+      },
+      {
+        "id": 4875,
+        "title": "The Masquerade",
+        "authors": [
+          "Seth Dickinson"
+        ]
+      },
+      {
+        "id": 4876,
+        "title": "One Piece",
+        "authors": [
+          "Eiichiro Oda"
+        ]
+      },
+      {
+        "id": 4877,
+        "title": "The Chronicles of Narnia",
+        "authors": [
+          "C.S. Lewis"
+        ]
+      },
+      {
+        "id": 4878,
+        "title": "Grishaverse",
+        "authors": [
+          "Leigh Bardugo"
+        ]
+      },
+      {
+        "id": 4879,
+        "title": "Legends & Lattes",
+        "authors": [
+          "Travis Baldree"
+        ]
+      },
+      {
+        "id": 4880,
+        "title": "Tigana",
+        "authors": [
+          "Guy Gavriel Kay"
+        ]
+      },
+      {
+        "id": 4881,
+        "title": "The Lions of Al-Rassan",
+        "authors": [
+          "Guy Gavriel Kay"
+        ]
+      },
+      {
+        "id": 4882,
+        "title": "Kushiel's Universe",
+        "authors": [
+          "Jacqueline Carey"
+        ]
+      },
+      {
+        "id": 4883,
+        "title": "The Second Apocalypse",
+        "authors": [
+          "R. Scott Bakker"
+        ]
+      },
+      {
+        "id": 4884,
+        "title": "The Poppy War",
+        "authors": [
+          "R.F. Kuang"
+        ]
+      },
+      {
+        "id": 4885,
+        "title": "The Library at Mount Char",
+        "authors": [
+          "Scott Hawkins"
+        ]
+      },
+      {
+        "id": 4886,
+        "title": "Tortall Universe",
+        "authors": [
+          "Tamora Pierce"
+        ]
+      },
+      {
+        "id": 4887,
+        "title": "Sandman",
+        "authors": [
+          "Neil Gaiman"
+        ]
+      },
+      {
+        "id": 4888,
+        "title": "Parahumans",
+        "authors": [
+          "Wildbow"
+        ]
+      },
+      {
+        "id": 4889,
+        "title": "The Long Price Quartet",
+        "authors": [
+          "Daniel Abraham"
+        ]
+      },
+      {
+        "id": 4890,
+        "title": "Howl's Moving Castle",
+        "authors": [
+          "Diana Wynne Jones"
+        ]
+      },
+      {
+        "id": 4891,
+        "title": "The Bloodsworn Saga",
+        "authors": [
+          "John Gwynne"
+        ]
+      },
+      {
+        "id": 4892,
+        "title": "The Winternight Trilogy",
+        "authors": [
+          "Katherine Arden"
+        ]
+      },
+      {
+        "id": 4893,
+        "title": "Remembrance of Earth's Past",
+        "authors": [
+          "Liu Cixin"
+        ]
+      },
+      {
+        "id": 4894,
+        "title": "Good Omens",
+        "authors": [
+          "Neil Gaiman",
+          "Terry Pratchett"
+        ]
+      },
+      {
+        "id": 4895,
+        "title": "The Burning",
+        "authors": [
+          "Evan Winter"
+        ]
+      },
+      {
+        "id": 4896,
+        "title": "Theonite",
+        "authors": [
+          "M.L. Wang"
+        ]
+      },
+      {
+        "id": 4897,
+        "title": "New Crobuzon (Bas-Lag)",
+        "authors": [
+          "China Miéville"
+        ]
+      },
+      {
+        "id": 4898,
+        "title": "The Song of Achilles",
+        "authors": [
+          "Madeline Miller"
+        ]
+      },
+      {
+        "id": 4899,
+        "title": "Star Wars",
+        "authors": [
+          "Various"
+        ]
+      },
+      {
+        "id": 4900,
+        "title": "Sun Eater",
+        "authors": [
+          "Christopher Ruocchio"
+        ]
+      },
+      {
+        "id": 4901,
+        "title": "This is How You Lose the Time War",
+        "authors": [
+          "Amal El-Mohtar",
+          "Max Gladstone"
+        ]
+      },
+      {
+        "id": 4902,
+        "title": "Nevermoor",
+        "authors": [
+          "Jessica Townsend"
+        ]
+      },
+      {
+        "id": 4903,
+        "title": "The Emperor's Soul",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      },
+      {
+        "id": 4904,
+        "title": "The Dandelion Dynasty",
+        "authors": [
+          "Ken Liu"
+        ]
+      },
+      {
+        "id": 4905,
+        "title": "Vorkosigan Saga",
+        "authors": [
+          "Lois McMaster Bujold"
+        ]
+      },
+      {
+        "id": 4906,
+        "title": "The Memoirs of Lady Trent",
+        "authors": [
+          "Marie Brennan"
+        ]
+      },
+      {
+        "id": 4907,
+        "title": "The Divine Cities",
+        "authors": [
+          "Robert Jackson Bennett"
+        ]
+      },
+      {
+        "id": 4908,
+        "title": "Mother of Learning",
+        "authors": [
+          "Domagoj Kurmaic"
+        ]
+      },
+      {
+        "id": 4909,
+        "title": "The Sarantine Mosaic",
+        "authors": [
+          "Guy Gavriel Kay"
+        ]
+      },
+      {
+        "id": 4910,
+        "title": "Neverwhere",
+        "authors": [
+          "Neil Gaiman"
+        ]
+      },
+      {
+        "id": 4911,
+        "title": "Riftwar Cycle",
+        "authors": [
+          "Janny Wurts",
+          "Raymond E. Feist"
+        ]
+      },
+      {
+        "id": 4912,
+        "title": "Blacktongue",
+        "authors": [
+          "Christopher Buehlman"
+        ]
+      },
+      {
+        "id": 4913,
+        "title": "The Inheritance Cycle",
+        "authors": [
+          "Christopher Paolini"
+        ]
+      },
+      {
+        "id": 4914,
+        "title": "The Licanius Trilogy",
+        "authors": [
+          "James Islington"
+        ]
+      },
+      {
+        "id": 4915,
+        "title": "Gormenghast",
+        "authors": [
+          "Mervyn Peake"
+        ]
+      },
+      {
+        "id": 4916,
+        "title": "Spinning Silver",
+        "authors": [
+          "Naomi Novik"
+        ]
+      },
+      {
+        "id": 4917,
+        "title": "The Ocean at the End of the Lane",
+        "authors": [
+          "Neil Gaiman"
+        ]
+      },
+      {
+        "id": 4918,
+        "title": "The Last Unicorn",
+        "authors": [
+          "Peter S. Beagle"
+        ]
+      },
+      {
+        "id": 4919,
+        "title": "Terra Ignota",
+        "authors": [
+          "Ada Palmer"
+        ]
+      },
+      {
+        "id": 4920,
+        "title": "Culture",
+        "authors": [
+          "Iain M. Banks"
+        ]
+      },
+      {
+        "id": 4921,
+        "title": "Broken Empire world",
+        "authors": [
+          "Mark Lawrence"
+        ]
+      },
+      {
+        "id": 4922,
+        "title": "Earthseed",
+        "authors": [
+          "Octavia Butler"
+        ]
+      },
+      {
+        "id": 4923,
+        "title": "The Wandering Inn",
+        "authors": [
+          "Pirateaba"
+        ]
+      },
+      {
+        "id": 4924,
+        "title": "The House in the Cerulean Sea",
+        "authors": [
+          "T.J. Klune"
+        ]
+      },
+      {
+        "id": 4925,
+        "title": "Rivers of London",
+        "authors": [
+          "Ben Aaronovitch"
+        ]
+      },
+      {
+        "id": 4926,
+        "title": "The Singing Hills Cycle",
+        "authors": [
+          "Nghi Vo"
+        ]
+      },
+      {
+        "id": 4927,
+        "title": "The Tide Child",
+        "authors": [
+          "R.J. Barker"
+        ]
+      },
+      {
+        "id": 4928,
+        "title": "The Daevabad Trilogy",
+        "authors": [
+          "S.A. Chakraborty"
+        ]
+      },
+      {
+        "id": 4929,
+        "title": "The Roots of Chaos",
+        "authors": [
+          "Samantha Shannon"
+        ]
+      },
+      {
+        "id": 4930,
+        "title": "The Martian",
+        "authors": [
+          "Andy Weir"
+        ]
+      },
+      {
+        "id": 4931,
+        "title": "Imperial Radch",
+        "authors": [
+          "Ann Leckie"
+        ]
+      },
+      {
+        "id": 4932,
+        "title": "Skyward",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      },
+      {
+        "id": 4933,
+        "title": "Fullmetal Alchemist",
+        "authors": [
+          "Hiromu Arakawa"
+        ]
+      },
+      {
+        "id": 4934,
+        "title": "Foundation",
+        "authors": [
+          "Isaac Asimov"
+        ]
+      },
+      {
+        "id": 4935,
+        "title": "Chronicles of Amber",
+        "authors": [
+          "Roger Zelazny"
+        ]
+      },
+      {
+        "id": 4936,
+        "title": "Sprawl",
+        "authors": [
+          "William Gibson"
+        ]
+      },
+      {
+        "id": 4937,
+        "title": "Mage Errant",
+        "authors": [
+          "John Bierce"
+        ]
+      },
+      {
+        "id": 4938,
+        "title": "Bartimaeus Sequence",
+        "authors": [
+          "Jonathan Stroud"
+        ]
+      },
+      {
+        "id": 4939,
+        "title": "The Magicians",
+        "authors": [
+          "Lev Grossman"
+        ]
+      },
+      {
+        "id": 4940,
+        "title": "The Books of the Raksura",
+        "authors": [
+          "Martha Wells"
+        ]
+      },
+      {
+        "id": 4941,
+        "title": "Dungeon Crawler Carl",
+        "authors": [
+          "Matt Dinniman"
+        ]
+      },
+      {
+        "id": 4942,
+        "title": "Anathem",
+        "authors": [
+          "Neal Stephenson"
+        ]
+      },
+      {
+        "id": 4943,
+        "title": "The Once and Future Witches",
+        "authors": [
+          "Alix E. Harrow"
+        ]
+      },
+      {
+        "id": 4944,
+        "title": "Pern",
+        "authors": [
+          "Anne McCaffrey"
+        ]
+      },
+      {
+        "id": 4945,
+        "title": "Bobiverse",
+        "authors": [
+          "Dennis E. Taylor"
+        ]
+      },
+      {
+        "id": 4946,
+        "title": "Paksenarrion",
+        "authors": [
+          "Elizabeth Moon"
+        ]
+      },
+      {
+        "id": 4947,
+        "title": "Wars of Light and Shadow",
+        "authors": [
+          "Janny Wurts"
+        ]
+      },
+      {
+        "id": 4948,
+        "title": "Southern Reach",
+        "authors": [
+          "Jeff VanderMeer"
+        ]
+      },
+      {
+        "id": 4949,
+        "title": "Rook & Rose",
+        "authors": [
+          "M.A. Carrick"
+        ]
+      },
+      {
+        "id": 4950,
+        "title": "Lady Astronaut",
+        "authors": [
+          "Mary Robinette Kowal"
+        ]
+      },
+      {
+        "id": 4951,
+        "title": "Babel",
+        "authors": [
+          "R.F. Kuang"
+        ]
+      },
+      {
+        "id": 4952,
+        "title": "Wayward Children",
+        "authors": [
+          "Seanan McGuire"
+        ]
+      },
+      {
+        "id": 4953,
+        "title": "The Burning Kingdoms",
+        "authors": [
+          "Tasha Suri"
+        ]
+      },
+      {
+        "id": 4954,
+        "title": "The Ten Thousand Doors of January",
+        "authors": [
+          "Alix E. Harrow"
+        ]
+      },
+      {
+        "id": 4955,
+        "title": "Arcane Ascension",
+        "authors": [
+          "Andrew Rowe"
+        ]
+      },
+      {
+        "id": 4956,
+        "title": "Night Angel",
+        "authors": [
+          "Brent Weeks"
+        ]
+      },
+      {
+        "id": 4957,
+        "title": "The Shadow Campaigns",
+        "authors": [
+          "Django Wexler"
+        ]
+      },
+      {
+        "id": 4958,
+        "title": "The Night Circus",
+        "authors": [
+          "Erin Morgenstern"
+        ]
+      },
+      {
+        "id": 4959,
+        "title": "Temeraire",
+        "authors": [
+          "Naomi Novik"
+        ]
+      },
+      {
+        "id": 4960,
+        "title": "The Demon Cycle",
+        "authors": [
+          "Peter V. Brett"
+        ]
+      },
+      {
+        "id": 4961,
+        "title": "The Bound and the Broken",
+        "authors": [
+          "Ryan Cahill"
+        ]
+      },
+      {
+        "id": 4962,
+        "title": "The Chronicles of Thomas Covenant",
+        "authors": [
+          "Stephen R. Donaldson"
+        ]
+      },
+      {
+        "id": 4963,
+        "title": "The World of the White Rat",
+        "authors": [
+          "T. Kingfisher"
+        ]
+      },
+      {
+        "id": 4964,
+        "title": "The Warlord Chronicles",
+        "authors": [
+          "Bernard Cornwell"
+        ]
+      },
+      {
+        "id": 4965,
+        "title": "Redwall",
+        "authors": [
+          "Brian Jacques"
+        ]
+      },
+      {
+        "id": 4966,
+        "title": "The Five Warrior Angels",
+        "authors": [
+          "Brian Lee Durfee"
+        ]
+      },
+      {
+        "id": 4967,
+        "title": "The Coldfire Trilogy",
+        "authors": [
+          "C.S. Friedman"
+        ]
+      },
+      {
+        "id": 4968,
+        "title": "The Queen's Thief",
+        "authors": [
+          "Megan Whalen Turner"
+        ]
+      },
+      {
+        "id": 4969,
+        "title": "Uprooted",
+        "authors": [
+          "Naomi Novik"
+        ]
+      },
+      {
+        "id": 4970,
+        "title": "Forgotten Realms",
+        "authors": [
+          "R.A. Salvatore"
+        ]
+      },
+      {
+        "id": 4971,
+        "title": "Ash and Sand",
+        "authors": [
+          "Richard Nell"
+        ]
+      },
+      {
+        "id": 4972,
+        "title": "The Steerswoman",
+        "authors": [
+          "Rosemary Kirstein"
+        ]
+      },
+      {
+        "id": 4973,
+        "title": "Lays of the Hearth Fire",
+        "authors": [
+          "Victoria Goddard"
+        ]
+      },
+      {
+        "id": 4974,
+        "title": "Station Eleven",
+        "authors": [
+          "Emily St. John Mandel"
+        ]
+      },
+      {
+        "id": 4975,
+        "title": "Raven's Shadow",
+        "authors": [
+          "Anthony Ryan"
+        ]
+      },
+      {
+        "id": 4976,
+        "title": "Empire of the Vampire",
+        "authors": [
+          "Jay Kristoff"
+        ]
+      },
+      {
+        "id": 4977,
+        "title": "The Nevernight Chronicle",
+        "authors": [
+          "Jay Kristoff"
+        ]
+      },
+      {
+        "id": 4978,
+        "title": "The Raven Cycle",
+        "authors": [
+          "Maggie Stiefvater"
+        ]
+      },
+      {
+        "id": 4979,
+        "title": "Essalieyan",
+        "authors": [
+          "Michelle Sagara West"
+        ]
+      },
+      {
+        "id": 4980,
+        "title": "Stardust",
+        "authors": [
+          "Neil Gaiman"
+        ]
+      },
+      {
+        "id": 4981,
+        "title": "Greatcoats",
+        "authors": [
+          "Sebastien de Castell"
+        ]
+      },
+      {
+        "id": 4982,
+        "title": "The Princess Bride",
+        "authors": [
+          "William Goldman"
+        ]
+      },
+      {
+        "id": 4983,
+        "title": "Saga",
+        "authors": [
+          "Brian K. Vaughan",
+          "Fiona Staples"
+        ]
+      },
+      {
+        "id": 4984,
+        "title": "Monk & Robot",
+        "authors": [
+          "Becky Chambers"
+        ]
+      },
+      {
+        "id": 4985,
+        "title": "Elantris",
+        "authors": [
+          "Brandon Sanderson"
+        ]
+      },
+      {
+        "id": 4986,
+        "title": "Navronne",
+        "authors": [
+          "Carol Berg"
+        ]
+      },
+      {
+        "id": 4987,
+        "title": "Belgariad Universe",
+        "authors": [
+          "David Eddings"
+        ]
+      },
+      {
+        "id": 4988,
+        "title": "The Starless Sea",
+        "authors": [
+          "Erin Morgenstern"
+        ]
+      },
+      {
+        "id": 4989,
+        "title": "Under Heaven",
+        "authors": [
+          "Guy Gavriel Kay"
+        ]
+      },
+      {
+        "id": 4990,
+        "title": "Novels of the Malazan Empire",
+        "authors": [
+          "Ian C. Esslemont"
+        ]
+      },
+      {
+        "id": 4991,
+        "title": "The Siege",
+        "authors": [
+          "K.J. Parker"
+        ]
+      },
+      {
+        "id": 4992,
+        "title": "Strange the Dreamer",
+        "authors": [
+          "Laini Taylor"
+        ]
+      },
+      {
+        "id": 4993,
+        "title": "Alex Stern",
+        "authors": [
+          "Leigh Bardugo"
+        ]
+      },
+      {
+        "id": 4994,
+        "title": "The Dark Star Trilogy",
+        "authors": [
+          "Marlon James"
+        ]
+      },
+      {
+        "id": 4995,
+        "title": "Craft Sequence",
+        "authors": [
+          "Max Gladstone"
+        ]
+      },
+      {
+        "id": 4996,
+        "title": "The Radiant Emperor",
+        "authors": [
+          "Shelley Parker-Chan"
+        ]
+      },
+      {
+        "id": 4997,
+        "title": "The Invisible Life of Addie LaRue",
+        "authors": [
+          "V.E. Schwab"
+        ]
+      },
+      {
+        "id": 4998,
+        "title": "Chronicle of the Unhewn Throne",
+        "authors": [
+          "Brian Staveley"
+        ]
+      },
+      {
+        "id": 4999,
+        "title": "Between Two Fires",
+        "authors": [
+          "Christopher Buehlman"
+        ]
+      },
+      {
+        "id": 5000,
+        "title": "The Dagger and the Coin",
+        "authors": [
+          "Daniel Abraham"
+        ]
+      },
+      {
+        "id": 5001,
+        "title": "Skulduggery Pleasant",
+        "authors": [
+          "Derek Landy"
+        ]
+      },
+      {
+        "id": 5002,
+        "title": "The Dark Profit Saga",
+        "authors": [
+          "J. Zachary Pike"
+        ]
+      },
+      {
+        "id": 5003,
+        "title": "Ambergris",
+        "authors": [
+          "Jeff VanderMeer"
+        ]
+      },
+      {
+        "id": 5004,
+        "title": "Sevenwaters",
+        "authors": [
+          "Juliet Marillier"
+        ]
+      },
+      {
+        "id": 5005,
+        "title": "The Chronicles of Prydain",
+        "authors": [
+          "Lloyd Alexander"
+        ]
+      },
+      {
+        "id": 5006,
+        "title": "Ascendance of a Bookworm",
+        "authors": [
+          "Miya Kazuki"
+        ]
+      },
+      {
+        "id": 5007,
+        "title": "Xenogenesis",
+        "authors": [
+          "Octavia E. Butler"
+        ]
+      },
+      {
+        "id": 5008,
+        "title": "Dead Djinn Universe",
+        "authors": [
+          "P. Djeli Clark"
+        ]
+      },
+      {
+        "id": 5009,
+        "title": "The Forgotten Beasts of Eld",
+        "authors": [
+          "Patricia A. McKillip"
+        ]
+      },
+      {
+        "id": 5010,
+        "title": "Olondria",
+        "authors": [
+          "Sofia Samatar"
+        ]
+      },
+      {
+        "id": 5011,
+        "title": "23337.0",
+        "authors": [
+          "Stephen King"
+        ]
+      },
+      {
+        "id": 5012,
+        "title": "IT",
+        "authors": [
+          "Stephen King"
+        ]
+      },
+      {
+        "id": 5013,
+        "title": "The Hunger Games",
+        "authors": [
+          "Suzanne Collins"
+        ]
+      },
+      {
+        "id": 5014,
+        "title": "Sunshine",
+        "authors": [
+          "Robin McKinley"
+        ]
+      },
+      {
+        "id": 5015,
+        "title": "Shadows of the Apt",
+        "authors": [
+          "Adrian Tchaikovsky"
+        ]
+      },
+      {
+        "id": 5016,
+        "title": "The Raven Tower",
+        "authors": [
+          "Ann Leckie"
+        ]
+      },
+      {
+        "id": 5017,
+        "title": "Alex Verus",
+        "authors": [
+          "Benedict Jacka"
+        ]
+      },
+      {
+        "id": 5018,
+        "title": "The First Fifteen Lives of Harry August",
+        "authors": [
+          "Claire North"
+        ]
+      },
+      {
+        "id": 5019,
+        "title": "The Checquy Files",
+        "authors": [
+          "Daniel O'Malley"
+        ]
+      },
+      {
+        "id": 5020,
+        "title": "Artemis Fowl",
+        "authors": [
+          "Eoin Colfer"
+        ]
+      },
+      {
+        "id": 5021,
+        "title": "Warriors",
+        "authors": [
+          "Erin Hunter"
+        ]
+      },
+      {
+        "id": 5022,
+        "title": "Ready Player One",
+        "authors": [
+          "Ernest Cline"
+        ]
+      },
+      {
+        "id": 5023,
+        "title": "Fafhrd and the Gray Mouser",
+        "authors": [
+          "Fritz Leiber"
+        ]
+      },
+      {
+        "id": 5024,
+        "title": "The Golem and the Jinni",
+        "authors": [
+          "Helene Wecker"
+        ]
+      },
+      {
+        "id": 5025,
+        "title": "Kate Daniels",
+        "authors": [
+          "Ilona Andrews"
+        ]
+      },
+      {
+        "id": 5026,
+        "title": "Thursday Next",
+        "authors": [
+          "Jasper Fforde"
+        ]
+      },
+      {
+        "id": 5027,
+        "title": "Codex Alera",
+        "authors": [
+          "Jim Butcher"
+        ]
+      },
+      {
+        "id": 5028,
+        "title": "Shattered Sea",
+        "authors": [
+          "Joe Abercrombie"
+        ]
+      },
+      {
+        "id": 5029,
+        "title": "Mars Trilogy",
+        "authors": [
+          "Kim Stanley Robinson"
+        ]
+      },
+      {
+        "id": 5030,
+        "title": "Dragonlance",
+        "authors": [
+          "Margaret Weis",
+          "Tracy Hickman"
+        ]
+      },
+      {
+        "id": 5031,
+        "title": "The Sparrow",
+        "authors": [
+          "Mary Doria Russell"
+        ]
+      },
+      {
+        "id": 5032,
+        "title": "The Acts Of Caine",
+        "authors": [
+          "Matthew Woodring Stover"
+        ]
+      },
+      {
+        "id": 5033,
+        "title": "World War Z",
+        "authors": [
+          "Max Brooks"
+        ]
+      },
+      {
+        "id": 5034,
+        "title": "Inheritance Trilogy",
+        "authors": [
+          "N.K. Jemisin"
+        ]
+      },
+      {
+        "id": 5035,
+        "title": "Hench",
+        "authors": [
+          "Natalie Zina Walschots"
+        ]
+      },
+      {
+        "id": 5036,
+        "title": "The Graveyard Book",
+        "authors": [
+          "Neil Gaiman"
+        ]
+      },
+      {
+        "id": 5037,
+        "title": "Riddle-Master",
+        "authors": [
+          "Patricia A. McKillip"
+        ]
+      },
+      {
+        "id": 5038,
+        "title": "Commonwealth Saga",
+        "authors": [
+          "Peter F. Hamilton"
+        ]
+      },
+      {
+        "id": 5039,
+        "title": "War for the Rose Throne",
+        "authors": [
+          "Peter McLean"
+        ]
+      },
+      {
+        "id": 5040,
+        "title": "Conan",
+        "authors": [
+          "Robert E. Howard"
+        ]
+      },
+      {
+        "id": 5041,
+        "title": "Vlad Taltos",
+        "authors": [
+          "Steven Brust"
+        ]
+      },
+      {
+        "id": 5042,
+        "title": "The 7 1/2 Deaths of Evelyn Hardcastle",
+        "authors": [
+          "Stuart Turton"
+        ]
+      },
+      {
+        "id": 5043,
+        "title": "The Machineries of Empire",
+        "authors": [
+          "Yoon Ha Lee"
+        ]
+      },
+      {
+        "id": 5044,
+        "title": "Vita Nostra",
+        "authors": [
+          "Marina",
+          "Sergey Dyachenko"
+        ]
+      },
+      {
+        "id": 5045,
+        "title": "The Serpent Gates",
+        "authors": [
+          "A.K. Larkwood"
+        ]
+      },
+      {
+        "id": 5046,
+        "title": "Glass Immortals",
+        "authors": [
+          "Brian McClellan"
+        ]
+      },
+      {
+        "id": 5047,
+        "title": "Foreigner",
+        "authors": [
+          "C.J. Cherryh"
+        ]
+      },
+      {
+        "id": 5048,
+        "title": "The Darkwater Legacy",
+        "authors": [
+          "Chris Wooding"
+        ]
+      },
+      {
+        "id": 5049,
+        "title": "Oxford Time Travel",
+        "authors": [
+          "Connie Willis"
+        ]
+      },
+      {
+        "id": 5050,
+        "title": "The Drenai Saga",
+        "authors": [
+          "David Gemmell"
+        ]
+      },
+      {
+        "id": 5051,
+        "title": "The World of Riverside",
+        "authors": [
+          "Ellen Kushner"
+        ]
+      },
+      {
+        "id": 5052,
+        "title": "A Practical Guide to Evil",
+        "authors": [
+          "ErraticErrata"
+        ]
+      },
+      {
+        "id": 5053,
+        "title": "A Brightness Long Ago",
+        "authors": [
+          "Guy Gavriel Kay"
+        ]
+      },
+      {
+        "id": 5054,
+        "title": "Attack on Titan",
+        "authors": [
+          "Hajime Isayama"
+        ]
+      },
+      {
+        "id": 5055,
+        "title": "1Q84",
+        "authors": [
+          "Haruki Murakami"
+        ]
+      },
+      {
+        "id": 5056,
+        "title": "Silo",
+        "authors": [
+          "Hugh Howey"
+        ]
+      },
+      {
+        "id": 5057,
+        "title": "The Forever War",
+        "authors": [
+          "Joe Haldeman"
+        ]
+      },
+      {
+        "id": 5058,
+        "title": "Johannes Cabal",
+        "authors": [
+          "Jonathan L. Howard"
+        ]
+      },
+      {
+        "id": 5059,
+        "title": "Graceling Realm",
+        "authors": [
+          "Kristin Cashore"
+        ]
+      },
+      {
+        "id": 5060,
+        "title": "Valdemar",
+        "authors": [
+          "Mercedes Lackey"
+        ]
+      },
+      {
+        "id": 5061,
+        "title": "The Elric Saga",
+        "authors": [
+          "Michael Moorcock"
+        ]
+      },
+      {
+        "id": 5062,
+        "title": "Iconoclasts",
+        "authors": [
+          "Mike Shel"
+        ]
+      },
+      {
+        "id": 5063,
+        "title": "The Phantom Tollbooth",
+        "authors": [
+          "Norton Juster"
+        ]
+      },
+      {
+        "id": 5064,
+        "title": "Mercy Thompson",
+        "authors": [
+          "Patricia Briggs"
+        ]
+      },
+      {
+        "id": 5065,
+        "title": "A Night In the Lonesome October",
+        "authors": [
+          "Roger Zelazny"
+        ]
+      },
+      {
+        "id": 5066,
+        "title": "Light from Uncommon Stars",
+        "authors": [
+          "Ryka Aoki"
+        ]
+      },
+      {
+        "id": 5067,
+        "title": "Throne of Glass",
+        "authors": [
+          "Sarah J. Maas"
+        ]
+      },
+      {
+        "id": 5068,
+        "title": "Inda",
+        "authors": [
+          "Sherwood Smith"
+        ]
+      },
+      {
+        "id": 5069,
+        "title": "Mexican Gothic",
+        "authors": [
+          "Silvia Moreno-Garcia"
+        ]
+      },
+      {
+        "id": 5070,
+        "title": "The Spear Cuts Through Water",
+        "authors": [
+          "Simon Jimenez"
+        ]
+      },
+      {
+        "id": 5071,
+        "title": "Nettle & Bone",
+        "authors": [
+          "T. Kingfisher"
+        ]
+      },
+      {
+        "id": 5072,
+        "title": "Circle of Magic",
+        "authors": [
+          "Tamora Pierce"
+        ]
+      },
+      {
+        "id": 5073,
+        "title": "Shannara",
+        "authors": [
+          "Terry Brooks"
+        ]
+      },
+      {
+        "id": 5074,
+        "title": "Zones of Thought",
+        "authors": [
+          "Vernor Vinge"
+        ]
+      },
+      {
+        "id": 5075,
+        "title": "Hunter x Hunter",
+        "authors": [
+          "Yoshihiro Togashi"
+        ]
+      },
+      {
+        "id": 5076,
+        "title": "Chronicles of Dune",
+        "authors": [
+          "Frank Herbert"
+        ]
+      },
+      {
+        "id": 5077,
+        "title": "Culture series",
+        "authors": [
+          "Iain M. Banks"
+        ]
+      },
+      {
+        "id": 5078,
+        "title": "Remembrance of Earth's Past",
+        "authors": [
+          "Cixin Liu"
+        ]
+      },
+      {
+        "id": 5079,
+        "title": "Solar Cycle",
+        "authors": [
+          "Gene Wolfe"
+        ]
+      },
+      {
+        "id": 5080,
+        "title": "Revelation Space",
+        "authors": [
+          "Alastair Reynolds"
+        ]
+      },
+      {
+        "id": 5081,
+        "title": "Ender Series",
+        "authors": [
+          "Orson Scott Card"
+        ]
+      },
+      {
+        "id": 5082,
+        "title": "The Forever War series",
+        "authors": [
+          "Joe Halderman"
+        ]
+      },
+      {
+        "id": 5083,
+        "title": "Blindsight",
+        "authors": [
+          "Peter Watts"
+        ]
+      },
+      {
+        "id": 5084,
+        "title": "Sprawl Trilogy",
+        "authors": [
+          "William Gibson"
+        ]
+      },
+      {
+        "id": 5085,
+        "title": "Foundation series",
+        "authors": [
+          "Isaac Asimov"
+        ]
+      },
+      {
+        "id": 5086,
+        "title": "Broken Earth Trilogy",
+        "authors": [
+          "N.K. Jemisin"
+        ]
+      },
+      {
+        "id": 5087,
+        "title": "Zones of Thought series",
+        "authors": [
+          "Vernor Vinge"
+        ]
+      },
+      {
+        "id": 5088,
+        "title": "Parables duology",
+        "authors": [
+          "Octavia E. Butler"
+        ]
+      },
+      {
+        "id": 5089,
+        "title": "Imperial Radch trilogy",
+        "authors": [
+          "Ann Leckie"
+        ]
+      },
+      {
+        "id": 5090,
+        "title": "Teixcalaan series",
+        "authors": [
+          "Arkady Martine"
+        ]
+      },
+      {
+        "id": 5091,
+        "title": "House of Suns",
+        "authors": [
+          "Alastair Reynolds"
+        ]
+      },
+      {
+        "id": 5092,
+        "title": "Xenogenesis trilogy",
+        "authors": [
+          "Octavia E. Butler"
+        ]
+      },
+      {
+        "id": 5093,
+        "title": "MaddAddam series",
+        "authors": [
+          "Margaret Atwood"
+        ]
+      },
+      {
+        "id": 5094,
+        "title": "Southern Reach trilogy",
+        "authors": [
+          "Jeff VanderMeer"
+        ]
+      },
+      {
+        "id": 5095,
+        "title": "A Canticle for Leibowitz",
+        "authors": [
+          "Walter M. Miller Jr."
+        ]
+      },
+      {
+        "id": 5096,
+        "title": "Embassytown",
+        "authors": [
+          "China Miéville"
+        ]
+      },
+      {
+        "id": 5097,
+        "title": "The Moon is a Harsh Mistress",
+        "authors": [
+          "Robert Heinlein"
+        ]
+      },
+      {
+        "id": 5098,
+        "title": "Ubik",
+        "authors": [
+          "Philip K. Dick"
+        ]
+      },
+      {
+        "id": 5099,
+        "title": "Seveneves",
+        "authors": [
+          "Neal Stephenson"
+        ]
+      },
+      {
+        "id": 5100,
+        "title": "Bas-Lag trilogy",
+        "authors": [
+          "China Miéville"
+        ]
+      },
+      {
+        "id": 5101,
+        "title": "Snow Crash",
+        "authors": [
+          "Neal Stephenson"
+        ]
+      },
+      {
+        "id": 5102,
+        "title": "The Mote in God's Eye",
+        "authors": [
+          "Jerry Pournelle",
+          "Larry Niven"
+        ]
+      },
+      {
+        "id": 5103,
+        "title": "Rendezvous With Rama",
+        "authors": [
+          "Arthur C. Clarke."
+        ]
+      },
+      {
+        "id": 5104,
+        "title": "Ringworld",
+        "authors": [
+          "Larry Niven"
+        ]
+      },
+      {
+        "id": 5105,
+        "title": "Slaughterhouse 5",
+        "authors": [
+          "Kurt Vonnegut"
+        ]
+      },
+      {
+        "id": 5106,
+        "title": "Starship Troopers",
+        "authors": [
+          "Robert Heinlein"
+        ]
+      },
+      {
+        "id": 5107,
+        "title": "Oxford Time Travel series",
+        "authors": [
+          "Connie Willis"
+        ]
+      },
+      {
+        "id": 5108,
+        "title": "Dhalgren",
+        "authors": [
+          "Samuel R. Delany"
+        ]
+      },
+      {
+        "id": 5109,
+        "title": "Accelerando",
+        "authors": [
+          "Charles Stross"
+        ]
+      },
+      {
+        "id": 5110,
+        "title": "Roadside Picnic",
+        "authors": [
+          "Arkady",
+          "Boris Strugatsky"
+        ]
+      },
+      {
+        "id": 5111,
+        "title": "Spin",
+        "authors": [
+          "Robert Charles Wilson"
+        ]
+      },
+      {
+        "id": 5112,
+        "title": "Takeshi Kovacs trilogy",
+        "authors": [
+          "Richard K Morgan"
+        ]
+      },
+      {
+        "id": 5113,
+        "title": "2001: A Space Odyssey",
+        "authors": [
+          "Arthur C. Clarke."
+        ]
+      },
+      {
+        "id": 5114,
+        "title": "Do Androids Dream of Electric Sheep?",
+        "authors": [
+          "Philip K. Dick"
+        ]
+      },
+      {
+        "id": 5115,
+        "title": "Old Man's War series",
+        "authors": [
+          "John Scalzi"
+        ]
+      },
+      {
+        "id": 5116,
+        "title": "Doomsday Book",
+        "authors": [
+          "Connie Willis"
+        ]
+      },
+      {
+        "id": 5117,
+        "title": "Diaspora",
+        "authors": [
+          "Greg Egan"
+        ]
+      },
+      {
+        "id": 5118,
+        "title": "Alliance-Union universe",
+        "authors": [
+          "C.J. Cherryh"
+        ]
+      },
+      {
+        "id": 5119,
+        "title": "The Diamond Age",
+        "authors": [
+          "Neal Stephenson"
+        ]
+      },
+      {
+        "id": 5120,
+        "title": "Pushing Ice",
+        "authors": [
+          "Alastair Reynolds"
+        ]
+      },
+      {
+        "id": 5121,
+        "title": "Way Station",
+        "authors": [
+          "Clifford D. Simak"
+        ]
+      },
+      {
+        "id": 5122,
+        "title": "Kefahuchi Tract series",
+        "authors": [
+          "M John Harrison"
+        ]
+      },
+      {
+        "id": 5123,
+        "title": "Permutation City",
+        "authors": [
+          "Greg Egan"
+        ]
+      },
+      {
+        "id": 5124,
+        "title": "Uplift series",
+        "authors": [
+          "David Brin"
+        ]
+      },
+      {
+        "id": 5125,
+        "title": "City",
+        "authors": [
+          "Clifford D. Simak"
+        ]
+      },
+      {
+        "id": 5126,
+        "title": "A Scanner Darkly",
+        "authors": [
+          "Philip K. Dick"
+        ]
+      },
+      {
+        "id": 5127,
+        "title": "Arbai Trilogy",
+        "authors": [
+          "Sheri S. Tepper"
+        ]
+      },
+      {
+        "id": 5128,
+        "title": "The Fifth Head of Cerberus",
+        "authors": [
+          "Gene Wolfe"
+        ]
+      },
+      {
+        "id": 5129,
+        "title": "Lilith's Brood",
+        "authors": [
+          "Octavia E. Butler"
+        ]
+      },
+      {
+        "id": 5130,
+        "title": "The Man in the High Castle",
+        "authors": [
+          "Philip K. Dick"
+        ]
+      },
+      {
+        "id": 5131,
+        "title": "Dragon's Egg",
+        "authors": [
+          "Robert L. Forward"
+        ]
+      },
+      {
+        "id": 5132,
+        "title": "The Gods Themselves",
+        "authors": [
+          "Isaac Asimov"
+        ]
+      },
+      {
+        "id": 5133,
+        "title": "Stand on Zanzibar",
+        "authors": [
+          "John Brunner"
+        ]
+      },
+      {
+        "id": 5134,
+        "title": "Schismatrix Plus",
+        "authors": [
+          "Bruce Sterling"
+        ]
+      },
+      {
+        "id": 5135,
+        "title": "Childhood’s End",
+        "authors": [
+          "Arthur C. Clarke."
+        ]
+      },
+      {
+        "id": 5136,
+        "title": "The Three Stigmata of Palmer Eldritch",
+        "authors": [
+          "Philip K. Dick"
+        ]
+      },
+      {
+        "id": 5137,
+        "title": "Recursion",
+        "authors": [
+          "Blake Crouch"
+        ]
+      },
+      {
+        "id": 5138,
+        "title": "The Lathe of Heaven",
+        "authors": [
+          "Ursula K Le Guin"
+        ]
+      },
+      {
+        "id": 5139,
+        "title": "At the Mountains of Madness",
+        "authors": [
+          "H.P. Lovecraft"
+        ]
+      },
+      {
+        "id": 5140,
+        "title": "The Windup Girl",
+        "authors": [
+          "Paolo Bacigalupi"
+        ]
+      },
+      {
+        "id": 5141,
+        "title": "The Laundry Files series",
+        "authors": [
+          "Charles Stross"
+        ]
+      },
+      {
+        "id": 5142,
+        "title": "Star Maker",
+        "authors": [
+          "Olaf Stapledon"
+        ]
+      },
+      {
+        "id": 5143,
+        "title": "Jean le Flambeur Trilogy",
+        "authors": [
+          "Hannu Rajaniemi"
+        ]
+      },
+      {
+        "id": 5144,
+        "title": "Monk and Robot series",
+        "authors": [
+          "Becky Chambers"
+        ]
+      },
+      {
+        "id": 5145,
+        "title": "The Locked Tomb Series",
+        "authors": [
+          "Tamsyn Muir"
+        ]
+      },
+      {
+        "id": 5146,
+        "title": "First Law series",
+        "authors": [
+          "Joe Abercrombie"
+        ]
+      },
+      {
+        "id": 5147,
+        "title": "Flowers for Algernon",
+        "authors": [
+          "Daniel Keyes"
+        ]
+      },
+      {
+        "id": 5148,
+        "title": "The Holy Bible",
+        "authors": [
+          "Various authors"
+        ]
+      },
+      {
+        "id": 5149,
+        "title": "Dialogues",
+        "authors": [
+          "Plato"
+        ]
+      },
+      {
+        "id": 5150,
+        "title": "The First Folio",
+        "authors": [
+          "William Shakespeare"
+        ]
+      },
+      {
+        "id": 5151,
+        "title": "The Epic of Gilgamesh",
+        "authors": [
+          "Anonymous"
+        ]
+      },
+      {
+        "id": 5152,
+        "title": "Tragedies",
+        "authors": [
+          "Aeschylus"
+        ]
+      },
+      {
+        "id": 5153,
+        "title": "The Death of Ivan Ilyich",
+        "authors": [
+          "Leo Tolstoy"
+        ]
+      },
+      {
+        "id": 5154,
+        "title": "Industrial Society and Its Future",
+        "authors": [
+          "Theodore Kaczynski"
+        ]
+      },
+      {
+        "id": 5155,
+        "title": "Tragedies",
+        "authors": [
+          "Sophocles"
+        ]
+      },
+      {
+        "id": 5156,
+        "title": "Poems",
+        "authors": [
+          "T. S. Eliot"
+        ]
+      },
+      {
+        "id": 5157,
+        "title": "Poems",
+        "authors": [
+          "W. B. Yeats"
+        ]
+      },
+      {
+        "id": 5158,
+        "title": "The Ring of the Nibelung",
+        "authors": [
+          "Richard Wagner"
+        ]
+      },
+      {
+        "id": 5159,
+        "title": "Cthulhu Mythos",
+        "authors": [
+          "H.P. Lovecraft"
+        ]
+      },
+      {
+        "id": 5160,
+        "title": "On the Genealogy of Morals / Ecce Homo",
+        "authors": [
+          "Friedrich Nietzsche"
+        ]
+      },
+      {
+        "id": 5161,
+        "title": "American Psycho",
+        "authors": [
+          "Bret Easton Ellis"
+        ]
+      },
+      {
+        "id": 5162,
+        "title": "V.",
+        "authors": [
+          "Thomas Pynchon"
+        ]
+      },
+      {
+        "id": 5163,
+        "title": "If on a Winter's Night a Traveler",
+        "authors": [
+          "Italo Calvino"
+        ]
+      },
+      {
+        "id": 5164,
+        "title": "A Hero of Our Time",
+        "authors": [
+          "Mikhail Lermontov"
+        ]
+      },
+      {
+        "id": 5165,
+        "title": "Naked Lunch",
+        "authors": [
+          "William S. Burroughs"
+        ]
+      },
+      {
+        "id": 5166,
+        "title": "The Tunnel",
+        "authors": [
+          "William H. Gass"
+        ]
+      }
+    ],
+    "created_people": [
+      {
+        "id": 3216,
+        "name": "Bulgakov"
+      },
+      {
+        "id": 3217,
+        "name": "Beckett"
+      },
+      {
+        "id": 3218,
+        "name": "Krasznahorkai"
+      },
+      {
+        "id": 3219,
+        "name": "Fosse"
+      },
+      {
+        "id": 3220,
+        "name": "Knausgard"
+      },
+      {
+        "id": 3221,
+        "name": "Barnes"
+      },
+      {
+        "id": 3222,
+        "name": "Carr"
+      },
+      {
+        "id": 3223,
+        "name": "Orwell"
+      },
+      {
+        "id": 3224,
+        "name": "Ferrante"
+      },
+      {
+        "id": 3225,
+        "name": "Mircea Cărtărescu"
+      },
+      {
+        "id": 3226,
+        "name": "Mishima"
+      },
+      {
+        "id": 3227,
+        "name": "Peake"
+      },
+      {
+        "id": 3228,
+        "name": "Twain"
+      },
+      {
+        "id": 3229,
+        "name": "Dickinson"
+      },
+      {
+        "id": 3230,
+        "name": "Wolfe"
+      },
+      {
+        "id": 3231,
+        "name": "Saunders"
+      },
+      {
+        "id": 3232,
+        "name": "Bernhard"
+      },
+      {
+        "id": 3233,
+        "name": "Tartt"
+      },
+      {
+        "id": 3234,
+        "name": "Beatty"
+      },
+      {
+        "id": 3235,
+        "name": "Gaston Leroux"
+      },
+      {
+        "id": 3236,
+        "name": "George R. R. Martin"
+      },
+      {
+        "id": 3237,
+        "name": "Brandon Sanderson"
+      },
+      {
+        "id": 3238,
+        "name": "Joe Abercrombie"
+      },
+      {
+        "id": 3239,
+        "name": "Robert Jordan"
+      },
+      {
+        "id": 3240,
+        "name": "Robin Hobb"
+      },
+      {
+        "id": 3241,
+        "name": "Terry Pratchett"
+      },
+      {
+        "id": 3242,
+        "name": "Steven Erikson"
+      },
+      {
+        "id": 3243,
+        "name": "Fonda Lee"
+      },
+      {
+        "id": 3244,
+        "name": "Scott Lynch"
+      },
+      {
+        "id": 3245,
+        "name": "Patrick Rothfuss"
+      },
+      {
+        "id": 3246,
+        "name": "Pierce Brown"
+      },
+      {
+        "id": 3247,
+        "name": "Jim Butcher"
+      },
+      {
+        "id": 3248,
+        "name": "Will Wight"
+      },
+      {
+        "id": 3249,
+        "name": "Martha Wells"
+      },
+      {
+        "id": 3250,
+        "name": "N.K. Jemisin"
+      },
+      {
+        "id": 3251,
+        "name": "Tamsyn Muir"
+      },
+      {
+        "id": 3252,
+        "name": "James S. A. Corey"
+      },
+      {
+        "id": 3253,
+        "name": "Dan Simmons"
+      },
+      {
+        "id": 3254,
+        "name": "Josiah Bancroft"
+      },
+      {
+        "id": 3255,
+        "name": "Rick Riordan"
+      },
+      {
+        "id": 3256,
+        "name": "Becky Chambers"
+      },
+      {
+        "id": 3257,
+        "name": "Mark Lawrence"
+      },
+      {
+        "id": 3258,
+        "name": "Michael J. Sullivan"
+      },
+      {
+        "id": 3259,
+        "name": "Adrian Tchaikovsky"
+      },
+      {
+        "id": 3260,
+        "name": "John Gwynne"
+      },
+      {
+        "id": 3261,
+        "name": "Katherine Addison"
+      },
+      {
+        "id": 3262,
+        "name": "Nicholas Eames"
+      },
+      {
+        "id": 3263,
+        "name": "Arkady Martine"
+      },
+      {
+        "id": 3264,
+        "name": "Brian McClellan"
+      },
+      {
+        "id": 3265,
+        "name": "Tad Williams"
+      },
+      {
+        "id": 3266,
+        "name": "Andy Weir"
+      },
+      {
+        "id": 3267,
+        "name": "Lois McMaster Bujold"
+      },
+      {
+        "id": 3268,
+        "name": "Neil Gaiman"
+      },
+      {
+        "id": 3269,
+        "name": "Garth Nix"
+      },
+      {
+        "id": 3270,
+        "name": "Orson Scott Card"
+      },
+      {
+        "id": 3271,
+        "name": "Madeline Miller"
+      },
+      {
+        "id": 3272,
+        "name": "Naomi Novik"
+      },
+      {
+        "id": 3273,
+        "name": "Brent Weeks"
+      },
+      {
+        "id": 3274,
+        "name": "Glen Cook"
+      },
+      {
+        "id": 3275,
+        "name": "Kentaro Miura"
+      },
+      {
+        "id": 3276,
+        "name": "Seth Dickinson"
+      },
+      {
+        "id": 3277,
+        "name": "Eiichiro Oda"
+      },
+      {
+        "id": 3278,
+        "name": "Leigh Bardugo"
+      },
+      {
+        "id": 3279,
+        "name": "Travis Baldree"
+      },
+      {
+        "id": 3280,
+        "name": "Guy Gavriel Kay"
+      },
+      {
+        "id": 3281,
+        "name": "Jacqueline Carey"
+      },
+      {
+        "id": 3282,
+        "name": "R. Scott Bakker"
+      },
+      {
+        "id": 3283,
+        "name": "R.F. Kuang"
+      },
+      {
+        "id": 3284,
+        "name": "Scott Hawkins"
+      },
+      {
+        "id": 3285,
+        "name": "Tamora Pierce"
+      },
+      {
+        "id": 3286,
+        "name": "Wildbow"
+      },
+      {
+        "id": 3287,
+        "name": "Daniel Abraham"
+      },
+      {
+        "id": 3288,
+        "name": "Diana Wynne Jones"
+      },
+      {
+        "id": 3289,
+        "name": "Katherine Arden"
+      },
+      {
+        "id": 3290,
+        "name": "Evan Winter"
+      },
+      {
+        "id": 3291,
+        "name": "M.L. Wang"
+      },
+      {
+        "id": 3292,
+        "name": "China Miéville"
+      },
+      {
+        "id": 3293,
+        "name": "Christopher Ruocchio"
+      },
+      {
+        "id": 3294,
+        "name": "Amal El-Mohtar"
+      },
+      {
+        "id": 3295,
+        "name": "Max Gladstone"
+      },
+      {
+        "id": 3296,
+        "name": "Jessica Townsend"
+      },
+      {
+        "id": 3297,
+        "name": "Marie Brennan"
+      },
+      {
+        "id": 3298,
+        "name": "Robert Jackson Bennett"
+      },
+      {
+        "id": 3299,
+        "name": "Domagoj Kurmaic"
+      },
+      {
+        "id": 3300,
+        "name": "Raymond E. Feist"
+      },
+      {
+        "id": 3301,
+        "name": "Janny Wurts"
+      },
+      {
+        "id": 3302,
+        "name": "Christopher Buehlman"
+      },
+      {
+        "id": 3303,
+        "name": "Christopher Paolini"
+      },
+      {
+        "id": 3304,
+        "name": "James Islington"
+      },
+      {
+        "id": 3305,
+        "name": "Mervyn Peake"
+      },
+      {
+        "id": 3306,
+        "name": "Peter S. Beagle"
+      },
+      {
+        "id": 3307,
+        "name": "Ada Palmer"
+      },
+      {
+        "id": 3308,
+        "name": "Iain M. Banks"
+      },
+      {
+        "id": 3309,
+        "name": "Octavia Butler"
+      },
+      {
+        "id": 3310,
+        "name": "Pirateaba"
+      },
+      {
+        "id": 3311,
+        "name": "T.J. Klune"
+      },
+      {
+        "id": 3312,
+        "name": "Ben Aaronovitch"
+      },
+      {
+        "id": 3313,
+        "name": "Nghi Vo"
+      },
+      {
+        "id": 3314,
+        "name": "R.J. Barker"
+      },
+      {
+        "id": 3315,
+        "name": "S.A. Chakraborty"
+      },
+      {
+        "id": 3316,
+        "name": "Samantha Shannon"
+      },
+      {
+        "id": 3317,
+        "name": "Ann Leckie"
+      },
+      {
+        "id": 3318,
+        "name": "Hiromu Arakawa"
+      },
+      {
+        "id": 3319,
+        "name": "Isaac Asimov"
+      },
+      {
+        "id": 3320,
+        "name": "Roger Zelazny"
+      },
+      {
+        "id": 3321,
+        "name": "William Gibson"
+      },
+      {
+        "id": 3322,
+        "name": "John Bierce"
+      },
+      {
+        "id": 3323,
+        "name": "Jonathan Stroud"
+      },
+      {
+        "id": 3324,
+        "name": "Lev Grossman"
+      },
+      {
+        "id": 3325,
+        "name": "Matt Dinniman"
+      },
+      {
+        "id": 3326,
+        "name": "Neal Stephenson"
+      },
+      {
+        "id": 3327,
+        "name": "Alix E. Harrow"
+      },
+      {
+        "id": 3328,
+        "name": "Anne McCaffrey"
+      },
+      {
+        "id": 3329,
+        "name": "Dennis E. Taylor"
+      },
+      {
+        "id": 3330,
+        "name": "Elizabeth Moon"
+      },
+      {
+        "id": 3331,
+        "name": "Jeff VanderMeer"
+      },
+      {
+        "id": 3332,
+        "name": "M.A. Carrick"
+      },
+      {
+        "id": 3333,
+        "name": "Mary Robinette Kowal"
+      },
+      {
+        "id": 3334,
+        "name": "Seanan McGuire"
+      },
+      {
+        "id": 3335,
+        "name": "Tasha Suri"
+      },
+      {
+        "id": 3336,
+        "name": "Andrew Rowe"
+      },
+      {
+        "id": 3337,
+        "name": "Django Wexler"
+      },
+      {
+        "id": 3338,
+        "name": "Erin Morgenstern"
+      },
+      {
+        "id": 3339,
+        "name": "Peter V. Brett"
+      },
+      {
+        "id": 3340,
+        "name": "Ryan Cahill"
+      },
+      {
+        "id": 3341,
+        "name": "Stephen R. Donaldson"
+      },
+      {
+        "id": 3342,
+        "name": "T. Kingfisher"
+      },
+      {
+        "id": 3343,
+        "name": "Bernard Cornwell"
+      },
+      {
+        "id": 3344,
+        "name": "Brian Jacques"
+      },
+      {
+        "id": 3345,
+        "name": "Brian Lee Durfee"
+      },
+      {
+        "id": 3346,
+        "name": "C.S. Friedman"
+      },
+      {
+        "id": 3347,
+        "name": "Megan Whalen Turner"
+      },
+      {
+        "id": 3348,
+        "name": "R.A. Salvatore"
+      },
+      {
+        "id": 3349,
+        "name": "Richard Nell"
+      },
+      {
+        "id": 3350,
+        "name": "Rosemary Kirstein"
+      },
+      {
+        "id": 3351,
+        "name": "Victoria Goddard"
+      },
+      {
+        "id": 3352,
+        "name": "Emily St. John Mandel"
+      },
+      {
+        "id": 3353,
+        "name": "Anthony Ryan"
+      },
+      {
+        "id": 3354,
+        "name": "Jay Kristoff"
+      },
+      {
+        "id": 3355,
+        "name": "Maggie Stiefvater"
+      },
+      {
+        "id": 3356,
+        "name": "Michelle Sagara West"
+      },
+      {
+        "id": 3357,
+        "name": "Sebastien de Castell"
+      },
+      {
+        "id": 3358,
+        "name": "William Goldman"
+      },
+      {
+        "id": 3359,
+        "name": "Brian K. Vaughan"
+      },
+      {
+        "id": 3360,
+        "name": "Fiona Staples"
+      },
+      {
+        "id": 3361,
+        "name": "Carol Berg"
+      },
+      {
+        "id": 3362,
+        "name": "David Eddings"
+      },
+      {
+        "id": 3363,
+        "name": "Ian C. Esslemont"
+      },
+      {
+        "id": 3364,
+        "name": "K.J. Parker"
+      },
+      {
+        "id": 3365,
+        "name": "Laini Taylor"
+      },
+      {
+        "id": 3366,
+        "name": "Shelley Parker-Chan"
+      },
+      {
+        "id": 3367,
+        "name": "V.E. Schwab"
+      },
+      {
+        "id": 3368,
+        "name": "Brian Staveley"
+      },
+      {
+        "id": 3369,
+        "name": "Derek Landy"
+      },
+      {
+        "id": 3370,
+        "name": "J. Zachary Pike"
+      },
+      {
+        "id": 3371,
+        "name": "Juliet Marillier"
+      },
+      {
+        "id": 3372,
+        "name": "Lloyd Alexander"
+      },
+      {
+        "id": 3373,
+        "name": "Miya Kazuki"
+      },
+      {
+        "id": 3374,
+        "name": "P. Djeli Clark"
+      },
+      {
+        "id": 3375,
+        "name": "Patricia A. McKillip"
+      },
+      {
+        "id": 3376,
+        "name": "Sofia Samatar"
+      },
+      {
+        "id": 3377,
+        "name": "Suzanne Collins"
+      },
+      {
+        "id": 3378,
+        "name": "Robin McKinley"
+      },
+      {
+        "id": 3379,
+        "name": "Benedict Jacka"
+      },
+      {
+        "id": 3380,
+        "name": "Claire North"
+      },
+      {
+        "id": 3381,
+        "name": "Daniel O'Malley"
+      },
+      {
+        "id": 3382,
+        "name": "Eoin Colfer"
+      },
+      {
+        "id": 3383,
+        "name": "Erin Hunter"
+      },
+      {
+        "id": 3384,
+        "name": "Ernest Cline"
+      },
+      {
+        "id": 3385,
+        "name": "Fritz Leiber"
+      },
+      {
+        "id": 3386,
+        "name": "Helene Wecker"
+      },
+      {
+        "id": 3387,
+        "name": "Ilona Andrews"
+      },
+      {
+        "id": 3388,
+        "name": "Jasper Fforde"
+      },
+      {
+        "id": 3389,
+        "name": "Kim Stanley Robinson"
+      },
+      {
+        "id": 3390,
+        "name": "Margaret Weis"
+      },
+      {
+        "id": 3391,
+        "name": "Tracy Hickman"
+      },
+      {
+        "id": 3392,
+        "name": "Mary Doria Russell"
+      },
+      {
+        "id": 3393,
+        "name": "Matthew Woodring Stover"
+      },
+      {
+        "id": 3394,
+        "name": "Max Brooks"
+      },
+      {
+        "id": 3395,
+        "name": "Natalie Zina Walschots"
+      },
+      {
+        "id": 3396,
+        "name": "Peter F. Hamilton"
+      },
+      {
+        "id": 3397,
+        "name": "Peter McLean"
+      },
+      {
+        "id": 3398,
+        "name": "Robert E. Howard"
+      },
+      {
+        "id": 3399,
+        "name": "Steven Brust"
+      },
+      {
+        "id": 3400,
+        "name": "Stuart Turton"
+      },
+      {
+        "id": 3401,
+        "name": "Yoon Ha Lee"
+      },
+      {
+        "id": 3402,
+        "name": "Marina"
+      },
+      {
+        "id": 3403,
+        "name": "Sergey Dyachenko"
+      },
+      {
+        "id": 3404,
+        "name": "A.K. Larkwood"
+      },
+      {
+        "id": 3405,
+        "name": "C.J. Cherryh"
+      },
+      {
+        "id": 3406,
+        "name": "Chris Wooding"
+      },
+      {
+        "id": 3407,
+        "name": "Connie Willis"
+      },
+      {
+        "id": 3408,
+        "name": "David Gemmell"
+      },
+      {
+        "id": 3409,
+        "name": "Ellen Kushner"
+      },
+      {
+        "id": 3410,
+        "name": "ErraticErrata"
+      },
+      {
+        "id": 3411,
+        "name": "Hajime Isayama"
+      },
+      {
+        "id": 3412,
+        "name": "Hugh Howey"
+      },
+      {
+        "id": 3413,
+        "name": "Joe Haldeman"
+      },
+      {
+        "id": 3414,
+        "name": "Jonathan L. Howard"
+      },
+      {
+        "id": 3415,
+        "name": "Kristin Cashore"
+      },
+      {
+        "id": 3416,
+        "name": "Mercedes Lackey"
+      },
+      {
+        "id": 3417,
+        "name": "Michael Moorcock"
+      },
+      {
+        "id": 3418,
+        "name": "Mike Shel"
+      },
+      {
+        "id": 3419,
+        "name": "Norton Juster"
+      },
+      {
+        "id": 3420,
+        "name": "Patricia Briggs"
+      },
+      {
+        "id": 3421,
+        "name": "Ryka Aoki"
+      },
+      {
+        "id": 3422,
+        "name": "Sarah J. Maas"
+      },
+      {
+        "id": 3423,
+        "name": "Sherwood Smith"
+      },
+      {
+        "id": 3424,
+        "name": "Silvia Moreno-Garcia"
+      },
+      {
+        "id": 3425,
+        "name": "Simon Jimenez"
+      },
+      {
+        "id": 3426,
+        "name": "Terry Brooks"
+      },
+      {
+        "id": 3427,
+        "name": "Vernor Vinge"
+      },
+      {
+        "id": 3428,
+        "name": "Yoshihiro Togashi"
+      },
+      {
+        "id": 3429,
+        "name": "Cixin Liu"
+      },
+      {
+        "id": 3430,
+        "name": "Gene Wolfe"
+      },
+      {
+        "id": 3431,
+        "name": "Alastair Reynolds"
+      },
+      {
+        "id": 3432,
+        "name": "Joe Halderman"
+      },
+      {
+        "id": 3433,
+        "name": "Peter Watts"
+      },
+      {
+        "id": 3434,
+        "name": "Walter M. Miller Jr."
+      },
+      {
+        "id": 3435,
+        "name": "Robert Heinlein"
+      },
+      {
+        "id": 3436,
+        "name": "Philip K. Dick"
+      },
+      {
+        "id": 3437,
+        "name": "Larry Niven"
+      },
+      {
+        "id": 3438,
+        "name": "Jerry Pournelle"
+      },
+      {
+        "id": 3439,
+        "name": "Arthur C. Clarke."
+      },
+      {
+        "id": 3440,
+        "name": "Samuel R. Delany"
+      },
+      {
+        "id": 3441,
+        "name": "Charles Stross"
+      },
+      {
+        "id": 3442,
+        "name": "Arkady"
+      },
+      {
+        "id": 3443,
+        "name": "Boris Strugatsky"
+      },
+      {
+        "id": 3444,
+        "name": "Robert Charles Wilson"
+      },
+      {
+        "id": 3445,
+        "name": "Richard K Morgan"
+      },
+      {
+        "id": 3446,
+        "name": "John Scalzi"
+      },
+      {
+        "id": 3447,
+        "name": "Greg Egan"
+      },
+      {
+        "id": 3448,
+        "name": "Clifford D. Simak"
+      },
+      {
+        "id": 3449,
+        "name": "M John Harrison"
+      },
+      {
+        "id": 3450,
+        "name": "David Brin"
+      },
+      {
+        "id": 3451,
+        "name": "Sheri S. Tepper"
+      },
+      {
+        "id": 3452,
+        "name": "Robert L. Forward"
+      },
+      {
+        "id": 3453,
+        "name": "John Brunner"
+      },
+      {
+        "id": 3454,
+        "name": "Bruce Sterling"
+      },
+      {
+        "id": 3455,
+        "name": "Blake Crouch"
+      },
+      {
+        "id": 3456,
+        "name": "H.P. Lovecraft"
+      },
+      {
+        "id": 3457,
+        "name": "Paolo Bacigalupi"
+      },
+      {
+        "id": 3458,
+        "name": "Olaf Stapledon"
+      },
+      {
+        "id": 3459,
+        "name": "Hannu Rajaniemi"
+      },
+      {
+        "id": 3460,
+        "name": "Daniel Keyes"
+      },
+      {
+        "id": 3461,
+        "name": "Various authors"
+      },
+      {
+        "id": 3462,
+        "name": "Theodore Kaczynski"
+      },
+      {
+        "id": 3463,
+        "name": "Richard Wagner"
+      },
+      {
+        "id": 3464,
+        "name": "Bret Easton Ellis"
+      },
+      {
+        "id": 3465,
+        "name": "Mikhail Lermontov"
+      },
+      {
+        "id": 3466,
+        "name": "William S. Burroughs"
+      },
+      {
+        "id": 3467,
+        "name": "William H. Gass"
+      }
+    ]
+  },
+  "source_snapshots": {
+    "truelit_2023_xlsx": {
+      "sha256": "cec6dc3ad25205b0dcdfc64f1a9c28fd7434c69b206ead1307b7854aeb2c7008",
+      "bytes": 85716
+    },
+    "rfantasy_2023_xlsx": {
+      "sha256": "1e4eb36ffad7940a1a138f2d0b9253a2f2a10adfc706b233a388908b684929af",
+      "bytes": 296355
+    },
+    "printsf_2023_xlsx": {
+      "sha256": "be48eee9718710216f4b10caf71b9fd43e48e841360db90a31ffbffd612699db",
+      "bytes": 96830
+    },
+    "classicliterature_2025_image": {
+      "sha256": "f73006adaa8ca5a57ccd6c76a94ed203a2c7dbb36a69926effdf58d7c06baed9",
+      "bytes": 2382244
+    },
+    "fourchan_lit_2025_image": {
+      "sha256": "7b4d07505e6701af0ee45f6fd8f099f8a29d29ad2a1f75818bf79c5d0aaf3720",
+      "bytes": 1917260
+    }
+  }
+}

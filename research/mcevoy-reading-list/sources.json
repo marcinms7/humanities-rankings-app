@@ -1,0 +1,24 @@
+{
+  "target_id": "mcevoy-reading-list",
+  "status": "named_external_list_import",
+  "sources": [
+    {
+      "source_id": "COLLECTION-REPAIR-01",
+      "underlying_source_id": "collection-repair:https://benjaminmcevoy.com/reading-list/",
+      "title": "Benjamin McEvoy · Reading list — source contents",
+      "canonical_url": "https://benjaminmcevoy.com/reading-list/",
+      "source_family": "published_collection",
+      "target_ids": [
+        "mcevoy-reading-list"
+      ],
+      "relevance_by_target": {
+        "mcevoy-reading-list": "All 101 listed assignments, preserving five programme-year groups and source order. Author nesting corrected. Broad selections stay explicitly unspecified."
+      },
+      "evidence_notes": "All 101 listed assignments, preserving five programme-year groups and source order. Author nesting corrected. Broad selections stay explicitly unspecified.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Named-list membership evidence only; no independent quality assessment or paid lecture content review."
+    }
+  ],
+  "saved_at": "2026-09-13"
+}

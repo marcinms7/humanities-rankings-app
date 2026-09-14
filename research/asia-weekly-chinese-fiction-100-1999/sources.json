@@ -1,0 +1,43 @@
+{
+  "target_id": "asia-weekly-chinese-fiction-100-1999",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-14",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://www.mybook285.com/xdwx/20bq.htm",
+      "title": "Asia Weekly · 20th-Century 100 Best Chinese Fictions (1999) — result publication",
+      "canonical_url": "https://www.mybook285.com/xdwx/20bq.htm",
+      "source_family": "media_expert_poll",
+      "publisher": "Asia Weekly (Yazhou Zhoukan)",
+      "evidence_notes": "All 100 positions in the June 1999 result selected by a 14-member transregional jury from a shortlist of more than 500 Chinese-language works.",
+      "limitations": "The original Asia Weekly page is no longer directly available. The exact Chinese ordering comes from a contemporaneous-style transcription and was cross-checked against a separate English-language transcription. The source defines fiction broadly and includes story collections and multi-volume works.",
+      "target_ids": [
+        "asia-weekly-chinese-fiction-100-1999"
+      ],
+      "relevance_by_target": {
+        "asia-weekly-chinese-fiction-100-1999": "All 100 positions in the June 1999 result selected by a 14-member transregional jury from a shortlist of more than 500 Chinese-language works."
+      },
+      "accessed_at": "2026-09-14",
+      "eligible": true
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "published-list:https://thegreatestbooks.org/v/table/lists/424",
+      "title": "Asia Weekly · 20th-Century 100 Best Chinese Fictions (1999) — transcription/data cross-check",
+      "canonical_url": "https://thegreatestbooks.org/v/table/lists/424",
+      "source_family": "list_transcription",
+      "publisher": "Asia Weekly (Yazhou Zhoukan)",
+      "evidence_notes": "Used to verify methodology, identities, or the complete visible source order.",
+      "limitations": "Corroborates the same published list; not independent opinion evidence.",
+      "target_ids": [
+        "asia-weekly-chinese-fiction-100-1999"
+      ],
+      "relevance_by_target": {
+        "asia-weekly-chinese-fiction-100-1999": "Used to verify methodology, identities, or the complete visible source order."
+      },
+      "accessed_at": "2026-09-14",
+      "eligible": true
+    }
+  ]
+}

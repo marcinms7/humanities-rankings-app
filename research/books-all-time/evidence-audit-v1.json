@@ -1,0 +1,1706 @@
+{
+  "target_id": "books-all-time",
+  "eligible_records": 191,
+  "distinct_underlying_sources": 191,
+  "by_family": {
+    "scholarly_reference": 32,
+    "professional_review": 12,
+    "editorial_selection": 11,
+    "scholarly_review": 11,
+    "independent_blog": 10,
+    "reader_community": 9,
+    "scholarly_critical_essay": 9,
+    "expert_interview": 8,
+    "critical_review": 8,
+    "professional_criticism": 7,
+    "critical_essay": 6,
+    "scholarly_article": 6,
+    "academic_curriculum": 4,
+    "scholarly_research": 4,
+    "primary_text": 4,
+    "publisher_selection": 3,
+    "expert_selection": 3,
+    "reader_reviews": 3,
+    "interview": 3,
+    "institutional_reception": 2,
+    "university_reading_list": 2,
+    "reader_discussion": 2,
+    "scholarly_chapter": 2,
+    "scholarly_essay": 2,
+    "academic_review": 2,
+    "aggregation_method": 1,
+    "independent_ranking": 1,
+    "reader_poll": 1,
+    "reported_literary_feature": 1,
+    "annotated_external_selection": 1,
+    "critical_reading_guide": 1,
+    "primary_excerpt_and_translation_commentary": 1,
+    "professional_reader_discussion": 1,
+    "independent_scholarly_blog": 1,
+    "institutional_critical_feature": 1,
+    "archival_critical_review": 1,
+    "translator_interview": 1,
+    "standalone_reader_review": 1,
+    "institutional_reading_guide": 1,
+    "reader_testimony": 1,
+    "historical_critical_essay": 1,
+    "canon_critique": 1,
+    "curated_recommendations": 1,
+    "newspaper_critical_essay": 1,
+    "specialist_critical_essay": 1,
+    "bookseller_critical_blog": 1,
+    "reader_review": 1,
+    "reception_history": 1,
+    "institutional_critical_essay": 1,
+    "scholarly_book_chapter": 1,
+    "critical_profile": 1
+  },
+  "by_domain": {
+    "plato.stanford.edu": 25,
+    "ndpr.nd.edu": 8,
+    "iep.utm.edu": 7,
+    "doppiozero.com": 7,
+    "reddit.com": 6,
+    "fivebooks.com": 6,
+    "en-attendant-nadeau.fr": 5,
+    "aeon.co": 5,
+    "scielo.br": 4,
+    "deutschlandfunk.de": 4,
+    "africasacountry.com": 4,
+    "newhumanist.org.uk": 4,
+    "lemonde.fr": 3,
+    "scroll.in": 3,
+    "culture.pl": 3,
+    "gutenberg.org": 3,
+    "theguardian.com": 2,
+    "cambridge.org": 2,
+    "reedsy.com": 2,
+    "lithub.com": 2,
+    "publicbooks.org": 2,
+    "arxiv.org": 2,
+    "philosophynow.org": 2,
+    "tzum.info": 2,
+    "laviedesidees.fr": 2,
+    "aljazeera.net": 2,
+    "arablit.org": 2,
+    "allreviews.jp": 2,
+    "revistacult.uol.com.br": 2,
+    "insideindonesia.org": 2,
+    "benjaminmcevoy.com": 1,
+    "sites.prh.com": 1,
+    "sjc.edu": 1,
+    "oclc.org": 1,
+    "directedstudies.yale.edu": 1,
+    "litlab.stanford.edu": 1,
+    "librarything.com": 1,
+    "jamesclear.com": 1,
+    "goodreads.com": 1,
+    "penguin.co.uk": 1,
+    "panmacmillan.com": 1,
+    "s-usih.org": 1,
+    "riteoffancy.com": 1,
+    "thegreatestbooks.org": 1,
+    "files.blogs.baruch.cuny.edu": 1,
+    "brittlepaper.com": 1,
+    "historians.org": 1,
+    "smithsonianmag.com": 1,
+    "bookertalk.com": 1,
+    "tonysreadinglist.wordpress.com": 1,
+    "thebookerprizes.com": 1,
+    "royalsociety.org": 1,
+    "oyc.yale.edu": 1,
+    "ayearofreadingtheworld.com": 1,
+    "worldliteraturetoday.org": 1,
+    "time.com": 1,
+    "filozofuj.eu": 1,
+    "phil.tsinghua.edu.cn": 1,
+    "verne.elpais.com": 1,
+    "philomag.de": 1,
+    "elpais.com": 1,
+    "gecc.fudan.edu.cn": 1,
+    "lib.pku.edu.cn": 1,
+    "revistabula.com": 1,
+    "wordswithoutborders.org": 1,
+    "themodernnovel.org": 1,
+    "asymptotejournal.com": 1,
+    "theindiaforum.in": 1,
+    "dailynous.com": 1,
+    "crookedtimber.org": 1,
+    "lecturalia.com": 1,
+    "lubimyczytac.pl": 1,
+    "senscritique.com": 1,
+    "book.douban.com": 1,
+    "downloads.hebban.nl": 1,
+    "lareviewofbooks.org": 1,
+    "czasopisma.uksw.edu.pl": 1,
+    "newtonrocha.wordpress.com": 1,
+    "sites.google.com": 1,
+    "listasliterarias.com": 1,
+    "cervantesvirtual.com": 1,
+    "cvc.cervantes.es": 1,
+    "nanam.net": 1,
+    "klsa.jams.or.kr": 1,
+    "alwatan.com.sa": 1,
+    "khotwacenter.com": 1,
+    "dlbs.liberal.ntu.edu.tw": 1,
+    "quest-journal.net": 1,
+    "abjjad.com": 1,
+    "alantologia.com": 1,
+    "taaghche.com": 1,
+    "buklya.com": 1,
+    "letraslibres.com": 1,
+    "darwin-online.org.uk": 1,
+    "science.nasa.gov": 1,
+    "fao.org": 1
+  },
+  "by_language": {
+    "en": 129,
+    "fr": 10,
+    "pt": 10,
+    "it": 7,
+    "es": 6,
+    "ar": 6,
+    "pl": 5,
+    "de": 5,
+    "zh": 4,
+    "nl": 3,
+    "ja": 2,
+    "ko": 2,
+    "fa": 1,
+    "ru": 1
+  },
+  "by_access": {
+    "relevant_excerpt": 189,
+    "summary_only": 1,
+    "abstract_only": 1
+  },
+  "by_recorded_publisher_group_with_known_normalizations": {
+    "plato.stanford.edu": 25,
+    "ndpr.nd.edu": 8,
+    "iep.utm.edu": 7,
+    "doppiozero.com": 7,
+    "Reddit": 6,
+    "Five Books": 6,
+    "En attendant Nadeau": 5,
+    "Aeon": 5,
+    "Deutschlandfunk": 4,
+    "Africa Is a Country": 4,
+    "newhumanist.org.uk": 4,
+    "Le Monde": 3,
+    "Penguin Random House": 2,
+    "The Guardian": 2,
+    "Yale University": 2,
+    "Reedsy": 2,
+    "Literary Hub": 2,
+    "Public Books": 2,
+    "Philosophy Now": 2,
+    "La Vie des idées": 2,
+    "Scroll": 2,
+    "ArabLit": 2,
+    "Culture.pl / Adam Mickiewicz Institute": 2,
+    "ALL REVIEWS": 2,
+    "Revista Cult": 2,
+    "Inside Indonesia": 2,
+    "Benjamin McEvoy": 1,
+    "St. John's College": 1,
+    "OCLC": 1,
+    "Stanford Literary Lab": 1,
+    "LibraryThing": 1,
+    "James Clear": 1,
+    "Goodreads / Amazon": 1,
+    "Cambridge University Press": 1,
+    "Pan Macmillan": 1,
+    "Society for US Intellectual History": 1,
+    "a. d. elliott / Rite of Fancy": 1,
+    "The Greatest Books": 1,
+    "Italo Calvino / The New York Review of Books": 1,
+    "Brittle Paper": 1,
+    "American Historical Association": 1,
+    "Smithsonian Magazine": 1,
+    "BookerTalk": 1,
+    "Tony's Reading List": 1,
+    "The Booker Prize Foundation": 1,
+    "The Royal Society": 1,
+    "Ann Morgan / A Year of Reading the World": 1,
+    "World Literature Today / University of Oklahoma": 1,
+    "TIME": 1,
+    "Riddell and coauthors / arXiv": 1,
+    "Madaan and coauthors / arXiv": 1,
+    "Tzum": 1,
+    "Filozofuj! / Academicon": 1,
+    "Trans/Form/Ação / UNESP": 1,
+    "Tsinghua University Department of Philosophy": 1,
+    "PRISA": 1,
+    "Philosophie Magazin": 1,
+    "El País": 1,
+    "Fudan University": 1,
+    "Peking University Library": 1,
+    "Revista Bula": 1,
+    "Al Jazeera": 1,
+    "Words Without Borders": 1,
+    "The Modern Novel": 1,
+    "Asymptote": 1,
+    "The India Forum": 1,
+    "Daily Nous": 1,
+    "Crooked Timber": 1,
+    "Trans/Form/Ação": 1,
+    "Lecturalia": 1,
+    "Lubimyczytać": 1,
+    "SensCritique": 1,
+    "Douban": 1,
+    "Stichting CPNB / Nederland Leest": 1,
+    "Los Angeles Review of Books": 1,
+    "Scroll.in": 1,
+    "Culture.pl": 1,
+    "Załącznik Kulturoznawczy": 1,
+    "Newton Nitro": 1,
+    "Ivo Korytowski": 1,
+    "Listas Literárias / Douglas Eralldo": 1,
+    "Biblioteca Virtual Miguel de Cervantes": 1,
+    "Centro Virtual Cervantes": 1,
+    "Hankyoreh, reprinted by Nanam": 1,
+    "Korean Law & Society Association": 1,
+    "Estudos Avançados / Alfredo Bosi": 1,
+    "Estudos Avançados": 1,
+    "Al Watan / Mahmoud Dhaouadi": 1,
+    "Khotwa Center / Franz Rosenthal": 1,
+    "Journal of Buddhist Ethics / Diana L. Pasulka": 1,
+    "Tzum / Erik-Jan Hummel": 1,
+    "Quest / Wim van Binsbergen": 1,
+    "Journal of the American Philosophical Association": 1,
+    "John Stuart Mill / Project Gutenberg": 1,
+    "David Hume / Project Gutenberg": 1,
+    "John Locke / Project Gutenberg": 1,
+    "Al Jazeera / Sherif Murad": 1,
+    "Abjjad": 1,
+    "Alantologia / Ziad al-Awf": 1,
+    "Taaghche": 1,
+    "Buklya / Yulia Shepel": 1,
+    "Letras Libres": 1,
+    "Darwin Online": 1,
+    "NASA Earth Observatory": 1,
+    "Mariner Books / Houghton Mifflin; FAO-hosted excerpt": 1
+  },
+  "publisher_group_warning": "Not an audited count of independent owners. Some source metadata embeds author names in publisher labels. Domain counts provide a more conservative concentration view; hosting country is not author origin.",
+  "claims_as_recorded_not_resolved_catalog_entities": {
+    "1493": [
+      "S46"
+    ],
+    "A Brief History of Chinese Fiction": [
+      "R053"
+    ],
+    "A Dying Colonialism": [
+      "R024"
+    ],
+    "A Grain of Wheat": [
+      "R123"
+    ],
+    "A History of Chinese Philosophy": [
+      "R046"
+    ],
+    "A Serious Proposal to the Ladies": [
+      "R111"
+    ],
+    "A Spell of Longing": [
+      "S42"
+    ],
+    "A Theory of Justice": [
+      "R043",
+      "R083"
+    ],
+    "A Treatise of Human Nature": [
+      "R020",
+      "R028"
+    ],
+    "A Vindication of the Rights of Woman": [
+      "S40"
+    ],
+    "Achille Mbembe": [
+      "R045"
+    ],
+    "Adom Getatchew": [
+      "R148"
+    ],
+    "African Philosophy through Ubuntu": [
+      "R155"
+    ],
+    "After Virtue": [
+      "R039"
+    ],
+    "Against Individualism": [
+      "R080"
+    ],
+    "Alasdair MacIntyre": [
+      "R039"
+    ],
+    "Alonso e i visionari": [
+      "R124"
+    ],
+    "Ambedkar": [
+      "R074"
+    ],
+    "American Citizenship": [
+      "R026"
+    ],
+    "An Enquiry Concerning Human Understanding": [
+      "R158"
+    ],
+    "An Enquiry concerning Human Understanding": [
+      "R020"
+    ],
+    "An Enquiry concerning the Principles of Morals": [
+      "R020"
+    ],
+    "Analects": [
+      "S20"
+    ],
+    "Angela Borghesi": [
+      "R100"
+    ],
+    "Angela Davis": [
+      "R026"
+    ],
+    "Anne Conway": [
+      "R114"
+    ],
+    "Annihilation of Caste": [
+      "R073",
+      "R074"
+    ],
+    "Aníbal Quijano": [
+      "R145"
+    ],
+    "Aracoeli": [
+      "R099"
+    ],
+    "Aristotelian commentaries": [
+      "R116"
+    ],
+    "Aristotle": [
+      "R002"
+    ],
+    "Arturo's Island": [
+      "R099"
+    ],
+    "Authorship dispute": [
+      "R077"
+    ],
+    "Avicenna": [
+      "R011",
+      "R027"
+    ],
+    "Avicenna's De Anima in the Latin West": [
+      "R027"
+    ],
+    "B. R. Ambedkar": [
+      "R073"
+    ],
+    "Baruch Spinoza": [
+      "R021",
+      "R044"
+    ],
+    "Begriffsschrift": [
+      "R075"
+    ],
+    "Being Human": [
+      "R149"
+    ],
+    "Beirut Nightmares": [
+      "R069"
+    ],
+    "Benedito Nunes": [
+      "R101"
+    ],
+    "Bernard Williams": [
+      "R142"
+    ],
+    "Beyond Good and Evil": [
+      "R023"
+    ],
+    "Bhagavad Gita": [
+      "S49"
+    ],
+    "Bhagavad Gita commentary": [
+      "R010"
+    ],
+    "Big Dick (Wojciech Bruszewski)": [
+      "R096"
+    ],
+    "Black Midas": [
+      "R117"
+    ],
+    "Black Skin, White Masks": [
+      "R024"
+    ],
+    "Blue Lorries": [
+      "R070"
+    ],
+    "Bodhicaryavatara": [
+      "R028"
+    ],
+    "Border Town": [
+      "R052"
+    ],
+    "Brahmasutra commentary": [
+      "R010"
+    ],
+    "Buru Quartet": [
+      "R118",
+      "R119"
+    ],
+    "Byung-Chul Han": [
+      "R047"
+    ],
+    "Cairo Trilogy": [
+      "R069",
+      "R162"
+    ],
+    "Child of All Nations": [
+      "R118"
+    ],
+    "Chris Fraser": [
+      "R153"
+    ],
+    "Christian August Crusius": [
+      "R084"
+    ],
+    "Christian Wolff": [
+      "R084"
+    ],
+    "Claves narrativas de Juan Rulfo": [
+      "R165"
+    ],
+    "Complete Stories (Clarice Lispector)": [
+      "R067"
+    ],
+    "Confucian Relationism and Global Ethics": [
+      "R080"
+    ],
+    "Confucian Role Ethics": [
+      "R080"
+    ],
+    "Corpo de baile": [
+      "R101"
+    ],
+    "Cosmos": [
+      "R131"
+    ],
+    "Creating Capabilities": [
+      "R036"
+    ],
+    "Critique of Pure Reason": [
+      "S23",
+      "R029"
+    ],
+    "Cultural Universals and Particulars": [
+      "R072"
+    ],
+    "Céline Spector": [
+      "R083"
+    ],
+    "Daodejing": [
+      "R015"
+    ],
+    "Darkness at Noon": [
+      "R050"
+    ],
+    "Davi Kopenawa": [
+      "R085"
+    ],
+    "David Hume": [
+      "R020",
+      "R029",
+      "R158"
+    ],
+    "Death and the Afterlife": [
+      "R035"
+    ],
+    "Defensa del marxismo": [
+      "R144"
+    ],
+    "Democracy After Virtue": [
+      "R038"
+    ],
+    "Derek Parfit": [
+      "R033"
+    ],
+    "Dharmakīrti": [
+      "R113"
+    ],
+    "Dialogues": [
+      "R042"
+    ],
+    "Divine Comedy": [
+      "S07"
+    ],
+    "Doing Philosophy": [
+      "R142"
+    ],
+    "Dolpopa": [
+      "R112"
+    ],
+    "Don Quixote": [
+      "S04",
+      "R049",
+      "R133"
+    ],
+    "Down Girl": [
+      "R026"
+    ],
+    "Doña Berta": [
+      "R138"
+    ],
+    "Dream of the Red Chamber": [
+      "R107"
+    ],
+    "Eichmann in Jerusalem": [
+      "R018"
+    ],
+    "Either/Or": [
+      "R086"
+    ],
+    "El llano en llamas": [
+      "R165"
+    ],
+    "El marxismo de Mariátegui y su aplicación a los 7 ensayos": [
+      "R145"
+    ],
+    "Elements": [
+      "S03"
+    ],
+    "Elogio de la duda": [
+      "R047"
+    ],
+    "English_translation": [
+      "S42",
+      "S43"
+    ],
+    "Enumeration of the Sciences": [
+      "R012"
+    ],
+    "Epistemic Injustice": [
+      "R034",
+      "R143"
+    ],
+    "Eros e Priapo": [
+      "R128"
+    ],
+    "Ethics": [
+      "R021",
+      "R044",
+      "R086"
+    ],
+    "Ethics and the Limits of Philosophy": [
+      "R039"
+    ],
+    "Ethics in the Conflicts of Modernity": [
+      "R039"
+    ],
+    "Feng Youlan": [
+      "R046"
+    ],
+    "Field of Life and Death": [
+      "R052"
+    ],
+    "Filosofía inacabada": [
+      "R047"
+    ],
+    "Florentine Codex book VI": [
+      "R081"
+    ],
+    "Footsteps": [
+      "R118"
+    ],
+    "Frankenstein": [
+      "S21"
+    ],
+    "Frantz Fanon": [
+      "R024",
+      "R045"
+    ],
+    "Fratelli d’Italia": [
+      "R127"
+    ],
+    "Freedom: An Impossible Reality": [
+      "R147"
+    ],
+    "Friedrich Nietzsche": [
+      "R023"
+    ],
+    "Frontiers of Justice": [
+      "R036"
+    ],
+    "Gabriel Maia": [
+      "R085"
+    ],
+    "Gaddabolario": [
+      "R128"
+    ],
+    "Gandhi": [
+      "R074"
+    ],
+    "Gargantua and Pantagruel": [
+      "R133"
+    ],
+    "George Scialabba": [
+      "R079"
+    ],
+    "Giorgio Agamben": [
+      "R146"
+    ],
+    "God's Bits of Wood": [
+      "R068"
+    ],
+    "Godaan": [
+      "R066"
+    ],
+    "God’s Bits of Wood": [
+      "R121",
+      "R122",
+      "R123"
+    ],
+    "Gold: The Race for the World’s Most Seductive Metal": [
+      "R117"
+    ],
+    "Golden Garland of Eloquence": [
+      "R112"
+    ],
+    "Gottlob Frege": [
+      "R075"
+    ],
+    "Granada trilogy": [
+      "R065"
+    ],
+    "Grande sertão: veredas": [
+      "R101",
+      "R102",
+      "R135",
+      "R136",
+      "R137"
+    ],
+    "Gravity and Grace": [
+      "R048"
+    ],
+    "Great Book of Music": [
+      "R012"
+    ],
+    "Greek Thought, Arabic Culture": [
+      "R027"
+    ],
+    "Guide of the Perplexed": [
+      "R011"
+    ],
+    "Hannah Arendt": [
+      "R018"
+    ],
+    "Harry Potter": [
+      "R051"
+    ],
+    "Hatata": [
+      "R077"
+    ],
+    "Hayy ibn Yaqzan": [
+      "R078"
+    ],
+    "Heavier than Radwa": [
+      "R070"
+    ],
+    "Henry Odera Oruka": [
+      "R016"
+    ],
+    "Henry Rosemont": [
+      "R080"
+    ],
+    "Hind Swaraj": [
+      "R074"
+    ],
+    "His Master's Voice": [
+      "R042"
+    ],
+    "History (Elsa Morante)": [
+      "R099",
+      "R100"
+    ],
+    "History of Animals": [
+      "R002"
+    ],
+    "History of Philosophy from Thomas Aquinas to Kant": [
+      "R084"
+    ],
+    "Hume": [
+      "R083"
+    ],
+    "I promessi sposi": [
+      "R125"
+    ],
+    "Ibn Khaldun": [
+      "R150",
+      "R151"
+    ],
+    "Ibn Rushd": [
+      "R116"
+    ],
+    "Ibn Tufayl": [
+      "R078"
+    ],
+    "If This Is a Man": [
+      "R177"
+    ],
+    "Il cardillo addolorato": [
+      "R124"
+    ],
+    "Il porto di Toledo": [
+      "R124"
+    ],
+    "Ilhéu de Contenda": [
+      "R068"
+    ],
+    "Iliad": [
+      "S07"
+    ],
+    "In Search of Lost Time": [
+      "R049",
+      "R103"
+    ],
+    "In Search of Walid Masoud": [
+      "R069"
+    ],
+    "Incidents in the Life of a Slave Girl": [
+      "S47"
+    ],
+    "Instructions for Practical Living": [
+      "R046"
+    ],
+    "Interpretive revision": [
+      "R075"
+    ],
+    "Invisible Cities": [
+      "R086"
+    ],
+    "Iris Murdoch": [
+      "R048"
+    ],
+    "James Baldwin": [
+      "R055"
+    ],
+    "James Heisig": [
+      "R152"
+    ],
+    "Jana Rošker": [
+      "R080"
+    ],
+    "Jane Eyre": [
+      "S24"
+    ],
+    "Japanese_literature": [
+      "S26"
+    ],
+    "Jean-Marc Ela": [
+      "R045"
+    ],
+    "Jhootha Sach": [
+      "R066"
+    ],
+    "John Locke": [
+      "R159"
+    ],
+    "John Rawls": [
+      "R043"
+    ],
+    "John Stuart Mill": [
+      "R157"
+    ],
+    "Joseph and His Brothers": [
+      "R134"
+    ],
+    "José Carlos Mariátegui": [
+      "R144",
+      "R145"
+    ],
+    "João Paulo Barreto": [
+      "R085"
+    ],
+    "Jude the Obscure": [
+      "R132"
+    ],
+    "Judith Shklar": [
+      "R026"
+    ],
+    "Justice for Hedgehogs": [
+      "R037"
+    ],
+    "Kafka on the Shore": [
+      "S09"
+    ],
+    "Kant": [
+      "S23",
+      "R075",
+      "R147"
+    ],
+    "Karmelin": [
+      "R066"
+    ],
+    "Kate Manne": [
+      "R026"
+    ],
+    "Katha Upanishad": [
+      "R082"
+    ],
+    "Kenzaburō Ōe": [
+      "R098",
+      "R105"
+    ],
+    "Kitab Kawin (The Book of Mating)": [
+      "R071"
+    ],
+    "Kitab al-Ibar": [
+      "R150"
+    ],
+    "Kurtyzana i pisklęta": [
+      "R096"
+    ],
+    "Kusamakura": [
+      "R130"
+    ],
+    "Kwame Nkrumah": [
+      "R148"
+    ],
+    "Kwasi Wiredu": [
+      "R072"
+    ],
+    "L'anno della Storia": [
+      "R100"
+    ],
+    "La Regenta": [
+      "R139"
+    ],
+    "La gauche américaine en France": [
+      "R043"
+    ],
+    "La recepción inicial de Pedro Páramo": [
+      "R165"
+    ],
+    "Laozi": [
+      "R015"
+    ],
+    "Le continent du Tout et du presque Rien": [
+      "R126"
+    ],
+    "Learning to Philosophise": [
+      "R030"
+    ],
+    "Leibniz": [
+      "R084"
+    ],
+    "Leopoldo Alas": [
+      "R139"
+    ],
+    "Les Misérables": [
+      "S10"
+    ],
+    "Let Us Now Praise Famous Men": [
+      "R050"
+    ],
+    "Leviathan": [
+      "R083"
+    ],
+    "Lies and Sorcery": [
+      "R099"
+    ],
+    "Life A User's Manual": [
+      "R050"
+    ],
+    "Linda Christanty": [
+      "R119"
+    ],
+    "Lost Illusions": [
+      "R055"
+    ],
+    "Love in a Fallen City": [
+      "R052"
+    ],
+    "Ludwig Wittgenstein": [
+      "R019"
+    ],
+    "L’Adalgisa": [
+      "R128"
+    ],
+    "L’Iguana": [
+      "R124"
+    ],
+    "L’irrealizzabile": [
+      "R146"
+    ],
+    "Mahasweta Devi": [
+      "R120"
+    ],
+    "Maimonides in His World": [
+      "R027"
+    ],
+    "Man and the Divine": [
+      "R087"
+    ],
+    "Marina Garces": [
+      "R047"
+    ],
+    "Martha Nussbaum": [
+      "R036"
+    ],
+    "Martin Heidegger": [
+      "R084"
+    ],
+    "Mary Astell": [
+      "R111"
+    ],
+    "Mary Midgley": [
+      "R026"
+    ],
+    "Mary Warnock": [
+      "R029"
+    ],
+    "María Zambrano": [
+      "R087"
+    ],
+    "Masks": [
+      "S26"
+    ],
+    "Meditations on First Philosophy": [
+      "S19"
+    ],
+    "Memoirs of Lady Hyegyong": [
+      "S29"
+    ],
+    "Mencius": [
+      "R013"
+    ],
+    "Mengzi": [
+      "R013",
+      "R028"
+    ],
+    "Metaphysics": [
+      "S03",
+      "R002"
+    ],
+    "Middlemarch": [
+      "S37",
+      "R055"
+    ],
+    "Miranda Fricker": [
+      "R034",
+      "R143"
+    ],
+    "Mogobe Ramose": [
+      "R154",
+      "R155"
+    ],
+    "Monkey Cup": [
+      "R105"
+    ],
+    "Mozi": [
+      "R046",
+      "R153"
+    ],
+    "Mulla Sadra": [
+      "R110"
+    ],
+    "Muqaddimah": [
+      "R150",
+      "R151"
+    ],
+    "Nagarjuna": [
+      "R009"
+    ],
+    "Nahua ethical thought": [
+      "R081"
+    ],
+    "Nationalism": [
+      "R074"
+    ],
+    "Natural Goodness": [
+      "R048"
+    ],
+    "Nedjma": [
+      "R068"
+    ],
+    "Nicomachean Ethics": [
+      "S03",
+      "R002"
+    ],
+    "Nishida Kitarō": [
+      "R152"
+    ],
+    "Nishitani Keiji": [
+      "R152"
+    ],
+    "Noam Chomsky": [
+      "R079"
+    ],
+    "O dorso do tigre": [
+      "R101"
+    ],
+    "Okemba Simiyu Chaungo": [
+      "R016"
+    ],
+    "On Liberty": [
+      "R157"
+    ],
+    "On What Matters": [
+      "R033"
+    ],
+    "On the Genealogy of Morality": [
+      "R023"
+    ],
+    "On the Origin of Species": [
+      "R174"
+    ],
+    "One Hundred Years of Solitude": [
+      "S16"
+    ],
+    "Oneness": [
+      "R080"
+    ],
+    "Orunmila": [
+      "R040"
+    ],
+    "Ousmane Sembène": [
+      "R121",
+      "R122"
+    ],
+    "Out of the Dark Night": [
+      "R045"
+    ],
+    "Palace Walk": [
+      "R162"
+    ],
+    "Palace of Desire": [
+      "R162"
+    ],
+    "Palace of the Peacock": [
+      "R117"
+    ],
+    "Paradise Lost": [
+      "S35"
+    ],
+    "Paul Mbuya Akoko": [
+      "R016"
+    ],
+    "Pedro Páramo": [
+      "R049",
+      "R054",
+      "R165"
+    ],
+    "Philippa Foot": [
+      "R048"
+    ],
+    "Philosophers of Nothingness": [
+      "R152"
+    ],
+    "Philosophical Investigations": [
+      "R019"
+    ],
+    "Philosophy and an African Culture": [
+      "R072"
+    ],
+    "Philosophy in the 20th Century": [
+      "R030"
+    ],
+    "Philosophy: The Basics": [
+      "R030"
+    ],
+    "Plato": [
+      "S17",
+      "R029"
+    ],
+    "Political Treatise": [
+      "R044"
+    ],
+    "Politics": [
+      "R002"
+    ],
+    "Pornografia": [
+      "R129"
+    ],
+    "Practical Ethics": [
+      "R047"
+    ],
+    "Pramāṇavārttika": [
+      "R113"
+    ],
+    "Pride and Prejudice": [
+      "S14",
+      "S21"
+    ],
+    "Quer pasticciaccio brutto de via Merulana": [
+      "R128"
+    ],
+    "Raag Darbari": [
+      "R066"
+    ],
+    "Rawls": [
+      "R075"
+    ],
+    "Raymond Tallis": [
+      "R147"
+    ],
+    "Reader/critic disagreement": [
+      "R051"
+    ],
+    "Reasons and Persons": [
+      "R033",
+      "R047"
+    ],
+    "Red Sorghum": [
+      "R053"
+    ],
+    "Reflections on Things at Hand": [
+      "R046"
+    ],
+    "Reply to Sor Philotea": [
+      "R156"
+    ],
+    "Republic": [
+      "S19",
+      "R028"
+    ],
+    "Richard Rorty": [
+      "R079"
+    ],
+    "Rickshaw Boy": [
+      "R052"
+    ],
+    "Roger Ames": [
+      "R080"
+    ],
+    "Ronald Dworkin": [
+      "R037"
+    ],
+    "Rowan Williams": [
+      "R149"
+    ],
+    "Rāmānuja": [
+      "R109"
+    ],
+    "Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy": [
+      "R016"
+    ],
+    "Said Benabdelouahed": [
+      "R102"
+    ],
+    "Sailor": [
+      "R096"
+    ],
+    "Samba Gadjigo": [
+      "R122"
+    ],
+    "Samuel Scheffler": [
+      "R035"
+    ],
+    "Sanatorium Under the Sign of the Hourglass": [
+      "R129"
+    ],
+    "Saṃtānāntarasiddhi": [
+      "R113"
+    ],
+    "Season of Migration to the North": [
+      "R065",
+      "R160",
+      "R161"
+    ],
+    "Second Treatise of Government": [
+      "R159"
+    ],
+    "Seven Interpretive Essays on Peruvian Reality": [
+      "R144",
+      "R145"
+    ],
+    "Seyla Benhabib": [
+      "R026"
+    ],
+    "Shankara": [
+      "R010"
+    ],
+    "Shantideva": [
+      "R028"
+    ],
+    "Silent Spring": [
+      "R175",
+      "R176"
+    ],
+    "Simon Blackburn": [
+      "R029"
+    ],
+    "Simone Weil": [
+      "R048",
+      "R086"
+    ],
+    "Simone de Beauvoir": [
+      "R017"
+    ],
+    "Sleepwalking Land": [
+      "R068"
+    ],
+    "Social democracy": [
+      "R073"
+    ],
+    "Socrates": [
+      "R040"
+    ],
+    "Socrates and Orunmila": [
+      "R040"
+    ],
+    "Solaris": [
+      "R129"
+    ],
+    "Some Reflections upon Marriage": [
+      "R111"
+    ],
+    "Sophie Oluwole": [
+      "R040"
+    ],
+    "Sor Juana Inés de la Cruz": [
+      "R156"
+    ],
+    "Spinoza": [
+      "R147"
+    ],
+    "Stanislaw Lem": [
+      "R042"
+    ],
+    "Su único hijo": [
+      "R138"
+    ],
+    "Sugar Street": [
+      "R162"
+    ],
+    "Summa Technologiae": [
+      "R042"
+    ],
+    "Summa contra gentiles": [
+      "R022"
+    ],
+    "Summa theologiae": [
+      "R022"
+    ],
+    "Sungmoon Kim": [
+      "R038"
+    ],
+    "Superintelligence": [
+      "R047"
+    ],
+    "T. M. Scanlon": [
+      "R075"
+    ],
+    "Tagore": [
+      "R074"
+    ],
+    "Tales of Hulan River": [
+      "R053"
+    ],
+    "Tamas": [
+      "R066"
+    ],
+    "Tanabe Hajime": [
+      "R152"
+    ],
+    "Tattoo": [
+      "R069"
+    ],
+    "The Blind Owl": [
+      "R163"
+    ],
+    "The Canon of Medicine": [
+      "R011"
+    ],
+    "The Christian Religion": [
+      "R111"
+    ],
+    "The Classic Chinese Novel": [
+      "R053"
+    ],
+    "The Coming of Age": [
+      "R017"
+    ],
+    "The Darkroom of Damocles": [
+      "R108"
+    ],
+    "The Decisive Treatise": [
+      "R116"
+    ],
+    "The Discovery of India": [
+      "R074"
+    ],
+    "The Dispeller of Disputes": [
+      "R009"
+    ],
+    "The Doll (Bolesław Prus)": [
+      "R104"
+    ],
+    "The English Patient": [
+      "S38"
+    ],
+    "The Ethics of Ambiguity": [
+      "R017"
+    ],
+    "The Falling Sky": [
+      "R085"
+    ],
+    "The First Step in the Clouds": [
+      "R129"
+    ],
+    "The Fundamental Wisdom of the Middle Way": [
+      "R009"
+    ],
+    "The Gay Science": [
+      "R023"
+    ],
+    "The Great Philosophers": [
+      "R030"
+    ],
+    "The Harafish": [
+      "R065"
+    ],
+    "The Historian's Craft": [
+      "S33"
+    ],
+    "The Human Condition": [
+      "R018"
+    ],
+    "The Incoherence of the Philosophers": [
+      "R115"
+    ],
+    "The Last Harmattan of Alusine Dunbar": [
+      "R068"
+    ],
+    "The Light Eaters": [
+      "S34"
+    ],
+    "The Magic Mountain": [
+      "R106"
+    ],
+    "The Master and Margarita": [
+      "R164"
+    ],
+    "The Need for Roots": [
+      "R086"
+    ],
+    "The New Jim Crow": [
+      "S27",
+      "S47"
+    ],
+    "The Night of Lead": [
+      "R105"
+    ],
+    "The Novices of Lerna": [
+      "R105"
+    ],
+    "The Origins of Totalitarianism": [
+      "R018"
+    ],
+    "The Path": [
+      "R080"
+    ],
+    "The Philosophy of the Mozi": [
+      "R153"
+    ],
+    "The Plague": [
+      "R055"
+    ],
+    "The Plum in the Golden Vase": [
+      "S29"
+    ],
+    "The Principles of Psychology": [
+      "R082"
+    ],
+    "The Principles of the Most Ancient and Modern Philosophy": [
+      "R114"
+    ],
+    "The Private Memoirs and Confessions of a Justified Sinner": [
+      "R086"
+    ],
+    "The Revival of the Religious Sciences": [
+      "R115"
+    ],
+    "The Rights of Others": [
+      "R026"
+    ],
+    "The Road": [
+      "S09"
+    ],
+    "The Sea Around Us": [
+      "R175"
+    ],
+    "The Second Sex": [
+      "R017"
+    ],
+    "The Secret Life of Saeed the Pessoptimist": [
+      "R069"
+    ],
+    "The Sovereignty of Good": [
+      "R048"
+    ],
+    "The Stranger (Maria Kuncewiczowa)": [
+      "R097"
+    ],
+    "The Street of Crocodiles": [
+      "R129"
+    ],
+    "The Suns of Independence": [
+      "R123"
+    ],
+    "The Tale of Genji": [
+      "S29",
+      "S37"
+    ],
+    "The Teleological Ethics of Fakhr al-Din al-Razi": [
+      "R027"
+    ],
+    "The Theory of Moral Sentiments": [
+      "R048"
+    ],
+    "The Tin Drum": [
+      "R133"
+    ],
+    "The Use of Bodies": [
+      "R146"
+    ],
+    "The Waves": [
+      "S37"
+    ],
+    "The Will to Power": [
+      "R023"
+    ],
+    "The Woman from Tantoura": [
+      "R070"
+    ],
+    "The Wretched of the Earth": [
+      "R024"
+    ],
+    "Theological-Political Treatise": [
+      "R021"
+    ],
+    "Things Fall Apart": [
+      "R123"
+    ],
+    "Think": [
+      "R029"
+    ],
+    "Thirty Years of Modern Chinese Literature": [
+      "R052"
+    ],
+    "This Earth of Mankind": [
+      "R071",
+      "R118"
+    ],
+    "Thomas Aquinas": [
+      "R022"
+    ],
+    "Thomas Hobbes": [
+      "R078"
+    ],
+    "Timothy Williamson": [
+      "R142"
+    ],
+    "Toji": [
+      "R140",
+      "R141"
+    ],
+    "Tractatus Logico-Philosophicus": [
+      "R019"
+    ],
+    "Transcendent Wisdom in the Four Journeys of the Intellect": [
+      "R110"
+    ],
+    "Treatise on the Emendation of the Intellect": [
+      "R044"
+    ],
+    "Truth/Untruth": [
+      "R120"
+    ],
+    "Tsongkhapa": [
+      "R112"
+    ],
+    "Ubuntu: stroom van het bestaan als levensfilosofie": [
+      "R154"
+    ],
+    "Ulysses": [
+      "S02"
+    ],
+    "Vedārthasaṅgraha": [
+      "R109"
+    ],
+    "Victoria Camps": [
+      "R047"
+    ],
+    "W. E. B. Du Bois": [
+      "S18"
+    ],
+    "Walda Heywat": [
+      "R077"
+    ],
+    "Wang Yangming": [
+      "R046"
+    ],
+    "What Are Intellectuals Good For?": [
+      "R079"
+    ],
+    "What Is Philosophy For?": [
+      "R026"
+    ],
+    "William James": [
+      "R082"
+    ],
+    "Women and Human Development": [
+      "R036"
+    ],
+    "Women, Race & Class": [
+      "R026"
+    ],
+    "Worldmaking After Empire": [
+      "R148"
+    ],
+    "Xun Kuang": [
+      "R014"
+    ],
+    "Xunzi": [
+      "R014"
+    ],
+    "Yepamahsã thought": [
+      "R085"
+    ],
+    "Zera Yacob": [
+      "R077"
+    ],
+    "Zhu Xi": [
+      "R046"
+    ],
+    "Zhuangzi": [
+      "S25",
+      "R028"
+    ],
+    "al-Farabi": [
+      "R012"
+    ],
+    "al-Ghazali": [
+      "R115"
+    ],
+    "candidate_pool": [
+      "S01",
+      "S02",
+      "S05",
+      "S06",
+      "S07",
+      "S14"
+    ],
+    "candidate_sampling": [
+      "S48"
+    ],
+    "canon_formation": [
+      "S15"
+    ],
+    "community_canon": [
+      "S45"
+    ],
+    "criterion_design": [
+      "S51"
+    ],
+    "cross_field_scope": [
+      "S18"
+    ],
+    "cultural_context": [
+      "S44"
+    ],
+    "decade_selection": [
+      "S30"
+    ],
+    "difficulty_vs_enjoyment": [
+      "S13"
+    ],
+    "embedded_work_identity": [
+      "S49"
+    ],
+    "form_scope": [
+      "S45"
+    ],
+    "geographic_coverage": [
+      "S32"
+    ],
+    "history_candidate_pool": [
+      "S36"
+    ],
+    "library_holdings": [
+      "S04"
+    ],
+    "nonfiction_candidate_pool": [
+      "S11",
+      "S22"
+    ],
+    "novel_scope": [
+      "S51"
+    ],
+    "original_vs_edition_dates": [
+      "S43"
+    ],
+    "philosophy_literature_overlap": [
+      "S17"
+    ],
+    "political_philosophy_candidate_pool": [
+      "S41"
+    ],
+    "proxy_measurement": [
+      "S50"
+    ],
+    "readability_vs_accuracy": [
+      "S46"
+    ],
+    "reader_popularity": [
+      "S12"
+    ],
+    "reception_vs_merit": [
+      "S31"
+    ],
+    "rereading": [
+      "S31",
+      "S35"
+    ],
+    "science_candidate_pool": [
+      "S39"
+    ],
+    "scope_mismatch": [
+      "S22"
+    ],
+    "selection_bias": [
+      "S08"
+    ],
+    "sequence_vs_merit": [
+      "S01"
+    ],
+    "source_dependence": [
+      "S28"
+    ],
+    "survivorship_bias": [
+      "S48"
+    ],
+    "world_scope": [
+      "S44"
+    ],
+    "Éloges de l’injustice": [
+      "R083"
+    ],
+    "Śaṅkara": [
+      "R082"
+    ],
+    "Śrī Bhāṣya": [
+      "R109"
+    ],
+    "日常生活の冒険 (Adventures in Everyday Life)": [
+      "R098"
+    ],
+    "박경리 이야기": [
+      "R140"
+    ]
+  },
+  "candidate_specific_reconsultations": [
+    "../_runs/2026-09-12/batch-24.json",
+    "../_runs/2026-09-12/batch-25.json"
+  ]
+}

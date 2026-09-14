@@ -1,0 +1,947 @@
+{
+  "revision": "companion-v1",
+  "checked": "2026-09-14",
+  "sources": [
+    {
+      "id": "bbk-studies",
+      "title": "Birkbeck · BA Classical Studies",
+      "url": "https://www.bbk.ac.uk/courses/undergraduate/classical-studies",
+      "evidence": "2026–27 overview and module structure checked: broad classical study with one compulsory language module; on-campus full/part-time evening routes. Paid degree, not open courseware.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "bbk-classics",
+      "title": "Birkbeck · BA Classics",
+      "url": "https://www.bbk.ac.uk/courses/undergraduate/classics",
+      "evidence": "Overview and language/module structure checked. Language-focused route includes higher-level set-book study. Modules are indicative; check current admissions and fees with the provider.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "bbk-short",
+      "title": "Birkbeck · Classics short courses, 2026–27",
+      "url": "https://www.bbk.ac.uk/courses/2026/short-courses/subject/classics",
+      "evidence": "Current subject directory checked: introductory Greek/Latin, intermediate Latin and set-book options, including non-credit Latin introductions. Directory inclusion does not guarantee places or online delivery.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "bbk-greek",
+      "title": "Birkbeck · Introduction to Ancient Greek (Level 4)",
+      "url": "https://www.bbk.ac.uk/courses/module/SSHC299S4",
+      "evidence": "Module description and learning outcomes consulted: no prior Greek required; Reading Greek named as textbook. Public outline, not freely supplied teaching materials or the textbook.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "bbk-library",
+      "title": "Birkbeck Library · Databases and online resources",
+      "url": "https://www.bbk.ac.uk/library/databases",
+      "evidence": "Library directory checked; links subject guides and a Free Access to Online Resources guide. Licensed resources and staff/student trials must not be described as universally free.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "bbk-free",
+      "title": "Birkbeck Library · Free Access to Online Resources",
+      "url": "https://bbk.libguides.com/FreeAccessOnline",
+      "evidence": "Linked by the verified library directory; direct access returned HTTP 429. Guide contents not independently checked; individual access conditions may differ.",
+      "checked": "2026-09-14",
+      "access": "Unverified / access blocked"
+    },
+    {
+      "id": "yale-greece",
+      "title": "Introduction to Ancient Greek History",
+      "url": "https://oyc.yale.edu/classics/clcv-205",
+      "evidence": "Course syllabus and lecture index checked; Fall 2007 archive, not live enrolment.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "yale-rome",
+      "title": "Roman Architecture",
+      "url": "https://oyc.yale.edu/history-of-art/hsar-252",
+      "evidence": "Course syllabus and listed sessions checked; Spring 2009 archive. Not every media file played.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "mit-tragedy",
+      "title": "Tragedy — syllabus",
+      "url": "https://ocw.mit.edu/courses/21l-422-tragedy-fall-2002/pages/syllabus/",
+      "evidence": "Fall 2002 syllabus checked; readings and assignments linked. No claim of a video lecture series.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "oxford",
+      "title": "Balliol Classics Reading Lists",
+      "url": "https://www.balliol.ox.ac.uk/admissions/undergraduate-admissions/classics-reading-lists",
+      "evidence": "Preparatory reading guidance checked; not an online degree or public access to teaching.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "ou-greek",
+      "title": "Getting started on ancient Greek",
+      "url": "https://www.open.edu/openlearn/history-the-arts/getting-started-on-ancient-greek/content-section-0",
+      "evidence": "Course introduction, learning outcomes and content index checked; optional registration for tracking/quizzes.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "ou-latin",
+      "title": "Getting started on classical Latin",
+      "url": "https://www.open.edu/openlearn/history-the-arts/getting-started-on-classical-latin/content-section-0",
+      "evidence": "Course landing page checked; introductory resource, not a complete language qualification.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "dcc",
+      "title": "Dickinson College Commentaries",
+      "url": "https://dcc.dickinson.edu/",
+      "evidence": "Greek/Latin texts, reference works, audio and video directory checked; coverage varies by text.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "aeneid-notes",
+      "title": "Aeneid 1.1–11 — text and commentary",
+      "url": "https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-i-1-11",
+      "evidence": "Opening Latin passage and commentary consulted; selected-text resource, not a full English translation.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "wilson",
+      "title": "Emily Wilson — The Odyssey",
+      "url": "https://www.emilyrcwilson.com/the-odyssey",
+      "evidence": "Translator's book page checked; promotional source, not independent evaluation or full book access.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "wilson-review",
+      "title": "Homer, The Odyssey — Bryn Mawr Classical Review",
+      "url": "https://bmcr.brynmawr.edu/2018/2018.10.58/",
+      "evidence": "Review page consulted for verse approach and critical reservations; not a full reading of the translation.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "butler",
+      "title": "Homer, Odyssey — Samuel Butler",
+      "url": "https://classics.mit.edu/Homer/odyssey.html",
+      "evidence": "Translator and all 24 book links checked; index access, not full rereading.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "jowett",
+      "title": "Plato, Apology — Benjamin Jowett",
+      "url": "https://classics.mit.edu/Plato/apology.html",
+      "evidence": "Opening translated passage consulted; older English, sparse online apparatus.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "grube",
+      "title": "Plato, Five Dialogues — Hackett",
+      "url": "https://hackettpublishing.com/five-dialogues",
+      "evidence": "Access unsuccessful this pass. Bibliographic lead retained from existing edition guide; inspect edition before purchase.",
+      "checked": "2026-09-14",
+      "access": "Unverified / access blocked"
+    },
+    {
+      "id": "dryden",
+      "title": "Virgil, Aeneid — John Dryden",
+      "url": "https://classics.mit.edu/Virgil/aeneid.html",
+      "evidence": "Translation credit and book index checked; not a modern critical edition.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "agamemnon",
+      "title": "Aeschylus, Agamemnon — H. W. Smyth",
+      "url": "https://www.theoi.com/Text/AeschylusAgamemnon.html",
+      "evidence": "Argument and opening text consulted for Atreid family context. Old translation; myth is not a historical record.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "iliad",
+      "title": "Homer, Iliad 1",
+      "url": "https://www.theoi.com/Text/HomerIliad1.html",
+      "evidence": "Opening text consulted for Achilles/Agamemnon conflict; not evidence for historicity of the war.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "ethics",
+      "title": "Aristotle's Ethics — Stanford Encyclopedia",
+      "url": "https://plato.stanford.edu/entries/aristotle-ethics/",
+      "evidence": "Reference article consulted for virtue and flourishing; interpretive reference, not a word-for-word glossary.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "epicurus",
+      "title": "Epicurus — Stanford Encyclopedia",
+      "url": "https://plato.stanford.edu/entries/epicurus/",
+      "evidence": "Reference article consulted for tranquility and pleasure; Epicurean and Stoic doctrines must remain distinct.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "heraclitus",
+      "title": "Heraclitus — Stanford Encyclopedia",
+      "url": "https://plato.stanford.edu/entries/heraclitus/",
+      "evidence": "Reference article consulted for logos; interpretations disputed.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "hop",
+      "title": "History of Philosophy without any gaps",
+      "url": "https://historyofphilosophy.net/",
+      "evidence": "Episode navigation consulted; audio has not been listened through. Series extends well beyond Greece and Rome.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "hop-socrates",
+      "title": "15 — Socrates without Plato",
+      "url": "https://historyofphilosophy.net/podcast/classical-greek/socrates-and-plato/socrates-without-plato",
+      "evidence": "Episode title/page checked; listening pairing is editorial, not course credit.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "hop-plato",
+      "title": "25 — Soul and the City",
+      "url": "https://historyofphilosophy.net/podcast/classical-greek/socrates-and-plato/plato-republic-soul-political-philosophy",
+      "evidence": "Episode title/page checked; audio not fully auditioned.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "hop-epicurus",
+      "title": "55 — Epicurus and his Principles",
+      "url": "https://historyofphilosophy.net/podcast/later-antiquity/hellenistic/epicurus-principles",
+      "evidence": "Episode title/page checked; audio not fully auditioned.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "hop-epictetus",
+      "title": "66 — Epictetus",
+      "url": "https://historyofphilosophy.net/podcast/later-antiquity/hellenistic/epictetus",
+      "evidence": "Episode title/page checked; audio not fully auditioned.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "hop-augustine",
+      "title": "110 — Augustine's Confessions",
+      "url": "https://historyofphilosophy.net/podcast/later-antiquity/ancient-christianity/augustine-confessions",
+      "evidence": "Episode title/page checked; audio not fully auditioned.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "hop-translation",
+      "title": "122 — From Greek to Syriac and Arabic",
+      "url": "https://historyofphilosophy.net/podcast/islamic-world/formative-period/translation-movement",
+      "evidence": "Episode title/page checked; audio not fully auditioned.",
+      "checked": "2026-09-14",
+      "access": "Page or excerpt consulted"
+    },
+    {
+      "id": "dante",
+      "title": "Digital Dante — Inferno 1",
+      "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-1/",
+      "evidence": "Bot challenge prevented access. Kept as a clearly labelled university resource lead, not consulted commentary.",
+      "checked": "2026-09-14",
+      "access": "Unverified / access blocked"
+    }
+  ],
+  "routes": [
+    {
+      "id": "broad",
+      "title": "A broad first taste",
+      "modules": [
+        "odyssey",
+        "tragedy",
+        "socrates",
+        "aeneid"
+      ],
+      "body": "Story, drama, argument and Roman epic. Try the lighter assignments first; this is a starting sequence, not a new merit ranking."
+    },
+    {
+      "id": "tragedy",
+      "title": "Tragedy & difficult choices",
+      "modules": [
+        "tragedy",
+        "aristotle",
+        "shakespeare"
+      ],
+      "body": "Start with a play before reading theory. Use the House of Atreus context card and distinguish performance from philosophical analysis."
+    },
+    {
+      "id": "roman",
+      "title": "Roman history & public life",
+      "modules": [
+        "republic-history",
+        "cicero",
+        "empire"
+      ],
+      "body": "Read historical narrative alongside a Roman participant's arguments. Add material culture through Yale's architecture archive."
+    },
+    {
+      "id": "philosophy",
+      "title": "Philosophy & how to live",
+      "modules": [
+        "socrates",
+        "republic",
+        "aristotle",
+        "hellenistic",
+        "stoics"
+      ],
+      "body": "Move from questioning to competing accounts of a good life. The listening guide supplies optional companions."
+    },
+    {
+      "id": "myth",
+      "title": "Mythology & epic",
+      "modules": [
+        "hesiod",
+        "odyssey",
+        "iliad",
+        "ovid"
+      ],
+      "body": "Creation, homecoming, war and transformation. Treat different poetic versions as alternatives, not one consistent mythology."
+    }
+  ],
+  "module_works": {
+    "iliad": [
+      "W001"
+    ],
+    "odyssey": [
+      "W002"
+    ],
+    "hesiod": [
+      "W016",
+      "W028"
+    ],
+    "herodotus": [
+      "W007"
+    ],
+    "tragedy": [
+      "W006",
+      "W010",
+      "W011",
+      "W012",
+      "W019",
+      "W053",
+      "W054",
+      "W073",
+      "W074",
+      "W115",
+      "W116",
+      "W148",
+      "W149"
+    ],
+    "comedy": [
+      "W038",
+      "W047",
+      "W075",
+      "W113"
+    ],
+    "thucydides": [
+      "W008"
+    ],
+    "socrates": [
+      "W013",
+      "W030",
+      "W066",
+      "W067",
+      "W089"
+    ],
+    "republic": [
+      "W004",
+      "W015",
+      "W039",
+      "W040",
+      "W065",
+      "W093",
+      "W094"
+    ],
+    "aristotle": [
+      "W009",
+      "W021",
+      "W024",
+      "W068",
+      "W069"
+    ],
+    "rhetoric": [
+      "W029",
+      "W031",
+      "W045",
+      "W064"
+    ],
+    "hellenistic": [
+      "W014",
+      "W042",
+      "W096",
+      "W168",
+      "W169"
+    ],
+    "alexander": [
+      "W020",
+      "W092"
+    ],
+    "republic-history": [
+      "W026",
+      "W036",
+      "W055",
+      "W056",
+      "W141"
+    ],
+    "cicero": [
+      "W022",
+      "W080",
+      "W081",
+      "W102",
+      "W109",
+      "W140"
+    ],
+    "aeneid": [
+      "W003",
+      "W037",
+      "W046"
+    ],
+    "ovid": [
+      "W005",
+      "W049",
+      "W084",
+      "W118"
+    ],
+    "stoics": [
+      "W032",
+      "W034",
+      "W041",
+      "W103",
+      "W154"
+    ],
+    "empire": [
+      "W027",
+      "W057",
+      "W058",
+      "W143",
+      "W144",
+      "W203"
+    ],
+    "augustine": [
+      "W023",
+      "W083",
+      "W211"
+    ],
+    "dante": [
+      "W050"
+    ],
+    "shakespeare": [
+      "W072",
+      "W227",
+      "W228"
+    ],
+    "milton": [
+      "W112"
+    ],
+    "walcott": [
+      "W120"
+    ]
+  },
+  "contexts": [
+    {
+      "id": "troy",
+      "title": "Before Homer: the Trojan War",
+      "body": "Greek forces besiege Troy; Achilles and Agamemnon are on the Greek side, Hector and Priam on the Trojan side. The Iliad opens with a quarrel within the Greek camp, not the beginning of the war. Read these narratives as poetry and myth, not a verified campaign chronicle.",
+      "modules": [
+        "iliad",
+        "odyssey",
+        "aeneid"
+      ],
+      "sources": [
+        "iliad",
+        "agamemnon"
+      ],
+      "task": "Keep a two-column list of Greek and Trojan characters. Ask who pays for a leader's honour."
+    },
+    {
+      "id": "atreus",
+      "title": "The House of Atreus",
+      "body": "Atreus and Thyestes are brothers; Agamemnon and Menelaus are Atreus' sons. Agamemnon's sacrifice of his daughter Iphigenia and his return to Clytemnestra connect war abroad to violence at home. The Oresteia develops the problem of retaliatory justice. Warning: source introductions reveal major plot events.",
+      "modules": [
+        "tragedy"
+      ],
+      "sources": [
+        "agamemnon"
+      ],
+      "task": "Sketch the family before Agamemnon, then mark each speaker's account of responsibility."
+    },
+    {
+      "id": "athens",
+      "title": "Athens: democracy, empire and exclusion",
+      "body": "Read the polis as a civic community as well as a physical place. Pair the history of Athenian institutions with their imperial setting; do not equate ancient citizenship with universal modern political participation. Yale's rise-of-Athens, democracy and empire sessions offer a study sequence.",
+      "modules": [
+        "herodotus",
+        "thucydides",
+        "socrates",
+        "comedy"
+      ],
+      "sources": [
+        "yale-greece"
+      ],
+      "task": "While reading, ask who can speak and decide, and whose labour or experience is missing."
+    },
+    {
+      "id": "rome",
+      "title": "Reading the Roman Republic critically",
+      "body": "Separate the events a Roman narrative describes from the author's later vantage point. Read Livy, Cicero and the imperial historians against one another rather than treating 'Rome' as an unchanging political system. Start with the syllabus assignments; use architecture to ask how authority occupies public space.",
+      "modules": [
+        "republic-history",
+        "cicero",
+        "empire"
+      ],
+      "sources": [
+        "oxford",
+        "yale-rome"
+      ],
+      "task": "For each source note: period described, time of composition, genre and possible audience."
+    }
+  ],
+  "glossary": [
+    {
+      "id": "polis",
+      "title": "Polis · πόλις",
+      "body": "A city-state or civic community, not simply a built-up city. Example: compare a description of Athens' buildings with an argument about who belongs to its citizen body. Meaning depends on author and context.",
+      "modules": [
+        "thucydides",
+        "republic"
+      ],
+      "sources": [
+        "yale-greece"
+      ],
+      "task": ""
+    },
+    {
+      "id": "arete",
+      "title": "Aretē · ἀρετή",
+      "body": "Excellence or virtue. Ask 'excellence at what?' rather than automatically importing a modern moral sense. Aristotle's ethical account concerns formed dispositions and activity, not just reputation or isolated good intentions.",
+      "modules": [
+        "iliad",
+        "aristotle"
+      ],
+      "sources": [
+        "ethics"
+      ],
+      "task": ""
+    },
+    {
+      "id": "pietas",
+      "title": "Pietas",
+      "body": "Dutiful regard toward gods, family and community. At Aeneid 1.10, the description of Aeneas invites scrutiny of obligations and their costs. 'Piety' alone can sound too narrowly religious in modern English.",
+      "modules": [
+        "aeneid"
+      ],
+      "sources": [
+        "aeneid-notes"
+      ],
+      "task": ""
+    },
+    {
+      "id": "logos",
+      "title": "Logos · λόγος",
+      "body": "Depending on context: speech, account, argument or reason. Heraclitus' use is especially debated. Do not replace every occurrence with a single metaphysical definition; compare how two translations handle the same sentence.",
+      "modules": [
+        "socrates",
+        "republic",
+        "hellenistic"
+      ],
+      "sources": [
+        "heraclitus"
+      ],
+      "task": ""
+    },
+    {
+      "id": "ataraxia",
+      "title": "Ataraxia · ἀταραξία",
+      "body": "Freedom from mental disturbance or tranquility, important to Epicurean accounts of living well. It is not simply emotional numbness, and the goals and methods of different Hellenistic schools must not be collapsed together.",
+      "modules": [
+        "hellenistic",
+        "stoics"
+      ],
+      "sources": [
+        "epicurus"
+      ],
+      "task": ""
+    },
+    {
+      "id": "eudaimonia",
+      "title": "Eudaimonia · εὐδαιμονία",
+      "body": "Often translated as happiness or flourishing. In Aristotle, consider a life and its activities rather than a passing pleasant mood. Ask what a translation gains and loses with each English choice.",
+      "modules": [
+        "aristotle"
+      ],
+      "sources": [
+        "ethics"
+      ],
+      "task": ""
+    }
+  ],
+  "connections": [
+    {
+      "id": "epic-afterlives",
+      "title": "Homer → Virgil → Dante",
+      "body": "The Aeneid's opening joins war and a travelling hero, inviting comparison with both Homeric epics. Continue to Inferno 1, where Virgil becomes Dante's guide. These are transformations of authority, not a claim that later works merely copy earlier ones. The Dante commentary link could not be verified this pass; the pairing remains an editorial reading exercise.",
+      "modules": [
+        "iliad",
+        "odyssey",
+        "aeneid",
+        "dante"
+      ],
+      "sources": [
+        "aeneid-notes",
+        "dante"
+      ],
+      "task": "Compare epic openings, then ask why Dante needs a pagan poet as guide."
+    },
+    {
+      "id": "socrates-stages",
+      "title": "Aristophanes ↔ Plato ↔ Xenophon",
+      "body": "Different genres construct different Socrates figures. Pair Clouds with Apology and the podcast's discussion of accounts outside Plato. Disagreement is useful evidence, not a reason to merge the portraits into one reliable biography.",
+      "modules": [
+        "comedy",
+        "socrates"
+      ],
+      "sources": [
+        "jowett",
+        "hop-socrates"
+      ],
+      "task": "Record one difference in characterization and one limit of each genre."
+    },
+    {
+      "id": "transmission",
+      "title": "Greek philosophy → Syriac & Arabic traditions",
+      "body": "The podcast's translation-movement episode offers a route beyond a Greece-to-Rome-to-modern-Europe story. Track languages, translators and institutions, not just famous names; translation can also be interpretation and philosophical development.",
+      "modules": [
+        "aristotle",
+        "augustine"
+      ],
+      "sources": [
+        "hop-translation"
+      ],
+      "task": "After listening, make a short chain of named texts and mediators; distinguish claims you checked from questions to pursue."
+    },
+    {
+      "id": "tragedy-afterlives",
+      "title": "Ancient tragedy → modern reworkings",
+      "body": "Use the Top 250's Antigone, Bacchae and modern reception entries to compare what changes when a conflict is relocated. Anouilh's Antigone and Soyinka's Bacchae are different adaptation branches, not a linear chain from one to the other. Their inclusion and identities come from your supplied ranking, not a fresh comparative reading.",
+      "modules": [
+        "tragedy",
+        "shakespeare"
+      ],
+      "sources": [
+        "mit-tragedy"
+      ],
+      "task": "Choose one ancient play and its named reworking. Compare chorus, authority, violence and ending."
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "odyssey-compare",
+      "title": "Odyssey: Wilson or Butler?",
+      "body": "Wilson: contemporary English verse, with a sustained metrical design; consult the independent review for both strengths and reservations. Butler: freely accessible older prose with all 24 books indexed. For a first reading, sample both openings and choose the voice that sustains your attention. Wilson is a complete commercial translation; the free archive is not a replacement for modern notes. Difficulty is an editorial reading-fit judgment, not a score.",
+      "modules": [
+        "odyssey"
+      ],
+      "sources": [
+        "wilson",
+        "wilson-review",
+        "butler"
+      ],
+      "task": "Compare ten lines or one paragraph: syntax, epithets, rhythm and treatment of status. Record your translator in the commonplace book."
+    },
+    {
+      "id": "plato-compare",
+      "title": "Plato: free Jowett or a modern study edition?",
+      "body": "Jowett's Apology is available free in older English prose; the page provides little study apparatus. The existing guide's Grube/Cooper Five Dialogues is a modern study-edition option, but its publisher page was blocked in this pass: confirm contents, notes and edition before buying. Five dialogues is not Plato's complete works. Do not assume an older or more literal-sounding translation is automatically easier or more accurate.",
+      "modules": [
+        "socrates"
+      ],
+      "sources": [
+        "jowett",
+        "grube"
+      ],
+      "task": "Read the opening defence and track claims versus evidence. Compare Stephanus references where your edition supplies them."
+    },
+    {
+      "id": "aeneid-compare",
+      "title": "Aeneid: translation versus close-reading aid",
+      "body": "Dryden offers an older English verse translation, with the poem's books indexed online. Dickinson provides selected Latin passages with grammatical and interpretive notes, not a complete English substitute. Use a full translation for narrative continuity and Dickinson only if you want to examine the original. The Latin commentary is the more demanding language route.",
+      "modules": [
+        "aeneid"
+      ],
+      "sources": [
+        "dryden",
+        "aeneid-notes"
+      ],
+      "task": "Compare the opening's war, wandering and pietas; distinguish the translator's wording from the Latin note."
+    }
+  ],
+  "resources": [
+    {
+      "id": "course-bbk-studies",
+      "title": "Birkbeck · Classical Studies BA",
+      "body": "A broad route through Greek and Roman literature, history, archaeology, philosophy and reception. The 2026–27 page lists on-campus full-time and part-time evening study, with one compulsory language module and beginner language options. Use the public module outlines to explore an academic curriculum; the degree itself requires application and fees, and is not a free online course.",
+      "modules": [
+        "herodotus",
+        "tragedy",
+        "empire"
+      ],
+      "sources": [
+        "bbk-studies"
+      ],
+      "task": "Compare the module menu with your interests: texts, political history, material culture or later reception."
+    },
+    {
+      "id": "course-bbk-classics",
+      "title": "Birkbeck · Classics BA",
+      "body": "The more language-focused companion to Classical Studies: Greek and/or Latin alongside ancient culture, including higher-level set-book reading. A useful guide if you want original-language study to become central to your education. Public descriptions are accessible, but university teaching and assessment require enrolment. Check the current programme, entry requirements, timetable and fees directly.",
+      "modules": [
+        "iliad",
+        "aeneid",
+        "socrates"
+      ],
+      "sources": [
+        "bbk-classics"
+      ],
+      "task": "Use the Languages tab to establish a starting level before choosing introductory, intermediate or set-book study."
+    },
+    {
+      "id": "course-bbk-short",
+      "title": "Birkbeck · Greek & Latin short courses",
+      "body": "The 2026–27 Classics directory lists introductory Greek and Latin, intermediate Latin and Greek/Latin set-book options, including non-credit introductory Latin. Introduction to Ancient Greek explicitly requires no previous Greek and uses Reading Greek. Set-book study is a different level from an introduction. These are enrolment-based courses: confirm available places, delivery format and fees; no free recordings or online attendance are assumed.",
+      "modules": [
+        "iliad",
+        "socrates",
+        "aeneid",
+        "cicero"
+      ],
+      "sources": [
+        "bbk-short",
+        "bbk-greek"
+      ],
+      "task": "Start with the current short-course directory, then inspect the individual course's prerequisites and schedule."
+    },
+    {
+      "id": "material-bbk",
+      "title": "Birkbeck Library · Online research materials",
+      "body": "A gateway to subject guides, databases and digital resources. The directory also links a Free Access to Online Resources guide, whose direct page was rate-limited during this check. Distinguish open-access items from licensed databases and Birkbeck-only trials. This is a resource-discovery guide, not a promise that every linked book, journal or database is available without a university login.",
+      "modules": [
+        "herodotus",
+        "republic-history",
+        "aristotle",
+        "dante"
+      ],
+      "sources": [
+        "bbk-library",
+        "bbk-free"
+      ],
+      "task": "For a reading question, find one primary text and one scholarly discussion, recording each resource's access conditions."
+    },
+    {
+      "id": "course-yale",
+      "title": "Yale · Introduction to Ancient Greek History",
+      "body": "Free archived undergraduate course, Donald Kagan, recorded Fall 2007. Syllabus and lecture index; read Herodotus/Thucydides alongside selected sessions. Begin with the introduction, then rise of the polis, Athens and democracy. No live teaching or course credit through this archive; assigned books may need library access.",
+      "modules": [
+        "herodotus",
+        "thucydides"
+      ],
+      "sources": [
+        "yale-greece"
+      ],
+      "task": ""
+    },
+    {
+      "id": "course-architecture",
+      "title": "Yale · Roman Architecture",
+      "body": "Free recorded undergraduate course, Diana E. E. Kleiner, Spring 2009. Start with early urbanism, then Pompeii and Augustan Rome. Useful visual companion to Roman reading. Materials are archived; not every video was played, and associated books are separate.",
+      "modules": [
+        "republic-history",
+        "empire"
+      ],
+      "sources": [
+        "yale-rome"
+      ],
+      "task": ""
+    },
+    {
+      "id": "course-tragedy",
+      "title": "MIT OpenCourseWare · Tragedy",
+      "body": "Free Fall 2002 undergraduate syllabus with readings and written assignments. Start with the Oresteia and compare one play with Aristotle's Poetics. This is an independent-study course pack, not a verified video series or access to marking.",
+      "modules": [
+        "tragedy",
+        "aristotle",
+        "shakespeare"
+      ],
+      "sources": [
+        "mit-tragedy"
+      ],
+      "task": ""
+    },
+    {
+      "id": "course-oxford",
+      "title": "Oxford / Balliol · Classics reading guide",
+      "body": "Free preparatory reading lists showing the mix of language, literature and context expected before university study. Use as an orientation checklist, not as a requirement to buy everything or a substitute for a degree. Teaching access is not included.",
+      "modules": [
+        "iliad",
+        "aeneid",
+        "socrates"
+      ],
+      "sources": [
+        "oxford"
+      ],
+      "task": ""
+    },
+    {
+      "id": "course-greek",
+      "title": "Open University · Start Ancient Greek",
+      "body": "Free OpenLearn introduction: alphabet, words, simple sentences and historical context. Begin with the alphabet sessions before the app's language milestones. Registration is optional for reading but needed for some tracking and activities; this is a taster, not fluency.",
+      "modules": [
+        "iliad",
+        "socrates"
+      ],
+      "sources": [
+        "ou-greek"
+      ],
+      "task": ""
+    },
+    {
+      "id": "course-latin",
+      "title": "Open University · Start Classical Latin",
+      "body": "Free introductory OpenLearn material. Pair short language sessions with a translation-based reading route rather than postponing all reading until you know Latin. Provider recognition and online activities remain separate from your Marginalia progress.",
+      "modules": [
+        "aeneid",
+        "cicero"
+      ],
+      "sources": [
+        "ou-latin"
+      ],
+      "task": ""
+    },
+    {
+      "id": "material-dcc",
+      "title": "Dickinson · Texts, notes, vocabulary and audio",
+      "body": "Free teaching collection for original-language reading. Choose one annotated passage and consult its vocabulary/grammar rather than attempting a whole unprepared text. Text coverage and media availability differ by work.",
+      "modules": [
+        "aeneid",
+        "rhetoric"
+      ],
+      "sources": [
+        "dcc",
+        "aeneid-notes"
+      ],
+      "task": ""
+    },
+    {
+      "id": "material-dante",
+      "title": "Columbia · Digital Dante",
+      "body": "University-hosted text/commentary resource to explore beside the Dante module. The linked page presented an access challenge during this check; availability and commentary content are not verified here. Kept visible as a lead rather than silently advertised as checked.",
+      "modules": [
+        "dante"
+      ],
+      "sources": [
+        "dante"
+      ],
+      "task": ""
+    }
+  ],
+  "listening": [
+    {
+      "id": "socrates",
+      "title": "15 · Socrates without Plato",
+      "body": "Before or after Apology: compare the sources used to reconstruct Socrates.",
+      "modules": [
+        "socrates",
+        "comedy"
+      ],
+      "sources": [
+        "hop-socrates"
+      ],
+      "task": "What differs between a comic character, a philosophical speaker and a historical person?"
+    },
+    {
+      "id": "plato",
+      "title": "25 · Soul and the City",
+      "body": "Pair with the Republic module; consider the relationship between an individual and a political community.",
+      "modules": [
+        "republic"
+      ],
+      "sources": [
+        "hop-plato"
+      ],
+      "task": "State one analogy and a possible objection."
+    },
+    {
+      "id": "epicurus",
+      "title": "55 · Epicurus and his Principles",
+      "body": "A starting point for the Hellenistic module, before comparing schools.",
+      "modules": [
+        "hellenistic"
+      ],
+      "sources": [
+        "hop-epicurus"
+      ],
+      "task": "List one claim you want to verify in a primary text."
+    },
+    {
+      "id": "epictetus",
+      "title": "66 · Epictetus",
+      "body": "Pair with the Roman Stoics assignment. Keep listening completion separate from reading.",
+      "modules": [
+        "stoics"
+      ],
+      "sources": [
+        "hop-epictetus"
+      ],
+      "task": "Choose one practical claim; describe when applying it might be difficult."
+    },
+    {
+      "id": "augustine",
+      "title": "110 · Augustine's Confessions",
+      "body": "Companion to Augustine's reflective prose and questions about time.",
+      "modules": [
+        "augustine"
+      ],
+      "sources": [
+        "hop-augustine"
+      ],
+      "task": "Record one passage reference to revisit after listening."
+    },
+    {
+      "id": "translation",
+      "title": "122 · From Greek to Syriac and Arabic",
+      "body": "Continue beyond the ancient syllabus through the transmission of philosophical texts.",
+      "modules": [
+        "aristotle",
+        "augustine"
+      ],
+      "sources": [
+        "hop-translation"
+      ],
+      "task": "Identify a mediator or language that your prior account left out."
+    }
+  ]
+}

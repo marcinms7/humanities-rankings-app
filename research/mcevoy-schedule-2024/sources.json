@@ -1,0 +1,24 @@
+{
+  "target_id": "mcevoy-schedule-2024",
+  "status": "named_external_list_import",
+  "sources": [
+    {
+      "source_id": "COLLECTION-REPAIR-01",
+      "underlying_source_id": "collection-repair:https://www.patreon.com/hardcoreliterature/sitemap",
+      "title": "Hardcore Literature · 2024 book-club readings — source contents",
+      "canonical_url": "https://www.patreon.com/hardcoreliterature/sitemap",
+      "source_family": "published_collection",
+      "target_ids": [
+        "mcevoy-schedule-2024"
+      ],
+      "relevance_by_target": {
+        "mcevoy-schedule-2024": "Faithful 2024 public archive membership, ordered by first visible dated occurrence. Includes big reads and named supporting plays, poems and stories. Dates are lecture dates, not reconstructed monthly assignments. Public sitemap starts February 2022; member-only syllabus contents were not read."
+      },
+      "evidence_notes": "Faithful 2024 public archive membership, ordered by first visible dated occurrence. Includes big reads and named supporting plays, poems and stories. Dates are lecture dates, not reconstructed monthly assignments. Public sitemap starts February 2022; member-only syllabus contents were not read.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Named-list membership evidence only; no independent quality assessment or paid lecture content review."
+    }
+  ],
+  "saved_at": "2026-09-13"
+}

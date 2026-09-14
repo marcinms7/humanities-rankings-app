@@ -1,0 +1,907 @@
+{
+  "target_id": "play-all-time",
+  "source_report": "research/incoming/play-all-time/2026-09-13-owner-paste/report.txt",
+  "reported_source_count": 266,
+  "candidates": [
+    {
+      "position": 1,
+      "reported_title": "Hamlet",
+      "reported_author": "William Shakespeare",
+      "raw_line": "1. Hamlet — William Shakespeare"
+    },
+    {
+      "position": 2,
+      "reported_title": "Oedipus Rex (Oedipus the King)",
+      "reported_author": "Sophocles",
+      "raw_line": "2. Oedipus Rex (Oedipus the King) — Sophocles"
+    },
+    {
+      "position": 3,
+      "reported_title": "King Lear",
+      "reported_author": "William Shakespeare",
+      "raw_line": "3. King Lear — William Shakespeare"
+    },
+    {
+      "position": 4,
+      "reported_title": "Waiting for Godot",
+      "reported_author": "Samuel Beckett",
+      "raw_line": "4. Waiting for Godot — Samuel Beckett"
+    },
+    {
+      "position": 5,
+      "reported_title": "A Doll's House",
+      "reported_author": "Henrik Ibsen",
+      "raw_line": "5. A Doll's House — Henrik Ibsen"
+    },
+    {
+      "position": 6,
+      "reported_title": "The Cherry Orchard",
+      "reported_author": "Anton Chekhov",
+      "raw_line": "6. The Cherry Orchard — Anton Chekhov"
+    },
+    {
+      "position": 7,
+      "reported_title": "The Oresteia",
+      "reported_author": "Aeschylus",
+      "raw_line": "7. The Oresteia — Aeschylus"
+    },
+    {
+      "position": 8,
+      "reported_title": "Macbeth",
+      "reported_author": "William Shakespeare",
+      "raw_line": "8. Macbeth — William Shakespeare"
+    },
+    {
+      "position": 9,
+      "reported_title": "Death of a Salesman",
+      "reported_author": "Arthur Miller",
+      "raw_line": "9. Death of a Salesman — Arthur Miller"
+    },
+    {
+      "position": 10,
+      "reported_title": "Antigone",
+      "reported_author": "Sophocles",
+      "raw_line": "10. Antigone — Sophocles"
+    },
+    {
+      "position": 11,
+      "reported_title": "A Streetcar Named Desire",
+      "reported_author": "Tennessee Williams",
+      "raw_line": "11. A Streetcar Named Desire — Tennessee Williams"
+    },
+    {
+      "position": 12,
+      "reported_title": "Medea",
+      "reported_author": "Euripides",
+      "raw_line": "12. Medea — Euripides"
+    },
+    {
+      "position": 13,
+      "reported_title": "Long Day's Journey into Night",
+      "reported_author": "Eugene O'Neill",
+      "raw_line": "13. Long Day's Journey into Night — Eugene O'Neill"
+    },
+    {
+      "position": 14,
+      "reported_title": "The Importance of Being Earnest",
+      "reported_author": "Oscar Wilde",
+      "raw_line": "14. The Importance of Being Earnest — Oscar Wilde"
+    },
+    {
+      "position": 15,
+      "reported_title": "Uncle Vanya",
+      "reported_author": "Anton Chekhov",
+      "raw_line": "15. Uncle Vanya — Anton Chekhov"
+    },
+    {
+      "position": 16,
+      "reported_title": "Tartuffe",
+      "reported_author": "Molière",
+      "raw_line": "16. Tartuffe — Molière"
+    },
+    {
+      "position": 17,
+      "reported_title": "The Seagull",
+      "reported_author": "Anton Chekhov",
+      "raw_line": "17. The Seagull — Anton Chekhov"
+    },
+    {
+      "position": 18,
+      "reported_title": "Who's Afraid of Virginia Woolf?",
+      "reported_author": "Edward Albee",
+      "raw_line": "18. Who's Afraid of Virginia Woolf? — Edward Albee"
+    },
+    {
+      "position": 19,
+      "reported_title": "A Raisin in the Sun",
+      "reported_author": "Lorraine Hansberry",
+      "raw_line": "19. A Raisin in the Sun — Lorraine Hansberry"
+    },
+    {
+      "position": 20,
+      "reported_title": "Angels in America",
+      "reported_author": "Tony Kushner",
+      "raw_line": "20. Angels in America — Tony Kushner"
+    },
+    {
+      "position": 21,
+      "reported_title": "The Recognition of Shakuntala (Abhijñānaśākuntalam)",
+      "reported_author": "Kālidāsa",
+      "raw_line": "21. The Recognition of Shakuntala (Abhijñānaśākuntalam) — Kālidāsa"
+    },
+    {
+      "position": 22,
+      "reported_title": "Twelfth Night",
+      "reported_author": "William Shakespeare",
+      "raw_line": "22. Twelfth Night — William Shakespeare"
+    },
+    {
+      "position": 23,
+      "reported_title": "Three Sisters",
+      "reported_author": "Anton Chekhov",
+      "raw_line": "23. Three Sisters — Anton Chekhov"
+    },
+    {
+      "position": 24,
+      "reported_title": "Hedda Gabler",
+      "reported_author": "Henrik Ibsen",
+      "raw_line": "24. Hedda Gabler — Henrik Ibsen"
+    },
+    {
+      "position": 25,
+      "reported_title": "The Bacchae",
+      "reported_author": "Euripides",
+      "raw_line": "25. The Bacchae — Euripides"
+    },
+    {
+      "position": 26,
+      "reported_title": "Mother Courage and Her Children",
+      "reported_author": "Bertolt Brecht",
+      "raw_line": "26. Mother Courage and Her Children — Bertolt Brecht"
+    },
+    {
+      "position": 27,
+      "reported_title": "Othello",
+      "reported_author": "William Shakespeare",
+      "raw_line": "27. Othello — William Shakespeare"
+    },
+    {
+      "position": 28,
+      "reported_title": "Six Characters in Search of an Author",
+      "reported_author": "Luigi Pirandello",
+      "raw_line": "28. Six Characters in Search of an Author — Luigi Pirandello"
+    },
+    {
+      "position": 29,
+      "reported_title": "The Misanthrope",
+      "reported_author": "Molière",
+      "raw_line": "29. The Misanthrope — Molière"
+    },
+    {
+      "position": 30,
+      "reported_title": "The Wild Duck",
+      "reported_author": "Henrik Ibsen",
+      "raw_line": "30. The Wild Duck — Henrik Ibsen"
+    },
+    {
+      "position": 31,
+      "reported_title": "The House of Bernarda Alba",
+      "reported_author": "Federico García Lorca",
+      "raw_line": "31. The House of Bernarda Alba — Federico García Lorca"
+    },
+    {
+      "position": 32,
+      "reported_title": "Life Is a Dream",
+      "reported_author": "Pedro Calderón de la Barca",
+      "raw_line": "32. Life Is a Dream — Pedro Calderón de la Barca"
+    },
+    {
+      "position": 33,
+      "reported_title": "Faust (Parts I & II)",
+      "reported_author": "Johann Wolfgang von Goethe",
+      "raw_line": "33. Faust (Parts I & II) — Johann Wolfgang von Goethe"
+    },
+    {
+      "position": 34,
+      "reported_title": "The Peony Pavilion",
+      "reported_author": "Tang Xianzu",
+      "raw_line": "34. The Peony Pavilion — Tang Xianzu"
+    },
+    {
+      "position": 35,
+      "reported_title": "Romeo and Juliet",
+      "reported_author": "William Shakespeare",
+      "raw_line": "35. Romeo and Juliet — William Shakespeare"
+    },
+    {
+      "position": 36,
+      "reported_title": "The Playboy of the Western World",
+      "reported_author": "J. M. Synge",
+      "raw_line": "36. The Playboy of the Western World — J. M. Synge"
+    },
+    {
+      "position": 37,
+      "reported_title": "The Glass Menagerie",
+      "reported_author": "Tennessee Williams",
+      "raw_line": "37. The Glass Menagerie — Tennessee Williams"
+    },
+    {
+      "position": 38,
+      "reported_title": "The Crucible",
+      "reported_author": "Arthur Miller",
+      "raw_line": "38. The Crucible — Arthur Miller"
+    },
+    {
+      "position": 39,
+      "reported_title": "The Good Person of Szechwan",
+      "reported_author": "Bertolt Brecht",
+      "raw_line": "39. The Good Person of Szechwan — Bertolt Brecht"
+    },
+    {
+      "position": 40,
+      "reported_title": "Woyzeck",
+      "reported_author": "Georg Büchner",
+      "raw_line": "40. Woyzeck — Georg Büchner"
+    },
+    {
+      "position": 41,
+      "reported_title": "The Tempest",
+      "reported_author": "William Shakespeare",
+      "raw_line": "41. The Tempest — William Shakespeare"
+    },
+    {
+      "position": 42,
+      "reported_title": "Pygmalion",
+      "reported_author": "George Bernard Shaw",
+      "raw_line": "42. Pygmalion — George Bernard Shaw"
+    },
+    {
+      "position": 43,
+      "reported_title": "Blood Wedding",
+      "reported_author": "Federico García Lorca",
+      "raw_line": "43. Blood Wedding — Federico García Lorca"
+    },
+    {
+      "position": 44,
+      "reported_title": "The Homecoming",
+      "reported_author": "Harold Pinter",
+      "raw_line": "44. The Homecoming — Harold Pinter"
+    },
+    {
+      "position": 45,
+      "reported_title": "Fences",
+      "reported_author": "August Wilson",
+      "raw_line": "45. Fences — August Wilson"
+    },
+    {
+      "position": 46,
+      "reported_title": "Phèdre",
+      "reported_author": "Jean Racine",
+      "raw_line": "46. Phèdre — Jean Racine"
+    },
+    {
+      "position": 47,
+      "reported_title": "Fuenteovejuna",
+      "reported_author": "Lope de Vega",
+      "raw_line": "47. Fuenteovejuna — Lope de Vega"
+    },
+    {
+      "position": 48,
+      "reported_title": "The Government Inspector",
+      "reported_author": "Nikolai Gogol",
+      "raw_line": "48. The Government Inspector — Nikolai Gogol"
+    },
+    {
+      "position": 49,
+      "reported_title": "Top Girls",
+      "reported_author": "Caryl Churchill",
+      "raw_line": "49. Top Girls — Caryl Churchill"
+    },
+    {
+      "position": 50,
+      "reported_title": "Rosencrantz and Guildenstern Are Dead",
+      "reported_author": "Tom Stoppard",
+      "raw_line": "50. Rosencrantz and Guildenstern Are Dead — Tom Stoppard"
+    },
+    {
+      "position": 51,
+      "reported_title": "Miss Julie",
+      "reported_author": "August Strindberg",
+      "raw_line": "51. Miss Julie — August Strindberg"
+    },
+    {
+      "position": 52,
+      "reported_title": "No Exit",
+      "reported_author": "Jean-Paul Sartre",
+      "raw_line": "52. No Exit — Jean-Paul Sartre"
+    },
+    {
+      "position": 53,
+      "reported_title": "The Visit",
+      "reported_author": "Friedrich Dürrenmatt",
+      "raw_line": "53. The Visit — Friedrich Dürrenmatt"
+    },
+    {
+      "position": 54,
+      "reported_title": "Endgame",
+      "reported_author": "Samuel Beckett",
+      "raw_line": "54. Endgame — Samuel Beckett"
+    },
+    {
+      "position": 55,
+      "reported_title": "A Midsummer Night's Dream",
+      "reported_author": "William Shakespeare",
+      "raw_line": "55. A Midsummer Night's Dream — William Shakespeare"
+    },
+    {
+      "position": 56,
+      "reported_title": "Arcadia",
+      "reported_author": "Tom Stoppard",
+      "raw_line": "56. Arcadia — Tom Stoppard"
+    },
+    {
+      "position": 57,
+      "reported_title": "The Bald Soprano",
+      "reported_author": "Eugène Ionesco",
+      "raw_line": "57. The Bald Soprano — Eugène Ionesco"
+    },
+    {
+      "position": 58,
+      "reported_title": "Rhinoceros",
+      "reported_author": "Eugène Ionesco",
+      "raw_line": "58. Rhinoceros — Eugène Ionesco"
+    },
+    {
+      "position": 59,
+      "reported_title": "The Persians",
+      "reported_author": "Aeschylus",
+      "raw_line": "59. The Persians — Aeschylus"
+    },
+    {
+      "position": 60,
+      "reported_title": "Doctor Faustus",
+      "reported_author": "Christopher Marlowe",
+      "raw_line": "60. Doctor Faustus — Christopher Marlowe"
+    },
+    {
+      "position": 61,
+      "reported_title": "Chūshingura (The Treasury of Loyal Retainers)",
+      "reported_author": "Takeda Izumo II, Miyoshi Shōraku & Namiki Senryū",
+      "raw_line": "61. Chūshingura (The Treasury of Loyal Retainers) — Takeda Izumo II, Miyoshi Shōraku & Namiki Senryū"
+    },
+    {
+      "position": 62,
+      "reported_title": "Thunderstorm",
+      "reported_author": "Cao Yu",
+      "raw_line": "62. Thunderstorm — Cao Yu"
+    },
+    {
+      "position": 63,
+      "reported_title": "The School for Scandal",
+      "reported_author": "Richard Brinsley Sheridan",
+      "raw_line": "63. The School for Scandal — Richard Brinsley Sheridan"
+    },
+    {
+      "position": 64,
+      "reported_title": "Volpone",
+      "reported_author": "Ben Jonson",
+      "raw_line": "64. Volpone — Ben Jonson"
+    },
+    {
+      "position": 65,
+      "reported_title": "The Orphan of Zhao",
+      "reported_author": "Ji Junxiang",
+      "raw_line": "65. The Orphan of Zhao — Ji Junxiang"
+    },
+    {
+      "position": 66,
+      "reported_title": "The Iceman Cometh",
+      "reported_author": "Eugene O'Neill",
+      "raw_line": "66. The Iceman Cometh — Eugene O'Neill"
+    },
+    {
+      "position": 67,
+      "reported_title": "The Lower Depths",
+      "reported_author": "Maxim Gorky",
+      "raw_line": "67. The Lower Depths — Maxim Gorky"
+    },
+    {
+      "position": 68,
+      "reported_title": "Saint Joan",
+      "reported_author": "George Bernard Shaw",
+      "raw_line": "68. Saint Joan — George Bernard Shaw"
+    },
+    {
+      "position": 69,
+      "reported_title": "Machinal",
+      "reported_author": "Sophie Treadwell",
+      "raw_line": "69. Machinal — Sophie Treadwell"
+    },
+    {
+      "position": 70,
+      "reported_title": "The Caucasian Chalk Circle",
+      "reported_author": "Bertolt Brecht",
+      "raw_line": "70. The Caucasian Chalk Circle — Bertolt Brecht"
+    },
+    {
+      "position": 71,
+      "reported_title": "Death and the King's Horseman",
+      "reported_author": "Wole Soyinka",
+      "raw_line": "71. Death and the King's Horseman — Wole Soyinka"
+    },
+    {
+      "position": 72,
+      "reported_title": "\"Master Harold\"...and the Boys",
+      "reported_author": "Athol Fugard",
+      "raw_line": "72. \"Master Harold\"...and the Boys — Athol Fugard"
+    },
+    {
+      "position": 73,
+      "reported_title": "The Love Suicides at Sonezaki",
+      "reported_author": "Chikamatsu Monzaemon",
+      "raw_line": "73. The Love Suicides at Sonezaki — Chikamatsu Monzaemon"
+    },
+    {
+      "position": 74,
+      "reported_title": "Atsumori",
+      "reported_author": "Zeami (attributed)",
+      "raw_line": "74. Atsumori — Zeami (attributed)"
+    },
+    {
+      "position": 75,
+      "reported_title": "Teahouse",
+      "reported_author": "Lao She",
+      "raw_line": "75. Teahouse — Lao She"
+    },
+    {
+      "position": 76,
+      "reported_title": "Tughlaq",
+      "reported_author": "Girish Karnad",
+      "raw_line": "76. Tughlaq — Girish Karnad"
+    },
+    {
+      "position": 77,
+      "reported_title": "Ghashiram Kotwal",
+      "reported_author": "Vijay Tendulkar",
+      "raw_line": "77. Ghashiram Kotwal — Vijay Tendulkar"
+    },
+    {
+      "position": 78,
+      "reported_title": "The Dybbuk",
+      "reported_author": "S. Ansky",
+      "raw_line": "78. The Dybbuk — S. Ansky"
+    },
+    {
+      "position": 79,
+      "reported_title": "The Trojan Women",
+      "reported_author": "Euripides",
+      "raw_line": "79. The Trojan Women — Euripides"
+    },
+    {
+      "position": 80,
+      "reported_title": "Lysistrata",
+      "reported_author": "Aristophanes",
+      "raw_line": "80. Lysistrata — Aristophanes"
+    },
+    {
+      "position": 81,
+      "reported_title": "The Injustice to Dou E (Snow in Midsummer)",
+      "reported_author": "Guan Hanqing",
+      "raw_line": "81. The Injustice to Dou E (Snow in Midsummer) — Guan Hanqing"
+    },
+    {
+      "position": 82,
+      "reported_title": "Everyman",
+      "reported_author": "Anonymous",
+      "raw_line": "82. Everyman — Anonymous"
+    },
+    {
+      "position": 83,
+      "reported_title": "The Duchess of Malfi",
+      "reported_author": "John Webster",
+      "raw_line": "83. The Duchess of Malfi — John Webster"
+    },
+    {
+      "position": 84,
+      "reported_title": "The Rover",
+      "reported_author": "Aphra Behn",
+      "raw_line": "84. The Rover — Aphra Behn"
+    },
+    {
+      "position": 85,
+      "reported_title": "The Servant of Two Masters",
+      "reported_author": "Carlo Goldoni",
+      "raw_line": "85. The Servant of Two Masters — Carlo Goldoni"
+    },
+    {
+      "position": 86,
+      "reported_title": "The Marriage of Figaro",
+      "reported_author": "Pierre Beaumarchais",
+      "raw_line": "86. The Marriage of Figaro — Pierre Beaumarchais"
+    },
+    {
+      "position": 87,
+      "reported_title": "Le Cid",
+      "reported_author": "Pierre Corneille",
+      "raw_line": "87. Le Cid — Pierre Corneille"
+    },
+    {
+      "position": 88,
+      "reported_title": "The Robbers",
+      "reported_author": "Friedrich Schiller",
+      "raw_line": "88. The Robbers — Friedrich Schiller"
+    },
+    {
+      "position": 89,
+      "reported_title": "Danton's Death",
+      "reported_author": "Georg Büchner",
+      "raw_line": "89. Danton's Death — Georg Büchner"
+    },
+    {
+      "position": 90,
+      "reported_title": "Ghosts",
+      "reported_author": "Henrik Ibsen",
+      "raw_line": "90. Ghosts — Henrik Ibsen"
+    },
+    {
+      "position": 91,
+      "reported_title": "An Enemy of the People",
+      "reported_author": "Henrik Ibsen",
+      "raw_line": "91. An Enemy of the People — Henrik Ibsen"
+    },
+    {
+      "position": 92,
+      "reported_title": "Spring Awakening",
+      "reported_author": "Frank Wedekind",
+      "raw_line": "92. Spring Awakening — Frank Wedekind"
+    },
+    {
+      "position": 93,
+      "reported_title": "Antony and Cleopatra",
+      "reported_author": "William Shakespeare",
+      "raw_line": "93. Antony and Cleopatra — William Shakespeare"
+    },
+    {
+      "position": 94,
+      "reported_title": "Much Ado About Nothing",
+      "reported_author": "William Shakespeare",
+      "raw_line": "94. Much Ado About Nothing — William Shakespeare"
+    },
+    {
+      "position": 95,
+      "reported_title": "Henry IV, Part 1",
+      "reported_author": "William Shakespeare",
+      "raw_line": "95. Henry IV, Part 1 — William Shakespeare"
+    },
+    {
+      "position": 96,
+      "reported_title": "Richard III",
+      "reported_author": "William Shakespeare",
+      "raw_line": "96. Richard III — William Shakespeare"
+    },
+    {
+      "position": 97,
+      "reported_title": "Cyrano de Bergerac",
+      "reported_author": "Edmond Rostand",
+      "raw_line": "97. Cyrano de Bergerac — Edmond Rostand"
+    },
+    {
+      "position": 98,
+      "reported_title": "Ubu Roi",
+      "reported_author": "Alfred Jarry",
+      "raw_line": "98. Ubu Roi — Alfred Jarry"
+    },
+    {
+      "position": 99,
+      "reported_title": "Juno and the Paycock",
+      "reported_author": "Seán O'Casey",
+      "raw_line": "99. Juno and the Paycock — Seán O'Casey"
+    },
+    {
+      "position": 100,
+      "reported_title": "Our Town",
+      "reported_author": "Thornton Wilder",
+      "raw_line": "100. Our Town — Thornton Wilder"
+    },
+    {
+      "position": 101,
+      "reported_title": "The Maids",
+      "reported_author": "Jean Genet",
+      "raw_line": "101. The Maids — Jean Genet"
+    },
+    {
+      "position": 102,
+      "reported_title": "The Father",
+      "reported_author": "August Strindberg",
+      "raw_line": "102. The Father — August Strindberg"
+    },
+    {
+      "position": 103,
+      "reported_title": "The Alchemist",
+      "reported_author": "Ben Jonson",
+      "raw_line": "103. The Alchemist — Ben Jonson"
+    },
+    {
+      "position": 104,
+      "reported_title": "The Frogs",
+      "reported_author": "Aristophanes",
+      "raw_line": "104. The Frogs — Aristophanes"
+    },
+    {
+      "position": 105,
+      "reported_title": "Electra",
+      "reported_author": "Sophocles",
+      "raw_line": "105. Electra — Sophocles"
+    },
+    {
+      "position": 106,
+      "reported_title": "Happy Days",
+      "reported_author": "Samuel Beckett",
+      "raw_line": "106. Happy Days — Samuel Beckett"
+    },
+    {
+      "position": 107,
+      "reported_title": "All My Sons",
+      "reported_author": "Arthur Miller",
+      "raw_line": "107. All My Sons — Arthur Miller"
+    },
+    {
+      "position": 108,
+      "reported_title": "Cat on a Hot Tin Roof",
+      "reported_author": "Tennessee Williams",
+      "raw_line": "108. Cat on a Hot Tin Roof — Tennessee Williams"
+    },
+    {
+      "position": 109,
+      "reported_title": "A View from the Bridge",
+      "reported_author": "Arthur Miller",
+      "raw_line": "109. A View from the Bridge — Arthur Miller"
+    },
+    {
+      "position": 110,
+      "reported_title": "Look Back in Anger",
+      "reported_author": "John Osborne",
+      "raw_line": "110. Look Back in Anger — John Osborne"
+    },
+    {
+      "position": 111,
+      "reported_title": "The Birthday Party",
+      "reported_author": "Harold Pinter",
+      "raw_line": "111. The Birthday Party — Harold Pinter"
+    },
+    {
+      "position": 112,
+      "reported_title": "The Caretaker",
+      "reported_author": "Harold Pinter",
+      "raw_line": "112. The Caretaker — Harold Pinter"
+    },
+    {
+      "position": 113,
+      "reported_title": "Marat/Sade",
+      "reported_author": "Peter Weiss",
+      "raw_line": "113. Marat/Sade — Peter Weiss"
+    },
+    {
+      "position": 114,
+      "reported_title": "Equus",
+      "reported_author": "Peter Shaffer",
+      "raw_line": "114. Equus — Peter Shaffer"
+    },
+    {
+      "position": 115,
+      "reported_title": "Betrayal",
+      "reported_author": "Harold Pinter",
+      "raw_line": "115. Betrayal — Harold Pinter"
+    },
+    {
+      "position": 116,
+      "reported_title": "Cloud Nine",
+      "reported_author": "Caryl Churchill",
+      "raw_line": "116. Cloud Nine — Caryl Churchill"
+    },
+    {
+      "position": 117,
+      "reported_title": "Glengarry Glen Ross",
+      "reported_author": "David Mamet",
+      "raw_line": "117. Glengarry Glen Ross — David Mamet"
+    },
+    {
+      "position": 118,
+      "reported_title": "M. Butterfly",
+      "reported_author": "David Henry Hwang",
+      "raw_line": "118. M. Butterfly — David Henry Hwang"
+    },
+    {
+      "position": 119,
+      "reported_title": "Sizwe Banzi Is Dead",
+      "reported_author": "Athol Fugard, John Kani & Winston Ntshona",
+      "raw_line": "119. Sizwe Banzi Is Dead — Athol Fugard, John Kani & Winston Ntshona"
+    },
+    {
+      "position": 120,
+      "reported_title": "Woza Albert!",
+      "reported_author": "Percy Mtwa, Mbongeni Ngema & Barney Simon",
+      "raw_line": "120. Woza Albert! — Percy Mtwa, Mbongeni Ngema & Barney Simon"
+    },
+    {
+      "position": 121,
+      "reported_title": "Dream on Monkey Mountain",
+      "reported_author": "Derek Walcott",
+      "raw_line": "121. Dream on Monkey Mountain — Derek Walcott"
+    },
+    {
+      "position": 122,
+      "reported_title": "Death and the Maiden",
+      "reported_author": "Ariel Dorfman",
+      "raw_line": "122. Death and the Maiden — Ariel Dorfman"
+    },
+    {
+      "position": 123,
+      "reported_title": "The Night of the Assassins",
+      "reported_author": "José Triana",
+      "raw_line": "123. The Night of the Assassins — José Triana"
+    },
+    {
+      "position": 124,
+      "reported_title": "Information for Foreigners",
+      "reported_author": "Griselda Gambaro",
+      "raw_line": "124. Information for Foreigners — Griselda Gambaro"
+    },
+    {
+      "position": 125,
+      "reported_title": "Andha Yug (The Blind Age)",
+      "reported_author": "Dharamvir Bharati",
+      "raw_line": "125. Andha Yug (The Blind Age) — Dharamvir Bharati"
+    },
+    {
+      "position": 126,
+      "reported_title": "Evam Indrajit",
+      "reported_author": "Badal Sircar",
+      "raw_line": "126. Evam Indrajit — Badal Sircar"
+    },
+    {
+      "position": 127,
+      "reported_title": "Silence! The Court Is in Session",
+      "reported_author": "Vijay Tendulkar",
+      "raw_line": "127. Silence! The Court Is in Session — Vijay Tendulkar"
+    },
+    {
+      "position": 128,
+      "reported_title": "Hayavadana",
+      "reported_author": "Girish Karnad",
+      "raw_line": "128. Hayavadana — Girish Karnad"
+    },
+    {
+      "position": 129,
+      "reported_title": "Ashadh Ka Ek Din (One Day in Ashadha)",
+      "reported_author": "Mohan Rakesh",
+      "raw_line": "129. Ashadh Ka Ek Din (One Day in Ashadha) — Mohan Rakesh"
+    },
+    {
+      "position": 130,
+      "reported_title": "The Wedding (Wesele)",
+      "reported_author": "Stanisław Wyspiański",
+      "raw_line": "130. The Wedding (Wesele) — Stanisław Wyspiański"
+    },
+    {
+      "position": 131,
+      "reported_title": "Forefathers' Eve (Dziady)",
+      "reported_author": "Adam Mickiewicz",
+      "raw_line": "131. Forefathers' Eve (Dziady) — Adam Mickiewicz"
+    },
+    {
+      "position": 132,
+      "reported_title": "R.U.R. (Rossum's Universal Robots)",
+      "reported_author": "Karel Čapek",
+      "raw_line": "132. R.U.R. (Rossum's Universal Robots) — Karel Čapek"
+    },
+    {
+      "position": 133,
+      "reported_title": "Tango",
+      "reported_author": "Sławomir Mrożek",
+      "raw_line": "133. Tango — Sławomir Mrożek"
+    },
+    {
+      "position": 134,
+      "reported_title": "I Will Marry When I Want",
+      "reported_author": "Ngũgĩ wa Thiong'o & Ngũgĩ wa Mĩriĩ",
+      "raw_line": "134. I Will Marry When I Want — Ngũgĩ wa Thiong'o & Ngũgĩ wa Mĩriĩ"
+    },
+    {
+      "position": 135,
+      "reported_title": "Anowa",
+      "reported_author": "Ama Ata Aidoo",
+      "raw_line": "135. Anowa — Ama Ata Aidoo"
+    },
+    {
+      "position": 136,
+      "reported_title": "The Wedding Dress (Vestido de Noiva)",
+      "reported_author": "Nelson Rodrigues",
+      "raw_line": "136. The Wedding Dress (Vestido de Noiva) — Nelson Rodrigues"
+    },
+    {
+      "position": 137,
+      "reported_title": "The Gesticulator (El gesticulador)",
+      "reported_author": "Rodolfo Usigli",
+      "raw_line": "137. The Gesticulator (El gesticulador) — Rodolfo Usigli"
+    },
+    {
+      "position": 138,
+      "reported_title": "Secret Love in Peach Blossom Land",
+      "reported_author": "Stan Lai",
+      "raw_line": "138. Secret Love in Peach Blossom Land — Stan Lai"
+    },
+    {
+      "position": 139,
+      "reported_title": "The Other Shore",
+      "reported_author": "Gao Xingjian",
+      "raw_line": "139. The Other Shore — Gao Xingjian"
+    },
+    {
+      "position": 140,
+      "reported_title": "Tokyo Notes",
+      "reported_author": "Oriza Hirata",
+      "raw_line": "140. Tokyo Notes — Oriza Hirata"
+    },
+    {
+      "position": 141,
+      "reported_title": "Madame de Sade",
+      "reported_author": "Yukio Mishima",
+      "raw_line": "141. Madame de Sade — Yukio Mishima"
+    },
+    {
+      "position": 142,
+      "reported_title": "Rituals of Signs and Transformations",
+      "reported_author": "Sa'dallah Wannous",
+      "raw_line": "142. Rituals of Signs and Transformations — Sa'dallah Wannous"
+    },
+    {
+      "position": 143,
+      "reported_title": "Death of Yazdgerd",
+      "reported_author": "Bahram Beyzai",
+      "raw_line": "143. Death of Yazdgerd — Bahram Beyzai"
+    },
+    {
+      "position": 144,
+      "reported_title": "The Piano Lesson",
+      "reported_author": "August Wilson",
+      "raw_line": "144. The Piano Lesson — August Wilson"
+    },
+    {
+      "position": 145,
+      "reported_title": "Topdog/Underdog",
+      "reported_author": "Suzan-Lori Parks",
+      "raw_line": "145. Topdog/Underdog — Suzan-Lori Parks"
+    },
+    {
+      "position": 146,
+      "reported_title": "Dancing at Lughnasa",
+      "reported_author": "Brian Friel",
+      "raw_line": "146. Dancing at Lughnasa — Brian Friel"
+    },
+    {
+      "position": 147,
+      "reported_title": "The Normal Heart",
+      "reported_author": "Larry Kramer",
+      "raw_line": "147. The Normal Heart — Larry Kramer"
+    },
+    {
+      "position": 148,
+      "reported_title": "Jerusalem",
+      "reported_author": "Jez Butterworth",
+      "raw_line": "148. Jerusalem — Jez Butterworth"
+    },
+    {
+      "position": 149,
+      "reported_title": "August: Osage County",
+      "reported_author": "Tracy Letts",
+      "raw_line": "149. August: Osage County — Tracy Letts"
+    },
+    {
+      "position": 150,
+      "reported_title": "Incendies (Scorched)",
+      "reported_author": "Wajdi Mouawad",
+      "raw_line": "150. Incendies (Scorched) — Wajdi Mouawad"
+    }
+  ]
+}

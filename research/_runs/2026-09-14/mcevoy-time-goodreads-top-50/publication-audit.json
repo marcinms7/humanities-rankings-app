@@ -1,0 +1,27 @@
+{
+  "checked_on": "2026-09-14",
+  "ranking_id": 152,
+  "target": "mcevoy-time-novels-goodreads-top-50",
+  "parent_target": "time-100-best-novels-2005",
+  "entries": 50,
+  "revision": 2,
+  "sources": 2,
+  "imported_this_run": true,
+  "catalog_created": {
+    "works": 0,
+    "people": 0,
+    "editions": 0
+  },
+  "all_work_ids_reused_from_parent": true,
+  "input_sha256": "1ff70b759704daca7484021e7903b7a3296cc49c9b54e2f019d6d75fc0511669",
+  "source_snapshots": {
+    "youtube-lB_rjfkMCEw.html": {
+      "bytes": 1617132,
+      "sha256": "0fe6c5cca37b4bbb997fd10a1a75413cdfcbd6a9898f605df6fbdf7498f76443"
+    },
+    "youtube-lB_rjfkMCEw-transcript.json": {
+      "bytes": 161475,
+      "sha256": "33da3790c36197f5b446cc8ee7a01f839c7c34d08cebf02137551da556c758cd"
+    }
+  }
+}

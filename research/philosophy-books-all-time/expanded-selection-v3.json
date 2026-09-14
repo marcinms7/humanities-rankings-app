@@ -1,0 +1,1604 @@
+{
+  "target": "philosophy-books-all-time",
+  "expected_revision": 2,
+  "allow_expansion": true,
+  "allow_pending_metadata": true,
+  "version": 3,
+  "published_on": "2026-09-13",
+  "notice": "108-book comparison with both editorial orders. Newly added books have pending editions, covers and author portraits. Further expansion and comparative refinement continue; no personal scores.",
+  "method": "Expanded philosophy compilation from saved specialist articles, critical reviews, a Great Books curriculum and the philosophical works on the Modern Library nonfiction list. The explicit comparative head places foundational arguments alongside non-Western traditions and modern revisions; later positions are less closely compared. Curriculum inclusion is not a source merit ranking, nor is board nonfiction position a specialist philosophy rank. The reading order promotes direct encounters with arguments and preserves other relative positions. Both are editorial judgments, not numeric personal scores. This remains short of the requested approximately 250 books; notably more Indian, Islamic, African, Chinese, analytic and continental works remain to add.",
+  "orders": {
+    "standing": {
+      "label": "Critical standing / enduring influence",
+      "description": "Qualitative editorial comparison, with target-local evidence and source limitations.",
+      "keys": [
+        "therepublic-plato",
+        "critiqueofpurereason-immanuelkant",
+        "nicomacheanethics-aristotle",
+        "metaphysics-aristotle",
+        "analects-confucius",
+        "ethics-baruchspinoza",
+        "atreatiseofhumannature-davidhume",
+        "philosophicalinvestigations-ludwigwittgenstein",
+        "phenomenologyofspirit-gwfhegel",
+        "leviathan-thomashobbes",
+        "thesecondsex-simonedebeauvoir",
+        "thesocialcontract-jeanjacquesrousseau",
+        "zhuangzi-zhuangzi",
+        "meditationsonfirstphilosophy-renedescartes",
+        "groundworkofthemetaphysicsofmorals-immanuelkant",
+        "politics-aristotle",
+        "thefundamentalwisdomofthemiddleway-nagarjuna",
+        "theenneads-plotinus",
+        "summatheologiae-thomasaquinas",
+        "theguidefortheperplexed-maimonides",
+        "confessions-augustineofhippo",
+        "discourseonthemethod-renedescartes",
+        "atheoryofjustice-johnrawls",
+        "onliberty-johnstuartmill",
+        "daodejing-laozi",
+        "beyondgoodandevil-friedrichnietzsche",
+        "theprince-niccolomachiavelli",
+        "secondtreatiseofgovernment-johnlocke",
+        "essays-micheldemontaigne",
+        "thehumancondition-hannaharendt",
+        "thesoulsofblackfolk-webdubois",
+        "onthegenealogyofmorality-friedrichnietzsche",
+        "capital-karlmarx",
+        "novumorganum-francisbacon",
+        "thewealthofnations-adamsmith",
+        "thecrisisofeuropeansciencesandtranscendentalphenomenology-edmundhusserl",
+        "fearandtrembling-srenkierkegaard",
+        "annihilationofcaste-brambedkar",
+        "blackskinwhitemasks-frantzfanon",
+        "mengzi-mencius",
+        "theincoherenceofthephilosophers-alghazali",
+        "onthenatureofthings-lucretius",
+        "philosophyandanafricanculture-kwasiwiredu",
+        "reasonsandpersons-derekparfit",
+        "aftervirtue-alasdairmacintyre",
+        "disciplineandpunish-michelfoucault",
+        "thevarietiesofreligiousexperience-williamjames",
+        "theopensocietyanditsenemies-karlpopper",
+        "anenquiryconcerninghumanunderstanding-davidhume",
+        "xunzi-xunzi",
+        "theologicalpoliticaltreatise-baruchspinoza",
+        "thewayofthebodhisattva-santideva",
+        "epistemicinjustice-mirandafricker",
+        "theproperstudyofmankind-isaiahberlin",
+        "principiamathematica-alfrednorthwhitehead",
+        "principiaethica-gemoore",
+        "philosophyandcivilization-johndewey",
+        "physics-aristotle",
+        "poetics-aristotle",
+        "onthesoul-aristotle",
+        "categories-aristotle",
+        "oninterpretation-aristotle",
+        "prioranalytics-aristotle",
+        "ongenerationandcorruption-aristotle",
+        "meno-plato",
+        "gorgias-plato",
+        "apology-plato",
+        "crito-plato",
+        "phaedo-plato",
+        "symposium-plato",
+        "parmenides-plato",
+        "theaetetus-plato",
+        "sophist-plato",
+        "timaeus-plato",
+        "phaedrus-plato",
+        "proslogion-anselmofcanterbury",
+        "rulesforthedirectionofthemind-renedescartes",
+        "discourses-epictetus",
+        "enchiridion-epictetus",
+        "discoursesonlivy-niccolomachiavelli",
+        "maxims-francoisdelarochefoucauld",
+        "monadology-gottfriedwilhelmleibniz",
+        "discourseonmetaphysics-gottfriedwilhelmleibniz",
+        "pensees-blaisepascal",
+        "discourseontheoriginofinequality-jeanjacquesrousseau",
+        "democracyinamerica-alexisdetocqueville",
+        "beyondthepleasureprinciple-sigmundfreud",
+        "introductiontometaphysics-martinheidegger",
+        "philosophicalfragments-srenkierkegaard",
+        "economicandphilosophicmanuscriptsof1844-karlmarx",
+        "thegermanideology-karlmarx",
+        "thecorrespondencebetweenprincesselisabethofbohemiaandrenedescartes-elisabethofbohemia",
+        "onwhatmatters-derekparfit",
+        "deathandtheafterlife-samuelscheffler",
+        "creatingcapabilities-marthanussbaum",
+        "womenandhumandevelopment-marthanussbaum",
+        "frontiersofjustice-marthanussbaum",
+        "justiceforhedgehogs-ronalddworkin",
+        "democracyaftervirtue-sungmoonkim",
+        "ethicsintheconflictsofmodernity-alasdairmacintyre",
+        "ethicsandthelimitsofphilosophy-bernardwilliams",
+        "socratesandorunmila-sophiebosedeoluwole",
+        "outofthedarknight-achillembembe",
+        "culturaluniversalsandparticulars-kwasiwiredu",
+        "hayyibnyaqzan-ibntufayl",
+        "freedomanimpossiblereality-raymondtallis",
+        "beinghuman-rowanwilliams",
+        "philosophersofnothingness-jameswheisig"
+      ]
+    },
+    "reading": {
+      "label": "Reading value today",
+      "description": "Direct engagement and present usefulness inform selected promotions; remaining relative positions follow standing.",
+      "keys": [
+        "therepublic-plato",
+        "nicomacheanethics-aristotle",
+        "onliberty-johnstuartmill",
+        "anenquiryconcerninghumanunderstanding-davidhume",
+        "thesecondsex-simonedebeauvoir",
+        "thesoulsofblackfolk-webdubois",
+        "annihilationofcaste-brambedkar",
+        "zhuangzi-zhuangzi",
+        "analects-confucius",
+        "thehumancondition-hannaharendt",
+        "symposium-plato",
+        "apology-plato",
+        "meditationsonfirstphilosophy-renedescartes",
+        "discourseonthemethod-renedescartes",
+        "essays-micheldemontaigne",
+        "enchiridion-epictetus",
+        "discourses-epictetus",
+        "theprince-niccolomachiavelli",
+        "thesocialcontract-jeanjacquesrousseau",
+        "fearandtrembling-srenkierkegaard",
+        "aftervirtue-alasdairmacintyre",
+        "blackskinwhitemasks-frantzfanon",
+        "philosophyandanafricanculture-kwasiwiredu",
+        "creatingcapabilities-marthanussbaum",
+        "epistemicinjustice-mirandafricker",
+        "atheoryofjustice-johnrawls",
+        "reasonsandpersons-derekparfit",
+        "critiqueofpurereason-immanuelkant",
+        "metaphysics-aristotle",
+        "ethics-baruchspinoza",
+        "atreatiseofhumannature-davidhume",
+        "philosophicalinvestigations-ludwigwittgenstein",
+        "phenomenologyofspirit-gwfhegel",
+        "leviathan-thomashobbes",
+        "groundworkofthemetaphysicsofmorals-immanuelkant",
+        "politics-aristotle",
+        "thefundamentalwisdomofthemiddleway-nagarjuna",
+        "theenneads-plotinus",
+        "summatheologiae-thomasaquinas",
+        "theguidefortheperplexed-maimonides",
+        "confessions-augustineofhippo",
+        "daodejing-laozi",
+        "beyondgoodandevil-friedrichnietzsche",
+        "secondtreatiseofgovernment-johnlocke",
+        "onthegenealogyofmorality-friedrichnietzsche",
+        "capital-karlmarx",
+        "novumorganum-francisbacon",
+        "thewealthofnations-adamsmith",
+        "thecrisisofeuropeansciencesandtranscendentalphenomenology-edmundhusserl",
+        "mengzi-mencius",
+        "theincoherenceofthephilosophers-alghazali",
+        "onthenatureofthings-lucretius",
+        "disciplineandpunish-michelfoucault",
+        "thevarietiesofreligiousexperience-williamjames",
+        "theopensocietyanditsenemies-karlpopper",
+        "xunzi-xunzi",
+        "theologicalpoliticaltreatise-baruchspinoza",
+        "thewayofthebodhisattva-santideva",
+        "theproperstudyofmankind-isaiahberlin",
+        "principiamathematica-alfrednorthwhitehead",
+        "principiaethica-gemoore",
+        "philosophyandcivilization-johndewey",
+        "physics-aristotle",
+        "poetics-aristotle",
+        "onthesoul-aristotle",
+        "categories-aristotle",
+        "oninterpretation-aristotle",
+        "prioranalytics-aristotle",
+        "ongenerationandcorruption-aristotle",
+        "meno-plato",
+        "gorgias-plato",
+        "crito-plato",
+        "phaedo-plato",
+        "parmenides-plato",
+        "theaetetus-plato",
+        "sophist-plato",
+        "timaeus-plato",
+        "phaedrus-plato",
+        "proslogion-anselmofcanterbury",
+        "rulesforthedirectionofthemind-renedescartes",
+        "discoursesonlivy-niccolomachiavelli",
+        "maxims-francoisdelarochefoucauld",
+        "monadology-gottfriedwilhelmleibniz",
+        "discourseonmetaphysics-gottfriedwilhelmleibniz",
+        "pensees-blaisepascal",
+        "discourseontheoriginofinequality-jeanjacquesrousseau",
+        "democracyinamerica-alexisdetocqueville",
+        "beyondthepleasureprinciple-sigmundfreud",
+        "introductiontometaphysics-martinheidegger",
+        "philosophicalfragments-srenkierkegaard",
+        "economicandphilosophicmanuscriptsof1844-karlmarx",
+        "thegermanideology-karlmarx",
+        "thecorrespondencebetweenprincesselisabethofbohemiaandrenedescartes-elisabethofbohemia",
+        "onwhatmatters-derekparfit",
+        "deathandtheafterlife-samuelscheffler",
+        "womenandhumandevelopment-marthanussbaum",
+        "frontiersofjustice-marthanussbaum",
+        "justiceforhedgehogs-ronalddworkin",
+        "democracyaftervirtue-sungmoonkim",
+        "ethicsintheconflictsofmodernity-alasdairmacintyre",
+        "ethicsandthelimitsofphilosophy-bernardwilliams",
+        "socratesandorunmila-sophiebosedeoluwole",
+        "outofthedarknight-achillembembe",
+        "culturaluniversalsandparticulars-kwasiwiredu",
+        "hayyibnyaqzan-ibntufayl",
+        "freedomanimpossiblereality-raymondtallis",
+        "beinghuman-rowanwilliams",
+        "philosophersofnothingness-jameswheisig"
+      ]
+    }
+  },
+  "entries": [
+    {
+      "key": "therepublic-plato",
+      "item_id": 9,
+      "source_ids": [
+        "S17",
+        "S19",
+        "R028"
+      ],
+      "source_positions": [],
+      "standing": "Scholarly and cross-tradition selections converge on its foundational standing. Inclusion evidence: S17, S19, R028. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Its argumentative encounters keep it near the front of both orders. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Historical influence does not endorse its political prescriptions. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "critiqueofpurereason-immanuelkant",
+      "item_id": 32,
+      "source_ids": [
+        "S23",
+        "R029"
+      ],
+      "source_positions": [],
+      "standing": "Strong scholarly reception supports a leading historical position. Inclusion evidence: S23, R029. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Foundational standing exceeds its position as a general-reader recommendation: technical vocabulary and dependence on philosophical context make guidance especially valuable.",
+      "caveat": "Difficulty assessment needs edition-specific reading evidence. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "nicomacheanethics-aristotle",
+      "item_id": 33,
+      "source_ids": [
+        "R002",
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Broad corpus and curricular reception support its enduring position. Inclusion evidence: R002, S03. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Practical ethical inquiry supports a high reading priority. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Curriculum inclusion is not a merit vote. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "metaphysics-aristotle",
+      "item_id": 424,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "analects-confucius",
+      "item_id": 34,
+      "source_ids": [
+        "S20"
+      ],
+      "source_positions": [],
+      "standing": "Long intellectual reception supports early placement. Inclusion evidence: S20. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Compact exchanges invite continued reflection with historical context. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Received text is not a single author’s manuscript. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "ethics-baruchspinoza",
+      "item_id": 36,
+      "source_ids": [
+        "R021",
+        "R044",
+        "R086"
+      ],
+      "source_positions": [],
+      "standing": "Metaphysical and ethical reception sustains its historical case. Inclusion evidence: R021, R044, R086. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Passions and happiness reward close reading; system imposes demands. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Enthusiastic reader transformation does not prove general accessibility. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "atreatiseofhumannature-davidhume",
+      "item_id": 38,
+      "source_ids": [
+        "R020",
+        "R028"
+      ],
+      "source_positions": [],
+      "standing": "Systematic breadth and later reception support a high position. Inclusion evidence: R020, R028. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "The Enquiry is proposed earlier as a more concise encounter. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "The later books are not mere abridgments of this work. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "philosophicalinvestigations-ludwigwittgenstein",
+      "item_id": 37,
+      "source_ids": [
+        "R019",
+        "S19"
+      ],
+      "source_positions": [],
+      "standing": "Major reception in language and philosophical method supports high standing. Inclusion evidence: R019, S19. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Move below more immediately usable entry points. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Early/late continuity remains a scholarly dispute. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "phenomenologyofspirit-gwfhegel",
+      "item_id": 469,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "leviathan-thomashobbes",
+      "item_id": 458,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thesecondsex-simonedebeauvoir",
+      "item_id": 41,
+      "source_ids": [
+        "R017"
+      ],
+      "source_positions": [],
+      "standing": "Original philosophical contribution and feminist reception support high standing. Inclusion evidence: R017. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Proposed rise reflects continuing conceptual and experiential engagement. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Primary-book and translation comparison remain incomplete. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "thesocialcontract-jeanjacquesrousseau",
+      "item_id": 464,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "zhuangzi-zhuangzi",
+      "item_id": 35,
+      "source_ids": [
+        "S25",
+        "R028"
+      ],
+      "source_positions": [],
+      "standing": "Scholarly and world-philosophy selection support high standing. Inclusion evidence: S25, R028. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Literary philosophy raises its priority for exploratory reading. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Textual strata and complete-versus-selected editions require care. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "meditationsonfirstphilosophy-renedescartes",
+      "item_id": 44,
+      "source_ids": [
+        "S19"
+      ],
+      "source_positions": [],
+      "standing": "Expert canonical selection supports substantial historical standing. Inclusion evidence: S19. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Focused argumentative sequence raises its reading priority. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Single expert selection needs deeper independent evidence. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "groundworkofthemetaphysicsofmorals-immanuelkant",
+      "item_id": 459,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "politics-aristotle",
+      "item_id": 425,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thefundamentalwisdomofthemiddleway-nagarjuna",
+      "item_id": 40,
+      "source_ids": [
+        "R009"
+      ],
+      "source_positions": [],
+      "standing": "Arguments about intrinsic nature have extensive Buddhist reception. Inclusion evidence: R009. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Move down for technical demands rather than presumed lesser value. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Verse treatise; verify a complete translation and attribution. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "theenneads-plotinus",
+      "item_id": 456,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "summatheologiae-thomasaquinas",
+      "item_id": 446,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theguidefortheperplexed-maimonides",
+      "item_id": 455,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "confessions-augustineofhippo",
+      "item_id": 447,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "discourseonthemethod-renedescartes",
+      "item_id": 449,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "atheoryofjustice-johnrawls",
+      "item_id": 42,
+      "source_ids": [
+        "R043",
+        "R083",
+        "S02"
+      ],
+      "source_positions": [
+        {
+          "source_id": "S02",
+          "list": "nonfiction",
+          "position": 28
+        }
+      ],
+      "standing": "International institutional reception sustains historical significance. Inclusion evidence: R043, R083, S02 nonfiction #28. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Detailed system is placed after more direct entry points. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Political readings differ across national reception contexts. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "onliberty-johnstuartmill",
+      "item_id": 14,
+      "source_ids": [
+        "S19",
+        "R157"
+      ],
+      "source_positions": [],
+      "standing": "Canonical selection and direct argument support inclusion. Inclusion evidence: S19, R157. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Promoted as a compact, still-contested argument about personal freedom and social power.",
+      "caveat": "Universal-sounding language coexists with colonial exclusions. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "daodejing-laozi",
+      "item_id": 39,
+      "source_ids": [
+        "R015"
+      ],
+      "source_positions": [],
+      "standing": "Broad, divergent traditions of interpretation support inclusion. Inclusion evidence: R015. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Compactness encourages return, while interpretation still needs guidance. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Do not turn traditional attribution into a verified biography. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "beyondgoodandevil-friedrichnietzsche",
+      "item_id": 476,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theprince-niccolomachiavelli",
+      "item_id": 453,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "secondtreatiseofgovernment-johnlocke",
+      "item_id": 462,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "essays-micheldemontaigne",
+      "item_id": 366,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thehumancondition-hannaharendt",
+      "item_id": 51,
+      "source_ids": [
+        "R018"
+      ],
+      "source_positions": [],
+      "standing": "Broad public and academic reception supports inclusion. Inclusion evidence: R018. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Proposed priority recognizes enduring questions of activity and public life. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Avoid transferring claims about Arendt’s other books to this one. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "thesoulsofblackfolk-webdubois",
+      "item_id": 10,
+      "source_ids": [
+        "S18",
+        "S02"
+      ],
+      "source_positions": [
+        {
+          "source_id": "S02",
+          "list": "nonfiction",
+          "position": 31
+        }
+      ],
+      "standing": "Intellectual and social reception supports upper-group inclusion. Inclusion evidence: S18, S02 nonfiction #31. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "The conjunction of argument and experience motivates a high reading position. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "More direct literary and historical criticism needed. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "onthegenealogyofmorality-friedrichnietzsche",
+      "item_id": 45,
+      "source_ids": [
+        "R023"
+      ],
+      "source_positions": [],
+      "standing": "Psychological critique supports its place among authored philosophical books. Inclusion evidence: R023. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Provocation and value-questioning move it upward. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Do not substitute the posthumous Will to Power compilation. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "capital-karlmarx",
+      "item_id": 474,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "novumorganum-francisbacon",
+      "item_id": 448,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thewealthofnations-adamsmith",
+      "item_id": 466,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thecrisisofeuropeansciencesandtranscendentalphenomenology-edmundhusserl",
+      "item_id": 471,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "fearandtrembling-srenkierkegaard",
+      "item_id": 473,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "annihilationofcaste-brambedkar",
+      "item_id": 49,
+      "source_ids": [
+        "R073",
+        "R074"
+      ],
+      "source_positions": [],
+      "standing": "Anti-caste argument and comparative Indian reception support inclusion. Inclusion evidence: R073, R074. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Coherent argument and continuing social questions motivate a large rise. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "A published book-length address, not an invented essay collection. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "blackskinwhitemasks-frantzfanon",
+      "item_id": 50,
+      "source_ids": [
+        "R024"
+      ],
+      "source_positions": [],
+      "standing": "Africana philosophical significance supports strong inclusion. Inclusion evidence: R024. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Lived alienation and anti-racist inquiry raise its proposed reading place. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Needs more independent work-specific disagreement. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "mengzi-mencius",
+      "item_id": 43,
+      "source_ids": [
+        "R013",
+        "R028"
+      ],
+      "source_positions": [],
+      "standing": "Cross-tradition ethical comparisons strengthen its inclusion. Inclusion evidence: R013, R028. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Ethical cultivation supports an earlier reading position. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Do not erase compilation and editorial history. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "theincoherenceofthephilosophers-alghazali",
+      "item_id": 47,
+      "source_ids": [
+        "R115"
+      ],
+      "source_positions": [],
+      "standing": "Critical reception within Islamic philosophy supports inclusion. Inclusion evidence: R115. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Technical and theological context lowers initial reading priority. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Do not repeat a simplistic narrative of philosophy ending afterward. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "onthenatureofthings-lucretius",
+      "item_id": 444,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "philosophyandanafricanculture-kwasiwiredu",
+      "item_id": 492,
+      "source_ids": [
+        "R072"
+      ],
+      "source_positions": [],
+      "standing": "Included through R072. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "reasonsandpersons-derekparfit",
+      "item_id": 480,
+      "source_ids": [
+        "R033"
+      ],
+      "source_positions": [],
+      "standing": "Included through R033. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "aftervirtue-alasdairmacintyre",
+      "item_id": 488,
+      "source_ids": [
+        "R039"
+      ],
+      "source_positions": [],
+      "standing": "Included through R039. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "disciplineandpunish-michelfoucault",
+      "item_id": 498,
+      "source_ids": [
+        "R197"
+      ],
+      "source_positions": [],
+      "standing": "Included through R197. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thevarietiesofreligiousexperience-williamjames",
+      "item_id": 166,
+      "source_ids": [
+        "S02"
+      ],
+      "source_positions": [
+        {
+          "source_id": "S02",
+          "list": "nonfiction",
+          "position": 2
+        }
+      ],
+      "standing": "Inclusion evidence: S02 nonfiction #2. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "theopensocietyanditsenemies-karlpopper",
+      "item_id": 225,
+      "source_ids": [
+        "S02"
+      ],
+      "source_positions": [
+        {
+          "source_id": "S02",
+          "list": "nonfiction",
+          "position": 64
+        }
+      ],
+      "standing": "Inclusion evidence: S02 nonfiction #64. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "anenquiryconcerninghumanunderstanding-davidhume",
+      "item_id": 13,
+      "source_ids": [
+        "R020",
+        "R158",
+        "S19"
+      ],
+      "source_positions": [],
+      "standing": "Canonical reception and primary argument sustain its standing. Inclusion evidence: R020, R158, S19. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Concise treatment of habit and inference places it ahead of the Treatise. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Philosophical revision prevents treating it as a simple shorter substitute. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "xunzi-xunzi",
+      "item_id": 48,
+      "source_ids": [
+        "R014"
+      ],
+      "source_positions": [],
+      "standing": "Reassessment and renewed recognition challenge inherited rankings. Inclusion evidence: R014. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Cultivation and social thought justify comparative reading with Mengzi. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Received collection is textually layered. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "theologicalpoliticaltreatise-baruchspinoza",
+      "item_id": 46,
+      "source_ids": [
+        "R021"
+      ],
+      "source_positions": [],
+      "standing": "Interlocking philosophy and politics support historical consideration. Inclusion evidence: R021. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Political and interpretive questions offer another route into Spinoza. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Needs independent work-specific criticism. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "thewayofthebodhisattva-santideva",
+      "item_id": 53,
+      "source_ids": [
+        "R028"
+      ],
+      "source_positions": [],
+      "standing": "World-philosophy selection supports cross-tradition inclusion. Inclusion evidence: R028. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Ethical reflection merits comparative reading beyond Western defaults. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Full verse work; religious context and translation need review. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "epistemicinjustice-mirandafricker",
+      "item_id": 52,
+      "source_ids": [
+        "R034",
+        "R143"
+      ],
+      "source_positions": [],
+      "standing": "Two contrasting reviews support serious contemporary consideration. Inclusion evidence: R034, R143. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Promoted for the practical reach of its questions about testimony, credibility and unequal access to understanding.",
+      "caveat": "Normative scope and individual remedies are contested. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "theproperstudyofmankind-isaiahberlin",
+      "item_id": 180,
+      "source_ids": [
+        "S02"
+      ],
+      "source_positions": [
+        {
+          "source_id": "S02",
+          "list": "nonfiction",
+          "position": 17
+        }
+      ],
+      "standing": "Inclusion evidence: S02 nonfiction #17. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "principiamathematica-alfrednorthwhitehead",
+      "item_id": 186,
+      "source_ids": [
+        "S02"
+      ],
+      "source_positions": [
+        {
+          "source_id": "S02",
+          "list": "nonfiction",
+          "position": 23
+        }
+      ],
+      "standing": "Inclusion evidence: S02 nonfiction #23. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "Historical importance does not make the complete technical work a strong first choice for most readers today.",
+      "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "principiaethica-gemoore",
+      "item_id": 193,
+      "source_ids": [
+        "S02"
+      ],
+      "source_positions": [
+        {
+          "source_id": "S02",
+          "list": "nonfiction",
+          "position": 32
+        }
+      ],
+      "standing": "Inclusion evidence: S02 nonfiction #32. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "philosophyandcivilization-johndewey",
+      "item_id": 194,
+      "source_ids": [
+        "S02"
+      ],
+      "source_positions": [
+        {
+          "source_id": "S02",
+          "list": "nonfiction",
+          "position": 33
+        }
+      ],
+      "standing": "Inclusion evidence: S02 nonfiction #33. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.",
+      "reading": "This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.",
+      "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.",
+      "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending"
+    },
+    {
+      "key": "physics-aristotle",
+      "item_id": 426,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "poetics-aristotle",
+      "item_id": 427,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "onthesoul-aristotle",
+      "item_id": 428,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "categories-aristotle",
+      "item_id": 429,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "oninterpretation-aristotle",
+      "item_id": 430,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "prioranalytics-aristotle",
+      "item_id": 431,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "ongenerationandcorruption-aristotle",
+      "item_id": 432,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "meno-plato",
+      "item_id": 433,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "gorgias-plato",
+      "item_id": 434,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "apology-plato",
+      "item_id": 435,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "crito-plato",
+      "item_id": 436,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "phaedo-plato",
+      "item_id": 437,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "symposium-plato",
+      "item_id": 438,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "parmenides-plato",
+      "item_id": 439,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "theaetetus-plato",
+      "item_id": 440,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "sophist-plato",
+      "item_id": 441,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "timaeus-plato",
+      "item_id": 442,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "phaedrus-plato",
+      "item_id": 443,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "proslogion-anselmofcanterbury",
+      "item_id": 445,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "rulesforthedirectionofthemind-renedescartes",
+      "item_id": 450,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "discourses-epictetus",
+      "item_id": 451,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "enchiridion-epictetus",
+      "item_id": 452,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "discoursesonlivy-niccolomachiavelli",
+      "item_id": 454,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "maxims-francoisdelarochefoucauld",
+      "item_id": 457,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "monadology-gottfriedwilhelmleibniz",
+      "item_id": 460,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "discourseonmetaphysics-gottfriedwilhelmleibniz",
+      "item_id": 461,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "pensees-blaisepascal",
+      "item_id": 463,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "discourseontheoriginofinequality-jeanjacquesrousseau",
+      "item_id": 465,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "democracyinamerica-alexisdetocqueville",
+      "item_id": 467,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "beyondthepleasureprinciple-sigmundfreud",
+      "item_id": 468,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "introductiontometaphysics-martinheidegger",
+      "item_id": 470,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "philosophicalfragments-srenkierkegaard",
+      "item_id": 472,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "economicandphilosophicmanuscriptsof1844-karlmarx",
+      "item_id": 475,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thegermanideology-karlmarx",
+      "item_id": 477,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "thecorrespondencebetweenprincesselisabethofbohemiaandrenedescartes-elisabethofbohemia",
+      "item_id": 478,
+      "source_ids": [
+        "S03"
+      ],
+      "source_positions": [],
+      "standing": "Included through S03. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "onwhatmatters-derekparfit",
+      "item_id": 479,
+      "source_ids": [
+        "R033"
+      ],
+      "source_positions": [],
+      "standing": "Included through R033. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "deathandtheafterlife-samuelscheffler",
+      "item_id": 481,
+      "source_ids": [
+        "R035"
+      ],
+      "source_positions": [],
+      "standing": "Included through R035. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "creatingcapabilities-marthanussbaum",
+      "item_id": 482,
+      "source_ids": [
+        "R036"
+      ],
+      "source_positions": [],
+      "standing": "Included through R036. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "womenandhumandevelopment-marthanussbaum",
+      "item_id": 483,
+      "source_ids": [
+        "R036"
+      ],
+      "source_positions": [],
+      "standing": "Included through R036. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "frontiersofjustice-marthanussbaum",
+      "item_id": 484,
+      "source_ids": [
+        "R036"
+      ],
+      "source_positions": [],
+      "standing": "Included through R036. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "justiceforhedgehogs-ronalddworkin",
+      "item_id": 485,
+      "source_ids": [
+        "R037"
+      ],
+      "source_positions": [],
+      "standing": "Included through R037. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "democracyaftervirtue-sungmoonkim",
+      "item_id": 486,
+      "source_ids": [
+        "R038"
+      ],
+      "source_positions": [],
+      "standing": "Included through R038. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "ethicsintheconflictsofmodernity-alasdairmacintyre",
+      "item_id": 487,
+      "source_ids": [
+        "R039"
+      ],
+      "source_positions": [],
+      "standing": "Included through R039. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "ethicsandthelimitsofphilosophy-bernardwilliams",
+      "item_id": 489,
+      "source_ids": [
+        "R039"
+      ],
+      "source_positions": [],
+      "standing": "Included through R039. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "socratesandorunmila-sophiebosedeoluwole",
+      "item_id": 490,
+      "source_ids": [
+        "R040"
+      ],
+      "source_positions": [],
+      "standing": "Included through R040. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "outofthedarknight-achillembembe",
+      "item_id": 491,
+      "source_ids": [
+        "R045"
+      ],
+      "source_positions": [],
+      "standing": "Included through R045. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "culturaluniversalsandparticulars-kwasiwiredu",
+      "item_id": 493,
+      "source_ids": [
+        "R072"
+      ],
+      "source_positions": [],
+      "standing": "Included through R072. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "hayyibnyaqzan-ibntufayl",
+      "item_id": 494,
+      "source_ids": [
+        "R078"
+      ],
+      "source_positions": [],
+      "standing": "Included through R078. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "freedomanimpossiblereality-raymondtallis",
+      "item_id": 495,
+      "source_ids": [
+        "R147"
+      ],
+      "source_positions": [],
+      "standing": "Included through R147. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "beinghuman-rowanwilliams",
+      "item_id": 496,
+      "source_ids": [
+        "R149"
+      ],
+      "source_positions": [],
+      "standing": "Included through R149. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    },
+    {
+      "key": "philosophersofnothingness-jameswheisig",
+      "item_id": 497,
+      "source_ids": [
+        "R152"
+      ],
+      "source_positions": [],
+      "standing": "Included through R152. The position is a qualitative editorial comparison: curriculum inclusion supplies a candidate, not a merit rank; review evidence applies to the named work.",
+      "reading": "Short dialogues and direct ethical or political arguments are promoted in the reading-value view; systematic and technical texts retain their value but may require preparation. Remaining relative positions follow standing, not a claimed reader poll.",
+      "caveat": "English edition, pagination and images are pending. Curricula may teach excerpts; this entry denotes the authored work, not a claim that a selected extract is the complete book. Adjacent ranks remain revisable.",
+      "metadata_status": "edition_and_media_pending"
+    }
+  ]
+}

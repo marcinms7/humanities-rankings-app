@@ -1,0 +1,24 @@
+{
+  "target_id": "mcevoy-schedule-2026",
+  "status": "named_external_list_import",
+  "sources": [
+    {
+      "source_id": "COLLECTION-REPAIR-01",
+      "underlying_source_id": "collection-repair:https://www.patreon.com/hardcoreliterature/about",
+      "title": "Hardcore Literature · 2026 reading schedule — source contents",
+      "canonical_url": "https://www.patreon.com/hardcoreliterature/about",
+      "source_family": "published_collection",
+      "target_ids": [
+        "mcevoy-schedule-2026"
+      ],
+      "relevance_by_target": {
+        "mcevoy-schedule-2026": "Full named public 2026 schedule, including all four Neapolitan novels and two specified Proust volumes. Secret Dickens Novel remains unresolved, not guessed. Shakespeare is a separate self-paced continuing assignment."
+      },
+      "evidence_notes": "Full named public 2026 schedule, including all four Neapolitan novels and two specified Proust volumes. Secret Dickens Novel remains unresolved, not guessed. Shakespeare is a separate self-paced continuing assignment.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Named-list membership evidence only; no independent quality assessment or paid lecture content review."
+    }
+  ],
+  "saved_at": "2026-09-13"
+}

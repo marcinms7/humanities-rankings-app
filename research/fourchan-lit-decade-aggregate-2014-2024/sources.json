@@ -1,0 +1,25 @@
+{
+  "target_id": "fourchan-lit-decade-aggregate-2014-2024",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "COMMUNITY-LIST-01",
+      "underlying_source_id": "community-list:https://www.reddit.com/r/books/comments/1dy8gy8/for_10_years_now_4chan_has_ranked_the_100_best/",
+      "title": "4chan /lit/ · Decade Aggregate (2014–2024) — result publication",
+      "canonical_url": "https://www.reddit.com/r/books/comments/1dy8gy8/for_10_years_now_4chan_has_ranked_the_100_best/",
+      "source_family": "community_poll",
+      "publisher": "SharedHoney / 4chan /lit/ annual polls",
+      "target_ids": [
+        "fourchan-lit-decade-aggregate-2014-2024"
+      ],
+      "relevance_by_target": {
+        "fourchan-lit-decade-aggregate-2014-2024": "All 100 numbered positions in the published text transcription of the ten-poll aggregate."
+      },
+      "evidence_notes": "All 100 numbered positions in the published text transcription of the ten-poll aggregate.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "The author says the graphic contains 102 books because of ties at positions 15 and 70, but the published text transcription exposes 100 numbered records. The two non-transcribed graphic entries are not guessed."
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "target_id": "books-ancient",
+  "representative_source_ids": [
+    "ANCIENT-001",
+    "ANCIENT-002",
+    "ANCIENT-003",
+    "ANCIENT-004",
+    "ANCIENT-005"
+  ],
+  "entries": [
+    {
+      "key": "books-ancient-001",
+      "position": 1,
+      "reported_title": "The Odyssey"
+    },
+    {
+      "key": "books-ancient-002",
+      "position": 2,
+      "reported_title": "The Iliad"
+    },
+    {
+      "key": "books-ancient-004",
+      "position": 4,
+      "reported_title": "Mahabharata"
+    },
+    {
+      "key": "books-ancient-006",
+      "position": 6,
+      "reported_title": "Republic"
+    },
+    {
+      "key": "books-ancient-007",
+      "position": 7,
+      "reported_title": "Ramayana"
+    },
+    {
+      "key": "books-ancient-008",
+      "position": 8,
+      "reported_title": "Analects"
+    },
+    {
+      "key": "books-ancient-009",
+      "position": 9,
+      "reported_title": "Tao Te Ching (Daodejing)"
+    },
+    {
+      "key": "books-ancient-010",
+      "position": 10,
+      "reported_title": "Aeneid"
+    },
+    {
+      "key": "books-ancient-011",
+      "position": 11,
+      "reported_title": "Metamorphoses"
+    },
+    {
+      "key": "books-ancient-012",
+      "position": 12,
+      "reported_title": "Upanishads"
+    },
+    {
+      "key": "books-ancient-014",
+      "position": 14,
+      "reported_title": "Histories"
+    },
+    {
+      "key": "books-ancient-015",
+      "position": 15,
+      "reported_title": "History of the Peloponnesian War"
+    },
+    {
+      "key": "books-ancient-016",
+      "position": 16,
+      "reported_title": "Oedipus the King"
+    },
+    {
+      "key": "books-ancient-017",
+      "position": 17,
+      "reported_title": "Zhuangzi"
+    },
+    {
+      "key": "books-ancient-019",
+      "position": 19,
+      "reported_title": "Oresteia"
+    },
+    {
+      "key": "books-ancient-020",
+      "position": 20,
+      "reported_title": "Nicomachean Ethics"
+    },
+    {
+      "key": "books-ancient-021",
+      "position": 21,
+      "reported_title": "Rigveda"
+    },
+    {
+      "key": "books-ancient-023",
+      "position": 23,
+      "reported_title": "Antigone"
+    },
+    {
+      "key": "books-ancient-024",
+      "position": 24,
+      "reported_title": "Records of the Grand Historian (Shiji)"
+    },
+    {
+      "key": "books-ancient-025",
+      "position": 25,
+      "reported_title": "Medea"
+    },
+    {
+      "key": "books-ancient-026",
+      "position": 26,
+      "reported_title": "Poetics"
+    },
+    {
+      "key": "books-ancient-027",
+      "position": 27,
+      "reported_title": "Dhammapada"
+    },
+    {
+      "key": "books-ancient-028",
+      "position": 28,
+      "reported_title": "The Art of War"
+    },
+    {
+      "key": "books-ancient-029",
+      "position": 29,
+      "reported_title": "Theogony"
+    },
+    {
+      "key": "books-ancient-030",
+      "position": 30,
+      "reported_title": "On the Nature of Things (De Rerum Natura)"
+    },
+    {
+      "key": "books-ancient-031",
+      "position": 31,
+      "reported_title": "Confessions"
+    },
+    {
+      "key": "books-ancient-032",
+      "position": 32,
+      "reported_title": "Symposium"
+    },
+    {
+      "key": "books-ancient-033",
+      "position": 33,
+      "reported_title": "Mencius (Mengzi)"
+    },
+    {
+      "key": "books-ancient-034",
+      "position": 34,
+      "reported_title": "Gathas"
+    },
+    {
+      "key": "books-ancient-035",
+      "position": 35,
+      "reported_title": "Bacchae"
+    },
+    {
+      "key": "books-ancient-036",
+      "position": 36,
+      "reported_title": "Works and Days"
+    },
+    {
+      "key": "books-ancient-037",
+      "position": 37,
+      "reported_title": "Meditations"
+    },
+    {
+      "key": "books-ancient-038",
+      "position": 38,
+      "reported_title": "Shakuntala (Abhijnanashakuntalam)"
+    },
+    {
+      "key": "books-ancient-039",
+      "position": 39,
+      "reported_title": "Odes"
+    },
+    {
+      "key": "books-ancient-040",
+      "position": 40,
+      "reported_title": "The Golden Ass (Metamorphoses)"
+    },
+    {
+      "key": "books-ancient-042",
+      "position": 42,
+      "reported_title": "Politics"
+    },
+    {
+      "key": "books-ancient-044",
+      "position": 44,
+      "reported_title": "Poems and Fragments"
+    },
+    {
+      "key": "books-ancient-045",
+      "position": 45,
+      "reported_title": "Parallel Lives"
+    },
+    {
+      "key": "books-ancient-046",
+      "position": 46,
+      "reported_title": "Annals"
+    },
+    {
+      "key": "books-ancient-047",
+      "position": 47,
+      "reported_title": "Discourses"
+    },
+    {
+      "key": "books-ancient-048",
+      "position": 48,
+      "reported_title": "Moral Letters to Lucilius"
+    },
+    {
+      "key": "books-ancient-049",
+      "position": 49,
+      "reported_title": "Phaedo"
+    },
+    {
+      "key": "books-ancient-050",
+      "position": 50,
+      "reported_title": "Apology"
+    },
+    {
+      "key": "books-ancient-051",
+      "position": 51,
+      "reported_title": "Songs of Chu (Chuci)"
+    },
+    {
+      "key": "books-ancient-052",
+      "position": 52,
+      "reported_title": "Arthashastra"
+    },
+    {
+      "key": "books-ancient-053",
+      "position": 53,
+      "reported_title": "Tirukkural"
+    },
+    {
+      "key": "books-ancient-054",
+      "position": 54,
+      "reported_title": "Lotus Sutra"
+    },
+    {
+      "key": "books-ancient-055",
+      "position": 55,
+      "reported_title": "Mozi"
+    },
+    {
+      "key": "books-ancient-056",
+      "position": 56,
+      "reported_title": "Xunzi"
+    },
+    {
+      "key": "books-ancient-058",
+      "position": 58,
+      "reported_title": "Victory Odes"
+    },
+    {
+      "key": "books-ancient-059",
+      "position": 59,
+      "reported_title": "Argonautica"
+    },
+    {
+      "key": "books-ancient-061",
+      "position": 61,
+      "reported_title": "Georgics"
+    },
+    {
+      "key": "books-ancient-062",
+      "position": 62,
+      "reported_title": "Poems"
+    },
+    {
+      "key": "books-ancient-063",
+      "position": 63,
+      "reported_title": "Frogs"
+    },
+    {
+      "key": "books-ancient-064",
+      "position": 64,
+      "reported_title": "Lysistrata"
+    },
+    {
+      "key": "books-ancient-065",
+      "position": 65,
+      "reported_title": "The Trojan Women"
+    },
+    {
+      "key": "books-ancient-066",
+      "position": 66,
+      "reported_title": "Oedipus at Colonus"
+    },
+    {
+      "key": "books-ancient-067",
+      "position": 67,
+      "reported_title": "Persians"
+    },
+    {
+      "key": "books-ancient-068",
+      "position": 68,
+      "reported_title": "Histories"
+    },
+    {
+      "key": "books-ancient-069",
+      "position": 69,
+      "reported_title": "From the Founding of the City (Ab Urbe Condita)"
+    },
+    {
+      "key": "books-ancient-070",
+      "position": 70,
+      "reported_title": "The Twelve Caesars"
+    },
+    {
+      "key": "books-ancient-071",
+      "position": 71,
+      "reported_title": "Commentaries on the Gallic War"
+    },
+    {
+      "key": "books-ancient-072",
+      "position": 72,
+      "reported_title": "Anabasis"
+    },
+    {
+      "key": "books-ancient-073",
+      "position": 73,
+      "reported_title": "On Duties (De Officiis)"
+    },
+    {
+      "key": "books-ancient-074",
+      "position": 74,
+      "reported_title": "On the Orator (De Oratore)"
+    },
+    {
+      "key": "books-ancient-075",
+      "position": 75,
+      "reported_title": "Natural History"
+    },
+    {
+      "key": "books-ancient-076",
+      "position": 76,
+      "reported_title": "Letters"
+    },
+    {
+      "key": "books-ancient-077",
+      "position": 77,
+      "reported_title": "Satires"
+    },
+    {
+      "key": "books-ancient-078",
+      "position": 78,
+      "reported_title": "Satyricon"
+    },
+    {
+      "key": "books-ancient-079",
+      "position": 79,
+      "reported_title": "Fasti"
+    },
+    {
+      "key": "books-ancient-080",
+      "position": 80,
+      "reported_title": "Heroides"
+    },
+    {
+      "key": "books-ancient-081",
+      "position": 81,
+      "reported_title": "The Art of Love (Ars Amatoria)"
+    },
+    {
+      "key": "books-ancient-082",
+      "position": 82,
+      "reported_title": "Eclogues"
+    },
+    {
+      "key": "books-ancient-083",
+      "position": 83,
+      "reported_title": "Civil War (Pharsalia)"
+    },
+    {
+      "key": "books-ancient-084",
+      "position": 84,
+      "reported_title": "A True Story (True History)"
+    },
+    {
+      "key": "books-ancient-085",
+      "position": 85,
+      "reported_title": "Daphnis and Chloe"
+    },
+    {
+      "key": "books-ancient-086",
+      "position": 86,
+      "reported_title": "Enneads"
+    },
+    {
+      "key": "books-ancient-087",
+      "position": 87,
+      "reported_title": "The Consolation of Philosophy"
+    },
+    {
+      "key": "books-ancient-088",
+      "position": 88,
+      "reported_title": "The City of God"
+    },
+    {
+      "key": "books-ancient-089",
+      "position": 89,
+      "reported_title": "Ecclesiastical History"
+    },
+    {
+      "key": "books-ancient-090",
+      "position": 90,
+      "reported_title": "Life of Antony"
+    },
+    {
+      "key": "books-ancient-091",
+      "position": 91,
+      "reported_title": "Sayings of the Desert Fathers"
+    },
+    {
+      "key": "books-ancient-092",
+      "position": 92,
+      "reported_title": "The Jewish War"
+    },
+    {
+      "key": "books-ancient-093",
+      "position": 93,
+      "reported_title": "Antiquities of the Jews"
+    },
+    {
+      "key": "books-ancient-094",
+      "position": 94,
+      "reported_title": "Anabasis of Alexander"
+    },
+    {
+      "key": "books-ancient-095",
+      "position": 95,
+      "reported_title": "Description of Greece"
+    },
+    {
+      "key": "books-ancient-096",
+      "position": 96,
+      "reported_title": "Lives of the Eminent Philosophers"
+    },
+    {
+      "key": "books-ancient-097",
+      "position": 97,
+      "reported_title": "Outlines of Pyrrhonism"
+    },
+    {
+      "key": "books-ancient-098",
+      "position": 98,
+      "reported_title": "Elements"
+    },
+    {
+      "key": "books-ancient-099",
+      "position": 99,
+      "reported_title": "Almagest"
+    },
+    {
+      "key": "books-ancient-100",
+      "position": 100,
+      "reported_title": "Hippocratic Corpus"
+    },
+    {
+      "key": "books-ancient-101",
+      "position": 101,
+      "reported_title": "On the Soul (De Anima)"
+    },
+    {
+      "key": "books-ancient-102",
+      "position": 102,
+      "reported_title": "Rhetoric"
+    },
+    {
+      "key": "books-ancient-103",
+      "position": 103,
+      "reported_title": "Physics"
+    },
+    {
+      "key": "books-ancient-104",
+      "position": 104,
+      "reported_title": "On Architecture (De Architectura)"
+    },
+    {
+      "key": "books-ancient-105",
+      "position": 105,
+      "reported_title": "On the Sublime"
+    },
+    {
+      "key": "books-ancient-106",
+      "position": 106,
+      "reported_title": "Institutio Oratoria"
+    },
+    {
+      "key": "books-ancient-107",
+      "position": 107,
+      "reported_title": "Fables"
+    },
+    {
+      "key": "books-ancient-108",
+      "position": 108,
+      "reported_title": "Dyskolos"
+    },
+    {
+      "key": "books-ancient-109",
+      "position": 109,
+      "reported_title": "Menaechmi"
+    },
+    {
+      "key": "books-ancient-110",
+      "position": 110,
+      "reported_title": "The Brothers (Adelphoe)"
+    },
+    {
+      "key": "books-ancient-111",
+      "position": 111,
+      "reported_title": "Han Feizi"
+    },
+    {
+      "key": "books-ancient-112",
+      "position": 112,
+      "reported_title": "Huainanzi"
+    },
+    {
+      "key": "books-ancient-115",
+      "position": 115,
+      "reported_title": "Lüshi Chunqiu (The Annals of Lü Buwei)"
+    },
+    {
+      "key": "books-ancient-118",
+      "position": 118,
+      "reported_title": "Liezi"
+    },
+    {
+      "key": "books-ancient-119",
+      "position": 119,
+      "reported_title": "Baopuzi"
+    },
+    {
+      "key": "books-ancient-120",
+      "position": 120,
+      "reported_title": "Wen Xuan (Selections of Refined Literature)"
+    },
+    {
+      "key": "books-ancient-121",
+      "position": 121,
+      "reported_title": "Meghaduta (The Cloud Messenger)"
+    },
+    {
+      "key": "books-ancient-122",
+      "position": 122,
+      "reported_title": "Panchatantra"
+    },
+    {
+      "key": "books-ancient-123",
+      "position": 123,
+      "reported_title": "Kama Sutra"
+    },
+    {
+      "key": "books-ancient-124",
+      "position": 124,
+      "reported_title": "Buddhacharita"
+    },
+    {
+      "key": "books-ancient-125",
+      "position": 125,
+      "reported_title": "Mūlamadhyamakakārikā (Fundamental Wisdom of the Middle Way)"
+    },
+    {
+      "key": "books-ancient-127",
+      "position": 127,
+      "reported_title": "Sutta Nipata"
+    },
+    {
+      "key": "books-ancient-128",
+      "position": 128,
+      "reported_title": "Vimalakirti Sutra"
+    },
+    {
+      "key": "books-ancient-129",
+      "position": 129,
+      "reported_title": "Diamond Sutra"
+    },
+    {
+      "key": "books-ancient-130",
+      "position": 130,
+      "reported_title": "Yoga Sutras"
+    },
+    {
+      "key": "books-ancient-131",
+      "position": 131,
+      "reported_title": "Manusmriti (Laws of Manu)"
+    },
+    {
+      "key": "books-ancient-132",
+      "position": 132,
+      "reported_title": "Purananuru"
+    },
+    {
+      "key": "books-ancient-133",
+      "position": 133,
+      "reported_title": "Silappatikaram"
+    },
+    {
+      "key": "books-ancient-134",
+      "position": 134,
+      "reported_title": "Manimekalai"
+    },
+    {
+      "key": "books-ancient-135",
+      "position": 135,
+      "reported_title": "Tolkappiyam"
+    },
+    {
+      "key": "books-ancient-138",
+      "position": 138,
+      "reported_title": "The Instruction of Ptahhotep"
+    },
+    {
+      "key": "books-ancient-142",
+      "position": 142,
+      "reported_title": "Descent of Inanna / Ishtar"
+    },
+    {
+      "key": "books-ancient-143",
+      "position": 143,
+      "reported_title": "Baal Cycle"
+    },
+    {
+      "key": "books-ancient-144",
+      "position": 144,
+      "reported_title": "Younger Avesta / Yashts"
+    },
+    {
+      "key": "books-ancient-145",
+      "position": 145,
+      "reported_title": "Hymns of Enheduanna"
+    },
+    {
+      "key": "books-ancient-146",
+      "position": 146,
+      "reported_title": "Instructions of Shuruppak"
+    },
+    {
+      "key": "books-ancient-148",
+      "position": 148,
+      "reported_title": "The Passion of Perpetua and Felicity"
+    },
+    {
+      "key": "books-ancient-149",
+      "position": 149,
+      "reported_title": "Gospel of Thomas"
+    },
+    {
+      "key": "books-ancient-150",
+      "position": 150,
+      "reported_title": "Aethiopica (The Ethiopian Story)"
+    }
+  ]
+}

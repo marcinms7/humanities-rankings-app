@@ -1,0 +1,511 @@
+{
+  "target": "guardian-readers-2026",
+  "presentation": "ranked",
+  "expected_revision": 3,
+  "source_checked_on": "2026-09-13",
+  "status": "imported",
+  "method_note": "Guardian reader ranks preserve published ties. The live corrected page yielded 99 displayed work records; no missing hundredth identity was invented.",
+  "unresolved_count": 0,
+  "entries": [
+    {
+      "work_id": 382,
+      "note": "JRR Tolkien",
+      "source_rank": 1
+    },
+    {
+      "work_id": 7,
+      "note": "George Eliot",
+      "source_rank": 2
+    },
+    {
+      "work_id": 20,
+      "note": "Jane Austen",
+      "source_rank": 3
+    },
+    {
+      "work_id": 74,
+      "note": "John Steinbeck",
+      "source_rank": 4
+    },
+    {
+      "work_id": 284,
+      "note": "Harper Lee",
+      "source_rank": 5
+    },
+    {
+      "work_id": 2,
+      "note": "Leo Tolstoy",
+      "source_rank": 6
+    },
+    {
+      "work_id": 77,
+      "note": "George Orwell",
+      "source_rank": 7
+    },
+    {
+      "work_id": 71,
+      "note": "Joseph Heller",
+      "source_rank": 8
+    },
+    {
+      "work_id": 19,
+      "note": "Gabriel García Márquez",
+      "source_rank": 8
+    },
+    {
+      "work_id": 18,
+      "note": "James Joyce",
+      "source_rank": 10
+    },
+    {
+      "work_id": 290,
+      "note": "Leo Tolstoy",
+      "source_rank": 11
+    },
+    {
+      "work_id": 5,
+      "note": "Herman Melville",
+      "source_rank": 12
+    },
+    {
+      "work_id": 712,
+      "note": "Hilary Mantel",
+      "source_rank": 14
+    },
+    {
+      "work_id": 266,
+      "note": "Emily Brontë",
+      "source_rank": 14
+    },
+    {
+      "work_id": 16,
+      "note": "Marcel Proust",
+      "source_rank": 15
+    },
+    {
+      "work_id": 397,
+      "note": "John Steinbeck",
+      "source_rank": 16
+    },
+    {
+      "work_id": 330,
+      "note": "Jane Austen",
+      "source_rank": 16
+    },
+    {
+      "work_id": 66,
+      "note": "F Scott Fitzgerald",
+      "source_rank": 16
+    },
+    {
+      "work_id": 713,
+      "note": "Thomas Pynchon",
+      "source_rank": 19
+    },
+    {
+      "work_id": 8,
+      "note": "Toni Morrison",
+      "source_rank": 20
+    },
+    {
+      "work_id": 82,
+      "note": "Kurt Vonnegut",
+      "source_rank": 21
+    },
+    {
+      "work_id": 349,
+      "note": "Fyodor Dostoevsky",
+      "source_rank": 21
+    },
+    {
+      "work_id": 15,
+      "note": "Miguel de Cervantes",
+      "source_rank": 23
+    },
+    {
+      "work_id": 286,
+      "note": "Victor Hugo",
+      "source_rank": 24
+    },
+    {
+      "work_id": 280,
+      "note": "Fyodor Dostoevsky",
+      "source_rank": 25
+    },
+    {
+      "work_id": 338,
+      "note": "Charles Dickens",
+      "source_rank": 26
+    },
+    {
+      "work_id": 267,
+      "note": "Charlotte Brontë",
+      "source_rank": 26
+    },
+    {
+      "work_id": 714,
+      "note": "Cormac McCarthy",
+      "source_rank": 28
+    },
+    {
+      "work_id": 715,
+      "note": "Mark Twain",
+      "source_rank": 29
+    },
+    {
+      "work_id": 275,
+      "note": "Charles Dickens",
+      "source_rank": 29
+    },
+    {
+      "work_id": 716,
+      "note": "David Foster Wallace",
+      "source_rank": 31
+    },
+    {
+      "work_id": 387,
+      "note": "Mikhail Bulgakov",
+      "source_rank": 31
+    },
+    {
+      "work_id": 717,
+      "note": "Barbara Kingsolver",
+      "source_rank": 31
+    },
+    {
+      "work_id": 718,
+      "note": "Kazuo Ishiguro",
+      "source_rank": 31
+    },
+    {
+      "work_id": 298,
+      "note": "Alexandre Dumas and Auguste Maquet",
+      "source_rank": 35
+    },
+    {
+      "work_id": 413,
+      "note": "John Kennedy Toole",
+      "source_rank": 36
+    },
+    {
+      "work_id": 719,
+      "note": "John Irving",
+      "source_rank": 37
+    },
+    {
+      "work_id": 128,
+      "note": "JD Salinger",
+      "source_rank": 37
+    },
+    {
+      "work_id": 277,
+      "note": "Mary Shelley",
+      "source_rank": 39
+    },
+    {
+      "work_id": 720,
+      "note": "John Williams",
+      "source_rank": 39
+    },
+    {
+      "work_id": 721,
+      "note": "Rohinton Mistry",
+      "source_rank": 41
+    },
+    {
+      "work_id": 722,
+      "note": "Vikram Seth",
+      "source_rank": 41
+    },
+    {
+      "work_id": 131,
+      "note": "Joseph Conrad",
+      "source_rank": 41
+    },
+    {
+      "work_id": 417,
+      "note": "Margaret Atwood",
+      "source_rank": 41
+    },
+    {
+      "work_id": 386,
+      "note": "Donna Tartt",
+      "source_rank": 41
+    },
+    {
+      "work_id": 68,
+      "note": "Vladimir Nabokov",
+      "source_rank": 46
+    },
+    {
+      "work_id": 723,
+      "note": "Douglas Adams",
+      "source_rank": 46
+    },
+    {
+      "work_id": 724,
+      "note": "Richard Adams",
+      "source_rank": 46
+    },
+    {
+      "work_id": 273,
+      "note": "Charles Dickens",
+      "source_rank": 49
+    },
+    {
+      "work_id": 725,
+      "note": "Ian McEwan",
+      "source_rank": 49
+    },
+    {
+      "work_id": 272,
+      "note": "Charles Dickens",
+      "source_rank": 49
+    },
+    {
+      "work_id": 726,
+      "note": "Sebastian Faulks",
+      "source_rank": 52
+    },
+    {
+      "work_id": 727,
+      "note": "Jane Austen",
+      "source_rank": 52
+    },
+    {
+      "work_id": 728,
+      "note": "Larry McMurtry",
+      "source_rank": 52
+    },
+    {
+      "work_id": 729,
+      "note": "Arundhati Roy",
+      "source_rank": 52
+    },
+    {
+      "work_id": 4,
+      "note": "Thomas Mann",
+      "source_rank": 52
+    },
+    {
+      "work_id": 730,
+      "note": "Roberto Bolaño",
+      "source_rank": 57
+    },
+    {
+      "work_id": 731,
+      "note": "David Mitchell",
+      "source_rank": 57
+    },
+    {
+      "work_id": 732,
+      "note": "Kazuo Ishiguro",
+      "source_rank": 57
+    },
+    {
+      "work_id": 733,
+      "note": "Amor Towles",
+      "source_rank": 60
+    },
+    {
+      "work_id": 734,
+      "note": "AS Byatt",
+      "source_rank": 60
+    },
+    {
+      "work_id": 154,
+      "note": "Salman Rushdie",
+      "source_rank": 62
+    },
+    {
+      "work_id": 735,
+      "note": "Barbara Kingsolver",
+      "source_rank": 63
+    },
+    {
+      "work_id": 736,
+      "note": "Émile Zola",
+      "source_rank": 63
+    },
+    {
+      "work_id": 281,
+      "note": "Gustave Flaubert",
+      "source_rank": 63
+    },
+    {
+      "work_id": 737,
+      "note": "Elena Ferrante",
+      "source_rank": 63
+    },
+    {
+      "work_id": 394,
+      "note": "Daphne du Maurier",
+      "source_rank": 63
+    },
+    {
+      "work_id": 311,
+      "note": "Albert Camus",
+      "source_rank": 63
+    },
+    {
+      "work_id": 355,
+      "note": "Günter Grass",
+      "source_rank": 63
+    },
+    {
+      "work_id": 738,
+      "note": "Susanna Clarke",
+      "source_rank": 70
+    },
+    {
+      "work_id": 739,
+      "note": "Ursula K Le Guin",
+      "source_rank": 70
+    },
+    {
+      "work_id": 79,
+      "note": "Virginia Woolf",
+      "source_rank": 70
+    },
+    {
+      "work_id": 119,
+      "note": "Jack Kerouac",
+      "source_rank": 73
+    },
+    {
+      "work_id": 740,
+      "note": "Milan Kundera",
+      "source_rank": 73
+    },
+    {
+      "work_id": 69,
+      "note": "Aldous Huxley",
+      "source_rank": 75
+    },
+    {
+      "work_id": 144,
+      "note": "Evelyn Waugh",
+      "source_rank": 75
+    },
+    {
+      "work_id": 299,
+      "note": "Ernest Hemingway",
+      "source_rank": 75
+    },
+    {
+      "work_id": 109,
+      "note": "Ernest Hemingway",
+      "source_rank": 75
+    },
+    {
+      "work_id": 741,
+      "note": "John le Carré",
+      "source_rank": 75
+    },
+    {
+      "work_id": 350,
+      "note": "William Faulkner",
+      "source_rank": 80
+    },
+    {
+      "work_id": 742,
+      "note": "Frank Herbert",
+      "source_rank": 80
+    },
+    {
+      "work_id": 333,
+      "note": "Ernest Hemingway",
+      "source_rank": 80
+    },
+    {
+      "work_id": 743,
+      "note": "Susanna Clarke",
+      "source_rank": 80
+    },
+    {
+      "work_id": 381,
+      "note": "Marguerite Yourcenar",
+      "source_rank": 80
+    },
+    {
+      "work_id": 295,
+      "note": "Thomas Hardy",
+      "source_rank": 80
+    },
+    {
+      "work_id": 744,
+      "note": "Laurence Sterne",
+      "source_rank": 80
+    },
+    {
+      "work_id": 745,
+      "note": "Umberto Eco",
+      "source_rank": 80
+    },
+    {
+      "work_id": 292,
+      "note": "Oscar Wilde",
+      "source_rank": 80
+    },
+    {
+      "work_id": 746,
+      "note": "Albert Camus",
+      "source_rank": 80
+    },
+    {
+      "work_id": 310,
+      "note": "Stendhal",
+      "source_rank": 80
+    },
+    {
+      "work_id": 747,
+      "note": "Cormac McCarthy",
+      "source_rank": 80
+    },
+    {
+      "work_id": 748,
+      "note": "Stephen King",
+      "source_rank": 80
+    },
+    {
+      "work_id": 749,
+      "note": "Hanya Yanagihara",
+      "source_rank": 93
+    },
+    {
+      "work_id": 750,
+      "note": "Anthony Doerr",
+      "source_rank": 93
+    },
+    {
+      "work_id": 95,
+      "note": "George Orwell",
+      "source_rank": 93
+    },
+    {
+      "work_id": 353,
+      "note": "Gabriel García Márquez",
+      "source_rank": 93
+    },
+    {
+      "work_id": 380,
+      "note": "Virginia Woolf",
+      "source_rank": 93
+    },
+    {
+      "work_id": 130,
+      "note": "William Somerset Maugham",
+      "source_rank": 93
+    },
+    {
+      "work_id": 157,
+      "note": "John Fowles",
+      "source_rank": 93
+    },
+    {
+      "work_id": 107,
+      "note": "Anthony Powell",
+      "source_rank": 100
+    }
+  ]
+}

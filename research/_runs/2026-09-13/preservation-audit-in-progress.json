@@ -1,0 +1,102 @@
+{
+  "django_migrations": {
+    "before_count": 21,
+    "count": 21,
+    "unchanged": true
+  },
+  "django_content_type": {
+    "before_count": 17,
+    "count": 17,
+    "unchanged": true
+  },
+  "auth_group_permissions": {
+    "before_count": 0,
+    "count": 0,
+    "unchanged": true
+  },
+  "auth_permission": {
+    "before_count": 68,
+    "count": 68,
+    "unchanged": true
+  },
+  "auth_group": {
+    "before_count": 0,
+    "count": 0,
+    "unchanged": true
+  },
+  "core_user_groups": {
+    "before_count": 0,
+    "count": 0,
+    "unchanged": true
+  },
+  "core_user_user_permissions": {
+    "before_count": 0,
+    "count": 0,
+    "unchanged": true
+  },
+  "core_work_authors": {
+    "before_count": 0,
+    "count": 14,
+    "unchanged": false
+  },
+  "core_work_tags": {
+    "before_count": 0,
+    "count": 0,
+    "unchanged": true
+  },
+  "core_rankingpreference": {
+    "before_count": 1,
+    "count": 1,
+    "unchanged": true
+  },
+  "core_rankingrevision": {
+    "before_count": 0,
+    "count": 10,
+    "unchanged": false
+  },
+  "core_planitem": {
+    "before_count": 0,
+    "count": 0,
+    "unchanged": true
+  },
+  "core_libraryitem": {
+    "before_count": 0,
+    "count": 1,
+    "unchanged": false
+  },
+  "django_admin_log": {
+    "before_count": 0,
+    "count": 0,
+    "unchanged": true
+  },
+  "core_edition": {
+    "before_count": 0,
+    "count": 14,
+    "unchanged": false
+  },
+  "core_person": {
+    "before_count": 0,
+    "count": 34,
+    "unchanged": false
+  },
+  "core_rankingentry": {
+    "before_count": 0,
+    "count": 55,
+    "unchanged": false
+  },
+  "core_tag": {
+    "before_count": 0,
+    "count": 0,
+    "unchanged": true
+  },
+  "core_user": {
+    "before_count": 1,
+    "count": 1,
+    "unchanged": true
+  },
+  "core_work": {
+    "before_count": 0,
+    "count": 14,
+    "unchanged": false
+  }
+}

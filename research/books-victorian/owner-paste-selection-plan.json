@@ -1,0 +1,762 @@
+{
+  "target_id": "books-victorian",
+  "representative_source_ids": [
+    "VICTORIAN-003",
+    "VICTORIAN-001",
+    "VICTORIAN-004",
+    "VICTORIAN-R001",
+    "VICTORIAN-R002"
+  ],
+  "entries": [
+    {
+      "key": "books-victorian-001",
+      "position": 1,
+      "reported_title": "Middlemarch"
+    },
+    {
+      "key": "books-victorian-002",
+      "position": 2,
+      "reported_title": "Bleak House"
+    },
+    {
+      "key": "books-victorian-003",
+      "position": 3,
+      "reported_title": "Jane Eyre"
+    },
+    {
+      "key": "books-victorian-004",
+      "position": 4,
+      "reported_title": "Wuthering Heights"
+    },
+    {
+      "key": "books-victorian-005",
+      "position": 5,
+      "reported_title": "Great Expectations"
+    },
+    {
+      "key": "books-victorian-006",
+      "position": 6,
+      "reported_title": "Vanity Fair"
+    },
+    {
+      "key": "books-victorian-007",
+      "position": 7,
+      "reported_title": "David Copperfield"
+    },
+    {
+      "key": "books-victorian-008",
+      "position": 8,
+      "reported_title": "Tess of the d’Urbervilles"
+    },
+    {
+      "key": "books-victorian-009",
+      "position": 9,
+      "reported_title": "The Woman in White"
+    },
+    {
+      "key": "books-victorian-010",
+      "position": 10,
+      "reported_title": "North and South"
+    },
+    {
+      "key": "books-victorian-011",
+      "position": 11,
+      "reported_title": "The Moonstone"
+    },
+    {
+      "key": "books-victorian-012",
+      "position": 12,
+      "reported_title": "The Way We Live Now"
+    },
+    {
+      "key": "books-victorian-013",
+      "position": 13,
+      "reported_title": "The Picture of Dorian Gray"
+    },
+    {
+      "key": "books-victorian-014",
+      "position": 14,
+      "reported_title": "The Mill on the Floss"
+    },
+    {
+      "key": "books-victorian-015",
+      "position": 15,
+      "reported_title": "Daniel Deronda"
+    },
+    {
+      "key": "books-victorian-016",
+      "position": 16,
+      "reported_title": "Little Dorrit"
+    },
+    {
+      "key": "books-victorian-017",
+      "position": 17,
+      "reported_title": "Alice’s Adventures in Wonderland"
+    },
+    {
+      "key": "books-victorian-018",
+      "position": 18,
+      "reported_title": "Dracula"
+    },
+    {
+      "key": "books-victorian-019",
+      "position": 19,
+      "reported_title": "Jude the Obscure"
+    },
+    {
+      "key": "books-victorian-020",
+      "position": 20,
+      "reported_title": "Wives and Daughters"
+    },
+    {
+      "key": "books-victorian-021",
+      "position": 21,
+      "reported_title": "Our Mutual Friend"
+    },
+    {
+      "key": "books-victorian-022",
+      "position": 22,
+      "reported_title": "The Portrait of a Lady"
+    },
+    {
+      "key": "books-victorian-023",
+      "position": 23,
+      "reported_title": "The Mayor of Casterbridge"
+    },
+    {
+      "key": "books-victorian-024",
+      "position": 24,
+      "reported_title": "Villette"
+    },
+    {
+      "key": "books-victorian-025",
+      "position": 25,
+      "reported_title": "A Christmas Carol"
+    },
+    {
+      "key": "books-victorian-026",
+      "position": 26,
+      "reported_title": "Barchester Towers"
+    },
+    {
+      "key": "books-victorian-027",
+      "position": 27,
+      "reported_title": "Far from the Madding Crowd"
+    },
+    {
+      "key": "books-victorian-028",
+      "position": 28,
+      "reported_title": "The Tenant of Wildfell Hall"
+    },
+    {
+      "key": "books-victorian-029",
+      "position": 29,
+      "reported_title": "Strange Case of Dr Jekyll and Mr Hyde"
+    },
+    {
+      "key": "books-victorian-030",
+      "position": 30,
+      "reported_title": "The Return of the Native"
+    },
+    {
+      "key": "books-victorian-031",
+      "position": 31,
+      "reported_title": "Hard Times"
+    },
+    {
+      "key": "books-victorian-032",
+      "position": 32,
+      "reported_title": "A Tale of Two Cities"
+    },
+    {
+      "key": "books-victorian-033",
+      "position": 33,
+      "reported_title": "The Importance of Being Earnest"
+    },
+    {
+      "key": "books-victorian-034",
+      "position": 34,
+      "reported_title": "Silas Marner"
+    },
+    {
+      "key": "books-victorian-035",
+      "position": 35,
+      "reported_title": "The Time Machine"
+    },
+    {
+      "key": "books-victorian-036",
+      "position": 36,
+      "reported_title": "Mary Barton"
+    },
+    {
+      "key": "books-victorian-037",
+      "position": 37,
+      "reported_title": "Oliver Twist"
+    },
+    {
+      "key": "books-victorian-038",
+      "position": 38,
+      "reported_title": "The Adventures of Sherlock Holmes"
+    },
+    {
+      "key": "books-victorian-039",
+      "position": 39,
+      "reported_title": "Lady Audley’s Secret"
+    },
+    {
+      "key": "books-victorian-040",
+      "position": 40,
+      "reported_title": "Adam Bede"
+    },
+    {
+      "key": "books-victorian-041",
+      "position": 41,
+      "reported_title": "The War of the Worlds"
+    },
+    {
+      "key": "books-victorian-042",
+      "position": 42,
+      "reported_title": "In Memoriam A.H.H."
+    },
+    {
+      "key": "books-victorian-043",
+      "position": 43,
+      "reported_title": "The Small House at Allington"
+    },
+    {
+      "key": "books-victorian-044",
+      "position": 44,
+      "reported_title": "The Warden"
+    },
+    {
+      "key": "books-victorian-045",
+      "position": 45,
+      "reported_title": "Doctor Thorne"
+    },
+    {
+      "key": "books-victorian-046",
+      "position": 46,
+      "reported_title": "Cranford"
+    },
+    {
+      "key": "books-victorian-047",
+      "position": 47,
+      "reported_title": "The Odd Women"
+    },
+    {
+      "key": "books-victorian-048",
+      "position": 48,
+      "reported_title": "New Grub Street"
+    },
+    {
+      "key": "books-victorian-049",
+      "position": 49,
+      "reported_title": "On the Origin of Species"
+    },
+    {
+      "key": "books-victorian-050",
+      "position": 50,
+      "reported_title": "The Ring and the Book"
+    },
+    {
+      "key": "books-victorian-051",
+      "position": 51,
+      "reported_title": "Aurora Leigh"
+    },
+    {
+      "key": "books-victorian-052",
+      "position": 52,
+      "reported_title": "Treasure Island"
+    },
+    {
+      "key": "books-victorian-053",
+      "position": 53,
+      "reported_title": "Dombey and Son"
+    },
+    {
+      "key": "books-victorian-054",
+      "position": 54,
+      "reported_title": "The Eustace Diamonds"
+    },
+    {
+      "key": "books-victorian-055",
+      "position": 55,
+      "reported_title": "Phineas Finn"
+    },
+    {
+      "key": "books-victorian-056",
+      "position": 56,
+      "reported_title": "Can You Forgive Her?"
+    },
+    {
+      "key": "books-victorian-057",
+      "position": 57,
+      "reported_title": "Heart of Darkness"
+    },
+    {
+      "key": "books-victorian-058",
+      "position": 58,
+      "reported_title": "The Turn of the Screw"
+    },
+    {
+      "key": "books-victorian-059",
+      "position": 59,
+      "reported_title": "The Island of Doctor Moreau"
+    },
+    {
+      "key": "books-victorian-060",
+      "position": 60,
+      "reported_title": "Through the Looking-Glass"
+    },
+    {
+      "key": "books-victorian-061",
+      "position": 61,
+      "reported_title": "The Woodlanders"
+    },
+    {
+      "key": "books-victorian-062",
+      "position": 62,
+      "reported_title": "The Heavenly Twins"
+    },
+    {
+      "key": "books-victorian-063",
+      "position": 63,
+      "reported_title": "The Story of an African Farm"
+    },
+    {
+      "key": "books-victorian-064",
+      "position": 64,
+      "reported_title": "East Lynne"
+    },
+    {
+      "key": "books-victorian-065",
+      "position": 65,
+      "reported_title": "No Name"
+    },
+    {
+      "key": "books-victorian-066",
+      "position": 66,
+      "reported_title": "Armadale"
+    },
+    {
+      "key": "books-victorian-067",
+      "position": 67,
+      "reported_title": "The Memoirs of Sherlock Holmes"
+    },
+    {
+      "key": "books-victorian-068",
+      "position": 68,
+      "reported_title": "The Sign of Four"
+    },
+    {
+      "key": "books-victorian-069",
+      "position": 69,
+      "reported_title": "A Study in Scarlet"
+    },
+    {
+      "key": "books-victorian-070",
+      "position": 70,
+      "reported_title": "The Last Chronicle of Barset"
+    },
+    {
+      "key": "books-victorian-071",
+      "position": 71,
+      "reported_title": "He Knew He Was Right"
+    },
+    {
+      "key": "books-victorian-072",
+      "position": 72,
+      "reported_title": "Framley Parsonage"
+    },
+    {
+      "key": "books-victorian-073",
+      "position": 73,
+      "reported_title": "Ruth"
+    },
+    {
+      "key": "books-victorian-074",
+      "position": 74,
+      "reported_title": "Cousin Phillis"
+    },
+    {
+      "key": "books-victorian-075",
+      "position": 75,
+      "reported_title": "Shirley"
+    },
+    {
+      "key": "books-victorian-076",
+      "position": 76,
+      "reported_title": "Agnes Grey"
+    },
+    {
+      "key": "books-victorian-077",
+      "position": 77,
+      "reported_title": "Lorna Doone"
+    },
+    {
+      "key": "books-victorian-078",
+      "position": 78,
+      "reported_title": "The Life of Charlotte Brontë"
+    },
+    {
+      "key": "books-victorian-079",
+      "position": 79,
+      "reported_title": "Carmilla"
+    },
+    {
+      "key": "books-victorian-080",
+      "position": 80,
+      "reported_title": "Uncle Silas"
+    },
+    {
+      "key": "books-victorian-081",
+      "position": 81,
+      "reported_title": "Nicholas Nickleby"
+    },
+    {
+      "key": "books-victorian-082",
+      "position": 82,
+      "reported_title": "The Old Curiosity Shop"
+    },
+    {
+      "key": "books-victorian-083",
+      "position": 83,
+      "reported_title": "The History of Henry Esmond"
+    },
+    {
+      "key": "books-victorian-084",
+      "position": 84,
+      "reported_title": "The Newcomes"
+    },
+    {
+      "key": "books-victorian-085",
+      "position": 85,
+      "reported_title": "Pendennis"
+    },
+    {
+      "key": "books-victorian-086",
+      "position": 86,
+      "reported_title": "The Egoist"
+    },
+    {
+      "key": "books-victorian-087",
+      "position": 87,
+      "reported_title": "The Ordeal of Richard Feverel"
+    },
+    {
+      "key": "books-victorian-088",
+      "position": 88,
+      "reported_title": "Diana of the Crossways"
+    },
+    {
+      "key": "books-victorian-089",
+      "position": 89,
+      "reported_title": "News from Nowhere"
+    },
+    {
+      "key": "books-victorian-090",
+      "position": 90,
+      "reported_title": "Goblin Market and Other Poems"
+    },
+    {
+      "key": "books-victorian-091",
+      "position": 91,
+      "reported_title": "Men and Women"
+    },
+    {
+      "key": "books-victorian-092",
+      "position": 92,
+      "reported_title": "Idylls of the King"
+    },
+    {
+      "key": "books-victorian-093",
+      "position": 93,
+      "reported_title": "Sonnets from the Portuguese"
+    },
+    {
+      "key": "books-victorian-094",
+      "position": 94,
+      "reported_title": "Culture and Anarchy"
+    },
+    {
+      "key": "books-victorian-095",
+      "position": 95,
+      "reported_title": "The Renaissance"
+    },
+    {
+      "key": "books-victorian-096",
+      "position": 96,
+      "reported_title": "On Liberty"
+    },
+    {
+      "key": "books-victorian-097",
+      "position": 97,
+      "reported_title": "The Subjection of Women"
+    },
+    {
+      "key": "books-victorian-098",
+      "position": 98,
+      "reported_title": "Unto This Last"
+    },
+    {
+      "key": "books-victorian-099",
+      "position": 99,
+      "reported_title": "The Stones of Venice"
+    },
+    {
+      "key": "books-victorian-100",
+      "position": 100,
+      "reported_title": "Modern Painters"
+    },
+    {
+      "key": "books-victorian-101",
+      "position": 101,
+      "reported_title": "Past and Present"
+    },
+    {
+      "key": "books-victorian-102",
+      "position": 102,
+      "reported_title": "Apologia Pro Vita Sua"
+    },
+    {
+      "key": "books-victorian-103",
+      "position": 103,
+      "reported_title": "Wonderful Adventures of Mrs Seacole in Many Lands"
+    },
+    {
+      "key": "books-victorian-104",
+      "position": 104,
+      "reported_title": "London Labour and the London Poor"
+    },
+    {
+      "key": "books-victorian-105",
+      "position": 105,
+      "reported_title": "The Descent of Man"
+    },
+    {
+      "key": "books-victorian-106",
+      "position": 106,
+      "reported_title": "The Malay Archipelago"
+    },
+    {
+      "key": "books-victorian-107",
+      "position": 107,
+      "reported_title": "Notes on Nursing"
+    },
+    {
+      "key": "books-victorian-108",
+      "position": 108,
+      "reported_title": "She: A History of Adventure"
+    },
+    {
+      "key": "books-victorian-109",
+      "position": 109,
+      "reported_title": "King Solomon’s Mines"
+    },
+    {
+      "key": "books-victorian-110",
+      "position": 110,
+      "reported_title": "Kidnapped"
+    },
+    {
+      "key": "books-victorian-111",
+      "position": 111,
+      "reported_title": "The Master of Ballantrae"
+    },
+    {
+      "key": "books-victorian-112",
+      "position": 112,
+      "reported_title": "Lord Jim"
+    },
+    {
+      "key": "books-victorian-113",
+      "position": 113,
+      "reported_title": "Three Men in a Boat"
+    },
+    {
+      "key": "books-victorian-114",
+      "position": 114,
+      "reported_title": "The Diary of a Nobody"
+    },
+    {
+      "key": "books-victorian-115",
+      "position": 115,
+      "reported_title": "The Jungle Book"
+    },
+    {
+      "key": "books-victorian-116",
+      "position": 116,
+      "reported_title": "Kim"
+    },
+    {
+      "key": "books-victorian-117",
+      "position": 117,
+      "reported_title": "The Invisible Man"
+    },
+    {
+      "key": "books-victorian-118",
+      "position": 118,
+      "reported_title": "The Beetle"
+    },
+    {
+      "key": "books-victorian-119",
+      "position": 119,
+      "reported_title": "Trilby"
+    },
+    {
+      "key": "books-victorian-120",
+      "position": 120,
+      "reported_title": "The Cloister and the Hearth"
+    },
+    {
+      "key": "books-victorian-121",
+      "position": 121,
+      "reported_title": "Aurora Floyd"
+    },
+    {
+      "key": "books-victorian-122",
+      "position": 122,
+      "reported_title": "Miss Marjoribanks"
+    },
+    {
+      "key": "books-victorian-123",
+      "position": 123,
+      "reported_title": "Salem Chapel"
+    },
+    {
+      "key": "books-victorian-124",
+      "position": 124,
+      "reported_title": "Hester"
+    },
+    {
+      "key": "books-victorian-125",
+      "position": 125,
+      "reported_title": "Sybil; or, The Two Nations"
+    },
+    {
+      "key": "books-victorian-126",
+      "position": 126,
+      "reported_title": "The Water-Babies"
+    },
+    {
+      "key": "books-victorian-127",
+      "position": 127,
+      "reported_title": "Tom Brown’s School Days"
+    },
+    {
+      "key": "books-victorian-128",
+      "position": 128,
+      "reported_title": "The Heir of Redclyffe"
+    },
+    {
+      "key": "books-victorian-129",
+      "position": 129,
+      "reported_title": "The Princess and the Goblin"
+    },
+    {
+      "key": "books-victorian-130",
+      "position": 130,
+      "reported_title": "Phantastes"
+    },
+    {
+      "key": "books-victorian-131",
+      "position": 131,
+      "reported_title": "Lilith"
+    },
+    {
+      "key": "books-victorian-132",
+      "position": 132,
+      "reported_title": "The Happy Prince and Other Tales"
+    },
+    {
+      "key": "books-victorian-133",
+      "position": 133,
+      "reported_title": "The Ballad of Reading Gaol"
+    },
+    {
+      "key": "books-victorian-134",
+      "position": 134,
+      "reported_title": "Flatland"
+    },
+    {
+      "key": "books-victorian-135",
+      "position": 135,
+      "reported_title": "Erewhon"
+    },
+    {
+      "key": "books-victorian-136",
+      "position": 136,
+      "reported_title": "The Romance of a Shop"
+    },
+    {
+      "key": "books-victorian-137",
+      "position": 137,
+      "reported_title": "Reuben Sachs"
+    },
+    {
+      "key": "books-victorian-138",
+      "position": 138,
+      "reported_title": "Keynotes"
+    },
+    {
+      "key": "books-victorian-139",
+      "position": 139,
+      "reported_title": "The Story of a Modern Woman"
+    },
+    {
+      "key": "books-victorian-140",
+      "position": 140,
+      "reported_title": "A Child of the Jago"
+    },
+    {
+      "key": "books-victorian-141",
+      "position": 141,
+      "reported_title": "Born in Exile"
+    },
+    {
+      "key": "books-victorian-142",
+      "position": 142,
+      "reported_title": "The Nether World"
+    },
+    {
+      "key": "books-victorian-143",
+      "position": 143,
+      "reported_title": "A Pair of Blue Eyes"
+    },
+    {
+      "key": "books-victorian-144",
+      "position": 144,
+      "reported_title": "Romola"
+    },
+    {
+      "key": "books-victorian-145",
+      "position": 145,
+      "reported_title": "Felix Holt, the Radical"
+    },
+    {
+      "key": "books-victorian-146",
+      "position": 146,
+      "reported_title": "Scenes of Clerical Life"
+    },
+    {
+      "key": "books-victorian-147",
+      "position": 147,
+      "reported_title": "The Law and the Lady"
+    },
+    {
+      "key": "books-victorian-148",
+      "position": 148,
+      "reported_title": "The Earthly Paradise"
+    },
+    {
+      "key": "books-victorian-149",
+      "position": 149,
+      "reported_title": "Poems and Ballads, First Series"
+    },
+    {
+      "key": "books-victorian-150",
+      "position": 150,
+      "reported_title": "The Rubáiyát of Omar Khayyám"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.git
+.venv
+.node
+**/node_modules
+data
+media
+staticfiles
+backend/static/app
+**/__pycache__
+*.sqlite3
+.env
+artifacts

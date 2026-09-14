@@ -1,0 +1,34 @@
+{
+  "input_sha256": "3b57316d058171d3f23faacf9631394fa9b7b3ce77749d81be40f05e847f8f45",
+  "input_path": "research/catalog/batch-01.json",
+  "records": [
+    {
+      "key": "doll",
+      "work_id": 1,
+      "edition_id": 1,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "warpeace",
+      "work_id": 2,
+      "edition_id": 2,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "kokoro",
+      "work_id": 3,
+      "edition_id": 3,
+      "created_work": true,
+      "created_edition": true
+    },
+    {
+      "key": "magic",
+      "work_id": 4,
+      "edition_id": 4,
+      "created_work": true,
+      "created_edition": true
+    }
+  ]
+}

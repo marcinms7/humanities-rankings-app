@@ -1,0 +1,148 @@
+{
+  "summary": "Seven new Polish, Japanese, Italian and Portuguese sources, including dissenting archival criticism and translation interviews. The inaccessible Ōe An Echo of Heaven review remains an uncounted lead.",
+  "next": "Add non-European traditions and reader communities without relying on one translation outlet.",
+  "sources": [
+    {
+      "id": "R096",
+      "url": "https://culture.pl/pl/artykul/powiesc-jako-forma-sztuki",
+      "title": "Powieść jako forma sztuki",
+      "publisher": "Culture.pl / Adam Mickiewicz Institute",
+      "family": "institutional_critical_feature",
+      "language": "pl",
+      "note": "Explores novels by visual artists, including Bruszewski’s multimedia fiction, Leto’s literary-film diptych and Niemczyk’s countercultural novel; expands form beyond conventional prose prestige.",
+      "candidates": [
+        "Big Dick (Wojciech Bruszewski)",
+        "Sailor",
+        "Kurtyzana i pisklęta"
+      ],
+      "location": "Artist-novel case studies",
+      "limits": "Cultural promotion; book/film/artwork identities must remain distinct, English editions unresolved.",
+      "targets": {
+        "A": "Regional critical evidence on literary form and reception.",
+        "L": "Specific formal and reception arguments for fiction candidates."
+      }
+    },
+    {
+      "id": "R097",
+      "url": "https://culture.pl/pl/dzielo/maria-kuncewiczowa-cudzoziemka",
+      "title": "Maria Kuncewiczowa, Cudzoziemka",
+      "publisher": "Culture.pl / Adam Mickiewicz Institute",
+      "family": "critical_review",
+      "language": "pl",
+      "note": "Czempinski analyses one-day recollection, musical and dreamlike structure, and Róża’s compelling yet destructive anger; contrasts Schulz’s psychological reading with later feminist emphasis.",
+      "candidates": [
+        "The Stranger (Maria Kuncewiczowa)"
+      ],
+      "location": "Psychological construction and feminist reception",
+      "limits": "Not Camus’s similarly titled work; historical reviews mediated through current critic.",
+      "targets": {
+        "A": "Regional critical evidence on literary form and reception.",
+        "L": "Specific formal and reception arguments for fiction candidates."
+      }
+    },
+    {
+      "id": "R098",
+      "url": "https://allreviews.jp/review/397/",
+      "title": "日常生活の冒険 — 澁澤龍彦による書評",
+      "publisher": "ALL REVIEWS",
+      "family": "archival_critical_review",
+      "language": "ja",
+      "note": "Shibusawa praises Ōe’s lyrical urban rhythm and irony but finds its heroic-adventure claims and ending unconvincing; separates everyday observation from abstract philosophical rhetoric.",
+      "candidates": [
+        "日常生活の冒険 (Adventures in Everyday Life)",
+        "Kenzaburō Ōe"
+      ],
+      "location": "Critical text paragraphs 69–81",
+      "limits": "Reprinted review, not a newly independent 2017 judgment; English title descriptive, translation availability unverified.",
+      "targets": {
+        "A": "Regional critical evidence on literary form and reception.",
+        "L": "Specific formal and reception arguments for fiction candidates."
+      }
+    },
+    {
+      "id": "R099",
+      "url": "https://www.doppiozero.com/la-storia-morante-narratrice-senza-anagrafe",
+      "title": "La Storia: Morante narratrice senza anagrafe",
+      "publisher": "Doppiozero",
+      "family": "scholarly_critical_essay",
+      "language": "it",
+      "note": "Schilirò contrasts narrative voices across Morante’s four novels and questions the apparent omniscience of History; entertains Pasolini’s uneven assessment of its sections.",
+      "candidates": [
+        "History (Elsa Morante)",
+        "Lies and Sorcery",
+        "Arturo's Island",
+        "Aracoeli"
+      ],
+      "location": "Comparative opening and narrative perspective",
+      "limits": "Quoted Pasolini criticism is mediated; realist appearance need not exclude fable.",
+      "targets": {
+        "A": "Regional critical evidence on literary form and reception.",
+        "L": "Specific formal and reception arguments for fiction candidates."
+      }
+    },
+    {
+      "id": "R100",
+      "url": "https://www.doppiozero.com/elsa-morante-e-lanno-della-storia",
+      "title": "Elsa Morante e L’anno della Storia",
+      "publisher": "Doppiozero",
+      "family": "scholarly_review",
+      "language": "it",
+      "note": "Scaffai examines Borghesi’s reconstruction of the History controversy: ideological allegiance and reactions to other reviewers sometimes displaced close attention to the novel itself.",
+      "candidates": [
+        "History (Elsa Morante)",
+        "L'anno della Storia",
+        "Angela Borghesi"
+      ],
+      "location": "Reception dispute and Ginzburg/Dostoevsky comparison",
+      "limits": "Different review from Schilirò, shared publisher; historical judgments not counted as separate sources.",
+      "targets": {
+        "A": "Regional critical evidence on literary form and reception.",
+        "L": "Specific formal and reception arguments for fiction candidates.",
+        "N": "Critical evaluation of Borghesi’s historical study of literary reception."
+      }
+    },
+    {
+      "id": "R101",
+      "url": "https://revistacult.uol.com.br/home/critica-de-guimaraes-rosa/",
+      "title": "A crítica de Guimarães Rosa",
+      "publisher": "Revista Cult",
+      "family": "scholarly_critical_essay",
+      "language": "pt",
+      "note": "Holanda traces Benedito Nunes’s interpretation of Rosa between poetic imagery and philosophical concepts; love joins the problems of evil, language and existence.",
+      "candidates": [
+        "Grande sertão: veredas",
+        "Corpo de baile",
+        "O dorso do tigre",
+        "Benedito Nunes"
+      ],
+      "location": "Nunes’s critical method and love interpretation",
+      "limits": "Mediates earlier Nunes essays; neither their publication count nor quoted passages create extra sources.",
+      "targets": {
+        "A": "Regional critical evidence on literary form and reception.",
+        "L": "Specific formal and reception arguments for fiction candidates.",
+        "N": "Nunes’s collected philosophical literary essays are described and interpreted.",
+        "B": "O dorso do tigre links philosophical inquiry and literary interpretation.",
+        "P": "Specific evidence for Benedito Nunes’s philosophical-critical contribution."
+      }
+    },
+    {
+      "id": "R102",
+      "url": "https://revistacult.uol.com.br/home/caminhos-do-sertao-no-mundo-arabe/",
+      "title": "Caminhos do sertão no mundo árabe",
+      "publisher": "Revista Cult",
+      "family": "translator_interview",
+      "language": "pt",
+      "note": "Benabdelouahed describes translating Rosa into Arabic and the scarcity of Portuguese specialists; experimental form and publisher expectations previously impeded circulation.",
+      "candidates": [
+        "Grande sertão: veredas",
+        "Said Benabdelouahed"
+      ],
+      "location": "Accessible opening interview",
+      "limits": "Partial paywall access; only visible translation process and reception barriers support notes.",
+      "targets": {
+        "A": "Regional critical evidence on literary form and reception.",
+        "L": "Specific formal and reception arguments for fiction candidates."
+      }
+    }
+  ]
+}

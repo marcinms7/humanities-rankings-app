@@ -1,0 +1,2336 @@
+{
+  "target": "science-books-all-time",
+  "expected_revision": 1,
+  "allow_expansion": true,
+  "version": "owner-chat-science-books-all-time-top-150-2026-09-14",
+  "published_on": "2026-09-14",
+  "allow_pending_metadata": true,
+  "reviewed_exclusions": [],
+  "notice": "Owner-supplied Science books · All time Top 150. The detailed source register, source-access limits and report caveats are retained; no personal numerical scores are set.",
+  "method": "Owner-supplied evidence-informed global science-books synthesis. The report distinguishes historical importance, readability and current scientific limitations.",
+  "entries": [
+    {
+      "key": "science-books-all-time-owner-001",
+      "item_id": 11,
+      "source_ids": [
+        "SCIENCE-S014",
+        "SCIENCE-S053",
+        "SCIENCE-S154",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 1 in the owner-supplied Science books · All time synthesis. An extraordinary sustained argument: variation, selection, biogeography and imperfect evidence become a coherent explanation of life's diversity. Its combination of intellectual transformation, patient reasoning and continued readability earns first place.",
+      "reading": "An extraordinary sustained argument: variation, selection, biogeography and imperfect evidence become a coherent explanation of life's diversity. Its combination of intellectual transformation, patient reasoning and continued readability earns first place.",
+      "caveat": "Natural selection remains fundamental; Darwin lacked genetics, molecular biology and modern dating. His inheritance mechanisms and some auxiliary explanations are obsolete. The 1859 and later editions differ substantially.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-002",
+      "item_id": 7991,
+      "source_ids": [
+        "SCIENCE-S015",
+        "SCIENCE-S037",
+        "SCIENCE-S183"
+      ],
+      "standing": "Position 2 in the owner-supplied Science books · All time synthesis. The outstanding foundational synthesis of mathematical physics, connecting terrestrial motion and celestial mechanics through a common framework. Its demonstrations changed what a scientific explanation could accomplish.",
+      "reading": "The outstanding foundational synthesis of mathematical physics, connecting terrestrial motion and celestial mechanics through a common framework. Its demonstrations changed what a scientific explanation could accomplish.",
+      "caveat": "Newtonian mechanics is an approximation outside relativistic and quantum regimes. Absolute space and time are not the modern account; the geometrical presentation is much harder than contemporary introductory mechanics.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-003",
+      "item_id": 7992,
+      "source_ids": [
+        "SCIENCE-S013",
+        "SCIENCE-S194",
+        "SCIENCE-S175"
+      ],
+      "standing": "Position 3 in the owner-supplied Science books · All time synthesis. An unusually penetrating account of how physicists reason, combining mechanics, electromagnetism and quantum theory with memorable derivations and examples. A rare teaching work that rewards repeated study throughout a scientific career.",
+      "reading": "An unusually penetrating account of how physicists reason, combining mechanics, electromagnetism and quantum theory with memorable derivations and examples. A rare teaching work that rewards repeated study throughout a scientific career.",
+      "caveat": "Calculus and sustained problem solving are needed. These lectures are not a complete modern curriculum, and later particle physics is absent. Use the corrected edition and online errata; engaging exposition does not make the exercises easy.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-004",
+      "item_id": 7993,
+      "source_ids": [
+        "SCIENCE-S022",
+        "SCIENCE-S215",
+        "SCIENCE-S174"
+      ],
+      "standing": "Position 4 in the owner-supplied Science books · All time synthesis. Unites astronomy, planetary science, biological evolution and the human search for knowledge in exceptionally resonant prose. Its breadth and public influence make it a benchmark for ambitious popular explanation.",
+      "reading": "Unites astronomy, planetary science, biological evolution and the human search for knowledge in exceptionally resonant prose. Its breadth and public influence make it a benchmark for ambitious popular explanation.",
+      "caveat": "The 1980 account predates exoplanet surveys, precision cosmology and much planetary exploration. Some historical sketches are overly schematic. Its scientific outlook lasts better than every numerical estimate or historical anecdote.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-005",
+      "item_id": 12,
+      "source_ids": [
+        "SCIENCE-S016",
+        "SCIENCE-S203",
+        "SCIENCE-S166"
+      ],
+      "standing": "Position 5 in the owner-supplied Science books · All time synthesis. A model of scientific argument addressed to the public: evidence about pesticides becomes an explanation of interconnected ecosystems and unintended consequences. Its literary control and influence on environmental awareness are exceptional.",
+      "reading": "A model of scientific argument addressed to the public: evidence about pesticides becomes an explanation of interconnected ecosystems and unintended consequences. Its literary control and influence on environmental awareness are exceptional.",
+      "caveat": "Assess individual chemicals, doses and uses separately; the book is not evidence that every synthetic pesticide is equally harmful. Toxicology, exposure assessment and regulation have developed substantially since 1962.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-006",
+      "item_id": 3147,
+      "source_ids": [
+        "SCIENCE-S038",
+        "SCIENCE-S057",
+        "SCIENCE-S237"
+      ],
+      "standing": "Position 6 in the owner-supplied Science books · All time synthesis. Made definitions, explicit assumptions and deductive proof into an enduring architecture of mathematical explanation. Its influence on education and scientific reasoning is difficult to overstate.",
+      "reading": "Made definitions, explicit assumptions and deductive proof into an enduring architecture of mathematical explanation. Its influence on education and scientific reasoning is difficult to overstate.",
+      "caveat": "This is Euclidean geometry, not all possible geometry. Some arguments rely on diagrammatic assumptions omitted from the stated axioms. Modern editions and commentaries differ in how they repair these gaps.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-007",
+      "item_id": 552,
+      "source_ids": [
+        "SCIENCE-S006",
+        "SCIENCE-S053",
+        "SCIENCE-S204",
+        "SCIENCE-S217",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 7 in the owner-supplied Science books · All time synthesis. A remarkably forceful explanation of gene-centred evolutionary reasoning, rich in thought experiments and accounts of cooperation. Its conceptual clarity and impact on public biological thinking give it lasting importance.",
+      "reading": "A remarkably forceful explanation of gene-centred evolutionary reasoning, rich in thought experiments and accounts of cooperation. Its conceptual clarity and impact on public biological thinking give it lasting importance.",
+      "caveat": "Genes have no intentions, and the metaphor does not imply moral selfishness or genetic inevitability. The book popularizes earlier work by Hamilton, Williams and others; development, ecology and multiple levels of selection require complementary treatments.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-008",
+      "item_id": 7994,
+      "source_ids": [
+        "SCIENCE-S170",
+        "SCIENCE-S194",
+        "SCIENCE-S175"
+      ],
+      "standing": "Position 8 in the owner-supplied Science books · All time synthesis. An exceptional demonstration that a genuinely difficult physical theory can be explained without presenting its full mathematical machinery. Probability amplitudes become intelligible through carefully constructed visual reasoning.",
+      "reading": "An exceptional demonstration that a genuinely difficult physical theory can be explained without presenting its full mathematical machinery. Probability amplitudes become intelligible through carefully constructed visual reasoning.",
+      "caveat": "The arrows and paths are explanatory representations, not little classical objects with observable trajectories. It covers a particular quantum field theory, not the whole Standard Model or quantum gravity.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-009",
+      "item_id": 7995,
+      "source_ids": [
+        "SCIENCE-S153",
+        "SCIENCE-S154",
+        "SCIENCE-S218"
+      ],
+      "standing": "Position 9 in the owner-supplied Science books · All time synthesis. Combines exact observation, geological inference and scientific travel writing at a remarkably high level. Readers can follow the accumulation of questions that helped make Darwin's later synthesis possible.",
+      "reading": "Combines exact observation, geological inference and scientific travel writing at a remarkably high level. Readers can follow the accumulation of questions that helped make Darwin's later synthesis possible.",
+      "caveat": "The travel narrative is not already the mature theory of natural selection. Some identifications and explanations changed, and colonial assumptions require attention. The familiar 1845 revision differs from the 1839 first publication.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-010",
+      "item_id": 7996,
+      "source_ids": [
+        "SCIENCE-S039",
+        "SCIENCE-S216",
+        "SCIENCE-S184"
+      ],
+      "standing": "Position 10 in the owner-supplied Science books · All time synthesis. Uses dialogue to make rival cosmological systems intellectually vivid, joining observation, thought experiment and literary drama. A pivotal example of scientific persuasion in a vernacular language.",
+      "reading": "Uses dialogue to make rival cosmological systems intellectually vivid, joining observation, thought experiment and literary drama. A pivotal example of scientific persuasion in a vernacular language.",
+      "caveat": "The argument from tides is wrong, and the preferred circular planetary motions are obsolete. Its importance does not make every anti-Aristotelian argument sound. A scholarly translation helps distinguish the interlocutors' positions.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-011",
+      "item_id": 7997,
+      "source_ids": [
+        "SCIENCE-S026",
+        "SCIENCE-S265",
+        "SCIENCE-S003"
+      ],
+      "standing": "Position 11 in the owner-supplied Science books · All time synthesis. A visually and intellectually original investigation of why organisms take particular shapes. It established a lasting agenda for connecting biological form with geometry, scaling and physical constraint.",
+      "reading": "A visually and intellectually original investigation of why organisms take particular shapes. It established a lasting agenda for connecting biological form with geometry, scaling and physical constraint.",
+      "caveat": "Physical resemblance alone does not establish evolutionary ancestry or developmental mechanism. Thompson underweighted natural selection and historical contingency. The 1942 expansion and later abridgments differ greatly in scope.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-012",
+      "item_id": 4077,
+      "source_ids": [
+        "SCIENCE-S171",
+        "SCIENCE-S261",
+        "SCIENCE-S244"
+      ],
+      "standing": "Position 12 in the owner-supplied Science books · All time synthesis. A short, fertile bridge between physics and heredity, asking how molecular organization could sustain biological order and stable inheritance. Its questions helped draw physicists toward molecular biology.",
+      "reading": "A short, fertile bridge between physics and heredity, asking how molecular organization could sustain biological order and stable inheritance. Its questions helped draw physicists toward molecular biology.",
+      "caveat": "The 'aperiodic crystal' is suggestive rather than a discovery of DNA's structure. Negative entropy needs thermodynamic qualification, and the account predates molecular genetics. Influence should not erase contemporary biologists' contributions.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-013",
+      "item_id": 7998,
+      "source_ids": [
+        "SCIENCE-S023",
+        "SCIENCE-S024",
+        "SCIENCE-S218"
+      ],
+      "standing": "Position 13 in the owner-supplied Science books · All time synthesis. Exact seasonal observation develops into a far-reaching account of ecological membership and responsibility. Its compression, local attention and integration of science with ethical argument remain unusually powerful.",
+      "reading": "Exact seasonal observation develops into a far-reaching account of ecological membership and responsibility. Its compression, local attention and integration of science with ethical argument remain unusually powerful.",
+      "caveat": "The land ethic is a normative argument, not an experimentally proved conclusion. Some natural-history details and population explanations need correction; the author's foundation itself distinguishes enduring insight from factual infallibility.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-014",
+      "item_id": 549,
+      "source_ids": [
+        "SCIENCE-S031",
+        "SCIENCE-S089",
+        "SCIENCE-S221",
+        "SCIENCE-S067"
+      ],
+      "standing": "Position 14 in the owner-supplied Science books · All time synthesis. Explains cancer through the changing ideas and experiments that made it a biological problem, not merely a collection of tragedies. Scientific development and narrative construction reinforce each other exceptionally well.",
+      "reading": "Explains cancer through the changing ideas and experiments that made it a biological problem, not merely a collection of tragedies. Scientific development and narrative construction reinforce each other exceptionally well.",
+      "caveat": "Cancer is many diseases. The 2010 treatment story predates major subsequent developments in immunotherapy, targeted treatment and molecular classification. It should be read alongside current cancer biology, not as treatment guidance.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-015",
+      "item_id": 2942,
+      "source_ids": [
+        "SCIENCE-S049",
+        "SCIENCE-S163",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 15 in the owner-supplied Science books · All time synthesis. An inventive exploration of formal systems, recursion and self-reference whose structure enacts its subject. It offers extraordinary intellectual play and depth at the boundary of mathematics and cognition.",
+      "reading": "An inventive exploration of formal systems, recursion and self-reference whose structure enacts its subject. It offers extraordinary intellectual play and depth at the boundary of mathematics and cognition.",
+      "caveat": "The mathematical explanations and the account of mind do not have the same evidential status. Strange loops are not an established sufficient explanation of consciousness, and the discussion predates modern AI and neuroscience.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-016",
+      "item_id": 7972,
+      "source_ids": [
+        "SCIENCE-S169",
+        "SCIENCE-S166",
+        "SCIENCE-S218"
+      ],
+      "standing": "Position 16 in the owner-supplied Science books · All time synthesis. Transforms oceanography into a large-scale narrative of planetary process while preserving the pleasures of exact description. One of the strongest combinations of scientific synthesis and lyrical prose.",
+      "reading": "Transforms oceanography into a large-scale narrative of planetary process while preserving the pleasures of exact description. One of the strongest combinations of scientific synthesis and lyrical prose.",
+      "caveat": "Written before plate tectonics became established and before modern deep-ocean observation. Some geological explanations and estimates are dated; contemporary ocean warming and acidification require additional reading.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-017",
+      "item_id": 198,
+      "source_ids": [
+        "SCIENCE-S034",
+        "SCIENCE-S048",
+        "SCIENCE-S282"
+      ],
+      "standing": "Position 17 in the owner-supplied Science books · All time synthesis. A major achievement in explaining nuclear physics through the experiments, institutions and decisions that produced the atomic bomb. Its scale is justified by the density of scientific and historical argument.",
+      "reading": "A major achievement in explaining nuclear physics through the experiments, institutions and decisions that produced the atomic bomb. Its scale is justified by the density of scientific and historical argument.",
+      "caveat": "It is not a neutral transcript of discovery or a complete international history. Subsequent archival work complicates some accounts, and readers must separate reconstructed scientific reasoning from participants' retrospective narratives.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-018",
+      "item_id": 7999,
+      "source_ids": [
+        "SCIENCE-S008",
+        "SCIENCE-S009",
+        "SCIENCE-S208",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 18 in the owner-supplied Science books · All time synthesis. Makes sensory biology accessible without treating human perception as the universal standard. Its careful movement among species, experiments and explanatory limitations gives it unusual depth and contemporary reading value.",
+      "reading": "Makes sensory biology accessible without treating human perception as the universal standard. Its careful movement among species, experiments and explanatory limitations gives it unusual depth and contemporary reading value.",
+      "caveat": "Sensory abilities vary within species, and behaviour cannot give direct access to another animal's subjective experience. Findings continue to change; evocative descriptions of perception should not be mistaken for literal reports from animal minds.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-019",
+      "item_id": 230,
+      "source_ids": [
+        "SCIENCE-S035",
+        "SCIENCE-S036",
+        "SCIENCE-S178"
+      ],
+      "standing": "Position 19 in the owner-supplied Science books · All time synthesis. Changed discussion of scientific development by explaining normal research, exemplary problems and conceptual change. It belongs here because the development of scientific ideas is the central subject.",
+      "reading": "Changed discussion of scientific development by explaining normal research, exemplary problems and conceptual change. It belongs here because the development of scientific ideas is the central subject.",
+      "caveat": "Paradigms are not a universal mechanism with fixed boundaries. The model is contested across disciplines, and the 1970 postscript substantially clarifies it. The book does not establish that evidence or truth is arbitrary.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-020",
+      "item_id": 8000,
+      "source_ids": [
+        "SCIENCE-S017",
+        "SCIENCE-S064"
+      ],
+      "standing": "Position 20 in the owner-supplied Science books · All time synthesis. A major synthesis of geometrical optics, vision and experimental investigation from the Arabic scientific tradition. Its detailed treatment of light and perception influenced later optical inquiry across languages.",
+      "reading": "A major synthesis of geometrical optics, vision and experimental investigation from the Arabic scientific tradition. Its detailed treatment of light and perception influenced later optical inquiry across languages.",
+      "caveat": "Its physiology of vision and some physical assumptions are superseded. Composition dates and surviving textual layers are uncertain. Modern scholarly translations cover different books; reading one translated volume is not reading the entire treatise.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-021",
+      "item_id": 3618,
+      "source_ids": [
+        "SCIENCE-S007",
+        "SCIENCE-S010",
+        "SCIENCE-S219"
+      ],
+      "standing": "Position 21 in the owner-supplied Science books · All time synthesis. An exceptional account of chemical thinking as a material, practical and human activity. The element-linked chapters unite precision, memory and literary invention; strong institutional and reader recognition supports its high standing.",
+      "reading": "An exceptional account of chemical thinking as a material, practical and human activity. The element-linked chapters unite precision, memory and literary invention; strong institutional and reader recognition supports its high standing.",
+      "caveat": "This is a hybrid chemical memoir, including two invented tales, rather than systematic chemical instruction. Those features are disclosed rather than treated as laboratory evidence. The Royal Institution result was one selected poll, not a worldwide consensus.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-022",
+      "item_id": 1735,
+      "source_ids": [
+        "SCIENCE-S152",
+        "SCIENCE-S183",
+        "SCIENCE-S174"
+      ],
+      "standing": "Position 22 in the owner-supplied Science books · All time synthesis. A rare opportunity to follow relativity through its creator's patient conceptual exposition. Operational definitions, reference frames and simple thought experiments give it enduring explanatory value.",
+      "reading": "A rare opportunity to follow relativity through its creator's patient conceptual exposition. Operational definitions, reference frames and simple thought experiments give it enduring explanatory value.",
+      "caveat": "The elementary mathematics still requires concentration. Later appendices are not part of the original text; cosmological discussion reflects its edition. Relativity is robust, but this book is not a complete contemporary treatment.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-023",
+      "item_id": 8001,
+      "source_ids": [
+        "SCIENCE-S042",
+        "SCIENCE-S142",
+        "SCIENCE-S227"
+      ],
+      "standing": "Position 23 in the owner-supplied Science books · All time synthesis. Turned microscopy into public evidence through striking images and detailed description. It enlarged the observable world and exemplified the importance of instruments, disciplined looking and visual explanation.",
+      "reading": "Turned microscopy into public evidence through striking images and detailed description. It enlarged the observable world and exemplified the importance of instruments, disciplined looking and visual explanation.",
+      "caveat": "Many proposed mechanisms are speculative by current standards, and early instruments imposed optical limitations. Historical terminology does not map neatly onto modern cell biology; images need to be read with the accompanying observations.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-024",
+      "item_id": 8002,
+      "source_ids": [
+        "SCIENCE-S044",
+        "SCIENCE-S215"
+      ],
+      "standing": "Position 24 in the owner-supplied Science books · All time synthesis. A concise, transformative demonstration that the heart drives a circulation of blood. Quantitative constraints and experimental interventions make it a landmark in physiological explanation.",
+      "reading": "A concise, transformative demonstration that the heart drives a circulation of blood. Quantitative constraints and experimental interventions make it a landmark in physiological explanation.",
+      "caveat": "Harvey could not directly observe the capillary connections needed to complete the circuit. Some associated physiology is obsolete, and the compact Latin argument is easier to assess in an annotated translation.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-025",
+      "item_id": 8003,
+      "source_ids": [
+        "SCIENCE-S041",
+        "SCIENCE-S184",
+        "SCIENCE-S227"
+      ],
+      "standing": "Position 25 in the owner-supplied Science books · All time synthesis. A mathematically developed reorganization of planetary astronomy around Earth's motion. Its historical significance lies in the architecture of the model and the questions it made unavoidable.",
+      "reading": "A mathematically developed reorganization of planetary astronomy around Earth's motion. Its historical significance lies in the architecture of the model and the questions it made unavoidable.",
+      "caveat": "It retains circles and epicycles and does not provide modern planetary dynamics. Heliocentrism alone did not make every prediction more accurate. Read with commentary on the anonymous prefatory framing and subsequent reception.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-026",
+      "item_id": 8004,
+      "source_ids": [
+        "SCIENCE-S040",
+        "SCIENCE-S216"
+      ],
+      "standing": "Position 26 in the owner-supplied Science books · All time synthesis. Brings motion and the strength of materials into a shared mathematical and experimental conversation. Its combination of conceptual inventiveness and explanatory dialogue helped establish central problems of mechanics.",
+      "reading": "Brings motion and the strength of materials into a shared mathematical and experimental conversation. Its combination of conceptual inventiveness and explanatory dialogue helped establish central problems of mechanics.",
+      "caveat": "Some material-strength results and idealizations have restricted validity. Frictionless motion and simplified geometry are analytical models, not descriptions of every experiment. The technical portions are considerably harder than the dialogue format suggests.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-027",
+      "item_id": 8005,
+      "source_ids": [
+        "SCIENCE-S046",
+        "SCIENCE-S079",
+        "SCIENCE-S187"
+      ],
+      "standing": "Position 27 in the owner-supplied Science books · All time synthesis. Rebuilds chemistry around measurement, composition and a systematic language, making an experimental revolution teachable. Its organization helped turn a collection of reactions into a coherent explanatory discipline.",
+      "reading": "Rebuilds chemistry around measurement, composition and a systematic language, making an experimental revolution teachable. Its organization helped turn a collection of reactions into a coherent explanatory discipline.",
+      "caveat": "Caloric as a material substance and the universal oxygen theory of acidity are wrong. Lavoisier's achievement depended on collaborators and earlier chemistry; modern terminology should not be silently projected back onto every named substance.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-028",
+      "item_id": 8006,
+      "source_ids": [
+        "SCIENCE-S043",
+        "SCIENCE-S052"
+      ],
+      "standing": "Position 28 in the owner-supplied Science books · All time synthesis. A monumental reform of anatomical explanation through dissection, visual organization and critical engagement with inherited authority. Its integration of text and images makes the human body newly examinable.",
+      "reading": "A monumental reform of anatomical explanation through dissection, visual organization and critical engagement with inherited authority. Its integration of text and images makes the human body newly examinable.",
+      "caveat": "It retains errors and lacks later microscopic and physiological understanding. Illustrations are carefully constructed arguments, not neutral photographs. The 1543 and 1555 editions differ; a modern scholarly edition is essential for close study.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-029",
+      "item_id": 8007,
+      "source_ids": [
+        "SCIENCE-S074",
+        "SCIENCE-S199",
+        "SCIENCE-S258"
+      ],
+      "standing": "Position 29 in the owner-supplied Science books · All time synthesis. Makes anatomical reconstruction and the interpretation of fossils into an absorbing account of scientific inference. Its argument about contingency remains one of popular evolution's most consequential provocations.",
+      "reading": "Makes anatomical reconstruction and the interpretation of fossils into an absorbing account of scientific inference. Its argument about contingency remains one of popular evolution's most consequential provocations.",
+      "caveat": "Several Burgess Shale organisms have been reclassified, and its claims about early disparity and the inevitability of evolutionary outcomes remain disputed. Later convergence arguments complicate, rather than simply erase, Gould's case.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-030",
+      "item_id": 8008,
+      "source_ids": [
+        "SCIENCE-S113",
+        "SCIENCE-S174",
+        "SCIENCE-S175"
+      ],
+      "standing": "Position 30 in the owner-supplied Science books · All time synthesis. A remarkably effective invitation to many sciences, with narrative momentum that helps readers connect scales, discoveries and unanswered questions. Breadth and accessibility are its strongest achievements.",
+      "reading": "A remarkably effective invitation to many sciences, with narrative momentum that helps readers connect scales, discoveries and unanswered questions. Breadth and accessibility are its strongest achievements.",
+      "caveat": "It is a 2003 synthesis with factual slips and quantities that have since changed. Anecdotes sometimes simplify discovery and priority; use specialist sources for disputed history or precise contemporary measurements.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-031",
+      "item_id": 635,
+      "source_ids": [
+        "SCIENCE-S050",
+        "SCIENCE-S051",
+        "SCIENCE-S209",
+        "SCIENCE-S220",
+        "SCIENCE-S067"
+      ],
+      "standing": "Position 31 in the owner-supplied Science books · All time synthesis. Explains cell culture and biomedical research while examining the human conditions under which scientific materials and knowledge are obtained. The integration of scientific ideas, reporting and ethical inquiry is exceptional.",
+      "reading": "Explains cell culture and biomedical research while examining the human conditions under which scientific materials and knowledge are obtained. The integration of scientific ideas, reporting and ethical inquiry is exceptional.",
+      "caveat": "HeLa cells are an important experimental model, not representative of every human cell or cancer. Consent practices, genomic access arrangements and biomedical research have continued to change since 2010.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-032",
+      "item_id": 8009,
+      "source_ids": [
+        "SCIENCE-S081",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 32 in the owner-supplied Science books · All time synthesis. Uses comparative anatomy, developmental biology and fossils to explain why human bodies have their particular structures. Concrete anatomical puzzles make deep evolutionary history unusually accessible.",
+      "reading": "Uses comparative anatomy, developmental biology and fossils to explain why human bodies have their particular structures. Concrete anatomical puzzles make deep evolutionary history unusually accessible.",
+      "caveat": "Evolution is branching, not a ladder directed toward humans. Fossil relationships and developmental details continue to be refined; shared structures do not imply that living fish or reptiles are our direct ancestors.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-033",
+      "item_id": 8010,
+      "source_ids": [
+        "SCIENCE-S032",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 33 in the owner-supplied Science books · All time synthesis. Shows natural selection as a measurable, ongoing process through sustained field research. Its narrative success comes from connecting individual birds, environmental change and population-level explanation.",
+      "reading": "Shows natural selection as a measurable, ongoing process through sustained field research. Its narrative success comes from connecting individual birds, environmental change and population-level explanation.",
+      "caveat": "The long-running research extends beyond the book, and selection can reverse as conditions change. A single island system is not a complete account of evolution; hybridization and gene flow complicate tidy species boundaries.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-034",
+      "item_id": 174,
+      "source_ids": [
+        "SCIENCE-S118",
+        "SCIENCE-S236",
+        "SCIENCE-S179"
+      ],
+      "standing": "Position 34 in the owner-supplied Science books · All time synthesis. Short essays reveal surprising connections among cells, organisms, language and ecological interdependence. Their economy and intellectual range helped establish a distinctive literary form for modern biological reflection.",
+      "reading": "Short essays reveal surprising connections among cells, organisms, language and ecological interdependence. Their economy and intellectual range helped establish a distinctive literary form for modern biological reflection.",
+      "caveat": "Analogy sometimes carries more weight than demonstrated mechanism. Microbiology and evolutionary explanations have advanced since these early-1970s essays; their insights should not be read as a current textbook or universal theory.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-035",
+      "item_id": 8011,
+      "source_ids": [
+        "SCIENCE-S141",
+        "SCIENCE-S138"
+      ],
+      "standing": "Position 35 in the owner-supplied Science books · All time synthesis. One of the finest demonstrations of how an ordinary object can open onto general scientific principles. The linked experiments make observation, questioning and explanation accessible without sacrificing coherence.",
+      "reading": "One of the finest demonstrations of how an ordinary object can open onto general scientific principles. The linked experiments make observation, questioning and explanation accessible without sacrificing coherence.",
+      "caveat": "The underlying combustion chemistry remains instructive, but terminology and parts of the physical framework are historical. The printed lectures were edited by William Crookes; described demonstrations are not automatically suitable for unsupervised repetition.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-036",
+      "item_id": 547,
+      "source_ids": [
+        "SCIENCE-S003",
+        "SCIENCE-S239",
+        "SCIENCE-S250",
+        "SCIENCE-S174",
+        "SCIENCE-S190"
+      ],
+      "standing": "Position 36 in the owner-supplied Science books · All time synthesis. Brought cosmological origins, black holes and the arrow of time into public conversation with unusual ambition. Its questions and thought experiments retain considerable power.",
+      "reading": "Brought cosmological origins, black holes and the arrow of time into public conversation with unusual ambition. Its questions and thought experiments retain considerable power.",
+      "caveat": "Conceptual difficulty exceeds its lack of equations. The 1988 cosmology predates the discovery of accelerated expansion; proposals about the universe's origin and quantum gravity do not have the same status as well-tested relativity.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-037",
+      "item_id": 8012,
+      "source_ids": [
+        "SCIENCE-S082",
+        "SCIENCE-S260",
+        "SCIENCE-S167"
+      ],
+      "standing": "Position 37 in the owner-supplied Science books · All time synthesis. A wide-ranging explanation of island biogeography, extinction and habitat fragmentation, built from field experience and the development of ecological ideas. It makes theory consequential without reducing it to slogans.",
+      "reading": "A wide-ranging explanation of island biogeography, extinction and habitat fragmentation, built from field experience and the development of ecological ideas. It makes theory consequential without reducing it to slogans.",
+      "caveat": "Species-area relationships are context-dependent statistical models, not exact universal forecasts. Conservation findings and taxonomies have changed since 1996; neither islands nor fragmented continental habitats behave identically.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-038",
+      "item_id": 565,
+      "source_ids": [
+        "SCIENCE-S033",
+        "SCIENCE-S228",
+        "SCIENCE-S166",
+        "SCIENCE-S167"
+      ],
+      "standing": "Position 38 in the owner-supplied Science books · All time synthesis. Connects evolutionary deep time to present human pressures through sharply observed reporting. Its strength is the explanation of extinction mechanisms and the evidence behind them.",
+      "reading": "Connects evolutionary deep time to present human pressures through sharply observed reporting. Its strength is the explanation of extinction mechanisms and the evidence behind them.",
+      "caveat": "Exact extinction rates and future projections have uncertainty, and the present event is not measured in precisely the same way as fossil mass extinctions. Climate, land use, exploitation and invasive species interact.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-039",
+      "item_id": 8013,
+      "source_ids": [
+        "SCIENCE-S090",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 39 in the owner-supplied Science books · All time synthesis. Clinical cases make the organization of perception, memory and identity vivid while retaining the individuality of patients. It remains a landmark in humane neurological explanation.",
+      "reading": "Clinical cases make the organization of perception, memory and identity vivid while retaining the individuality of patients. It remains a landmark in humane neurological explanation.",
+      "caveat": "Case narratives are selected observations, not controlled experiments or representative samples. Diagnoses, interpretation and ethical expectations around patient stories have evolved; striking cases cannot establish general mechanisms on their own.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-040",
+      "item_id": 8014,
+      "source_ids": [
+        "SCIENCE-S119",
+        "SCIENCE-S259"
+      ],
+      "standing": "Position 40 in the owner-supplied Science books · All time synthesis. A superb demonstration of geological reasoning through landscapes, rock histories and working geologists. Its long-form structure allows competing explanations to develop at an appropriate scale.",
+      "reading": "A superb demonstration of geological reasoning through landscapes, rock histories and working geologists. Its long-form structure allows competing explanations to develop at an appropriate scale.",
+      "caveat": "Dense terminology and regional detail demand patience. The constituent books reflect research from the 1980s and early 1990s; many reconstructions have been refined, and the geographical focus is primarily the United States.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-041",
+      "item_id": 170,
+      "source_ids": [
+        "SCIENCE-S120",
+        "SCIENCE-S003",
+        "SCIENCE-S180"
+      ],
+      "standing": "Position 41 in the owner-supplied Science books · All time synthesis. An unusually vivid account of model-building, rivalry and inference around DNA's structure. Its literary immediacy makes the provisional and social character of research memorable.",
+      "reading": "An unusually vivid account of model-building, rivalry and inference around DNA's structure. Its literary immediacy makes the provisional and social character of research memorable.",
+      "caveat": "A partisan memoir with an unfair portrayal of Rosalind Franklin and incomplete attention to collaborators and data access. It concerns discovery of DNA's structure, not discovery of DNA itself. Annotated editions help correct the narrative.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-042",
+      "item_id": 8015,
+      "source_ids": [
+        "SCIENCE-S078",
+        "SCIENCE-S218"
+      ],
+      "standing": "Position 42 in the owner-supplied Science books · All time synthesis. An ambitious effort to connect the physical universe, geographical observation and human understanding without reducing science to isolated facts. Its integrative vision and prose had enormous cultural reach.",
+      "reading": "An ambitious effort to connect the physical universe, geographical observation and human understanding without reducing science to isolated facts. Its integrative vision and prose had enormous cultural reach.",
+      "caveat": "Astronomy and geology have changed radically. The five-volume project remained unfinished; translations and selections vary widely. Its universal ambition should be read alongside the material and colonial conditions of its information gathering.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-043",
+      "item_id": 8016,
+      "source_ids": [
+        "SCIENCE-S275"
+      ],
+      "standing": "Position 43 in the owner-supplied Science books · All time synthesis. Assembles geological, palaeontological and geographical evidence into a radical argument for moving continents. A particularly revealing example of a powerful hypothesis with an inadequate proposed mechanism.",
+      "reading": "Assembles geological, palaeontological and geographical evidence into a radical argument for moving continents. A particularly revealing example of a powerful hypothesis with an inadequate proposed mechanism.",
+      "caveat": "Wegener's suggested driving forces were insufficient. Modern plate tectonics includes seafloor spreading, subduction and moving oceanic plates, not simply continents ploughing through fixed ocean floors. Later editions expand and alter the case.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-044",
+      "item_id": 8017,
+      "source_ids": [
+        "SCIENCE-S143",
+        "SCIENCE-S153",
+        "SCIENCE-S147"
+      ],
+      "standing": "Position 44 in the owner-supplied Science books · All time synthesis. Made present geological processes a powerful means of interpreting deep time. Its extensive argument helped transform geology and influenced Darwin's scientific imagination.",
+      "reading": "Made present geological processes a powerful means of interpreting deep time. Its extensive argument helped transform geology and influenced Darwin's scientific imagination.",
+      "caveat": "Uniform natural laws do not imply uniform rates or the absence of catastrophe. Lyell resisted some explanations later accepted, and the many editions changed substantially. Radioactive dating and plate tectonics lie outside the original framework.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-045",
+      "item_id": 8018,
+      "source_ids": [
+        "SCIENCE-S137",
+        "SCIENCE-S166"
+      ],
+      "standing": "Position 45 in the owner-supplied Science books · All time synthesis. Explains life as a planetary geochemical force, integrating organisms with atmospheric and crustal transformations. Its scale of explanation anticipated central questions of modern earth-system science.",
+      "reading": "Explains life as a planetary geochemical force, integrating organisms with atmospheric and crustal transformations. Its scale of explanation anticipated central questions of modern earth-system science.",
+      "caveat": "It predates modern molecular ecology, detailed global budgets and much climate science. The biosphere framework should be distinguished from more speculative philosophical extensions; translation history affects how English readers encounter the argument.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-046",
+      "item_id": 8019,
+      "source_ids": [
+        "SCIENCE-S246",
+        "SCIENCE-S262"
+      ],
+      "standing": "Position 46 in the owner-supplied Science books · All time synthesis. A major achievement of Chinese mathematical problem solving, joining practical procedures with the powerful explanatory commentary of Liu Hui. Its treatment of computation challenges a narrowly Greek-centred account of mathematical sophistication.",
+      "reading": "A major achievement of Chinese mathematical problem solving, joining practical procedures with the powerful explanatory commentary of Liu Hui. Its treatment of computation challenges a narrowly Greek-centred account of mathematical sophistication.",
+      "caveat": "A layered compilation, not a book written at one moment by one author. Algorithms, units and justificatory conventions need contextual interpretation; the 263 CE commentary must be distinguished from the earlier main text.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-047",
+      "item_id": 8020,
+      "source_ids": [
+        "SCIENCE-S121",
+        "SCIENCE-S179",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 47 in the owner-supplied Science books · All time synthesis. A forceful account of symbiosis and the composite evolutionary history of eukaryotic cells. Its originality lies partly in challenging an exclusively competitive popular image of evolution.",
+      "reading": "A forceful account of symbiosis and the composite evolutionary history of eukaryotic cells. Its originality lies partly in challenging an exclusively competitive popular image of evolution.",
+      "caveat": "The bacterial origins of mitochondria and chloroplasts are well supported; not all of Margulis's broader symbiogenetic proposals are accepted. Cooperation, competition and selection operate together rather than forming exclusive alternatives.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-048",
+      "item_id": 8021,
+      "source_ids": [
+        "SCIENCE-S094",
+        "SCIENCE-S224",
+        "SCIENCE-S179"
+      ],
+      "standing": "Position 48 in the owner-supplied Science books · All time synthesis. Combines botanical knowledge, close observation and Potawatomi intellectual traditions in a distinctive account of ecological relationships. Its scientific natural history gives substance to its ethical and literary ambitions.",
+      "reading": "Combines botanical knowledge, close observation and Potawatomi intellectual traditions in a distinctive account of ecological relationships. Its scientific natural history gives substance to its ethical and literary ambitions.",
+      "caveat": "Empirical observations, traditional teachings and moral arguments have different purposes and evidential bases. Reciprocity is not a universal experimentally established law of ecosystems; the text should not be flattened into either a textbook or a source of clinical claims.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-049",
+      "item_id": 8022,
+      "source_ids": [
+        "SCIENCE-S224"
+      ],
+      "standing": "Position 49 in the owner-supplied Science books · All time synthesis. Turns close attention to mosses into precise, inviting explanation of scale, habitat and ecological relations. The integration of bryology and reflective prose gives a neglected group of organisms exceptional reading value.",
+      "reading": "Turns close attention to mosses into precise, inviting explanation of scale, habitat and ecological relations. The integration of bryology and reflective prose gives a neglected group of organisms exceptional reading value.",
+      "caveat": "Personal and cultural reflections do not carry the same evidential status as botanical description. Taxonomy and ecological research continue to develop; the book is an introduction to observing mosses, not a comprehensive identification manual.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-050",
+      "item_id": 2953,
+      "source_ids": [
+        "SCIENCE-S273",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 50 in the owner-supplied Science books · All time synthesis. Uses the independent evolutionary history of cephalopods to illuminate intelligence and the origins of mind. Philosophy is grounded in animal biology and direct observation rather than detached speculation.",
+      "reading": "Uses the independent evolutionary history of cephalopods to illuminate intelligence and the origins of mind. Philosophy is grounded in animal biology and direct observation rather than detached speculation.",
+      "caveat": "Claims about subjective experience necessarily involve inference. Cephalopod intelligence is diverse, and consciousness has no settled explanatory theory; evocative encounters should not be treated as controlled evidence of human-like mental states.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-051",
+      "item_id": 8023,
+      "source_ids": [
+        "SCIENCE-S231",
+        "SCIENCE-S175"
+      ],
+      "standing": "Position 51 in the owner-supplied Science books · All time synthesis. An extraordinary mathematical consolidation of electricity and magnetism, with consequences extending to light and later physics. Its achievement as a foundational scientific book outweighs its formidable accessibility barriers.",
+      "reading": "An extraordinary mathematical consolidation of electricity and magnetism, with consequences extending to light and later physics. Its achievement as a foundational scientific book outweighs its formidable accessibility barriers.",
+      "caveat": "Notation, mechanical models and organization differ markedly from modern electromagnetic textbooks. Subsequent editors changed the work, and relativity and quantum electrodynamics supersede parts of its framework without eliminating classical field theory's practical value.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-052",
+      "item_id": 8024,
+      "source_ids": [
+        "SCIENCE-S193",
+        "SCIENCE-S225",
+        "SCIENCE-S226",
+        "SCIENCE-S187"
+      ],
+      "standing": "Position 52 in the owner-supplied Science books · All time synthesis. A formative synthesis connecting quantum ideas with chemical structure, bond properties and molecular explanation. It helped make a new theoretical chemistry usable across a wide range of substances.",
+      "reading": "A formative synthesis connecting quantum ideas with chemical structure, bond properties and molecular explanation. It helped make a new theoretical chemistry usable across a wide range of substances.",
+      "caveat": "Later quantum chemistry complicates some of its intuitive bonding models and didactic simplifications. Hybridization and resonance are models, not directly photographed entities; specialist criticism questions parts of Pauling's enduring textbook legacy.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-053",
+      "item_id": 8025,
+      "source_ids": [
+        "SCIENCE-S084",
+        "SCIENCE-S228"
+      ],
+      "standing": "Position 53 in the owner-supplied Science books · All time synthesis. Explains materials through familiar objects while moving convincingly between atomic structure, processing and useful properties. Its clarity and tangible examples make chemistry and materials science unusually inviting.",
+      "reading": "Explains materials through familiar objects while moving convincingly between atomic structure, processing and useful properties. Its clarity and tangible examples make chemistry and materials science unusually inviting.",
+      "caveat": "Engineering performance depends on composition, processing and use, not a material name alone. Some technological examples will date, and simplified atomic pictures should not substitute for quantitative materials analysis.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-054",
+      "item_id": 8026,
+      "source_ids": [
+        "SCIENCE-S172"
+      ],
+      "standing": "Position 54 in the owner-supplied Science books · All time synthesis. An outstanding reference work that makes everyday transformations in food scientifically intelligible. It joins chemical and physical explanation to practical observation with unusual breadth and precision.",
+      "reading": "An outstanding reference work that makes everyday transformations in food scientifically intelligible. It joins chemical and physical explanation to practical observation with unusual breadth and precision.",
+      "caveat": "The 2004 revision is substantially different from the 1984 book. Food safety guidance and nutritional evidence change; culinary explanation should not be treated as an up-to-date clinical or regulatory manual.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-055",
+      "item_id": 8027,
+      "source_ids": [
+        "SCIENCE-S122",
+        "SCIENCE-S053",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 55 in the owner-supplied Science books · All time synthesis. One of the most sustained and lucid explanations of how cumulative selection can produce complex adaptations. Its analogies and staged arguments directly confront common misunderstandings of evolutionary mechanisms.",
+      "reading": "One of the most sustained and lucid explanations of how cumulative selection can produce complex adaptations. Its analogies and staged arguments directly confront common misunderstandings of evolutionary mechanisms.",
+      "caveat": "Not every trait is an adaptation, and selection does not act alone. The computer demonstrations illustrate possibilities rather than reproduce evolutionary history; modern accounts add genomics, development and ecological complexity.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-056",
+      "item_id": 8028,
+      "source_ids": [
+        "SCIENCE-S247",
+        "SCIENCE-S263",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 56 in the owner-supplied Science books · All time synthesis. An intellectually concentrated account of molecular biology that connects biochemical mechanism to large questions about contingency and human meaning. Its originality and literary force extend beyond ordinary popularization.",
+      "reading": "An intellectually concentrated account of molecular biology that connects biochemical mechanism to large questions about contingency and human meaning. Its originality and literary force extend beyond ordinary popularization.",
+      "caveat": "Its philosophical conclusions are not entailed by molecular biology. Gene regulation, development and evolutionary processes are more complex than a simple opposition of chance and necessity; read its reductionism critically.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-057",
+      "item_id": 8029,
+      "source_ids": [
+        "SCIENCE-S267",
+        "SCIENCE-S176"
+      ],
+      "standing": "Position 57 in the owner-supplied Science books · All time synthesis. A scientist's unusually reflective history of how reproduction and heredity became intelligible at successive levels of organization. Scientific ideas, instruments and changing explanatory frameworks remain central throughout.",
+      "reading": "A scientist's unusually reflective history of how reproduction and heredity became intelligible at successive levels of organization. Scientific ideas, instruments and changing explanatory frameworks remain central throughout.",
+      "caveat": "This is an interpretive history shaped by molecular biology around 1970, not a neutral final account. Subsequent genetics and historiography complicate its organizing metaphors and any impression that biology culminates in one privileged explanatory level.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-058",
+      "item_id": 8030,
+      "source_ids": [
+        "SCIENCE-S192",
+        "SCIENCE-S251"
+      ],
+      "standing": "Position 58 in the owner-supplied Science books · All time synthesis. A monumental integration of observation, drawings and inference about nervous-system structure. The work's anatomical detail and explanatory ambition made the neuron-based understanding of the brain materially persuasive.",
+      "reading": "A monumental integration of observation, drawings and inference about nervous-system structure. The work's anatomical detail and explanatory ambition made the neuron-based understanding of the brain materially persuasive.",
+      "caveat": "Staining methods, sampling and light microscopy imposed limits, while modern neuroscience adds molecular identities and circuit dynamics. The Spanish original, expanded French version and modern English editions have different scope and terminology.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-059",
+      "item_id": 8031,
+      "source_ids": [
+        "SCIENCE-S123",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 59 in the owner-supplied Science books · All time synthesis. Patient field observation reveals the social and behavioural complexity of chimpanzees while explaining how knowledge of wild animals is built. Its scientific consequences and narrative accessibility are both substantial.",
+      "reading": "Patient field observation reveals the social and behavioural complexity of chimpanzees while explaining how knowledge of wild animals is built. Its scientific consequences and narrative accessibility are both substantial.",
+      "caveat": "Provisioning and human presence could affect behaviour, and observations at one site do not define all chimpanzees. Later research revises interpretations of aggression, culture and social relationships.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-060",
+      "item_id": 567,
+      "source_ids": [
+        "SCIENCE-S091",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 60 in the owner-supplied Science books · All time synthesis. A profound account of neurological illness and the uneven effects of treatment, combining close clinical description with questions about movement, identity and time. Its explanatory force depends on attention to individual variation.",
+      "reading": "A profound account of neurological illness and the uneven effects of treatment, combining close clinical description with questions about movement, identity and time. Its explanatory force depends on attention to individual variation.",
+      "caveat": "These are selected cases of post-encephalitic illness and responses to L-DOPA, not a general treatment model. Diagnoses and mechanisms remain complex; later editions add follow-up, and dramatic responses should not be generalized.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-061",
+      "item_id": 606,
+      "source_ids": [
+        "SCIENCE-S155",
+        "SCIENCE-S268"
+      ],
+      "standing": "Position 61 in the owner-supplied Science books · All time synthesis. An enduring demonstration of how sustained attention to one locality can generate scientific questions and discoveries. The letters combine behavioural observation, seasonality and literary precision with exceptional lasting reading value.",
+      "reading": "An enduring demonstration of how sustained attention to one locality can generate scientific questions and discoveries. The letters combine behavioural observation, seasonality and literary precision with exceptional lasting reading value.",
+      "caveat": "White entertained mistaken explanations, including possibilities of swallow torpor rather than migration. The natural-history sections are central to this inclusion; the antiquarian material is less scientific, and abridgments vary substantially.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-062",
+      "item_id": 8032,
+      "source_ids": [
+        "SCIENCE-S083",
+        "SCIENCE-S179"
+      ],
+      "standing": "Position 62 in the owner-supplied Science books · All time synthesis. Replaces the crude opposition of humans and germs with a careful explanation of microbial relationships. Its examples connect ecology, evolution and medicine while avoiding a single universal microbiome story.",
+      "reading": "Replaces the crude opposition of humans and germs with a careful explanation of microbial relationships. Its examples connect ecology, evolution and medicine while avoiding a single universal microbiome story.",
+      "caveat": "Microbiome associations do not automatically establish causation or a useful intervention. Results vary by organism and context, and commercial probiotic claims cannot be inferred from the book's broader ecological argument.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-063",
+      "item_id": 8033,
+      "source_ids": [
+        "SCIENCE-S109",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 63 in the owner-supplied Science books · All time synthesis. An ambitious mechanistic explanation of life's energetic requirements and the evolutionary importance of cells' internal power systems. It rewards readers willing to engage with chemistry and competing hypotheses.",
+      "reading": "An ambitious mechanistic explanation of life's energetic requirements and the evolutionary importance of cells' internal power systems. It rewards readers willing to engage with chemistry and competing hypotheses.",
+      "caveat": "Specific scenarios for life's origin and the relationship between energetics and eukaryotic complexity remain debated. The book presents a strong research programme, not an experimentally completed history of life's beginnings.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-064",
+      "item_id": 8034,
+      "source_ids": [
+        "SCIENCE-S110",
+        "SCIENCE-S011",
+        "SCIENCE-S108",
+        "SCIENCE-S179"
+      ],
+      "standing": "Position 64 in the owner-supplied Science books · All time synthesis. Makes fungi scientifically and imaginatively important through field reporting, experiments and ecological connections. Its breadth enlarges readers' sense of what counts as an organism and a biological partnership.",
+      "reading": "Makes fungi scientifically and imaginatively important through field reporting, experiments and ecological connections. Its breadth enlarges readers' sense of what counts as an organism and a biological partnership.",
+      "caveat": "Evidence for fungal networks does not establish every popular claim about purposeful forest communication or preferential sharing. Separate demonstrated transfers, uncertain ecological effects and metaphor; later specialist criticism identifies overinterpretation in this literature.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-065",
+      "item_id": 8035,
+      "source_ids": [
+        "SCIENCE-S087",
+        "SCIENCE-S104"
+      ],
+      "standing": "Position 65 in the owner-supplied Science books · All time synthesis. Makes nonlinear dynamics intelligible through the formation of a research field, memorable examples and the people developing them. It is a major achievement in explaining mathematical ideas narratively.",
+      "reading": "Makes nonlinear dynamics intelligible through the formation of a research field, memorable examples and the people developing them. It is a major achievement in explaining mathematical ideas narratively.",
+      "caveat": "Sensitivity to initial conditions is not randomness or proof that prediction is universally impossible. The movement-centred history underplays some predecessors, and contemporary nonlinear science extends well beyond the 1987 narrative.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-066",
+      "item_id": 8036,
+      "source_ids": [
+        "SCIENCE-S215"
+      ],
+      "standing": "Position 66 in the owner-supplied Science books · All time synthesis. An exuberant tour of number, space, matter and the universe that makes scientific abstraction playful without abandoning real ideas. Its diagrams and puzzles had lasting influence on popular scientific explanation.",
+      "reading": "An exuberant tour of number, space, matter and the universe that makes scientific abstraction playful without abandoning real ideas. Its diagrams and puzzles had lasting influence on popular scientific explanation.",
+      "caveat": "Many physical and biological examples reflect mid-century knowledge. Infinity is mathematical, whereas cosmological infinity is an empirical and theoretical question; the later revised edition should not be confused with the 1947 original.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-067",
+      "item_id": 8037,
+      "source_ids": [
+        "SCIENCE-S233",
+        "SCIENCE-S238",
+        "SCIENCE-S256"
+      ],
+      "standing": "Position 67 in the owner-supplied Science books · All time synthesis. An exceptionally searching account of how hypotheses, conventions and mathematical structures function in science. Poincaré's combination of active research experience and philosophical clarity gives it enduring intellectual value.",
+      "reading": "An exceptionally searching account of how hypotheses, conventions and mathematical structures function in science. Poincaré's combination of active research experience and philosophical clarity gives it enduring intellectual value.",
+      "caveat": "Its physics predates relativity and quantum mechanics. Conventionalism does not mean that observations are arbitrary or that every theory works equally well. Different essays address different senses of hypothesis and should not be collapsed into one slogan.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-068",
+      "item_id": 8038,
+      "source_ids": [
+        "SCIENCE-S215",
+        "SCIENCE-S174"
+      ],
+      "standing": "Position 68 in the owner-supplied Science books · All time synthesis. A compact, lucid reconstruction of the early universe from nuclear physics and astronomical evidence. Its explanatory discipline shows how far careful inference can reach beyond direct human observation.",
+      "reading": "A compact, lucid reconstruction of the early universe from nuclear physics and astronomical evidence. Its explanatory discipline shows how far careful inference can reach beyond direct human observation.",
+      "caveat": "The 1977 account predates precision cosmic-background measurements, established accelerated expansion and later inflationary debates. Broad hot-Big-Bang reasoning remains strong, while parameter values and discussions of cosmic futures require updating.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-069",
+      "item_id": 8039,
+      "source_ids": [
+        "SCIENCE-S097",
+        "SCIENCE-S195",
+        "SCIENCE-S190"
+      ],
+      "standing": "Position 69 in the owner-supplied Science books · All time synthesis. Combines strong physical explanation with the development of ideas about compact objects and spacetime. Its willingness to show uncertainty and difficult conceptual steps gives it exceptional depth for a public audience.",
+      "reading": "Combines strong physical explanation with the development of ideas about compact objects and spacetime. Its willingness to show uncertainty and difficult conceptual steps gives it exceptional depth for a public audience.",
+      "caveat": "The 1994 book predates direct gravitational-wave observations and later black-hole imaging. Wormholes and time machines are speculative possibilities, not observed phenomena; the density and length are substantial barriers.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-070",
+      "item_id": 8040,
+      "source_ids": [
+        "SCIENCE-S106",
+        "SCIENCE-S243",
+        "SCIENCE-S003"
+      ],
+      "standing": "Position 70 in the owner-supplied Science books · All time synthesis. A superb invitation to mathematical thinking through actual arguments rather than a catalogue of results. It connects elementary foundations with deeper structures and rewards serious, active engagement.",
+      "reading": "A superb invitation to mathematical thinking through actual arguments rather than a catalogue of results. It connects elementary foundations with deeper structures and rewards serious, active engagement.",
+      "caveat": "The title does not imply effortless accessibility: algebra, geometry and patient proof-reading are needed. Ian Stewart's later additions are not part of the 1941 original, and this broad selection cannot represent all modern mathematics.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-071",
+      "item_id": 8041,
+      "source_ids": [
+        "SCIENCE-S102",
+        "SCIENCE-S003"
+      ],
+      "standing": "Position 71 in the owner-supplied Science books · All time synthesis. One of the strongest literary statements of the motivations, aesthetic judgments and standards of pure mathematics. Its examples make the pursuit of proof intelligible as an intellectual vocation.",
+      "reading": "One of the strongest literary statements of the motivations, aesthetic judgments and standards of pure mathematics. Its examples make the pursuit of proof intelligible as an intellectual vocation.",
+      "caveat": "It is an argumentative essay, not a mathematical survey. Claims about the uselessness of pure mathematics and the age of creative achievement are partial and historically situated; later applications undermine sharp divisions between pure and applied work.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-072",
+      "item_id": 8042,
+      "source_ids": [
+        "SCIENCE-S103"
+      ],
+      "standing": "Position 72 in the owner-supplied Science books · All time synthesis. Makes mathematical problem solving teachable through questions, examples and habits of checking. Its continuing value comes from directing attention to reasoning processes without replacing the need to do mathematics.",
+      "reading": "Makes mathematical problem solving teachable through questions, examples and habits of checking. Its continuing value comes from directing attention to reasoning processes without replacing the need to do mathematics.",
+      "caveat": "Heuristics are aids, not algorithms guaranteeing discovery. Work through the problems; reading the prompts passively gives a misleading sense of mastery. First publication was English in 1945, following an earlier German draft.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-073",
+      "item_id": 8043,
+      "source_ids": [
+        "SCIENCE-S105",
+        "SCIENCE-S135"
+      ],
+      "standing": "Position 73 in the owner-supplied Science books · All time synthesis. A foundational explanation of information, coding and noisy communication whose abstractions proved remarkably productive. It separates a mathematically tractable problem from ordinary intuitions about messages.",
+      "reading": "A foundational explanation of information, coding and noisy communication whose abstractions proved remarkably productive. It separates a mathematically tractable problem from ordinary intuitions about messages.",
+      "caveat": "Shannon information does not directly measure meaning, truth or usefulness. Weaver's broader interpretations should be distinguished from Shannon's theorems. The 1949 book incorporates the 1948 papers and is counted as one work.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-074",
+      "item_id": 8044,
+      "source_ids": [
+        "SCIENCE-S104",
+        "SCIENCE-S257"
+      ],
+      "standing": "Position 74 in the owner-supplied Science books · All time synthesis. Reorients mathematical attention toward roughness, scaling and irregular natural forms. Its visual argument and expansive examples opened an exceptionally fertile interface between mathematics and empirical science.",
+      "reading": "Reorients mathematical attention toward roughness, scaling and irregular natural forms. Its visual argument and expansive examples opened an exceptionally fertile interface between mathematics and empirical science.",
+      "caveat": "Natural structures are not perfect mathematical fractals across every scale. It is denser and more technical than its images suggest; the English 1982 book develops, but is not simply identical to, the French 1975 precursor.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-075",
+      "item_id": 8045,
+      "source_ids": [
+        "SCIENCE-S135",
+        "SCIENCE-S105"
+      ],
+      "standing": "Position 75 in the owner-supplied Science books · All time synthesis. A sweeping, unusually coherent account of how information became a scientific concept. It connects language, codes, probability and computation while keeping conceptual development central to the history.",
+      "reading": "A sweeping, unusually coherent account of how information became a scientific concept. It connects language, codes, probability and computation while keeping conceptual development central to the history.",
+      "caveat": "The meanings of 'information' differ across disciplines. The historical narrative is selective, and later digital technologies have changed rapidly; its core value is conceptual genealogy rather than a current account of computing.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-076",
+      "item_id": 633,
+      "source_ids": [
+        "SCIENCE-S201",
+        "SCIENCE-S180",
+        "SCIENCE-S191"
+      ],
+      "standing": "Position 76 in the owner-supplied Science books · All time synthesis. A compelling explanation of scientific skepticism as a practice of inquiry, with accessible discussions of evidence, error and extraordinary claims. Its public-minded prose remains a major strength.",
+      "reading": "A compelling explanation of scientific skepticism as a practice of inquiry, with accessible discussions of evidence, error and extraordinary claims. Its public-minded prose remains a major strength.",
+      "caveat": "Particular controversies and media examples are dated. Skeptical checklists cannot replace domain expertise, and science also depends on institutions, trust and collective correction, not only isolated individuals detecting mistakes.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-077",
+      "item_id": 8046,
+      "source_ids": [
+        "SCIENCE-S266"
+      ],
+      "standing": "Position 77 in the owner-supplied Science books · All time synthesis. Connects numerical abilities with experiments, brain injury and cognitive models, making mathematics a biological and psychological question. Its explanatory originality lies in distinguishing intuitive quantity from culturally learned symbolic calculation.",
+      "reading": "Connects numerical abilities with experiments, brain injury and cognitive models, making mathematics a biological and psychological question. Its explanatory originality lies in distinguishing intuitive quantity from culturally learned symbolic calculation.",
+      "caveat": "Models of number processing and claims about innate capacities continue to be refined. The revised edition adds substantial material; French and English versions appeared in 1997, and conclusions should not be treated as a complete theory of mathematical talent.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-078",
+      "item_id": 8047,
+      "source_ids": [
+        "SCIENCE-S111",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 78 in the owner-supplied Science books · All time synthesis. A consequential argument that emotion and bodily regulation contribute to reasoning and decision making. Clinical examples helped challenge an overly simple division between rational thought and feeling.",
+      "reading": "A consequential argument that emotion and bodily regulation contribute to reasoning and decision making. Clinical examples helped challenge an overly simple division between rational thought and feeling.",
+      "caveat": "The somatic-marker hypothesis is influential but does not explain every decision process. Lesion evidence and selected cases have limits; the book's historical framing of Descartes is itself an interpretation.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-079",
+      "item_id": 8048,
+      "source_ids": [
+        "SCIENCE-S092",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 79 in the owner-supplied Science books · All time synthesis. Uses neurological anomalies to expose hidden assumptions about perception, body representation and mind. It is especially effective at making experimental ingenuity and explanatory hypotheses engaging.",
+      "reading": "Uses neurological anomalies to expose hidden assumptions about perception, body representation and mind. It is especially effective at making experimental ingenuity and explanatory hypotheses engaging.",
+      "caveat": "Some ambitious explanations rest on small samples or unusual cases. Mirror-based interventions and broader theories need separate evidence; speculative extensions should not inherit the credibility of well-established sensory mechanisms.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-080",
+      "item_id": 8049,
+      "source_ids": [
+        "SCIENCE-S197",
+        "SCIENCE-S222",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 80 in the owner-supplied Science books · All time synthesis. A scientific autobiography in which experiments and the development of ideas about memory remain the main story. It connects molecular mechanisms with the larger problem of explaining mental life.",
+      "reading": "A scientific autobiography in which experiments and the development of ideas about memory remain the main story. It connects molecular mechanisms with the larger problem of explaining mental life.",
+      "caveat": "Mechanisms studied in model organisms do not exhaust human autobiographical memory or consciousness. The 2006 account predates many subsequent tools and findings; personal recollection is only one perspective on a collaborative field.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-081",
+      "item_id": 8050,
+      "source_ids": [
+        "SCIENCE-S086",
+        "SCIENCE-S164",
+        "SCIENCE-S165"
+      ],
+      "standing": "Position 81 in the owner-supplied Science books · All time synthesis. Explains zoonotic emergence through ecological relationships, field investigation and pathogen biology. Its unusually broad reporting makes connections among species, landscapes and infectious disease understandable.",
+      "reading": "Explains zoonotic emergence through ecological relationships, field investigation and pathogen biology. Its unusually broad reporting makes connections among species, landscapes and infectious disease understandable.",
+      "caveat": "Published before COVID-19, it is not a retrospective account of that pandemic or proof of any particular origin scenario. Current epidemiology and prevention depend on the specific pathogen; emergence cannot be predicted from narrative parallels alone.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-082",
+      "item_id": 8051,
+      "source_ids": [
+        "SCIENCE-S085",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 82 in the owner-supplied Science books · All time synthesis. A vivid explanation of parasitism as a major evolutionary and ecological force. Its organisms and mechanisms reveal how misleading an exclusively free-living picture of nature can be.",
+      "reading": "A vivid explanation of parasitism as a major evolutionary and ecological force. Its organisms and mechanisms reveal how misleading an exclusively free-living picture of nature can be.",
+      "caveat": "Parasites vary enormously, and dramatic behavioural effects are not universal. Details of taxonomy, host manipulation and treatment have changed; speculative implications for human behaviour require evidence beyond animal examples.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-083",
+      "item_id": 8052,
+      "source_ids": [
+        "SCIENCE-S215",
+        "SCIENCE-S166",
+        "SCIENCE-S179"
+      ],
+      "standing": "Position 83 in the owner-supplied Science books · All time synthesis. A provocative, influential account of interactions among organisms, atmosphere and planetary conditions. It helped make Earth as a coupled system an intellectually compelling subject for general readers.",
+      "reading": "A provocative, influential account of interactions among organisms, atmosphere and planetary conditions. It helped make Earth as a coupled system an intellectually compelling subject for general readers.",
+      "caveat": "Biotic feedbacks are real; inevitable global optimization for life or planetary purpose is not established. Strong versions of Gaia must be distinguished from testable earth-system interactions, and stable regulation is not guaranteed.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-084",
+      "item_id": 8053,
+      "source_ids": [
+        "SCIENCE-S173",
+        "SCIENCE-S202",
+        "SCIENCE-S052"
+      ],
+      "standing": "Position 84 in the owner-supplied Science books · All time synthesis. A wide-ranging account of the growth of scientific ideas, with particular force in explaining knowledge as a human and revisable achievement. Its combination of conceptual development and lucid prose gives the history continuing value.",
+      "reading": "A wide-ranging account of the growth of scientific ideas, with particular force in explaining knowledge as a human and revisable achievement. Its combination of conceptual development and lucid prose gives the history continuing value.",
+      "caveat": "The ascent narrative is selective and often Eurocentric, with historical simplifications and dated scientific details. This entry ranks the 1973 book, not the television series; later scholarship complicates its progression through exemplary individuals.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-085",
+      "item_id": 8054,
+      "source_ids": [
+        "SCIENCE-S270"
+      ],
+      "standing": "Position 85 in the owner-supplied Science books · All time synthesis. Turns a difficult mathematical achievement into a compelling explanation of why proof matters and how a long-standing problem connects distant ideas. It reaches readers who would not attempt the technical proof.",
+      "reading": "Turns a difficult mathematical achievement into a compelling explanation of why proof matters and how a long-standing problem connects distant ideas. It reaches readers who would not attempt the technical proof.",
+      "caveat": "The book cannot teach the full Wiles-Taylor argument, which requires advanced mathematics. Dramatic biography can oversimplify collaborative development; the accepted proof is much deeper than the elementary statement of the theorem.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-086",
+      "item_id": 8055,
+      "source_ids": [
+        "SCIENCE-S124",
+        "SCIENCE-S191"
+      ],
+      "standing": "Position 86 in the owner-supplied Science books · All time synthesis. A particularly clear account of learning from data, including uncertainty, sampling, misleading comparisons and the distinction between association and causation. Its emphasis on questions and interpretation gives it durable practical value.",
+      "reading": "A particularly clear account of learning from data, including uncertainty, sampling, misleading comparisons and the distinction between association and causation. Its emphasis on questions and interpretation gives it durable practical value.",
+      "caveat": "Worked examples do not eliminate the need for subject knowledge or justify causal inference automatically. Different statistical approaches answer different questions; interval estimates and models remain conditional on assumptions.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-087",
+      "item_id": 8056,
+      "source_ids": [
+        "SCIENCE-S125",
+        "SCIENCE-S262"
+      ],
+      "standing": "Position 87 in the owner-supplied Science books · All time synthesis. Explains the conceptual reach of calculus through change, accumulation and well-chosen applications. Its combination of intuition and historical development makes a demanding subject accessible without reducing it to tricks.",
+      "reading": "Explains the conceptual reach of calculus through change, accumulation and well-chosen applications. Its combination of intuition and historical development makes a demanding subject accessible without reducing it to tricks.",
+      "caveat": "Conceptual understanding is not equivalent to competence with proofs or calculations. Historical narratives compress contributions across cultures, and real-world applications require attention to model assumptions and approximation error.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-088",
+      "item_id": 8057,
+      "source_ids": [
+        "SCIENCE-S075",
+        "SCIENCE-S114"
+      ],
+      "standing": "Position 88 in the owner-supplied Science books · All time synthesis. A major integration of natural observation, laboratory crystal growth and visual classification. Nakaya makes snow a rigorous physical subject without losing its astonishing descriptive richness.",
+      "reading": "A major integration of natural observation, laboratory crystal growth and visual classification. Nakaya makes snow a rigorous physical subject without losing its astonishing descriptive richness.",
+      "caveat": "This technical English-language monograph is distinct from Nakaya's earlier Japanese popular writing. Later cloud microphysics refines the account; crystal habit depends on environmental history, not only a single simple temperature rule.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-089",
+      "item_id": 8058,
+      "source_ids": [
+        "SCIENCE-S101"
+      ],
+      "standing": "Position 89 in the owner-supplied Science books · All time synthesis. An immensely influential organization of functions, infinite processes and analytical techniques. It helped establish analysis as a coherent mathematical language with applications across the sciences.",
+      "reading": "An immensely influential organization of functions, infinite processes and analytical techniques. It helped establish analysis as a coherent mathematical language with applications across the sciences.",
+      "caveat": "Euler's manipulations do not always meet modern standards of convergence and rigor. The mathematics is demanding and the notation historical; use modern commentary to distinguish valid results from insufficiently justified arguments.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-090",
+      "item_id": 8059,
+      "source_ids": [
+        "SCIENCE-S059",
+        "SCIENCE-S262"
+      ],
+      "standing": "Position 90 in the owner-supplied Science books · All time synthesis. A foundational systematic exposition of algebraic procedures, supported by geometrical reasoning and practical problems. Its explanatory organization helped shape mathematical traditions far beyond its original Arabic readership.",
+      "reading": "A foundational systematic exposition of algebraic procedures, supported by geometrical reasoning and practical problems. Its explanatory organization helped shape mathematical traditions far beyond its original Arabic readership.",
+      "caveat": "This is rhetorical algebra, without modern symbolic notation or the full modern number system. Its cases reflect restrictions on admissible quantities; translations and reconstructed dates vary, and earlier mathematical traditions must not be erased.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-091",
+      "item_id": 8060,
+      "source_ids": [
+        "SCIENCE-S060"
+      ],
+      "standing": "Position 91 in the owner-supplied Science books · All time synthesis. A highly compressed and influential synthesis of mathematical and astronomical procedures, including sophisticated numerical techniques. Its verse form embodies a very different explanatory and teaching tradition from modern textbooks.",
+      "reading": "A highly compressed and influential synthesis of mathematical and astronomical procedures, including sophisticated numerical techniques. Its verse form embodies a very different explanatory and teaching tradition from modern textbooks.",
+      "caveat": "The terse Sanskrit needs a knowledgeable commentary. Astronomical parameters and parts of the cosmology are historical; avoid reading modern symbolic notation into the text or treating every later interpretation as Aryabhata's own explicit statement.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-092",
+      "item_id": 8061,
+      "source_ids": [
+        "SCIENCE-S061"
+      ],
+      "standing": "Position 92 in the owner-supplied Science books · All time synthesis. A major Sanskrit work linking arithmetic, algebra and astronomy, especially important for systematic operations with numbers and quantitative astronomical reasoning.",
+      "reading": "A major Sanskrit work linking arithmetic, algebra and astronomy, especially important for systematic operations with numbers and quantitative astronomical reasoning.",
+      "caveat": "Its rules involving zero and division do not all agree with modern mathematics. The astronomical framework is superseded, and reliable access requires translation and commentary attentive to the text's terminology and later reception.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-093",
+      "item_id": 3908,
+      "source_ids": [
+        "SCIENCE-S149",
+        "SCIENCE-S182"
+      ],
+      "standing": "Position 93 in the owner-supplied Science books · All time synthesis. An extensive effort to organize observations of animal structure, reproduction and behaviour. Its sustained attention to differences among organisms made it a central work in the history of biological explanation.",
+      "reading": "An extensive effort to organize observations of animal structure, reproduction and behaviour. Its sustained attention to differences among organisms made it a central work in the history of biological explanation.",
+      "caveat": "Reliable observation coexists with hearsay and mistaken reproduction theories. The taxonomy and causal framework are not modern evolutionary biology; later textual transmission and translation complicate identification of particular animals.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-094",
+      "item_id": 8062,
+      "source_ids": [
+        "SCIENCE-S232",
+        "SCIENCE-S255"
+      ],
+      "standing": "Position 94 in the owner-supplied Science books · All time synthesis. A remarkably systematic investigation of plants, including their structures, growth, habitats and cultivation. It has lasting value as an early attempt to make botanical variation a connected field of inquiry.",
+      "reading": "A remarkably systematic investigation of plants, including their structures, growth, habitats and cultivation. It has lasting value as an early attempt to make botanical variation a connected field of inquiry.",
+      "caveat": "Species identification is often uncertain, and the explanatory framework predates modern physiology, ecology and evolution. Do not equate historical plant names with modern taxa without specialist annotation.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-095",
+      "item_id": 8063,
+      "source_ids": [
+        "SCIENCE-S063",
+        "SCIENCE-S184"
+      ],
+      "standing": "Position 95 in the owner-supplied Science books · All time synthesis. A technically sophisticated mathematical model of the heavens and an exceptionally influential framework for calculating celestial positions. It demonstrates the power of systematic quantitative prediction in an ancient scientific tradition.",
+      "reading": "A technically sophisticated mathematical model of the heavens and an exceptionally influential framework for calculating celestial positions. It demonstrates the power of systematic quantitative prediction in an ancient scientific tradition.",
+      "caveat": "Its geocentric physical interpretation is wrong, despite substantial predictive achievements. Catalogue origins, observations and textual transmission require historical scrutiny; modern planetary mechanics is a very different explanatory framework.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-096",
+      "item_id": 8064,
+      "source_ids": [
+        "SCIENCE-S065",
+        "SCIENCE-S185"
+      ],
+      "standing": "Position 96 in the owner-supplied Science books · All time synthesis. A remarkable presentation of the struggle to reconcile planetary observations with geometrical and physical hypotheses. Its route to non-circular orbits makes the correction of attractive ideas scientifically vivid.",
+      "reading": "A remarkable presentation of the struggle to reconcile planetary observations with geometrical and physical hypotheses. Its route to non-circular orbits makes the correction of attractive ideas scientifically vivid.",
+      "caveat": "The organization is demanding and preserves abandoned lines of argument. Kepler's proposed physical mechanisms are not Newtonian gravity; the successful orbital relations must be distinguished from his wider cosmological commitments.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-097",
+      "item_id": 8065,
+      "source_ids": [
+        "SCIENCE-S020",
+        "SCIENCE-S072"
+      ],
+      "standing": "Position 97 in the owner-supplied Science books · All time synthesis. An unusually rich collection of observations and arguments about instruments, astronomy, geology, medicine and practical knowledge in Song China. Its range reveals scientific inquiry outside the familiar European canon.",
+      "reading": "An unusually rich collection of observations and arguments about instruments, astronomy, geology, medicine and practical knowledge in Song China. Its range reveals scientific inquiry outside the familiar European canon.",
+      "caveat": "The collection mixes empirical observation with administrative, literary and cosmological material. Modern labels such as 'scientist' and claims that it anticipates particular modern theories require caution; translations are often selections.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-098",
+      "item_id": 8066,
+      "source_ids": [
+        "SCIENCE-S071"
+      ],
+      "standing": "Position 98 in the owner-supplied Science books · All time synthesis. A major illustrated explanation of production processes, materials and practical technologies in seventeenth-century China. Its concrete attention to how things are made gives it exceptional value for the history of applied knowledge.",
+      "reading": "A major illustrated explanation of production processes, materials and practical technologies in seventeenth-century China. Its concrete attention to how things are made gives it exceptional value for the history of applied knowledge.",
+      "caveat": "It is not a modern chemical or engineering manual. Explanatory mechanisms and measurements reflect its period; historical descriptions of manufacturing should not be treated as validated procedures or universal records of all Chinese practice.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-099",
+      "item_id": 8067,
+      "source_ids": [
+        "SCIENCE-S117",
+        "SCIENCE-S134",
+        "SCIENCE-S181"
+      ],
+      "standing": "Position 99 in the owner-supplied Science books · All time synthesis. A monumental organization of medical knowledge, connecting general principles, disease and remedies in a coherent scholarly system. Its long influence makes it a central historical scientific book.",
+      "reading": "A monumental organization of medical knowledge, connecting general principles, disease and remedies in a coherent scholarly system. Its long influence makes it a central historical scientific book.",
+      "caveat": "Humoral physiology, many causal explanations and numerous treatments are obsolete or unsupported. Its place is based on historical synthesis and influence, not present clinical reliability. A modern commentary is essential for assessing particular claims.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-100",
+      "item_id": 8068,
+      "source_ids": [
+        "SCIENCE-S151",
+        "SCIENCE-S165"
+      ],
+      "standing": "Position 100 in the owner-supplied Science books · All time synthesis. A concise demonstration of how competing explanations of disease can be tested against patterns of exposure. Its close reasoning about water and cholera remains an exemplary introduction to epidemiological inference.",
+      "reading": "A concise demonstration of how competing explanations of disease can be tested against patterns of exposure. Its close reasoning about water and cholera remains an exemplary introduction to epidemiological inference.",
+      "caveat": "The famous pump episode is only part of the argument; comparisons between water supplies are crucial. Snow did not identify the bacterial agent. The 1855 second edition is much fuller than the 1849 text.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-101",
+      "item_id": 8069,
+      "source_ids": [
+        "SCIENCE-S277",
+        "SCIENCE-S191"
+      ],
+      "standing": "Position 101 in the owner-supplied Science books · All time synthesis. A foundational reflection on experimental medicine that connects physiological questions with intervention, comparison and disciplined doubt. It is especially valuable for understanding why method must respond to a concrete biological problem.",
+      "reading": "A foundational reflection on experimental medicine that connects physiological questions with intervention, comparison and disciplined doubt. It is especially valuable for understanding why method must respond to a concrete biological problem.",
+      "caveat": "Its deterministic outlook and animal experimentation reflect nineteenth-century commitments. Modern research also requires statistical inference, ethical oversight and attention to population variation; it is not a complete current protocol for clinical evidence.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-102",
+      "item_id": 8070,
+      "source_ids": [
+        "SCIENCE-S248"
+      ],
+      "standing": "Position 102 in the owner-supplied Science books · All time synthesis. A landmark account of comparative investigation into a devastating disease, with lasting value for understanding the development of medical evidence. It also shows the distance between a useful observation and an adequate explanation.",
+      "reading": "A landmark account of comparative investigation into a devastating disease, with lasting value for understanding the development of medical evidence. It also shows the distance between a useful observation and an adequate explanation.",
+      "caveat": "The 1747 comparison involved very few sailors and was not a modern randomized trial. Lind's causal explanations and some recommendations were wrong; the later vitamin-C explanation should not be attributed to him.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-103",
+      "item_id": 8071,
+      "source_ids": [
+        "SCIENCE-S045",
+        "SCIENCE-S144",
+        "SCIENCE-S186"
+      ],
+      "standing": "Position 103 in the owner-supplied Science books · All time synthesis. A searching critique of inherited chemical categories, using experimental argument to question familiar claims about the composition of matter. Its open-ended reasoning is more important than any single modern-sounding definition.",
+      "reading": "A searching critique of inherited chemical categories, using experimental argument to question familiar claims about the composition of matter. Its open-ended reasoning is more important than any single modern-sounding definition.",
+      "caveat": "Boyle was not simply a modern chemist overthrowing all alchemy. His corpuscular programme and concepts of elements differ from current atomic chemistry; the dialogue presents objections rather than a completed modern periodic system.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-104",
+      "item_id": 8072,
+      "source_ids": [
+        "SCIENCE-S080",
+        "SCIENCE-S187"
+      ],
+      "standing": "Position 104 in the owner-supplied Science books · All time synthesis. An influential teaching synthesis that organizes chemical knowledge through recurring properties and systematic comparison. Its importance joins explanatory architecture with the development of the periodic classification.",
+      "reading": "An influential teaching synthesis that organizes chemical knowledge through recurring properties and systematic comparison. Its importance joins explanatory architecture with the development of the periodic classification.",
+      "caveat": "The framework predates atomic number, quantum mechanics and modern bonding theory. Editions expanded considerably; the consulted English sixth-edition translation represents a later state of the work, not the original Russian instalments.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-105",
+      "item_id": 8073,
+      "source_ids": [
+        "SCIENCE-S077",
+        "SCIENCE-S187"
+      ],
+      "standing": "Position 105 in the owner-supplied Science books · All time synthesis. Uses one familiar molecule to connect chemistry, physical properties, life and planetary processes. The subject's apparent simplicity becomes a route into deep questions about matter.",
+      "reading": "Uses one familiar molecule to connect chemistry, physical properties, life and planetary processes. The subject's apparent simplicity becomes a route into deep questions about matter.",
+      "caveat": "Water's unusual properties have well-supported explanations, but not every proposed structural model or biological implication is settled. The 1999 synthesis predates subsequent experimental and computational work; 'water memory' is not established by molecular complexity.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-106",
+      "item_id": 8074,
+      "source_ids": [
+        "SCIENCE-S276"
+      ],
+      "standing": "Position 106 in the owner-supplied Science books · All time synthesis. An ambitious visual and conceptual explanation of thermodynamics, making entropy central to understanding natural change. It rewards readers seeking more depth than the familiar shorthand of 'disorder'.",
+      "reading": "An ambitious visual and conceptual explanation of thermodynamics, making entropy central to understanding natural change. It rewards readers seeking more depth than the familiar shorthand of 'disorder'.",
+      "caveat": "Entropy is not simply visible messiness, and its statistical meaning requires care. The second law constrains isolated systems; local organization does not violate it. Biological or cosmological extensions need assumptions beyond the law itself.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-107",
+      "item_id": 8075,
+      "source_ids": [
+        "SCIENCE-S230",
+        "SCIENCE-S179",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 107 in the owner-supplied Science books · All time synthesis. A distinctive Chilean synthesis linking biological organization, perception and cognition. Its systemic approach makes knowing a question about living activity rather than detached representation alone.",
+      "reading": "A distinctive Chilean synthesis linking biological organization, perception and cognition. Its systemic approach makes knowing a question about living activity rather than detached representation alone.",
+      "caveat": "Autopoiesis is an influential framework, not a complete experimentally confirmed theory of cognition. Biological description and epistemological conclusions need separate evaluation; the 1984 Spanish text and later translations differ in presentation.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-108",
+      "item_id": 8076,
+      "source_ids": [
+        "SCIENCE-S235",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 108 in the owner-supplied Science books · All time synthesis. A vast, intellectually serious reconstruction of central biological ideas about diversity, evolution and inheritance. Its depth makes it valuable for understanding how a major evolutionary thinker organized the history of his science.",
+      "reading": "A vast, intellectually serious reconstruction of central biological ideas about diversity, evolution and inheritance. Its depth makes it valuable for understanding how a major evolutionary thinker organized the history of his science.",
+      "caveat": "Mayr's disciplinary commitments shape the narrative and its judgments about progress. Later histories give different weight to development, molecular biology, institutions and contributors; it is not an impartial encyclopaedia of every biological tradition.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-109",
+      "item_id": 8077,
+      "source_ids": [
+        "SCIENCE-S280",
+        "SCIENCE-S167"
+      ],
+      "standing": "Position 109 in the owner-supplied Science books · All time synthesis. Explains the production and loss of biological diversity across evolutionary and ecological scales. Its synthesis gives conservation a scientifically substantial narrative and helped broaden public attention to biodiversity.",
+      "reading": "Explains the production and loss of biological diversity across evolutionary and ecological scales. Its synthesis gives conservation a scientifically substantial narrative and helped broaden public attention to biodiversity.",
+      "caveat": "Global species totals and extinction estimates remain uncertain, and the 1992 numbers need updating. Conservation values do not follow automatically from evolutionary theory; the book's broader claims should be assessed separately from Wilson's expertise in particular organisms.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-110",
+      "item_id": 8078,
+      "source_ids": [
+        "SCIENCE-S279",
+        "SCIENCE-S196"
+      ],
+      "standing": "Position 110 in the owner-supplied Science books · All time synthesis. A scientific biography in which chromosome behaviour, experimental attention and conceptual discovery remain central. It makes the relationship between close knowledge of an organism and theoretical innovation unusually vivid.",
+      "reading": "A scientific biography in which chromosome behaviour, experimental attention and conceptual discovery remain central. It makes the relationship between close knowledge of an organism and theoretical innovation unusually vivid.",
+      "caveat": "McClintock's genetic findings are well established, but the interpretation of her reception and distinctive scientific style is debated. Do not turn an individual's observational skill into a universal claim about gender or a method independent of testable evidence.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-111",
+      "item_id": 8079,
+      "source_ids": [
+        "SCIENCE-S278",
+        "SCIENCE-S262"
+      ],
+      "standing": "Position 111 in the owner-supplied Science books · All time synthesis. Introduces great mathematical results through their proofs and historical settings. Its distinctive virtue is allowing readers to experience the logic of an argument rather than admire an unexplained achievement.",
+      "reading": "Introduces great mathematical results through their proofs and historical settings. Its distinctive virtue is allowing readers to experience the logic of an argument rather than admire an unexplained achievement.",
+      "caveat": "School algebra and geometry are helpful, and some chapters require substantial concentration. The chosen route through mathematical history is selective and largely European; narrative simplification should not be mistaken for complete historical coverage.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-112",
+      "item_id": 8080,
+      "source_ids": [
+        "SCIENCE-S099",
+        "SCIENCE-S250",
+        "SCIENCE-S190"
+      ],
+      "standing": "Position 112 in the owner-supplied Science books · All time synthesis. A miniature of remarkable clarity and literary economy, opening difficult physical ideas to readers with little preparation. Its compression makes it an effective invitation to further scientific reading.",
+      "reading": "A miniature of remarkable clarity and literary economy, opening difficult physical ideas to readers with little preparation. Its compression makes it an effective invitation to further scientific reading.",
+      "caveat": "Brevity limits depth. The book moves between established relativity and quantum theory, statistical arguments and less settled quantum-gravity ideas; these do not all have equal experimental support.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-113",
+      "item_id": 8081,
+      "source_ids": [
+        "SCIENCE-S098",
+        "SCIENCE-S245",
+        "SCIENCE-S190"
+      ],
+      "standing": "Position 113 in the owner-supplied Science books · All time synthesis. An unusually graceful account of why everyday intuitions about time become inadequate in physics. It joins thermodynamics, relativity and foundational questions with considerable conceptual ambition.",
+      "reading": "An unusually graceful account of why everyday intuitions about time become inadequate in physics. It joins thermodynamics, relativity and foundational questions with considerable conceptual ambition.",
+      "caveat": "The argument becomes harder than its lyrical style suggests. Interpretations of time, especially those linked to quantum gravity, are not a settled consensus; philosophical conclusions must be separated from experimentally established physical relations.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-114",
+      "item_id": 8082,
+      "source_ids": [
+        "SCIENCE-S283",
+        "SCIENCE-S174",
+        "SCIENCE-S195"
+      ],
+      "standing": "Position 114 in the owner-supplied Science books · All time synthesis. Explains how radical astronomical ideas move from conjecture toward acceptance through instruments, evidence and theoretical revision. Its attention to the process of changing a cosmic picture gives the history scientific substance.",
+      "reading": "Explains how radical astronomical ideas move from conjecture toward acceptance through instruments, evidence and theoretical revision. Its attention to the process of changing a cosmic picture gives the history scientific substance.",
+      "caveat": "The 2016 account predates important later observations. Dark matter and dark energy remain unresolved in their underlying nature, and multiverse proposals are unconfirmed; examples of successful radical ideas do not imply that every currently speculative idea will be vindicated.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-115",
+      "item_id": 8083,
+      "source_ids": [
+        "SCIENCE-S096",
+        "SCIENCE-S190",
+        "SCIENCE-S175"
+      ],
+      "standing": "Position 115 in the owner-supplied Science books · All time synthesis. An exceptionally accomplished explanation of the tensions among relativity, quantum theory and attempts at unification. Its analogies and progression make very abstract theoretical physics approachable.",
+      "reading": "An exceptionally accomplished explanation of the tensions among relativity, quantum theory and attempts at unification. Its analogies and progression make very abstract theoretical physics approachable.",
+      "caveat": "String theory's proposed unification is not experimentally established. Extra dimensions and particular models are not observational discoveries; the book's explanatory success should not be confused with confirmation of its preferred research programme.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-116",
+      "item_id": 8084,
+      "source_ids": [
+        "SCIENCE-S150",
+        "SCIENCE-S191"
+      ],
+      "standing": "Position 116 in the owner-supplied Science books · All time synthesis. A foundational reflection on probability as a means of reasoning under uncertainty, joining mathematical ideas to scientific and everyday problems. Its influence extends far beyond the specific applications.",
+      "reading": "A foundational reflection on probability as a means of reasoning under uncertainty, joining mathematical ideas to scientific and everyday problems. Its influence extends far beyond the specific applications.",
+      "caveat": "Deterministic metaphysics is not required for modern probability. Some social and evidential assumptions are dated, and the apparently informal essay can be conceptually demanding. Modern Bayesian and frequentist practice should not be collapsed into this text.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-117",
+      "item_id": 8085,
+      "source_ids": [
+        "SCIENCE-S254",
+        "SCIENCE-S105"
+      ],
+      "standing": "Position 117 in the owner-supplied Science books · All time synthesis. A formative synthesis of feedback, control and communication across machines and organisms. Its originality lies in a shared explanatory vocabulary that opened productive connections among disciplines.",
+      "reading": "A formative synthesis of feedback, control and communication across machines and organisms. Its originality lies in a shared explanatory vocabulary that opened productive connections among disciplines.",
+      "caveat": "Not every biological or social analogy is a demonstrated mechanism. It is mathematically demanding and historically uneven; the 1961 additions matter. Modern control theory, computation and neuroscience greatly exceed its original framework.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-118",
+      "item_id": 8086,
+      "source_ids": [
+        "SCIENCE-S107",
+        "SCIENCE-S124"
+      ],
+      "standing": "Position 118 in the owner-supplied Science books · All time synthesis. A highly influential organization of statistical methods for working researchers, linking experimental data with explicit inferential procedures. Its teaching impact helped shape scientific practice across fields.",
+      "reading": "A highly influential organization of statistical methods for working researchers, linking experimental data with explicit inferential procedures. Its teaching impact helped shape scientific practice across fields.",
+      "caveat": "Tests depend on design and model assumptions; a small p-value does not measure effect importance or the probability a hypothesis is true. Later methods address many limitations. Fisher's eugenic commitments must be distinguished from evaluating particular statistical results.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-119",
+      "item_id": 8087,
+      "source_ids": [
+        "SCIENCE-S088",
+        "SCIENCE-S211",
+        "SCIENCE-S067"
+      ],
+      "standing": "Position 119 in the owner-supplied Science books · All time synthesis. A powerful narrative explanation of heredity, genetic discovery and the implications of learning to read and alter biological information. Scientific concepts and family history are integrated with considerable skill.",
+      "reading": "A powerful narrative explanation of heredity, genetic discovery and the implications of learning to read and alter biological information. Scientific concepts and family history are integrated with considerable skill.",
+      "caveat": "Genotype does not uniquely determine a person's fate. Complex traits, gene regulation and epigenetic mechanisms need more qualification than narrative shorthand permits; genetic technologies and clinical applications have changed since 2016.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-120",
+      "item_id": 8088,
+      "source_ids": [
+        "SCIENCE-S269",
+        "SCIENCE-S191"
+      ],
+      "standing": "Position 120 in the owner-supplied Science books · All time synthesis. An effective explanation of fair tests, misleading statistics, placebo effects and distorted evidence in public medicine. Its polemical energy is backed by an accessible account of how claims should be assessed.",
+      "reading": "An effective explanation of fair tests, misleading statistics, placebo effects and distorted evidence in public medicine. Its polemical energy is backed by an accessible account of how claims should be assessed.",
+      "caveat": "Individual controversies and examples date, and sharp rhetoric can simplify uncertainty. The book equips readers to ask better questions; it does not supply current evidence about every product, condition or treatment.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-121",
+      "item_id": 8089,
+      "source_ids": [
+        "SCIENCE-S127",
+        "SCIENCE-S267"
+      ],
+      "standing": "Position 121 in the owner-supplied Science books · All time synthesis. Scientific natural history becomes a distinctive form of reflective prose, with evolutionary time and the material world at its centre. Its literary quality gives otherwise abstract biological questions emotional and intellectual force.",
+      "reading": "Scientific natural history becomes a distinctive form of reflective prose, with evolutionary time and the material world at its centre. Its literary quality gives otherwise abstract biological questions emotional and intellectual force.",
+      "caveat": "Metaphor and philosophical reflection often extend beyond what observation alone establishes. Some evolutionary details are dated; read the essays as informed interpretation rather than a modern synthesis of biological mechanisms.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-122",
+      "item_id": 8090,
+      "source_ids": [
+        "SCIENCE-S234",
+        "SCIENCE-S198"
+      ],
+      "standing": "Position 122 in the owner-supplied Science books · All time synthesis. A major attempt to organize animal behaviour into experimentally investigable problems. Its conceptual discipline helped make ethology a systematic explanatory science.",
+      "reading": "A major attempt to organize animal behaviour into experimentally investigable problems. Its conceptual discipline helped make ethology a systematic explanatory science.",
+      "caveat": "Early drive and instinct models have been substantially revised, and innate versus learned behaviour is rarely a clean division. Later developmental and ecological approaches add mechanisms absent from the 1951 synthesis.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-123",
+      "item_id": 8091,
+      "source_ids": [
+        "SCIENCE-S271",
+        "SCIENCE-S138"
+      ],
+      "standing": "Position 123 in the owner-supplied Science books · All time synthesis. An extraordinary sustained investigation of insect behaviour, combining patient observation, intervention and memorable prose. Its continuing readership across languages supports its standing as scientific natural history.",
+      "reading": "An extraordinary sustained investigation of insect behaviour, combining patient observation, intervention and memorable prose. Its continuing readership across languages supports its standing as scientific natural history.",
+      "caveat": "Fabre's opposition to evolutionary theory limits some interpretations of instinct. Experiments and anecdotes need to be judged individually. The ten-volume original, translated selections and children's retellings are very different reading experiences.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-124",
+      "item_id": 2378,
+      "source_ids": [
+        "SCIENCE-S146",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 124 in the owner-supplied Science books · All time synthesis. A major account of tropical natural history, geographical distribution and field observation. Its scientific importance and descriptive strength make it more than a travel classic.",
+      "reading": "A major account of tropical natural history, geographical distribution and field observation. Its scientific importance and descriptive strength make it more than a travel classic.",
+      "caveat": "Colonial and racial assumptions require critical reading, and collecting methods reflect a different era. Species names and biogeographical explanations have changed; the whole two-volume work is counted once.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-125",
+      "item_id": 8092,
+      "source_ids": [
+        "SCIENCE-S148",
+        "SCIENCE-S182"
+      ],
+      "standing": "Position 125 in the owner-supplied Science books · All time synthesis. An ambitious synthesis that made natural history a large public and intellectual enterprise. Its attention to organisms, environments and variation expanded the questions an account of nature could address.",
+      "reading": "An ambitious synthesis that made natural history a large public and intellectual enterprise. Its attention to organisms, environments and variation expanded the questions an account of nature could address.",
+      "caveat": "Many biological and geological explanations are obsolete. Authorship is collaborative, and editions often include later continuations by other writers; this entry covers Buffon's core project rather than every volume marketed under the title.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-126",
+      "item_id": 8093,
+      "source_ids": [
+        "SCIENCE-S147",
+        "SCIENCE-S143"
+      ],
+      "standing": "Position 126 in the owner-supplied Science books · All time synthesis. A foundational argument for understanding Earth through recurring physical processes and immense timescales. Its scope helped make geological history an autonomous scientific problem.",
+      "reading": "A foundational argument for understanding Earth through recurring physical processes and immense timescales. Its scope helped make geological history an autonomous scientific problem.",
+      "caveat": "Hutton's cyclic framework is not a modern account of Earth's origin or tectonics. Dense prose and organization are major barriers; the 1795 book develops the earlier 1788 paper and should not be confused with later expositions by others.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-127",
+      "item_id": 8094,
+      "source_ids": [
+        "SCIENCE-S066"
+      ],
+      "standing": "Position 127 in the owner-supplied Science books · All time synthesis. A landmark in turning physical change into mathematical analysis. The treatment of heat flow and representation by trigonometric series had extraordinary consequences for physics and mathematics.",
+      "reading": "A landmark in turning physical change into mathematical analysis. The treatment of heat flow and representation by trigonometric series had extraordinary consequences for physics and mathematics.",
+      "caveat": "Its continuum models have domains of validity, and later mathematics supplies conditions missing from some original arguments. Quantum and microscopic accounts of heat go beyond this work; advanced mathematics and historical notation make it demanding.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-128",
+      "item_id": 4473,
+      "source_ids": [
+        "SCIENCE-S162",
+        "SCIENCE-S166"
+      ],
+      "standing": "Position 128 in the owner-supplied Science books · All time synthesis. Explains civilization through the physical constraints and transformations of energy use, connecting food, labour, fuels and industrial systems. Quantitative breadth is its defining strength.",
+      "reading": "Explains civilization through the physical constraints and transformations of energy use, connecting food, labour, fuels and industrial systems. Quantitative breadth is its defining strength.",
+      "caveat": "Energy is a crucial constraint, not a sufficient cause of every social development. Historical estimates vary in quality, and recent energy technologies and emissions data need updating beyond the 2017 account.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-129",
+      "item_id": 8095,
+      "source_ids": [
+        "SCIENCE-S128",
+        "SCIENCE-S067",
+        "SCIENCE-S191"
+      ],
+      "standing": "Position 129 in the owner-supplied Science books · All time synthesis. An exemplary explanation of environmental contamination through chemistry, epidemiology and the difficulty of establishing causation. The scientific investigation gives the community narrative analytical depth.",
+      "reading": "An exemplary explanation of environmental contamination through chemistry, epidemiology and the difficulty of establishing causation. The scientific investigation gives the community narrative analytical depth.",
+      "caveat": "A local cancer cluster is not, by itself, proof of a particular cause. Exposure reconstruction and statistical power impose limits; legal conclusions and scientific causal claims answer related but different questions.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-130",
+      "item_id": 8096,
+      "source_ids": [
+        "SCIENCE-S129",
+        "SCIENCE-S166"
+      ],
+      "standing": "Position 130 in the owner-supplied Science books · All time synthesis. An ambitious explanation of photosynthesis connecting molecular processes, evolutionary history and the planet's atmosphere. Its breadth makes an apparently familiar process intellectually surprising.",
+      "reading": "An ambitious explanation of photosynthesis connecting molecular processes, evolutionary history and the planet's atmosphere. Its breadth makes an apparently familiar process intellectually surprising.",
+      "caveat": "Mechanistic details and earth-history reconstructions differ in certainty. Climate and biogeochemical findings have advanced since 2007; the literary synthesis should not obscure unresolved questions about ancient environments or feedback strength.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-131",
+      "item_id": 8097,
+      "source_ids": [
+        "SCIENCE-S156",
+        "SCIENCE-S214"
+      ],
+      "standing": "Position 131 in the owner-supplied Science books · All time synthesis. An influential Korean invitation to science through unexpected patterns in everyday life, linking accessible examples to complexity and quantitative reasoning. Its public reach and locally situated explanatory voice broaden this ranking's traditions.",
+      "reading": "An influential Korean invitation to science through unexpected patterns in everyday life, linking accessible examples to complexity and quantitative reasoning. Its public reach and locally situated explanatory voice broaden this ranking's traditions.",
+      "caveat": "The 2001 examples and later revisions should not be conflated. Attractive links between social patterns and physical models need independent evidence; the book is an exploratory introduction rather than a validated universal theory of society.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-132",
+      "item_id": 8098,
+      "source_ids": [
+        "SCIENCE-S100",
+        "SCIENCE-S180"
+      ],
+      "standing": "Position 132 in the owner-supplied Science books · All time synthesis. An unusually effective short explanation of a practical scientific problem through timekeeping, instruments and competing approaches. It gives technical development a clear narrative without requiring mathematical preparation.",
+      "reading": "An unusually effective short explanation of a practical scientific problem through timekeeping, instruments and competing approaches. It gives technical development a clear narrative without requiring mathematical preparation.",
+      "caveat": "The Harrison-centred story compresses collective work and can simplify the role of lunar-distance methods and scientific institutions. It is an introduction to the longitude problem, not a comprehensive history of navigation.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-133",
+      "item_id": 8099,
+      "source_ids": [
+        "SCIENCE-S095",
+        "SCIENCE-S179"
+      ],
+      "standing": "Position 133 in the owner-supplied Science books · All time synthesis. Botanical explanation and scientific memoir reinforce one another through vivid accounts of trees, soils, experiments and fieldwork. Its literary strengths are grounded in sustained attention to living systems.",
+      "reading": "Botanical explanation and scientific memoir reinforce one another through vivid accounts of trees, soils, experiments and fieldwork. Its literary strengths are grounded in sustained attention to living systems.",
+      "caveat": "The scientific passages are selective, and personal experience is not representative of all research careers. Plant descriptions may use personification; that device should be distinguished from literal claims about intention or human-like experience.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-134",
+      "item_id": 8100,
+      "source_ids": [
+        "SCIENCE-S076",
+        "SCIENCE-S249",
+        "SCIENCE-S174"
+      ],
+      "standing": "Position 134 in the owner-supplied Science books · All time synthesis. Connects cosmological ideas, their historical development and the cultural search for origins in an unusually expansive popular account. Its Brazilian reception adds evidence of reach beyond Anglophone science-writing circuits.",
+      "reading": "Connects cosmological ideas, their historical development and the cultural search for origins in an unusually expansive popular account. Its Brazilian reception adds evidence of reach beyond Anglophone science-writing circuits.",
+      "caveat": "Scientific cosmology and religious or philosophical creation stories have different evidential standing. The 1997 science predates major later cosmological results. English and Portuguese editions appeared that year; composition-language priority was not securely established here.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-135",
+      "item_id": 8101,
+      "source_ids": [
+        "SCIENCE-S161",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 135 in the owner-supplied Science books · All time synthesis. A highly original account of the brain as an active generator of organized behaviour and mental experience. Its connection of movement, prediction and neural dynamics gives it substantial explanatory ambition.",
+      "reading": "A highly original account of the brain as an active generator of organized behaviour and mental experience. Its connection of movement, prediction and neural dynamics gives it substantial explanatory ambition.",
+      "caveat": "It advances a particular theoretical synthesis. Oscillations and motor organization are important, but they do not constitute an agreed complete explanation of consciousness; the 2001 account predates many later methods and findings.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-136",
+      "item_id": 8102,
+      "source_ids": [
+        "SCIENCE-S130",
+        "SCIENCE-S188"
+      ],
+      "standing": "Position 136 in the owner-supplied Science books · All time synthesis. A concise account of human origins grounded in African fossils and questions about behaviour, anatomy and evolutionary change. Its clarity gives readers a useful view of how palaeoanthropological evidence is interpreted.",
+      "reading": "A concise account of human origins grounded in African fossils and questions about behaviour, anatomy and evolutionary change. Its clarity gives readers a useful view of how palaeoanthropological evidence is interpreted.",
+      "caveat": "Ancient DNA, new fossils and revised dating have transformed the field since 1994. Some family trees and behavioural inferences are outdated; current human evolution is branching and includes interbreeding, not a single ladder.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-137",
+      "item_id": 8103,
+      "source_ids": [
+        "SCIENCE-S158",
+        "SCIENCE-S164"
+      ],
+      "standing": "Position 137 in the owner-supplied Science books · All time synthesis. A substantial South African scientific and public-health synthesis rooted in one of the world's most consequential epidemics. Its integration of epidemiology, prevention, treatment and social context justifies inclusion beyond narrative popular science.",
+      "reading": "A substantial South African scientific and public-health synthesis rooted in one of the world's most consequential epidemics. Its integration of epidemiology, prevention, treatment and social context justifies inclusion beyond narrative popular science.",
+      "caveat": "The 2005 first edition is clinically outdated. Later editions and current evidence must guide treatment and prevention; effective antiretroviral therapy has radically changed prognosis and transmission. The book's importance is contextual and explanatory, not the timelessness of its original recommendations.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-138",
+      "item_id": 8104,
+      "source_ids": [
+        "SCIENCE-S212"
+      ],
+      "standing": "Position 138 in the owner-supplied Science books · All time synthesis. An influential field guide that made Indian ornithology accessible through identification, description and attention to birds in their habitats. It represents scientific natural history as a practice readers can undertake themselves.",
+      "reading": "An influential field guide that made Indian ornithology accessible through identification, description and attention to birds in their habitats. It represents scientific natural history as a practice readers can undertake themselves.",
+      "caveat": "Taxonomy, species limits, conservation status and distribution records change. Revised editions should be distinguished from the 1941 original, and a national guide is not comprehensive coverage of every South Asian bird.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-139",
+      "item_id": 8105,
+      "source_ids": [
+        "SCIENCE-S145",
+        "SCIENCE-S179"
+      ],
+      "standing": "Position 139 in the owner-supplied Science books · All time synthesis. An original attempt to investigate responses across living tissues and non-living materials through carefully designed instruments. Its value lies in experimental comparison and a challenge to easy disciplinary boundaries.",
+      "reading": "An original attempt to investigate responses across living tissues and non-living materials through carefully designed instruments. Its value lies in experimental comparison and a challenge to easy disciplinary boundaries.",
+      "caveat": "Similar electrical response curves do not demonstrate that metals have consciousness or that all biological and non-biological mechanisms are identical. Instrumental and physiological interpretation must be reassessed in light of modern biophysics.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-140",
+      "item_id": 8106,
+      "source_ids": [
+        "SCIENCE-S213",
+        "SCIENCE-S229"
+      ],
+      "standing": "Position 140 in the owner-supplied Science books · All time synthesis. A major Arabic compilation in which animals, environments and observation are central, embedded in a richly argumentative literary culture. It reveals a scientific natural-history tradition often absent from English-language rankings.",
+      "reading": "A major Arabic compilation in which animals, environments and observation are central, embedded in a richly argumentative literary culture. It reveals a scientific natural-history tradition often absent from English-language rankings.",
+      "caveat": "It mixes zoological observation with anecdotes, literature and theological argument. Descriptions of struggle and adaptation should not be relabelled as Darwin's theory of natural selection. Manuscript history and the selection in translations affect accessibility.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-141",
+      "item_id": 8107,
+      "source_ids": [
+        "SCIENCE-S272",
+        "SCIENCE-S176",
+        "SCIENCE-S166"
+      ],
+      "standing": "Position 141 in the owner-supplied Science books · All time synthesis. A powerful specimen of nineteenth-century public physics, explaining thermal phenomena through experiments and a mechanical conception of heat. Tyndall's skill at making invisible processes experimentally tangible remains its main attraction.",
+      "reading": "A powerful specimen of nineteenth-century public physics, explaining thermal phenomena through experiments and a mechanical conception of heat. Tyndall's skill at making invisible processes experimentally tangible remains its main attraction.",
+      "caveat": "The account predates quantum theory and modern molecular physics. Particular models, terminology and experimental practices are historical; its place in the development of climate-related knowledge should not be reduced to a single-founder story.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-142",
+      "item_id": 8108,
+      "source_ids": [
+        "SCIENCE-S200",
+        "SCIENCE-S124"
+      ],
+      "standing": "Position 142 in the owner-supplied Science books · All time synthesis. A compact, thoughtful explanation of statistical reasoning by a major contributor to the field. It connects uncertainty, scientific inference and real problems without treating statistics as a collection of mechanical recipes.",
+      "reading": "A compact, thoughtful explanation of statistical reasoning by a major contributor to the field. It connects uncertainty, scientific inference and real problems without treating statistics as a collection of mechanical recipes.",
+      "caveat": "Philosophical interpretations of probability and inference remain contested. Examples and available techniques reflect their edition; the 1989 first edition and expanded later text should not be treated as identical.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-143",
+      "item_id": 8109,
+      "source_ids": [
+        "SCIENCE-S241",
+        "SCIENCE-S242",
+        "SCIENCE-S223",
+        "SCIENCE-S195"
+      ],
+      "standing": "Position 143 in the owner-supplied Science books · All time synthesis. An engaging explanation of gravity from familiar experience to relativity and astronomical consequences. Its accessibility is strengthened by Narlikar's long commitment to public scientific understanding in India.",
+      "reading": "An engaging explanation of gravity from familiar experience to relativity and astronomical consequences. Its accessibility is strengthened by Narlikar's long commitment to public scientific understanding in India.",
+      "caveat": "Some simple equations and sustained conceptual work are required. The 1982 original and 1996 second edition predate major later observations; speculative cosmological positions should be distinguished from well-supported gravitational physics.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-144",
+      "item_id": 8110,
+      "source_ids": [
+        "SCIENCE-S157"
+      ],
+      "standing": "Position 144 in the owner-supplied Science books · All time synthesis. Makes mathematical curiosity publicly accessible through problems, surprising arguments and conversational explanation. Its strong Spanish-language readership demonstrates lasting value outside specialist mathematical culture.",
+      "reading": "Makes mathematical curiosity publicly accessible through problems, surprising arguments and conversational explanation. Its strong Spanish-language readership demonstrates lasting value outside specialist mathematical culture.",
+      "caveat": "This is the first book in a larger series, not the whole series ranked together. Puzzle-solving is not a substitute for a systematic curriculum, and some readers find its informal level uneven rather than consistently demanding.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-145",
+      "item_id": 8111,
+      "source_ids": [
+        "SCIENCE-S131",
+        "SCIENCE-S189"
+      ],
+      "standing": "Position 145 in the owner-supplied Science books · All time synthesis. An ambitious Brazilian account of dreaming that links sleep research, memory, evolution and the history of ideas. Its scientific range and distinctive synthesis give it value beyond a conventional sleep primer.",
+      "reading": "An ambitious Brazilian account of dreaming that links sleep research, memory, evolution and the history of ideas. Its scientific range and distinctive synthesis give it value beyond a conventional sleep primer.",
+      "caveat": "Proposed functions of dreams and broad evolutionary interpretations remain contested. Cultural and psychoanalytic interpretations do not have the same evidential status as laboratory sleep findings; the 2019 account is not a settled theory or treatment guide.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-146",
+      "item_id": 187,
+      "source_ids": [
+        "SCIENCE-S069",
+        "SCIENCE-S168"
+      ],
+      "standing": "Position 146 in the owner-supplied Science books · All time synthesis. A forcefully written examination of how measurement and theories of intelligence can embody assumptions about human difference. Its critical influence and ability to provoke methodological scrutiny justify inclusion, with a substantial reliability penalty.",
+      "reading": "A forcefully written examination of how measurement and theories of intelligence can embody assumptions about human difference. Its critical influence and ability to provoke methodological scrutiny justify inclusion, with a substantial reliability penalty.",
+      "caveat": "Gould's account of Morton's skull measurements is challenged by direct reanalysis. That dispute does not vindicate racial hierarchies, nor does the book settle modern psychometrics. Read it as a contested historical argument, especially across the 1981 and 1996 editions.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-147",
+      "item_id": 627,
+      "source_ids": [
+        "SCIENCE-S093",
+        "SCIENCE-S070",
+        "SCIENCE-S252",
+        "SCIENCE-S253",
+        "SCIENCE-S264"
+      ],
+      "standing": "Position 147 in the owner-supplied Science books · All time synthesis. An influential and lucid synthesis of judgment, uncertainty and systematic errors in intuition. Its strongest material explains consequential experimental findings and the limits of unaided probability judgments.",
+      "reading": "An influential and lucid synthesis of judgment, uncertainty and systematic errors in intuition. Its strongest material explains consequential experimental findings and the limits of unaided probability judgments.",
+      "caveat": "Confidence must vary by chapter: some social-priming examples failed replication or rested on weak evidence. The two systems are explanatory shorthand, not two literal brain organs. These weaknesses lower its rank; they do not invalidate every bias or prospect-theory result.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-148",
+      "item_id": 8112,
+      "source_ids": [
+        "SCIENCE-S116"
+      ],
+      "standing": "Position 148 in the owner-supplied Science books · All time synthesis. An extraordinary compilation of substances, observations, classifications and earlier medical literature. Its importance includes natural history and the critical organization of knowledge in late-imperial China.",
+      "reading": "An extraordinary compilation of substances, observations, classifications and earlier medical literature. Its importance includes natural history and the critical organization of knowledge in late-imperial China.",
+      "caveat": "Traditional indications are not demonstrations of efficacy or safety; some ingredients and treatments are hazardous. Historical names are difficult to identify precisely, and the book's authority cannot substitute for modern toxicological or clinical evidence.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-149",
+      "item_id": 8113,
+      "source_ids": [
+        "SCIENCE-S115",
+        "SCIENCE-S132",
+        "SCIENCE-S133"
+      ],
+      "standing": "Position 149 in the owner-supplied Science books · All time synthesis. A major Korean organization of medical knowledge, valued for its synthesis, structure and transmission of practical learning. Its inclusion recognizes a historically consequential scientific tradition rather than modern efficacy.",
+      "reading": "A major Korean organization of medical knowledge, valued for its synthesis, structure and transmission of practical learning. Its inclusion recognizes a historically consequential scientific tradition rather than modern efficacy.",
+      "caveat": "Written in Classical Chinese and first printed in 1613, following earlier compilation. Historical physiological theories and many remedies are unsupported or unsafe by current standards. UNESCO recognition concerns documentary heritage, not clinical validation.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    },
+    {
+      "key": "science-books-all-time-owner-150",
+      "item_id": 3126,
+      "source_ids": [
+        "SCIENCE-S274",
+        "SCIENCE-S004"
+      ],
+      "standing": "Position 150 in the owner-supplied Science books · All time synthesis. A vast surviving record of ancient attempts to collect and organize knowledge of nature, especially valuable for plants, animals, minerals and materials. Its historical influence exceeds its present explanatory reliability.",
+      "reading": "A vast surviving record of ancient attempts to collect and organize knowledge of nature, especially valuable for plants, animals, minerals and materials. Its historical influence exceeds its present explanatory reliability.",
+      "caveat": "It combines observation, borrowed reports, errors and marvellous claims, including ineffective or hazardous remedies. Inclusion is historical, not endorsement. Modern selections can conceal how heterogeneous the 37-book original actually is.",
+      "metadata_status": "edition_and_media_pending",
+      "source_positions": []
+    }
+  ],
+  "orders": {
+    "standing": {
+      "label": "Critical standing",
+      "description": "The supplied report’s editorial Top 150 order.",
+      "keys": [
+        "science-books-all-time-owner-001",
+        "science-books-all-time-owner-002",
+        "science-books-all-time-owner-003",
+        "science-books-all-time-owner-004",
+        "science-books-all-time-owner-005",
+        "science-books-all-time-owner-006",
+        "science-books-all-time-owner-007",
+        "science-books-all-time-owner-008",
+        "science-books-all-time-owner-009",
+        "science-books-all-time-owner-010",
+        "science-books-all-time-owner-011",
+        "science-books-all-time-owner-012",
+        "science-books-all-time-owner-013",
+        "science-books-all-time-owner-014",
+        "science-books-all-time-owner-015",
+        "science-books-all-time-owner-016",
+        "science-books-all-time-owner-017",
+        "science-books-all-time-owner-018",
+        "science-books-all-time-owner-019",
+        "science-books-all-time-owner-020",
+        "science-books-all-time-owner-021",
+        "science-books-all-time-owner-022",
+        "science-books-all-time-owner-023",
+        "science-books-all-time-owner-024",
+        "science-books-all-time-owner-025",
+        "science-books-all-time-owner-026",
+        "science-books-all-time-owner-027",
+        "science-books-all-time-owner-028",
+        "science-books-all-time-owner-029",
+        "science-books-all-time-owner-030",
+        "science-books-all-time-owner-031",
+        "science-books-all-time-owner-032",
+        "science-books-all-time-owner-033",
+        "science-books-all-time-owner-034",
+        "science-books-all-time-owner-035",
+        "science-books-all-time-owner-036",
+        "science-books-all-time-owner-037",
+        "science-books-all-time-owner-038",
+        "science-books-all-time-owner-039",
+        "science-books-all-time-owner-040",
+        "science-books-all-time-owner-041",
+        "science-books-all-time-owner-042",
+        "science-books-all-time-owner-043",
+        "science-books-all-time-owner-044",
+        "science-books-all-time-owner-045",
+        "science-books-all-time-owner-046",
+        "science-books-all-time-owner-047",
+        "science-books-all-time-owner-048",
+        "science-books-all-time-owner-049",
+        "science-books-all-time-owner-050",
+        "science-books-all-time-owner-051",
+        "science-books-all-time-owner-052",
+        "science-books-all-time-owner-053",
+        "science-books-all-time-owner-054",
+        "science-books-all-time-owner-055",
+        "science-books-all-time-owner-056",
+        "science-books-all-time-owner-057",
+        "science-books-all-time-owner-058",
+        "science-books-all-time-owner-059",
+        "science-books-all-time-owner-060",
+        "science-books-all-time-owner-061",
+        "science-books-all-time-owner-062",
+        "science-books-all-time-owner-063",
+        "science-books-all-time-owner-064",
+        "science-books-all-time-owner-065",
+        "science-books-all-time-owner-066",
+        "science-books-all-time-owner-067",
+        "science-books-all-time-owner-068",
+        "science-books-all-time-owner-069",
+        "science-books-all-time-owner-070",
+        "science-books-all-time-owner-071",
+        "science-books-all-time-owner-072",
+        "science-books-all-time-owner-073",
+        "science-books-all-time-owner-074",
+        "science-books-all-time-owner-075",
+        "science-books-all-time-owner-076",
+        "science-books-all-time-owner-077",
+        "science-books-all-time-owner-078",
+        "science-books-all-time-owner-079",
+        "science-books-all-time-owner-080",
+        "science-books-all-time-owner-081",
+        "science-books-all-time-owner-082",
+        "science-books-all-time-owner-083",
+        "science-books-all-time-owner-084",
+        "science-books-all-time-owner-085",
+        "science-books-all-time-owner-086",
+        "science-books-all-time-owner-087",
+        "science-books-all-time-owner-088",
+        "science-books-all-time-owner-089",
+        "science-books-all-time-owner-090",
+        "science-books-all-time-owner-091",
+        "science-books-all-time-owner-092",
+        "science-books-all-time-owner-093",
+        "science-books-all-time-owner-094",
+        "science-books-all-time-owner-095",
+        "science-books-all-time-owner-096",
+        "science-books-all-time-owner-097",
+        "science-books-all-time-owner-098",
+        "science-books-all-time-owner-099",
+        "science-books-all-time-owner-100",
+        "science-books-all-time-owner-101",
+        "science-books-all-time-owner-102",
+        "science-books-all-time-owner-103",
+        "science-books-all-time-owner-104",
+        "science-books-all-time-owner-105",
+        "science-books-all-time-owner-106",
+        "science-books-all-time-owner-107",
+        "science-books-all-time-owner-108",
+        "science-books-all-time-owner-109",
+        "science-books-all-time-owner-110",
+        "science-books-all-time-owner-111",
+        "science-books-all-time-owner-112",
+        "science-books-all-time-owner-113",
+        "science-books-all-time-owner-114",
+        "science-books-all-time-owner-115",
+        "science-books-all-time-owner-116",
+        "science-books-all-time-owner-117",
+        "science-books-all-time-owner-118",
+        "science-books-all-time-owner-119",
+        "science-books-all-time-owner-120",
+        "science-books-all-time-owner-121",
+        "science-books-all-time-owner-122",
+        "science-books-all-time-owner-123",
+        "science-books-all-time-owner-124",
+        "science-books-all-time-owner-125",
+        "science-books-all-time-owner-126",
+        "science-books-all-time-owner-127",
+        "science-books-all-time-owner-128",
+        "science-books-all-time-owner-129",
+        "science-books-all-time-owner-130",
+        "science-books-all-time-owner-131",
+        "science-books-all-time-owner-132",
+        "science-books-all-time-owner-133",
+        "science-books-all-time-owner-134",
+        "science-books-all-time-owner-135",
+        "science-books-all-time-owner-136",
+        "science-books-all-time-owner-137",
+        "science-books-all-time-owner-138",
+        "science-books-all-time-owner-139",
+        "science-books-all-time-owner-140",
+        "science-books-all-time-owner-141",
+        "science-books-all-time-owner-142",
+        "science-books-all-time-owner-143",
+        "science-books-all-time-owner-144",
+        "science-books-all-time-owner-145",
+        "science-books-all-time-owner-146",
+        "science-books-all-time-owner-147",
+        "science-books-all-time-owner-148",
+        "science-books-all-time-owner-149",
+        "science-books-all-time-owner-150"
+      ]
+    },
+    "reading": {
+      "label": "Reading value",
+      "description": "The supplied report did not provide a separately ordered reading-value list, so this view retains its editorial order.",
+      "keys": [
+        "science-books-all-time-owner-001",
+        "science-books-all-time-owner-002",
+        "science-books-all-time-owner-003",
+        "science-books-all-time-owner-004",
+        "science-books-all-time-owner-005",
+        "science-books-all-time-owner-006",
+        "science-books-all-time-owner-007",
+        "science-books-all-time-owner-008",
+        "science-books-all-time-owner-009",
+        "science-books-all-time-owner-010",
+        "science-books-all-time-owner-011",
+        "science-books-all-time-owner-012",
+        "science-books-all-time-owner-013",
+        "science-books-all-time-owner-014",
+        "science-books-all-time-owner-015",
+        "science-books-all-time-owner-016",
+        "science-books-all-time-owner-017",
+        "science-books-all-time-owner-018",
+        "science-books-all-time-owner-019",
+        "science-books-all-time-owner-020",
+        "science-books-all-time-owner-021",
+        "science-books-all-time-owner-022",
+        "science-books-all-time-owner-023",
+        "science-books-all-time-owner-024",
+        "science-books-all-time-owner-025",
+        "science-books-all-time-owner-026",
+        "science-books-all-time-owner-027",
+        "science-books-all-time-owner-028",
+        "science-books-all-time-owner-029",
+        "science-books-all-time-owner-030",
+        "science-books-all-time-owner-031",
+        "science-books-all-time-owner-032",
+        "science-books-all-time-owner-033",
+        "science-books-all-time-owner-034",
+        "science-books-all-time-owner-035",
+        "science-books-all-time-owner-036",
+        "science-books-all-time-owner-037",
+        "science-books-all-time-owner-038",
+        "science-books-all-time-owner-039",
+        "science-books-all-time-owner-040",
+        "science-books-all-time-owner-041",
+        "science-books-all-time-owner-042",
+        "science-books-all-time-owner-043",
+        "science-books-all-time-owner-044",
+        "science-books-all-time-owner-045",
+        "science-books-all-time-owner-046",
+        "science-books-all-time-owner-047",
+        "science-books-all-time-owner-048",
+        "science-books-all-time-owner-049",
+        "science-books-all-time-owner-050",
+        "science-books-all-time-owner-051",
+        "science-books-all-time-owner-052",
+        "science-books-all-time-owner-053",
+        "science-books-all-time-owner-054",
+        "science-books-all-time-owner-055",
+        "science-books-all-time-owner-056",
+        "science-books-all-time-owner-057",
+        "science-books-all-time-owner-058",
+        "science-books-all-time-owner-059",
+        "science-books-all-time-owner-060",
+        "science-books-all-time-owner-061",
+        "science-books-all-time-owner-062",
+        "science-books-all-time-owner-063",
+        "science-books-all-time-owner-064",
+        "science-books-all-time-owner-065",
+        "science-books-all-time-owner-066",
+        "science-books-all-time-owner-067",
+        "science-books-all-time-owner-068",
+        "science-books-all-time-owner-069",
+        "science-books-all-time-owner-070",
+        "science-books-all-time-owner-071",
+        "science-books-all-time-owner-072",
+        "science-books-all-time-owner-073",
+        "science-books-all-time-owner-074",
+        "science-books-all-time-owner-075",
+        "science-books-all-time-owner-076",
+        "science-books-all-time-owner-077",
+        "science-books-all-time-owner-078",
+        "science-books-all-time-owner-079",
+        "science-books-all-time-owner-080",
+        "science-books-all-time-owner-081",
+        "science-books-all-time-owner-082",
+        "science-books-all-time-owner-083",
+        "science-books-all-time-owner-084",
+        "science-books-all-time-owner-085",
+        "science-books-all-time-owner-086",
+        "science-books-all-time-owner-087",
+        "science-books-all-time-owner-088",
+        "science-books-all-time-owner-089",
+        "science-books-all-time-owner-090",
+        "science-books-all-time-owner-091",
+        "science-books-all-time-owner-092",
+        "science-books-all-time-owner-093",
+        "science-books-all-time-owner-094",
+        "science-books-all-time-owner-095",
+        "science-books-all-time-owner-096",
+        "science-books-all-time-owner-097",
+        "science-books-all-time-owner-098",
+        "science-books-all-time-owner-099",
+        "science-books-all-time-owner-100",
+        "science-books-all-time-owner-101",
+        "science-books-all-time-owner-102",
+        "science-books-all-time-owner-103",
+        "science-books-all-time-owner-104",
+        "science-books-all-time-owner-105",
+        "science-books-all-time-owner-106",
+        "science-books-all-time-owner-107",
+        "science-books-all-time-owner-108",
+        "science-books-all-time-owner-109",
+        "science-books-all-time-owner-110",
+        "science-books-all-time-owner-111",
+        "science-books-all-time-owner-112",
+        "science-books-all-time-owner-113",
+        "science-books-all-time-owner-114",
+        "science-books-all-time-owner-115",
+        "science-books-all-time-owner-116",
+        "science-books-all-time-owner-117",
+        "science-books-all-time-owner-118",
+        "science-books-all-time-owner-119",
+        "science-books-all-time-owner-120",
+        "science-books-all-time-owner-121",
+        "science-books-all-time-owner-122",
+        "science-books-all-time-owner-123",
+        "science-books-all-time-owner-124",
+        "science-books-all-time-owner-125",
+        "science-books-all-time-owner-126",
+        "science-books-all-time-owner-127",
+        "science-books-all-time-owner-128",
+        "science-books-all-time-owner-129",
+        "science-books-all-time-owner-130",
+        "science-books-all-time-owner-131",
+        "science-books-all-time-owner-132",
+        "science-books-all-time-owner-133",
+        "science-books-all-time-owner-134",
+        "science-books-all-time-owner-135",
+        "science-books-all-time-owner-136",
+        "science-books-all-time-owner-137",
+        "science-books-all-time-owner-138",
+        "science-books-all-time-owner-139",
+        "science-books-all-time-owner-140",
+        "science-books-all-time-owner-141",
+        "science-books-all-time-owner-142",
+        "science-books-all-time-owner-143",
+        "science-books-all-time-owner-144",
+        "science-books-all-time-owner-145",
+        "science-books-all-time-owner-146",
+        "science-books-all-time-owner-147",
+        "science-books-all-time-owner-148",
+        "science-books-all-time-owner-149",
+        "science-books-all-time-owner-150"
+      ]
+    }
+  }
+}

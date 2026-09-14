@@ -1,0 +1,190 @@
+{
+  "summary": "Saved the eight reviews consulted before interruption, including Dutch criticism. Seven are independently authored NDPR reviews, so journal concentration remains visible. Failed NDPR guessed URLs and inaccessible Kimmerle DOI are not counted.",
+  "next": "Owner explicitly requests much greater exploration, worldwide and non-English evidence, well beyond 100 per broad target and toward 200 useful sources. Shift to diverse publishers and traditions.",
+  "sources": [
+    {
+      "id": "R033",
+      "url": "https://ndpr.nd.edu/reviews/on-what-matters-volumes-1-and-2/",
+      "title": "On What Matters, Volumes 1 and 2",
+      "author": "Mark Schroeder",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "family": "scholarly_review",
+      "note": "Schroeder praises the systematic achievement but argues that convergence can be overstated when Kantians reject the background assumptions. He distinguishes this project from Reasons and Persons.",
+      "candidates": [
+        "On What Matters",
+        "Reasons and Persons",
+        "Derek Parfit"
+      ],
+      "targets": {
+        "A": "Critical evidence for books on moral progress and convergence.",
+        "N": "Scholarly reception of On What Matters, Volumes 1 and 2 as argumentative nonfiction.",
+        "B": "Explains and evaluates moral progress and convergence.",
+        "P": "Evidence for Derek Parfit's contribution and its reception."
+      },
+      "location": "Introduction and convergence critique",
+      "date": "2011-08-01",
+      "limits": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer."
+    },
+    {
+      "id": "R034",
+      "url": "https://ndpr.nd.edu/reviews/epistemic-injustice-power-and-the-ethics-of-knowing/",
+      "title": "Epistemic Injustice: Power and the Ethics of Knowing",
+      "author": "Lorraine Code",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "family": "scholarly_review",
+      "note": "Code praises the connection between ethics, epistemology and power. Testimonial and hermeneutical harms affect people as knowers; collective prejudice complicates individual virtue remedies.",
+      "candidates": [
+        "Epistemic Injustice",
+        "Miranda Fricker"
+      ],
+      "targets": {
+        "A": "Critical evidence for books on knowledge, credibility and social power.",
+        "N": "Scholarly reception of Epistemic Injustice: Power and the Ethics of Knowing as argumentative nonfiction.",
+        "B": "Explains and evaluates knowledge, credibility and social power.",
+        "P": "Evidence for Miranda Fricker's contribution and its reception."
+      },
+      "location": "Opening analysis and collective-prejudice discussion",
+      "date": "2008-03-12",
+      "limits": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer."
+    },
+    {
+      "id": "R035",
+      "url": "https://ndpr.nd.edu/reviews/death-and-the-afterlife/",
+      "title": "Death and the Afterlife",
+      "author": "John Cottingham",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "family": "scholarly_review",
+      "note": "Cottingham praises clear argument about humanity surviving one's death, but questions the exclusion of religious reflection. The review distinguishes collective survival from personal immortality.",
+      "candidates": [
+        "Death and the Afterlife",
+        "Samuel Scheffler"
+      ],
+      "targets": {
+        "A": "Critical evidence for books on future humanity and the significance of present projects.",
+        "N": "Scholarly reception of Death and the Afterlife as argumentative nonfiction.",
+        "B": "Explains and evaluates future humanity and the significance of present projects.",
+        "P": "Evidence for Samuel Scheffler's contribution and its reception."
+      },
+      "location": "Opening argument and concluding reservation",
+      "date": "2014-05-02",
+      "limits": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer."
+    },
+    {
+      "id": "R036",
+      "url": "https://ndpr.nd.edu/reviews/creating-capabilities-the-human-development-approach-2/",
+      "title": "Creating Capabilities: The Human Development Approach",
+      "author": "Ingrid Robeyns",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "family": "scholarly_review",
+      "note": "Robeyns finds an effective general introduction. The capabilities approach evaluates substantive opportunities rather than resources alone, distinguishing Nussbaum's justice project from Sen's comparative assessments.",
+      "candidates": [
+        "Creating Capabilities",
+        "Women and Human Development",
+        "Frontiers of Justice",
+        "Martha Nussbaum"
+      ],
+      "targets": {
+        "A": "Critical evidence for books on human development and substantive opportunities.",
+        "N": "Scholarly reception of Creating Capabilities: The Human Development Approach as argumentative nonfiction.",
+        "B": "Explains and evaluates human development and substantive opportunities.",
+        "P": "Evidence for Martha Nussbaum's contribution and its reception."
+      },
+      "location": "Opening paragraphs",
+      "date": "2011-09-23",
+      "limits": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer."
+    },
+    {
+      "id": "R037",
+      "url": "https://ndpr.nd.edu/reviews/justice-for-hedgehogs/",
+      "title": "Justice for Hedgehogs",
+      "author": "Gerald Doppelt",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "family": "scholarly_review",
+      "note": "Doppelt describes a systematic, readable defense of independent but mutually supporting moral values, interpreted through further value judgments rather than purely empirical tests.",
+      "candidates": [
+        "Justice for Hedgehogs",
+        "Ronald Dworkin"
+      ],
+      "targets": {
+        "A": "Critical evidence for books on unity of value and interpretation.",
+        "N": "Scholarly reception of Justice for Hedgehogs as argumentative nonfiction.",
+        "B": "Explains and evaluates unity of value and interpretation.",
+        "P": "Evidence for Ronald Dworkin's contribution and its reception."
+      },
+      "location": "Introduction and opening independence-of-value analysis",
+      "date": "2011-08-04",
+      "limits": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer."
+    },
+    {
+      "id": "R038",
+      "url": "https://ndpr.nd.edu/reviews/emocracy-after-virtue-toward-pragmatic-confucian-democracy/",
+      "title": "Democracy After Virtue: Toward Pragmatic Confucian Democracy",
+      "author": "Kenneth Winston",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "family": "scholarly_review",
+      "note": "Winston locates Kim between Confucian meritocrats and democrats. Kim challenges elite moral monopoly and treats pluralism as central to the problem of political legitimacy.",
+      "candidates": [
+        "Democracy After Virtue",
+        "Sungmoon Kim"
+      ],
+      "targets": {
+        "A": "Critical evidence for books on contemporary Confucian democracy and pluralism.",
+        "N": "Scholarly reception of Democracy After Virtue: Toward Pragmatic Confucian Democracy as argumentative nonfiction.",
+        "B": "Explains and evaluates contemporary Confucian democracy and pluralism.",
+        "P": "Evidence for Sungmoon Kim's contribution and its reception."
+      },
+      "location": "Opening argument exposition",
+      "date": "2019-07-20",
+      "limits": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer."
+    },
+    {
+      "id": "R039",
+      "url": "https://ndpr.nd.edu/reviews/ethics-in-the-conflicts-of-modernity-an-essay-on-desire-practical-reasoning-and-narrative/",
+      "title": "Ethics in the Conflicts of Modernity",
+      "author": "Richard Kraut",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "family": "scholarly_review",
+      "note": "Kraut connects the book to After Virtue while noting renewed engagement with expressivism and Bernard Williams. MacIntyre's approach demands historical and social context for moral philosophy.",
+      "candidates": [
+        "Ethics in the Conflicts of Modernity",
+        "After Virtue",
+        "Ethics and the Limits of Philosophy",
+        "Alasdair MacIntyre"
+      ],
+      "targets": {
+        "A": "Critical evidence for books on neo-Aristotelian ethics and criticism of academic isolation.",
+        "N": "Scholarly reception of Ethics in the Conflicts of Modernity as argumentative nonfiction.",
+        "B": "Explains and evaluates neo-Aristotelian ethics and criticism of academic isolation.",
+        "P": "Evidence for Alasdair MacIntyre's contribution and its reception."
+      },
+      "location": "Opening paragraphs",
+      "date": "2018-01-17",
+      "limits": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer."
+    },
+    {
+      "id": "R040",
+      "url": "https://www.tzum.info/2018/07/recensie-sophie-bosede-oluwole-socrates-en-orunmila/",
+      "title": "Recensie: Sophie Bósèdé Olúwolé – Socrates en Òrúnmìlà",
+      "author": "Erik-Jan Hummel",
+      "publisher": "Tzum",
+      "family": "critical_review",
+      "language": "nl",
+      "date": "2018-07-12",
+      "note": "Hummel finds Oluwole accessible but sometimes repetitive and oversimplified. He disputes explaining Orunmila's obscurity mainly by mistranslation, emphasizing transmission and institutional reception.",
+      "candidates": [
+        "Socrates and Orunmila",
+        "Sophie Oluwole",
+        "Orunmila",
+        "Socrates"
+      ],
+      "targets": {
+        "A": "Adds Dutch criticism of a Nigerian comparative-philosophy book.",
+        "N": "Adds independent reception of oral-intellectual-history nonfiction.",
+        "B": "Preserves criticism of Oluwole's comparative method alongside its accessibility.",
+        "P": "Examines why Socrates and Orunmila receive unequal recognition."
+      },
+      "location": "Review body, lines 54–65",
+      "limits": "Dutch edition review; historical claims about Orunmila remain disputed rather than adopted as facts."
+    }
+  ]
+}

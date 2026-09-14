@@ -1,0 +1,907 @@
+{
+  "target_id": "books-ancient",
+  "source_report": "research/incoming/books-ancient/2026-09-13-owner-paste/report.txt",
+  "reported_source_count": 221,
+  "candidates": [
+    {
+      "position": 1,
+      "reported_title": "The Odyssey",
+      "reported_author": "Homeric tradition",
+      "raw_line": "1. The Odyssey — Homeric tradition [Greece; c. 8th–7th century BCE; epic poetry]"
+    },
+    {
+      "position": 2,
+      "reported_title": "The Iliad",
+      "reported_author": "Homeric tradition",
+      "raw_line": "2. The Iliad — Homeric tradition [Greece; c. 8th century BCE; epic poetry]"
+    },
+    {
+      "position": 3,
+      "reported_title": "The Epic of Gilgamesh",
+      "reported_author": "Anonymous / Mesopotamian tradition",
+      "raw_line": "3. The Epic of Gilgamesh — Anonymous / Mesopotamian tradition [Mesopotamia; Old Babylonian roots; standard version c. 13th–10th century BCE; epic poetry]"
+    },
+    {
+      "position": 4,
+      "reported_title": "Mahabharata",
+      "reported_author": "Composite Sanskrit tradition (traditionally Vyasa)",
+      "raw_line": "4. Mahabharata — Composite Sanskrit tradition (traditionally Vyasa) [India; c. 400 BCE–400 CE; epic / religious-philosophical literature]"
+    },
+    {
+      "position": 5,
+      "reported_title": "Hebrew Bible / Tanakh",
+      "reported_author": "",
+      "raw_line": "5. Hebrew Bible / Tanakh — Composite [Ancient Israel / Judah; c. 10th–2nd century BCE; scripture / poetry / narrative / wisdom]"
+    },
+    {
+      "position": 6,
+      "reported_title": "Republic",
+      "reported_author": "Plato",
+      "raw_line": "6. Republic — Plato [Greece; c. 375 BCE; philosophical dialogue]"
+    },
+    {
+      "position": 7,
+      "reported_title": "Ramayana",
+      "reported_author": "Valmiki tradition",
+      "raw_line": "7. Ramayana — Valmiki tradition [India; c. 5th century BCE–3rd century CE; epic poetry]"
+    },
+    {
+      "position": 8,
+      "reported_title": "Analects",
+      "reported_author": "Confucius and disciples",
+      "raw_line": "8. Analects — Confucius and disciples [China; c. 5th–3rd century BCE; philosophy / sayings]"
+    },
+    {
+      "position": 9,
+      "reported_title": "Tao Te Ching (Daodejing)",
+      "reported_author": "Laozi tradition",
+      "raw_line": "9. Tao Te Ching (Daodejing) — Laozi tradition [China; c. 4th–3rd century BCE; philosophy / poetry]"
+    },
+    {
+      "position": 10,
+      "reported_title": "Aeneid",
+      "reported_author": "Virgil",
+      "raw_line": "10. Aeneid — Virgil [Rome; 29–19 BCE; epic poetry]"
+    },
+    {
+      "position": 11,
+      "reported_title": "Metamorphoses",
+      "reported_author": "Ovid",
+      "raw_line": "11. Metamorphoses — Ovid [Rome; c. 8 CE; mythological epic]"
+    },
+    {
+      "position": 12,
+      "reported_title": "Upanishads",
+      "reported_author": "Composite Vedic tradition",
+      "raw_line": "12. Upanishads — Composite Vedic tradition [India; c. 7th century BCE onward; principal early Upanishads ancient; religious philosophy]"
+    },
+    {
+      "position": 13,
+      "reported_title": "New Testament",
+      "reported_author": "",
+      "raw_line": "13. New Testament — Composite [Eastern Mediterranean; c. 50–120 CE; scripture / narrative / letters]"
+    },
+    {
+      "position": 14,
+      "reported_title": "Histories",
+      "reported_author": "Herodotus",
+      "raw_line": "14. Histories — Herodotus [Greece; c. 440 BCE; history / ethnography]"
+    },
+    {
+      "position": 15,
+      "reported_title": "History of the Peloponnesian War",
+      "reported_author": "Thucydides",
+      "raw_line": "15. History of the Peloponnesian War — Thucydides [Greece; late 5th century BCE; history]"
+    },
+    {
+      "position": 16,
+      "reported_title": "Oedipus the King",
+      "reported_author": "Sophocles",
+      "raw_line": "16. Oedipus the King — Sophocles [Greece; c. 429 BCE; tragedy]"
+    },
+    {
+      "position": 17,
+      "reported_title": "Zhuangzi",
+      "reported_author": "Zhuang Zhou tradition / later contributors",
+      "raw_line": "17. Zhuangzi — Zhuang Zhou tradition / later contributors [China; 4th–3rd century BCE; philosophy / literary prose]"
+    },
+    {
+      "position": 18,
+      "reported_title": "Bhagavad Gita",
+      "reported_author": "Anonymous / Mahabharata tradition",
+      "raw_line": "18. Bhagavad Gita — Anonymous / Mahabharata tradition [India; c. 2nd century BCE–2nd century CE; religious philosophy / poem]"
+    },
+    {
+      "position": 19,
+      "reported_title": "Oresteia",
+      "reported_author": "Aeschylus",
+      "raw_line": "19. Oresteia — Aeschylus [Greece; 458 BCE; tragic trilogy]"
+    },
+    {
+      "position": 20,
+      "reported_title": "Nicomachean Ethics",
+      "reported_author": "Aristotle",
+      "raw_line": "20. Nicomachean Ethics — Aristotle [Greece; 4th century BCE; philosophy / ethics]"
+    },
+    {
+      "position": 21,
+      "reported_title": "Rigveda",
+      "reported_author": "Composite Vedic poets",
+      "raw_line": "21. Rigveda — Composite Vedic poets [India; c. 1500–1200 BCE (core hymns); sacred poetry]"
+    },
+    {
+      "position": 22,
+      "reported_title": "Book of Songs (Shijing)",
+      "reported_author": "",
+      "raw_line": "22. Book of Songs (Shijing) — Composite [China; c. 11th–7th century BCE; poetry anthology]"
+    },
+    {
+      "position": 23,
+      "reported_title": "Antigone",
+      "reported_author": "Sophocles",
+      "raw_line": "23. Antigone — Sophocles [Greece; c. 441 BCE; tragedy]"
+    },
+    {
+      "position": 24,
+      "reported_title": "Records of the Grand Historian (Shiji)",
+      "reported_author": "Sima Qian",
+      "raw_line": "24. Records of the Grand Historian (Shiji) — Sima Qian [China; c. 91 BCE; history / biography]"
+    },
+    {
+      "position": 25,
+      "reported_title": "Medea",
+      "reported_author": "Euripides",
+      "raw_line": "25. Medea — Euripides [Greece; 431 BCE; tragedy]"
+    },
+    {
+      "position": 26,
+      "reported_title": "Poetics",
+      "reported_author": "Aristotle",
+      "raw_line": "26. Poetics — Aristotle [Greece; 4th century BCE; literary theory]"
+    },
+    {
+      "position": 27,
+      "reported_title": "Dhammapada",
+      "reported_author": "Buddhist canonical tradition",
+      "raw_line": "27. Dhammapada — Buddhist canonical tradition [India; core material c. 3rd century BCE or earlier; religious / ethical verse]"
+    },
+    {
+      "position": 28,
+      "reported_title": "The Art of War",
+      "reported_author": "Sunzi tradition",
+      "raw_line": "28. The Art of War — Sunzi tradition [China; c. 5th–3rd century BCE; strategy / philosophy]"
+    },
+    {
+      "position": 29,
+      "reported_title": "Theogony",
+      "reported_author": "Hesiod",
+      "raw_line": "29. Theogony — Hesiod [Greece; c. 700 BCE; cosmogonic poetry]"
+    },
+    {
+      "position": 30,
+      "reported_title": "On the Nature of Things (De Rerum Natura)",
+      "reported_author": "Lucretius",
+      "raw_line": "30. On the Nature of Things (De Rerum Natura) — Lucretius [Rome; 1st century BCE; philosophical epic]"
+    },
+    {
+      "position": 31,
+      "reported_title": "Confessions",
+      "reported_author": "Augustine",
+      "raw_line": "31. Confessions — Augustine [Roman North Africa; 397–400 CE; autobiography / theology]"
+    },
+    {
+      "position": 32,
+      "reported_title": "Symposium",
+      "reported_author": "Plato",
+      "raw_line": "32. Symposium — Plato [Greece; c. 385–370 BCE; philosophical dialogue]"
+    },
+    {
+      "position": 33,
+      "reported_title": "Mencius (Mengzi)",
+      "reported_author": "Mencius and disciples",
+      "raw_line": "33. Mencius (Mengzi) — Mencius and disciples [China; 4th–3rd century BCE; philosophy]"
+    },
+    {
+      "position": 34,
+      "reported_title": "Gathas",
+      "reported_author": "Zarathustra / Zoroastrian tradition",
+      "raw_line": "34. Gathas — Zarathustra / Zoroastrian tradition [Ancient Iran; uncertain; commonly placed in 2nd–1st millennium BCE; sacred poetry]"
+    },
+    {
+      "position": 35,
+      "reported_title": "Bacchae",
+      "reported_author": "Euripides",
+      "raw_line": "35. Bacchae — Euripides [Greece; c. 405 BCE; tragedy]"
+    },
+    {
+      "position": 36,
+      "reported_title": "Works and Days",
+      "reported_author": "Hesiod",
+      "raw_line": "36. Works and Days — Hesiod [Greece; c. 700 BCE; didactic poetry]"
+    },
+    {
+      "position": 37,
+      "reported_title": "Meditations",
+      "reported_author": "Marcus Aurelius",
+      "raw_line": "37. Meditations — Marcus Aurelius [Roman Empire; c. 170–180 CE; philosophy / personal reflections]"
+    },
+    {
+      "position": 38,
+      "reported_title": "Shakuntala (Abhijnanashakuntalam)",
+      "reported_author": "Kalidasa",
+      "raw_line": "38. Shakuntala (Abhijnanashakuntalam) — Kalidasa [India; c. 4th–5th century CE; drama]"
+    },
+    {
+      "position": 39,
+      "reported_title": "Odes",
+      "reported_author": "Horace",
+      "raw_line": "39. Odes — Horace [Rome; 23–13 BCE; lyric poetry]"
+    },
+    {
+      "position": 40,
+      "reported_title": "The Golden Ass (Metamorphoses)",
+      "reported_author": "Apuleius",
+      "raw_line": "40. The Golden Ass (Metamorphoses) — Apuleius [Roman North Africa; 2nd century CE; novel / prose fiction]"
+    },
+    {
+      "position": 41,
+      "reported_title": "Book of Changes (Yijing / I Ching)",
+      "reported_author": "",
+      "raw_line": "41. Book of Changes (Yijing / I Ching) — Composite [China; Zhou core c. 1st millennium BCE; commentarial layers later; divination / philosophy]"
+    },
+    {
+      "position": 42,
+      "reported_title": "Politics",
+      "reported_author": "Aristotle",
+      "raw_line": "42. Politics — Aristotle [Greece; 4th century BCE; political philosophy]"
+    },
+    {
+      "position": 43,
+      "reported_title": "Enuma Elish",
+      "reported_author": "Anonymous",
+      "raw_line": "43. Enuma Elish — Anonymous [Babylonia; 2nd millennium BCE; creation epic]"
+    },
+    {
+      "position": 44,
+      "reported_title": "Poems and Fragments",
+      "reported_author": "Sappho",
+      "raw_line": "44. Poems and Fragments — Sappho [Greece; c. 630–570 BCE; lyric poetry]"
+    },
+    {
+      "position": 45,
+      "reported_title": "Parallel Lives",
+      "reported_author": "Plutarch",
+      "raw_line": "45. Parallel Lives — Plutarch [Greek Roman Empire; late 1st–early 2nd century CE; biography / moral history]"
+    },
+    {
+      "position": 46,
+      "reported_title": "Annals",
+      "reported_author": "Tacitus",
+      "raw_line": "46. Annals — Tacitus [Rome; early 2nd century CE; history]"
+    },
+    {
+      "position": 47,
+      "reported_title": "Discourses",
+      "reported_author": "Epictetus (recorded by Arrian)",
+      "raw_line": "47. Discourses — Epictetus (recorded by Arrian) [Roman Empire; early 2nd century CE; Stoic philosophy]"
+    },
+    {
+      "position": 48,
+      "reported_title": "Moral Letters to Lucilius",
+      "reported_author": "Seneca",
+      "raw_line": "48. Moral Letters to Lucilius — Seneca [Rome; c. 62–65 CE; philosophical letters]"
+    },
+    {
+      "position": 49,
+      "reported_title": "Phaedo",
+      "reported_author": "Plato",
+      "raw_line": "49. Phaedo — Plato [Greece; c. 380 BCE; philosophical dialogue]"
+    },
+    {
+      "position": 50,
+      "reported_title": "Apology",
+      "reported_author": "Plato",
+      "raw_line": "50. Apology — Plato [Greece; early 4th century BCE; philosophical dialogue]"
+    },
+    {
+      "position": 51,
+      "reported_title": "Songs of Chu (Chuci)",
+      "reported_author": "Qu Yuan and others",
+      "raw_line": "51. Songs of Chu (Chuci) — Qu Yuan and others [China; Warring States–Han; poetry anthology]"
+    },
+    {
+      "position": 52,
+      "reported_title": "Arthashastra",
+      "reported_author": "Kautilya tradition",
+      "raw_line": "52. Arthashastra — Kautilya tradition [India; layers c. 2nd century BCE–3rd century CE; statecraft / political thought]"
+    },
+    {
+      "position": 53,
+      "reported_title": "Tirukkural",
+      "reported_author": "Tiruvalluvar",
+      "raw_line": "53. Tirukkural — Tiruvalluvar [Tamilakam / India; uncertain; c. 1st century BCE–5th century CE; ethical aphorisms / poetry]"
+    },
+    {
+      "position": 54,
+      "reported_title": "Lotus Sutra",
+      "reported_author": "Mahayana Buddhist tradition",
+      "raw_line": "54. Lotus Sutra — Mahayana Buddhist tradition [India / Central Asia; c. 1st–2nd century CE; religious scripture]"
+    },
+    {
+      "position": 55,
+      "reported_title": "Mozi",
+      "reported_author": "Mozi and Mohist school",
+      "raw_line": "55. Mozi — Mozi and Mohist school [China; 5th–3rd century BCE; philosophy]"
+    },
+    {
+      "position": 56,
+      "reported_title": "Xunzi",
+      "reported_author": "Xun Kuang and school",
+      "raw_line": "56. Xunzi — Xun Kuang and school [China; 3rd century BCE; philosophy]"
+    },
+    {
+      "position": 57,
+      "reported_title": "Zuo Zhuan",
+      "reported_author": "Anonymous / traditional attribution to Zuo Qiuming",
+      "raw_line": "57. Zuo Zhuan — Anonymous / traditional attribution to Zuo Qiuming [China; 4th century BCE (material earlier); history / narrative]"
+    },
+    {
+      "position": 58,
+      "reported_title": "Victory Odes",
+      "reported_author": "Pindar",
+      "raw_line": "58. Victory Odes — Pindar [Greece; 5th century BCE; lyric poetry]"
+    },
+    {
+      "position": 59,
+      "reported_title": "Argonautica",
+      "reported_author": "Apollonius of Rhodes",
+      "raw_line": "59. Argonautica — Apollonius of Rhodes [Hellenistic Egypt; 3rd century BCE; epic poetry]"
+    },
+    {
+      "position": 60,
+      "reported_title": "Homeric Hymns",
+      "reported_author": "Anonymous",
+      "raw_line": "60. Homeric Hymns — Anonymous [Greece; 7th–5th century BCE; hymnic poetry]"
+    },
+    {
+      "position": 61,
+      "reported_title": "Georgics",
+      "reported_author": "Virgil",
+      "raw_line": "61. Georgics — Virgil [Rome; 29 BCE; didactic poetry]"
+    },
+    {
+      "position": 62,
+      "reported_title": "Poems",
+      "reported_author": "Catullus",
+      "raw_line": "62. Poems — Catullus [Rome; 1st century BCE; lyric / elegiac poetry]"
+    },
+    {
+      "position": 63,
+      "reported_title": "Frogs",
+      "reported_author": "Aristophanes",
+      "raw_line": "63. Frogs — Aristophanes [Greece; 405 BCE; comedy]"
+    },
+    {
+      "position": 64,
+      "reported_title": "Lysistrata",
+      "reported_author": "Aristophanes",
+      "raw_line": "64. Lysistrata — Aristophanes [Greece; 411 BCE; comedy]"
+    },
+    {
+      "position": 65,
+      "reported_title": "The Trojan Women",
+      "reported_author": "Euripides",
+      "raw_line": "65. The Trojan Women — Euripides [Greece; 415 BCE; tragedy]"
+    },
+    {
+      "position": 66,
+      "reported_title": "Oedipus at Colonus",
+      "reported_author": "Sophocles",
+      "raw_line": "66. Oedipus at Colonus — Sophocles [Greece; produced 401 BCE; tragedy]"
+    },
+    {
+      "position": 67,
+      "reported_title": "Persians",
+      "reported_author": "Aeschylus",
+      "raw_line": "67. Persians — Aeschylus [Greece; 472 BCE; tragedy]"
+    },
+    {
+      "position": 68,
+      "reported_title": "Histories",
+      "reported_author": "Polybius",
+      "raw_line": "68. Histories — Polybius [Hellenistic Greece / Rome; 2nd century BCE; history]"
+    },
+    {
+      "position": 69,
+      "reported_title": "From the Founding of the City (Ab Urbe Condita)",
+      "reported_author": "Livy",
+      "raw_line": "69. From the Founding of the City (Ab Urbe Condita) — Livy [Rome; late 1st century BCE–early 1st century CE; history]"
+    },
+    {
+      "position": 70,
+      "reported_title": "The Twelve Caesars",
+      "reported_author": "Suetonius",
+      "raw_line": "70. The Twelve Caesars — Suetonius [Rome; 121 CE; biography / history]"
+    },
+    {
+      "position": 71,
+      "reported_title": "Commentaries on the Gallic War",
+      "reported_author": "Julius Caesar",
+      "raw_line": "71. Commentaries on the Gallic War — Julius Caesar [Rome; 50s BCE; history / memoir]"
+    },
+    {
+      "position": 72,
+      "reported_title": "Anabasis",
+      "reported_author": "Xenophon",
+      "raw_line": "72. Anabasis — Xenophon [Greece; 4th century BCE; history / memoir]"
+    },
+    {
+      "position": 73,
+      "reported_title": "On Duties (De Officiis)",
+      "reported_author": "Cicero",
+      "raw_line": "73. On Duties (De Officiis) — Cicero [Rome; 44 BCE; ethics / political philosophy]"
+    },
+    {
+      "position": 74,
+      "reported_title": "On the Orator (De Oratore)",
+      "reported_author": "Cicero",
+      "raw_line": "74. On the Orator (De Oratore) — Cicero [Rome; 55 BCE; rhetoric / dialogue]"
+    },
+    {
+      "position": 75,
+      "reported_title": "Natural History",
+      "reported_author": "Pliny the Elder",
+      "raw_line": "75. Natural History — Pliny the Elder [Rome; 77–79 CE; encyclopaedia / natural philosophy]"
+    },
+    {
+      "position": 76,
+      "reported_title": "Letters",
+      "reported_author": "Pliny the Younger",
+      "raw_line": "76. Letters — Pliny the Younger [Rome; late 1st–early 2nd century CE; letters]"
+    },
+    {
+      "position": 77,
+      "reported_title": "Satires",
+      "reported_author": "Juvenal",
+      "raw_line": "77. Satires — Juvenal [Rome; late 1st–early 2nd century CE; satire]"
+    },
+    {
+      "position": 78,
+      "reported_title": "Satyricon",
+      "reported_author": "Petronius",
+      "raw_line": "78. Satyricon — Petronius [Rome; 1st century CE; prose fiction / satire]"
+    },
+    {
+      "position": 79,
+      "reported_title": "Fasti",
+      "reported_author": "Ovid",
+      "raw_line": "79. Fasti — Ovid [Rome; early 1st century CE; calendar poem / mythology]"
+    },
+    {
+      "position": 80,
+      "reported_title": "Heroides",
+      "reported_author": "Ovid",
+      "raw_line": "80. Heroides — Ovid [Rome; late 1st century BCE–early 1st century CE; epistolary poetry]"
+    },
+    {
+      "position": 81,
+      "reported_title": "The Art of Love (Ars Amatoria)",
+      "reported_author": "Ovid",
+      "raw_line": "81. The Art of Love (Ars Amatoria) — Ovid [Rome; c. 2 BCE–2 CE; didactic / erotic poetry]"
+    },
+    {
+      "position": 82,
+      "reported_title": "Eclogues",
+      "reported_author": "Virgil",
+      "raw_line": "82. Eclogues — Virgil [Rome; c. 42–39 BCE; pastoral poetry]"
+    },
+    {
+      "position": 83,
+      "reported_title": "Civil War (Pharsalia)",
+      "reported_author": "Lucan",
+      "raw_line": "83. Civil War (Pharsalia) — Lucan [Rome; 1st century CE; epic poetry]"
+    },
+    {
+      "position": 84,
+      "reported_title": "A True Story (True History)",
+      "reported_author": "Lucian",
+      "raw_line": "84. A True Story (True History) — Lucian [Greek Roman Empire; 2nd century CE; satirical prose / proto-SF]"
+    },
+    {
+      "position": 85,
+      "reported_title": "Daphnis and Chloe",
+      "reported_author": "Longus",
+      "raw_line": "85. Daphnis and Chloe — Longus [Greek Roman Empire; 2nd–3rd century CE; novel / romance]"
+    },
+    {
+      "position": 86,
+      "reported_title": "Enneads",
+      "reported_author": "Plotinus (edited by Porphyry)",
+      "raw_line": "86. Enneads — Plotinus (edited by Porphyry) [Roman Empire; 3rd century CE; philosophy]"
+    },
+    {
+      "position": 87,
+      "reported_title": "The Consolation of Philosophy",
+      "reported_author": "Boethius",
+      "raw_line": "87. The Consolation of Philosophy — Boethius [Late Roman Italy; c. 524 CE; philosophy / prosimetrum]"
+    },
+    {
+      "position": 88,
+      "reported_title": "The City of God",
+      "reported_author": "Augustine",
+      "raw_line": "88. The City of God — Augustine [Roman North Africa; 413–426 CE; theology / philosophy of history]"
+    },
+    {
+      "position": 89,
+      "reported_title": "Ecclesiastical History",
+      "reported_author": "Eusebius",
+      "raw_line": "89. Ecclesiastical History — Eusebius [Roman Palestine; early 4th century CE; history]"
+    },
+    {
+      "position": 90,
+      "reported_title": "Life of Antony",
+      "reported_author": "Athanasius",
+      "raw_line": "90. Life of Antony — Athanasius [Roman Egypt; 4th century CE; biography / hagiography]"
+    },
+    {
+      "position": 91,
+      "reported_title": "Sayings of the Desert Fathers",
+      "reported_author": "Early Christian monastic tradition",
+      "raw_line": "91. Sayings of the Desert Fathers — Early Christian monastic tradition [Egypt / Eastern Mediterranean; 4th–6th century CE materials; wisdom / monastic literature]"
+    },
+    {
+      "position": 92,
+      "reported_title": "The Jewish War",
+      "reported_author": "Josephus",
+      "raw_line": "92. The Jewish War — Josephus [Roman Judaea; c. 75 CE; history]"
+    },
+    {
+      "position": 93,
+      "reported_title": "Antiquities of the Jews",
+      "reported_author": "Josephus",
+      "raw_line": "93. Antiquities of the Jews — Josephus [Roman Judaea; 93–94 CE; history]"
+    },
+    {
+      "position": 94,
+      "reported_title": "Anabasis of Alexander",
+      "reported_author": "Arrian",
+      "raw_line": "94. Anabasis of Alexander — Arrian [Greek Roman Empire; 2nd century CE; history]"
+    },
+    {
+      "position": 95,
+      "reported_title": "Description of Greece",
+      "reported_author": "Pausanias",
+      "raw_line": "95. Description of Greece — Pausanias [Greek Roman Empire; 2nd century CE; travel / antiquarian writing]"
+    },
+    {
+      "position": 96,
+      "reported_title": "Lives of the Eminent Philosophers",
+      "reported_author": "Diogenes Laertius",
+      "raw_line": "96. Lives of the Eminent Philosophers — Diogenes Laertius [Greek Roman Empire; 3rd century CE; biography / philosophy history]"
+    },
+    {
+      "position": 97,
+      "reported_title": "Outlines of Pyrrhonism",
+      "reported_author": "Sextus Empiricus",
+      "raw_line": "97. Outlines of Pyrrhonism — Sextus Empiricus [Greek Roman Empire; 2nd–3rd century CE; philosophy / scepticism]"
+    },
+    {
+      "position": 98,
+      "reported_title": "Elements",
+      "reported_author": "Euclid",
+      "raw_line": "98. Elements — Euclid [Hellenistic Egypt; c. 300 BCE; mathematics]"
+    },
+    {
+      "position": 99,
+      "reported_title": "Almagest",
+      "reported_author": "Ptolemy",
+      "raw_line": "99. Almagest — Ptolemy [Roman Egypt; 2nd century CE; astronomy]"
+    },
+    {
+      "position": 100,
+      "reported_title": "Hippocratic Corpus",
+      "reported_author": "Hippocratic tradition",
+      "raw_line": "100. Hippocratic Corpus — Hippocratic tradition [Greece; 5th–4th century BCE core; medicine]"
+    },
+    {
+      "position": 101,
+      "reported_title": "On the Soul (De Anima)",
+      "reported_author": "Aristotle",
+      "raw_line": "101. On the Soul (De Anima) — Aristotle [Greece; 4th century BCE; philosophy / psychology]"
+    },
+    {
+      "position": 102,
+      "reported_title": "Rhetoric",
+      "reported_author": "Aristotle",
+      "raw_line": "102. Rhetoric — Aristotle [Greece; 4th century BCE; rhetoric / philosophy]"
+    },
+    {
+      "position": 103,
+      "reported_title": "Physics",
+      "reported_author": "Aristotle",
+      "raw_line": "103. Physics — Aristotle [Greece; 4th century BCE; natural philosophy]"
+    },
+    {
+      "position": 104,
+      "reported_title": "On Architecture (De Architectura)",
+      "reported_author": "Vitruvius",
+      "raw_line": "104. On Architecture (De Architectura) — Vitruvius [Rome; 1st century BCE; architecture / technical writing]"
+    },
+    {
+      "position": 105,
+      "reported_title": "On the Sublime",
+      "reported_author": "Pseudo-Longinus",
+      "raw_line": "105. On the Sublime — Pseudo-Longinus [Greek Roman world; 1st century CE (traditional dating); literary criticism]"
+    },
+    {
+      "position": 106,
+      "reported_title": "Institutio Oratoria",
+      "reported_author": "Quintilian",
+      "raw_line": "106. Institutio Oratoria — Quintilian [Rome; c. 95 CE; rhetoric / education]"
+    },
+    {
+      "position": 107,
+      "reported_title": "Fables",
+      "reported_author": "Aesopic tradition",
+      "raw_line": "107. Fables — Aesopic tradition [Greece; archaic roots; collections later; fable]"
+    },
+    {
+      "position": 108,
+      "reported_title": "Dyskolos",
+      "reported_author": "Menander",
+      "raw_line": "108. Dyskolos — Menander [Greece; 316 BCE; comedy]"
+    },
+    {
+      "position": 109,
+      "reported_title": "Menaechmi",
+      "reported_author": "Plautus",
+      "raw_line": "109. Menaechmi — Plautus [Rome; c. 2nd century BCE; comedy]"
+    },
+    {
+      "position": 110,
+      "reported_title": "The Brothers (Adelphoe)",
+      "reported_author": "Terence",
+      "raw_line": "110. The Brothers (Adelphoe) — Terence [Rome; 160 BCE; comedy]"
+    },
+    {
+      "position": 111,
+      "reported_title": "Han Feizi",
+      "reported_author": "Han Fei and later editors",
+      "raw_line": "111. Han Feizi — Han Fei and later editors [China; 3rd century BCE; political philosophy]"
+    },
+    {
+      "position": 112,
+      "reported_title": "Huainanzi",
+      "reported_author": "Liu An's court scholars",
+      "raw_line": "112. Huainanzi — Liu An's court scholars [China; 2nd century BCE; philosophy / encyclopaedic thought]"
+    },
+    {
+      "position": 113,
+      "reported_title": "Classic of Mountains and Seas (Shanhaijing)",
+      "reported_author": "",
+      "raw_line": "113. Classic of Mountains and Seas (Shanhaijing) — Composite [China; Warring States–early Han; mythography / geography]"
+    },
+    {
+      "position": 114,
+      "reported_title": "Book of Documents (Shujing / Shangshu)",
+      "reported_author": "",
+      "raw_line": "114. Book of Documents (Shujing / Shangshu) — Composite [China; ancient layers; received text complex; history / political discourse]"
+    },
+    {
+      "position": 115,
+      "reported_title": "Lüshi Chunqiu (The Annals of Lü Buwei)",
+      "reported_author": "Lü Buwei's scholars",
+      "raw_line": "115. Lüshi Chunqiu (The Annals of Lü Buwei) — Lü Buwei's scholars [China; 239 BCE; philosophy / encyclopaedia]"
+    },
+    {
+      "position": 116,
+      "reported_title": "The Nine Chapters on the Mathematical Art",
+      "reported_author": "",
+      "raw_line": "116. The Nine Chapters on the Mathematical Art — Composite [China; compiled by c. 1st century CE from earlier material; mathematics]"
+    },
+    {
+      "position": 117,
+      "reported_title": "Yellow Emperor's Inner Canon (Huangdi Neijing)",
+      "reported_author": "",
+      "raw_line": "117. Yellow Emperor's Inner Canon (Huangdi Neijing) — Composite [China; late Warring States–Han; medicine / natural philosophy]"
+    },
+    {
+      "position": 118,
+      "reported_title": "Liezi",
+      "reported_author": "Lie Yukou tradition / later editor",
+      "raw_line": "118. Liezi — Lie Yukou tradition / later editor [China; received form c. 3rd–4th century CE; Daoist philosophy / tales]"
+    },
+    {
+      "position": 119,
+      "reported_title": "Baopuzi",
+      "reported_author": "Ge Hong",
+      "raw_line": "119. Baopuzi — Ge Hong [China; c. 320 CE; Daoist philosophy / alchemy]"
+    },
+    {
+      "position": 120,
+      "reported_title": "Wen Xuan (Selections of Refined Literature)",
+      "reported_author": "Xiao Tong, compiler",
+      "raw_line": "120. Wen Xuan (Selections of Refined Literature) — Xiao Tong, compiler [China; c. 520 CE; literary anthology]"
+    },
+    {
+      "position": 121,
+      "reported_title": "Meghaduta (The Cloud Messenger)",
+      "reported_author": "Kalidasa",
+      "raw_line": "121. Meghaduta (The Cloud Messenger) — Kalidasa [India; c. 4th–5th century CE; lyric poem]"
+    },
+    {
+      "position": 122,
+      "reported_title": "Panchatantra",
+      "reported_author": "Vishnu Sharma tradition",
+      "raw_line": "122. Panchatantra — Vishnu Sharma tradition [India; c. 3rd century BCE–3rd century CE; fables / frame tales]"
+    },
+    {
+      "position": 123,
+      "reported_title": "Kama Sutra",
+      "reported_author": "Vatsyayana",
+      "raw_line": "123. Kama Sutra — Vatsyayana [India; c. 3rd–4th century CE; social / erotic treatise]"
+    },
+    {
+      "position": 124,
+      "reported_title": "Buddhacharita",
+      "reported_author": "Ashvaghosha",
+      "raw_line": "124. Buddhacharita — Ashvaghosha [India; 1st–2nd century CE; epic / Buddhist biography]"
+    },
+    {
+      "position": 125,
+      "reported_title": "Mūlamadhyamakakārikā (Fundamental Wisdom of the Middle Way)",
+      "reported_author": "Nagarjuna",
+      "raw_line": "125. Mūlamadhyamakakārikā (Fundamental Wisdom of the Middle Way) — Nagarjuna [India; c. 2nd–3rd century CE; Buddhist philosophy]"
+    },
+    {
+      "position": 126,
+      "reported_title": "Milindapanha (Questions of King Milinda)",
+      "reported_author": "Anonymous Buddhist tradition",
+      "raw_line": "126. Milindapanha (Questions of King Milinda) — Anonymous Buddhist tradition [India; c. 1st century BCE–2nd century CE; philosophical dialogue]"
+    },
+    {
+      "position": 127,
+      "reported_title": "Sutta Nipata",
+      "reported_author": "Early Buddhist canonical tradition",
+      "raw_line": "127. Sutta Nipata — Early Buddhist canonical tradition [India; early Buddhist period; ancient strata; religious poetry / discourse]"
+    },
+    {
+      "position": 128,
+      "reported_title": "Vimalakirti Sutra",
+      "reported_author": "Mahayana Buddhist tradition",
+      "raw_line": "128. Vimalakirti Sutra — Mahayana Buddhist tradition [India; c. 1st–2nd century CE; religious scripture / dialogue]"
+    },
+    {
+      "position": 129,
+      "reported_title": "Diamond Sutra",
+      "reported_author": "Prajnaparamita tradition",
+      "raw_line": "129. Diamond Sutra — Prajnaparamita tradition [India / Central Asia; likely 4th–5th century CE in extant form; Mahayana scripture]"
+    },
+    {
+      "position": 130,
+      "reported_title": "Yoga Sutras",
+      "reported_author": "Patanjali tradition",
+      "raw_line": "130. Yoga Sutras — Patanjali tradition [India; c. 3rd–5th century CE; philosophy / yoga]"
+    },
+    {
+      "position": 131,
+      "reported_title": "Manusmriti (Laws of Manu)",
+      "reported_author": "Manu tradition",
+      "raw_line": "131. Manusmriti (Laws of Manu) — Manu tradition [India; c. 2nd century BCE–3rd century CE; law / social-religious thought]"
+    },
+    {
+      "position": 132,
+      "reported_title": "Purananuru",
+      "reported_author": "Sangam poets",
+      "raw_line": "132. Purananuru — Sangam poets [Tamilakam / India; c. 1st–3rd century CE; poetry anthology]"
+    },
+    {
+      "position": 133,
+      "reported_title": "Silappatikaram",
+      "reported_author": "Ilango Adigal tradition",
+      "raw_line": "133. Silappatikaram — Ilango Adigal tradition [Tamilakam / India; c. 5th–6th century CE; epic]"
+    },
+    {
+      "position": 134,
+      "reported_title": "Manimekalai",
+      "reported_author": "Sattanar",
+      "raw_line": "134. Manimekalai — Sattanar [Tamilakam / India; c. 6th century CE; Buddhist epic]"
+    },
+    {
+      "position": 135,
+      "reported_title": "Tolkappiyam",
+      "reported_author": "Tolkappiyar tradition",
+      "raw_line": "135. Tolkappiyam — Tolkappiyar tradition [Tamilakam / India; uncertain; ancient/early classical layers; grammar / poetics]"
+    },
+    {
+      "position": 136,
+      "reported_title": "Egyptian Book of the Dead",
+      "reported_author": "",
+      "raw_line": "136. Egyptian Book of the Dead — Composite [Egypt; New Kingdom onward, c. 1550 BCE+; funerary religious texts]"
+    },
+    {
+      "position": 137,
+      "reported_title": "The Tale of Sinuhe",
+      "reported_author": "Anonymous",
+      "raw_line": "137. The Tale of Sinuhe — Anonymous [Egypt; c. 19th century BCE; prose tale]"
+    },
+    {
+      "position": 138,
+      "reported_title": "The Instruction of Ptahhotep",
+      "reported_author": "Ptahhotep tradition",
+      "raw_line": "138. The Instruction of Ptahhotep — Ptahhotep tradition [Egypt; Middle Kingdom copy of Old Kingdom wisdom tradition; wisdom literature]"
+    },
+    {
+      "position": 139,
+      "reported_title": "The Eloquent Peasant",
+      "reported_author": "Anonymous",
+      "raw_line": "139. The Eloquent Peasant — Anonymous [Egypt; Middle Kingdom, c. 20th–18th century BCE; prose tale / rhetoric]"
+    },
+    {
+      "position": 140,
+      "reported_title": "Pyramid Texts",
+      "reported_author": "",
+      "raw_line": "140. Pyramid Texts — Composite [Egypt; c. 24th–23rd century BCE onward; funerary religious texts]"
+    },
+    {
+      "position": 141,
+      "reported_title": "Atrahasis",
+      "reported_author": "Anonymous",
+      "raw_line": "141. Atrahasis — Anonymous [Mesopotamia; 2nd millennium BCE; myth / flood epic]"
+    },
+    {
+      "position": 142,
+      "reported_title": "Descent of Inanna / Ishtar",
+      "reported_author": "Sumerian / Akkadian traditions",
+      "raw_line": "142. Descent of Inanna / Ishtar — Sumerian / Akkadian traditions [Mesopotamia; 2nd millennium BCE versions; mythological poetry]"
+    },
+    {
+      "position": 143,
+      "reported_title": "Baal Cycle",
+      "reported_author": "Ugaritic tradition",
+      "raw_line": "143. Baal Cycle — Ugaritic tradition [Ugarit; c. 13th century BCE; mythological poetry]"
+    },
+    {
+      "position": 144,
+      "reported_title": "Younger Avesta / Yashts",
+      "reported_author": "Zoroastrian tradition",
+      "raw_line": "144. Younger Avesta / Yashts — Zoroastrian tradition [Ancient Iran; ancient materials, transmitted later; sacred hymns]"
+    },
+    {
+      "position": 145,
+      "reported_title": "Hymns of Enheduanna",
+      "reported_author": "Enheduanna tradition",
+      "raw_line": "145. Hymns of Enheduanna — Enheduanna tradition [Mesopotamia; 23rd century BCE; religious poetry]"
+    },
+    {
+      "position": 146,
+      "reported_title": "Instructions of Shuruppak",
+      "reported_author": "Sumerian tradition",
+      "raw_line": "146. Instructions of Shuruppak — Sumerian tradition [Mesopotamia; 3rd millennium BCE; wisdom literature]"
+    },
+    {
+      "position": 147,
+      "reported_title": "Ludlul bel nemeqi (The Poem of the Righteous Sufferer)",
+      "reported_author": "Anonymous",
+      "raw_line": "147. Ludlul bel nemeqi (The Poem of the Righteous Sufferer) — Anonymous [Babylonia; 2nd millennium BCE; wisdom poem]"
+    },
+    {
+      "position": 148,
+      "reported_title": "The Passion of Perpetua and Felicity",
+      "reported_author": "Perpetua / early Christian editors",
+      "raw_line": "148. The Passion of Perpetua and Felicity — Perpetua / early Christian editors [Roman North Africa; early 3rd century CE; martyr narrative / autobiography]"
+    },
+    {
+      "position": 149,
+      "reported_title": "Gospel of Thomas",
+      "reported_author": "Early Christian tradition",
+      "raw_line": "149. Gospel of Thomas — Early Christian tradition [Eastern Mediterranean; c. 2nd century CE; sayings gospel]"
+    },
+    {
+      "position": 150,
+      "reported_title": "Aethiopica (The Ethiopian Story)",
+      "reported_author": "Heliodorus",
+      "raw_line": "150. Aethiopica (The Ethiopian Story) — Heliodorus [Greek Roman world; 3rd–4th century CE; novel / romance]"
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "target_id": "literature-all-time",
+  "version": "2026-09-12-two-lenses-v1",
+  "status": "partial_editorial_proposal_not_published",
+  "methodology": "../DRAFT_METHOD.md",
+  "owner_direction": "Show both orderings to expose the tradeoffs",
+  "intended_final_length": "100–200",
+  "pilot_candidate_count": 25,
+  "eligible_sources_in_target": 85,
+  "comparison_universe": "the same selected 25 candidates in each lens; not an exhaustive global comparison",
+  "coverage_gaps": "Major challengers needing deeper comparison include Tolstoy’s Anna Karenina, Dostoevsky, Kafka, Flaubert, Woolf, Borges collections, Manzoni, La Regenta, Indonesian works beyond Pramoedya, South Asian language traditions, Korean and Chinese modern fiction. Existing leads include Godaan, Tamas, Toji, Border Town and Love in a Fallen City. The pool is deliberately provisional; unselected candidates have not been defeated in a global comparison.",
+  "tradeoffs": [
+    "Proust moves from 2 to 20: the recorded disagreement between immersion and abandonment matters much more in the reading scenario.",
+    "Ulysses moves from 5 to 25: a first-place Modern Library result remains intact as source evidence, while this draft tests a different reading priority.",
+    "Season of Migration to the North moves from 13 to 3. Arabic criticism and rereading testimony help justify investigating this rise; they do not establish a consensus third place."
+  ],
+  "candidates": [
+    {
+      "candidate_id": "quixote",
+      "name": "Don Quixote",
+      "creator": "Miguel de Cervantes",
+      "item_type": "work",
+      "standing_position_draft": 1,
+      "reading_position_draft": 2,
+      "reading_movement_up": -1,
+      "source_ids": [
+        "S04",
+        "R049",
+        "R133"
+      ],
+      "standing_argument_proposed": "International writers’ selection and institutional reception converge.",
+      "reading_argument_proposed": "High placement retains imaginative range, not merely historical priority.",
+      "uncertainty": "Holdings and one poll do not settle first place.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "proust",
+      "name": "In Search of Lost Time",
+      "creator": "Marcel Proust",
+      "item_type": "work",
+      "standing_position_draft": 2,
+      "reading_position_draft": 20,
+      "reading_movement_up": -18,
+      "source_ids": [
+        "R049",
+        "R103"
+      ],
+      "standing_argument_proposed": "Cross-language critical standing supports the upper group.",
+      "reading_argument_proposed": "Immersion rewards patience; documented abandonment lowers the general-reader position.",
+      "uncertainty": "Response depends strongly on tolerance for sustained introspection.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "genji",
+      "name": "The Tale of Genji",
+      "creator": "Murasaki Shikibu",
+      "item_type": "work",
+      "standing_position_draft": 3,
+      "reading_position_draft": 11,
+      "reading_movement_up": -8,
+      "source_ids": [
+        "S29",
+        "S37"
+      ],
+      "standing_argument_proposed": "Specialist and reader selections support cross-tradition comparison.",
+      "reading_argument_proposed": "Keep high for sustained engagement beyond familiar European traditions.",
+      "uncertainty": "More independent criticism and complete-edition matching needed.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "warpeace",
+      "name": "War and Peace",
+      "creator": "Leo Tolstoy",
+      "item_type": "work",
+      "standing_position_draft": 4,
+      "reading_position_draft": 4,
+      "reading_movement_up": 0,
+      "source_ids": [
+        "S14"
+      ],
+      "standing_argument_proposed": "Broad acclaim supports a high provisional position.",
+      "reading_argument_proposed": "Sustained engagement supports keeping it high.",
+      "uncertainty": "Dedicated criticism still needed.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "ulysses",
+      "name": "Ulysses",
+      "creator": "James Joyce",
+      "item_type": "work",
+      "standing_position_draft": 5,
+      "reading_position_draft": 25,
+      "reading_movement_up": -20,
+      "source_ids": [
+        "S02"
+      ],
+      "standing_argument_proposed": "First in Modern Library’s scoped poll; substantial formal ambition.",
+      "reading_argument_proposed": "Complexity makes its priority more dependent on reading experience.",
+      "uncertainty": "Publisher ranking covers a narrower universe than this target.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "redchamber",
+      "name": "Dream of the Red Chamber",
+      "creator": "Cao Xueqin; continuation attribution disputed",
+      "item_type": "work",
+      "standing_position_draft": 6,
+      "reading_position_draft": 18,
+      "reading_movement_up": -12,
+      "source_ids": [
+        "R107"
+      ],
+      "standing_argument_proposed": "Substantial Chinese reader reception supports inclusion.",
+      "reading_argument_proposed": "Social recognition offers a strong reason to read beyond reputation.",
+      "uncertainty": "One consulted reader page is insufficient for a secure global placement.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "middlemarch",
+      "name": "Middlemarch",
+      "creator": "George Eliot",
+      "item_type": "work",
+      "standing_position_draft": 7,
+      "reading_position_draft": 1,
+      "reading_movement_up": 6,
+      "source_ids": [
+        "R055",
+        "S37"
+      ],
+      "standing_argument_proposed": "Critical discussion and independent rereading support upper-group inclusion.",
+      "reading_argument_proposed": "Proposed first for sustained social and personal reflection.",
+      "uncertainty": "Exact lead over other novels requires fuller comparative criticism.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "solitude",
+      "name": "One Hundred Years of Solitude",
+      "creator": "Gabriel García Márquez",
+      "item_type": "work",
+      "standing_position_draft": 8,
+      "reading_position_draft": 7,
+      "reading_movement_up": 1,
+      "source_ids": [
+        "S14"
+      ],
+      "standing_argument_proposed": "Prominent reception supports inclusion.",
+      "reading_argument_proposed": "Imaginative family narrative raises reading priority.",
+      "uncertainty": "Independent depth remains thin.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "mobydick",
+      "name": "Moby-Dick",
+      "creator": "Herman Melville",
+      "item_type": "work",
+      "standing_position_draft": 9,
+      "reading_position_draft": 19,
+      "reading_movement_up": -10,
+      "source_ids": [
+        "S14"
+      ],
+      "standing_argument_proposed": "Influential ambition supports upper-group consideration.",
+      "reading_argument_proposed": "Demanding scope makes priority reader-dependent.",
+      "uncertainty": "Comparative criticism remains incomplete.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "beloved",
+      "name": "Beloved",
+      "creator": "Toni Morrison",
+      "item_type": "work",
+      "standing_position_draft": 10,
+      "reading_position_draft": 6,
+      "reading_movement_up": 4,
+      "source_ids": [
+        "S14"
+      ],
+      "standing_argument_proposed": "Critical recognition supports inclusion.",
+      "reading_argument_proposed": "Moral and emotional demands raise priority.",
+      "uncertainty": "Dedicated scholarship remains needed.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "sertao",
+      "name": "Grande sertão: veredas",
+      "creator": "João Guimarães Rosa",
+      "item_type": "work",
+      "standing_position_draft": 11,
+      "reading_position_draft": 22,
+      "reading_movement_up": -11,
+      "source_ids": [
+        "R101",
+        "R135",
+        "R136",
+        "R137"
+      ],
+      "standing_argument_proposed": "Multiple Portuguese-language interpretations support serious contention.",
+      "reading_argument_proposed": "Regional language rewards some readers and resists others.",
+      "uncertainty": "Violence and romanticization provoke explicit critical disagreement.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "pedro",
+      "name": "Pedro Páramo",
+      "creator": "Juan Rulfo",
+      "item_type": "work",
+      "standing_position_draft": 12,
+      "reading_position_draft": 5,
+      "reading_movement_up": 7,
+      "source_ids": [
+        "R049",
+        "R054",
+        "R165"
+      ],
+      "standing_argument_proposed": "Poll recognition and Spanish-language reception support an upper placement.",
+      "reading_argument_proposed": "Proposed rise recognizes concentrated narrative experimentation.",
+      "uncertainty": "Initial reception was uneven; brevity is not automatic superiority.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "season",
+      "name": "Season of Migration to the North",
+      "creator": "Tayeb Salih",
+      "item_type": "work",
+      "standing_position_draft": 13,
+      "reading_position_draft": 3,
+      "reading_movement_up": 10,
+      "source_ids": [
+        "R065",
+        "R160",
+        "R161"
+      ],
+      "standing_argument_proposed": "Arabic critical discussion complements translated-canon visibility.",
+      "reading_argument_proposed": "Identity and rereading responses support a substantial rise.",
+      "uncertainty": "Reader account acknowledges dependence on criticism.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "cairo",
+      "name": "Cairo Trilogy",
+      "creator": "Naguib Mahfouz",
+      "item_type": "work",
+      "standing_position_draft": 14,
+      "reading_position_draft": 16,
+      "reading_movement_up": -2,
+      "source_ids": [
+        "R069",
+        "R162"
+      ],
+      "standing_argument_proposed": "Regional selection and Arabic interpretation support inclusion.",
+      "reading_argument_proposed": "Generational scope sustains its place despite a long commitment.",
+      "uncertainty": "Treat the trilogy as one sequence; avoid counting its volumes again.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "things",
+      "name": "Things Fall Apart",
+      "creator": "Chinua Achebe",
+      "item_type": "work",
+      "standing_position_draft": 15,
+      "reading_position_draft": 8,
+      "reading_movement_up": 7,
+      "source_ids": [
+        "R123"
+      ],
+      "standing_argument_proposed": "Language-and-canon discussion supports including this major candidate.",
+      "reading_argument_proposed": "Prioritize engagement with colonial and cultural conflict.",
+      "uncertainty": "The existing candidate-specific critical dossier is still thin.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "magic",
+      "name": "The Magic Mountain",
+      "creator": "Thomas Mann",
+      "item_type": "work",
+      "standing_position_draft": 16,
+      "reading_position_draft": 24,
+      "reading_movement_up": -8,
+      "source_ids": [
+        "R106"
+      ],
+      "standing_argument_proposed": "Detailed counterintuitive reader appreciation warrants inclusion.",
+      "reading_argument_proposed": "Proposed lower priority reflects demanding intellectual immersion.",
+      "uncertainty": "Standalone reader criticism cannot establish global standing.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "lispector",
+      "name": "Complete Stories",
+      "creator": "Clarice Lispector",
+      "item_type": "work",
+      "standing_position_draft": 17,
+      "reading_position_draft": 12,
+      "reading_movement_up": 5,
+      "source_ids": [
+        "R067"
+      ],
+      "standing_argument_proposed": "Translator-centered criticism supports the complete collection’s inclusion.",
+      "reading_argument_proposed": "Varied encounters offer an alternative to a single long narrative.",
+      "uncertainty": "Collection eligibility is distinct from ranking individual stories.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "morante",
+      "name": "History",
+      "creator": "Elsa Morante",
+      "item_type": "work",
+      "standing_position_draft": 18,
+      "reading_position_draft": 15,
+      "reading_movement_up": 3,
+      "source_ids": [
+        "R099",
+        "R100"
+      ],
+      "standing_argument_proposed": "Italian critical debate supports historical and formal significance.",
+      "reading_argument_proposed": "Keep relatively high for the encounter with history through narrative.",
+      "uncertainty": "Different critical perspectives do not yield a consensus rank.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "earth",
+      "name": "This Earth of Mankind",
+      "creator": "Pramoedya Ananta Toer",
+      "item_type": "work",
+      "standing_position_draft": 19,
+      "reading_position_draft": 9,
+      "reading_movement_up": 10,
+      "source_ids": [
+        "R118",
+        "R119"
+      ],
+      "standing_argument_proposed": "Indonesian-context reception strengthens the case beyond translated-list visibility.",
+      "reading_argument_proposed": "Colonial education and changed reader assumptions motivate its rise.",
+      "uncertainty": "Rank the first novel, not the entire Buru Quartet.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "godswood",
+      "name": "God’s Bits of Wood",
+      "creator": "Ousmane Sembène",
+      "item_type": "work",
+      "standing_position_draft": 20,
+      "reading_position_draft": 13,
+      "reading_movement_up": 7,
+      "source_ids": [
+        "R121",
+        "R122",
+        "R123"
+      ],
+      "standing_argument_proposed": "Several accounts establish a substantial regional cultural presence.",
+      "reading_argument_proposed": "Collective struggle supplies a different reading focus from individual psychology.",
+      "uncertainty": "Film reception cannot automatically establish the novel’s literary quality.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "pride",
+      "name": "Pride and Prejudice",
+      "creator": "Jane Austen",
+      "item_type": "work",
+      "standing_position_draft": 21,
+      "reading_position_draft": 10,
+      "reading_movement_up": 11,
+      "source_ids": [
+        "S14"
+      ],
+      "standing_argument_proposed": "Durable reader attachment supports inclusion.",
+      "reading_argument_proposed": "Wit raises immediate reading priority.",
+      "uncertainty": "Publisher-curated reception is limited.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "doll",
+      "name": "The Doll",
+      "creator": "Bolesław Prus",
+      "item_type": "work",
+      "standing_position_draft": 22,
+      "reading_position_draft": 23,
+      "reading_movement_up": -1,
+      "source_ids": [
+        "R104"
+      ],
+      "standing_argument_proposed": "Polish reader disagreement supports testing a less exported canonical candidate.",
+      "reading_argument_proposed": "Contested engagement makes its reading position especially provisional.",
+      "uncertainty": "More scholarly and independent comparative evidence needed.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "kokoro",
+      "name": "Kokoro",
+      "creator": "Natsume Sōseki",
+      "item_type": "work",
+      "standing_position_draft": 23,
+      "reading_position_draft": 14,
+      "reading_movement_up": 9,
+      "source_ids": [
+        "S26"
+      ],
+      "standing_argument_proposed": "Specialist Japanese-literature selection supports inclusion.",
+      "reading_argument_proposed": "Proposed rise tests reflective reading value against wider historical fame.",
+      "uncertainty": "Needs a dedicated comparative review and edition verification.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "jude",
+      "name": "Jude the Obscure",
+      "creator": "Thomas Hardy",
+      "item_type": "work",
+      "standing_position_draft": 24,
+      "reading_position_draft": 21,
+      "reading_movement_up": 3,
+      "source_ids": [
+        "R132"
+      ],
+      "standing_argument_proposed": "German critical reassessment supplies a direct case for inclusion.",
+      "reading_argument_proposed": "Proposed mid-list position keeps tragic intensity available.",
+      "uncertainty": "Broader Hardy comparison remains unfinished.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    },
+    {
+      "candidate_id": "solaris",
+      "name": "Solaris",
+      "creator": "Stanisław Lem",
+      "item_type": "work",
+      "standing_position_draft": 25,
+      "reading_position_draft": 17,
+      "reading_movement_up": 8,
+      "source_ids": [
+        "R129"
+      ],
+      "standing_argument_proposed": "Polish cultural selection supports crossing the literary/science-fiction boundary.",
+      "reading_argument_proposed": "Conceptual exploration raises its proposed reading priority.",
+      "uncertainty": "Direct specialist criticism remains insufficient for a stable position.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "specific_edition_verification_pending"
+    }
+  ]
+}

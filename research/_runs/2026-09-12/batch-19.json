@@ -1,0 +1,132 @@
+{
+  "summary": "Korean historical-literary evidence and philosophical criticism from French and Brazilian publications add concrete objections and historical interpretation. A publisher-hosted newspaper reprint remains one source.",
+  "next": "More independent philosophical reviews and reader discussion; non-philosophical nonfiction still underrepresented.",
+  "sources": [
+    {
+      "id": "R140",
+      "url": "https://www.nanam.net/nanam/news.php?code=news&idx=4115&page=13&ptype=view",
+      "title": "첫 만남부터 손수 밥지어준 ‘박경리 인품’ 전하고 싶었죠",
+      "publisher": "Hankyoreh, reprinted by Nanam",
+      "language": "ko",
+      "family": "interview",
+      "note": "Kim Hyung-kook describes Toji’s regional dialect and ordinary lives as decisive attractions; his biography draws on long acquaintance and contemporaneous notes.",
+      "candidates": [
+        "Toji",
+        "박경리 이야기"
+      ],
+      "location": "Interview, dialect and biography-method passages",
+      "limits": "Publisher-hosted newspaper reprint counts once; personal intimacy can shape interpretation.",
+      "targets": {
+        "A": "Korean fiction and literary biography.",
+        "L": "Regional language and situated reader response.",
+        "N": "Biographical method and provenance."
+      }
+    },
+    {
+      "id": "R141",
+      "url": "https://klsa.jams.or.kr/co/download/popup/poDownload.kci?orteFileId=KCI_FI002028013",
+      "title": "박경리 ‘토지’에 나타난 진주지역에서의 형평사운동에 관한 소고",
+      "publisher": "Korean Law & Society Association",
+      "language": "ko",
+      "family": "scholarly_article",
+      "note": "Yoon Chul-hong credits Toji’s depiction of status emancipation while identifying discrepancies in organizational origins and excessive localization of the Hyŏngp’yŏng movement.",
+      "candidates": [
+        "Toji"
+      ],
+      "location": "Korean abstract and introduction, pp.173–176",
+      "limits": "Historical accuracy is one dimension; remaining detailed argument not fully reviewed.",
+      "targets": {
+        "A": "Historical fiction checked against scholarship.",
+        "L": "Praise and specific historical reservations."
+      }
+    },
+    {
+      "id": "R142",
+      "url": "https://newhumanist.org.uk/articles/book-review-doing-philosophy/",
+      "title": "Book review: Doing Philosophy",
+      "publisher": "New Humanist",
+      "language": "en",
+      "family": "professional_review",
+      "note": "Egid presents Williamson’s model-building account, then asks whether its scientific ideal impoverishes philosophy’s humanistic and socially engaged purposes.",
+      "candidates": [
+        "Doing Philosophy",
+        "Timothy Williamson",
+        "Bernard Williams"
+      ],
+      "location": "Main review, science/humanistic contrast",
+      "limits": "Reviewer’s objections are distinct from Williamson’s position.",
+      "targets": {
+        "A": "Argumentative nonfiction and intellectual reception.",
+        "N": "Specific philosophical books and their critical reception.",
+        "B": "Book-level claims and objections.",
+        "P": "Thinker contributions and contested interpretation."
+      }
+    },
+    {
+      "id": "R143",
+      "url": "https://www.en-attendant-nadeau.fr/2026/08/13/epidemie-dinjustice-et-hygiene-epistemique/",
+      "title": "Épidémie d’injustice et hygiène épistémique",
+      "publisher": "En attendant Nadeau",
+      "language": "fr",
+      "family": "professional_review",
+      "note": "Chevalier distinguishes testimonial and hermeneutic injustice while questioning conceptual breadth and the normative role assigned to epistemology.",
+      "candidates": [
+        "Epistemic Injustice",
+        "Miranda Fricker"
+      ],
+      "location": "Definitions and objections in main review",
+      "limits": "Polemical counter-reading; mediated critics are not extra sources.",
+      "targets": {
+        "A": "Argumentative nonfiction and intellectual reception.",
+        "N": "Specific philosophical books and their critical reception.",
+        "B": "Book-level claims and objections.",
+        "P": "Thinker contributions and contested interpretation."
+      }
+    },
+    {
+      "id": "R144",
+      "url": "https://www.scielo.br/j/ea/a/ZM8NPFHW5zQTkqGgtXk3Zxs/?lang=pt",
+      "title": "A vanguarda enraizada: o marxismo vivo de Mariátegui",
+      "publisher": "Estudos Avançados / Alfredo Bosi",
+      "language": "pt",
+      "family": "scholarly_article",
+      "note": "Bosi balances Mariátegui’s creative Marxism with disappointed revolutionary expectations, reading Defensa del marxismo as a flexible language of political action.",
+      "candidates": [
+        "José Carlos Mariátegui",
+        "Defensa del marxismo",
+        "Seven Interpretive Essays on Peruvian Reality"
+      ],
+      "location": "Opening and Defensa discussion",
+      "limits": "1990 historical perspective; later online publication is not a new study.",
+      "targets": {
+        "A": "Argumentative nonfiction and intellectual reception.",
+        "N": "Specific philosophical books and their critical reception.",
+        "B": "Book-level claims and objections.",
+        "P": "Thinker contributions and contested interpretation."
+      }
+    },
+    {
+      "id": "R145",
+      "url": "https://www.scielo.br/j/ea/a/JvktpmthZyvb5rQwtmrzZDH/?lang=pt",
+      "title": "Aníbal Quijano e a racionalidade alternativa na América Latina: diálogos com Mariátegui",
+      "publisher": "Estudos Avançados",
+      "language": "pt",
+      "family": "scholarly_article",
+      "note": "Examines Quijano’s reconstruction of Mariátegui and Sobrevilla’s objections that alternative rationality is neither explicit nor adequately specified in the original works.",
+      "candidates": [
+        "Aníbal Quijano",
+        "José Carlos Mariátegui",
+        "El marxismo de Mariátegui y su aplicación a los 7 ensayos",
+        "Seven Interpretive Essays on Peruvian Reality"
+      ],
+      "location": "Introduction and Aventuras periféricas section",
+      "limits": "Later conceptual reconstruction is not automatically the earlier author’s doctrine.",
+      "targets": {
+        "A": "Argumentative nonfiction and intellectual reception.",
+        "N": "Specific philosophical books and their critical reception.",
+        "B": "Book-level claims and objections.",
+        "P": "Thinker contributions and contested interpretation."
+      }
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "target_id": "books-historical-fiction",
+  "source_report": "research/incoming/books-historical-fiction/2026-09-13-owner-paste/report.txt",
+  "reported_source_count": 263,
+  "candidates": [
+    {
+      "position": 1,
+      "reported_title": "War and Peace",
+      "reported_author": "Leo Tolstoy (1869)",
+      "raw_line": "1. War and Peace — Leo Tolstoy (1869) — Russia / Napoleonic Wars"
+    },
+    {
+      "position": 2,
+      "reported_title": "Wolf Hall",
+      "reported_author": "Hilary Mantel (2009)",
+      "raw_line": "2. Wolf Hall — Hilary Mantel (2009) — Tudor England"
+    },
+    {
+      "position": 3,
+      "reported_title": "The Name of the Rose",
+      "reported_author": "Umberto Eco (1980)",
+      "raw_line": "3. The Name of the Rose — Umberto Eco (1980) — 14th-century Italy"
+    },
+    {
+      "position": 4,
+      "reported_title": "The Leopard",
+      "reported_author": "Giuseppe Tomasi di Lampedusa (1958)",
+      "raw_line": "4. The Leopard — Giuseppe Tomasi di Lampedusa (1958) — Risorgimento Sicily"
+    },
+    {
+      "position": 5,
+      "reported_title": "Memoirs of Hadrian",
+      "reported_author": "Marguerite Yourcenar (1951)",
+      "raw_line": "5. Memoirs of Hadrian — Marguerite Yourcenar (1951) — Roman Empire"
+    },
+    {
+      "position": 6,
+      "reported_title": "I, Claudius",
+      "reported_author": "Robert Graves (1934)",
+      "raw_line": "6. I, Claudius — Robert Graves (1934) — Julio-Claudian Rome"
+    },
+    {
+      "position": 7,
+      "reported_title": "The Betrothed (I promessi sposi)",
+      "reported_author": "Alessandro Manzoni (1827/1842)",
+      "raw_line": "7. The Betrothed (I promessi sposi) — Alessandro Manzoni (1827/1842) — 17th-century Lombardy"
+    },
+    {
+      "position": 8,
+      "reported_title": "Romance of the Three Kingdoms",
+      "reported_author": "Luo Guanzhong (14th century)",
+      "raw_line": "8. Romance of the Three Kingdoms — Luo Guanzhong (14th century) — Late Han / Three Kingdoms China"
+    },
+    {
+      "position": 9,
+      "reported_title": "Kristin Lavransdatter",
+      "reported_author": "Sigrid Undset (1920–1922)",
+      "raw_line": "9. Kristin Lavransdatter — Sigrid Undset (1920–1922) — Medieval Norway; trilogy treated as one work"
+    },
+    {
+      "position": 10,
+      "reported_title": "Waverley",
+      "reported_author": "Walter Scott (1814)",
+      "raw_line": "10. Waverley — Walter Scott (1814) — Jacobite rising of 1745"
+    },
+    {
+      "position": 11,
+      "reported_title": "Les Misérables",
+      "reported_author": "Victor Hugo (1862)",
+      "raw_line": "11. Les Misérables — Victor Hugo (1862) — France, 1815–1832"
+    },
+    {
+      "position": 12,
+      "reported_title": "Beloved",
+      "reported_author": "Toni Morrison (1987)",
+      "raw_line": "12. Beloved — Toni Morrison (1987) — Post-Civil War United States"
+    },
+    {
+      "position": 13,
+      "reported_title": "The Three Musketeers",
+      "reported_author": "Alexandre Dumas (1844)",
+      "raw_line": "13. The Three Musketeers — Alexandre Dumas (1844) — 17th-century France"
+    },
+    {
+      "position": 14,
+      "reported_title": "A Tale of Two Cities",
+      "reported_author": "Charles Dickens (1859)",
+      "raw_line": "14. A Tale of Two Cities — Charles Dickens (1859) — French Revolution"
+    },
+    {
+      "position": 15,
+      "reported_title": "Notre-Dame de Paris (The Hunchback of Notre-Dame)",
+      "reported_author": "Victor Hugo (1831)",
+      "raw_line": "15. Notre-Dame de Paris (The Hunchback of Notre-Dame) — Victor Hugo (1831) — Paris, 1482"
+    },
+    {
+      "position": 16,
+      "reported_title": "The Known World",
+      "reported_author": "Edward P. Jones (2003)",
+      "raw_line": "16. The Known World — Edward P. Jones (2003) — Antebellum Virginia"
+    },
+    {
+      "position": 17,
+      "reported_title": "Lonesome Dove",
+      "reported_author": "Larry McMurtry (1985)",
+      "raw_line": "17. Lonesome Dove — Larry McMurtry (1985) — American West, 1870s"
+    },
+    {
+      "position": 18,
+      "reported_title": "The War of the End of the World",
+      "reported_author": "Mario Vargas Llosa (1981)",
+      "raw_line": "18. The War of the End of the World — Mario Vargas Llosa (1981) — Canudos War, Brazil"
+    },
+    {
+      "position": 19,
+      "reported_title": "The Princess of Clèves",
+      "reported_author": "Madame de La Fayette (1678)",
+      "raw_line": "19. The Princess of Clèves — Madame de La Fayette (1678) — 16th-century French court"
+    },
+    {
+      "position": 20,
+      "reported_title": "Augustus",
+      "reported_author": "John Williams (1972)",
+      "raw_line": "20. Augustus — John Williams (1972) — Augustan Rome"
+    },
+    {
+      "position": 21,
+      "reported_title": "Blood Meridian",
+      "reported_author": "Cormac McCarthy (1985)",
+      "raw_line": "21. Blood Meridian — Cormac McCarthy (1985) — US–Mexico borderlands, 1840s–50s"
+    },
+    {
+      "position": 22,
+      "reported_title": "Ivanhoe",
+      "reported_author": "Walter Scott (1819)",
+      "raw_line": "22. Ivanhoe — Walter Scott (1819) — 12th-century England"
+    },
+    {
+      "position": 23,
+      "reported_title": "The Long Ships",
+      "reported_author": "Frans G. Bengtsson (1941–1945)",
+      "raw_line": "23. The Long Ships — Frans G. Bengtsson (1941–1945) — Viking Age Scandinavia"
+    },
+    {
+      "position": 24,
+      "reported_title": "Shōgun",
+      "reported_author": "James Clavell (1975)",
+      "raw_line": "24. Shōgun — James Clavell (1975) — Japan, 1600"
+    },
+    {
+      "position": 25,
+      "reported_title": "The Egyptian",
+      "reported_author": "Mika Waltari (1945)",
+      "raw_line": "25. The Egyptian — Mika Waltari (1945) — Ancient Egypt"
+    },
+    {
+      "position": 26,
+      "reported_title": "Midnight's Children",
+      "reported_author": "Salman Rushdie (1981)",
+      "raw_line": "26. Midnight's Children — Salman Rushdie (1981) — India, Partition and aftermath"
+    },
+    {
+      "position": 27,
+      "reported_title": "The Kingdom of This World",
+      "reported_author": "Alejo Carpentier (1949)",
+      "raw_line": "27. The Kingdom of This World — Alejo Carpentier (1949) — Haitian Revolution"
+    },
+    {
+      "position": 28,
+      "reported_title": "The Heart of Midlothian",
+      "reported_author": "Walter Scott (1818)",
+      "raw_line": "28. The Heart of Midlothian — Walter Scott (1818) — 18th-century Scotland"
+    },
+    {
+      "position": 29,
+      "reported_title": "The Scarlet Letter",
+      "reported_author": "Nathaniel Hawthorne (1850)",
+      "raw_line": "29. The Scarlet Letter — Nathaniel Hawthorne (1850) — Puritan New England"
+    },
+    {
+      "position": 30,
+      "reported_title": "Salammbô",
+      "reported_author": "Gustave Flaubert (1862)",
+      "raw_line": "30. Salammbô — Gustave Flaubert (1862) — Ancient Carthage"
+    },
+    {
+      "position": 31,
+      "reported_title": "The Captain's Daughter",
+      "reported_author": "Alexander Pushkin (1836)",
+      "raw_line": "31. The Captain's Daughter — Alexander Pushkin (1836) — Pugachev Rebellion"
+    },
+    {
+      "position": 32,
+      "reported_title": "Romola",
+      "reported_author": "George Eliot (1862–1863)",
+      "raw_line": "32. Romola — George Eliot (1862–1863) — Renaissance Florence"
+    },
+    {
+      "position": 33,
+      "reported_title": "Master and Commander",
+      "reported_author": "Patrick O'Brian (1969)",
+      "raw_line": "33. Master and Commander — Patrick O'Brian (1969) — Napoleonic naval war"
+    },
+    {
+      "position": 34,
+      "reported_title": "The Radetzky March",
+      "reported_author": "Joseph Roth (1932)",
+      "raw_line": "34. The Radetzky March — Joseph Roth (1932) — Late Habsburg Empire"
+    },
+    {
+      "position": 35,
+      "reported_title": "The French Lieutenant's Woman",
+      "reported_author": "John Fowles (1969)",
+      "raw_line": "35. The French Lieutenant's Woman — John Fowles (1969) — Victorian England"
+    },
+    {
+      "position": 36,
+      "reported_title": "The Siege of Krishnapur",
+      "reported_author": "J. G. Farrell (1973)",
+      "raw_line": "36. The Siege of Krishnapur — J. G. Farrell (1973) — Indian Rebellion of 1857"
+    },
+    {
+      "position": 37,
+      "reported_title": "The Pillars of the Earth",
+      "reported_author": "Ken Follett (1989)",
+      "raw_line": "37. The Pillars of the Earth — Ken Follett (1989) — 12th-century England"
+    },
+    {
+      "position": 38,
+      "reported_title": "Mason & Dixon",
+      "reported_author": "Thomas Pynchon (1997)",
+      "raw_line": "38. Mason & Dixon — Thomas Pynchon (1997) — 18th-century Britain and America"
+    },
+    {
+      "position": 39,
+      "reported_title": "The Feast of the Goat",
+      "reported_author": "Mario Vargas Llosa (2000)",
+      "raw_line": "39. The Feast of the Goat — Mario Vargas Llosa (2000) — Trujillo's Dominican Republic"
+    },
+    {
+      "position": 40,
+      "reported_title": "My Name Is Red",
+      "reported_author": "Orhan Pamuk (1998)",
+      "raw_line": "40. My Name Is Red — Orhan Pamuk (1998) — Ottoman Istanbul, 1591"
+    },
+    {
+      "position": 41,
+      "reported_title": "I, the Supreme",
+      "reported_author": "Augusto Roa Bastos (1974)",
+      "raw_line": "41. I, the Supreme — Augusto Roa Bastos (1974) — 19th-century Paraguay"
+    },
+    {
+      "position": 42,
+      "reported_title": "Things Fall Apart",
+      "reported_author": "Chinua Achebe (1958)",
+      "raw_line": "42. Things Fall Apart — Chinua Achebe (1958) — Igboland at the onset of colonial rule"
+    },
+    {
+      "position": 43,
+      "reported_title": "Zama",
+      "reported_author": "Antonio di Benedetto (1956)",
+      "raw_line": "43. Zama — Antonio di Benedetto (1956) — Spanish colonial Paraguay, 1790s"
+    },
+    {
+      "position": 44,
+      "reported_title": "The General in His Labyrinth",
+      "reported_author": "Gabriel García Márquez (1989)",
+      "raw_line": "44. The General in His Labyrinth — Gabriel García Márquez (1989) — Simón Bolívar, 1830"
+    },
+    {
+      "position": 45,
+      "reported_title": "The Books of Jacob",
+      "reported_author": "Olga Tokarczuk (2014)",
+      "raw_line": "45. The Books of Jacob — Olga Tokarczuk (2014) — 18th-century Polish-Lithuanian Commonwealth"
+    },
+    {
+      "position": 46,
+      "reported_title": "The Last of the Mohicans",
+      "reported_author": "James Fenimore Cooper (1826)",
+      "raw_line": "46. The Last of the Mohicans — James Fenimore Cooper (1826) — French and Indian War"
+    },
+    {
+      "position": 47,
+      "reported_title": "With Fire and Sword",
+      "reported_author": "Henryk Sienkiewicz (1884)",
+      "raw_line": "47. With Fire and Sword — Henryk Sienkiewicz (1884) — 17th-century Polish-Lithuanian Commonwealth"
+    },
+    {
+      "position": 48,
+      "reported_title": "Quo Vadis",
+      "reported_author": "Henryk Sienkiewicz (1896)",
+      "raw_line": "48. Quo Vadis — Henryk Sienkiewicz (1896) — Neronian Rome"
+    },
+    {
+      "position": 49,
+      "reported_title": "Musashi",
+      "reported_author": "Eiji Yoshikawa (1935–1939)",
+      "raw_line": "49. Musashi — Eiji Yoshikawa (1935–1939) — Early Edo Japan"
+    },
+    {
+      "position": 50,
+      "reported_title": "Ponniyin Selvan",
+      "reported_author": "Kalki Krishnamurthy (1950–1954)",
+      "raw_line": "50. Ponniyin Selvan — Kalki Krishnamurthy (1950–1954) — Chola India; serial novel treated as one work"
+    },
+    {
+      "position": 51,
+      "reported_title": "Silence",
+      "reported_author": "Shūsaku Endō (1966)",
+      "raw_line": "51. Silence — Shūsaku Endō (1966) — 17th-century Japan"
+    },
+    {
+      "position": 52,
+      "reported_title": "Wide Sargasso Sea",
+      "reported_author": "Jean Rhys (1966)",
+      "raw_line": "52. Wide Sargasso Sea — Jean Rhys (1966) — Post-emancipation Caribbean"
+    },
+    {
+      "position": 53,
+      "reported_title": "Bring Up the Bodies",
+      "reported_author": "Hilary Mantel (2012)",
+      "raw_line": "53. Bring Up the Bodies — Hilary Mantel (2012) — Tudor England"
+    },
+    {
+      "position": 54,
+      "reported_title": "The Red Badge of Courage",
+      "reported_author": "Stephen Crane (1895)",
+      "raw_line": "54. The Red Badge of Courage — Stephen Crane (1895) — American Civil War"
+    },
+    {
+      "position": 55,
+      "reported_title": "Alias Grace",
+      "reported_author": "Margaret Atwood (1996)",
+      "raw_line": "55. Alias Grace — Margaret Atwood (1996) — 19th-century Canada"
+    },
+    {
+      "position": 56,
+      "reported_title": "Regeneration",
+      "reported_author": "Pat Barker (1991)",
+      "raw_line": "56. Regeneration — Pat Barker (1991) — First World War Britain"
+    },
+    {
+      "position": 57,
+      "reported_title": "The Blue Flower",
+      "reported_author": "Penelope Fitzgerald (1995)",
+      "raw_line": "57. The Blue Flower — Penelope Fitzgerald (1995) — 18th-century Germany"
+    },
+    {
+      "position": 58,
+      "reported_title": "The Death of Virgil",
+      "reported_author": "Hermann Broch (1945)",
+      "raw_line": "58. The Death of Virgil — Hermann Broch (1945) — Augustan Rome"
+    },
+    {
+      "position": 59,
+      "reported_title": "Sacred Hunger",
+      "reported_author": "Barry Unsworth (1992)",
+      "raw_line": "59. Sacred Hunger — Barry Unsworth (1992) — 18th-century Atlantic slave trade"
+    },
+    {
+      "position": 60,
+      "reported_title": "True History of the Kelly Gang",
+      "reported_author": "Peter Carey (2000)",
+      "raw_line": "60. True History of the Kelly Gang — Peter Carey (2000) — 19th-century Australia"
+    },
+    {
+      "position": 61,
+      "reported_title": "Schindler's Ark (Schindler's List)",
+      "reported_author": "Thomas Keneally (1982)",
+      "raw_line": "61. Schindler's Ark (Schindler's List) — Thomas Keneally (1982) — Holocaust / Second World War"
+    },
+    {
+      "position": 62,
+      "reported_title": "The Remains of the Day",
+      "reported_author": "Kazuo Ishiguro (1989)",
+      "raw_line": "62. The Remains of the Day — Kazuo Ishiguro (1989) — Interwar Britain, remembered from 1956"
+    },
+    {
+      "position": 63,
+      "reported_title": "The English Patient",
+      "reported_author": "Michael Ondaatje (1992)",
+      "raw_line": "63. The English Patient — Michael Ondaatje (1992) — Second World War / North Africa and Italy"
+    },
+    {
+      "position": 64,
+      "reported_title": "The Tin Drum",
+      "reported_author": "Günter Grass (1959)",
+      "raw_line": "64. The Tin Drum — Günter Grass (1959) — Danzig/Germany, 1920s–50s"
+    },
+    {
+      "position": 65,
+      "reported_title": "Ninety-Three",
+      "reported_author": "Victor Hugo (1874)",
+      "raw_line": "65. Ninety-Three — Victor Hugo (1874) — French Revolution / Vendée, 1793"
+    },
+    {
+      "position": 66,
+      "reported_title": "The Garden of Evening Mists",
+      "reported_author": "Tan Twan Eng (2012)",
+      "raw_line": "66. The Garden of Evening Mists — Tan Twan Eng (2012) — Malaya, Japanese occupation and aftermath"
+    },
+    {
+      "position": 67,
+      "reported_title": "The Luminaries",
+      "reported_author": "Eleanor Catton (2013)",
+      "raw_line": "67. The Luminaries — Eleanor Catton (2013) — New Zealand gold rush, 1860s"
+    },
+    {
+      "position": 68,
+      "reported_title": "Sea of Poppies",
+      "reported_author": "Amitav Ghosh (2008)",
+      "raw_line": "68. Sea of Poppies — Amitav Ghosh (2008) — Indian Ocean / Opium War era"
+    },
+    {
+      "position": 69,
+      "reported_title": "The Glass Palace",
+      "reported_author": "Amitav Ghosh (2000)",
+      "raw_line": "69. The Glass Palace — Amitav Ghosh (2000) — Burma, India and Malaya, 1885–20th century"
+    },
+    {
+      "position": 70,
+      "reported_title": "Half of a Yellow Sun",
+      "reported_author": "Chimamanda Ngozi Adichie (2006)",
+      "raw_line": "70. Half of a Yellow Sun — Chimamanda Ngozi Adichie (2006) — Biafran War"
+    },
+    {
+      "position": 71,
+      "reported_title": "All the Light We Cannot See",
+      "reported_author": "Anthony Doerr (2014)",
+      "raw_line": "71. All the Light We Cannot See — Anthony Doerr (2014) — Second World War France/Germany"
+    },
+    {
+      "position": 72,
+      "reported_title": "The Book Thief",
+      "reported_author": "Markus Zusak (2005)",
+      "raw_line": "72. The Book Thief — Markus Zusak (2005) — Nazi Germany"
+    },
+    {
+      "position": 73,
+      "reported_title": "The Narrow Road to the Deep North",
+      "reported_author": "Richard Flanagan (2013)",
+      "raw_line": "73. The Narrow Road to the Deep North — Richard Flanagan (2013) — Burma Railway / Second World War"
+    },
+    {
+      "position": 74,
+      "reported_title": "Afterlives",
+      "reported_author": "Abdulrazak Gurnah (2020)",
+      "raw_line": "74. Afterlives — Abdulrazak Gurnah (2020) — German East Africa and aftermath"
+    },
+    {
+      "position": 75,
+      "reported_title": "Homegoing",
+      "reported_author": "Yaa Gyasi (2016)",
+      "raw_line": "75. Homegoing — Yaa Gyasi (2016) — Ghana/United States across generations"
+    },
+    {
+      "position": 76,
+      "reported_title": "Kintu",
+      "reported_author": "Jennifer Nansubuga Makumbi (2014)",
+      "raw_line": "76. Kintu — Jennifer Nansubuga Makumbi (2014) — Buganda/Uganda across centuries"
+    },
+    {
+      "position": 77,
+      "reported_title": "The Shadow King",
+      "reported_author": "Maaza Mengiste (2019)",
+      "raw_line": "77. The Shadow King — Maaza Mengiste (2019) — Italian invasion of Ethiopia"
+    },
+    {
+      "position": 78,
+      "reported_title": "Segu",
+      "reported_author": "Maryse Condé (1984)",
+      "raw_line": "78. Segu — Maryse Condé (1984) — 19th-century West Africa"
+    },
+    {
+      "position": 79,
+      "reported_title": "The Book of Night Women",
+      "reported_author": "Marlon James (2009)",
+      "raw_line": "79. The Book of Night Women — Marlon James (2009) — Jamaica, slavery era"
+    },
+    {
+      "position": 80,
+      "reported_title": "The Moor's Account",
+      "reported_author": "Laila Lalami (2014)",
+      "raw_line": "80. The Moor's Account — Laila Lalami (2014) — 16th-century Spanish expedition in North America"
+    },
+    {
+      "position": 81,
+      "reported_title": "News from the Empire",
+      "reported_author": "Fernando del Paso (1987)",
+      "raw_line": "81. News from the Empire — Fernando del Paso (1987) — French intervention in Mexico"
+    },
+    {
+      "position": 82,
+      "reported_title": "Bomarzo",
+      "reported_author": "Manuel Mujica Láinez (1962)",
+      "raw_line": "82. Bomarzo — Manuel Mujica Láinez (1962) — Renaissance Italy"
+    },
+    {
+      "position": 83,
+      "reported_title": "The Council of Egypt",
+      "reported_author": "Leonardo Sciascia (1963)",
+      "raw_line": "83. The Council of Egypt — Leonardo Sciascia (1963) — 18th-century Sicily"
+    },
+    {
+      "position": 84,
+      "reported_title": "The Royal Physician's Visit",
+      "reported_author": "Per Olov Enquist (1999)",
+      "raw_line": "84. The Royal Physician's Visit — Per Olov Enquist (1999) — 18th-century Denmark"
+    },
+    {
+      "position": 85,
+      "reported_title": "Pachinko",
+      "reported_author": "Min Jin Lee (2017)",
+      "raw_line": "85. Pachinko — Min Jin Lee (2017) — Korea/Japan, 20th century"
+    },
+    {
+      "position": 86,
+      "reported_title": "The First Man in Rome",
+      "reported_author": "Colleen McCullough (1990)",
+      "raw_line": "86. The First Man in Rome — Colleen McCullough (1990) — Late Roman Republic"
+    },
+    {
+      "position": 87,
+      "reported_title": "The Last of the Wine",
+      "reported_author": "Mary Renault (1956)",
+      "raw_line": "87. The Last of the Wine — Mary Renault (1956) — Classical Athens / Peloponnesian War"
+    },
+    {
+      "position": 88,
+      "reported_title": "The Persian Boy",
+      "reported_author": "Mary Renault (1972)",
+      "raw_line": "88. The Persian Boy — Mary Renault (1972) — Alexander the Great"
+    },
+    {
+      "position": 89,
+      "reported_title": "The Sympathizer",
+      "reported_author": "Viet Thanh Nguyen (2015)",
+      "raw_line": "89. The Sympathizer — Viet Thanh Nguyen (2015) — Vietnam War aftermath"
+    },
+    {
+      "position": 90,
+      "reported_title": "Julian",
+      "reported_author": "Gore Vidal (1964)",
+      "raw_line": "90. Julian — Gore Vidal (1964) — 4th-century Roman Empire"
+    },
+    {
+      "position": 91,
+      "reported_title": "Perfume",
+      "reported_author": "Patrick Süskind (1985)",
+      "raw_line": "91. Perfume — Patrick Süskind (1985) — 18th-century France"
+    },
+    {
+      "position": 92,
+      "reported_title": "The Iron King (Le Roi de fer)",
+      "reported_author": "Maurice Druon (1955)",
+      "raw_line": "92. The Iron King (Le Roi de fer) — Maurice Druon (1955) — 14th-century France"
+    },
+    {
+      "position": 93,
+      "reported_title": "The Killer Angels",
+      "reported_author": "Michael Shaara (1974)",
+      "raw_line": "93. The Killer Angels — Michael Shaara (1974) — Battle of Gettysburg"
+    },
+    {
+      "position": 94,
+      "reported_title": "Cold Mountain",
+      "reported_author": "Charles Frazier (1997)",
+      "raw_line": "94. Cold Mountain — Charles Frazier (1997) — American Civil War"
+    },
+    {
+      "position": 95,
+      "reported_title": "Ragtime",
+      "reported_author": "E. L. Doctorow (1975)",
+      "raw_line": "95. Ragtime — E. L. Doctorow (1975) — United States, early 20th century"
+    },
+    {
+      "position": 96,
+      "reported_title": "The Sot-Weed Factor",
+      "reported_author": "John Barth (1960)",
+      "raw_line": "96. The Sot-Weed Factor — John Barth (1960) — Colonial Maryland"
+    },
+    {
+      "position": 97,
+      "reported_title": "Fingersmith",
+      "reported_author": "Sarah Waters (2002)",
+      "raw_line": "97. Fingersmith — Sarah Waters (2002) — Victorian England"
+    },
+    {
+      "position": 98,
+      "reported_title": "Ryōma ga Yuku",
+      "reported_author": "Shiba Ryōtarō (1962–1966)",
+      "raw_line": "98. Ryōma ga Yuku — Shiba Ryōtarō (1962–1966) — Bakumatsu Japan; serial novel treated as one work"
+    },
+    {
+      "position": 99,
+      "reported_title": "Captain Alatriste",
+      "reported_author": "Arturo Pérez-Reverte (1996)",
+      "raw_line": "99. Captain Alatriste — Arturo Pérez-Reverte (1996) — 17th-century Spain"
+    },
+    {
+      "position": 100,
+      "reported_title": "Azazeel",
+      "reported_author": "Youssef Ziedan (2008)",
+      "raw_line": "100. Azazeel — Youssef Ziedan (2008) — 5th-century Egypt/Syria"
+    }
+  ]
+}

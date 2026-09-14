@@ -1,0 +1,512 @@
+{
+  "target_id": "books-united-states",
+  "representative_source_ids": [
+    "UNITED-STATES-001",
+    "UNITED-STATES-002",
+    "UNITED-STATES-003",
+    "UNITED-STATES-004",
+    "UNITED-STATES-005"
+  ],
+  "entries": [
+    {
+      "key": "books-united-states-001",
+      "position": 1,
+      "reported_title": "Moby-Dick"
+    },
+    {
+      "key": "books-united-states-002",
+      "position": 2,
+      "reported_title": "Beloved"
+    },
+    {
+      "key": "books-united-states-003",
+      "position": 3,
+      "reported_title": "Adventures of Huckleberry Finn"
+    },
+    {
+      "key": "books-united-states-004",
+      "position": 4,
+      "reported_title": "The Great Gatsby"
+    },
+    {
+      "key": "books-united-states-005",
+      "position": 5,
+      "reported_title": "The Sound and the Fury"
+    },
+    {
+      "key": "books-united-states-006",
+      "position": 6,
+      "reported_title": "Leaves of Grass"
+    },
+    {
+      "key": "books-united-states-007",
+      "position": 7,
+      "reported_title": "Invisible Man"
+    },
+    {
+      "key": "books-united-states-008",
+      "position": 8,
+      "reported_title": "Absalom, Absalom!"
+    },
+    {
+      "key": "books-united-states-009",
+      "position": 9,
+      "reported_title": "Blood Meridian"
+    },
+    {
+      "key": "books-united-states-010",
+      "position": 10,
+      "reported_title": "The Grapes of Wrath"
+    },
+    {
+      "key": "books-united-states-011",
+      "position": 11,
+      "reported_title": "Lolita"
+    },
+    {
+      "key": "books-united-states-012",
+      "position": 12,
+      "reported_title": "Song of Solomon"
+    },
+    {
+      "key": "books-united-states-013",
+      "position": 13,
+      "reported_title": "The Scarlet Letter"
+    },
+    {
+      "key": "books-united-states-014",
+      "position": 14,
+      "reported_title": "Their Eyes Were Watching God"
+    },
+    {
+      "key": "books-united-states-015",
+      "position": 15,
+      "reported_title": "Walden"
+    },
+    {
+      "key": "books-united-states-016",
+      "position": 16,
+      "reported_title": "The Portrait of a Lady"
+    },
+    {
+      "key": "books-united-states-017",
+      "position": 17,
+      "reported_title": "The Sun Also Rises"
+    },
+    {
+      "key": "books-united-states-018",
+      "position": 18,
+      "reported_title": "Light in August"
+    },
+    {
+      "key": "books-united-states-019",
+      "position": 19,
+      "reported_title": "The Age of Innocence"
+    },
+    {
+      "key": "books-united-states-020",
+      "position": 20,
+      "reported_title": "Native Son"
+    },
+    {
+      "key": "books-united-states-021",
+      "position": 21,
+      "reported_title": "Gravity's Rainbow"
+    },
+    {
+      "key": "books-united-states-022",
+      "position": 22,
+      "reported_title": "Catch-22"
+    },
+    {
+      "key": "books-united-states-023",
+      "position": 23,
+      "reported_title": "Slaughterhouse-Five"
+    },
+    {
+      "key": "books-united-states-024",
+      "position": 24,
+      "reported_title": "The Color Purple"
+    },
+    {
+      "key": "books-united-states-025",
+      "position": 25,
+      "reported_title": "The Adventures of Augie March"
+    },
+    {
+      "key": "books-united-states-026",
+      "position": 26,
+      "reported_title": "To Kill a Mockingbird"
+    },
+    {
+      "key": "books-united-states-027",
+      "position": 27,
+      "reported_title": "The House of Mirth"
+    },
+    {
+      "key": "books-united-states-028",
+      "position": 28,
+      "reported_title": "As I Lay Dying"
+    },
+    {
+      "key": "books-united-states-029",
+      "position": 29,
+      "reported_title": "Underworld"
+    },
+    {
+      "key": "books-united-states-030",
+      "position": 30,
+      "reported_title": "White Noise"
+    },
+    {
+      "key": "books-united-states-031",
+      "position": 31,
+      "reported_title": "East of Eden"
+    },
+    {
+      "key": "books-united-states-032",
+      "position": 32,
+      "reported_title": "Go Tell It on the Mountain"
+    },
+    {
+      "key": "books-united-states-033",
+      "position": 33,
+      "reported_title": "Another Country"
+    },
+    {
+      "key": "books-united-states-034",
+      "position": 34,
+      "reported_title": "The Crying of Lot 49"
+    },
+    {
+      "key": "books-united-states-035",
+      "position": 35,
+      "reported_title": "The Road"
+    },
+    {
+      "key": "books-united-states-036",
+      "position": 36,
+      "reported_title": "The Known World"
+    },
+    {
+      "key": "books-united-states-037",
+      "position": 37,
+      "reported_title": "A Good Man Is Hard to Find"
+    },
+    {
+      "key": "books-united-states-038",
+      "position": 38,
+      "reported_title": "Tales of Mystery and Imagination / Collected Tales"
+    },
+    {
+      "key": "books-united-states-039",
+      "position": 39,
+      "reported_title": "The Catcher in the Rye"
+    },
+    {
+      "key": "books-united-states-040",
+      "position": 40,
+      "reported_title": "The Autobiography of Malcolm X"
+    },
+    {
+      "key": "books-united-states-041",
+      "position": 41,
+      "reported_title": "The Souls of Black Folk"
+    },
+    {
+      "key": "books-united-states-042",
+      "position": 42,
+      "reported_title": "Narrative of the Life of Frederick Douglass"
+    },
+    {
+      "key": "books-united-states-043",
+      "position": 43,
+      "reported_title": "The Complete Poems"
+    },
+    {
+      "key": "books-united-states-044",
+      "position": 44,
+      "reported_title": "The Things They Carried"
+    },
+    {
+      "key": "books-united-states-045",
+      "position": 45,
+      "reported_title": "The Recognitions"
+    },
+    {
+      "key": "books-united-states-046",
+      "position": 46,
+      "reported_title": "J R"
+    },
+    {
+      "key": "books-united-states-047",
+      "position": 47,
+      "reported_title": "American Pastoral"
+    },
+    {
+      "key": "books-united-states-048",
+      "position": 48,
+      "reported_title": "Herzog"
+    },
+    {
+      "key": "books-united-states-049",
+      "position": 49,
+      "reported_title": "Rabbit, Run"
+    },
+    {
+      "key": "books-united-states-050",
+      "position": 50,
+      "reported_title": "Housekeeping"
+    },
+    {
+      "key": "books-united-states-051",
+      "position": 51,
+      "reported_title": "Gilead"
+    },
+    {
+      "key": "books-united-states-052",
+      "position": 52,
+      "reported_title": "The Left Hand of Darkness"
+    },
+    {
+      "key": "books-united-states-053",
+      "position": 53,
+      "reported_title": "Kindred"
+    },
+    {
+      "key": "books-united-states-054",
+      "position": 54,
+      "reported_title": "The Bluest Eye"
+    },
+    {
+      "key": "books-united-states-055",
+      "position": 55,
+      "reported_title": "Ceremony"
+    },
+    {
+      "key": "books-united-states-056",
+      "position": 56,
+      "reported_title": "The Joy Luck Club"
+    },
+    {
+      "key": "books-united-states-057",
+      "position": 57,
+      "reported_title": "Sula"
+    },
+    {
+      "key": "books-united-states-058",
+      "position": 58,
+      "reported_title": "Little Women"
+    },
+    {
+      "key": "books-united-states-059",
+      "position": 59,
+      "reported_title": "Uncle Tom's Cabin"
+    },
+    {
+      "key": "books-united-states-060",
+      "position": 60,
+      "reported_title": "Sister Carrie"
+    },
+    {
+      "key": "books-united-states-061",
+      "position": 61,
+      "reported_title": "Main Street"
+    },
+    {
+      "key": "books-united-states-062",
+      "position": 62,
+      "reported_title": "Babbitt"
+    },
+    {
+      "key": "books-united-states-063",
+      "position": 63,
+      "reported_title": "U.S.A. Trilogy"
+    },
+    {
+      "key": "books-united-states-064",
+      "position": 64,
+      "reported_title": "Winesburg, Ohio"
+    },
+    {
+      "key": "books-united-states-065",
+      "position": 65,
+      "reported_title": "The Awakening"
+    },
+    {
+      "key": "books-united-states-066",
+      "position": 66,
+      "reported_title": "My Ántonia"
+    },
+    {
+      "key": "books-united-states-067",
+      "position": 67,
+      "reported_title": "The Ambassadors"
+    },
+    {
+      "key": "books-united-states-068",
+      "position": 68,
+      "reported_title": "The Golden Bowl"
+    },
+    {
+      "key": "books-united-states-069",
+      "position": 69,
+      "reported_title": "The Old Man and the Sea"
+    },
+    {
+      "key": "books-united-states-070",
+      "position": 70,
+      "reported_title": "A Farewell to Arms"
+    },
+    {
+      "key": "books-united-states-071",
+      "position": 71,
+      "reported_title": "One Flew Over the Cuckoo's Nest"
+    },
+    {
+      "key": "books-united-states-072",
+      "position": 72,
+      "reported_title": "Sometimes a Great Notion"
+    },
+    {
+      "key": "books-united-states-073",
+      "position": 73,
+      "reported_title": "All the King's Men"
+    },
+    {
+      "key": "books-united-states-074",
+      "position": 74,
+      "reported_title": "The Moviegoer"
+    },
+    {
+      "key": "books-united-states-075",
+      "position": 75,
+      "reported_title": "Wise Blood"
+    },
+    {
+      "key": "books-united-states-076",
+      "position": 76,
+      "reported_title": "The Heart Is a Lonely Hunter"
+    },
+    {
+      "key": "books-united-states-077",
+      "position": 77,
+      "reported_title": "The Haunting of Hill House"
+    },
+    {
+      "key": "books-united-states-078",
+      "position": 78,
+      "reported_title": "The Bell Jar"
+    },
+    {
+      "key": "books-united-states-079",
+      "position": 79,
+      "reported_title": "Play It as It Lays"
+    },
+    {
+      "key": "books-united-states-080",
+      "position": 80,
+      "reported_title": "Slouching Towards Bethlehem"
+    },
+    {
+      "key": "books-united-states-081",
+      "position": 81,
+      "reported_title": "The Fire Next Time"
+    },
+    {
+      "key": "books-united-states-082",
+      "position": 82,
+      "reported_title": "On the Road"
+    },
+    {
+      "key": "books-united-states-083",
+      "position": 83,
+      "reported_title": "Pale Fire"
+    },
+    {
+      "key": "books-united-states-084",
+      "position": 84,
+      "reported_title": "The Executioner's Song"
+    },
+    {
+      "key": "books-united-states-085",
+      "position": 85,
+      "reported_title": "In Cold Blood"
+    },
+    {
+      "key": "books-united-states-086",
+      "position": 86,
+      "reported_title": "The Underground Railroad"
+    },
+    {
+      "key": "books-united-states-087",
+      "position": 87,
+      "reported_title": "A Visit from the Goon Squad"
+    },
+    {
+      "key": "books-united-states-088",
+      "position": 88,
+      "reported_title": "The Brief Wondrous Life of Oscar Wao"
+    },
+    {
+      "key": "books-united-states-089",
+      "position": 89,
+      "reported_title": "The Amazing Adventures of Kavalier & Clay"
+    },
+    {
+      "key": "books-united-states-090",
+      "position": 90,
+      "reported_title": "Middlesex"
+    },
+    {
+      "key": "books-united-states-091",
+      "position": 91,
+      "reported_title": "The Corrections"
+    },
+    {
+      "key": "books-united-states-092",
+      "position": 92,
+      "reported_title": "Infinite Jest"
+    },
+    {
+      "key": "books-united-states-093",
+      "position": 93,
+      "reported_title": "The Secret History"
+    },
+    {
+      "key": "books-united-states-094",
+      "position": 94,
+      "reported_title": "Lonesome Dove"
+    },
+    {
+      "key": "books-united-states-095",
+      "position": 95,
+      "reported_title": "Angle of Repose"
+    },
+    {
+      "key": "books-united-states-096",
+      "position": 96,
+      "reported_title": "Stoner"
+    },
+    {
+      "key": "books-united-states-097",
+      "position": 97,
+      "reported_title": "The House on Mango Street"
+    },
+    {
+      "key": "books-united-states-098",
+      "position": 98,
+      "reported_title": "Bless Me, Ultima"
+    },
+    {
+      "key": "books-united-states-099",
+      "position": 99,
+      "reported_title": "Love Medicine"
+    },
+    {
+      "key": "books-united-states-100",
+      "position": 100,
+      "reported_title": "The New York Trilogy"
+    }
+  ]
+}

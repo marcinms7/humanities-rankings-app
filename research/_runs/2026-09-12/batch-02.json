@@ -1,0 +1,170 @@
+{
+  "summary": "Added Indian, Chinese, Islamic and African intellectual traditions, with specific work-identity and authorship cautions. This batch shares a reference publisher; later batches must diversify evidence types.",
+  "next": "Consult independent critical and reader material, and add modern, medieval and women philosophers.",
+  "sources": [
+    {
+      "id": "R009",
+      "url": "https://plato.stanford.edu/entries/nagarjuna/",
+      "title": "Nāgārjuna",
+      "note": "Emptiness and arguments against intrinsic nature shaped Buddhist philosophy across Asia; the entry distinguishes reliably attributed works from later name-attributions.",
+      "candidates": [
+        "Nagarjuna",
+        "The Fundamental Wisdom of the Middle Way",
+        "The Dispeller of Disputes"
+      ],
+      "targets": {
+        "A": "Adds Buddhist argumentative works and reception beyond European canons.",
+        "B": "Identifies Middle Way texts and distinguishes shorter treatises.",
+        "P": "Documents Nagarjuna's influence while qualifying uncertain biography."
+      },
+      "location": "Introduction and life-and-works list",
+      "limits": "Dates and attributions are uncertain; verse treatises need complete-work eligibility review.",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference"
+    },
+    {
+      "id": "R010",
+      "url": "https://plato.stanford.edu/entries/shankara/",
+      "title": "Śaṅkara",
+      "note": "Shankara systematized Advaita through consciousness, metaphysics and teaching methods. His extant commentaries concern the Brahmasutras, Gita and principal Upanishads.",
+      "candidates": [
+        "Shankara",
+        "Brahmasutra commentary",
+        "Bhagavad Gita commentary"
+      ],
+      "targets": {
+        "A": "Adds Indian commentarial scholarship to book discovery.",
+        "N": "Identifies argumentative commentaries; exact English volumes remain unresolved.",
+        "B": "Treats commentaries as substantive philosophy, distinct from their root texts.",
+        "P": "Supports Shankara as systematizer rather than originator of the entire tradition."
+      },
+      "location": "Introduction and life-and-works excerpt",
+      "limits": "Hagiographies are not dependable biography; root texts and commentaries must not be conflated.",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference"
+    },
+    {
+      "id": "R011",
+      "url": "https://plato.stanford.edu/entries/ibn-sina/",
+      "title": "Ibn Sina [Avicenna]",
+      "note": "Avicenna integrated science and philosophy; the medical Canon influenced European teaching, while philosophical reception included revision and refutation across religious communities.",
+      "candidates": [
+        "Avicenna",
+        "The Canon of Medicine",
+        "Guide of the Perplexed"
+      ],
+      "targets": {
+        "A": "Adds medicine and cross-cultural intellectual transmission.",
+        "N": "Supplies historical medical nonfiction, not current clinical authority.",
+        "B": "Shows Arabic philosophical reception and a link to Maimonides's Guide.",
+        "P": "Documents Avicenna's systematic contribution and contested reception."
+      },
+      "location": "Introduction, lines 13–19",
+      "limits": "One author's strong comparative influence judgment is not a global score.",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference"
+    },
+    {
+      "id": "R012",
+      "url": "https://plato.stanford.edu/entries/al-farabi/",
+      "title": "al-Farabi",
+      "note": "The Great Book of Music combines musical theory and philosophy. The entry flags missing complete English translations and describes medieval reception of Enumeration of the Sciences.",
+      "candidates": [
+        "al-Farabi",
+        "Great Book of Music",
+        "Enumeration of the Sciences"
+      ],
+      "targets": {
+        "A": "Adds music and classification of knowledge; translation eligibility remains open.",
+        "N": "Identifies music-theoretical and encyclopedic nonfiction.",
+        "B": "Documents philosophical works outside standard ethics/metaphysics lists.",
+        "P": "Supports al-Farabi's work in logic, philosophy and music."
+      },
+      "location": "Introduction and opening of section 1",
+      "limits": "Do not recommend an English edition before verifying it; biography and ethnic attribution are disputed.",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference"
+    },
+    {
+      "id": "R013",
+      "url": "https://plato.stanford.edu/entries/mencius/",
+      "title": "Mencius",
+      "note": "Mengzi's ethical cultivation and account of human nature invite comparison with Aristotle and Hume. The text was compiled by followers and later edited by Zhao Qi.",
+      "candidates": [
+        "Mencius",
+        "Mengzi"
+      ],
+      "targets": {
+        "A": "Adds a Chinese ethical-political classic with transmission evidence.",
+        "N": "Identifies a recorded-dialogue philosophical collection, pending form review.",
+        "B": "Maps the received Mengzi text to virtue and human-nature debates.",
+        "P": "Supports Mencius's distinctive position and later reception."
+      },
+      "location": "Introduction and section 1",
+      "limits": "Do not attribute the entire received compilation directly to one author's manuscript.",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference"
+    },
+    {
+      "id": "R014",
+      "url": "https://plato.stanford.edu/entries/xunzi/",
+      "title": "Xunzi",
+      "note": "Xunzi's reputation shifted from frequent disapproval to renewed recognition. The received collection derives from posthumous editorial work; it is predominantly authentic but textually layered.",
+      "candidates": [
+        "Xunzi",
+        "Xun Kuang"
+      ],
+      "targets": {
+        "A": "Adds an early Chinese essay collection and changing-canon evidence.",
+        "N": "Adds collected ethical-political argument; distinguish essays from collected book.",
+        "B": "Offers a contrast with Mencius on human nature and cultivation.",
+        "P": "Shows that historical marginalization differs from philosophical significance."
+      },
+      "location": "Introduction and section 1",
+      "limits": "Life dates are uncertain; source biography can distort philosophers' lives.",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference"
+    },
+    {
+      "id": "R015",
+      "url": "https://plato.stanford.edu/entries/laozi/",
+      "title": "Laozi",
+      "note": "Daodejing's ethical, political and spiritual interpretations differ. The text's influence is broad, but the existence of its traditionally named author is disputed.",
+      "candidates": [
+        "Laozi",
+        "Daodejing"
+      ],
+      "targets": {
+        "A": "Adds an influential Chinese classic with author-identity uncertainty.",
+        "B": "Documents competing readings and text-author separation.",
+        "P": "Requires a disputed-historical-identity flag before person eligibility."
+      },
+      "location": "Introduction",
+      "limits": "Do not infer an established historical individual from a surviving named text.",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference"
+    },
+    {
+      "id": "R016",
+      "url": "https://plato.stanford.edu/entries/african-sage/",
+      "title": "African Sage Philosophy",
+      "note": "Oruka's Sage Philosophy records dialogues evidencing individual critical thought in African oral traditions, challenging the assumption that philosophy requires a written authorial corpus.",
+      "candidates": [
+        "Henry Odera Oruka",
+        "Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy",
+        "Paul Mbuya Akoko",
+        "Okemba Simiyu Chaungo"
+      ],
+      "targets": {
+        "A": "Adds a documented African philosophical dialogue collection.",
+        "N": "Provides nonfiction interview-based intellectual history.",
+        "B": "Supplies a philosophical book and challenges text-only canon assumptions.",
+        "P": "Distinguishes named oral thinkers from undifferentiated communal beliefs."
+      },
+      "location": "Introduction and examples from Oruka's project",
+      "limits": "Interview mediation and translation matter; oral thinkers need person-specific evidence.",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "family": "scholarly_reference"
+    }
+  ]
+}

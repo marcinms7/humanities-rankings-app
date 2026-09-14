@@ -1,0 +1,162 @@
+{
+  "summary": "Italian, French, Polish and Japanese criticism adds stylistic reservations, version distinctions, neglected authors and specific narrative analysis. One scholarly abstract is explicitly limited to reception/adaptation.",
+  "next": "Reduce Italian-platform concentration with additional regions and source families.",
+  "sources": [
+    {
+      "id": "R124",
+      "url": "https://www.doppiozero.com/anna-maria-ortese",
+      "title": "Anna Maria Ortese",
+      "publisher": "Doppiozero",
+      "language": "it",
+      "family": "professional_criticism",
+      "note": "Sironi connects fractured syntax and visionary narrative with vulnerability, loss and care across Ortese’s novels.",
+      "candidates": [
+        "Il porto di Toledo",
+        "L’Iguana",
+        "Il cardillo addolorato",
+        "Alonso e i visionari"
+      ],
+      "location": "Main essay, syntax and concluding novel comparisons",
+      "limits": "Interpretive appreciation; not an independent ranking.",
+      "targets": {
+        "A": "Innovative Italian prose.",
+        "L": "Narrative form and ethical imagination."
+      }
+    },
+    {
+      "id": "R125",
+      "url": "https://www.doppiozero.com/i-promessi-sposi-un-libro-parallelo",
+      "title": "I Promessi Sposi: un libro parallelo",
+      "publisher": "Doppiozero",
+      "language": "it",
+      "family": "professional_criticism",
+      "note": "Cortellessa reconstructs disagreement over Catholic propaganda, social power and historical complexity in Manzoni, including Moravia’s accusation and Gadda’s rebuttal.",
+      "candidates": [
+        "I promessi sposi"
+      ],
+      "location": "Moravia/Gadda dispute and illustration discussion",
+      "limits": "Quoted historical critics are mediated through this essay, not separately consulted sources.",
+      "targets": {
+        "A": "Contested reception of a canonical novel.",
+        "L": "Religious ideology versus formal and historical complexity."
+      }
+    },
+    {
+      "id": "R126",
+      "url": "https://www.en-attendant-nadeau.fr/2022/03/19/initiation-afrique-tchak/",
+      "title": "Une initiation à l’Afrique ambigüe",
+      "publisher": "En attendant Nadeau",
+      "language": "fr",
+      "family": "professional_review",
+      "note": "Mazauric praises Tchak’s nuanced ethnographic satire but finds Safiatou’s motivation insufficiently developed within the self-centered narrator’s perspective.",
+      "candidates": [
+        "Le continent du Tout et du presque Rien"
+      ],
+      "location": "Review opening and paragraphs on three-part structure/Safiatou",
+      "limits": "Recent acclaim cannot establish long-term endurance.",
+      "targets": {
+        "A": "Togolese fiction and anthropological critique.",
+        "L": "Structural praise and characterization objection."
+      }
+    },
+    {
+      "id": "R127",
+      "url": "https://www.doppiozero.com/arbasino-e-i-primi-fratelli-ditalia",
+      "title": "Arbasino e i primi Fratelli d’Italia",
+      "publisher": "Doppiozero",
+      "language": "it",
+      "family": "professional_review",
+      "note": "Narros distinguishes the brisk spoken language of Arbasino’s original novel from Gadda’s multilingual style, emphasizing major changes across successive versions.",
+      "candidates": [
+        "Fratelli d’Italia"
+      ],
+      "location": "Opening version history and stylistic comparison",
+      "limits": "1963 and 1993 versions differ substantially; assessments are edition-sensitive.",
+      "targets": {
+        "A": "Version-specific literary evidence.",
+        "L": "Voice, pace and relation to Italian modernism."
+      }
+    },
+    {
+      "id": "R128",
+      "url": "https://www.doppiozero.com/gaddabolario-furugozzo-di-parole",
+      "title": "Gaddabolario: furugozzo di parole",
+      "publisher": "Doppiozero",
+      "language": "it",
+      "family": "professional_review",
+      "note": "Castronuovo treats Gadda’s difficulty as a source of comic pleasure and assesses a collaborative dictionary explaining his lexical inventions.",
+      "candidates": [
+        "Gaddabolario",
+        "Quer pasticciaccio brutto de via Merulana",
+        "L’Adalgisa",
+        "Eros e Priapo"
+      ],
+      "location": "Review on linguistic estrangement and dictionary structure",
+      "limits": "Dictionary entries are not separately consulted; enthusiasm coexists with demands on readers.",
+      "targets": {
+        "A": "Fiction and critical reference compared.",
+        "L": "Gadda’s linguistic pleasure and difficulty.",
+        "N": "Appraisal of the Gaddabolario reference work."
+      }
+    },
+    {
+      "id": "R129",
+      "url": "https://culture.pl/pl/artykul/12-polskich-ksiazek-ktore-sprawia-ze-staniesz-sie-innym-czlowiekiem",
+      "title": "12 polskich książek, które sprawią, że staniesz się innym człowiekiem",
+      "publisher": "Culture.pl",
+      "language": "pl",
+      "family": "curated_recommendations",
+      "note": "Biełow contrasts Schulz’s vitality with Kafka, praises Hłasko’s speech rhythms and Gombrowicz’s style, and reads Solaris through limits of self-knowledge.",
+      "candidates": [
+        "The Street of Crocodiles",
+        "Sanatorium Under the Sign of the Hourglass",
+        "The First Step in the Clouds",
+        "Pornografia",
+        "Solaris"
+      ],
+      "location": "Schulz, Hłasko, Gombrowicz and Solaris sections",
+      "limits": "Cultural-promotion institution and personal selection; numbered count is not merit order.",
+      "targets": {
+        "A": "Polish short fiction and novels.",
+        "L": "Specific stylistic and interpretive recommendations."
+      }
+    },
+    {
+      "id": "R130",
+      "url": "https://allreviews.jp/review/4021",
+      "title": "『草枕』—中野翠による書評",
+      "publisher": "ALL REVIEWS",
+      "language": "ja",
+      "family": "professional_criticism",
+      "note": "Nakano finds Sōseki’s famous rhetoric over-polished on rereading, while valuing the conflict between aesthetic detachment, social life and intrusive self-consciousness.",
+      "candidates": [
+        "Kusamakura"
+      ],
+      "location": "Reviewer text, paragraphs on rhetoric and nonattachment",
+      "limits": "Reprinted review collected in a 2010 book; 2020 web date is not original judgment.",
+      "targets": {
+        "A": "Japanese critical rereading.",
+        "L": "Canonical prestige tested against adult reading experience."
+      }
+    },
+    {
+      "id": "R131",
+      "url": "https://czasopisma.uksw.edu.pl/index.php/zk/article/view/12518",
+      "title": "Od powieści filozoficznej do teatru (post)epickiego? Kosmos Witolda Gombrowicza w inscenizacji Jerzego Jarockiego",
+      "publisher": "Załącznik Kulturoznawczy",
+      "language": "en",
+      "family": "scholarly_article",
+      "note": "Gołos-Dąbrowska’s abstract argues Jarocki’s adaptation preserves epic elements of Cosmos and uses staging to activate philosophical interpretation.",
+      "candidates": [
+        "Cosmos"
+      ],
+      "location": "English abstract and article metadata",
+      "limits": "Abstract only; stagecraft does not establish novel merit. Full Polish argument remains unread.",
+      "targets": {
+        "A": "Evidence of a novel’s interpretive afterlife.",
+        "L": "Adaptability and active reception, narrowly supported."
+      },
+      "access": "abstract_only"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "target_id": "mcevoy-lectures",
+  "status": "named_external_list_import",
+  "sources": [
+    {
+      "source_id": "COLLECTION-REPAIR-01",
+      "underlying_source_id": "collection-repair:https://www.patreon.com/hardcoreliterature/posts/hardcore-book-48439779",
+      "title": "Hardcore Literature · Lecture readings — source contents",
+      "canonical_url": "https://www.patreon.com/hardcoreliterature/posts/hardcore-book-48439779",
+      "source_family": "published_collection",
+      "target_ids": [
+        "mcevoy-lectures"
+      ],
+      "relevance_by_target": {
+        "mcevoy-lectures": "Named works from the full public contents index plus dated annual archive. Repeated lectures collapse to one work. Generic poetry and story headings remain unspecified selections; no inferred merit positions or invented programme dates."
+      },
+      "evidence_notes": "Named works from the full public contents index plus dated annual archive. Repeated lectures collapse to one work. Generic poetry and story headings remain unspecified selections; no inferred merit positions or invented programme dates.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Named-list membership evidence only; no independent quality assessment or paid lecture content review."
+    }
+  ],
+  "saved_at": "2026-09-13"
+}

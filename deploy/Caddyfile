@@ -1,0 +1,21 @@
+{$DOMAIN} {
+    handle_path /media/* {
+        root * /srv/media
+        header X-Content-Type-Options nosniff
+        file_server
+    }
+    handle {
+        reverse_proxy app:8000 {
+            header_up X-Real-IP {remote_host}
+        }
+    }
+    log {
+        format filter {
+            wrap json
+            fields {
+                request>uri delete
+                request>headers>Referer delete
+            }
+        }
+    }
+}

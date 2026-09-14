@@ -1,0 +1,542 @@
+{
+  "target_id": "philosophers-all-time",
+  "version": "2026-09-12-two-lenses-v1",
+  "status": "partial_editorial_proposal_not_published",
+  "methodology": "../DRAFT_METHOD.md",
+  "owner_direction": "Show both orderings to expose the tradeoffs",
+  "intended_final_length": "100–200",
+  "pilot_candidate_count": 25,
+  "eligible_sources_in_target": 93,
+  "comparison_universe": "the same selected 25 candidates in each lens; not an exhaustive global comparison",
+  "coverage_gaps": "This is a reading-engagement ordering of people, not an average of book positions. Socrates needs treatment through mediated texts; Laozi and Zera Yacob need attribution-sensitive handling. Expand Ibn Rushd, al-Farabi, Ramanuja, Tsongkhapa, Dharmakirti, Nishida, Tanabe, Dussel, Oluwole, Oruka, Ramose, Astell, Conway, Sor Juana, Du Bois, and the many European challengers. Absence from the 25-person pilot is not exclusion from the intended 100–200.",
+  "tradeoffs": [
+    "Kant moves from 3 to 25, while Hume moves from 5 to 1: approachable entry works change reading priority, not the historical claim.",
+    "Ambedkar moves from 22 to 7, and Beauvoir from 13 to 4: contemporary questions receive more emphasis.",
+    "Avicenna moves from 6 to 20: broad historical reception and a suitable first reading encounter are different judgments."
+  ],
+  "candidates": [
+    {
+      "candidate_id": "plato",
+      "name": "Plato",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 1,
+      "reading_position_draft": 2,
+      "reading_movement_up": -1,
+      "source_ids": [
+        "S17",
+        "R028",
+        "R041"
+      ],
+      "standing_argument_proposed": "Scholarly, expert and poll evidence converge.",
+      "reading_argument_proposed": "Dialogical inquiry sustains high reading priority.",
+      "uncertainty": "Socrates’ voice is not interchangeable with Plato’s positions.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "aristotle",
+      "name": "Aristotle",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 2,
+      "reading_position_draft": 11,
+      "reading_movement_up": -9,
+      "source_ids": [
+        "R002",
+        "R041"
+      ],
+      "standing_argument_proposed": "Breadth across disciplines supports leading historical consideration.",
+      "reading_argument_proposed": "Ethics offers a promising entry into a much larger corpus.",
+      "uncertainty": "Influence does not certify current scientific correctness.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "kant",
+      "name": "Immanuel Kant",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 3,
+      "reading_position_draft": 25,
+      "reading_movement_up": -22,
+      "source_ids": [
+        "S23",
+        "R041",
+        "R029"
+      ],
+      "standing_argument_proposed": "Several reception routes support a leading position.",
+      "reading_argument_proposed": "Technical prerequisites move him down the reading order.",
+      "uncertainty": "Exact position against non-European traditions is unresolved.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "confucius",
+      "name": "Confucius",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 4,
+      "reading_position_draft": 3,
+      "reading_movement_up": 1,
+      "source_ids": [
+        "S20"
+      ],
+      "standing_argument_proposed": "Long reception supports a high historical case.",
+      "reading_argument_proposed": "Reflective exchanges support an early reading encounter.",
+      "uncertainty": "Received text and historical person need separation.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "hume",
+      "name": "David Hume",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 5,
+      "reading_position_draft": 1,
+      "reading_movement_up": 4,
+      "source_ids": [
+        "R020",
+        "R028",
+        "R029"
+      ],
+      "standing_argument_proposed": "Scholarly and comparative selections support high standing.",
+      "reading_argument_proposed": "The concise Enquiries motivate the first reading position.",
+      "uncertainty": "Contemporary historical fame differs from later philosophical fame.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "avicenna",
+      "name": "Avicenna / Ibn Sīnā",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 6,
+      "reading_position_draft": 20,
+      "reading_movement_up": -14,
+      "source_ids": [
+        "R011",
+        "R027"
+      ],
+      "standing_argument_proposed": "Cross-disciplinary and interreligious reception supports a high place.",
+      "reading_argument_proposed": "Large technical corpus lowers initial reading priority.",
+      "uncertainty": "Medicine and philosophy contribute different kinds of influence.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "nagarjuna",
+      "name": "Nāgārjuna",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 7,
+      "reading_position_draft": 19,
+      "reading_movement_up": -12,
+      "source_ids": [
+        "R009"
+      ],
+      "standing_argument_proposed": "Buddhist reception across Asia supports high historical consideration.",
+      "reading_argument_proposed": "Technical argument calls for more preparation.",
+      "uncertainty": "Work attributions are not uniformly secure.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "aquinas",
+      "name": "Thomas Aquinas",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 8,
+      "reading_position_draft": 23,
+      "reading_movement_up": -15,
+      "source_ids": [
+        "R022",
+        "R084"
+      ],
+      "standing_argument_proposed": "Scholastic reception supports upper-group consideration.",
+      "reading_argument_proposed": "Systematic and theological context lowers initial reading priority.",
+      "uncertainty": "A comparative worldwide rank needs more than reference coverage.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "wittgenstein",
+      "name": "Ludwig Wittgenstein",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 9,
+      "reading_position_draft": 18,
+      "reading_movement_up": -9,
+      "source_ids": [
+        "R019",
+        "S19"
+      ],
+      "standing_argument_proposed": "Language and method provide a strong historical case.",
+      "reading_argument_proposed": "Demanding engagement lowers his general entry priority.",
+      "uncertainty": "Do not flatten contested phases into two simple doctrines.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "shankara",
+      "name": "Śaṅkara",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 10,
+      "reading_position_draft": 21,
+      "reading_movement_up": -11,
+      "source_ids": [
+        "R010",
+        "R082",
+        "S49"
+      ],
+      "standing_argument_proposed": "Vedānta reception supports an upper historical group.",
+      "reading_argument_proposed": "Commentarial prerequisites make priority reader-dependent.",
+      "uncertainty": "Religious authority and philosophical argument need separate evaluation.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "spinozap",
+      "name": "Baruch Spinoza",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 11,
+      "reading_position_draft": 14,
+      "reading_movement_up": -3,
+      "source_ids": [
+        "R021",
+        "R044",
+        "R086"
+      ],
+      "standing_argument_proposed": "Critical, editorial and reader evidence support inclusion.",
+      "reading_argument_proposed": "Passions and freedom motivate sustained reading despite formal demands.",
+      "uncertainty": "Reader enthusiasm is self-selected.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "nietzsche",
+      "name": "Friedrich Nietzsche",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 12,
+      "reading_position_draft": 5,
+      "reading_movement_up": 7,
+      "source_ids": [
+        "R023",
+        "R041"
+      ],
+      "standing_argument_proposed": "Psychological and value critique supports high standing.",
+      "reading_argument_proposed": "Provocative inquiry moves him toward the front.",
+      "uncertainty": "Authored works must be separated from notebook compilations.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "beauvoir",
+      "name": "Simone de Beauvoir",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 13,
+      "reading_position_draft": 4,
+      "reading_movement_up": 9,
+      "source_ids": [
+        "R017"
+      ],
+      "standing_argument_proposed": "Independent contribution merits more than derivative status.",
+      "reading_argument_proposed": "Existential and feminist inquiry motivates an early encounter.",
+      "uncertainty": "Do not reduce the corpus to one book.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "ghazali",
+      "name": "al-Ghazālī",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 14,
+      "reading_position_draft": 22,
+      "reading_movement_up": -8,
+      "source_ids": [
+        "R115"
+      ],
+      "standing_argument_proposed": "Philosophical criticism and later reception support inclusion.",
+      "reading_argument_proposed": "Historical and theological preparation lowers first-encounter priority.",
+      "uncertainty": "Reject unsupported philosophy-decline shorthand.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "mencius",
+      "name": "Mencius",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 15,
+      "reading_position_draft": 10,
+      "reading_movement_up": 5,
+      "source_ids": [
+        "R013",
+        "R028"
+      ],
+      "standing_argument_proposed": "Comparative ethics supports substantial historical consideration.",
+      "reading_argument_proposed": "Cultivation and ethical reflection raise reading priority.",
+      "uncertainty": "Text compilation is distinct from personal authorship.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "arendt",
+      "name": "Hannah Arendt",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 16,
+      "reading_position_draft": 8,
+      "reading_movement_up": 8,
+      "source_ids": [
+        "R018"
+      ],
+      "standing_argument_proposed": "Public and scholarly reception supports inclusion.",
+      "reading_argument_proposed": "Political judgment motivates a high reading position.",
+      "uncertainty": "Different books and controversies require separate treatment.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "rawls",
+      "name": "John Rawls",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 17,
+      "reading_position_draft": 17,
+      "reading_movement_up": 0,
+      "source_ids": [
+        "R043",
+        "R083",
+        "R075"
+      ],
+      "standing_argument_proposed": "Institutional and international reception support inclusion.",
+      "reading_argument_proposed": "Systematic scope lowers his proposed initial reading position.",
+      "uncertainty": "National reception produces conflicting political interpretations.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "fanon",
+      "name": "Frantz Fanon",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 18,
+      "reading_position_draft": 9,
+      "reading_movement_up": 9,
+      "source_ids": [
+        "R024",
+        "R045"
+      ],
+      "standing_argument_proposed": "Africana and postcolonial reception sustain the historical case.",
+      "reading_argument_proposed": "Alienation and liberation make reading questions immediate.",
+      "uncertainty": "Further independent debate over violence remains needed.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "xunzip",
+      "name": "Xunzi",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 19,
+      "reading_position_draft": 16,
+      "reading_movement_up": 3,
+      "source_ids": [
+        "R014"
+      ],
+      "standing_argument_proposed": "Renewed recognition challenges inherited dismissals.",
+      "reading_argument_proposed": "Comparative work beside Mencius offers high reading value.",
+      "uncertainty": "Reference concentration makes position especially tentative.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "mozi",
+      "name": "Mozi / Mohist school",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 20,
+      "reading_position_draft": 15,
+      "reading_movement_up": 5,
+      "source_ids": [
+        "R046",
+        "R153"
+      ],
+      "standing_argument_proposed": "Curriculum and critical study support a place in the comparison.",
+      "reading_argument_proposed": "Consequentialist argument broadens the early reading choices.",
+      "uncertainty": "Distinguish the historical figure from a collective textual tradition.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "mill",
+      "name": "John Stuart Mill",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 21,
+      "reading_position_draft": 6,
+      "reading_movement_up": 15,
+      "source_ids": [
+        "R157",
+        "S19"
+      ],
+      "standing_argument_proposed": "Canonical argument supports historical inclusion.",
+      "reading_argument_proposed": "Concise work on liberty raises first-encounter priority.",
+      "uncertainty": "Colonial exclusions complicate a universalist reading.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "ambedkar",
+      "name": "B. R. Ambedkar",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 22,
+      "reading_position_draft": 7,
+      "reading_movement_up": 15,
+      "source_ids": [
+        "R073",
+        "R074"
+      ],
+      "standing_argument_proposed": "Indian political reception supports a substantial case.",
+      "reading_argument_proposed": "Clarity and anti-caste inquiry motivate a large rise.",
+      "uncertainty": "A book-level comparison does not measure the whole philosopher.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "wiredu",
+      "name": "Kwasi Wiredu",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 23,
+      "reading_position_draft": 13,
+      "reading_movement_up": 10,
+      "source_ids": [
+        "R072",
+        "R080"
+      ],
+      "standing_argument_proposed": "African philosophical and intercultural discussion support inclusion.",
+      "reading_argument_proposed": "Conceptual comparison justifies increased reading priority.",
+      "uncertainty": "Corpus-level independent criticism remains thin.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "wollstonecraft",
+      "name": "Mary Wollstonecraft",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 24,
+      "reading_position_draft": 12,
+      "reading_movement_up": 12,
+      "source_ids": [
+        "S40"
+      ],
+      "standing_argument_proposed": "Feminist philosophical reception supports consideration.",
+      "reading_argument_proposed": "Rights and education sustain an early reading case.",
+      "uncertainty": "More work-specific and comparative evidence needed.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    },
+    {
+      "candidate_id": "sadra",
+      "name": "Mullā Ṣadrā",
+      "creator": null,
+      "item_type": "person",
+      "standing_position_draft": 25,
+      "reading_position_draft": 24,
+      "reading_movement_up": 1,
+      "source_ids": [
+        "R110"
+      ],
+      "standing_argument_proposed": "Later Islamic philosophy challenges a truncated historical canon.",
+      "reading_argument_proposed": "Technical metaphysics lowers general first-encounter priority.",
+      "uncertainty": "English availability must be verified for a particular entry work.",
+      "confidence_in_exact_positions": "low; editorial hypothesis, not measured consensus",
+      "final_criteria": null,
+      "final_assessments": null,
+      "final_score": null,
+      "english_edition_status": "not_applicable_to_person"
+    }
+  ]
+}

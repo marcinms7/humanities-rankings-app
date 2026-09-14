@@ -1,0 +1,79 @@
+{
+  "target_id": "time-100-mystery-thriller-books-2023",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-14",
+  "sources": [
+    {
+      "source_id": "PUBLISHED-LIST-01",
+      "underlying_source_id": "published-list:https://time.com/collections/best-mystery-thriller-books/",
+      "title": "TIME · 100 Best Mystery and Thriller Books (2023) — official publication",
+      "canonical_url": "https://time.com/collections/best-mystery-thriller-books/",
+      "source_family": "media_editorial_selection",
+      "publisher": "TIME",
+      "target_ids": [
+        "time-100-mystery-thriller-books-2023"
+      ],
+      "relevance_by_target": {
+        "time-100-mystery-thriller-books-2023": "The complete 100-title selection chosen by a seven-author panel and TIME editors; the publication presents the books chronologically, not as merit positions."
+      },
+      "evidence_notes": "The complete 100-title selection chosen by a seven-author panel and TIME editors; the publication presents the books chronologically, not as merit positions.",
+      "accessed_at": "2026-09-14",
+      "eligible": true,
+      "limitations": "TIME's editorial selection is limited to novels matching its broad mystery/thriller definition. Its chronology must not be represented as a quality rank."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-02",
+      "underlying_source_id": "published-list:https://time.com/6316204/how-we-chose-100-best-mystery-thriller-books/",
+      "title": "TIME — How We Chose the 100 Best Mystery and Thriller Books",
+      "canonical_url": "https://time.com/6316204/how-we-chose-100-best-mystery-thriller-books/",
+      "source_family": "methodology",
+      "publisher": "TIME",
+      "target_ids": [
+        "time-100-mystery-thriller-books-2023"
+      ],
+      "relevance_by_target": {
+        "time-100-mystery-thriller-books-2023": "Official panel, nomination, rating, eligibility and editorial methodology."
+      },
+      "evidence_notes": "Official panel, nomination, rating, eligibility and editorial methodology.",
+      "accessed_at": "2026-09-14",
+      "eligible": true,
+      "limitations": "Methodology page supports selection process, not additional independent votes."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-03",
+      "underlying_source_id": "transcription:https://topshelfbooks.org/list.php?id=83",
+      "title": "TopShelf Books — complete TIME mystery/thriller membership transcription",
+      "canonical_url": "https://topshelfbooks.org/list.php?id=83",
+      "source_family": "list_transcription",
+      "publisher": "TopShelf Books",
+      "target_ids": [
+        "time-100-mystery-thriller-books-2023"
+      ],
+      "relevance_by_target": {
+        "time-100-mystery-thriller-books-2023": "Complete two-page membership transcription, reconciled against TIME's visible chronological entries."
+      },
+      "evidence_notes": "Complete two-page membership transcription, reconciled against TIME's visible chronological entries.",
+      "accessed_at": "2026-09-14",
+      "eligible": true,
+      "limitations": "Secondary mirror of the same list, not independent evidence. Two incorrect work-title substitutions were repaired from TIME's official page; alternate titles were normalized."
+    },
+    {
+      "source_id": "PUBLISHED-LIST-04",
+      "underlying_source_id": "index:https://www.ebsco.com/articles/literature-and-writing/d9736e06-40bc-591f-a975-d5bee72a6979/the-100-best-mystery-amp-thriller-books-of-all-time/",
+      "title": "EBSCO — indexed TIME magazine print feature",
+      "canonical_url": "https://www.ebsco.com/articles/literature-and-writing/d9736e06-40bc-591f-a975-d5bee72a6979/the-100-best-mystery-amp-thriller-books-of-all-time/",
+      "source_family": "periodical_index",
+      "publisher": "EBSCO / TIME Magazine",
+      "target_ids": [
+        "time-100-mystery-thriller-books-2023"
+      ],
+      "relevance_by_target": {
+        "time-100-mystery-thriller-books-2023": "Print-feature index used to confirm chronological presentation and the early sequence."
+      },
+      "evidence_notes": "Print-feature index used to confirm chronological presentation and the early sequence.",
+      "accessed_at": "2026-09-14",
+      "eligible": true,
+      "limitations": "Public abstract exposes only the beginning of the print table; it is corroboration, not a complete row source."
+    }
+  ]
+}

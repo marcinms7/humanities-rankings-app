@@ -1,0 +1,41 @@
+{
+  "target_id": "great-books-western-world",
+  "status": "named_external_list_import",
+  "sources": [
+    {
+      "source_id": "COLLECTION-REPAIR-01",
+      "underlying_source_id": "collection-repair:https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World",
+      "title": "Great Books of the Western World · 1990 edition — source contents",
+      "canonical_url": "https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World",
+      "source_family": "published_collection",
+      "target_ids": [
+        "great-books-western-world"
+      ],
+      "relevance_by_target": {
+        "great-books-western-world": "1990 second edition, all 60 volumes. Wikipedia nested work contents reconciled with https://www.bopsecrets.org/gateway/book-lists/greatbooks.htm. Removed first-edition-only works; retained volume membership and excerpt limitations. Repeated works spanning volumes share one entry with both notes. Volume order is not merit order."
+      },
+      "evidence_notes": "1990 second edition, all 60 volumes. Wikipedia nested work contents reconciled with https://www.bopsecrets.org/gateway/book-lists/greatbooks.htm. Removed first-edition-only works; retained volume membership and excerpt limitations. Repeated works spanning volumes share one entry with both notes. Volume order is not merit order.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Named-list membership evidence only; no independent quality assessment or paid lecture content review."
+    },
+    {
+      "source_id": "COLLECTION-REPAIR-02",
+      "underlying_source_id": "collection-repair:https://www.bopsecrets.org/gateway/book-lists/greatbooks.htm",
+      "title": "Great Books — complete 1990 volume table",
+      "canonical_url": "https://www.bopsecrets.org/gateway/book-lists/greatbooks.htm",
+      "source_family": "published_collection",
+      "target_ids": [
+        "great-books-western-world"
+      ],
+      "relevance_by_target": {
+        "great-books-western-world": "Cross-check of all 60 volume assignments, the four deleted first-edition works, and excerpt scope including Swann in Love."
+      },
+      "evidence_notes": "Cross-check of all 60 volume assignments, the four deleted first-edition works, and excerpt scope including Swann in Love.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Named-list membership evidence only; no independent quality assessment or paid lecture content review."
+    }
+  ],
+  "saved_at": "2026-09-13"
+}

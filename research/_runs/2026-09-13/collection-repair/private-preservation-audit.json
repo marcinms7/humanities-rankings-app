@@ -1,0 +1,26 @@
+{
+  "core_user": {
+    "before_count": 1,
+    "after_count": 1,
+    "same_on_original_columns": true,
+    "all_original_ids_retained": true
+  },
+  "core_libraryitem": {
+    "before_count": 1,
+    "after_count": 1,
+    "same_on_original_columns": true,
+    "all_original_ids_retained": true
+  },
+  "core_readingattempt": {
+    "before_count": 0,
+    "after_count": 0,
+    "same_on_original_columns": true,
+    "all_original_ids_retained": true
+  },
+  "core_rankingpreference": {
+    "before_count": 1,
+    "after_count": 1,
+    "same_on_original_columns": true,
+    "all_original_ids_retained": true
+  }
+}

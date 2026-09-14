@@ -1,0 +1,863 @@
+{
+  "target_id": "literature-all-time",
+  "eligible_records": 85,
+  "distinct_underlying_sources": 85,
+  "by_family": {
+    "independent_blog": 7,
+    "editorial_selection": 6,
+    "professional_criticism": 6,
+    "professional_review": 6,
+    "scholarly_critical_essay": 4,
+    "reader_discussion": 4,
+    "university_reading_list": 3,
+    "critical_review": 3,
+    "critical_essay": 3,
+    "reader_reviews": 3,
+    "interview": 3,
+    "scholarly_study": 3,
+    "independent_ranking": 2,
+    "reader_poll": 2,
+    "scholarly_article": 2,
+    "scholarly_chapter": 2,
+    "institutional_ranking": 1,
+    "expert_interview": 1,
+    "reported_literary_feature": 1,
+    "annotated_external_selection": 1,
+    "critical_reading_guide": 1,
+    "primary_excerpt_and_translation_commentary": 1,
+    "publisher_reader_selection": 1,
+    "publisher_selection": 1,
+    "prize_selection": 1,
+    "institutional_critical_feature": 1,
+    "archival_critical_review": 1,
+    "scholarly_review": 1,
+    "translator_interview": 1,
+    "standalone_reader_review": 1,
+    "institutional_reading_guide": 1,
+    "reader_testimony": 1,
+    "historical_critical_essay": 1,
+    "canon_critique": 1,
+    "curated_recommendations": 1,
+    "scholarly_essay": 1,
+    "reader_community": 1,
+    "specialist_critical_essay": 1,
+    "bookseller_critical_blog": 1,
+    "reader_review": 1,
+    "reception_history": 1,
+    "reader_ranking": 1
+  },
+  "by_domain": {
+    "doppiozero.com": 6,
+    "reddit.com": 5,
+    "deutschlandfunk.de": 4,
+    "culture.pl": 3,
+    "africasacountry.com": 3,
+    "lemonde.fr": 2,
+    "fivebooks.com": 2,
+    "aljazeera.net": 2,
+    "scroll.in": 2,
+    "arablit.org": 2,
+    "allreviews.jp": 2,
+    "revistacult.uol.com.br": 2,
+    "insideindonesia.org": 2,
+    "arxiv.org": 2,
+    "elpais.com": 1,
+    "gecc.fudan.edu.cn": 1,
+    "lib.pku.edu.cn": 1,
+    "revistabula.com": 1,
+    "oclc.org": 1,
+    "sites.prh.com": 1,
+    "directedstudies.yale.edu": 1,
+    "bookertalk.com": 1,
+    "tonysreadinglist.wordpress.com": 1,
+    "publicbooks.org": 1,
+    "librarything.com": 1,
+    "wordswithoutborders.org": 1,
+    "themodernnovel.org": 1,
+    "asymptotejournal.com": 1,
+    "aeon.co": 1,
+    "penguin.co.uk": 1,
+    "reedsy.com": 1,
+    "panmacmillan.com": 1,
+    "lithub.com": 1,
+    "brittlepaper.com": 1,
+    "thebookerprizes.com": 1,
+    "worldliteraturetoday.org": 1,
+    "ayearofreadingtheworld.com": 1,
+    "lecturalia.com": 1,
+    "lubimyczytac.pl": 1,
+    "senscritique.com": 1,
+    "book.douban.com": 1,
+    "downloads.hebban.nl": 1,
+    "lareviewofbooks.org": 1,
+    "en-attendant-nadeau.fr": 1,
+    "czasopisma.uksw.edu.pl": 1,
+    "newtonrocha.wordpress.com": 1,
+    "sites.google.com": 1,
+    "listasliterarias.com": 1,
+    "cervantesvirtual.com": 1,
+    "cvc.cervantes.es": 1,
+    "nanam.net": 1,
+    "klsa.jams.or.kr": 1,
+    "abjjad.com": 1,
+    "alantologia.com": 1,
+    "taaghche.com": 1,
+    "buklya.com": 1,
+    "letraslibres.com": 1,
+    "litlab.stanford.edu": 1,
+    "cambridge.org": 1,
+    "files.blogs.baruch.cuny.edu": 1
+  },
+  "by_language": {
+    "en": 42,
+    "pt": 6,
+    "it": 6,
+    "es": 5,
+    "fr": 4,
+    "de": 4,
+    "ar": 4,
+    "pl": 4,
+    "zh": 3,
+    "ja": 2,
+    "ko": 2,
+    "nl": 1,
+    "fa": 1,
+    "ru": 1
+  },
+  "by_access": {
+    "relevant_excerpt": 83,
+    "abstract_only": 1,
+    "summary_only": 1
+  },
+  "by_recorded_publisher_group_with_known_normalizations": {
+    "doppiozero.com": 6,
+    "Deutschlandfunk": 4,
+    "Africa Is a Country": 3,
+    "Le Monde": 2,
+    "Penguin Random House": 2,
+    "Five Books": 2,
+    "ArabLit": 2,
+    "Reddit": 2,
+    "Culture.pl / Adam Mickiewicz Institute": 2,
+    "ALL REVIEWS": 2,
+    "Revista Cult": 2,
+    "Inside Indonesia": 2,
+    "El País": 1,
+    "Fudan University": 1,
+    "Peking University Library": 1,
+    "Revista Bula": 1,
+    "OCLC": 1,
+    "Yale University": 1,
+    "BookerTalk": 1,
+    "Tony's Reading List": 1,
+    "Public Books": 1,
+    "LibraryThing": 1,
+    "Al Jazeera": 1,
+    "Scroll": 1,
+    "Words Without Borders": 1,
+    "The Modern Novel": 1,
+    "Asymptote": 1,
+    "Aeon": 1,
+    "Reedsy": 1,
+    "Pan Macmillan": 1,
+    "Literary Hub": 1,
+    "Brittle Paper": 1,
+    "Booker Prize Foundation": 1,
+    "World Literature Today": 1,
+    "A year of reading the world": 1,
+    "Lecturalia": 1,
+    "Lubimyczytać": 1,
+    "SensCritique": 1,
+    "Douban": 1,
+    "Stichting CPNB / Nederland Leest": 1,
+    "Los Angeles Review of Books": 1,
+    "Scroll.in": 1,
+    "En attendant Nadeau": 1,
+    "Culture.pl": 1,
+    "Załącznik Kulturoznawczy": 1,
+    "Newton Nitro": 1,
+    "Ivo Korytowski": 1,
+    "Listas Literárias / Douglas Eralldo": 1,
+    "Biblioteca Virtual Miguel de Cervantes": 1,
+    "Centro Virtual Cervantes": 1,
+    "Hankyoreh, reprinted by Nanam": 1,
+    "Korean Law & Society Association": 1,
+    "Al Jazeera / Sherif Murad": 1,
+    "Abjjad": 1,
+    "Alantologia / Ziad al-Awf": 1,
+    "Taaghche": 1,
+    "Buklya / Yulia Shepel": 1,
+    "Letras Libres": 1,
+    "Stanford Literary Lab": 1,
+    "Reddit r/classicliterature": 1,
+    "Reddit r/classicliterature / Lipe18090": 1,
+    "Cambridge University Press / Jan Gorak": 1,
+    "Italo Calvino / NYRB, CUNY-hosted translation": 1,
+    "Reddit r/literature": 1,
+    "Allen Riddell and collaborators / arXiv": 1,
+    "Nishtha Madaan and collaborators / arXiv": 1
+  },
+  "publisher_group_warning": "Not an audited count of independent owners. Some source metadata embeds author names in publisher labels. Domain counts provide a more conservative concentration view; hosting country is not author origin.",
+  "claims_as_recorded_not_resolved_catalog_entities": {
+    "A Brief History of Chinese Fiction": [
+      "R053"
+    ],
+    "A Grain of Wheat": [
+      "R123"
+    ],
+    "A Spell of Longing": [
+      "S42"
+    ],
+    "A Trail of Crab Tracks": [
+      "S32"
+    ],
+    "A True Novel": [
+      "S37"
+    ],
+    "A Visit from the Goon Squad": [
+      "S30"
+    ],
+    "Adventures of Huckleberry Finn": [
+      "S04"
+    ],
+    "Against Decolonization": [
+      "S32"
+    ],
+    "Against World Literature": [
+      "S44"
+    ],
+    "Alice's Adventures in Wonderland": [
+      "S04"
+    ],
+    "Alonso e i visionari": [
+      "R124"
+    ],
+    "American Indian Stories": [
+      "S16"
+    ],
+    "An African Abroad": [
+      "S32"
+    ],
+    "An Unusual Grief": [
+      "S32"
+    ],
+    "Angela Borghesi": [
+      "R100"
+    ],
+    "Aracoeli": [
+      "R099"
+    ],
+    "Arturo's Island": [
+      "R099"
+    ],
+    "As I Lay Dying": [
+      "S45"
+    ],
+    "Austerlitz": [
+      "S09"
+    ],
+    "Balzac": [
+      "S31"
+    ],
+    "Beirut Nightmares": [
+      "R069"
+    ],
+    "Benedito Nunes": [
+      "R101"
+    ],
+    "Big Dick (Wojciech Bruszewski)": [
+      "R096"
+    ],
+    "Black Midas": [
+      "R117"
+    ],
+    "Blue Lorries": [
+      "R070"
+    ],
+    "Booker descriptions": [
+      "S50"
+    ],
+    "Border Town": [
+      "R052"
+    ],
+    "Breakfast at Tiffany's": [
+      "S16"
+    ],
+    "Buru Quartet": [
+      "R118",
+      "R119"
+    ],
+    "Cairo Trilogy": [
+      "R069",
+      "R162"
+    ],
+    "Canon formation": [
+      "S15"
+    ],
+    "Child of All Nations": [
+      "R118"
+    ],
+    "Claves narrativas de Juan Rulfo": [
+      "R165"
+    ],
+    "Complete Stories (Clarice Lispector)": [
+      "R067"
+    ],
+    "Convenience Store Woman": [
+      "S26"
+    ],
+    "Corpo de baile": [
+      "R101"
+    ],
+    "Corpus and reprint bias": [
+      "S48"
+    ],
+    "Cosmos": [
+      "R131"
+    ],
+    "Cécé": [
+      "S43"
+    ],
+    "Darkness at Noon": [
+      "R050"
+    ],
+    "Death in Venice": [
+      "S21"
+    ],
+    "Dickens": [
+      "S31"
+    ],
+    "Distant Reading": [
+      "S44"
+    ],
+    "Don Quixote": [
+      "R049",
+      "S04",
+      "R133"
+    ],
+    "Doña Berta": [
+      "R138"
+    ],
+    "Dream of the Red Chamber": [
+      "R107"
+    ],
+    "Either/Or": [
+      "R086"
+    ],
+    "El llano en llamas": [
+      "R165"
+    ],
+    "English-language 2010s selection limits": [
+      "S30"
+    ],
+    "Eros e Priapo": [
+      "R128"
+    ],
+    "Ethics": [
+      "R086"
+    ],
+    "Eurocentric periodization": [
+      "S44"
+    ],
+    "Exophony": [
+      "S43"
+    ],
+    "Field of Life and Death": [
+      "R052"
+    ],
+    "Footsteps": [
+      "R118"
+    ],
+    "Fratelli d’Italia": [
+      "R127"
+    ],
+    "Gaddabolario": [
+      "R128"
+    ],
+    "Gargantua and Pantagruel": [
+      "R133"
+    ],
+    "Gender representation": [
+      "S50"
+    ],
+    "Germinal": [
+      "S35"
+    ],
+    "God's Bits of Wood": [
+      "R068"
+    ],
+    "Godaan": [
+      "R066"
+    ],
+    "God’s Bits of Wood": [
+      "R121",
+      "R122",
+      "R123"
+    ],
+    "Gold: The Race for the World’s Most Seductive Metal": [
+      "R117"
+    ],
+    "Granada trilogy": [
+      "R065"
+    ],
+    "Grande sertão: veredas": [
+      "R101",
+      "R102",
+      "R135",
+      "R136",
+      "R137"
+    ],
+    "Hadji Murat": [
+      "S07"
+    ],
+    "Harry Potter": [
+      "R051"
+    ],
+    "Hayy ibn Yaqzan": [
+      "R078"
+    ],
+    "Heart of Darkness": [
+      "S13"
+    ],
+    "Heavier than Radwa": [
+      "R070"
+    ],
+    "History (Elsa Morante)": [
+      "R099",
+      "R100"
+    ],
+    "I promessi sposi": [
+      "R125"
+    ],
+    "Ibn Tufayl": [
+      "R078"
+    ],
+    "Il cardillo addolorato": [
+      "R124"
+    ],
+    "Il porto di Toledo": [
+      "R124"
+    ],
+    "Ilhéu de Contenda": [
+      "R068"
+    ],
+    "In Search of Lost Time": [
+      "R049",
+      "R103"
+    ],
+    "In Search of Walid Masoud": [
+      "R069"
+    ],
+    "In a Free State": [
+      "S38"
+    ],
+    "Invisible Cities": [
+      "R086"
+    ],
+    "James Baldwin": [
+      "R055"
+    ],
+    "Jane Eyre": [
+      "S35"
+    ],
+    "Jhootha Sach": [
+      "R066"
+    ],
+    "Joseph and His Brothers": [
+      "R134"
+    ],
+    "Journey to the West": [
+      "S29"
+    ],
+    "Jude the Obscure": [
+      "R132"
+    ],
+    "Kafka on the Shore": [
+      "S09"
+    ],
+    "Karmelin": [
+      "R066"
+    ],
+    "Kenzaburō Ōe": [
+      "R098",
+      "R105"
+    ],
+    "Kitab Kawin (The Book of Mating)": [
+      "R071"
+    ],
+    "Kokoro": [
+      "S26"
+    ],
+    "Kurtyzana i pisklęta": [
+      "R096"
+    ],
+    "Kusamakura": [
+      "R130"
+    ],
+    "L'anno della Storia": [
+      "R100"
+    ],
+    "La Regenta": [
+      "R139"
+    ],
+    "La recepción inicial de Pedro Páramo": [
+      "R165"
+    ],
+    "Lana Abdelrahman": [
+      "S42"
+    ],
+    "Le continent du Tout et du presque Rien": [
+      "R126"
+    ],
+    "Leopoldo Alas": [
+      "R139"
+    ],
+    "Les Misérables": [
+      "S10"
+    ],
+    "Let Us Now Praise Famous Men": [
+      "R050"
+    ],
+    "Lies and Sorcery": [
+      "R099"
+    ],
+    "Life A User's Manual": [
+      "R050"
+    ],
+    "Lincoln in the Bardo": [
+      "S38"
+    ],
+    "Linda Christanty": [
+      "R119"
+    ],
+    "Little Women": [
+      "S21"
+    ],
+    "Lost Illusions": [
+      "R055"
+    ],
+    "Love in a Fallen City": [
+      "R052"
+    ],
+    "L’Adalgisa": [
+      "R128"
+    ],
+    "L’Iguana": [
+      "R124"
+    ],
+    "Madame Bovary": [
+      "S07"
+    ],
+    "Mahasweta Devi": [
+      "R120"
+    ],
+    "Masks": [
+      "S26"
+    ],
+    "Meditations": [
+      "S13"
+    ],
+    "Middlemarch": [
+      "R055",
+      "S35"
+    ],
+    "Monkey Cup": [
+      "R105"
+    ],
+    "Moon Tiger": [
+      "S38"
+    ],
+    "Narrative of the Life of Frederick Douglass": [
+      "S21"
+    ],
+    "Nausea": [
+      "S13"
+    ],
+    "Nedjma": [
+      "R068"
+    ],
+    "Needle's Eye": [
+      "S43"
+    ],
+    "Never Let Me Go": [
+      "S09"
+    ],
+    "O dorso do tigre": [
+      "R101"
+    ],
+    "Olúfemi Táíwò": [
+      "S32"
+    ],
+    "On Literary Worlds": [
+      "S44"
+    ],
+    "Orlando": [
+      "S21"
+    ],
+    "Our City That Year": [
+      "S43"
+    ],
+    "Ousmane Sembène": [
+      "R121",
+      "R122"
+    ],
+    "Palace Walk": [
+      "R162"
+    ],
+    "Palace of Desire": [
+      "R162"
+    ],
+    "Palace of the Peacock": [
+      "R117"
+    ],
+    "Pale Fire": [
+      "S45"
+    ],
+    "Pedro Páramo": [
+      "R049",
+      "R054",
+      "R165"
+    ],
+    "Persuasion": [
+      "S14"
+    ],
+    "Petersburg": [
+      "S37"
+    ],
+    "Piranesi": [
+      "S09"
+    ],
+    "Please Look After Mother": [
+      "S37"
+    ],
+    "Politics": [
+      "S13"
+    ],
+    "Pornografia": [
+      "R129"
+    ],
+    "Pride and Prejudice": [
+      "S35"
+    ],
+    "Quer pasticciaccio brutto de via Merulana": [
+      "R128"
+    ],
+    "Raag Darbari": [
+      "R066"
+    ],
+    "Reader/critic disagreement": [
+      "R051"
+    ],
+    "Red Sorghum": [
+      "R053"
+    ],
+    "Rickshaw Boy": [
+      "R052"
+    ],
+    "Rougon-Macquart": [
+      "S31"
+    ],
+    "Sad Tiger": [
+      "S43"
+    ],
+    "Said Benabdelouahed": [
+      "R102"
+    ],
+    "Sailor": [
+      "R096"
+    ],
+    "Samba Gadjigo": [
+      "R122"
+    ],
+    "Sanatorium Under the Sign of the Hourglass": [
+      "R129"
+    ],
+    "Season of Migration to the North": [
+      "R065",
+      "R160",
+      "R161"
+    ],
+    "Selection bias": [
+      "S08"
+    ],
+    "Simone Weil": [
+      "R086"
+    ],
+    "Sleepwalking Land": [
+      "R068"
+    ],
+    "Solaris": [
+      "R129"
+    ],
+    "Song of Solomon": [
+      "S45"
+    ],
+    "Su único hijo": [
+      "R138"
+    ],
+    "Sugar Street": [
+      "R162"
+    ],
+    "Swann's Way": [
+      "S07"
+    ],
+    "Tales of Hulan River": [
+      "R053"
+    ],
+    "Tamas": [
+      "R066"
+    ],
+    "Tattoo": [
+      "R069"
+    ],
+    "The Bell Jar": [
+      "S16"
+    ],
+    "The Blind Owl": [
+      "R163"
+    ],
+    "The Bloody Chamber": [
+      "S16"
+    ],
+    "The Classic Chinese Novel": [
+      "R053"
+    ],
+    "The Darkroom of Damocles": [
+      "R108"
+    ],
+    "The Doll (Bolesław Prus)": [
+      "R104"
+    ],
+    "The English Patient": [
+      "S38"
+    ],
+    "The First Step in the Clouds": [
+      "R129"
+    ],
+    "The Great Gatsby": [
+      "S02"
+    ],
+    "The Harafish": [
+      "R065"
+    ],
+    "The Last Harmattan of Alusine Dunbar": [
+      "R068"
+    ],
+    "The Magic Mountain": [
+      "R106",
+      "S45"
+    ],
+    "The Master and Margarita": [
+      "R164"
+    ],
+    "The Memoirs of Lady Hyegyong": [
+      "S29"
+    ],
+    "The Myth of Sisyphus": [
+      "S13"
+    ],
+    "The Need for Roots": [
+      "R086"
+    ],
+    "The Night of Lead": [
+      "R105"
+    ],
+    "The Novices of Lerna": [
+      "R105"
+    ],
+    "The Plague": [
+      "R055"
+    ],
+    "The Plum in the Golden Vase": [
+      "S29"
+    ],
+    "The Private Memoirs and Confessions of a Justified Sinner": [
+      "R086"
+    ],
+    "The Sea of Fertility": [
+      "S37"
+    ],
+    "The Secret Life of Saeed the Pessoptimist": [
+      "R069"
+    ],
+    "The Sound and the Fury": [
+      "S02"
+    ],
+    "The Stranger (Maria Kuncewiczowa)": [
+      "R097"
+    ],
+    "The Street of Crocodiles": [
+      "R129"
+    ],
+    "The Suns of Independence": [
+      "R123"
+    ],
+    "The Tale of Genji": [
+      "S29"
+    ],
+    "The Tin Drum": [
+      "R133"
+    ],
+    "The Turn of the Screw": [
+      "S14"
+    ],
+    "The Wings of the Dove": [
+      "S37"
+    ],
+    "The Woman from Tantoura": [
+      "R070"
+    ],
+    "Things Fall Apart": [
+      "R123"
+    ],
+    "Thirty Years of Modern Chinese Literature": [
+      "R052"
+    ],
+    "This Earth of Mankind": [
+      "R071",
+      "R118"
+    ],
+    "Thomas Hobbes": [
+      "R078"
+    ],
+    "To the Lighthouse": [
+      "S07",
+      "S14"
+    ],
+    "Toji": [
+      "R140",
+      "R141"
+    ],
+    "Truth/Untruth": [
+      "R120"
+    ],
+    "Twentieth-century fiction": [
+      "S08"
+    ],
+    "Ulysses": [
+      "S02"
+    ],
+    "We Computers": [
+      "S43"
+    ],
+    "Why Read the Classics?": [
+      "S31"
+    ],
+    "Wolf Hall": [
+      "S38"
+    ],
+    "Woman Critiqued": [
+      "S26"
+    ],
+    "日常生活の冒険 (Adventures in Everyday Life)": [
+      "R098"
+    ],
+    "박경리 이야기": [
+      "R140"
+    ]
+  },
+  "candidate_specific_reconsultations": [
+    "../_runs/2026-09-12/batch-24.json",
+    "../_runs/2026-09-12/batch-25.json"
+  ]
+}

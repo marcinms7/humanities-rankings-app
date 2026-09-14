@@ -1,0 +1,43 @@
+{
+  "target_id": "reddit-truelit-2023",
+  "status": "named_external_list_import",
+  "saved_at": "2026-09-13",
+  "sources": [
+    {
+      "source_id": "COMMUNITY-LIST-01",
+      "underlying_source_id": "community-list:https://www.reddit.com/r/TrueLit/comments/197l37n/truelits_2023_top_100_favorite_books/",
+      "title": "r/TrueLit · Top 100 Favorite Books (2023) — result publication",
+      "canonical_url": "https://www.reddit.com/r/TrueLit/comments/197l37n/truelits_2023_top_100_favorite_books/",
+      "source_family": "community_poll",
+      "publisher": "r/TrueLit community",
+      "target_ids": [
+        "reddit-truelit-2023"
+      ],
+      "relevance_by_target": {
+        "reddit-truelit-2023": "The first 100 rows of the poll's Final List sheet, after its published tiebreak procedure and one-book-per-author rule."
+      },
+      "evidence_notes": "The first 100 rows of the poll's Final List sheet, after its published tiebreak procedure and one-book-per-author rule.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Community self-selection and one-book-per-author materially shape the result; ranks are not an editorial assessment by Marginalia."
+    },
+    {
+      "source_id": "COMMUNITY-LIST-02",
+      "underlying_source_id": "community-list:https://docs.google.com/spreadsheets/d/1LixH6kEImDHHeC2s5AbCrX660DO8hd6wTWQQ_MOMGhk/edit",
+      "title": "r/TrueLit · Top 100 Favorite Books (2023) — official linked result spreadsheet",
+      "canonical_url": "https://docs.google.com/spreadsheets/d/1LixH6kEImDHHeC2s5AbCrX660DO8hd6wTWQQ_MOMGhk/edit",
+      "source_family": "community_poll_data",
+      "publisher": "r/TrueLit community",
+      "target_ids": [
+        "reddit-truelit-2023"
+      ],
+      "relevance_by_target": {
+        "reddit-truelit-2023": "Official linked row-level tally used to preserve titles, authors, ordering, votes and published cutoff."
+      },
+      "evidence_notes": "Official linked row-level tally used to preserve titles, authors, ordering, votes and published cutoff.",
+      "accessed_at": "2026-09-13",
+      "eligible": true,
+      "limitations": "Spreadsheet is poll evidence, not an independent critical source."
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "target": "philosophers-all-time",
+  "expected_revision": 1,
+  "version": "initial-selection-2026-09-13-v2",
+  "published_on": "2026-09-13",
+  "notice": "Initial researched selection: 23 thinkers. Expansion toward 100–200 continues. These are comparisons within the included selection, not a completed worldwide Top 23.",
+  "method": "Critical standing emphasizes the reach, originality and enduring reception of a thinker’s work. Reading value emphasizes the conceptual and ethical rewards of engaging with that work today; technical difficulty is not an automatic deduction. This is a qualitative editorial synthesis, not a vote count, an average of book ranks or a personalized score. Cross-tradition comparisons and exact adjacent positions remain uncertain. Images of ancient and medieval thinkers are credited depictions, not authenticated contemporary portraits. Wiredu and Xunzi remain in the research pool pending suitable images; their temporary omission is not a judgment against their work.",
+  "orders": {
+    "standing": {
+      "label": "Critical standing & enduring influence",
+      "description": "Contribution and lasting reception across the thinker’s work.",
+      "keys": [
+        "plato",
+        "aristotle",
+        "kant",
+        "confucius",
+        "hume",
+        "avicenna",
+        "nagarjuna",
+        "aquinas",
+        "wittgenstein",
+        "shankara",
+        "spinozap",
+        "nietzsche",
+        "beauvoir",
+        "ghazali",
+        "mencius",
+        "arendt",
+        "rawls",
+        "fanon",
+        "mozi",
+        "mill",
+        "ambedkar",
+        "wollstonecraft",
+        "sadra"
+      ]
+    },
+    "reading": {
+      "label": "Reading value today",
+      "description": "Conceptual and ethical rewards of engaging with the thinker today.",
+      "keys": [
+        "hume",
+        "plato",
+        "beauvoir",
+        "kant",
+        "nietzsche",
+        "confucius",
+        "aristotle",
+        "spinozap",
+        "arendt",
+        "fanon",
+        "ambedkar",
+        "wittgenstein",
+        "mencius",
+        "mill",
+        "nagarjuna",
+        "avicenna",
+        "wollstonecraft",
+        "rawls",
+        "shankara",
+        "aquinas",
+        "ghazali",
+        "mozi",
+        "sadra"
+      ]
+    }
+  },
+  "entries": [
+    {
+      "key": "plato",
+      "item_id": 9,
+      "source_ids": [
+        "S17",
+        "R028",
+        "R041"
+      ],
+      "standing": "Scholarly, expert and poll evidence converge. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Second here: dialogue turns disagreement into a practice of inquiry across justice and knowledge. Hume leads this lens for concentrated attention to how everyday belief works.",
+      "caveat": "Socrates’ voice is not interchangeable with Plato’s positions."
+    },
+    {
+      "key": "aristotle",
+      "item_id": 10,
+      "source_ids": [
+        "R002",
+        "R041"
+      ],
+      "standing": "Breadth across disciplines supports leading historical consideration. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Seventh here for the range of ways his work can reshape inquiry, especially ethical reflection. This ordering values sustained engagement with argument, without treating dated scientific claims as current facts.",
+      "caveat": "Influence does not certify current scientific correctness."
+    },
+    {
+      "key": "kant",
+      "item_id": 11,
+      "source_ids": [
+        "S23",
+        "R041",
+        "R029"
+      ],
+      "standing": "Several reception routes support a leading position. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Fourth here: the relationship between knowledge, autonomy and judgment provides enduring intellectual rewards. His technical demands do not justify the last place assigned by the earlier preparation-focused pilot.",
+      "caveat": "Exact position against non-European traditions is unresolved."
+    },
+    {
+      "key": "confucius",
+      "item_id": 12,
+      "source_ids": [
+        "S20"
+      ],
+      "standing": "Long reception supports a high historical case. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Sixth here: ritual, virtue and relational life offer a different focus from the more individual-centered projects above. Reading requires attention to the text’s multiple transmitted voices.",
+      "caveat": "Received text and historical person need separation."
+    },
+    {
+      "key": "hume",
+      "item_id": 13,
+      "source_ids": [
+        "R020",
+        "R028",
+        "R029"
+      ],
+      "standing": "Scholarly and comparative selections support high standing. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "First here for a sustained examination of experience, inference and the formation of belief. The Enquiries offer a concentrated route, but their value is argumentative rather than merely short or easy.",
+      "caveat": "Contemporary historical fame differs from later philosophical fame."
+    },
+    {
+      "key": "avicenna",
+      "item_id": 14,
+      "source_ids": [
+        "R011",
+        "R027"
+      ],
+      "standing": "Cross-disciplinary and interreligious reception supports a high place. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Sixteenth here for encounters between scientific inquiry, metaphysics and interreligious criticism. This lens gives more immediate priority to the ethical and epistemological questions foregrounded above; corpus size alone is not a penalty.",
+      "caveat": "Medicine and philosophy contribute different kinds of influence."
+    },
+    {
+      "key": "nagarjuna",
+      "item_id": 15,
+      "source_ids": [
+        "R009"
+      ],
+      "standing": "Buddhist reception across Asia supports high historical consideration. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Fifteenth here for the challenge that arguments about intrinsic nature pose to habitual concepts. Demanding reasoning is part of the philosophical reward, and not a reason for automatic demotion.",
+      "caveat": "Work attributions are not uniformly secure."
+    },
+    {
+      "key": "aquinas",
+      "item_id": 16,
+      "source_ids": [
+        "R022",
+        "R084"
+      ],
+      "standing": "Scholastic reception supports upper-group consideration. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Twentieth here for the sustained negotiation between philosophical argument and theological commitments. The narrower devotional and interpretive context makes its priority more dependent on the reader’s questions than the earlier entries.",
+      "caveat": "A comparative worldwide rank needs more than reference coverage."
+    },
+    {
+      "key": "wittgenstein",
+      "item_id": 17,
+      "source_ids": [
+        "R019",
+        "S19"
+      ],
+      "standing": "Language and method provide a strong historical case. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Twelfth here: questioning how language works can change the practice of inquiry itself. His move upward from the pilot recognizes the rewards of difficulty instead of treating it as a deduction.",
+      "caveat": "Do not flatten contested phases into two simple doctrines."
+    },
+    {
+      "key": "shankara",
+      "item_id": 18,
+      "source_ids": [
+        "R010",
+        "R082",
+        "S49"
+      ],
+      "standing": "Vedānta reception supports an upper historical group. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Nineteenth here for concentrated reflection on consciousness and nonduality through commentary. Its distinctive interpretive setting is retained rather than converted into generic self-help.",
+      "caveat": "Religious authority and philosophical argument need separate evaluation."
+    },
+    {
+      "key": "spinozap",
+      "item_id": 19,
+      "source_ids": [
+        "R021",
+        "R044",
+        "R086"
+      ],
+      "standing": "Critical, editorial and reader evidence support inclusion. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Eighth here for connecting freedom and the passions with a demanding account of nature. This combination gives him higher present-reading priority than an influence-only order does.",
+      "caveat": "Reader enthusiasm is self-selected."
+    },
+    {
+      "key": "nietzsche",
+      "item_id": 20,
+      "source_ids": [
+        "R023",
+        "R041"
+      ],
+      "standing": "Psychological and value critique supports high standing. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Fifth here for psychological and value criticism that invites argument and resistance. Provocation supports active reading; it does not entail endorsing every proposed value.",
+      "caveat": "Authored works must be separated from notebook compilations."
+    },
+    {
+      "key": "beauvoir",
+      "item_id": 21,
+      "source_ids": [
+        "R017"
+      ],
+      "standing": "Independent contribution merits more than derivative status. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Third here for the conjunction of existential, ethical and feminist inquiry. Her rise reflects continuing philosophical questions and independent contributions across several forms of writing.",
+      "caveat": "Do not reduce the corpus to one book."
+    },
+    {
+      "key": "ghazali",
+      "item_id": 22,
+      "source_ids": [
+        "R115"
+      ],
+      "standing": "Philosophical criticism and later reception support inclusion. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Twenty-first here for testing selected philosophical doctrines while also using philosophical methods. Its theological setting makes the encounter more question-dependent in this general selection.",
+      "caveat": "Reject unsupported philosophy-decline shorthand."
+    },
+    {
+      "key": "mencius",
+      "item_id": 23,
+      "source_ids": [
+        "R013",
+        "R028"
+      ],
+      "standing": "Comparative ethics supports substantial historical consideration. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Thirteenth here for ethical cultivation and a conception of human nature that supports comparison with Hume and Aristotle. Compilation history remains part of the reading context.",
+      "caveat": "Text compilation is distinct from personal authorship."
+    },
+    {
+      "key": "arendt",
+      "item_id": 24,
+      "source_ids": [
+        "R018"
+      ],
+      "standing": "Public and scholarly reception supports inclusion. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Ninth here for investigating public action and judgment. The attraction of contemporary political questions is balanced against the need to distinguish the arguments of her different books.",
+      "caveat": "Different books and controversies require separate treatment."
+    },
+    {
+      "key": "rawls",
+      "item_id": 25,
+      "source_ids": [
+        "R043",
+        "R083",
+        "R075"
+      ],
+      "standing": "Institutional and international reception support inclusion. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Eighteenth here for an extended inquiry into justice whose competing international interpretations reward close reading. Systematic length is not itself a reason to place him lower.",
+      "caveat": "National reception produces conflicting political interpretations."
+    },
+    {
+      "key": "fanon",
+      "item_id": 26,
+      "source_ids": [
+        "R024",
+        "R045"
+      ],
+      "standing": "Africana and postcolonial reception sustain the historical case. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Tenth here for the conjunction of lived alienation and liberation thought. These questions raise present-reading priority while leaving disagreements about political interpretation open.",
+      "caveat": "Further independent debate over violence remains needed."
+    },
+    {
+      "key": "mozi",
+      "item_id": 27,
+      "source_ids": [
+        "R046",
+        "R153"
+      ],
+      "standing": "Curriculum and critical study support a place in the comparison. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Twenty-second here: the Mohist tradition broadens comparison beyond familiar Greek and European questions. The present dossier supports inclusion more securely than it settles comparison across the collective corpus.",
+      "caveat": "Distinguish the historical figure from a collective textual tradition."
+    },
+    {
+      "key": "mill",
+      "item_id": 28,
+      "source_ids": [
+        "R157",
+        "S19"
+      ],
+      "standing": "Canonical argument supports historical inclusion. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Fourteenth here for a direct confrontation with discussion, dissent and authority. His exclusions remain visible alongside the argumentative force of the defense of liberty.",
+      "caveat": "Colonial exclusions complicate a universalist reading."
+    },
+    {
+      "key": "ambedkar",
+      "item_id": 29,
+      "source_ids": [
+        "R073",
+        "R074"
+      ],
+      "standing": "Indian political reception supports a substantial case. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Eleventh here for anti-caste inquiry and democratic transformation. This substantial rise emphasizes the continuing philosophical problem of hierarchy, without reducing his achievement to one book.",
+      "caveat": "A book-level comparison does not measure the whole philosopher."
+    },
+    {
+      "key": "wollstonecraft",
+      "item_id": 30,
+      "source_ids": [
+        "S40"
+      ],
+      "standing": "Feminist philosophical reception supports consideration. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Seventeenth here for linking rights and education with social relations. That conjunction strengthens present-reading priority while inviting attention beyond the best-known Vindication.",
+      "caveat": "More work-specific and comparative evidence needed."
+    },
+    {
+      "key": "sadra",
+      "item_id": 31,
+      "source_ids": [
+        "R110"
+      ],
+      "standing": "Later Islamic philosophy challenges a truncated historical canon. This is a qualitative place within the present selection, rather than a published source’s rank.",
+      "reading": "Twenty-third in this initial selection for the dialogue between argument, revelation and insight. This is an especially uncertain comparison and does not place him below unlisted thinkers.",
+      "caveat": "English availability must be verified for a particular entry work."
+    }
+  ]
+}

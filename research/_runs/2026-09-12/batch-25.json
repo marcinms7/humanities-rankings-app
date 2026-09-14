@@ -1,0 +1,46 @@
+{
+  "summary": "Candidate-specific reconsultation for provisional drafts; no additional eligible-source count.",
+  "next": "Write comparative drafts and record major coverage gaps.",
+  "sources": [
+    {
+      "id": "S14",
+      "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books",
+      "title": "100 must-read classics, as chosen by our readers",
+      "publisher": "Penguin Random House",
+      "family": "publisher_selection",
+      "note": "Reconsulted entries name War and Peace, Moby-Dick, Beloved, One Hundred Years of Solitude, Middlemarch and Ulysses. The footer explicitly says the numbered selection has no rank order.",
+      "candidates": [
+        "War and Peace",
+        "Moby-Dick",
+        "Beloved",
+        "One Hundred Years of Solitude",
+        "Middlemarch",
+        "Ulysses",
+        "Pride and Prejudice"
+      ],
+      "targets": {
+        "A": "Specific literary candidate support.",
+        "L": "Candidate descriptions and reader responses; numbering is not merit order."
+      },
+      "location": "Named entries and footer, lines 64–69,158–168,237–241,272–278,313–318,388–394,766",
+      "limits": "Commercially curated short responses; same corporate owner as Modern Library. Reconsultation adds no source credit."
+    },
+    {
+      "id": "S02",
+      "url": "https://sites.prh.com/modern-library-top-100/",
+      "title": "Modern Library Top 100",
+      "publisher": "Penguin Random House",
+      "family": "publisher_selection",
+      "note": "The board’s twentieth-century novels ranking places Ulysses first; description identifies formal complexity and contrasting critical reception.",
+      "candidates": [
+        "Ulysses"
+      ],
+      "targets": {
+        "A": "Scoped publisher position for a literary candidate.",
+        "L": "Preserve original first position separately from draft synthesis."
+      },
+      "location": "Board methodology and first entry",
+      "limits": "Restricted original candidate universe; not a worldwide all-time poll."
+    }
+  ]
+}

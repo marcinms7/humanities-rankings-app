@@ -1,0 +1,512 @@
+{
+  "target_id": "books-medieval",
+  "representative_source_ids": [
+    "MEDIEVAL-001",
+    "MEDIEVAL-002",
+    "MEDIEVAL-003",
+    "MEDIEVAL-004",
+    "MEDIEVAL-005"
+  ],
+  "entries": [
+    {
+      "key": "books-medieval-001",
+      "position": 1,
+      "reported_title": "The Divine Comedy"
+    },
+    {
+      "key": "books-medieval-002",
+      "position": 2,
+      "reported_title": "The Tale of Genji"
+    },
+    {
+      "key": "books-medieval-003",
+      "position": 3,
+      "reported_title": "The Canterbury Tales"
+    },
+    {
+      "key": "books-medieval-004",
+      "position": 4,
+      "reported_title": "Shahnameh (Book of Kings)"
+    },
+    {
+      "key": "books-medieval-005",
+      "position": 5,
+      "reported_title": "The Decameron"
+    },
+    {
+      "key": "books-medieval-006",
+      "position": 6,
+      "reported_title": "Beowulf"
+    },
+    {
+      "key": "books-medieval-007",
+      "position": 7,
+      "reported_title": "One Thousand and One Nights"
+    },
+    {
+      "key": "books-medieval-008",
+      "position": 8,
+      "reported_title": "The Song of Roland"
+    },
+    {
+      "key": "books-medieval-009",
+      "position": 9,
+      "reported_title": "The Nibelungenlied"
+    },
+    {
+      "key": "books-medieval-010",
+      "position": 10,
+      "reported_title": "The Tale of the Heike"
+    },
+    {
+      "key": "books-medieval-011",
+      "position": 11,
+      "reported_title": "Sir Gawain and the Green Knight"
+    },
+    {
+      "key": "books-medieval-012",
+      "position": 12,
+      "reported_title": "Cantar de mio Cid"
+    },
+    {
+      "key": "books-medieval-013",
+      "position": 13,
+      "reported_title": "The Conference of the Birds"
+    },
+    {
+      "key": "books-medieval-014",
+      "position": 14,
+      "reported_title": "Romance of the Three Kingdoms"
+    },
+    {
+      "key": "books-medieval-015",
+      "position": 15,
+      "reported_title": "The Mabinogion"
+    },
+    {
+      "key": "books-medieval-016",
+      "position": 16,
+      "reported_title": "The Roman de la Rose"
+    },
+    {
+      "key": "books-medieval-017",
+      "position": 17,
+      "reported_title": "The Poetic Edda"
+    },
+    {
+      "key": "books-medieval-018",
+      "position": 18,
+      "reported_title": "Parzival"
+    },
+    {
+      "key": "books-medieval-019",
+      "position": 19,
+      "reported_title": "The Lais"
+    },
+    {
+      "key": "books-medieval-020",
+      "position": 20,
+      "reported_title": "Masnavi"
+    },
+    {
+      "key": "books-medieval-021",
+      "position": 21,
+      "reported_title": "Le Morte Darthur"
+    },
+    {
+      "key": "books-medieval-022",
+      "position": 22,
+      "reported_title": "Troilus and Criseyde"
+    },
+    {
+      "key": "books-medieval-023",
+      "position": 23,
+      "reported_title": "Njáls Saga"
+    },
+    {
+      "key": "books-medieval-024",
+      "position": 24,
+      "reported_title": "Canzoniere"
+    },
+    {
+      "key": "books-medieval-025",
+      "position": 25,
+      "reported_title": "The Book of the City of Ladies"
+    },
+    {
+      "key": "books-medieval-026",
+      "position": 26,
+      "reported_title": "Piers Plowman"
+    },
+    {
+      "key": "books-medieval-027",
+      "position": 27,
+      "reported_title": "The Rubaiyat"
+    },
+    {
+      "key": "books-medieval-028",
+      "position": 28,
+      "reported_title": "The Pillow Book"
+    },
+    {
+      "key": "books-medieval-029",
+      "position": 29,
+      "reported_title": "The Quest of the Holy Grail"
+    },
+    {
+      "key": "books-medieval-030",
+      "position": 30,
+      "reported_title": "Perceval, the Story of the Grail"
+    },
+    {
+      "key": "books-medieval-031",
+      "position": 31,
+      "reported_title": "Yvain, the Knight of the Lion"
+    },
+    {
+      "key": "books-medieval-032",
+      "position": 32,
+      "reported_title": "Lancelot, the Knight of the Cart"
+    },
+    {
+      "key": "books-medieval-033",
+      "position": 33,
+      "reported_title": "The Prose Edda"
+    },
+    {
+      "key": "books-medieval-034",
+      "position": 34,
+      "reported_title": "The Book of Good Love"
+    },
+    {
+      "key": "books-medieval-035",
+      "position": 35,
+      "reported_title": "The Tale of the Bamboo Cutter"
+    },
+    {
+      "key": "books-medieval-036",
+      "position": 36,
+      "reported_title": "The Golden Legend"
+    },
+    {
+      "key": "books-medieval-037",
+      "position": 37,
+      "reported_title": "Revelations of Divine Love"
+    },
+    {
+      "key": "books-medieval-038",
+      "position": 38,
+      "reported_title": "The Book of Margery Kempe"
+    },
+    {
+      "key": "books-medieval-039",
+      "position": 39,
+      "reported_title": "The Muqaddimah"
+    },
+    {
+      "key": "books-medieval-040",
+      "position": 40,
+      "reported_title": "The Travels of Ibn Battuta"
+    },
+    {
+      "key": "books-medieval-041",
+      "position": 41,
+      "reported_title": "The Travels of Marco Polo"
+    },
+    {
+      "key": "books-medieval-042",
+      "position": 42,
+      "reported_title": "The Alexiad"
+    },
+    {
+      "key": "books-medieval-043",
+      "position": 43,
+      "reported_title": "Ecclesiastical History of the English People"
+    },
+    {
+      "key": "books-medieval-044",
+      "position": 44,
+      "reported_title": "History of the Kings of Britain"
+    },
+    {
+      "key": "books-medieval-045",
+      "position": 45,
+      "reported_title": "Heimskringla"
+    },
+    {
+      "key": "books-medieval-046",
+      "position": 46,
+      "reported_title": "Egil's Saga"
+    },
+    {
+      "key": "books-medieval-047",
+      "position": 47,
+      "reported_title": "Laxdæla Saga"
+    },
+    {
+      "key": "books-medieval-048",
+      "position": 48,
+      "reported_title": "The Saga of the Volsungs"
+    },
+    {
+      "key": "books-medieval-049",
+      "position": 49,
+      "reported_title": "The Táin (Táin Bó Cúailnge)"
+    },
+    {
+      "key": "books-medieval-050",
+      "position": 50,
+      "reported_title": "The Knight in the Panther's Skin"
+    },
+    {
+      "key": "books-medieval-051",
+      "position": 51,
+      "reported_title": "The Book of Lamentations"
+    },
+    {
+      "key": "books-medieval-052",
+      "position": 52,
+      "reported_title": "The Secret History of the Mongols"
+    },
+    {
+      "key": "books-medieval-053",
+      "position": 53,
+      "reported_title": "The Kebra Nagast"
+    },
+    {
+      "key": "books-medieval-054",
+      "position": 54,
+      "reported_title": "The Gulistan"
+    },
+    {
+      "key": "books-medieval-055",
+      "position": 55,
+      "reported_title": "The Bustan"
+    },
+    {
+      "key": "books-medieval-056",
+      "position": 56,
+      "reported_title": "The Divan of Hafez"
+    },
+    {
+      "key": "books-medieval-057",
+      "position": 57,
+      "reported_title": "The Khamsa"
+    },
+    {
+      "key": "books-medieval-058",
+      "position": 58,
+      "reported_title": "Vis and Ramin"
+    },
+    {
+      "key": "books-medieval-059",
+      "position": 59,
+      "reported_title": "The Epistle of Forgiveness"
+    },
+    {
+      "key": "books-medieval-060",
+      "position": 60,
+      "reported_title": "The Ring of the Dove"
+    },
+    {
+      "key": "books-medieval-061",
+      "position": 61,
+      "reported_title": "Hayy ibn Yaqzan"
+    },
+    {
+      "key": "books-medieval-062",
+      "position": 62,
+      "reported_title": "The Maqamat of al-Hariri"
+    },
+    {
+      "key": "books-medieval-063",
+      "position": 63,
+      "reported_title": "Kalila wa Dimna"
+    },
+    {
+      "key": "books-medieval-064",
+      "position": 64,
+      "reported_title": "The Book of Songs (Kitab al-Aghani)"
+    },
+    {
+      "key": "books-medieval-065",
+      "position": 65,
+      "reported_title": "The Revival of the Religious Sciences"
+    },
+    {
+      "key": "books-medieval-066",
+      "position": 66,
+      "reported_title": "The Guide for the Perplexed"
+    },
+    {
+      "key": "books-medieval-067",
+      "position": 67,
+      "reported_title": "The Summa Theologiae"
+    },
+    {
+      "key": "books-medieval-068",
+      "position": 68,
+      "reported_title": "The Consolation of Philosophy"
+    },
+    {
+      "key": "books-medieval-069",
+      "position": 69,
+      "reported_title": "Scivias"
+    },
+    {
+      "key": "books-medieval-070",
+      "position": 70,
+      "reported_title": "The Letters of Abelard and Heloise"
+    },
+    {
+      "key": "books-medieval-071",
+      "position": 71,
+      "reported_title": "The Cloud of Unknowing"
+    },
+    {
+      "key": "books-medieval-072",
+      "position": 72,
+      "reported_title": "The Imitation of Christ"
+    },
+    {
+      "key": "books-medieval-073",
+      "position": 73,
+      "reported_title": "Pearl"
+    },
+    {
+      "key": "books-medieval-074",
+      "position": 74,
+      "reported_title": "Confessio Amantis"
+    },
+    {
+      "key": "books-medieval-075",
+      "position": 75,
+      "reported_title": "The Testament"
+    },
+    {
+      "key": "books-medieval-076",
+      "position": 76,
+      "reported_title": "The Count Lucanor"
+    },
+    {
+      "key": "books-medieval-077",
+      "position": 77,
+      "reported_title": "La Celestina"
+    },
+    {
+      "key": "books-medieval-078",
+      "position": 78,
+      "reported_title": "Aucassin and Nicolette"
+    },
+    {
+      "key": "books-medieval-079",
+      "position": 79,
+      "reported_title": "The Romance of Tristan"
+    },
+    {
+      "key": "books-medieval-080",
+      "position": 80,
+      "reported_title": "Tristan"
+    },
+    {
+      "key": "books-medieval-081",
+      "position": 81,
+      "reported_title": "The Song of William"
+    },
+    {
+      "key": "books-medieval-082",
+      "position": 82,
+      "reported_title": "The Tale of Igor's Campaign"
+    },
+    {
+      "key": "books-medieval-083",
+      "position": 83,
+      "reported_title": "The Primary Chronicle"
+    },
+    {
+      "key": "books-medieval-084",
+      "position": 84,
+      "reported_title": "Kudrun"
+    },
+    {
+      "key": "books-medieval-085",
+      "position": 85,
+      "reported_title": "The Saga of Grettir the Strong"
+    },
+    {
+      "key": "books-medieval-086",
+      "position": 86,
+      "reported_title": "The Dream of the Rood"
+    },
+    {
+      "key": "books-medieval-087",
+      "position": 87,
+      "reported_title": "Ancrene Wisse"
+    },
+    {
+      "key": "books-medieval-088",
+      "position": 88,
+      "reported_title": "Everyman"
+    },
+    {
+      "key": "books-medieval-089",
+      "position": 89,
+      "reported_title": "The York Mystery Plays"
+    },
+    {
+      "key": "books-medieval-090",
+      "position": 90,
+      "reported_title": "The Hōjōki"
+    },
+    {
+      "key": "books-medieval-091",
+      "position": 91,
+      "reported_title": "Essays in Idleness (Tsurezuregusa)"
+    },
+    {
+      "key": "books-medieval-092",
+      "position": 92,
+      "reported_title": "The Kokinshū"
+    },
+    {
+      "key": "books-medieval-093",
+      "position": 93,
+      "reported_title": "The Shinkokinshū"
+    },
+    {
+      "key": "books-medieval-094",
+      "position": 94,
+      "reported_title": "Konjaku Monogatari-shū"
+    },
+    {
+      "key": "books-medieval-095",
+      "position": 95,
+      "reported_title": "The Sarashina Diary"
+    },
+    {
+      "key": "books-medieval-096",
+      "position": 96,
+      "reported_title": "The Kathāsaritsāgara"
+    },
+    {
+      "key": "books-medieval-097",
+      "position": 97,
+      "reported_title": "Gīta Govinda"
+    },
+    {
+      "key": "books-medieval-098",
+      "position": 98,
+      "reported_title": "Rājataraṅgiṇī"
+    },
+    {
+      "key": "books-medieval-099",
+      "position": 99,
+      "reported_title": "Dream Pool Essays"
+    },
+    {
+      "key": "books-medieval-100",
+      "position": 100,
+      "reported_title": "The Story of the Western Wing"
+    }
+  ]
+}

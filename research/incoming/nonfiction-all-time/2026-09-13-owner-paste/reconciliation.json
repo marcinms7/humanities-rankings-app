@@ -1,0 +1,1609 @@
+{
+  "target": "nonfiction-all-time",
+  "rule": "Unreviewed leads are not counted or imported as consulted evidence.",
+  "lead_count": 200,
+  "existing_overlap_count": 200,
+  "new_unreviewed_count": 0,
+  "rows": [
+    {
+      "lead_id": "owner-001",
+      "url": "https://sites.prh.com/modern-library-top-100",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "S02"
+      ]
+    },
+    {
+      "lead_id": "owner-002",
+      "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "R202"
+      ]
+    },
+    {
+      "lead_id": "owner-003",
+      "url": "https://www.theguardian.com/books/series/100-best-nonfiction-books-of-all-time",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-003"
+      ]
+    },
+    {
+      "lead_id": "owner-004",
+      "url": "https://entertainment.time.com/2011/08/30/all-time-100-best-nonfiction-books/slide/dre/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-004"
+      ]
+    },
+    {
+      "lead_id": "owner-005",
+      "url": "https://www.goodreads.com/list/show/144661.Best_Nonfiction_Books_Of_All_Time",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-005"
+      ]
+    },
+    {
+      "lead_id": "owner-006",
+      "url": "https://www.goodreads.com/list/show/155694.Modern_Library_100_Best_Nonfiction",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-006"
+      ]
+    },
+    {
+      "lead_id": "owner-007",
+      "url": "https://www.librarything.com/award/464/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-007"
+      ]
+    },
+    {
+      "lead_id": "owner-008",
+      "url": "https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "S03"
+      ]
+    },
+    {
+      "lead_id": "owner-009",
+      "url": "https://bookriot.com/best-nonfiction-books-of-all-time/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-009"
+      ]
+    },
+    {
+      "lead_id": "owner-010",
+      "url": "https://bookriot.com/best-nonfiction-books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-010"
+      ]
+    },
+    {
+      "lead_id": "owner-011",
+      "url": "https://fivebooks.com/category/nonfiction-books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-011"
+      ]
+    },
+    {
+      "lead_id": "owner-012",
+      "url": "https://www.kirkusreviews.com/best-of/2025/nonfiction/books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-012"
+      ]
+    },
+    {
+      "lead_id": "owner-013",
+      "url": "https://www.kirkusreviews.com/best-of/2024/nonfiction/books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-013"
+      ]
+    },
+    {
+      "lead_id": "owner-014",
+      "url": "https://www.newyorker.com/best-books-2026",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-014"
+      ]
+    },
+    {
+      "lead_id": "owner-015",
+      "url": "https://www.goodreads.com/list/show/22916.Recommended_Nonfiction_Books",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-015"
+      ]
+    },
+    {
+      "lead_id": "owner-016",
+      "url": "https://www.librarything.com/list/44410/all/Nonfiction",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-016"
+      ]
+    },
+    {
+      "lead_id": "owner-017",
+      "url": "https://www.thebailliegiffordprize.co.uk/year-by-year",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-017"
+      ]
+    },
+    {
+      "lead_id": "owner-018",
+      "url": "https://www.nationalbook.org/winners-of-the-2025-national-book-awards-announced/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-018"
+      ]
+    },
+    {
+      "lead_id": "owner-019",
+      "url": "https://www.bookcritics.org/awards/past/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-019"
+      ]
+    },
+    {
+      "lead_id": "owner-020",
+      "url": "https://www.pulitzer.org/prize-winners-by-category/223",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-020"
+      ]
+    },
+    {
+      "lead_id": "owner-021",
+      "url": "https://www.pulitzer.org/prize-winners-by-category/222",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-021"
+      ]
+    },
+    {
+      "lead_id": "owner-022",
+      "url": "https://www.pulitzer.org/prize-winners-by-category/650",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-022"
+      ]
+    },
+    {
+      "lead_id": "owner-023",
+      "url": "https://www.ala.org/carnegie-medals",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-023"
+      ]
+    },
+    {
+      "lead_id": "owner-024",
+      "url": "https://pen.org/literary-awards/pen-eo-wilson-prize-literary-science-writing/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-024"
+      ]
+    },
+    {
+      "lead_id": "owner-025",
+      "url": "https://pen.org/literary-awards/pen-bograd-weld-award-biography/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-025"
+      ]
+    },
+    {
+      "lead_id": "owner-026",
+      "url": "https://pen.org/literary-awards/pen-galbraith-award-for-nonfiction/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-026"
+      ]
+    },
+    {
+      "lead_id": "owner-027",
+      "url": "https://journalism.columbia.edu/news/lukas-prize-winners-2026",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-027"
+      ]
+    },
+    {
+      "lead_id": "owner-028",
+      "url": "https://library.columbia.edu/about/awards/bancroft.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-028"
+      ]
+    },
+    {
+      "lead_id": "owner-029",
+      "url": "https://sah.columbia.edu/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-029"
+      ]
+    },
+    {
+      "lead_id": "owner-030",
+      "url": "https://www.royalsociety.org/medals-and-prizes/science-book-prize/books/bookprize/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-030"
+      ]
+    },
+    {
+      "lead_id": "owner-031",
+      "url": "https://wainwrightprize.com/previous_winners/nature/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-031"
+      ]
+    },
+    {
+      "lead_id": "owner-032",
+      "url": "https://www.schroders.com/en/global/individual/ft-schroders-business-book-of-the-year-2025/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-032"
+      ]
+    },
+    {
+      "lead_id": "owner-033",
+      "url": "https://www.nationalacademies.org/read/25239/chapter/12",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-033"
+      ]
+    },
+    {
+      "lead_id": "owner-034",
+      "url": "https://www.wolfsonhistoryprize.org.uk/past-winners/all-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-034"
+      ]
+    },
+    {
+      "lead_id": "owner-035",
+      "url": "https://duffcooperprize.org/past-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-035"
+      ]
+    },
+    {
+      "lead_id": "owner-036",
+      "url": "https://www.orwellfoundation.com/the-orwell-prizes/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-036"
+      ]
+    },
+    {
+      "lead_id": "owner-037",
+      "url": "https://www.thebritishacademy.ac.uk/british-academy-book-prize/past-winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-037"
+      ]
+    },
+    {
+      "lead_id": "owner-038",
+      "url": "https://www.cundillprize.com/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-038"
+      ]
+    },
+    {
+      "lead_id": "owner-039",
+      "url": "https://fivebooks.com/best-books/best-nonfiction-2025-robbie-millen/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-039"
+      ]
+    },
+    {
+      "lead_id": "owner-040",
+      "url": "https://fivebooks.com/best-books/2025-british-academy-book-prize-rebecca-earle/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-040"
+      ]
+    },
+    {
+      "lead_id": "owner-041",
+      "url": "https://fivebooks.com/best-books/2024-duff-cooper-prize-susan-brigden/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-041"
+      ]
+    },
+    {
+      "lead_id": "owner-042",
+      "url": "https://www.kirkusreviews.com/news-and-features/articles/best-of-2024-our-favorite-nonfiction/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-042"
+      ]
+    },
+    {
+      "lead_id": "owner-043",
+      "url": "https://www.goodreads.com/list/show/5045.Modern_Library_100_Best_Non_fiction",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-043"
+      ]
+    },
+    {
+      "lead_id": "owner-044",
+      "url": "https://www.penguin.co.uk/series/PEN02/penguin-great-ideas",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-044"
+      ]
+    },
+    {
+      "lead_id": "owner-045",
+      "url": "https://www.penguinrandomhouse.com/the-read-down/essential-penguin-classics/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-045"
+      ]
+    },
+    {
+      "lead_id": "owner-046",
+      "url": "https://www.reddit.com/r/nonfictionbookclub/comments/1szgc6l/what_are_the_3_best_nonfiction_books_youve_ever/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-046"
+      ]
+    },
+    {
+      "lead_id": "owner-047",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/12cpihh",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-047"
+      ]
+    },
+    {
+      "lead_id": "owner-048",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/19ahn1v/nonfiction_you_couldnt_put_down/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-048"
+      ]
+    },
+    {
+      "lead_id": "owner-049",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1fj9m4s/suggest_me_your_favourite_nonfiction_books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-049"
+      ]
+    },
+    {
+      "lead_id": "owner-050",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1hus3yz/whats_the_best_nonfiction_book_you_ever_read/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-050"
+      ]
+    },
+    {
+      "lead_id": "owner-051",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1l4fwgi/what_is_your_1_nonfiction_book_recommendation/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-051"
+      ]
+    },
+    {
+      "lead_id": "owner-052",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1ik4a9o/recommend_me_your_favorite_nonfiction_book_that/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-052"
+      ]
+    },
+    {
+      "lead_id": "owner-053",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1o5kg6a",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-053"
+      ]
+    },
+    {
+      "lead_id": "owner-054",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1pkpzpu/nonfiction_book_recommendations/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-054"
+      ]
+    },
+    {
+      "lead_id": "owner-055",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1vl5jcq/must_read_nonfiction_recs_for_someone_who_doesnt/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-055"
+      ]
+    },
+    {
+      "lead_id": "owner-056",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1vsrmid/nonfiction_that_reads_like_fiction/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-056"
+      ]
+    },
+    {
+      "lead_id": "owner-057",
+      "url": "https://www.redditreads.com/r/AskHistorians",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-057"
+      ]
+    },
+    {
+      "lead_id": "owner-058",
+      "url": "https://booksreddit.com/best/history/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-058"
+      ]
+    },
+    {
+      "lead_id": "owner-059",
+      "url": "https://www.reddit.com/r/books/comments/1c2wztb/what_nonfiction_books_changed_your_life/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-059"
+      ]
+    },
+    {
+      "lead_id": "owner-060",
+      "url": "https://www.reddit.com/r/booksuggestions/comments/rxgh1g",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-060"
+      ]
+    },
+    {
+      "lead_id": "owner-061",
+      "url": "https://www.reddit.com/r/nonfictionbooks/comments/1nrhncv/what_nonfiction_book_completely_changed_the_way/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-061"
+      ]
+    },
+    {
+      "lead_id": "owner-062",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1e41drt",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-062"
+      ]
+    },
+    {
+      "lead_id": "owner-063",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1hzf0kz",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-063"
+      ]
+    },
+    {
+      "lead_id": "owner-064",
+      "url": "https://www.reddit.com/r/nonfictionbooks/comments/1stiz0o/the_14_most_pageturning_nonfiction_books_of_all/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-064"
+      ]
+    },
+    {
+      "lead_id": "owner-065",
+      "url": "https://www.reddit.com/r/suggestmeabook/comments/1ulq17r/best_history_non_fiction_of_all_time/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-065"
+      ]
+    },
+    {
+      "lead_id": "owner-066",
+      "url": "https://blog.douban.com/douban/2026/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-066"
+      ]
+    },
+    {
+      "lead_id": "owner-067",
+      "url": "https://www.douban.com/doulist/148305285/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-067"
+      ]
+    },
+    {
+      "lead_id": "owner-068",
+      "url": "https://www.nppa.gov.cn/xxfb/dfgz/202411/t20241115_873664.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-068"
+      ]
+    },
+    {
+      "lead_id": "owner-069",
+      "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/post_12487587.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-069"
+      ]
+    },
+    {
+      "lead_id": "owner-070",
+      "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/post_10248672.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-070"
+      ]
+    },
+    {
+      "lead_id": "owner-071",
+      "url": "https://lib.ecjtu.edu.cn/info/1095/2681.htm",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-071"
+      ]
+    },
+    {
+      "lead_id": "owner-072",
+      "url": "https://xinwen.bjd.com.cn/content/s694cf1efe4b0cd719e9b274b.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-072"
+      ]
+    },
+    {
+      "lead_id": "owner-073",
+      "url": "https://xinwen.bjd.com.cn/content/s676b4ecfe4b06b0a5624a7ff.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-073"
+      ]
+    },
+    {
+      "lead_id": "owner-074",
+      "url": "https://xinwen.bjd.com.cn/content/s63e794f0e4b043bcce2ca800.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-074"
+      ]
+    },
+    {
+      "lead_id": "owner-075",
+      "url": "https://www.chinawriter.com.cn/2014/2014-02-24/192884.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-075"
+      ]
+    },
+    {
+      "lead_id": "owner-076",
+      "url": "https://chuokoron.jp/shinsho_award/archive/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-076"
+      ]
+    },
+    {
+      "lead_id": "owner-077",
+      "url": "https://www.oya-bunko.or.jp/content/tabid/158/Default.aspx",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-077"
+      ]
+    },
+    {
+      "lead_id": "owner-078",
+      "url": "https://www.shinchosha.co.jp/prizes/documentsho/2/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-078"
+      ]
+    },
+    {
+      "lead_id": "owner-079",
+      "url": "https://www1.e-hon.ne.jp/content/cam/2021/nonfiction.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-079"
+      ]
+    },
+    {
+      "lead_id": "owner-080",
+      "url": "https://bookwalker.jp/rank/tcl52/?mode=weekly",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-080"
+      ]
+    },
+    {
+      "lead_id": "owner-081",
+      "url": "https://bookwalker.jp/rank/monthly/tcl52/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-081"
+      ]
+    },
+    {
+      "lead_id": "owner-082",
+      "url": "https://bookwalker.jp/rank/tcl52/?mode=daily",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-082"
+      ]
+    },
+    {
+      "lead_id": "owner-083",
+      "url": "https://bookmeter.com/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-083"
+      ]
+    },
+    {
+      "lead_id": "owner-084",
+      "url": "https://bookmeter.com/specials/bookmeter_of_the_year?track=top-pc",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-084"
+      ]
+    },
+    {
+      "lead_id": "owner-085",
+      "url": "https://award-books.com/ooyasoichi-all/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-085"
+      ]
+    },
+    {
+      "lead_id": "owner-086",
+      "url": "https://www.senscritique.com/liste/Les_meilleurs_essais_litteraires/1991560",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-086"
+      ]
+    },
+    {
+      "lead_id": "owner-087",
+      "url": "https://www.senscritique.com/liste/les_meilleurs_essais_litteraires/3079944",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-087"
+      ]
+    },
+    {
+      "lead_id": "owner-088",
+      "url": "https://www.reddit.com/r/Livres/comments/1jzo552/meilleurs_essais_2025_en_fran%C3%A7ais/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-088"
+      ]
+    },
+    {
+      "lead_id": "owner-089",
+      "url": "https://www.reddit.com/r/Livres/comments/1lhkpis",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-089"
+      ]
+    },
+    {
+      "lead_id": "owner-090",
+      "url": "https://www.reddit.com/r/Livres/comments/1liom37",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-090"
+      ]
+    },
+    {
+      "lead_id": "owner-091",
+      "url": "https://www.senat.fr/le-senat-et-vous/les-prix-decernes-par-le-senat/le-prix-du-livre-dhistoire.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-091"
+      ]
+    },
+    {
+      "lead_id": "owner-092",
+      "url": "https://www.goodreads.com/shelf/show/meilleurs-essais",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-092"
+      ]
+    },
+    {
+      "lead_id": "owner-093",
+      "url": "https://leclaireur.fnac.com/selection/cp42468-top-des-livres-les-plus-inspirants/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-093"
+      ]
+    },
+    {
+      "lead_id": "owner-094",
+      "url": "https://www.academie-francaise.fr/prix-de-lessai",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-094"
+      ]
+    },
+    {
+      "lead_id": "owner-095",
+      "url": "https://www.academie-francaise.fr/prix-montyon",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-095"
+      ]
+    },
+    {
+      "lead_id": "owner-096",
+      "url": "https://www.livreshebdo.fr/article/les-20-essais-les-plus-vendus-en-2025",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-096"
+      ]
+    },
+    {
+      "lead_id": "owner-097",
+      "url": "https://www.senscritique.com/top/resultats/les_meilleurs_livres_de_philosophie/568407",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-097"
+      ]
+    },
+    {
+      "lead_id": "owner-098",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_de_philosophie/709502",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-098"
+      ]
+    },
+    {
+      "lead_id": "owner-099",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_de_philosophie/2251460",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-099"
+      ]
+    },
+    {
+      "lead_id": "owner-100",
+      "url": "https://www.senscritique.com/top/les_meilleurs_livres_de_philosophie/3753734",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-100"
+      ]
+    },
+    {
+      "lead_id": "owner-101",
+      "url": "https://www.zeit.de/serie/sachbuch-bestenliste",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-101"
+      ]
+    },
+    {
+      "lead_id": "owner-102",
+      "url": "https://presseportal.zdf.de/pressemappe/sachbuch-bestenliste",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-102"
+      ]
+    },
+    {
+      "lead_id": "owner-103",
+      "url": "https://zeitshop.cstatic.io/sortiment/buecher/zeit-buchempfehlungen/zeit-sachbuch-bestenliste",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-103"
+      ]
+    },
+    {
+      "lead_id": "owner-104",
+      "url": "https://shop.spiegel.de/buecher/spiegel-bestseller/sachbuch-hardcover/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-104"
+      ]
+    },
+    {
+      "lead_id": "owner-105",
+      "url": "https://shop.spiegel.de/buecher/spiegel-bestseller/bestseller-2025-sachbuch/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-105"
+      ]
+    },
+    {
+      "lead_id": "owner-106",
+      "url": "https://www.welt.de/kultur/literarischewelt/article178346150/WELT-Bestenliste-Die-Sachbuch-Bestenliste-im-Juli-2018.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-106"
+      ]
+    },
+    {
+      "lead_id": "owner-107",
+      "url": "https://www.ndr.de/kultur/buch/sachbuchpreis",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-107"
+      ]
+    },
+    {
+      "lead_id": "owner-108",
+      "url": "https://www.ndr.de/kultur/buch/sachbuchpreis/sachbuchpreisgewinner100~_backId-sachbuchpreis446.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-108"
+      ]
+    },
+    {
+      "lead_id": "owner-109",
+      "url": "https://www.leipziger-buchmesse.de/de/pressemitteilungen/preis-der-leipziger-buchmesse-2026-fuer-katerina-poladjan-marie-janine-calic-und-manfred-gmeiner",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-109"
+      ]
+    },
+    {
+      "lead_id": "owner-110",
+      "url": "https://www.lovelybooks.de/buecher/sachbuch/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-110"
+      ]
+    },
+    {
+      "lead_id": "owner-111",
+      "url": "https://www.anagrama-ed.es/premios/anagrama-de-ensayo",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-111"
+      ]
+    },
+    {
+      "lead_id": "owner-112",
+      "url": "https://www.cultura.gob.es/premiado/busquedaPremioParticularAction.do?action=busquedaInicial&cache=init&language=es&layout=PremioNacEnsayoLibro&params.id_tipo_premio=93",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-112"
+      ]
+    },
+    {
+      "lead_id": "owner-113",
+      "url": "https://www.goodreads.com/award/show/17260-premio-nacional-de-ensayo",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-113"
+      ]
+    },
+    {
+      "lead_id": "owner-114",
+      "url": "https://www.anagrama-ed.es/premios",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-114"
+      ]
+    },
+    {
+      "lead_id": "owner-115",
+      "url": "https://www.planetadelibros.com/premios/premio-espasa/18",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-115"
+      ]
+    },
+    {
+      "lead_id": "owner-116",
+      "url": "https://quelibroleo.com/mejores-genero/ensayo?page=1&sort=votos",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-116"
+      ]
+    },
+    {
+      "lead_id": "owner-117",
+      "url": "https://www.reddit.com/r/libros/comments/1manlln",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-117"
+      ]
+    },
+    {
+      "lead_id": "owner-118",
+      "url": "https://premioletterarioviareggiorepaci.it/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-118"
+      ]
+    },
+    {
+      "lead_id": "owner-119",
+      "url": "https://premioletterarioviareggiorepaci.it/news/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-119"
+      ]
+    },
+    {
+      "lead_id": "owner-120",
+      "url": "https://premiogalileo.eu/premio-letterario-galileo-2023/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-120"
+      ]
+    },
+    {
+      "lead_id": "owner-121",
+      "url": "https://www.libreriauniversitaria.it/libri-studi-letterari/saggistica-top-of-the-year.htm",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-121"
+      ]
+    },
+    {
+      "lead_id": "owner-122",
+      "url": "https://www.ibs.it/classifica/libri_societa-politica-comunicazione/1month/SOLD?defaultPage=1",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-122"
+      ]
+    },
+    {
+      "lead_id": "owner-123",
+      "url": "https://www.ibs.it/classifica/libri_societa-politica-comunicazione/1year/sold",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-123"
+      ]
+    },
+    {
+      "lead_id": "owner-124",
+      "url": "https://www.reddit.com/r/Libri/comments/1uly979/consigli_sui_saggi/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-124"
+      ]
+    },
+    {
+      "lead_id": "owner-125",
+      "url": "https://www.reddit.com/r/Libri/comments/1reg5qi/saggistica_consigli/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-125"
+      ]
+    },
+    {
+      "lead_id": "owner-126",
+      "url": "https://www.madraksiazkaroku.uj.edu.pl/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-126"
+      ]
+    },
+    {
+      "lead_id": "owner-127",
+      "url": "https://www.madraksiazkaroku.uj.edu.pl/poprzednie-edycje/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-127"
+      ]
+    },
+    {
+      "lead_id": "owner-128",
+      "url": "https://nck.pl/projekty-kulturalne/projekty/ksiazka-historyczna-roku/aktualnosci/znamy-laureatow-14-edycji-konkursu-ksiazka-historyczna-roku-",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-128"
+      ]
+    },
+    {
+      "lead_id": "owner-129",
+      "url": "https://ipn.gov.pl/pl/aktualnosci/194248%2CPoznalismy-laureatow-14-edycji-konkursu-Ksiazka-Historyczna-Roku.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-129"
+      ]
+    },
+    {
+      "lead_id": "owner-130",
+      "url": "https://nck.pl/projekty-kulturalne/projekty/ksiazka-historyczna-roku/aktualnosci/ksiazka-historyczna-roku-wybrana-po-raz-dziesiaty-",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-130"
+      ]
+    },
+    {
+      "lead_id": "owner-131",
+      "url": "https://www.reddit.com/r/ksiazki/comments/1lyb1zq",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-131"
+      ]
+    },
+    {
+      "lead_id": "owner-132",
+      "url": "https://www.reddit.com/r/ksiazki/comments/1ssml0t/nonfiction_kt%C3%B3re_czyta_si%C4%99_jak_thriller_moje_5/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-132"
+      ]
+    },
+    {
+      "lead_id": "owner-133",
+      "url": "https://www.reddit.com/r/ksiazki/comments/zwikxt/poszukuj%C4%99_dobrych_reporta%C5%BCyliteratury_faktu/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-133"
+      ]
+    },
+    {
+      "lead_id": "owner-134",
+      "url": "https://www1.folha.uol.com.br/ilustrissima/2026/04/conheca-os-melhores-livros-brasileiros-de-nao-ficcao-do-seculo-21-segundo-juri-convidado-pela-folha.shtml",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-134"
+      ]
+    },
+    {
+      "lead_id": "owner-135",
+      "url": "https://www1.folha.uol.com.br/ilustrissima/2026/04/veja-quem-votou-na-lista-da-folha-dos-melhores-livros-brasileiros-de-nao-ficcao-do-seculo.shtml",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-135"
+      ]
+    },
+    {
+      "lead_id": "owner-136",
+      "url": "https://www.gazetadopovo.com.br/cultura/os-25-maiores-livros-brasileiros-de-nao-ficcao-deste-seculo/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-136"
+      ]
+    },
+    {
+      "lead_id": "owner-137",
+      "url": "https://www.premiojabuti.com.br/jabuti/premiados-por-edicao/premiacao/?ano=2025",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-137"
+      ]
+    },
+    {
+      "lead_id": "owner-138",
+      "url": "https://www.premiojabuti.com.br/jabuti/premiados-por-edicao/premiacao/?ano=2023",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-138"
+      ]
+    },
+    {
+      "lead_id": "owner-139",
+      "url": "https://www.goodreads.com/list/show/93487.Melhores_livros_de_Hist_ria_do_Brasil",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-139"
+      ]
+    },
+    {
+      "lead_id": "owner-140",
+      "url": "https://www.livelib.ru/news/selection/3345958-knizhnaya-polka-dlya-intellekta-top30-samyh-populyarnyh-nonfikshnknig-na-livelib",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-140"
+      ]
+    },
+    {
+      "lead_id": "owner-141",
+      "url": "https://www.livelib.ru/selection/21026-nonfikshn",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-141"
+      ]
+    },
+    {
+      "lead_id": "owner-142",
+      "url": "https://www.livelib.ru/selection/2949236-luchshee-iz-nonfikshn-chto-ya-chital",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-142"
+      ]
+    },
+    {
+      "lead_id": "owner-143",
+      "url": "https://premiaprosvetitel.com/winners/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-143"
+      ]
+    },
+    {
+      "lead_id": "owner-144",
+      "url": "https://www.premiaprosvetitel.ru/booksauthors/?book_id=1015",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-144"
+      ]
+    },
+    {
+      "lead_id": "owner-145",
+      "url": "https://ast.ru/awards/prosvetitel/?CODE=prosvetitel&PAGEN_1=2",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-145"
+      ]
+    },
+    {
+      "lead_id": "owner-146",
+      "url": "https://www.kpipa.or.kr/p/g1_2/1784?sca=%EA%B2%B0%EA%B3%BC%EA%B3%B5%EA%B3%A0",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-146"
+      ]
+    },
+    {
+      "lead_id": "owner-147",
+      "url": "https://kpipa.or.kr/p/g1_2/1603?page=1&sca=%EA%B2%B0%EA%B3%BC%EA%B3%A0",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-147"
+      ]
+    },
+    {
+      "lead_id": "owner-148",
+      "url": "https://store.kyobobook.co.kr/category/domestic/0501/best",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-148"
+      ]
+    },
+    {
+      "lead_id": "owner-149",
+      "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02955286645514192",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-149"
+      ]
+    },
+    {
+      "lead_id": "owner-150",
+      "url": "https://kirjasaatio.fi/finlandia/tietokirjallisuuden-finlandia/aiemmat-voittajat",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-150"
+      ]
+    },
+    {
+      "lead_id": "owner-151",
+      "url": "https://kirjasaatio.fi/finlandia/tietokirjallisuuden-finlandia",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-151"
+      ]
+    },
+    {
+      "lead_id": "owner-152",
+      "url": "https://kirjakauppaliitto.fi/finlandia-voittajat-2025/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-152"
+      ]
+    },
+    {
+      "lead_id": "owner-153",
+      "url": "https://www.nffo.no/aktuelt/medvind-for-sakprosaen-i-2025",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-153"
+      ]
+    },
+    {
+      "lead_id": "owner-154",
+      "url": "https://snl.no/Brageprisen",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-154"
+      ]
+    },
+    {
+      "lead_id": "owner-155",
+      "url": "https://www.nffo.no/aktuelt/nominer-boker-til-bokhandelens-sakprosapris-2026",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-155"
+      ]
+    },
+    {
+      "lead_id": "owner-156",
+      "url": "https://snl.no/Bokhandlerprisen",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-156"
+      ]
+    },
+    {
+      "lead_id": "owner-157",
+      "url": "https://augustpriset.se/augustpriset/om-augustpriset/pristagare-och-nominerade/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-157"
+      ]
+    },
+    {
+      "lead_id": "owner-158",
+      "url": "https://augustpriset.se/prisnom/2025/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-158"
+      ]
+    },
+    {
+      "lead_id": "owner-159",
+      "url": "https://augustpriset.se/prisnom/2024/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-159"
+      ]
+    },
+    {
+      "lead_id": "owner-160",
+      "url": "https://www.nrc.nl/nieuws/2025/07/10/de-zomervakantie-is-de-tijd-om-bij-te-lezen-nrc-geeft-tips-a4899693",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-160"
+      ]
+    },
+    {
+      "lead_id": "owner-161",
+      "url": "https://fondsbjp.nl/brusseprijs/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-161"
+      ]
+    },
+    {
+      "lead_id": "owner-162",
+      "url": "https://www.maandvandegeschiedenis.nl/page/1654/terugblik-libris-geschiedenis-prijs-2007---2025",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-162"
+      ]
+    },
+    {
+      "lead_id": "owner-163",
+      "url": "https://www.heinen.nl/non-fictie/libris-geschiedenis-prijs/shortlist-libris-geschiedenis-prijs",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-163"
+      ]
+    },
+    {
+      "lead_id": "owner-164",
+      "url": "https://www.creative.gov.au/news-events/news/announcing-winners-2025-prime-ministers-literary-awards",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-164"
+      ]
+    },
+    {
+      "lead_id": "owner-165",
+      "url": "https://www.creative.gov.au/news-events/news/announcing-winners-2026-prime-ministers-literary-awards",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-165"
+      ]
+    },
+    {
+      "lead_id": "owner-166",
+      "url": "https://www.creative.gov.au/news-events/news/announcing-shortlist-2026-prime-ministers-literary-awards",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-166"
+      ]
+    },
+    {
+      "lead_id": "owner-167",
+      "url": "https://www.creative.gov.au/2023-prime-ministers-literary-awards-winners-shortlistees-and-judges",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-167"
+      ]
+    },
+    {
+      "lead_id": "owner-168",
+      "url": "https://cdn1.walkleys.com/awards/walkley-winners-archive/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-168"
+      ]
+    },
+    {
+      "lead_id": "owner-169",
+      "url": "https://www.writerstrust.com/awards/hilary-weston-writers-trust-prize-for-nonfiction",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-169"
+      ]
+    },
+    {
+      "lead_id": "owner-170",
+      "url": "https://www.writerstrust.com/writers-books/awards/hilary-weston-writers-trust-prize-for-nonfiction/all",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-170"
+      ]
+    },
+    {
+      "lead_id": "owner-171",
+      "url": "https://canadacouncil.ca/press/2022/10/the-canada-council-for-the-arts-reveals-the-governor-generals-literary-awards-finalists",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-171"
+      ]
+    },
+    {
+      "lead_id": "owner-172",
+      "url": "https://canadacouncil.ca/press/2022/11/the-canada-council-for-the-arts-reveals-the-governor-generals-literary-awards-winners",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-172"
+      ]
+    },
+    {
+      "lead_id": "owner-173",
+      "url": "https://canadacouncil.ca/press/2025/10/2025-ggbooks-finalists-revealed",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-173"
+      ]
+    },
+    {
+      "lead_id": "owner-174",
+      "url": "https://canadacouncil.ca/press/2021/10/the-canada-council-for-the-arts-reveals-the-governor-generalss-literary-awards-finalists",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-174"
+      ]
+    },
+    {
+      "lead_id": "owner-175",
+      "url": "https://www.newindiafoundation.org/book-prize",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-175"
+      ]
+    },
+    {
+      "lead_id": "owner-176",
+      "url": "https://www.newindiafoundation.org/winner-nif-book-prize-2025",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-176"
+      ]
+    },
+    {
+      "lead_id": "owner-177",
+      "url": "https://www.newindiafoundation.org/longlist2025-1",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-177"
+      ]
+    },
+    {
+      "lead_id": "owner-178",
+      "url": "https://autherawards.in/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-178"
+      ]
+    },
+    {
+      "lead_id": "owner-179",
+      "url": "https://www.goodreads.com/award/show/15526-crossword-book-award",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-179"
+      ]
+    },
+    {
+      "lead_id": "owner-180",
+      "url": "https://www.read.gov/btsa.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-180"
+      ]
+    },
+    {
+      "lead_id": "owner-181",
+      "url": "https://loc.gov/exhibits/books-that-shaped-america/overview.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-181"
+      ]
+    },
+    {
+      "lead_id": "owner-182",
+      "url": "https://loc.gov/exhibits/america-reads/overview.html",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-182"
+      ]
+    },
+    {
+      "lead_id": "owner-183",
+      "url": "https://www.thebritishacademy.ac.uk/publishing/review/29/reflections-academic-book-future-project/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-183"
+      ]
+    },
+    {
+      "lead_id": "owner-184",
+      "url": "https://catalog.yale.edu/ycps/courses/drst/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-184"
+      ]
+    },
+    {
+      "lead_id": "owner-185",
+      "url": "https://directedstudies.yale.edu/about-us",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-185"
+      ]
+    },
+    {
+      "lead_id": "owner-186",
+      "url": "https://academic.oup.com/dsh/article/41/Supplement_1/i89/8253512",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-186"
+      ]
+    },
+    {
+      "lead_id": "owner-187",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/20539517251359229",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-187"
+      ]
+    },
+    {
+      "lead_id": "owner-188",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8686103/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-188"
+      ]
+    },
+    {
+      "lead_id": "owner-189",
+      "url": "https://link.springer.com/article/10.1007/s11192-021-04239-9",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-189"
+      ]
+    },
+    {
+      "lead_id": "owner-190",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1751157718302487",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-190"
+      ]
+    },
+    {
+      "lead_id": "owner-191",
+      "url": "https://doi.org/10.1108/LHT-06-2022-0297",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-191"
+      ]
+    },
+    {
+      "lead_id": "owner-192",
+      "url": "https://fivebooks.com/category/philosophy/best-philosophy-books-all-time/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-192"
+      ]
+    },
+    {
+      "lead_id": "owner-193",
+      "url": "https://fivebooks.com/best-books/history-best-fivebooks",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-193"
+      ]
+    },
+    {
+      "lead_id": "owner-194",
+      "url": "https://fivebooks.com/best-books/history-science-matthew-cobb/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-194"
+      ]
+    },
+    {
+      "lead_id": "owner-195",
+      "url": "https://fivebooks.com/best-books/political-philosophy-jonathan-wolff/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-195"
+      ]
+    },
+    {
+      "lead_id": "owner-196",
+      "url": "https://fivebooks.com/best-books/world-philosophy-bryan-van-norden/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "R028"
+      ]
+    },
+    {
+      "lead_id": "owner-197",
+      "url": "https://fivebooks.com/category/biography/memoir/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-197"
+      ]
+    },
+    {
+      "lead_id": "owner-198",
+      "url": "https://fivebooks.com/category/biography/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-198"
+      ]
+    },
+    {
+      "lead_id": "owner-199",
+      "url": "https://fivebooks.com/category/nonfiction-books/travel-books/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-199"
+      ]
+    },
+    {
+      "lead_id": "owner-200",
+      "url": "https://fivebooks.com/category/mathematics-and-science/anthropology/",
+      "status": "existing_exact_or_canonical_url",
+      "existing_source_ids": [
+        "OWNER-200"
+      ]
+    }
+  ]
+}

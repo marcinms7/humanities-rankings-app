@@ -1,0 +1,109 @@
+{
+  "consulted_on": "2026-09-13",
+  "summary": "Owner correction: comparative lists and reader reception should drive synthesis; academic articles remain supporting evidence. Consulted Chinese and French reader rankings, one Reddit selection with dissent, and a broad nonfiction list. No new history-target research assigned.",
+  "next": "Rebalance nonfiction membership and opening order, complete history category UI build, and preserve checkpoint.",
+  "sources": [
+    {
+      "id": "R202",
+      "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list",
+      "title": "The 100 best nonfiction books of all time: the full list",
+      "publisher": "The Guardian",
+      "author": "Robert McCrum",
+      "family": "independent_ranking",
+      "note": "A broad English-language selection spanning science, memoir, history, criticism, travel and reference. Display sequence is reverse chronological, not merit ranking; poetry, drama and fictional exceptions must be filtered.",
+      "location": "Complete numbered list; 98 title/author rows extracted, 82 and 100 held separately.",
+      "candidates": [
+        "The Sixth Extinction",
+        "The Year of Magical Thinking",
+        "Awakenings",
+        "Testament of Youth",
+        "London Labour and the London Poor",
+        "The History of the Decline and Fall of the Roman Empire"
+      ],
+      "limits": "One editor and an English-language scope; not a cross-country consensus. Source inclusion does not settle nonfiction classification.",
+      "targets": {
+        "A": "Broad nonfiction candidates for all-subject comparison.",
+        "N": "Corrects concentration on philosophy by supplying history, science, memoir, travel, culture and reference works."
+      }
+    },
+    {
+      "id": "R203",
+      "url": "https://book.douban.com/top250",
+      "title": "豆瓣读书 Top 250",
+      "publisher": "Douban",
+      "family": "reader_community",
+      "language": "zh",
+      "note": "Examined the first two pages (50 entries). A Chinese-language reader-rating algorithm puts Chinese and translated books together. Includes historical biography, sociology, travel memoir and art history as well as fiction. Edition and series identities need normalization.",
+      "location": "Top 250 pages start=0 and start=25, first 50 displayed entries; only these pages consulted.",
+      "candidates": [
+        "Dream of the Red Chamber",
+        "To Live",
+        "The Brothers Karamazov",
+        "Deng Xiaoping and the Transformation of China",
+        "Stories of the Sahara",
+        "From the Soil",
+        "Sapiens",
+        "River Town",
+        "1587, A Year of No Significance",
+        "The Story of Art"
+      ],
+      "limits": "Platform users are not representative of all Chinese readers. Ratings depend on edition, number of ratings and algorithm; series and volumes are mixed. No full-250 consultation claimed.",
+      "targets": {
+        "A": "Independent Chinese-language reader reception and additional Chinese nonfiction candidates.",
+        "L": "Reader reception of prose fiction including Chinese works and translated classics; exclude nonfiction and unmatched series.",
+        "N": "Specific biography, social history, anthropology, travel and art-history works provide a reader counterweight to academic philosophy."
+      }
+    },
+    {
+      "id": "R204",
+      "url": "https://www.reddit.com/r/nonfictionbookclub/comments/1nbx3il/my_top_50_must_read_nonfiction_books/",
+      "title": "My Top 50 Must Read Non-Fiction Books — list and reader objections",
+      "publisher": "Reddit r/nonfictionbookclub",
+      "author": "Dependent-Bunch7505 and respondents",
+      "family": "reader_discussion",
+      "note": "The author explicitly calls the 50-item selection un-ordered and grouped by topic. It favors business and psychology; replies criticize narrowness and add women authors, history and biography, including Wilkerson and Skloot. Contains self-promotion, so use as one taste profile with dissent.",
+      "location": "Opening 50-item list and replies through the women-authors/history recommendations.",
+      "candidates": [
+        "Thinking, Fast and Slow",
+        "Influence",
+        "The Righteous Mind",
+        "The Gene",
+        "Chaos",
+        "The Demon-Haunted World",
+        "The Warmth of Other Suns",
+        "The Immortal Life of Henrietta Lacks"
+      ],
+      "limits": "One personal selection, promotional context and self-selected comments; not a subreddit-wide ranking. Numbering is not merit rank.",
+      "targets": {
+        "A": "Reader preferences and disagreements across nonfiction subjects.",
+        "N": "Adds psychology, science, business, biography and social history while recording objections to an overly narrow selection."
+      }
+    },
+    {
+      "id": "R205",
+      "url": "https://www.senscritique.com/livres/tops/top111",
+      "title": "Le Top 111 livres — classement des membres",
+      "publisher": "SensCritique",
+      "family": "reader_community",
+      "language": "fr",
+      "note": "The site describes a weekly ranking by member-average rating. Examined the first 20 entries, including fiction, Holocaust testimony, oral history and film interviews. French publication/volume identifiers differ from work-level English identities.",
+      "location": "Method statement and positions 1–20 only.",
+      "candidates": [
+        "Stone Butch Blues",
+        "The Sea of Fertility",
+        "None of Us Will Return",
+        "Secondhand Time",
+        "East of Eden",
+        "The Brothers Karamazov",
+        "Hitchcock/Truffaut",
+        "The Human Race"
+      ],
+      "limits": "Member averages, not a representative French poll. Volume and translation effects are substantial; do not treat constituent-volume ranks as whole-series ranks.",
+      "targets": {
+        "A": "French-language reader reception outside the Anglophone institutional list tradition.",
+        "L": "Specific prose-fiction reception signals; preserve volume distinctions.",
+        "N": "Specific testimony, oral history and film-interview candidates, separately relevant to nonfiction."
+      }
+    }
+  ]
+}

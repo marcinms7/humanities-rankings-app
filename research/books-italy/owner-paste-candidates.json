@@ -1,0 +1,607 @@
+{
+  "target_id": "books-italy",
+  "source_report": "research/incoming/books-italy/2026-09-13-owner-paste/report.txt",
+  "reported_source_count": 145,
+  "candidates": [
+    {
+      "position": 1,
+      "reported_title": "The Divine Comedy (Commedia)",
+      "reported_author": "Dante Alighieri",
+      "raw_line": "1. Dante Alighieri — The Divine Comedy (Commedia)"
+    },
+    {
+      "position": 2,
+      "reported_title": "The Decameron (Decameron)",
+      "reported_author": "Giovanni Boccaccio",
+      "raw_line": "2. Giovanni Boccaccio — The Decameron (Decameron)"
+    },
+    {
+      "position": 3,
+      "reported_title": "The Betrothed (I promessi sposi)",
+      "reported_author": "Alessandro Manzoni",
+      "raw_line": "3. Alessandro Manzoni — The Betrothed (I promessi sposi)"
+    },
+    {
+      "position": 4,
+      "reported_title": "Canzoniere / Rerum vulgarium fragmenta",
+      "reported_author": "Francesco Petrarch",
+      "raw_line": "4. Francesco Petrarch — Canzoniere / Rerum vulgarium fragmenta"
+    },
+    {
+      "position": 5,
+      "reported_title": "Canti",
+      "reported_author": "Giacomo Leopardi",
+      "raw_line": "5. Giacomo Leopardi — Canti"
+    },
+    {
+      "position": 6,
+      "reported_title": "Orlando Furioso",
+      "reported_author": "Ludovico Ariosto",
+      "raw_line": "6. Ludovico Ariosto — Orlando Furioso"
+    },
+    {
+      "position": 7,
+      "reported_title": "The Prince (Il Principe)",
+      "reported_author": "Niccolò Machiavelli",
+      "raw_line": "7. Niccolò Machiavelli — The Prince (Il Principe)"
+    },
+    {
+      "position": 8,
+      "reported_title": "If This Is a Man (Se questo è un uomo)",
+      "reported_author": "Primo Levi",
+      "raw_line": "8. Primo Levi — If This Is a Man (Se questo è un uomo)"
+    },
+    {
+      "position": 9,
+      "reported_title": "Zeno's Conscience (La coscienza di Zeno)",
+      "reported_author": "Italo Svevo",
+      "raw_line": "9. Italo Svevo — Zeno's Conscience (La coscienza di Zeno)"
+    },
+    {
+      "position": 10,
+      "reported_title": "The Leopard (Il Gattopardo)",
+      "reported_author": "Giuseppe Tomasi di Lampedusa",
+      "raw_line": "10. Giuseppe Tomasi di Lampedusa — The Leopard (Il Gattopardo)"
+    },
+    {
+      "position": 11,
+      "reported_title": "Invisible Cities (Le città invisibili)",
+      "reported_author": "Italo Calvino",
+      "raw_line": "11. Italo Calvino — Invisible Cities (Le città invisibili)"
+    },
+    {
+      "position": 12,
+      "reported_title": "I Malavoglia / The House by the Medlar Tree",
+      "reported_author": "Giovanni Verga",
+      "raw_line": "12. Giovanni Verga — I Malavoglia / The House by the Medlar Tree"
+    },
+    {
+      "position": 13,
+      "reported_title": "The Name of the Rose (Il nome della rosa)",
+      "reported_author": "Umberto Eco",
+      "raw_line": "13. Umberto Eco — The Name of the Rose (Il nome della rosa)"
+    },
+    {
+      "position": 14,
+      "reported_title": "The Late Mattia Pascal (Il fu Mattia Pascal)",
+      "reported_author": "Luigi Pirandello",
+      "raw_line": "14. Luigi Pirandello — The Late Mattia Pascal (Il fu Mattia Pascal)"
+    },
+    {
+      "position": 15,
+      "reported_title": "Jerusalem Delivered (Gerusalemme liberata)",
+      "reported_author": "Torquato Tasso",
+      "raw_line": "15. Torquato Tasso — Jerusalem Delivered (Gerusalemme liberata)"
+    },
+    {
+      "position": 16,
+      "reported_title": "The Adventures of Pinocchio (Le avventure di Pinocchio)",
+      "reported_author": "Carlo Collodi",
+      "raw_line": "16. Carlo Collodi — The Adventures of Pinocchio (Le avventure di Pinocchio)"
+    },
+    {
+      "position": 17,
+      "reported_title": "If on a winter's night a traveler (Se una notte d'inverno un viaggiatore)",
+      "reported_author": "Italo Calvino",
+      "raw_line": "17. Italo Calvino — If on a winter's night a traveler (Se una notte d'inverno un viaggiatore)"
+    },
+    {
+      "position": 18,
+      "reported_title": "My Brilliant Friend (L'amica geniale)",
+      "reported_author": "Elena Ferrante",
+      "raw_line": "18. Elena Ferrante — My Brilliant Friend (L'amica geniale)"
+    },
+    {
+      "position": 19,
+      "reported_title": "Cuttlefish Bones (Ossi di seppia)",
+      "reported_author": "Eugenio Montale",
+      "raw_line": "19. Eugenio Montale — Cuttlefish Bones (Ossi di seppia)"
+    },
+    {
+      "position": 20,
+      "reported_title": "That Awful Mess on Via Merulana (Quer pasticciaccio brutto de via Merulana)",
+      "reported_author": "Carlo Emilio Gadda",
+      "raw_line": "20. Carlo Emilio Gadda — That Awful Mess on Via Merulana (Quer pasticciaccio brutto de via Merulana)"
+    },
+    {
+      "position": 21,
+      "reported_title": "History (La Storia)",
+      "reported_author": "Elsa Morante",
+      "raw_line": "21. Elsa Morante — History (La Storia)"
+    },
+    {
+      "position": 22,
+      "reported_title": "Operette morali",
+      "reported_author": "Giacomo Leopardi",
+      "raw_line": "22. Giacomo Leopardi — Operette morali"
+    },
+    {
+      "position": 23,
+      "reported_title": "A Private Affair (Una questione privata)",
+      "reported_author": "Beppe Fenoglio",
+      "raw_line": "23. Beppe Fenoglio — A Private Affair (Una questione privata)"
+    },
+    {
+      "position": 24,
+      "reported_title": "The Moon and the Bonfires (La luna e i falò)",
+      "reported_author": "Cesare Pavese",
+      "raw_line": "24. Cesare Pavese — The Moon and the Bonfires (La luna e i falò)"
+    },
+    {
+      "position": 25,
+      "reported_title": "The Viceroys (I Vicerè)",
+      "reported_author": "Federico De Roberto",
+      "raw_line": "25. Federico De Roberto — The Viceroys (I Vicerè)"
+    },
+    {
+      "position": 26,
+      "reported_title": "Confessions of an Italian (Le confessioni d'un italiano)",
+      "reported_author": "Ippolito Nievo",
+      "raw_line": "26. Ippolito Nievo — Confessions of an Italian (Le confessioni d'un italiano)"
+    },
+    {
+      "position": 27,
+      "reported_title": "The Tartar Steppe (Il deserto dei Tartari)",
+      "reported_author": "Dino Buzzati",
+      "raw_line": "27. Dino Buzzati — The Tartar Steppe (Il deserto dei Tartari)"
+    },
+    {
+      "position": 28,
+      "reported_title": "Family Lexicon (Lessico famigliare)",
+      "reported_author": "Natalia Ginzburg",
+      "raw_line": "28. Natalia Ginzburg — Family Lexicon (Lessico famigliare)"
+    },
+    {
+      "position": 29,
+      "reported_title": "The Garden of the Finzi-Continis (Il giardino dei Finzi-Contini)",
+      "reported_author": "Giorgio Bassani",
+      "raw_line": "29. Giorgio Bassani — The Garden of the Finzi-Continis (Il giardino dei Finzi-Contini)"
+    },
+    {
+      "position": 30,
+      "reported_title": "The Periodic Table (Il sistema periodico)",
+      "reported_author": "Primo Levi",
+      "raw_line": "30. Primo Levi — The Periodic Table (Il sistema periodico)"
+    },
+    {
+      "position": 31,
+      "reported_title": "Lies and Sorcery (Menzogna e sortilegio)",
+      "reported_author": "Elsa Morante",
+      "raw_line": "31. Elsa Morante — Lies and Sorcery (Menzogna e sortilegio)"
+    },
+    {
+      "position": 32,
+      "reported_title": "Arturo's Island (L'isola di Arturo)",
+      "reported_author": "Elsa Morante",
+      "raw_line": "32. Elsa Morante — Arturo's Island (L'isola di Arturo)"
+    },
+    {
+      "position": 33,
+      "reported_title": "Christ Stopped at Eboli (Cristo si è fermato a Eboli)",
+      "reported_author": "Carlo Levi",
+      "raw_line": "33. Carlo Levi — Christ Stopped at Eboli (Cristo si è fermato a Eboli)"
+    },
+    {
+      "position": 34,
+      "reported_title": "Reeds in the Wind (Canne al vento)",
+      "reported_author": "Grazia Deledda",
+      "raw_line": "34. Grazia Deledda — Reeds in the Wind (Canne al vento)"
+    },
+    {
+      "position": 35,
+      "reported_title": "The Time of Indifference (Gli indifferenti)",
+      "reported_author": "Alberto Moravia",
+      "raw_line": "35. Alberto Moravia — The Time of Indifference (Gli indifferenti)"
+    },
+    {
+      "position": 36,
+      "reported_title": "Mastro-don Gesualdo",
+      "reported_author": "Giovanni Verga",
+      "raw_line": "36. Giovanni Verga — Mastro-don Gesualdo"
+    },
+    {
+      "position": 37,
+      "reported_title": "Discourses on Livy (Discorsi sopra la prima deca di Tito Livio)",
+      "reported_author": "Niccolò Machiavelli",
+      "raw_line": "37. Niccolò Machiavelli — Discourses on Livy (Discorsi sopra la prima deca di Tito Livio)"
+    },
+    {
+      "position": 38,
+      "reported_title": "On Crimes and Punishments (Dei delitti e delle pene)",
+      "reported_author": "Cesare Beccaria",
+      "raw_line": "38. Cesare Beccaria — On Crimes and Punishments (Dei delitti e delle pene)"
+    },
+    {
+      "position": 39,
+      "reported_title": "Dialogue Concerning the Two Chief World Systems (Dialogo sopra i due massimi sistemi del mondo)",
+      "reported_author": "Galileo Galilei",
+      "raw_line": "39. Galileo Galilei — Dialogue Concerning the Two Chief World Systems (Dialogo sopra i due massimi sistemi del mondo)"
+    },
+    {
+      "position": 40,
+      "reported_title": "The Book of the Courtier (Il Cortegiano)",
+      "reported_author": "Baldassare Castiglione",
+      "raw_line": "40. Baldassare Castiglione — The Book of the Courtier (Il Cortegiano)"
+    },
+    {
+      "position": 41,
+      "reported_title": "Lives of the Most Excellent Painters, Sculptors, and Architects (Le vite)",
+      "reported_author": "Giorgio Vasari",
+      "raw_line": "41. Giorgio Vasari — Lives of the Most Excellent Painters, Sculptors, and Architects (Le vite)"
+    },
+    {
+      "position": 42,
+      "reported_title": "Autobiography (Vita)",
+      "reported_author": "Benvenuto Cellini",
+      "raw_line": "42. Benvenuto Cellini — Autobiography (Vita)"
+    },
+    {
+      "position": 43,
+      "reported_title": "Ricordi",
+      "reported_author": "Francesco Guicciardini",
+      "raw_line": "43. Francesco Guicciardini — Ricordi"
+    },
+    {
+      "position": 44,
+      "reported_title": "The New Science (La scienza nuova)",
+      "reported_author": "Giambattista Vico",
+      "raw_line": "44. Giambattista Vico — The New Science (La scienza nuova)"
+    },
+    {
+      "position": 45,
+      "reported_title": "Vita Nuova",
+      "reported_author": "Dante Alighieri",
+      "raw_line": "45. Dante Alighieri — Vita Nuova"
+    },
+    {
+      "position": 46,
+      "reported_title": "Last Letters of Jacopo Ortis (Ultime lettere di Jacopo Ortis)",
+      "reported_author": "Ugo Foscolo",
+      "raw_line": "46. Ugo Foscolo — Last Letters of Jacopo Ortis (Ultime lettere di Jacopo Ortis)"
+    },
+    {
+      "position": 47,
+      "reported_title": "One, No One and One Hundred Thousand (Uno, nessuno e centomila)",
+      "reported_author": "Luigi Pirandello",
+      "raw_line": "47. Luigi Pirandello — One, No One and One Hundred Thousand (Uno, nessuno e centomila)"
+    },
+    {
+      "position": 48,
+      "reported_title": "The Experience of Pain (La cognizione del dolore)",
+      "reported_author": "Carlo Emilio Gadda",
+      "raw_line": "48. Carlo Emilio Gadda — The Experience of Pain (La cognizione del dolore)"
+    },
+    {
+      "position": 49,
+      "reported_title": "The Storm and Other Things (La bufera e altro)",
+      "reported_author": "Eugenio Montale",
+      "raw_line": "49. Eugenio Montale — The Storm and Other Things (La bufera e altro)"
+    },
+    {
+      "position": 50,
+      "reported_title": "L'Allegria",
+      "reported_author": "Giuseppe Ungaretti",
+      "raw_line": "50. Giuseppe Ungaretti — L'Allegria"
+    },
+    {
+      "position": 51,
+      "reported_title": "Il Canzoniere",
+      "reported_author": "Umberto Saba",
+      "raw_line": "51. Umberto Saba — Il Canzoniere"
+    },
+    {
+      "position": 52,
+      "reported_title": "Canti Orfici",
+      "reported_author": "Dino Campana",
+      "raw_line": "52. Dino Campana — Canti Orfici"
+    },
+    {
+      "position": 53,
+      "reported_title": "Myricae",
+      "reported_author": "Giovanni Pascoli",
+      "raw_line": "53. Giovanni Pascoli — Myricae"
+    },
+    {
+      "position": 54,
+      "reported_title": "Alcyone",
+      "reported_author": "Gabriele D'Annunzio",
+      "raw_line": "54. Gabriele D'Annunzio — Alcyone"
+    },
+    {
+      "position": 55,
+      "reported_title": "The Little World of the Past (Piccolo mondo antico)",
+      "reported_author": "Antonio Fogazzaro",
+      "raw_line": "55. Antonio Fogazzaro — The Little World of the Past (Piccolo mondo antico)"
+    },
+    {
+      "position": 56,
+      "reported_title": "The Pleasure (Il piacere)",
+      "reported_author": "Gabriele D'Annunzio",
+      "raw_line": "56. Gabriele D'Annunzio — The Pleasure (Il piacere)"
+    },
+    {
+      "position": 57,
+      "reported_title": "Elias Portolu",
+      "reported_author": "Grazia Deledda",
+      "raw_line": "57. Grazia Deledda — Elias Portolu"
+    },
+    {
+      "position": 58,
+      "reported_title": "A Woman (Una donna)",
+      "reported_author": "Sibilla Aleramo",
+      "raw_line": "58. Sibilla Aleramo — A Woman (Una donna)"
+    },
+    {
+      "position": 59,
+      "reported_title": "With Closed Eyes (Con gli occhi chiusi)",
+      "reported_author": "Federigo Tozzi",
+      "raw_line": "59. Federigo Tozzi — With Closed Eyes (Con gli occhi chiusi)"
+    },
+    {
+      "position": 60,
+      "reported_title": "Fontamara",
+      "reported_author": "Ignazio Silone",
+      "raw_line": "60. Ignazio Silone — Fontamara"
+    },
+    {
+      "position": 61,
+      "reported_title": "Conversations in Sicily (Conversazione in Sicilia)",
+      "reported_author": "Elio Vittorini",
+      "raw_line": "61. Elio Vittorini — Conversations in Sicily (Conversazione in Sicilia)"
+    },
+    {
+      "position": 62,
+      "reported_title": "Dialogues with Leucò (Dialoghi con Leucò)",
+      "reported_author": "Cesare Pavese",
+      "raw_line": "62. Cesare Pavese — Dialogues with Leucò (Dialoghi con Leucò)"
+    },
+    {
+      "position": 63,
+      "reported_title": "The Truce (La tregua)",
+      "reported_author": "Primo Levi",
+      "raw_line": "63. Primo Levi — The Truce (La tregua)"
+    },
+    {
+      "position": 64,
+      "reported_title": "The Drowned and the Saved (I sommersi e i salvati)",
+      "reported_author": "Primo Levi",
+      "raw_line": "64. Primo Levi — The Drowned and the Saved (I sommersi e i salvati)"
+    },
+    {
+      "position": 65,
+      "reported_title": "The Little Virtues (Le piccole virtù)",
+      "reported_author": "Natalia Ginzburg",
+      "raw_line": "65. Natalia Ginzburg — The Little Virtues (Le piccole virtù)"
+    },
+    {
+      "position": 66,
+      "reported_title": "The Sea Does Not Bathe Naples (Il mare non bagna Napoli)",
+      "reported_author": "Anna Maria Ortese",
+      "raw_line": "66. Anna Maria Ortese — The Sea Does Not Bathe Naples (Il mare non bagna Napoli)"
+    },
+    {
+      "position": 67,
+      "reported_title": "Forbidden Notebook (Quaderno proibito)",
+      "reported_author": "Alba de Céspedes",
+      "raw_line": "67. Alba de Céspedes — Forbidden Notebook (Quaderno proibito)"
+    },
+    {
+      "position": 68,
+      "reported_title": "The Ashes of Gramsci (Le ceneri di Gramsci)",
+      "reported_author": "Pier Paolo Pasolini",
+      "raw_line": "68. Pier Paolo Pasolini — The Ashes of Gramsci (Le ceneri di Gramsci)"
+    },
+    {
+      "position": 69,
+      "reported_title": "The Day of the Owl (Il giorno della civetta)",
+      "reported_author": "Leonardo Sciascia",
+      "raw_line": "69. Leonardo Sciascia — The Day of the Owl (Il giorno della civetta)"
+    },
+    {
+      "position": 70,
+      "reported_title": "To Each His Own (A ciascuno il suo)",
+      "reported_author": "Leonardo Sciascia",
+      "raw_line": "70. Leonardo Sciascia — To Each His Own (A ciascuno il suo)"
+    },
+    {
+      "position": 71,
+      "reported_title": "Johnny the Partisan (Il partigiano Johnny)",
+      "reported_author": "Beppe Fenoglio",
+      "raw_line": "71. Beppe Fenoglio — Johnny the Partisan (Il partigiano Johnny)"
+    },
+    {
+      "position": 72,
+      "reported_title": "The Little Masters (I piccoli maestri)",
+      "reported_author": "Luigi Meneghello",
+      "raw_line": "72. Luigi Meneghello — The Little Masters (I piccoli maestri)"
+    },
+    {
+      "position": 73,
+      "reported_title": "Agnese Goes to Die (L'Agnese va a morire)",
+      "reported_author": "Renata Viganò",
+      "raw_line": "73. Renata Viganò — Agnese Goes to Die (L'Agnese va a morire)"
+    },
+    {
+      "position": 74,
+      "reported_title": "Kaputt",
+      "reported_author": "Curzio Malaparte",
+      "raw_line": "74. Curzio Malaparte — Kaputt"
+    },
+    {
+      "position": 75,
+      "reported_title": "The Baron in the Trees (Il barone rampante)",
+      "reported_author": "Italo Calvino",
+      "raw_line": "75. Italo Calvino — The Baron in the Trees (Il barone rampante)"
+    },
+    {
+      "position": 76,
+      "reported_title": "Cosmicomics (Le cosmicomiche)",
+      "reported_author": "Italo Calvino",
+      "raw_line": "76. Italo Calvino — Cosmicomics (Le cosmicomiche)"
+    },
+    {
+      "position": 77,
+      "reported_title": "The Path to the Spiders' Nests (Il sentiero dei nidi di ragno)",
+      "reported_author": "Italo Calvino",
+      "raw_line": "77. Italo Calvino — The Path to the Spiders' Nests (Il sentiero dei nidi di ragno)"
+    },
+    {
+      "position": 78,
+      "reported_title": "Italian Folktales (Fiabe italiane)",
+      "reported_author": "Italo Calvino",
+      "raw_line": "78. Italo Calvino — Italian Folktales (Fiabe italiane)"
+    },
+    {
+      "position": 79,
+      "reported_title": "Foucault's Pendulum (Il pendolo di Foucault)",
+      "reported_author": "Umberto Eco",
+      "raw_line": "79. Umberto Eco — Foucault's Pendulum (Il pendolo di Foucault)"
+    },
+    {
+      "position": 80,
+      "reported_title": "Danube (Danubio)",
+      "reported_author": "Claudio Magris",
+      "raw_line": "80. Claudio Magris — Danube (Danubio)"
+    },
+    {
+      "position": 81,
+      "reported_title": "Memoriale",
+      "reported_author": "Paolo Volponi",
+      "raw_line": "81. Paolo Volponi — Memoriale"
+    },
+    {
+      "position": 82,
+      "reported_title": "The Marriage of Cadmus and Harmony (Le nozze di Cadmo e Armonia)",
+      "reported_author": "Roberto Calasso",
+      "raw_line": "82. Roberto Calasso — The Marriage of Cadmus and Harmony (Le nozze di Cadmo e Armonia)"
+    },
+    {
+      "position": 83,
+      "reported_title": "Pereira Maintains (Sostiene Pereira)",
+      "reported_author": "Antonio Tabucchi",
+      "raw_line": "83. Antonio Tabucchi — Pereira Maintains (Sostiene Pereira)"
+    },
+    {
+      "position": 84,
+      "reported_title": "Orlando Innamorato",
+      "reported_author": "Matteo Maria Boiardo",
+      "raw_line": "84. Matteo Maria Boiardo — Orlando Innamorato"
+    },
+    {
+      "position": 85,
+      "reported_title": "Arcadia",
+      "reported_author": "Jacopo Sannazaro",
+      "raw_line": "85. Jacopo Sannazaro — Arcadia"
+    },
+    {
+      "position": 86,
+      "reported_title": "Prose della volgar lingua",
+      "reported_author": "Pietro Bembo",
+      "raw_line": "86. Pietro Bembo — Prose della volgar lingua"
+    },
+    {
+      "position": 87,
+      "reported_title": "Vita",
+      "reported_author": "Vittorio Alfieri",
+      "raw_line": "87. Vittorio Alfieri — Vita"
+    },
+    {
+      "position": 88,
+      "reported_title": "Odi barbare",
+      "reported_author": "Giosuè Carducci",
+      "raw_line": "88. Giosuè Carducci — Odi barbare"
+    },
+    {
+      "position": 89,
+      "reported_title": "Ed è subito sera",
+      "reported_author": "Salvatore Quasimodo",
+      "raw_line": "89. Salvatore Quasimodo — Ed è subito sera"
+    },
+    {
+      "position": 90,
+      "reported_title": "The Art of Joy (L'arte della gioia)",
+      "reported_author": "Goliarda Sapienza",
+      "raw_line": "90. Goliarda Sapienza — The Art of Joy (L'arte della gioia)"
+    },
+    {
+      "position": 91,
+      "reported_title": "Artemisia",
+      "reported_author": "Anna Banti",
+      "raw_line": "91. Anna Banti — Artemisia"
+    },
+    {
+      "position": 92,
+      "reported_title": "The Story of the Lost Child (Storia della bambina perduta)",
+      "reported_author": "Elena Ferrante",
+      "raw_line": "92. Elena Ferrante — The Story of the Lost Child (Storia della bambina perduta)"
+    },
+    {
+      "position": 93,
+      "reported_title": "Gomorrah (Gomorra)",
+      "reported_author": "Roberto Saviano",
+      "raw_line": "93. Roberto Saviano — Gomorrah (Gomorra)"
+    },
+    {
+      "position": 94,
+      "reported_title": "Accabadora",
+      "reported_author": "Michela Murgia",
+      "raw_line": "94. Michela Murgia — Accabadora"
+    },
+    {
+      "position": 95,
+      "reported_title": "The Sergeant in the Snow (Il sergente nella neve)",
+      "reported_author": "Mario Rigoni Stern",
+      "raw_line": "95. Mario Rigoni Stern — The Sergeant in the Snow (Il sergente nella neve)"
+    },
+    {
+      "position": 96,
+      "reported_title": "Telephone Tales (Favole al telefono)",
+      "reported_author": "Gianni Rodari",
+      "raw_line": "96. Gianni Rodari — Telephone Tales (Favole al telefono)"
+    },
+    {
+      "position": 97,
+      "reported_title": "Heart (Cuore)",
+      "reported_author": "Edmondo De Amicis",
+      "raw_line": "97. Edmondo De Amicis — Heart (Cuore)"
+    },
+    {
+      "position": 98,
+      "reported_title": "Science in the Kitchen and the Art of Eating Well (La scienza in cucina e l'arte di mangiar bene)",
+      "reported_author": "Pellegrino Artusi",
+      "raw_line": "98. Pellegrino Artusi — Science in the Kitchen and the Art of Eating Well (La scienza in cucina e l'arte di mangiar bene)"
+    },
+    {
+      "position": 99,
+      "reported_title": "The Tigers of Mompracem (Le tigri di Mompracem)",
+      "reported_author": "Emilio Salgari",
+      "raw_line": "99. Emilio Salgari — The Tigers of Mompracem (Le tigri di Mompracem)"
+    },
+    {
+      "position": 100,
+      "reported_title": "The Silent Duchess (La lunga vita di Marianna Ucrìa)",
+      "reported_author": "Dacia Maraini",
+      "raw_line": "100. Dacia Maraini — The Silent Duchess (La lunga vita di Marianna Ucrìa)"
+    }
+  ]
+}

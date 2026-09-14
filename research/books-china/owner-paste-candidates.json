@@ -1,0 +1,607 @@
+{
+  "target_id": "books-china",
+  "source_report": "research/incoming/books-china/2026-09-13-owner-paste/report.txt",
+  "reported_source_count": 128,
+  "candidates": [
+    {
+      "position": 1,
+      "reported_title": "Dream of the Red Chamber / The Story of the Stone [红楼梦]",
+      "reported_author": "Cao Xueqin (曹雪芹)",
+      "raw_line": "001. Dream of the Red Chamber / The Story of the Stone [红楼梦] — Cao Xueqin (曹雪芹)"
+    },
+    {
+      "position": 2,
+      "reported_title": "Records of the Grand Historian (Shiji) [史记]",
+      "reported_author": "Sima Qian (司马迁)",
+      "raw_line": "002. Records of the Grand Historian (Shiji) [史记] — Sima Qian (司马迁)"
+    },
+    {
+      "position": 3,
+      "reported_title": "Zhuangzi [庄子]",
+      "reported_author": "Zhuang Zhou / Zhuangzi tradition",
+      "raw_line": "003. Zhuangzi [庄子] — Zhuang Zhou / Zhuangzi tradition"
+    },
+    {
+      "position": 4,
+      "reported_title": "The Analects [论语]",
+      "reported_author": "Confucius and disciples",
+      "raw_line": "004. The Analects [论语] — Confucius and disciples"
+    },
+    {
+      "position": 5,
+      "reported_title": "Tao Te Ching (Daodejing) [道德经 / 老子]",
+      "reported_author": "Laozi / textual tradition",
+      "raw_line": "005. Tao Te Ching (Daodejing) [道德经 / 老子] — Laozi / textual tradition"
+    },
+    {
+      "position": 6,
+      "reported_title": "Book of Songs (Classic of Poetry) [诗经]",
+      "reported_author": "",
+      "raw_line": "006. Book of Songs (Classic of Poetry) [诗经] — Anonymous anthology"
+    },
+    {
+      "position": 7,
+      "reported_title": "I Ching (Book of Changes) [易经 / 周易]",
+      "reported_author": "Composite / traditional attribution",
+      "raw_line": "007. I Ching (Book of Changes) [易经 / 周易] — Composite / traditional attribution"
+    },
+    {
+      "position": 8,
+      "reported_title": "Journey to the West [西游记]",
+      "reported_author": "Wu Cheng'en (吴承恩), traditional attribution",
+      "raw_line": "008. Journey to the West [西游记] — Wu Cheng'en (吴承恩), traditional attribution"
+    },
+    {
+      "position": 9,
+      "reported_title": "Romance of the Three Kingdoms [三国演义]",
+      "reported_author": "Luo Guanzhong (罗贯中), traditional attribution",
+      "raw_line": "009. Romance of the Three Kingdoms [三国演义] — Luo Guanzhong (罗贯中), traditional attribution"
+    },
+    {
+      "position": 10,
+      "reported_title": "Water Margin / Outlaws of the Marsh [水浒传]",
+      "reported_author": "Shi Nai'an (施耐庵), traditional attribution",
+      "raw_line": "010. Water Margin / Outlaws of the Marsh [水浒传] — Shi Nai'an (施耐庵), traditional attribution"
+    },
+    {
+      "position": 11,
+      "reported_title": "Call to Arms [呐喊]",
+      "reported_author": "Lu Xun (鲁迅)",
+      "raw_line": "011. Call to Arms [呐喊] — Lu Xun (鲁迅)"
+    },
+    {
+      "position": 12,
+      "reported_title": "Songs of Chu [楚辞]",
+      "reported_author": "Qu Yuan and others",
+      "raw_line": "012. Songs of Chu [楚辞] — Qu Yuan and others"
+    },
+    {
+      "position": 13,
+      "reported_title": "Jin Ping Mei (The Plum in the Golden Vase) [金瓶梅]",
+      "reported_author": "Lanling Xiaoxiao Sheng (兰陵笑笑生)",
+      "raw_line": "013. Jin Ping Mei (The Plum in the Golden Vase) [金瓶梅] — Lanling Xiaoxiao Sheng (兰陵笑笑生)"
+    },
+    {
+      "position": 14,
+      "reported_title": "Zuo Zhuan [左传]",
+      "reported_author": "Anonymous / traditionally Zuo Qiuming",
+      "raw_line": "014. Zuo Zhuan [左传] — Anonymous / traditionally Zuo Qiuming"
+    },
+    {
+      "position": 15,
+      "reported_title": "Mencius [孟子]",
+      "reported_author": "Mengzi and disciples",
+      "raw_line": "015. Mencius [孟子] — Mengzi and disciples"
+    },
+    {
+      "position": 16,
+      "reported_title": "The Art of War [孙子兵法]",
+      "reported_author": "Sunzi (孙武)",
+      "raw_line": "016. The Art of War [孙子兵法] — Sunzi (孙武)"
+    },
+    {
+      "position": 17,
+      "reported_title": "Strange Tales from a Chinese Studio [聊斋志异]",
+      "reported_author": "Pu Songling (蒲松龄)",
+      "raw_line": "017. Strange Tales from a Chinese Studio [聊斋志异] — Pu Songling (蒲松龄)"
+    },
+    {
+      "position": 18,
+      "reported_title": "The Scholars [儒林外史]",
+      "reported_author": "Wu Jingzi (吴敬梓)",
+      "raw_line": "018. The Scholars [儒林外史] — Wu Jingzi (吴敬梓)"
+    },
+    {
+      "position": 19,
+      "reported_title": "Zizhi Tongjian (Comprehensive Mirror in Aid of Governance) [资治通鉴]",
+      "reported_author": "Sima Guang (司马光), editor",
+      "raw_line": "019. Zizhi Tongjian (Comprehensive Mirror in Aid of Governance) [资治通鉴] — Sima Guang (司马光), editor"
+    },
+    {
+      "position": 20,
+      "reported_title": "The Literary Mind and the Carving of Dragons [文心雕龙]",
+      "reported_author": "Liu Xie (刘勰)",
+      "raw_line": "020. The Literary Mind and the Carving of Dragons [文心雕龙] — Liu Xie (刘勰)"
+    },
+    {
+      "position": 21,
+      "reported_title": "To Live [活着]",
+      "reported_author": "Yu Hua (余华)",
+      "raw_line": "021. To Live [活着] — Yu Hua (余华)"
+    },
+    {
+      "position": 22,
+      "reported_title": "The Peony Pavilion [牡丹亭]",
+      "reported_author": "Tang Xianzu (汤显祖)",
+      "raw_line": "022. The Peony Pavilion [牡丹亭] — Tang Xianzu (汤显祖)"
+    },
+    {
+      "position": 23,
+      "reported_title": "Romance of the Western Chamber [西厢记]",
+      "reported_author": "Wang Shifu (王实甫)",
+      "raw_line": "023. Romance of the Western Chamber [西厢记] — Wang Shifu (王实甫)"
+    },
+    {
+      "position": 24,
+      "reported_title": "Collected Poems of Du Fu [杜甫诗集]",
+      "reported_author": "Du Fu (杜甫)",
+      "raw_line": "024. Collected Poems of Du Fu [杜甫诗集] — Du Fu (杜甫)"
+    },
+    {
+      "position": 25,
+      "reported_title": "Collected Poems of Li Bai [李白诗集]",
+      "reported_author": "Li Bai (李白)",
+      "raw_line": "025. Collected Poems of Li Bai [李白诗集] — Li Bai (李白)"
+    },
+    {
+      "position": 26,
+      "reported_title": "Platform Sutra of the Sixth Patriarch [六祖坛经]",
+      "reported_author": "Traditionally associated with Huineng",
+      "raw_line": "026. Platform Sutra of the Sixth Patriarch [六祖坛经] — Traditionally associated with Huineng"
+    },
+    {
+      "position": 27,
+      "reported_title": "Book of Rites [礼记]",
+      "reported_author": "",
+      "raw_line": "027. Book of Rites [礼记] — Composite"
+    },
+    {
+      "position": 28,
+      "reported_title": "Xunzi [荀子]",
+      "reported_author": "Xun Kuang (荀况) and school",
+      "raw_line": "028. Xunzi [荀子] — Xun Kuang (荀况) and school"
+    },
+    {
+      "position": 29,
+      "reported_title": "Mozi [墨子]",
+      "reported_author": "Mozi (墨翟) and school",
+      "raw_line": "029. Mozi [墨子] — Mozi (墨翟) and school"
+    },
+    {
+      "position": 30,
+      "reported_title": "Han Feizi [韩非子]",
+      "reported_author": "Han Fei (韩非)",
+      "raw_line": "030. Han Feizi [韩非子] — Han Fei (韩非)"
+    },
+    {
+      "position": 31,
+      "reported_title": "Wen Xuan (Selections of Refined Literature) [文选]",
+      "reported_author": "Compiled by Xiao Tong (萧统)",
+      "raw_line": "031. Wen Xuan (Selections of Refined Literature) [文选] — Compiled by Xiao Tong (萧统)"
+    },
+    {
+      "position": 32,
+      "reported_title": "Border Town [边城]",
+      "reported_author": "Shen Congwen (沈从文)",
+      "raw_line": "032. Border Town [边城] — Shen Congwen (沈从文)"
+    },
+    {
+      "position": 33,
+      "reported_title": "Fortress Besieged [围城]",
+      "reported_author": "Qian Zhongshu (钱钟书)",
+      "raw_line": "033. Fortress Besieged [围城] — Qian Zhongshu (钱钟书)"
+    },
+    {
+      "position": 34,
+      "reported_title": "Rickshaw Boy [骆驼祥子]",
+      "reported_author": "Lao She (老舍)",
+      "raw_line": "034. Rickshaw Boy [骆驼祥子] — Lao She (老舍)"
+    },
+    {
+      "position": 35,
+      "reported_title": "Chuanqi (Romances / Legends) [传奇]",
+      "reported_author": "Eileen Chang / Zhang Ailing (张爱玲)",
+      "raw_line": "035. Chuanqi (Romances / Legends) [传奇] — Eileen Chang / Zhang Ailing (张爱玲)"
+    },
+    {
+      "position": 36,
+      "reported_title": "Midnight [子夜]",
+      "reported_author": "Mao Dun (茅盾)",
+      "raw_line": "036. Midnight [子夜] — Mao Dun (茅盾)"
+    },
+    {
+      "position": 37,
+      "reported_title": "Family [家]",
+      "reported_author": "Ba Jin (巴金)",
+      "raw_line": "037. Family [家] — Ba Jin (巴金)"
+    },
+    {
+      "position": 38,
+      "reported_title": "Tales of Hulan River [呼兰河传]",
+      "reported_author": "Xiao Hong (萧红)",
+      "raw_line": "038. Tales of Hulan River [呼兰河传] — Xiao Hong (萧红)"
+    },
+    {
+      "position": 39,
+      "reported_title": "Thunderstorm [雷雨]",
+      "reported_author": "Cao Yu (曹禺)",
+      "raw_line": "039. Thunderstorm [雷雨] — Cao Yu (曹禺)"
+    },
+    {
+      "position": 40,
+      "reported_title": "Six Records of a Floating Life [浮生六记]",
+      "reported_author": "Shen Fu (沈复)",
+      "raw_line": "040. Six Records of a Floating Life [浮生六记] — Shen Fu (沈复)"
+    },
+    {
+      "position": 41,
+      "reported_title": "A New Account of the Tales of the World [世说新语]",
+      "reported_author": "Liu Yiqing (刘义庆), compiler/traditional attribution",
+      "raw_line": "041. A New Account of the Tales of the World [世说新语] — Liu Yiqing (刘义庆), compiler/traditional attribution"
+    },
+    {
+      "position": 42,
+      "reported_title": "Teahouse [茶馆]",
+      "reported_author": "Lao She (老舍)",
+      "raw_line": "042. Teahouse [茶馆] — Lao She (老舍)"
+    },
+    {
+      "position": 43,
+      "reported_title": "Four Generations Under One Roof [四世同堂]",
+      "reported_author": "Lao She (老舍)",
+      "raw_line": "043. Four Generations Under One Roof [四世同堂] — Lao She (老舍)"
+    },
+    {
+      "position": 44,
+      "reported_title": "Golden Age [黄金时代]",
+      "reported_author": "Wang Xiaobo (王小波)",
+      "raw_line": "044. Golden Age [黄金时代] — Wang Xiaobo (王小波)"
+    },
+    {
+      "position": 45,
+      "reported_title": "Red Sorghum [红高粱家族]",
+      "reported_author": "Mo Yan (莫言)",
+      "raw_line": "045. Red Sorghum [红高粱家族] — Mo Yan (莫言)"
+    },
+    {
+      "position": 46,
+      "reported_title": "Ordinary World [平凡的世界]",
+      "reported_author": "Lu Yao (路遥)",
+      "raw_line": "046. Ordinary World [平凡的世界] — Lu Yao (路遥)"
+    },
+    {
+      "position": 47,
+      "reported_title": "White Deer Plain [白鹿原]",
+      "reported_author": "Chen Zhongshi (陈忠实)",
+      "raw_line": "047. White Deer Plain [白鹿原] — Chen Zhongshi (陈忠实)"
+    },
+    {
+      "position": 48,
+      "reported_title": "The Legend of the Condor Heroes [射雕英雄传]",
+      "reported_author": "Jin Yong / Louis Cha (金庸)",
+      "raw_line": "048. The Legend of the Condor Heroes [射雕英雄传] — Jin Yong / Louis Cha (金庸)"
+    },
+    {
+      "position": 49,
+      "reported_title": "The Chess King [棋王]",
+      "reported_author": "A Cheng (阿城)",
+      "raw_line": "049. The Chess King [棋王] — A Cheng (阿城)"
+    },
+    {
+      "position": 50,
+      "reported_title": "Soul Mountain [灵山]",
+      "reported_author": "Gao Xingjian (高行健)",
+      "raw_line": "050. Soul Mountain [灵山] — Gao Xingjian (高行健)"
+    },
+    {
+      "position": 51,
+      "reported_title": "The Three-Body Problem [三体]",
+      "reported_author": "Liu Cixin (刘慈欣)",
+      "raw_line": "051. The Three-Body Problem [三体] — Liu Cixin (刘慈欣)"
+    },
+    {
+      "position": 52,
+      "reported_title": "The Song of Everlasting Sorrow [长恨歌]",
+      "reported_author": "Wang Anyi (王安忆)",
+      "raw_line": "052. The Song of Everlasting Sorrow [长恨歌] — Wang Anyi (王安忆)"
+    },
+    {
+      "position": 53,
+      "reported_title": "Dream of Ding Village [丁庄梦]",
+      "reported_author": "Yan Lianke (阎连科)",
+      "raw_line": "053. Dream of Ding Village [丁庄梦] — Yan Lianke (阎连科)"
+    },
+    {
+      "position": 54,
+      "reported_title": "Life and Death Are Wearing Me Out [生死疲劳]",
+      "reported_author": "Mo Yan (莫言)",
+      "raw_line": "054. Life and Death Are Wearing Me Out [生死疲劳] — Mo Yan (莫言)"
+    },
+    {
+      "position": 55,
+      "reported_title": "Chronicle of a Blood Merchant [许三观卖血记]",
+      "reported_author": "Yu Hua (余华)",
+      "raw_line": "055. Chronicle of a Blood Merchant [许三观卖血记] — Yu Hua (余华)"
+    },
+    {
+      "position": 56,
+      "reported_title": "Taipei People [台北人]",
+      "reported_author": "Bai Xianyong (白先勇)",
+      "raw_line": "056. Taipei People [台北人] — Bai Xianyong (白先勇)"
+    },
+    {
+      "position": 57,
+      "reported_title": "The Last Quarter of the Moon [额尔古纳河右岸]",
+      "reported_author": "Chi Zijian (迟子建)",
+      "raw_line": "057. The Last Quarter of the Moon [额尔古纳河右岸] — Chi Zijian (迟子建)"
+    },
+    {
+      "position": 58,
+      "reported_title": "A Dictionary of Maqiao [马桥词典]",
+      "reported_author": "Han Shaogong (韩少功)",
+      "raw_line": "058. A Dictionary of Maqiao [马桥词典] — Han Shaogong (韩少功)"
+    },
+    {
+      "position": 59,
+      "reported_title": "Ruined City [废都]",
+      "reported_author": "Jia Pingwa (贾平凹)",
+      "raw_line": "059. Ruined City [废都] — Jia Pingwa (贾平凹)"
+    },
+    {
+      "position": 60,
+      "reported_title": "Qin Opera [秦腔]",
+      "reported_author": "Jia Pingwa (贾平凹)",
+      "raw_line": "060. Qin Opera [秦腔] — Jia Pingwa (贾平凹)"
+    },
+    {
+      "position": 61,
+      "reported_title": "Stories of the Sahara [撒哈拉的故事]",
+      "reported_author": "Sanmao (三毛)",
+      "raw_line": "061. Stories of the Sahara [撒哈拉的故事] — Sanmao (三毛)"
+    },
+    {
+      "position": 62,
+      "reported_title": "Flowers in the Mirror [镜花缘]",
+      "reported_author": "Li Ruzhen (李汝珍)",
+      "raw_line": "062. Flowers in the Mirror [镜花缘] — Li Ruzhen (李汝珍)"
+    },
+    {
+      "position": 63,
+      "reported_title": "Investiture of the Gods [封神演义]",
+      "reported_author": "Traditionally Xu Zhonglin (许仲琳)",
+      "raw_line": "063. Investiture of the Gods [封神演义] — Traditionally Xu Zhonglin (许仲琳)"
+    },
+    {
+      "position": 64,
+      "reported_title": "Stories Old and New (Gujin Xiaoshuo) [古今小说 / 喻世明言]",
+      "reported_author": "Feng Menglong (冯梦龙), compiler",
+      "raw_line": "064. Stories Old and New (Gujin Xiaoshuo) [古今小说 / 喻世明言] — Feng Menglong (冯梦龙), compiler"
+    },
+    {
+      "position": 65,
+      "reported_title": "Slapping the Table in Amazement (Pai'an Jingqi collections) [拍案惊奇]",
+      "reported_author": "Ling Mengchu (凌濛初)",
+      "raw_line": "065. Slapping the Table in Amazement (Pai'an Jingqi collections) [拍案惊奇] — Ling Mengchu (凌濛初)"
+    },
+    {
+      "position": 66,
+      "reported_title": "The Peach Blossom Fan [桃花扇]",
+      "reported_author": "Kong Shangren (孔尚任)",
+      "raw_line": "066. The Peach Blossom Fan [桃花扇] — Kong Shangren (孔尚任)"
+    },
+    {
+      "position": 67,
+      "reported_title": "The Palace of Eternal Life [长生殿]",
+      "reported_author": "Hong Sheng (洪昇)",
+      "raw_line": "067. The Palace of Eternal Life [长生殿] — Hong Sheng (洪昇)"
+    },
+    {
+      "position": 68,
+      "reported_title": "The Injustice to Dou E [窦娥冤]",
+      "reported_author": "Guan Hanqing (关汉卿)",
+      "raw_line": "068. The Injustice to Dou E [窦娥冤] — Guan Hanqing (关汉卿)"
+    },
+    {
+      "position": 69,
+      "reported_title": "The Orphan of Zhao [赵氏孤儿]",
+      "reported_author": "Ji Junxiang (纪君祥)",
+      "raw_line": "069. The Orphan of Zhao [赵氏孤儿] — Ji Junxiang (纪君祥)"
+    },
+    {
+      "position": 70,
+      "reported_title": "The Travels of Lao Can [老残游记]",
+      "reported_author": "Liu E (刘鹗)",
+      "raw_line": "070. The Travels of Lao Can [老残游记] — Liu E (刘鹗)"
+    },
+    {
+      "position": 71,
+      "reported_title": "The Sing-Song Girls of Shanghai [海上花列传]",
+      "reported_author": "Han Bangqing (韩邦庆)",
+      "raw_line": "071. The Sing-Song Girls of Shanghai [海上花列传] — Han Bangqing (韩邦庆)"
+    },
+    {
+      "position": 72,
+      "reported_title": "Officialdom Unmasked [官场现形记]",
+      "reported_author": "Li Boyuan (李伯元)",
+      "raw_line": "072. Officialdom Unmasked [官场现形记] — Li Boyuan (李伯元)"
+    },
+    {
+      "position": 73,
+      "reported_title": "Bizarre Happenings Eyewitnessed over Two Decades [二十年目睹之怪现状]",
+      "reported_author": "Wu Jianren (吴趼人)",
+      "raw_line": "073. Bizarre Happenings Eyewitnessed over Two Decades [二十年目睹之怪现状] — Wu Jianren (吴趼人)"
+    },
+    {
+      "position": 74,
+      "reported_title": "Classic of Mountains and Seas [山海经]",
+      "reported_author": "Anonymous / composite",
+      "raw_line": "074. Classic of Mountains and Seas [山海经] — Anonymous / composite"
+    },
+    {
+      "position": 75,
+      "reported_title": "Strategies of the Warring States [战国策]",
+      "reported_author": "Compiled/redacted by Liu Xiang (刘向)",
+      "raw_line": "075. Strategies of the Warring States [战国策] — Compiled/redacted by Liu Xiang (刘向)"
+    },
+    {
+      "position": 76,
+      "reported_title": "Huainanzi [淮南子]",
+      "reported_author": "Liu An's court scholars",
+      "raw_line": "076. Huainanzi [淮南子] — Liu An's court scholars"
+    },
+    {
+      "position": 77,
+      "reported_title": "Lüshi Chunqiu (The Annals of Lü Buwei) [吕氏春秋]",
+      "reported_author": "Lü Buwei's court scholars",
+      "raw_line": "077. Lüshi Chunqiu (The Annals of Lü Buwei) [吕氏春秋] — Lü Buwei's court scholars"
+    },
+    {
+      "position": 78,
+      "reported_title": "Book of Documents [尚书]",
+      "reported_author": "",
+      "raw_line": "078. Book of Documents [尚书] — Composite"
+    },
+    {
+      "position": 79,
+      "reported_title": "Book of Han [汉书]",
+      "reported_author": "Ban Gu (班固) and family",
+      "raw_line": "079. Book of Han [汉书] — Ban Gu (班固) and family"
+    },
+    {
+      "position": 80,
+      "reported_title": "Guwen Guanzhi (Ancient Prose Viewed) [古文观止]",
+      "reported_author": "Wu Chucai and Wu Diaohou",
+      "raw_line": "080. Guwen Guanzhi (Ancient Prose Viewed) [古文观止] — Wu Chucai and Wu Diaohou"
+    },
+    {
+      "position": 81,
+      "reported_title": "Collected Poems of Li Qingzhao [李清照词集]",
+      "reported_author": "Li Qingzhao (李清照)",
+      "raw_line": "081. Collected Poems of Li Qingzhao [李清照词集] — Li Qingzhao (李清照)"
+    },
+    {
+      "position": 82,
+      "reported_title": "Collected Poems of Tao Yuanming [陶渊明集]",
+      "reported_author": "Tao Yuanming (陶渊明)",
+      "raw_line": "082. Collected Poems of Tao Yuanming [陶渊明集] — Tao Yuanming (陶渊明)"
+    },
+    {
+      "position": 83,
+      "reported_title": "Collected Works of Su Shi [苏轼集]",
+      "reported_author": "Su Shi (苏轼)",
+      "raw_line": "083. Collected Works of Su Shi [苏轼集] — Su Shi (苏轼)"
+    },
+    {
+      "position": 84,
+      "reported_title": "Collected Poems of Wang Wei [王维诗集]",
+      "reported_author": "Wang Wei (王维)",
+      "raw_line": "084. Collected Poems of Wang Wei [王维诗集] — Wang Wei (王维)"
+    },
+    {
+      "position": 85,
+      "reported_title": "Three Hundred Tang Poems [唐诗三百首]",
+      "reported_author": "Compiled by Sun Zhu (孙洙)",
+      "raw_line": "085. Three Hundred Tang Poems [唐诗三百首] — Compiled by Sun Zhu (孙洙)"
+    },
+    {
+      "position": 86,
+      "reported_title": "From the Soil [乡土中国]",
+      "reported_author": "Fei Xiaotong (费孝通)",
+      "raw_line": "086. From the Soil [乡土中国] — Fei Xiaotong (费孝通)"
+    },
+    {
+      "position": 87,
+      "reported_title": "Wandering [彷徨]",
+      "reported_author": "Lu Xun (鲁迅)",
+      "raw_line": "087. Wandering [彷徨] — Lu Xun (鲁迅)"
+    },
+    {
+      "position": 88,
+      "reported_title": "Wild Grass [野草]",
+      "reported_author": "Lu Xun (鲁迅)",
+      "raw_line": "088. Wild Grass [野草] — Lu Xun (鲁迅)"
+    },
+    {
+      "position": 89,
+      "reported_title": "Cold Nights [寒夜]",
+      "reported_author": "Ba Jin (巴金)",
+      "raw_line": "089. Cold Nights [寒夜] — Ba Jin (巴金)"
+    },
+    {
+      "position": 90,
+      "reported_title": "Cat Country [猫城记]",
+      "reported_author": "Lao She (老舍)",
+      "raw_line": "090. Cat Country [猫城记] — Lao She (老舍)"
+    },
+    {
+      "position": 91,
+      "reported_title": "The Field of Life and Death [生死场]",
+      "reported_author": "Xiao Hong (萧红)",
+      "raw_line": "091. The Field of Life and Death [生死场] — Xiao Hong (萧红)"
+    },
+    {
+      "position": 92,
+      "reported_title": "Me and the Temple of Earth [我与地坛]",
+      "reported_author": "Shi Tiesheng (史铁生)",
+      "raw_line": "092. Me and the Temple of Earth [我与地坛] — Shi Tiesheng (史铁生)"
+    },
+    {
+      "position": 93,
+      "reported_title": "Six Chapters from My Life 'Downunder' [干校六记]",
+      "reported_author": "Yang Jiang (杨绛)",
+      "raw_line": "093. Six Chapters from My Life 'Downunder' [干校六记] — Yang Jiang (杨绛)"
+    },
+    {
+      "position": 94,
+      "reported_title": "Wives and Concubines (Raise the Red Lantern) [妻妾成群]",
+      "reported_author": "Su Tong (苏童)",
+      "raw_line": "094. Wives and Concubines (Raise the Red Lantern) [妻妾成群] — Su Tong (苏童)"
+    },
+    {
+      "position": 95,
+      "reported_title": "A Small Town Called Hibiscus (Hibiscus Town) [芙蓉镇]",
+      "reported_author": "Gu Hua (古华)",
+      "raw_line": "095. A Small Town Called Hibiscus (Hibiscus Town) [芙蓉镇] — Gu Hua (古华)"
+    },
+    {
+      "position": 96,
+      "reported_title": "Massage [推拿]",
+      "reported_author": "Bi Feiyu (毕飞宇)",
+      "raw_line": "096. Massage [推拿] — Bi Feiyu (毕飞宇)"
+    },
+    {
+      "position": 97,
+      "reported_title": "Someone to Talk To [一句顶一万句]",
+      "reported_author": "Liu Zhenyun (刘震云)",
+      "raw_line": "097. Someone to Talk To [一句顶一万句] — Liu Zhenyun (刘震云)"
+    },
+    {
+      "position": 98,
+      "reported_title": "Red Poppies [尘埃落定]",
+      "reported_author": "Alai (阿来)",
+      "raw_line": "098. Red Poppies [尘埃落定] — Alai (阿来)"
+    },
+    {
+      "position": 99,
+      "reported_title": "The Four Books (novel) [四书]",
+      "reported_author": "Yan Lianke (阎连科)",
+      "raw_line": "099. The Four Books (novel) [四书] — Yan Lianke (阎连科)"
+    },
+    {
+      "position": 100,
+      "reported_title": "Five Spice Street [五香街]",
+      "reported_author": "Can Xue (残雪)",
+      "raw_line": "100. Five Spice Street [五香街] — Can Xue (残雪)"
+    }
+  ]
+}

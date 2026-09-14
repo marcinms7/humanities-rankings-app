@@ -1,0 +1,195 @@
+{
+  "summary": "Eight new sources include Portuguese Amazonian scholarship, French criticism, comparative Confucian and Indian arguments, Nahua textual mediation and reader testimony. Western category imposition and collective authorship remain explicit issues.",
+  "next": "Broaden independent domains and original-language evidence; expand literary-fiction corpus substantially.",
+  "sources": [
+    {
+      "id": "R080",
+      "url": "https://aeon.co/essays/what-is-the-cure-for-the-wests-individualist-worldview",
+      "title": "What is the cure for the West’s individualist worldview?",
+      "publisher": "Aeon",
+      "family": "scholarly_critical_essay",
+      "language": "en",
+      "note": "Compares Rosemont, Ames, Rošker, Ivanhoe and Puett on relational selves; distinguishes expanding individuality through relationships from erasing it, and ordinary ritual from political feasibility.",
+      "candidates": [
+        "Against Individualism",
+        "Confucian Role Ethics",
+        "Confucian Relationism and Global Ethics",
+        "Oneness",
+        "The Path",
+        "Henry Rosemont",
+        "Roger Ames",
+        "Jana Rošker"
+      ],
+      "location": "Modern Confucian books and practical limits",
+      "limits": "Comparative advocacy, not a survey of all Confucian traditions.",
+      "targets": {
+        "A": "Comparative intellectual and textual evidence across traditions.",
+        "N": "Philosophical or scholarly nonfiction candidates and argument evaluation.",
+        "B": "Specific philosophical texts and methodological scope evidence.",
+        "P": "Contributions of named thinkers or limits of individual attribution."
+      }
+    },
+    {
+      "id": "R081",
+      "url": "https://aeon.co/essays/aztec-moral-philosophy-didnt-expect-anyone-to-be-a-saint",
+      "title": "Life on the slippery Earth",
+      "publisher": "Aeon",
+      "family": "scholarly_critical_essay",
+      "language": "en",
+      "note": "Purcell reconstructs socially supported virtue from Florentine Codex book six, distinguishing a worthwhile life from guaranteed happiness; identifies mediation through colonial-era recording.",
+      "candidates": [
+        "Florentine Codex book VI",
+        "Nahua ethical thought"
+      ],
+      "location": "Virtue argument and source discussion",
+      "limits": "Collective discourses cannot be assigned to an invented single philosopher; colonial compilation requires provenance care.",
+      "targets": {
+        "A": "Comparative intellectual and textual evidence across traditions.",
+        "N": "Philosophical or scholarly nonfiction candidates and argument evaluation.",
+        "B": "Specific philosophical texts and methodological scope evidence.",
+        "P": "Contributions of named thinkers or limits of individual attribution."
+      }
+    },
+    {
+      "id": "R082",
+      "url": "https://aeon.co/essays/how-classical-indian-philosophy-helps-us-understand-the-self",
+      "title": "How classical Indian philosophy helps us understand the self",
+      "publisher": "Aeon",
+      "family": "scholarly_critical_essay",
+      "language": "en",
+      "note": "Menon and Vaidya connect Katha Upanishad and Śaṅkara’s commentary with distinctions among empirical and enduring selves; compare William James and contemporary consciousness debates.",
+      "candidates": [
+        "Katha Upanishad",
+        "Śaṅkara",
+        "The Principles of Psychology",
+        "William James"
+      ],
+      "location": "Illumination, reality and five aspects of self",
+      "limits": "Comparative proposal; unfinished further arguments explicitly acknowledged by author’s collaborator.",
+      "targets": {
+        "A": "Comparative intellectual and textual evidence across traditions.",
+        "B": "Specific philosophical texts and methodological scope evidence.",
+        "P": "Contributions of named thinkers or limits of individual attribution."
+      }
+    },
+    {
+      "id": "R083",
+      "url": "https://laviedesidees.fr/L-intelligence-du-mechant",
+      "title": "L’intelligence du méchant",
+      "publisher": "La Vie des idées",
+      "family": "scholarly_review",
+      "language": "fr",
+      "note": "Boyer praises Spector’s historical analyses but challenges her reduction of contemporary political philosophy to Rawls and her reading of intolerance; offers an alternative interpretation of Hume’s sensible knave.",
+      "candidates": [
+        "Éloges de l’injustice",
+        "Céline Spector",
+        "A Theory of Justice",
+        "Leviathan",
+        "Hume"
+      ],
+      "location": "Historical argument and critique of Rawls/Hume readings",
+      "limits": "French original and linked English translation form one underlying review.",
+      "targets": {
+        "A": "Comparative intellectual and textual evidence across traditions.",
+        "N": "Philosophical or scholarly nonfiction candidates and argument evaluation.",
+        "B": "Specific philosophical texts and methodological scope evidence.",
+        "P": "Contributions of named thinkers or limits of individual attribution."
+      }
+    },
+    {
+      "id": "R084",
+      "url": "https://www.en-attendant-nadeau.fr/2024/02/05/heidegger-historien-histoire-de-la-philosophie/",
+      "title": "Heidegger historien",
+      "publisher": "En attendant Nadeau",
+      "family": "critical_review",
+      "language": "fr",
+      "note": "Figuier reads Heidegger’s 1926–27 course as philosophical reconstruction of ontology, tracing selective treatment of Spinoza, Leibniz, Wolff and Crusius.",
+      "candidates": [
+        "History of Philosophy from Thomas Aquinas to Kant",
+        "Martin Heidegger",
+        "Leibniz",
+        "Christian Wolff",
+        "Christian August Crusius"
+      ],
+      "location": "Course context and concluding historical analysis",
+      "limits": "Lecture edition distinguished from Being and Time; review follows Heidegger’s interpretive frame.",
+      "targets": {
+        "A": "Comparative intellectual and textual evidence across traditions.",
+        "N": "Philosophical or scholarly nonfiction candidates and argument evaluation.",
+        "B": "Specific philosophical texts and methodological scope evidence.",
+        "P": "Contributions of named thinkers or limits of individual attribution."
+      }
+    },
+    {
+      "id": "R085",
+      "url": "https://www.scielo.br/j/trans/a/ywsnVqTx9x8jMw4GczGrPpr/?lang=pt",
+      "title": "Sobre a possibilidade de uma filosofia amazônica",
+      "publisher": "Trans/Form/Ação",
+      "family": "scholarly_article",
+      "language": "pt",
+      "note": "Develops dialogue with Yepamahsã thought through Barreto and Maia while warning that calling ritual knowledge Western ethics or art repeats ethnophilosophical distortions; names Kopenawa’s autoethnography.",
+      "candidates": [
+        "The Falling Sky",
+        "Davi Kopenawa",
+        "João Paulo Barreto",
+        "Gabriel Maia",
+        "Yepamahsã thought"
+      ],
+      "location": "Abstract and conceptual comparison/conclusion",
+      "limits": "Do not automatically label every knowledge specialist a philosopher; book and individual eligibility remain questions.",
+      "targets": {
+        "A": "Comparative intellectual and textual evidence across traditions.",
+        "N": "Philosophical or scholarly nonfiction candidates and argument evaluation.",
+        "B": "Specific philosophical texts and methodological scope evidence.",
+        "P": "Contributions of named thinkers or limits of individual attribution."
+      }
+    },
+    {
+      "id": "R086",
+      "url": "https://www.reddit.com/r/RSbookclub/comments/191kcuu/favourite_philosophy_book_which_changed/",
+      "title": "Favourite philosophy book which changed everything for you?",
+      "publisher": "Reddit",
+      "family": "reader_discussion",
+      "language": "en",
+      "note": "Readers describe powerful responses to Either/Or, Ethics and The Need for Roots; one connects Weil with a changed living practice, while another recommends Scottish fiction and Calvino.",
+      "candidates": [
+        "Either/Or",
+        "Ethics",
+        "The Need for Roots",
+        "Simone Weil",
+        "Invisible Cities",
+        "The Private Memoirs and Confessions of a Justified Sinner"
+      ],
+      "location": "Opening and Weil exchange",
+      "limits": "Anecdotal self-report, unverifiable causal influence; one thread regardless of comments.",
+      "targets": {
+        "A": "Comparative intellectual and textual evidence across traditions.",
+        "N": "Philosophical or scholarly nonfiction candidates and argument evaluation.",
+        "B": "Specific philosophical texts and methodological scope evidence.",
+        "P": "Contributions of named thinkers or limits of individual attribution.",
+        "L": "Substantive reader recommendations include Calvino and Scottish Gothic fiction."
+      }
+    },
+    {
+      "id": "R087",
+      "url": "https://www.en-attendant-nadeau.fr/2026/08/03/le-divin-avant-les-dieux/",
+      "title": "Le divin avant les dieux",
+      "publisher": "En attendant Nadeau",
+      "family": "critical_review",
+      "language": "fr",
+      "note": "Lebiez discusses Zambrano’s philosophical-poetic account of the divine preceding particular gods; reports delayed French reception and the reading difficulty of its religious and non-systematic language.",
+      "candidates": [
+        "Man and the Divine",
+        "María Zambrano"
+      ],
+      "location": "Review opening and cosmological interpretation",
+      "limits": "French reception differs from Spanish influence; poetic philosophy is not automatically literary fiction.",
+      "targets": {
+        "A": "Comparative intellectual and textual evidence across traditions.",
+        "N": "Philosophical or scholarly nonfiction candidates and argument evaluation.",
+        "B": "Specific philosophical texts and methodological scope evidence.",
+        "P": "Contributions of named thinkers or limits of individual attribution."
+      }
+    }
+  ]
+}
