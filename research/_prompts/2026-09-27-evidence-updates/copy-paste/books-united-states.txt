@@ -1,0 +1,925 @@
+UPDATE REQUEST: Books · United States
+Target ID: books-united-states
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 100; current source records: 113 (includes unverified leads).
+Desired scope: A broad United States-associated literary ranking around the existing 100-book scale, with cultural and historical affiliation transparently documented.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+100 entries and 113 eligible records all marked summary_only; the same five citations and generic evidence note appear on every entry.
+1. Review actual source content and map the current selection to direct evidence of inclusion, reception and comparative standing.
+2. Use established American literary lists and criticism while tracing mirrors and aggregators back to their underlying publications.
+3. Audit regional, Indigenous, African American, immigrant and other traditions using relevant evidence rather than a mechanical demographic quota.
+4. Explain citizenship, residence, diaspora and pre-national historical cases instead of equating English-language literature with the United States.
+5. Check major omissions, title variants and collected-work boundaries before proposing a revised broad ordering.
+
+CURRENT SCOPE
+{"forms": ["book"], "country": "United States", "association": "documented_literary_cultural", "english_edition_required": true}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:5] Moby-Dick — Herman Melville | standing=1; reading=1 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+2. [work:8] Beloved — Toni Morrison | standing=2; reading=2 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+3. [work:263] Adventures of Huckleberry Finn — Mark Twain | standing=3; reading=3 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+4. [work:66] The Great Gatsby — F. Scott Fitzgerald | standing=4; reading=4 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+5. [work:70] The Sound and the Fury — William Faulkner | standing=5; reading=5 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+6. [work:379] Leaves of Grass — Walt Whitman | standing=6; reading=6 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+7. [work:83] Invisible Man — Ralph Ellison | standing=7; reading=7 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+8. [work:350] Absalom, Absalom! — William Faulkner | standing=8; reading=8 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+9. [work:714] Blood Meridian — Cormac McCarthy | standing=9; reading=9 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+10. [work:74] The Grapes of Wrath — John Steinbeck | standing=10; reading=10 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+11. [work:68] Lolita — Vladimir Nabokov | standing=11; reading=11 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+12. [work:756] Song of Solomon — Toni Morrison | standing=12; reading=12 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+13. [work:268] The Scarlet Letter — Nathaniel Hawthorne | standing=13; reading=13 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+14. [work:755] Their Eyes Were Watching God — Zora Neale Hurston | standing=14; reading=14 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+15. [work:593] Walden — Henry David Thoreau | standing=15; reading=15 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+16. [work:754] The Portrait of a Lady — Henry James | standing=16; reading=16 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+17. [work:109] The Sun Also Rises — Ernest Hemingway | standing=17; reading=17 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+18. [work:118] Light in August — William Faulkner | standing=18; reading=18 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+19. [work:122] The Age of Innocence — Edith Wharton | standing=19; reading=19 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+20. [work:84] Native Son — Richard Wright | standing=20; reading=20 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+21. [work:713] Gravity’s Rainbow — Thomas Pynchon | standing=21; reading=21 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+22. [work:71] Catch-22 — Joseph Heller | standing=22; reading=22 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+23. [work:82] Slaughterhouse-Five — Kurt Vonnegut | standing=23; reading=23 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+24. [work:767] The Color Purple — Alice Walker | standing=24; reading=24 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+25. [work:145] The Adventures of Augie March — Saul Bellow | standing=25; reading=25 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+26. [work:284] To Kill a Mockingbird — Harper Lee | standing=26; reading=26 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+27. [work:133] The House of Mirth — Edith Wharton | standing=27; reading=27 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+28. [work:99] As I Lay Dying — William Faulkner | standing=28; reading=28 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+29. [work:1143] Underworld — Don DeLillo | standing=29; reading=29 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+30. [work:1144] White Noise — Don DeLillo | standing=30; reading=30 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+31. [work:397] East of Eden — John Steinbeck | standing=31; reading=31 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+32. [work:103] Go Tell It on the Mountain — James Baldwin | standing=32; reading=32 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+33. [work:393] Another Country — James Baldwin | standing=33; reading=33 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+34. [work:1145] The Crying of Lot 49 — Thomas Pynchon | standing=34; reading=34 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+35. [work:747] The Road — Cormac McCarthy | standing=35; reading=35 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+36. [work:781] The Known World — Edward P. Jones | standing=36; reading=36 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+37. [work:1146] A Good Man Is Hard to Find — Flannery O'Connor | standing=37; reading=37 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+38. [work:1147] Tales of Mystery and Imagination — Edgar Allan Poe | standing=38; reading=38 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+39. [work:128] The Catcher in the Rye — J.D. Salinger | standing=39; reading=39 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+40. [work:1148] The Autobiography of Malcolm X — Malcolm X and Alex Haley | standing=40; reading=40 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+41. [work:10] The Souls of Black Folk — W. E. B. Du Bois | standing=41; reading=41 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+42. [work:1149] Narrative of the Life of Frederick Douglass — Frederick Douglass | standing=42; reading=42 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+43. [work:1150] The Complete Poems — Emily Dickinson | standing=43; reading=43 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+44. [work:1151] The Things They Carried — Tim O'Brien | standing=44; reading=44 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+45. [work:1152] The Recognitions — William Gaddis | standing=45; reading=45 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+46. [work:1153] J R — William Gaddis | standing=46; reading=46 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+47. [work:1154] American Pastoral — Philip Roth | standing=47; reading=47 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+48. [work:1155] Herzog — Saul Bellow | standing=48; reading=48 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+49. [work:1156] Rabbit, Run — John Updike | standing=49; reading=49 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+50. [work:757] Housekeeping — Marilynne Robinson | standing=50; reading=50 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+51. [work:1157] Gilead — Marilynne Robinson | standing=51; reading=51 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+52. [work:777] The Left Hand of Darkness — Ursula K. Le Guin | standing=52; reading=52 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+53. [work:768] Kindred — Octavia E. Butler | standing=53; reading=53 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+54. [work:772] The Bluest Eye — Toni Morrison | standing=54; reading=54 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+55. [work:1158] Ceremony — Leslie Marmon Silko | standing=55; reading=55 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+56. [work:1159] The Joy Luck Club — Amy Tan | standing=56; reading=56 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+57. [work:1160] Sula — Toni Morrison | standing=57; reading=57 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+58. [work:274] Little Women — Louisa May Alcott | standing=58; reading=58 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+59. [work:279] Uncle Tom's Cabin — Harriet Beecher Stowe | standing=59; reading=59 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+60. [work:97] Sister Carrie — Theodore Dreiser | standing=60; reading=60 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+61. [work:132] Main Street — Sinclair Lewis | standing=61; reading=61 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+62. [work:1161] Babbitt — Sinclair Lewis | standing=62; reading=62 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+63. [work:87] U.S.A. Trilogy — John Dos Passos | standing=63; reading=63 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+64. [work:88] Winesburg, Ohio — Sherwood Anderson | standing=64; reading=64 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+65. [work:1162] The Awakening — Kate Chopin | standing=65; reading=65 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+66. [work:320] My Ántonia — Willa Cather | standing=66; reading=66 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+67. [work:91] The Ambassadors — Henry James | standing=67; reading=67 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+68. [work:96] The Golden Bowl — Henry James | standing=68; reading=68 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+69. [work:299] The Old Man and the Sea — Ernest Hemingway | standing=69; reading=69 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+70. [work:138] A Farewell to Arms — Ernest Hemingway | standing=70; reading=70 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+71. [work:389] One Flew Over the Cuckoo's Nest — Ken Kesey | standing=71; reading=71 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+72. [work:1163] Sometimes a Great Notion — Ken Kesey | standing=72; reading=72 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+73. [work:100] All the King’S Men — Robert Penn Warren | standing=73; reading=73 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+74. [work:124] The Moviegoer — Walker Percy | standing=74; reading=74 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+75. [work:1164] Wise Blood — Flannery O'Connor | standing=75; reading=75 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+76. [work:81] The Heart Is a Lonely Hunter — Carson McCullers | standing=76; reading=76 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+77. [work:1165] The Haunting of Hill House — Shirley Jackson | standing=77; reading=77 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+78. [work:1166] The Bell Jar — Sylvia Plath | standing=78; reading=78 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+79. [work:1167] Play It as It Lays — Joan Didion | standing=79; reading=79 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+80. [work:518] Slouching Towards Bethlehem — Joan Didion | standing=80; reading=80 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+81. [work:1168] The Fire Next Time — James Baldwin | standing=81; reading=81 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+82. [work:119] On the Road — Jack Kerouac | standing=82; reading=82 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+83. [work:117] Pale Fire — Vladimir Nabokov | standing=83; reading=83 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+84. [work:541] The Executioner's Song — Norman Mailer | standing=84; reading=84 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+85. [work:257] In Cold Blood — Truman Capote | standing=85; reading=85 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+86. [work:1169] The Underground Railroad — Colson Whitehead | standing=86; reading=86 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+87. [work:1170] A Visit from the Goon Squad — Jennifer Egan | standing=87; reading=87 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+88. [work:1171] The Brief Wondrous Life of Oscar Wao — Junot Díaz | standing=88; reading=88 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+89. [work:1172] The Amazing Adventures of Kavalier & Clay — Michael Chabon | standing=89; reading=89 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+90. [work:1173] Middlesex — Jeffrey Eugenides | standing=90; reading=90 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+91. [work:1174] The Corrections — Jonathan Franzen | standing=91; reading=91 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+92. [work:716] Infinite Jest — David Foster Wallace | standing=92; reading=92 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+93. [work:386] The Secret History — Donna Tartt | standing=93; reading=93 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+94. [work:728] Lonesome Dove — Larry McMurtry | standing=94; reading=94 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+95. [work:146] Angle of Repose — Wallace Stegner | standing=95; reading=95 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+96. [work:720] Stoner — John Williams | standing=96; reading=96 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+97. [work:1175] The House on Mango Street — Sandra Cisneros | standing=97; reading=97 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+98. [work:1176] Bless Me, Ultima — Rudolfo Anaya | standing=98; reading=98 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+99. [work:1177] Love Medicine — Louise Erdrich | standing=99; reading=99 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+100. [work:1178] The New York Trilogy — Paul Auster | standing=100; reading=100 | sources: UNITED-STATES-001, UNITED-STATES-002, UNITED-STATES-003, UNITED-STATES-004, UNITED-STATES-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[UNITED-STATES-001] Modern Library — 100 Best Novels
+https://www.modernlibrary.com/top-100/100-best-novels/
+Family: academic_or_institutional | Publisher: www.modernlibrary.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ed2430da59a2884492f6b681
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-002] TIME — All-TIME 100 Novels
+https://time.com/collection/all-time-100-novels/
+Family: editorial_or_specialist | Publisher: time.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bbc76e205446b98380de9b7a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-003] The Guardian — The 100 best novels written in English: the full list
+https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3a2afa004cbbcf2ea9577246
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-004] The Guardian — The 100 greatest novels of all time (2003)
+https://www.theguardian.com/books/2003/oct/12/features.fiction
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:07e11dcc72ebd91d3562b30f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-005] The Guardian — 2026 global critics/authors 100 best novels project
+https://www.theguardian.com/books/ng-interactive/2026/may/16/story-behind-100-best-novels-all-time
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:094f6f525c499590ec59f300
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-006] The Guardian — 2026 readers' top 100 novels
+https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8fa7aeafaa2e09be9d325128
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-007] The Guardian — Readers' alternative list of the 100 best novels written in English
+https://www.theguardian.com/books/2015/sep/03/the-best-novels-in-english-readers-alternative-list
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e68259593c913d1b563fd1e9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-008] OCLC / WorldCat — The Library 100
+https://www.oclc.org/en/worldcat/library100.html
+Family: academic_or_institutional | Publisher: www.oclc.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:03b0feae2338c97178dd9120
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-009] OCLC / WorldCat — The Library 100: Complete Top 500
+https://www.oclc.org/en/worldcat/library100/top500.html
+Family: academic_or_institutional | Publisher: www.oclc.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d591bc4cf3e67fe8c3cbfe5f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-010] Library of Congress — Books That Shaped America – Overview
+https://www.loc.gov/exhibits/books-that-shaped-america/overview.html
+Family: academic_or_institutional | Publisher: www.loc.gov | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:85b216cbdccdffe9d8fc6bda
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-011] Library of Congress — Books That Shaped America – 1800 to 1850
+https://www.loc.gov/exhibits/books-that-shaped-america/1800-to-1850.html
+Family: academic_or_institutional | Publisher: www.loc.gov | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e09b5ac1271444e004304854
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-012] Library of Congress — Books That Shaped America – 1850 to 1900
+https://www.loc.gov/exhibits/books-that-shaped-america/1850-to-1900.html
+Family: academic_or_institutional | Publisher: www.loc.gov | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3c673f80fee7ea4f10643202
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-013] Library of Congress — Books That Shaped America – 1900 to 1950
+https://www.loc.gov/exhibits/books-that-shaped-america/1900-to-1950.html
+Family: academic_or_institutional | Publisher: www.loc.gov | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:046b56e5c89983b42d1893f1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-014] Library of Congress — America Reads – Overview
+https://www.loc.gov/exhibits/america-reads/overview.html
+Family: academic_or_institutional | Publisher: www.loc.gov | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:83da66083c3f7599dacabbd1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-015] Library of Congress — America Reads – 2012 Top 25 favorites
+https://www.loc.gov/exhibits/america-reads/special-presentation.html
+Family: academic_or_institutional | Publisher: www.loc.gov | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bd9cf3018d1edaf3d6507e40
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-016] PBS — The Great American Read
+https://www.pbs.org/the-great-american-read/home/
+Family: editorial_or_specialist | Publisher: www.pbs.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b1ab719ae2e7320390d97fbf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-017] Penguin Random House — American Classic Literature Everyone Should Read
+https://www.penguinrandomhouse.com/the-read-down/great-american-read/
+Family: editorial_or_specialist | Publisher: www.penguinrandomhouse.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:475da2d572dba676ff49b968
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-018] Penguin Random House — Essential Penguin Classics
+https://www.penguinrandomhouse.com/the-read-down/essential-penguin-classics/
+Family: editorial_or_specialist | Publisher: www.penguinrandomhouse.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cacca211deb1bd2258393abb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-019] Penguin UK — Great American Novels
+https://www.penguin.co.uk/discover/articles/greatest-american-novels
+Family: editorial_or_specialist | Publisher: www.penguin.co.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:85e436af612c091a003f2a56
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-020] Penguin UK — 100 must-read classics, as chosen by readers
+https://www.penguin.co.uk/discover/articles/100-must-read-classic-books
+Family: editorial_or_specialist | Publisher: www.penguin.co.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e870d6f19360ac1ba53b4da7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-021] Book Riot — The 100 Greatest American Novels, 1894–1994
+https://bookriot.com/100-greatest-american-novels-1894-1994/
+Family: editorial_or_specialist | Publisher: bookriot.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:08b12b10497791e13955db0d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-022] Literary Hub — A Brief Survey of the Great American Novel(s)
+https://lithub.com/a-brief-survey-of-great-american-novels/
+Family: editorial_or_specialist | Publisher: lithub.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f106ca90453cd6a51ba42ecc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-023] Literary Hub — Quintessential American Fiction, According to the Rest of the World
+https://lithub.com/quintessential-american-fiction-according-to-the-rest-of-the-world/
+Family: editorial_or_specialist | Publisher: lithub.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1eaad4a3be1f9ab1044a11a2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-024] Literary Hub — Is Moby-Dick the Greatest American Novel?
+https://lithub.com/is-moby-dick-the-greatest-american-novel/
+Family: editorial_or_specialist | Publisher: lithub.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6be6ef70e701dc26d64b68e3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-025] The New Yorker — Eight Great American Novels
+https://www.newyorker.com/books/what-were-reading/eight-great-american-novels
+Family: editorial_or_specialist | Publisher: www.newyorker.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8024786d2668715575bc6235
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-026] Esquire — The 26 Most American Books of All Time
+https://www.esquire.com/entertainment/books/a71539833/most-american-books/
+Family: editorial_or_specialist | Publisher: www.esquire.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d29900ce3f0cfd43b7d46a49
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-027] The Standard — 21 of the Greatest American novels that everyone should read
+https://www.standard.co.uk/shopping/esbest/books-dvds/best-american-novels-all-time-b1133876.html
+Family: editorial_or_specialist | Publisher: www.standard.co.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e573fe9997441dddbbd87242
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-028] The Greatest Books — Aggregated greatest-books database / American literature filtering
+https://thegreatestbooks.org/
+Family: editorial_or_specialist | Publisher: thegreatestbooks.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4da3a286e4f9f6e31c3be0e7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-029] The Greatest Books — Lists database
+https://thegreatestbooks.org/lists
+Family: editorial_or_specialist | Publisher: thegreatestbooks.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:31a9da5a3b9064010019cbca
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-030] Goodreads — 100 Best American Authors
+https://www.goodreads.com/list/show/2413.100_Best_American_Authors
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7b4aed15cd592d31a42d0167
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-031] Goodreads — American Literature
+https://www.goodreads.com/list/show/2395.American_Literature
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:017e53c261e8b603ebdc2e68
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-032] Goodreads — Greatest American Novels of the 20th Century
+https://www.goodreads.com/list/show/23979.Greatest_American_Novels_of_the_20th_Century
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:905f1cfa0d8aab6bfc06ef92
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-033] Goodreads — Great American Novels
+https://www.goodreads.com/list/show/115289.Great_American_Novels
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:68c411392065a4ce6d1f9ef3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-034] Goodreads — Radcliffe's 100 Best Novels of the 20th Century
+https://www.goodreads.com/list/show/8551.Radcliffe_s_100_Best_Novels_of_the_20th_Century
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a8462905ca99d7c3af134d5d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-035] LibraryThing — Radcliffe Publishing Course Top 100 Novels of the 20th Century
+https://www.librarything.com/award/32/yc4j9fpwdmml.jsp
+Family: reader_community | Publisher: www.librarything.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9770aee60461455eedd65f62
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-036] Goodreads — Le Monde's 100 Books of the Century
+https://www.goodreads.com/list/show/11432.Le_Monde_s_100_Books_of_the_Century
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:af84d3ff18fae200dc942e8f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-037] Goodreads — 100 Best Books of All Time: World Library List
+https://www.goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fec97f2b997916384cc5dd15
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-038] SensCritique (France) — Top des meilleurs livres américains
+https://www.senscritique.com/top/resultats/les_meilleurs_livres_americains/873942
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:169a7fdd09a17e1360939cc1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-039] SensCritique (France) — Littérature américaine – 107 livres
+https://www.senscritique.com/liste/litterature_americaine/405548
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:02f203b96d5ce0bf6b66eb79
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-040] SensCritique (France) — Top Littérature US
+https://www.senscritique.com/liste/top_litterature_us/18600
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a8c60209b6ab74820928e4f0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-041] SensCritique (France) — Les meilleurs classiques de la littérature américaine
+https://www.senscritique.com/liste/les_meilleurs_classiques_de_la_litterature_americaine/2477910
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c97c8eb5a42eeae8f4b7e432
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-042] SensCritique (France) — Littérature américaine – 158 livres
+https://www.senscritique.com/liste/litterature_americaine/1535272
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e7d6048484ec61c8fbfc2a33
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-043] SensCritique (France) — Littérature américaine – 452 livres
+https://www.senscritique.com/liste/litterature_americaine/3277835
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4e3763fdbd2bfdb13038ed3a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-044] SensCritique (France) — Littérature américaine – 612 livres
+https://www.senscritique.com/liste/litterature_americaine/3888654
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:41104f79822bf6e7980c2453
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-045] Livres Hebdo (France) — Grand prix de littérature américaine
+https://www.livreshebdo.fr/prix-litteraires/tous-les-prix/grand-prix-de-litterature-americaine
+Family: editorial_or_specialist | Publisher: www.livreshebdo.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:35d31dff40ba9cc085147cc4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-046] Douban (China) — American-literature themed Doulist
+https://www.douban.com/doulist/158496207/
+Family: reader_community | Publisher: www.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0ed9575f21242441a0c0b565
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-047] Douban (China) — Norwegian Book Club / world top-100 list reproduced for Chinese readers
+https://www.douban.com/note/644033585/
+Family: reader_community | Publisher: www.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:23947d5355cb0db79023c3f8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-048] Douban Books (China) — Beloved – recommendation lists / global canon lists
+https://book.douban.com/subject/1860568/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:749d635b7f2722110d7ed2e1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-049] Douban Books (China) — Modern Library and TIME list collections around I, Claudius
+https://book.douban.com/subject/2267345/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:543a3abbb06e45d6bf3aefb8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-050] Douban Books (China) — Modern Library list collections around Studs Lonigan
+https://book.douban.com/subject/2213937/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ea037c3fe6128934dd884d01
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-051] Douban Books (China) — American literature reading lists around Manhattan Transfer
+https://book.douban.com/subject/1804489/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:093f3592f23177016cac50da
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-052] Douban Books (China) — American literature / Maugham reading-list review
+https://book.douban.com/review/16199801/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6800c3714756ecd308055cf2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-053] Douban Books (China) — Sometimes a Great Notion – American literature lists
+https://book.douban.com/subject/2346254/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9c55161f6efbe36efc6a1f00
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-054] Douban Books (China) — The Golden Notebook – Western Canon and global list collections
+https://book.douban.com/subject/1103080/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b9eb86a6b60e8b40a45162c5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-055] Reddit r/literature — Community-voted Literature Canon results
+https://www.reddit.com/r/literature/comments/zzz8iz/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fdd3d3cb3796b776bd946d2c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-056] Reddit r/literature — A Fictional Timeline of Great American Novels
+https://www.reddit.com/r/literature/comments/1jx2m3p/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:79c0f17512240606dfaca1d8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-057] Reddit r/books — Readers: what is the Great American Novel, and why?
+https://www.reddit.com/r/books/comments/10qe63s/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a7538677eb2b889648f47fe6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-058] Reddit r/books — Has anyone here read all the Great American Novels?
+https://www.reddit.com/r/books/comments/1bocol/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:26356c0be6a432f36bbac76e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-059] Reddit r/literature — Is there a concept similar to the Great American Novel in other countries?
+https://www.reddit.com/r/literature/comments/1b6707b/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1c8c5803092c8afef89c2b3d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-060] Reddit r/literature — In search of a new 20th-century canon
+https://www.reddit.com/r/literature/comments/1hy82zg/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e843938d3b69f21f14d5b119
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-061] Pulitzer Prizes — Fiction winners and finalists
+https://www.pulitzer.org/prize-winners-by-category/219
+Family: editorial_or_specialist | Publisher: www.pulitzer.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4d5ee52a8499fedf79d6caea
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-062] National Book Foundation — National Book Awards – overview
+https://www.nationalbook.org/national-book-awards/
+Family: editorial_or_specialist | Publisher: www.nationalbook.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1209cf3d6a079980b5358760
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-063] National Book Foundation — Fiction archive
+https://www.nationalbook.org/award-category/fiction/
+Family: editorial_or_specialist | Publisher: www.nationalbook.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:189f9c579524948582f0313b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-064] National Book Foundation — 1952 awards
+https://www.nationalbook.org/awards-prizes/national-book-awards-1952/
+Family: editorial_or_specialist | Publisher: www.nationalbook.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6959cc6b960e8adf3ab6f78a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-065] National Book Foundation — 1956 awards
+https://www.nationalbook.org/awards-prizes/national-book-awards-1956/
+Family: editorial_or_specialist | Publisher: www.nationalbook.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6c6f031d70ed98d005efeb23
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-066] National Book Foundation — 1960 awards
+https://www.nationalbook.org/awards-prizes/national-book-awards-1960/
+Family: editorial_or_specialist | Publisher: www.nationalbook.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:db74952129e2e57778750b62
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-067] National Book Foundation — 1961 awards
+https://www.nationalbook.org/awards-prizes/national-book-awards-1961/
+Family: editorial_or_specialist | Publisher: www.nationalbook.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:031a52bf7aa4dddab296271e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-068] American Library Association — Classics and frequently challenged books
+https://www.ala.org/bbooks/frequentlychallengedbooks/top10
+Family: academic_or_institutional | Publisher: www.ala.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a2f67f393aa4fa636bcb5fe9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-069] American Library Association — Top 100 challenged books, 1990–1999
+https://www.ala.org/bbooks/frequentlychallengedbooks/decade1999
+Family: academic_or_institutional | Publisher: www.ala.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e70342d077b38f50ce7266e1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-070] American Library Association — Top 100 banned/challenged books, 2010–2019
+https://www.ala.org/news/2020/09/ala-releases-list-top-100-most-banned-and-challenged-books-decade
+Family: academic_or_institutional | Publisher: www.ala.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:78f894e87d82a7e0d0129737
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-071] OCLC — America's 250-Year Bookshelf
+https://www.oclc.org/en/news/releases/2026/20260625-americas-250-year-bookshelf.html
+Family: editorial_or_specialist | Publisher: www.oclc.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a5e59622925c4c788950de13
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-072] Library of America — Series catalogue and canonical author coverage
+https://www.loa.org/books/
+Family: academic_or_institutional | Publisher: www.loa.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9725a1c8541e72fc3355e045
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-073] National Endowment for the Arts — The Big Read
+https://www.arts.gov/initiatives/nea-big-read
+Family: editorial_or_specialist | Publisher: www.arts.gov | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bba0b0b3dedb6939ca96369e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-074] Poetry Foundation — Walt Whitman
+https://www.poetryfoundation.org/poets/walt-whitman
+Family: editorial_or_specialist | Publisher: www.poetryfoundation.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:15f41f38fb4d683daf6efc19
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-075] Poetry Foundation — Emily Dickinson
+https://www.poetryfoundation.org/poets/emily-dickinson
+Family: editorial_or_specialist | Publisher: www.poetryfoundation.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9537209956afcfbd8f732345
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-076] Poetry Foundation — Langston Hughes
+https://www.poetryfoundation.org/poets/langston-hughes
+Family: editorial_or_specialist | Publisher: www.poetryfoundation.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:519f72fac9fb5cbcf52fbbc6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-077] Academy of American Poets — Poets.org – canonical American poetry archive
+https://poets.org/
+Family: editorial_or_specialist | Publisher: poets.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c4f864f309779570c8bd895d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-078] Nobel Prize — Toni Morrison – Nobel biography and work
+https://www.nobelprize.org/prizes/literature/1993/morrison/biographical/
+Family: editorial_or_specialist | Publisher: www.nobelprize.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c55764347be4b2f47d7896af
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-079] Nobel Prize — William Faulkner – Nobel biography and work
+https://www.nobelprize.org/prizes/literature/1949/faulkner/biographical/
+Family: editorial_or_specialist | Publisher: www.nobelprize.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:424930431966486e4df0b005
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-080] Nobel Prize — Ernest Hemingway – Nobel biography and work
+https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/
+Family: editorial_or_specialist | Publisher: www.nobelprize.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:792ae6973c84fe34387e674f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-081] Nobel Prize — John Steinbeck – Nobel biography and work
+https://www.nobelprize.org/prizes/literature/1962/steinbeck/biographical/
+Family: editorial_or_specialist | Publisher: www.nobelprize.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1e473d9c436b2c12a03295c7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-082] Nobel Prize — Saul Bellow – Nobel biography and work
+https://www.nobelprize.org/prizes/literature/1976/bellow/biographical/
+Family: editorial_or_specialist | Publisher: www.nobelprize.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ea11b5d18e4bef35544e611
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-083] Nobel Prize — Sinclair Lewis – Nobel biography and work
+https://www.nobelprize.org/prizes/literature/1930/lewis/biographical/
+Family: editorial_or_specialist | Publisher: www.nobelprize.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d61c8c90cc87c1d87e5e92fa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-084] The Paris Review — Writers at Work interview archive
+https://www.theparisreview.org/interviews
+Family: editorial_or_specialist | Publisher: www.theparisreview.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a2435fef6aad0c9ac9720cfb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-085] The New York Review of Books — American fiction criticism archive
+https://www.nybooks.com/
+Family: editorial_or_specialist | Publisher: www.nybooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9805c8a91f511ce5a7f2fa70
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-086] London Review of Books — American literature criticism archive
+https://www.lrb.co.uk/
+Family: editorial_or_specialist | Publisher: www.lrb.co.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7e5588dffabbc5d1a3b34e89
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-087] The New Yorker — Books & Fiction archive
+https://www.newyorker.com/books
+Family: editorial_or_specialist | Publisher: www.newyorker.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b1195a3f8146e3600792c71b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-088] The Atlantic — Books archive / American canon criticism
+https://www.theatlantic.com/books/
+Family: editorial_or_specialist | Publisher: www.theatlantic.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:61a98fa31f0dbb71535afe32
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-089] Los Angeles Times — Book Prizes – fiction winners/finalists
+https://www.latimes.com/entertainment-arts/books
+Family: editorial_or_specialist | Publisher: www.latimes.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:91f782e7c2a53c93e6be905e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-090] PEN America — Literary Awards
+https://pen.org/literary-awards/
+Family: editorial_or_specialist | Publisher: pen.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:405c773d6a01ef5e9131d77f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-091] National Book Critics Circle — Awards
+https://www.bookcritics.org/awards/
+Family: editorial_or_specialist | Publisher: www.bookcritics.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ac9bbe0cdeb8d2d65691a7d7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-092] Kirkus Reviews — Best books and retrospective reviews
+https://www.kirkusreviews.com/
+Family: editorial_or_specialist | Publisher: www.kirkusreviews.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:38389a81d830ef3446ccb055
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-093] Publishers Weekly — Best books / reviews archive
+https://www.publishersweekly.com/
+Family: editorial_or_specialist | Publisher: www.publishersweekly.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:98c94f9996b72db3fbdd6113
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-094] Book Marks — Review-aggregation archive
+https://bookmarks.reviews/
+Family: editorial_or_specialist | Publisher: bookmarks.reviews | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c06ebe46194f601fbe007d54
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-095] Book Marks — America's Favorite Novel: To Kill a Mockingbird
+https://bookmarks.reviews/americas-favorite-novel-to-kill-a-mockingbird/
+Family: editorial_or_specialist | Publisher: bookmarks.reviews | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6daef379b8800abd55c4ba06
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-096] El País — Babelia books/literary criticism archive
+https://elpais.com/babelia/
+Family: editorial_or_specialist | Publisher: elpais.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:60829222396efd1c171fcdb8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-097] La Vanguardia — Cultura / Libros archive
+https://www.lavanguardia.com/cultura
+Family: editorial_or_specialist | Publisher: www.lavanguardia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:62fcd225729e32e447fee18e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-098] Letras Libres — Literature and canon criticism
+https://letraslibres.com/
+Family: editorial_or_specialist | Publisher: letraslibres.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:25bcc5cc903caf3c6e9f0a68
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-099] Die Zeit — Literatur archive
+https://www.zeit.de/kultur/literatur
+Family: editorial_or_specialist | Publisher: www.zeit.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4630ac524547e9a949592d8e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-100] Frankfurter Allgemeine Zeitung — Bücher / Literatur archive
+https://www.faz.net/aktuell/feuilleton/buecher/
+Family: editorial_or_specialist | Publisher: www.faz.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8dccca56b5f1cb6941bc6afd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-101] Süddeutsche Zeitung — Literatur archive
+https://www.sueddeutsche.de/kultur
+Family: editorial_or_specialist | Publisher: www.sueddeutsche.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:327777eb4ef2d4096b8d8786
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-102] Der Spiegel — Literatur archive
+https://www.spiegel.de/kultur/literatur/
+Family: editorial_or_specialist | Publisher: www.spiegel.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b9be2489fb2cd9136560716e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-103] Babelio (France) — American literature community lists and ratings
+https://www.babelio.com/
+Family: editorial_or_specialist | Publisher: www.babelio.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5e5c8632923da1d06698520a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-104] Bookmeter (Japan) — Japanese reader ratings/reviews database
+https://bookmeter.com/
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c8e59e304935fb2cbf7e59fb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-105] Booklog (Japan) — Japanese reader lists/reviews
+https://booklog.jp/
+Family: editorial_or_specialist | Publisher: booklog.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e5483f6528a9a95b80a49c77
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-106] Kinokuniya (Japan) — Literature recommendations / catalogue context
+https://www.kinokuniya.co.jp/
+Family: editorial_or_specialist | Publisher: www.kinokuniya.co.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cf51a39670f8a1b7d28f1541
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-107] Aladin (South Korea) — Reader ratings and classic-literature lists
+https://www.aladin.co.kr/
+Family: editorial_or_specialist | Publisher: www.aladin.co.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3e51e6fe5b5a04c453dc1200
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-108] YES24 (South Korea) — Reader ratings and literature lists
+https://www.yes24.com/
+Family: editorial_or_specialist | Publisher: www.yes24.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:015eeb57b63835b506671d69
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-109] Kyobo Book Centre (South Korea) — Korean reader/catalogue reception
+https://product.kyobobook.co.kr/
+Family: editorial_or_specialist | Publisher: product.kyobobook.co.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d43df090a50375a10f48d8cb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-110] Douban Books (China) — Book ratings database
+https://book.douban.com/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:56196501cfe129486eb9a987
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-111] Zhihu (China) — Long-form reader discussions of American literary canon
+https://www.zhihu.com/
+Family: editorial_or_specialist | Publisher: www.zhihu.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9a5b632f97b9e4a5e39512cd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-112] Goodreads — Global reader ratings/reviews for each shortlisted work
+https://www.goodreads.com/
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:13295bd05150c9397cbd6bf8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[UNITED-STATES-113] LibraryThing — Reader ownership, tags, reviews and awards
+https://www.librarything.com/
+Family: reader_community | Publisher: www.librarything.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:07a6cd7c4b65b7f17b4f21d5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: books-united-states. Included 100 current entries and 113 current source records. Carry out the update and return the enhanced ranking with the complete source register.

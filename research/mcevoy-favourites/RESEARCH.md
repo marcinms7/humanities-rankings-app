@@ -1,5 +1,7 @@
 # Benjamin McEvoy · Favourite books
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Verified and imported 13 September 2026: **11 active entries**, revision **4**.
 
 Seven main favourites, with King Lear and Hamlet highlighted within Shakespeare, plus Dickens’s novels and Maupassant’s short stories from the closing paragraph. McEvoy also wishes for an unspecified poetry anthology and art book. Unranked; collections overlap with individual works.

@@ -1,5 +1,7 @@
 # Most important literary works · All time
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 ## Owner attachment intake — 14 September 2026
 
 The owner supplied **“250 Most Important Literary Works: A Global, Cross-Form Ranking”**. The original text is preserved at `../incoming/other-works-all-time/2026-09-14-owner-chat-attachment/report.txt`, SHA-256 `474c6bb78b8eb4ca8c9bb8dfea8ac54e81d7aa62a833d87368d695c83c123af0`.

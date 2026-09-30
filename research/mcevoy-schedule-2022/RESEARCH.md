@@ -1,5 +1,7 @@
 # Hardcore Literature · 2022 book-club readings
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Verified and imported 13 September 2026: **28 active entries**, revision **2**.
 
 Books, plays and named shorter works covered in 2022, checked against Benjamin McEvoy’s dated public lecture archive. Includes supporting readings and the Shakespeare project. Order follows first visible archive mention, not literary merit. The archive does not disclose every member-only assignment. January archive coverage is incomplete.

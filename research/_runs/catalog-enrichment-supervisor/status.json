@@ -1,0 +1,21 @@
+{
+  "status": "stopped",
+  "pid": 56735,
+  "batches": 10,
+  "last_batch": [
+    {
+      "kind": "pages",
+      "queued": 0,
+      "saved": 0,
+      "processed": 0,
+      "provider_errors": 0,
+      "states": {
+        "complete": 4347,
+        "identity_review": 49,
+        "unresolved": 3287
+      },
+      "next_retry": null
+    }
+  ],
+  "finished_at": 1790626145.473852
+}

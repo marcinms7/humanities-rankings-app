@@ -1,0 +1,897 @@
+UPDATE REQUEST: Philosophy of language · Works
+Target ID: books-philosophy-of-language
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 20; current source records: 135 (includes unverified leads).
+Desired scope: A focused roughly 20-work philosophy of language ranking across books and landmark essays, improving specific support and justified omissions rather than chasing a source-count target.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+20 entries, 135 retained records and 53 eligible sources independently accessed during intake. The other 82 are intentionally unverified leads. All entries still repeat five sources, including broad bibliography pages.
+1. Preserve the distinction between the 53 qualified sources and 82 prospective leads; do not label all 135 sources as consulted or reject the 53 merely because their access label is summary_only.
+2. Map the qualified references to specific works and distinguish bibliography membership, topic discussion, critical engagement and comparative judgement.
+3. Investigate only useful retained leads needed for unsupported candidates, important omissions or contested comparisons.
+4. Preserve landmark essays as explicit work units and check overlap with collections, alternative titles and related books.
+5. Review semantics, reference, meaning, pragmatics and other relevant traditions while justifying borders with linguistics, logic and cognitive science.
+
+CURRENT SCOPE
+{"forms": ["book", "essay"], "topic": "philosophy-of-language", "entry_scope": "books_and_landmark_essays"}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:37] Philosophical Investigations — Ludwig Wittgenstein | standing=1; reading=1 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+2. [work:4588] “On Sense and Reference” — Gottlob Frege | standing=2; reading=2 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+3. [work:3692] Naming and Necessity — Saul Kripke | standing=3; reading=3 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+4. [work:4589] “On Denoting” — Bertrand Russell | standing=4; reading=4 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+5. [work:3703] Tractatus Logico-Philosophicus — Ludwig Wittgenstein | standing=5; reading=5 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+6. [work:4590] Word and Object — W. V. O. Quine | standing=6; reading=6 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+7. [work:4591] How to Do Things with Words — J. L. Austin | standing=7; reading=7 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+8. [work:4592] Studies in the Way of Words (1989) — H. P. Grice | standing=8; reading=8 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+9. [work:4593] Inquiries into Truth and Interpretation — Donald Davidson | standing=9; reading=9 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+10. [work:3784] The Meaning of 'Meaning' — Hilary Putnam | standing=10; reading=10 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+11. [work:4594] “On Referring” — P. F. Strawson | standing=11; reading=11 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+12. [work:4595] Speech Acts: An Essay in the Philosophy of Language — John Searle | standing=12; reading=12 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+13. [work:4596] Meaning and Necessity — Rudolf Carnap | standing=13; reading=13 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+14. [work:4597] “The Semantic Conception of Truth and the Foundations of Semantics” — Alfred Tarski | standing=14; reading=14 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+15. [work:4598] “Demonstratives” — David Kaplan | standing=15; reading=15 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+16. [work:4599] The Varieties of Reference — Gareth Evans | standing=16; reading=16 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+17. [work:4600] Wittgenstein on Rules and Private Language — Saul Kripke | standing=17; reading=17 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+18. [work:4601] Frege: Philosophy of Language — Michael Dummett | standing=18; reading=18 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+19. [work:4602] “Reference and Definite Descriptions” — Keith Donnellan | standing=19; reading=19 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+20. [work:3889] Cratylus — Plato | standing=20; reading=20 | sources: PHILOSOPHY-OF-LANGUAGE-001, PHILOSOPHY-OF-LANGUAGE-002, PHILOSOPHY-OF-LANGUAGE-003, PHILOSOPHY-OF-LANGUAGE-004, PHILOSOPHY-OF-LANGUAGE-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[PHILOSOPHY-OF-LANGUAGE-001] PhilPapers — Philosophy of Language bibliography
+https://philpapers.org/browse/philosophy-of-language/
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2df1d6028153bd3e47d3dec6
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-002] PhilArchive — Philosophy of Language
+https://philarchive.org/browse/philosophy-of-language
+Family: editorial_or_specialist | Publisher: philarchive.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6bd6c74c5293ba2dba09b434
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-003] PhilArchive — Philosophy of Language, General Works
+https://philarchive.org/browse/philosophy-of-language-general-works
+Family: editorial_or_specialist | Publisher: philarchive.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1333088b24ac47a057639f20
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-004] Stanford Encyclopedia of Philosophy — Reference
+https://plato.stanford.edu/entries/reference/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ed96cded9d65cf6bf85221ed
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-005] Stanford Encyclopedia of Philosophy — Pragmatics
+https://plato.stanford.edu/entries/pragmatics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f4d8c6947c962963b532fea8
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-006] Stanford Encyclopedia of Philosophy — Indexicals
+https://plato.stanford.edu/entries/indexicals/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c0dae03db89763b62a8c34c0
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-007] Stanford Encyclopedia of Philosophy — Gottlob Frege
+https://plato.stanford.edu/entries/frege/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0113235744187e923a8dd298
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-008] Stanford Encyclopedia of Philosophy — Descriptions
+https://plato.stanford.edu/entries/descriptions/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fe1f4a2fc5b4e93c70456bd9
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-009] Stanford Encyclopedia of Philosophy — Truth Values
+https://plato.stanford.edu/entries/truth-values/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a66c849764a1087240682735
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-010] Oxford Academic — Philosophy in Focus: Philosophy of Language
+https://academic.oup.com/journals/pages/philosophy-in-focus-philosophy-of-language
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0044f8e98a8e5681d52cd8a5
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-011] Oxford Academic — The Oxford Handbook of Philosophy of Language
+https://academic.oup.com/edited-volume/38631
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8ebe424ff362289e0104ab84
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-012] Cambridge Core — The Cambridge Handbook of the Philosophy of Language
+https://www.cambridge.org/core/books/cambridge-handbook-of-the-philosophy-of-language/6283AABA41E79084E9EA2E09DD459130
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2a194d5a601460fb9d9e35b8
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-013] Cambridge Core — How the Philosophy of Language Grew Out of Analytic Philosophy
+https://www.cambridge.org/core/books/cambridge-handbook-of-the-philosophy-of-language/how-the-philosophy-of-language-grew-out-of-analytic-philosophy/C2048E43524DFB29A31094886FCE36F8
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:de15a764c3f11bb88180658b
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-014] Cambridge Core — Frege’s Legacy in the Philosophy of Language and Mind
+https://www.cambridge.org/core/books/cambridge-handbook-of-the-philosophy-of-language/freges-legacy-in-the-philosophy-of-language-and-mind/4A7E2F59261B7C2A7D64C3CA644A0157
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d7856ae6c42c56497ec34502
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-015] Cambridge Core — Reference and Theories of Reference
+https://www.cambridge.org/core/books/abs/cambridge-handbook-of-the-philosophy-of-language/reference-and-theories-of-reference/20790AF81A87E7C9A9B874968FB38D01
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b11698d6663b25967f2aecdc
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-016] Cambridge Core — Speech Acts, Actions, and Events
+https://www.cambridge.org/core/books/abs/cambridge-handbook-of-the-philosophy-of-language/speech-acts-actions-and-events/5674391D9B3A421680E6520532C2B17B
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4113965d3c38a983ca90044a
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-017] Cambridge Core — The Normativity of Meaning and Content
+https://www.cambridge.org/core/books/cambridge-handbook-of-the-philosophy-of-language/normativity-of-meaning-and-content/0023E30DD7F37B03760C29F37BE01021
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ef9bd2cc6d6f6e3cf348d270
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-018] Cambridge Core — Handbook References
+https://www.cambridge.org/core/books/abs/cambridge-handbook-of-the-philosophy-of-language/references/E0885C208A8A5D4CCEEC33078DD84AD3
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ca0c0ab09182a5482a8f82df
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-019] Cambridge Core — Michael Morris, An Introduction to the Philosophy of Language
+https://www.cambridge.org/core/books/an-introduction-to-the-philosophy-of-language/1A676FB5EEB9240AF3331A82DE44864C
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7580f9fe02437a587e182ca1
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-020] Cambridge Core — Morris chapter: Frege on Sense and Reference
+https://www.cambridge.org/core/books/abs/an-introduction-to-the-philosophy-of-language/frege-on-sense-and-reference/2A91AB44A3E99E3799054CD9433C4F00
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3df88fb623fbc46f7f58fbf6
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-021] Routledge — Routledge Companion to Philosophy of Language
+https://www.routledge.com/Routledge-Companion-to-Philosophy-of-Language/Russell-Fara/p/book/9780415993104
+Family: editorial_or_specialist | Publisher: www.routledge.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a994ad6acc3a46b3b1b68b35
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-022] Wiley — The Blackwell Guide to the Philosophy of Language
+https://onlinelibrary.wiley.com/doi/book/10.1002/9780470757031
+Family: academic_or_institutional | Publisher: onlinelibrary.wiley.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:78ee96e816ccbda82be249bb
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-023] Routledge — Alex Miller, Philosophy of Language
+https://www.routledge.com/Philosophy-of-Language/Miller/p/book/9780415718974
+Family: editorial_or_specialist | Publisher: www.routledge.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6c021781c3acec61bc5d13c1
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-024] Routledge — William Lycan, Philosophy of Language, 3rd ed.
+https://www.routledge.com/Philosophy-of-Language-A-Contemporary-Introduction-3rd-Edition/Lycan/p/book/9781138504585
+Family: editorial_or_specialist | Publisher: www.routledge.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:55710099a28ec07189627773
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-025] Routledge — William Lycan, Philosophy of Language, 4th ed.
+https://www.routledge.com/Philosophy-of-Language-A-Contemporary-Introduction/Lycan/p/book/9781041076131
+Family: editorial_or_specialist | Publisher: www.routledge.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:304537217614791365694723
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-026] MIT Press — Colin McGinn, Philosophy of Language: The Classics Explained
+https://mitpress.mit.edu/9780262529822/philosophy-of-language/
+Family: academic_or_institutional | Publisher: mitpress.mit.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2a9fd67be8c009f98f9df946
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-027] JSTOR — Colin McGinn, Philosophy of Language: The Classics Explained
+https://www.jstor.org/stable/j.ctt17kk9zd
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e5cc8acaeab99c3e9959ea70
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-028] PhilPapers — Colin McGinn, Philosophy of Language: The Classics Explained
+https://philpapers.org/rec/MCGPOL-2
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c987e8e7966a26b1894849b5
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-029] Google Books — Gary Kemp, What Is This Thing Called Philosophy of Language?
+https://books.google.com/books?id=V0sX0AEACAAJ
+Family: editorial_or_specialist | Publisher: books.google.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:832fc7ac1dcff93444a414b0
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-030] Blog of the APA — Philosophy of Language syllabus (Landon D. C. Elkind)
+https://blog.apaonline.org/2025/02/12/philosophy-of-language-landon-d-c-elkind/
+Family: academic_or_institutional | Publisher: blog.apaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:26e0efaa7ea0dbfcd7671635
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-031] Oxford Academic — J. L. Austin, How To Do Things With Words
+https://academic.oup.com/book/5162
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:73c303f106910f976f1c473a
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-032] Oxford Academic — Donald Davidson, Inquiries into Truth and Interpretation
+https://academic.oup.com/book/10406
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5e11ce1a7fa21b8d783d2394
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-033] Cambridge Core — John Searle, Speech Acts
+https://www.cambridge.org/core/books/speech-acts/D2D7B03E472C8A390ED60B86E08640E7
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:257bdb7b97289a56840b59c1
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-034] University of Chicago Press — Rudolf Carnap, Meaning and Necessity
+https://press.uchicago.edu/ucp/books/book/chicago/M/bo3638630.html
+Family: academic_or_institutional | Publisher: press.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6d88098513d60d9276f9e911
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-035] Harvard Book Store / Harvard UP listing — Paul Grice, Studies in the Way of Words
+https://www.harvard.com/book/9780674852716
+Family: editorial_or_specialist | Publisher: www.harvard.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aeebd62d634b2ed60a27663d
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-036] Cambridge Core — Kripke’s Wittgenstein on Rules and Private Language at 40
+https://www.cambridge.org/core/series/cambridge-philosophical-anniversaries/C1F1B0D7BC68167CE6D1B021E3927E45
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4227ec56b000ddf8bc981bec
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-037] MIT OpenCourseWare — Introduction to Philosophy of Language readings
+https://ocw.mit.edu/courses/24-251-introduction-to-philosophy-of-language-fall-2011/pages/readings/
+Family: academic_or_institutional | Publisher: ocw.mit.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:84377441d15f4c135df39ec6
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-038] MIT/OpenCourseWare mirror — Introduction to Philosophy of Language syllabus
+https://opencw.aprende.org/courses/linguistics-and-philosophy/24-251-introduction-to-philosophy-of-language-spring-2005/syllabus/
+Family: academic_or_institutional | Publisher: opencw.aprende.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3d9e217be168c0868beac75c
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-039] Oxford — Philosophy of Logic and Language Reading List (James Read)
+https://users.ox.ac.uk/~orie2304/read-ll.pdf
+Family: academic_or_institutional | Publisher: users.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1cfa77b5bbf68ba2d9b7f9a8
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-040] Oxford — Philosophy of Logic and Language Faculty Reading List
+https://users.ox.ac.uk/~ball1646/Teaching%20Material/LL%20readings/Faculty%20Reading%20List.pdf
+Family: academic_or_institutional | Publisher: users.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e20819b49b4080550b5dd076
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-041] Oxford Continuing Education — Philosophy of Language: The Basics reading list
+https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O23P436PHW
+Family: academic_or_institutional | Publisher: lifelong-learning.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2ba6d4bb6c2b37b14165b9db
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-042] University of York — Philosophy of Language module
+https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/PHI00073I/latest
+Family: academic_or_institutional | Publisher: www.york.ac.uk | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:df9ee0f40f443965b597b065
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-043] University of Kent — Philosophy of Language module
+https://www.kent.ac.uk/courses/modules/module/PHIL5760
+Family: academic_or_institutional | Publisher: www.kent.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c0617a9135e422ae1e4487e2
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-044] University of Sussex — Philosophy of Language module
+https://www.sussex.ac.uk/study/modules/undergraduate/2026/90651-philosophy-of-language
+Family: academic_or_institutional | Publisher: www.sussex.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:be0cc118ad20143b8bd817ed
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-045] Uppsala University — Philosophy of Language reading list
+https://www.uu.se/en/study/reading-list?query=40018
+Family: academic_or_institutional | Publisher: www.uu.se | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5c1336da9de716a03368b87f
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-046] Uppsala University — Philosophy of Language reading list (current)
+https://www.uu.se/en/study/reading-list?query=0c18a28f-cec7-11f0-9d49-fd72c5714a36
+Family: academic_or_institutional | Publisher: www.uu.se | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:657204c752a48c19a7dacdff
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-047] Uppsala University — Theoretical Philosophy B reading list
+https://www.uu.se/en/study/reading-list?query=25020
+Family: academic_or_institutional | Publisher: www.uu.se | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:afaa1bfc9f8cfe919492f989
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-048] University of Bologna — Philosophy of Language 2026/27
+https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2026/559302
+Family: academic_or_institutional | Publisher: www.unibo.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4722f67bcb797d5430f477b3
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-049] University of Bologna — Philosophy of Language 2025/26
+https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2025/422937
+Family: academic_or_institutional | Publisher: www.unibo.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:09531191b85a8fbf00299f3c
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-050] University of Bologna — Philosophy of Language 2026/27 (Italian-track bibliography)
+https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2026/533591
+Family: academic_or_institutional | Publisher: www.unibo.it | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9eddabf5cc1d4261edeb1837
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-051] King’s College London — Philosophy of Language
+https://www.kcl.ac.uk/abroad/module-options/philosophy-of-language-2
+Family: editorial_or_specialist | Publisher: www.kcl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:630b6283d49858d2012d46c8
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-052] King’s College London — Philosophy of Language, Level 7
+https://www.kcl.ac.uk/abroad/module-options/module?id=97466b28-43f0-4da7-b214-28f2b6e6fab0
+Family: editorial_or_specialist | Publisher: www.kcl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9bbc223e7d103a41c558bbc7
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-053] King’s College London — Introduction to Philosophy of Language
+https://www.kcl.ac.uk/abroad/module-options/module?id=1ab12d1a-212e-4ca9-ac50-91db021e35d4
+Family: editorial_or_specialist | Publisher: www.kcl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:17949842c8d0b09af74d4d3a
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-054] UCL — Philosophy BA modules (PHIL0022 Philosophy of Language)
+https://www.ucl.ac.uk/arts-humanities/philosophy/current-students/ba-modules
+Family: editorial_or_specialist | Publisher: www.ucl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1927620f659f9d1bfd99bada
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-055] University of Edinburgh — Philosophy of Language 2026/27
+https://www.drps.ed.ac.uk/26-27/dpt/cxphil10005.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:165db4d0ca29e883fd890758
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-056] University of Edinburgh — Philosophy of Language (historical catalogue)
+https://www.drps.ed.ac.uk/15-16/dpt/cxphil10005.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d36a827e6f6ac307c6b3baad
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-057] Australian National University — Topics in Analytic Philosophy, 2026 (Philosophy of Language)
+https://programsandcourses.anu.edu.au/2026/course/PHIL2014/Second%20Semester/8741
+Family: academic_or_institutional | Publisher: programsandcourses.anu.edu.au | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2b70c860a10785e28ef78d5c
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-058] Australian National University — Topics in Analytic Philosophy
+https://programsandcourses.anu.edu.au/course/PHIL2014
+Family: academic_or_institutional | Publisher: programsandcourses.anu.edu.au | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:971869fbe177e7801a800e44
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-059] Australian National University — Philosophy of Language
+https://programsandcourses.anu.edu.au/2016/course/PHIL2016
+Family: academic_or_institutional | Publisher: programsandcourses.anu.edu.au | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a3a92be635eea358b2f64f08
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-060] University of British Columbia — PHIL 326 Philosophy of Language
+https://philosophy.ubc.ca/section/phil-326-2023w-002/
+Family: academic_or_institutional | Publisher: philosophy.ubc.ca | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1c3f65f6cfa1da7f7bee4b89
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-061] University of Warwick — Problems from Wittgenstein
+https://courses.warwick.ac.uk/modules/2026/PH3C3-15
+Family: academic_or_institutional | Publisher: courses.warwick.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:82522df52c3647bcaf9d979a
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-062] University of Edinburgh — older Philosophy of Language course P01282
+https://www.drps.ed.ac.uk/07-08/course_P01282.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cf518e888f52693d1e3186fa
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-063] Douglas Lackey — What Are the Modern Classics? The Baruch Poll
+https://studylib.net/doc/8340915/what-are-the-modern-classics%3F-the-baruch-poll
+Family: editorial_or_specialist | Publisher: studylib.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b5e5b5ca4a03e82cae2cdb42
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-064] Open Culture — Eminent Philosophers Name the 43 Most Important Philosophy Books, 1950–2000
+https://www.openculture.com/2018/04/eminent-philosophers-name-the-43-most-important-philosophy-books-written-between-1950-2000.html
+Family: editorial_or_specialist | Publisher: www.openculture.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1e1933bc42b86d98bc311960
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-065] Goodreads — Essential Analytic Philosophy
+https://www.goodreads.com/list/show/74625.Essential_Analytic_Philosophy
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1efc9a9495584af0e770efa1
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-066] Goodreads — Philosophical Investigations
+https://www.goodreads.com/book/show/6680512-philosophical-investigations
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:120868614962c8d0ab49658e
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-067] Goodreads — Naming and Necessity
+https://www.goodreads.com/book/show/1372419
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:38ba93dd44caac98d1175584
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-068] Goodreads — Word and Object
+https://www.goodreads.com/book/show/174467.Word_and_Object
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:157394effd3cad0f806cf85d
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-069] Goodreads — How To Do Things With Words
+https://www.goodreads.com/book/show/35294693-how-to-do-things-with-words
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:df923ae797ddc040929c0c85
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-070] Goodreads — Studies in the Way of Words
+https://www.goodreads.com/en/book/show/436513.Studies_in_the_Way_of_Words
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d5cb167fe4934e7aa0e19722
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-071] Goodreads — Inquiries Into Truth and Interpretation
+https://www.goodreads.com/book/show/1029661
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:98b8b268e72fe9463d2b4cfe
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-072] Goodreads — Philosophy of Language: The Classics Explained
+https://www.goodreads.com/en/book/show/23461336-philosophy-of-language
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:28695fbad6fcac074f992021
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-073] Goodreads — Most Important Philosophy Books 50s shelf
+https://www.goodreads.com/shelf/show/most-important-philosophy-books-50s
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:113c49a277e3d33206543bb2
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-074] Reddit / r/askphilosophy — What are 'must read' texts in philosophy of language?
+https://www.reddit.com/r/askphilosophy/comments/1sorq6y/what_are_must_read_texts_in_philosophy_of_language/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:da95f92f79bca8001dd7f5fa
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-075] Reddit / r/askphilosophy — Need suggestions for books about the philosophy of language
+https://www.reddit.com/r/askphilosophy/comments/i6ck8v
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5c3db89192fc8eb5531d5fca
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-076] Reddit / r/askphilosophy — Logic and Philosophy of Language: Basic Booklist
+https://www.reddit.com/r/askphilosophy/comments/w9ohoi
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:202963eb68462f1df9477183
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-077] Reddit / r/askphilosophy — Good introductions to philosophy of language
+https://www.reddit.com/r/askphilosophy/comments/1shjowo/what_are_some_good_introductions_to_the/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4d9d975d97e64bc453926d87
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-078] Reddit / r/askphilosophy — Where can I start with philosophy of language?
+https://www.reddit.com/r/askphilosophy/comments/1ka7u3l
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b831ae4b26f08e76e4bb67d8
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-079] Reddit / r/askphilosophy — Book recommendations on philosophy of language
+https://www.reddit.com/r/askphilosophy/comments/ge111s
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:60ecf18a082188d742709a19
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-080] Reddit / r/askphilosophy — Recommendations on philosophy of language
+https://www.reddit.com/r/askphilosophy/comments/10zq5ef
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c95bd6ec957d8ce0c550210d
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-081] Reddit / r/askphilosophy — Philosophy of Language 101
+https://www.reddit.com/r/askphilosophy/comments/1l2zp33
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0127bb4f75a6d89b7a9fa517
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-082] Reddit / r/askphilosophy — Prerequisites for Kripke's Naming and Necessity
+https://www.reddit.com/r/askphilosophy/comments/i4xmgi
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1dbe7977127e2c3a93b747e1
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-083] Reddit / r/askphilosophy — Pre-reqs for Naming and Necessity
+https://www.reddit.com/r/askphilosophy/comments/1fwyz4i
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8e8f27c77d89b0e838e543bc
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-084] Reddit / r/askphilosophy — Prerequisites to Kripke's Naming and Necessity?
+https://www.reddit.com/r/askphilosophy/comments/edorz5
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e4c658401e2f5caf042931c5
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-085] Reddit / r/AcademicPhilosophy — Assigning Naming and Necessity in a first-year course
+https://www.reddit.com/r/AcademicPhilosophy/comments/hn3u88
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1ffee76888a64cd030f42d27
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-086] Reddit / r/linguistics — Essential philosophers/texts on linguistics?
+https://www.reddit.com/r/linguistics/comments/d8xnc2
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:25c4160a0f8ac5b8ba460674
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-087] Reddit / r/asklinguistics — Interested in reading/listening to language philosophers
+https://www.reddit.com/r/asklinguistics/comments/wujjo0
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:89a5ca99674cce79bb312853
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-088] Reddit / r/linguistics — Contemporary linguistics on Wittgenstein’s philosophy of language
+https://www.reddit.com/r/linguistics/comments/nmem9z
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7fcc05f9c98a2bc7fafe0f20
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-089] Reddit / r/askphilosophy — Accuracy of a take on Wittgenstein/philosophy of language
+https://www.reddit.com/r/askphilosophy/comments/115jd3n
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d22e6288a64ab03c25172423
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-090] Reddit / r/askphilosophy — What is the point of Naming and Necessity and modality?
+https://www.reddit.com/r/askphilosophy/comments/1vqc8j9/what_is_the_point_of_naming_and_necessity_and/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ce07488132bcb6708dba8ea3
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-091] 3:16 — Scott Soames interview, Kripke’s unfinished business
+https://www.3-16am.co.uk/articles/kripke-s-unfinished-business
+Family: editorial_or_specialist | Publisher: www.3-16am.co.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fa6fd71ddbafb4d7c0ee2ae2
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-092] Philosophy Now — Wittgenstein Books
+https://ftp.philosophynow.org/issues/5/Wittgenstein_Books
+Family: editorial_or_specialist | Publisher: ftp.philosophynow.org | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:20f39d1b933087e20d94e96d
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-093] Douban — Naming and Necessity (Harvard edition)
+https://book.douban.com/subject/1397840/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5e6bfb27990fe7c292b23553
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-094] Douban — Naming and Necessity (Blackwell edition)
+https://book.douban.com/subject/1469964/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:291740dc855b2892908a5123
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-095] Douban — Ludwig Wittgenstein works sorted by popularity
+https://book.douban.com/author/4523098/books?format=pic&sortby=collect
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b43a644cea1e7a8d7679121a
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-096] Douban — Ludwig Wittgenstein works sorted by date
+https://book.douban.com/author/4523098/books?format=pic&sortby=time
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d7a459c783d9c4bcbb148508
+Saved evidence: Independently accessed during the 13 September 2026 intake. The retrieved bibliography, reference work, course list, publisher record, poll, or community discussion is relevant to the target. It supports corpus-level inclusion only; detailed candidate mappings remain pending.
+Saved limitations: Verified at source level during intake; no candidate-specific evidence map or separate reading-value order was supplied.
+
+[PHILOSOPHY-OF-LANGUAGE-097] Douban — Wittgenstein collected works series
+https://book.douban.com/series/43303
+Family: reader_community | Publisher: book.douban.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:96cc338df226ec56b42bde81
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-098] Douban — 语言·意义·世界 (Language, Meaning, World)
+https://book.douban.com/subject/36820855/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:365cbe91e6101c8a70e3d6d5
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-099] Douban — 语言与世界 (Language and World)
+https://book.douban.com/subject/26892268/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:65fa6f77daffd67a2b0108fb
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-100] Douban — 简明语言哲学 (Concise Philosophy of Language)
+https://book.douban.com/subject/37433830/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bfadc078e35f525187c054b6
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-101] Douban — 逻辑与语言 (Logic and Language)
+https://book.douban.com/subject/1420947/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f0eca0b8696404eebb214c24
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-102] Douban — Wittgenstein and Philosophical Investigations
+https://book.douban.com/subject/2047562/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:05a43a4722a5bf5beddd5a1c
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-103] Douban — Cambridge Companion-style volume on Wittgenstein
+https://book.douban.com/subject/1798132/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:893e896872ebb81963a644fc
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-104] CiNii Books — Japanese edition of Naming and Necessity
+https://ci.nii.ac.jp/ncid/BN00339297
+Family: editorial_or_specialist | Publisher: ci.nii.ac.jp | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:298794c1307031e5cc417535
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-105] CiNii Books — フレーゲの言語哲学 (Frege’s Philosophy of Language)
+https://ci.nii.ac.jp/ncid/BN00581259
+Family: editorial_or_specialist | Publisher: ci.nii.ac.jp | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ea7ce28c9ce38abcce88727a
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-106] National Diet Library (Japan) — Philosophical Investigations
+https://ndlsearch.ndl.go.jp/books/R100000002-I030721394
+Family: academic_or_institutional | Publisher: ndlsearch.ndl.go.jp | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cd4289a80e2dd070e7bf3183
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-107] National Diet Library (Japan) — Wittgenstein, Tractatus and Philosophical Investigations guide
+https://ndlsearch.ndl.go.jp/books/R100000137-I9784142231874
+Family: academic_or_institutional | Publisher: ndlsearch.ndl.go.jp | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4cf51eff3657656bae7aa080
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-108] National Diet Library (Japan) — Reading Philosophical Investigations
+https://ndlsearch.ndl.go.jp/books/R100000002-I029211519
+Family: academic_or_institutional | Publisher: ndlsearch.ndl.go.jp | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5dd72418815f1336ea6e843d
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-109] National Diet Library (Japan) — Wittgenstein: The Limits of Language
+https://ndlsearch.ndl.go.jp/books/R100000002-I034586602
+Family: academic_or_institutional | Publisher: ndlsearch.ndl.go.jp | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2ae400f0b18ac24bc236a359
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-110] LiveLib (Russia) — Философские исследования / Philosophical Investigations
+https://www.livelib.ru/book/1003008149-filosofskie-issledovaniya-lyudvig-vitgenshtejn
+Family: editorial_or_specialist | Publisher: www.livelib.ru | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:04844522d75e851126798ad1
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-111] Dialnet (Spain) — Filosofía del lenguaje, Pérez Otero & García-Carpintero
+https://dialnet.unirioja.es/servlet/libro?codigo=255852
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5e2490bd639df6585b97326b
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-112] Dialnet (Spain) — Filosofía del lenguaje, collective volume
+https://dialnet.unirioja.es/servlet/libro?codigo=1000075
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6ca57aaef6ab99a069b87ff0
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-113] Dialnet (Spain) — Wittgenstein on Rules and Private Language (Spanish edition)
+https://dialnet.unirioja.es/servlet/libro?codigo=327322
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:24d12b9e6aa30bde6d467886
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-114] Dialnet (Spain) — thesis on Frege and early Wittgenstein
+https://dialnet.unirioja.es/servlet/tesis?codigo=317742
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:45b418b0179129b9b6004b3a
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-115] Dialnet (Spain) — Congress section on philosophy of language
+https://dialnet.unirioja.es/servlet/libro?codigo=795129
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f9827f34feb30a1ac92dd4cf
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-116] Filosofia.org (Spanish) — Frege and the structure of language
+https://www.filosofia.org/ave/001/a431.htm
+Family: editorial_or_specialist | Publisher: www.filosofia.org | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:57cade6412b2c3a04041ae16
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-117] Filosofia.org (Spanish) — Filosofía del lenguaje
+https://www.filosofia.org/enc/ros/filos16.htm
+Family: editorial_or_specialist | Publisher: www.filosofia.org | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b01310cc5edc1e241dd1c5bc
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-118] Treccani (Italy) — Linguistica
+https://www.treccani.it/enciclopedia/linguistica_res-a37b78fa-87e9-11dc-8e9d-0016357eee51_%28Enciclopedia-Italiana%29/
+Family: editorial_or_specialist | Publisher: www.treccani.it | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:00a02ac5c415b5c9fbe0d453
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-119] Treccani (Italy) — Linguaggio
+https://www.treccani.it/enciclopedia/linguaggio/
+Family: editorial_or_specialist | Publisher: www.treccani.it | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6e20cfd2a0a3047a3e776aaa
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-120] Treccani (Italy) — Ludwig Wittgenstein
+https://www.treccani.it/enciclopedia/ludwig-wittgenstein_%28Storia-della-civilt%C3%A0-europea-a-cura-di-Umberto-Eco%29/
+Family: editorial_or_specialist | Publisher: www.treccani.it | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7fe2565d8481272fefc1b1ed
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-121] Treccani (Italy) — Ricerche filosofiche / Philosophical Investigations
+https://www.treccani.it/enciclopedia/ricerche-filosofiche_%28Dizionario-di-filosofia%29/
+Family: editorial_or_specialist | Publisher: www.treccani.it | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:47bb6191e0cd2702dfdcbc87
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-122] Treccani (Italy) — Gottlob Frege
+https://www.treccani.it/enciclopedia/gottlob-frege/
+Family: editorial_or_specialist | Publisher: www.treccani.it | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:95a3e631602eafc218ad3898
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-123] Persée (France) — Wittgenstein et la philosophie analytique
+https://www.persee.fr/doc/enphi_0035-1393_1973_num_24_2_17655
+Family: editorial_or_specialist | Publisher: www.persee.fr | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:780e0cf180ea724506f2f46c
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-124] Persée (France) — Wittgenstein: le langage à la racine de la question philosophique
+https://www.persee.fr/doc/phlou_0035-3841_1985_num_83_60_6381
+Family: editorial_or_specialist | Publisher: www.persee.fr | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5cce2799ce867bd233c12896
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-125] Cairn (France) — L’effectivité du dire: de la thérapie à l’action magique
+https://shs.cairn.info/autorite-et-force-du-dire--9782130628569-page-231?lang=fr
+Family: editorial_or_specialist | Publisher: shs.cairn.info | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fa822fcdb5c81966bb6f50d5
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-126] Stanford Encyclopedia of Philosophy — Plato’s Cratylus
+https://plato.stanford.edu/entries/plato-cratylus/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:da98cd512a2e2f385a16aa47
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-127] Stanford Encyclopedia of Philosophy — Ancient Logic
+https://plato.stanford.edu/entries/logic-ancient/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:007d55ec22c81522a458524b
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-128] Stanford Encyclopedia of Philosophy — Convention (language section)
+https://plato.stanford.edu/archives/sum2016/entries/convention/index.html
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:438eb25be218f6ddf075a038
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-129] Stanford Encyclopedia of Philosophy — Logic and Language in Early Chinese Philosophy
+https://plato.stanford.edu/entries/chinese-logic-language/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0e34491356588cdf124d48c7
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-130] Stanford Encyclopedia of Philosophy — Xunzi
+https://plato.stanford.edu/archives/fall2025/entries/xunzi/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ec6f83d8b914187b021474ac
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-131] Stanford Encyclopedia of Philosophy — Epistemology in Chinese Philosophy
+https://plato.stanford.edu/entries/chinese-epistemology/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8e01eb445f54f3bb5257af34
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-132] Stanford Encyclopedia of Philosophy — School of Names: Disputation in Context
+https://plato.stanford.edu/archives/fall2007/entries/school-names/disputation.html
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2b02655702799befbcce2308
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-133] Stanford Encyclopedia of Philosophy — Language and Testimony in Classical Indian Philosophy
+https://plato.stanford.edu/entries/language-india/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:695004037c6d8cd2cd3ca9b4
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-134] Stanford Encyclopedia of Philosophy — Literal/Nonliteral Distinction in Classical Indian Philosophy
+https://plato.stanford.edu/entries/literal-nonliteral-india/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:110e0164447692a5bddd6873
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+[PHILOSOPHY-OF-LANGUAGE-135] Internet Encyclopedia of Philosophy — Bhartrihari
+https://iep.utm.edu/bhartrihari/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: False | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:552eb5dd469ae95facbdff90
+Saved evidence: Retained as a prospective source from the owner-supplied report; local consultation/verification remains pending.
+Saved limitations: The report says these are sources it would use to cross-check the ranking; it does not claim they were consulted.
+
+END OF COMPLETE INPUT: books-philosophy-of-language. Included 20 current entries and 135 current source records. Carry out the update and return the enhanced ranking with the complete source register.

@@ -1,5 +1,7 @@
 # Philosophy books · All time — research state
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 **Latest owner correction:** target approximately 250 entries for this broad ranking. Compile quickly from full published lists and existing evidence, then refine. The tiny published subset below is historical saved state, not adequate all-time coverage. Prioritize broad candidate normalization and population; detailed dossiers and individual media/edition lookups must not block inclusion. See [the corrected workflow](../../docs/RANKING_RESEARCH_WORKFLOW.md).
 
 Updated 13 September 2026, through source batch 32. **97 distinct eligible sources are saved and imported for this target.** The hard minimum of 50 is met; worldwide research is still incomplete. The owner now prioritizes broad, timely compilation and subsequent refinement over additional source accumulation. No threshold proves completion.
@@ -69,3 +71,10 @@ Prior empty ranking revisions and v1 proposals are preserved. Catalog batches, i
 Published 250 entries, revision 4, with both qualitative orders. All 159 supplied URLs were attempted (137 returned, 22 failed); a returned page is not by itself an independently reviewed endorsement. Explicit list rows were reviewed for scope and title/author occurrences provide supplementary coverage signals. Ranking evidence links and the full method are in `research/_runs/2026-09-13/supplied-corpus/philosophy-books-all-time-publication.json`; order TSVs and per-URL audits accompany it. All earlier entries/revisions and source records remain. No personal numerical criteria or scores were assigned.
 
 Limitations: only supported catalog matches and the reviewed explicit candidate pool were selected, not every item in every source. Other candidates remain in the extracted row files. Domain breadth reduces but does not eliminate source dependence; multilingual titles without a reliable English identity remain unresolved. Older automated consultation counts are not a measure of substantive source review. Edition/cover enrichment remains pending for newly created works.
+
+
+## Owner DOCX update — 27 September 2026
+
+Imported the supplied report into the existing database, revision 6: 250 → 250 active entries; 256 → 622 source records (+366, including 332 newly registered sources whose substantive consultation is externally reported). Added 41 active ranking candidates; 41 superseded ranking entries remain archived with history. Every pre-existing source record and its eligibility was preserved. No source-by-source web verification or fresh research was performed.
+
+Full intake notes, limitations, source/candidate ID maps and receipts: `research/_runs/2026-09-27/owner-docx-updates/`. Both editorial views were persisted; personal numerical scores remain unset. Edition/media and the report's stated evidence gaps remain open. Canonical sources.json contains all current database sources; previous ledger retained.

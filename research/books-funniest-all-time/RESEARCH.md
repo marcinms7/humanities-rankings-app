@@ -1,5 +1,7 @@
 # Funniest books · All time — owner-chat Top 150 intake, 14 September 2026
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 The owner report is preserved verbatim at `research/incoming/books-funniest-all-time/2026-09-14-owner-chat-attachment/report.txt` (SHA-256 `5254d10c5e4b89db7eddd27869fe210dc632d069610ffe7dd2ceb61eb208d5ad`). It supplies 150 global cross-form literary positions and 351 direct-URL source records. The normalized ledger retains all of them plus three directly read entry-level supplements, for **354 target-local sources / 281 eligible**.
 
 Four report entries initially had only indexed-only citations. Three narrow direct supplementary sources support *Gulliver's Travels*, *Broken Glass* and *The Alienist*; the direct page for the existing *A True Story* lead was read and qualified for its limited parody/reception context. The original access labels are retained rather than rewritten. Revision **2** publishes every report position. Catalog reconciliation reused established identities and created 74 missing works; no editions or media were invented.

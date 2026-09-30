@@ -1,0 +1,120 @@
+.published-comparison-selectors {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto;
+  align-items: end;
+  gap: 18px;
+  margin-bottom: 24px;
+}
+.published-comparison-selectors label {
+  display: grid;
+  gap: 8px;
+  min-width: 0;
+}
+.published-comparison-selectors select {
+  width: 100%;
+  min-width: 0;
+}
+.published-list-contexts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin-bottom: 20px;
+}
+.published-list-context h2 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+.published-list-context p {
+  margin: 12px 0;
+}
+.published-list-context a {
+  overflow-wrap: anywhere;
+}
+.published-scope-labels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.published-overlap {
+  margin-bottom: 24px;
+}
+.published-overlap-stats,
+.published-rank-pair {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+.published-overlap-stats > div,
+.published-rank-pair > div {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.published-overlap-stats strong {
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: 500;
+}
+.published-overlap-stats span {
+  color: var(--muted);
+  font-size: 12px;
+}
+.published-overlap-bar {
+  display: flex;
+  height: 12px;
+  margin: 18px 0;
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--surface-alt);
+}
+.published-overlap-bar > span:nth-child(1) {
+  background: var(--gold);
+}
+.published-overlap-bar > span:nth-child(2) {
+  background: var(--accent);
+}
+.published-overlap-bar > span:nth-child(3) {
+  background: var(--muted);
+}
+.published-comparison-entry + .published-comparison-entry {
+  border-top: 1px solid var(--border);
+}
+.published-comparison-entry .book-row {
+  border-bottom: 0;
+}
+.published-rank-pair {
+  margin: 0 22px 18px 80px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+.published-rank-pair strong {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 22px;
+  font-weight: 500;
+}
+.published-rank-difference > span:last-child {
+  font-size: 13px;
+  padding-top: 5px;
+}
+@media (max-width: 800px) {
+  .published-comparison-selectors {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .published-swap {
+    justify-self: start;
+  }
+}
+@media (max-width: 560px) {
+  .published-comparison-selectors,
+  .published-list-contexts {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .published-rank-pair {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+  .published-rank-pair .eyebrow {
+    letter-spacing: 0.06em;
+    font-size: 9px;
+  }
+}

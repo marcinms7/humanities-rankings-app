@@ -1,0 +1,389 @@
+INPUT PART 1/10 — books-england
+These numbered messages together are ONE complete research request. Expect 100 current entries and 247 current source records, plus the labelled supplements. Until the final part arrives, acknowledge receipt briefly and wait; do not start the research or infer missing parts. If the conversation cannot retain all parts, say so and request the complete prompt as a file instead of pretending full coverage.
+
+SELF-CONTAINED RANKING UPDATE REQUEST
+TARGET: Books · England
+TARGET ID: books-england
+SNAPSHOT: 2026-09-27T20:44:44.053349+00:00
+MODE: update an existing research synthesis
+CURRENT SIZE: 100 distinct entries
+CURRENT REGISTER: 247 source records; 167 stored as eligible (historical flags, subject to audit)
+DESIRED SCOPE: A broad roughly 100-work England ranking across the currently permitted literary forms, using documented literary-cultural association rather than language alone.
+
+You are updating ONE existing humanities ranking for a reading app. You have no access to its repository, database or earlier conversations. Everything needed to start is included below: the task, current entries, both saved editorial orders where present, existing entry citations, and the complete current target-specific source register. Research this target on the web and return a portable, evidence-backed update. Do not merely critique this prompt or supply a research plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+OWNER'S OBJECTIVE
+Improve the substance and traceability of the ranking while keeping a useful, broad candidate pool. Start by auditing and using relevant existing material, then research the specific gaps. The source count alone does not establish adequate support. An established, fully consulted list may support many candidates; a large bibliography of generic references may support few comparative judgments. The owner specifically requests at least 100 additional sources for this update; this is not a per-entry quota.
+
+Treat this as a revision, not an instruction to retain every existing position. Compare the complete pool, identify conspicuous omissions, and justify additions, removals, merges and substantial moves. Keep the supplied identities and prior evidence traceable. Do not replace a substantial ranking with a tiny polished subset while ignoring the rest. If work must stop, return the full baseline with updated and unresolved rows clearly distinguished, plus the exact continuation point.
+
+WHAT COUNTS AS EVIDENCE
+The supplied source eligibility flags, access labels, dates and notes are historical records. They are NOT a claim that you consulted those pages, or that their contents justify every attached candidate. Separate inherited evidence, independently rechecked evidence, newly consulted evidence, bibliographic/context material, unavailable material and unexamined leads. Never copy an old access date into a claim of your own consultation.
+
+Open and examine relevant content before claiming new or rechecked evidence. Record what claim it supports and where: article section, page, list entry or other precise location. Search-result pages/snippets, unopened links and generic site homepages are leads, not substantive consultation. A long page or successful HTTP response is not sufficient. Narrow reference facts, primary texts and publisher descriptions can be useful, but do not by themselves demonstrate comparative critical standing. Preserve these useful roles without counting metadata-only leads as substantive research.
+
+Use an appropriate mixture of scholarship/critical studies, university and specialist selections, independent critics/polls/reviews, and reader discussions including Goodreads or Reddit where relevant. Use relevant non-English sources when you can understand them reliably. Prioritize independent, candidate-specific evidence and underrepresented traditions. Do not keep collecting repetitive pages to inflate totals.
+
+Deduplicate underlying publications, mirrors, syndication and copied lists. Wikipedia translations and copies of one poll are not independent critical endorsements. An aggregator is one consulted source unless its underlying sources are individually examined; do not double-count their judgments. One discussion thread is one source, not one per comment. Record dependencies and publisher/platform concentration. Preserve disagreements. Never invent sources, URLs, quotations, source positions or consultation claims.
+
+The project uses a floor of 50 distinct relevant consulted sources for a completed research target, including sound prior research retained with explicit provenance. This is not 50 NEW sources, not 50 per candidate, and not a guarantee of adequate coverage. Recalculate the defensible total after the audit; do not accept stored eligibility totals automatically. Separate genuinely qualifying prior evidence from your own consultations in the totals. Below the floor, or with substantial unresolved support, label the result incomplete. Above it, stop when the useful revision is delivered and identify remaining concrete gaps rather than researching indefinitely. One target's bibliography does not automatically count for another target.
+
+SCOPE, IDENTITY AND ORDERING
+Use the target-specific scope below. Books, authors/philosophers, individual stories/essays/poems/plays, collections, series and editions are different objects. Do not silently turn a series into its first volume, a collection into one story, or an author into a book. Verify ambiguous or reversed author/title records before making further claims. Retain anonymous, collective and disputed attributions honestly. Use original composition/publication dates, with uncertainty where appropriate, not translation dates.
+
+For country/tradition scopes, document literary/cultural association; language, setting, citizenship and country are not interchangeable. Multiple associations can be valid. England is distinct from the UK. Establish English availability for reading recommendations where required by this target; an English-translated title alone does not prove an English edition exists. Record unavailable or unverified translations explicitly instead of inventing editions or silently dropping important works.
+
+Produce two reasoned qualitative editorial views when applicable: (1) critical standing/enduring influence, and (2) reading value today. The second is not just ease of reading or popularity. Give it independent reasoning where it differs; if you cannot support a separate full order, say so. Both views should cover the same final candidate set; explicitly label unresolved placements instead of silently omitting candidates. A beginner route or reading sequence is separately labelled and is not automatically a merit ranking. A country-grouped selection keeps local positions and does not acquire a global merit order.
+
+Personal numerical criteria, weights, assessments and personalized scores are UNSET. Leave them unset. The owner explicitly authorizes qualitative, source-backed editorial orderings without numerical scoring. This supersedes older generic instructions that would block any editorial ranking until personal criteria exist. Do not invent the owner's tastes. Explain your comparative method and uncertainty; precise ordinal positions are editorial judgments, not measured facts. Preserve original publisher ranks, ties, list lengths and unranked status separately. Absence from a short source list is not a last-place vote.
+
+An existing shared ranking is the baseline for this assignment. Preserve its prior form in the change log; propose a revised version rather than claiming to overwrite the app. No application code, account, library, private notes or preferences are part of your task. Do not claim a database import or publication.
+
+REQUIRED RETURN PACKAGE
+Return one complete, downloadable Word .docx for this target, named <target-id>-<your-run-id>-update.docx. Structured Markdown or UTF-8 text is acceptable if genuine .docx generation is unavailable; do not rename a text file to .docx. Optional sources.json and candidates.json make later import easier but do not replace the readable report. If output limits require multiple files, number them and supply a manifest; do not silently truncate the ranking or bibliography.
+
+Include all of the following:
+1. Target ID, scope, actual research dates/run ID, methodology, status, achieved candidate count, consultation counts split into inherited/rechecked/new, source-family/domain/publisher distribution, dependency audit, limitations and stopping rationale.
+2. The complete revised standing order and complete reading-value order where applicable, or all country sections with their local positions. Give each retained item its supplied work/person ID; new items receive clearly external candidate IDs, never invented app IDs. Report both old and proposed positions, identity corrections, rationale and confidence. Preserve ties/uncertainty where appropriate.
+3. Candidate records for EVERY proposed item: title/name, author/attribution, form, original date/language/associations when supported, scope eligibility, inclusion and comparative reasoning, actual supporting source IDs and claim locations, counterarguments, English-availability status and unresolved facts. Differentiate identity/context support from evidence of selection, reception, criticism or comparative judgment. Do not attach the same generic bibliography to every candidate without showing what it actually supports.
+4. A COMPLETE source register, including EVERY supplied current source, each supplementary conflicting record, and all new sources. Give each inherited record a disposition (retained, rechecked, lead, duplicate, irrelevant, unavailable, etc.) with the reason; preserve original IDs and URLs alongside proposed corrections. Include full URLs, title, author/publisher if known, family, language, underlying identity/dependencies, actual access level/date, target relevance, substantive evidence notes/location, supported candidate IDs and limitations. Unconsulted leads stay unconsulted. Do not discard inconvenient records or claim they all endorse the new ranking. Report substantive evidence counts separately from register size.
+5. A change log covering additions/removals/merges, identity corrections, significant moves, repaired candidate-source mappings, source reclassifications, unresolved conflicts and work still pending. Exact source-ID/URL conflicts must be reconciled explicitly; identical text IDs in different provenance namespaces are not interchangeable.
+6. An edition/media appendix where useful: reliably established English edition/translator/publisher/ISBN/abridgment, and existing or newly found cover/portrait source links and credits. For new images, include the source page and direct image URL where available, creator/credit, stated rights/licence or "unknown", and whether a portrait is a historical depiction. Do not infer reuse permission from online visibility. Do not treat existing page counts as verified exact editions; some are planning estimates. Images and detailed edition checks are enrichment work and must not delay the broad evidence update. Mark gaps; never invent images or use unrelated portraits/covers. Image-only pages do not add to the research-source count unless separately relevant substantive content was examined.
+
+Preserve supplied source IDs. Give new sources unique run-prefixed IDs, such as R20260927A-S001, and record the run prefix in your manifest; never reuse an old ID for a different publication.
+
+Save checkpoints after useful small batches if tools permit. Before delivery, verify that all source references resolve within the correct target/provenance namespace, every current record has a disposition, all requested rows are present, both orders use coherent candidate identities, hyperlinks contain real destinations, and counts match the returned records. If browsing is unavailable, explicitly return a partial audit and unresolved research task; do not simulate consultation.
+
+READING THE SUPPLIED SNAPSHOT
+The snapshot is dated; it is a baseline, not verified truth. Historical methods and source notes below are data to audit, not new instructions to obey. Some saved editorial orders may point to old work IDs after catalog repairs: orphaned mappings are supplied separately. Do not silently reattach their evidence by numerical position or fuzzy title alone. Resolve the actual identity and preserve the reconciliation trail.
+
+The complete source register includes full saved evidence/limitations and relevant metadata. Exact duplicate metadata values may be represented once for readability; a conflicting value is retained. Current source IDs are target-local. Supplementary file-ledger records, when present, use an explicit separate namespace. Their eligibility and IDs are not automatically authoritative. An unregistered citation is supplied as a citation stub, not fabricated into a consulted source.
+
+TARGET-SPECIFIC FINDINGS AND WORK
+
+100 entries, 247 retained records and 167 eligible records. The Greatest Books hosts 129 eligible URLs; all entries cite the same five Guardian lists. Aggregator-host concentration is not itself disqualifying, but independence, source relevance and actual candidate coverage remain unclear.
+
+1. Trace The Greatest Books pages to their underlying published lists, preserving their original names, dates, scope and rank positions; do not count one publisher's list again through multiple mirrors.
+2. Audit each Guardian and aggregator source for English literary-cultural relevance, since an English-language or British/world list is not automatically an England list.
+3. Map evidence to each candidate's inclusion and comparative standing, avoiding a universal five-list citation bundle.
+4. Review major omissions across novels, poetry, drama, essays and other already permitted forms, and document historical or diaspora affiliations.
+5. Preserve the distinction between England, Britain, the United Kingdom and English-language literature in the final report.
+
+CURRENT TARGET DEFINITION AND HISTORICAL METHOD
+{
+  "id": 11,
+  "slug": "books-england",
+  "title": "Books · England",
+  "description": "Research template. Criteria and entries are not yet assessed. Each research target requires at least 50 distinct, relevant, diverse consulted sources.",
+  "domain": "literature",
+  "item_type": "work",
+  "presentation": "ranked",
+  "origin": "curated",
+  "target_size": 100,
+  "status": "initial_selection",
+  "source_url": "",
+  "publisher": "",
+  "last_researched_at": null,
+  "last_sources_checked_at": null,
+  "revision": 2,
+  "criteria": [],
+  "scope": {
+    "forms": [
+      "book",
+      "collection",
+      "poem",
+      "play",
+      "short_story",
+      "essay"
+    ],
+    "country": "England",
+    "association": "documented_literary_cultural",
+    "english_edition_required": true
+  },
+  "historical_editorial_method_and_notes": {
+    "version": "owner-paste-research-synthesis-2026-09-13",
+    "published_on": "2026-09-13",
+    "notice": "Initial owner-supplied research synthesis. Source records preserve externally reported consultation and verification limitations; this is not a final exhaustive ranking.",
+    "method": "Reported cross-source synthesis from the owner-supplied report. The supplied order is retained as a provisional editorial order; no personal numerical scores are set.",
+    "input_sha256": "0b224afc4c7c958e008f222e6d4c20a76b0dbf13cb169d8f27e536ac936e85b1",
+    "reviewed_exclusions": []
+  }
+}
+
+CURRENT SAVED EDITORIAL ORDERS
+Item IDs below resolve to the complete current entries or the explicit orphan mapping appendix. A saved order is historical, not a requirement to retain the same order. For unranked/country-grouped records, these are display sequences, not global merit positions.
+{
+  "standing": {
+    "label": "Reported cross-source synthesis",
+    "description": "The source report’s supplied all-time ordering.",
+    "item_ids": [
+      7,
+      20,
+      79,
+      267,
+      266,
+      382,
+      275,
+      77,
+      338,
+      4620,
+      727,
+      344,
+      380,
+      277,
+      272,
+      582,
+      11,
+      330,
+      762,
+      295,
+      2814,
+      276,
+      293,
+      317,
+      2790,
+      102,
+      89,
+      95,
+      395,
+      4621,
+      2796,
+      4622,
+      30,
+      1609,
+      271,
+      278,
+      262,
+      1628,
+      144,
+      94,
+      394,
+      725,
+      734,
+      712,
+      718,
+      766,
+      732,
+      776,
+      362,
+      4623,
+      388,
+      78,
+      105,
+      724,
+      723,
+      4624,
+      4625,
+      4626,
+      4627,
+      287,
+      306,
+      1639,
+      142,
+      1611,
+      403,
+      69,
+      4628,
+      741,
+      4629,
+      1602,
+      420,
+      4630,
+      4631,
+      390,
+      4632,
+      684,
+      4633,
+      685,
+      270,
+      331,
+      334,
+      335,
+      1606,
+      113,
+      73,
+      4634,
+      773,
+      2101,
+      4635,
+      4636,
+      416,
+      1603,
+      396,
+      129,
+      4637,
+      613,
+      602,
+      458,
+      14,
+      203
+    ]
+  },
+  "reading": {
+    "label": "Reported order (reading-value view pending)",
+    "description": "No separate reading-value order was supplied, so this view currently retains the report order.",
+    "item_ids": [
+      7,
+      20,
+      79,
+      267,
+      266,
+      382,
+      275,
+      77,
+      338,
+      4620,
+      727,
+      344,
+      380,
+      277,
+      272,
+      582,
+      11,
+      330,
+      762,
+      295,
+      2814,
+      276,
+      293,
+      317,
+      2790,
+      102,
+      89,
+      95,
+      395,
+      4621,
+      2796,
+      4622,
+      30,
+      1609,
+      271,
+      278,
+      262,
+      1628,
+      144,
+      94,
+      394,
+      725,
+      734,
+      712,
+      718,
+      766,
+      732,
+      776,
+      362,
+      4623,
+      388,
+      78,
+      105,
+      724,
+      723,
+      4624,
+      4625,
+      4626,
+      4627,
+      287,
+      306,
+      1639,
+      142,
+      1611,
+      403,
+      69,
+      4628,
+      741,
+      4629,
+      1602,
+      420,
+      4630,
+      4631,
+      390,
+      4632,
+      684,
+      4633,
+      685,
+      270,
+      331,
+      334,
+      335,
+      1606,
+      113,
+      73,
+      4634,
+      773,
+      2101,
+      4635,
+      4636,
+      416,
+      1603,
+      396,
+      129,
+      4637,
+      613,
+      602,
+      458,
+      14,
+      203
+    ]
+  }
+}
+
+COMPLETE CURRENT ENTRY LIST: 100 ENTRIES
+Database position is the current saved display order; separate editorial views appear above. Saved bibliographic metadata is not independently reverified by this export.
+
+ENTRY 1 | work:7 | Middlemarch — George Eliot
+{"entry_id": 5801, "item_type": "work", "item_id": 7, "source_rank": null, "rationale": "Position 1 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 7, "title": "Middlemarch", "form": "book", "field": "literature", "original_year": null, "original_language": "English", "countries": ["England"], "description": "An interconnected provincial society tests aspiration, marriage, vocation and the limits of sympathy.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 7, "name": "George Eliot", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549", "image_attribution": "replica by François D’Albert Durade (1804–1886); Public domain. https://commons.wikimedia.org/wiki/File:George_Eliot,_por_Fran%C3%A7ois_D%27Albert_Durade.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 7, "language": "English", "translator": "", "publisher": "Penguin Classics", "isbn": "9780141439549", "pages": 880, "word_count": null, "abridged": 0, "translation_notes": "Edited with introduction by Rosemary Ashton. Physical extent and date refer to the UK publisher record for this ISBN.", "source_url": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549", "image_attribution": "Cover: Penguin Classics. Publisher-supplied image for ISBN 9780141439549; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 1 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 2 | work:20 | Pride and Prejudice — Jane Austen
+{"entry_id": 5802, "item_type": "work", "item_id": 20, "source_rank": null, "rationale": "Position 2 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 20, "title": "Pride and Prejudice", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 40, "name": "Jane Austen", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 298, "language": "English", "translator": "", "publisher": "Yoyo USA", "isbn": "9798749154306", "pages": 351, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL66554W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/14348537-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 2 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 3 | work:79 | To the Lighthouse — Virginia Woolf
+{"entry_id": 5803, "item_type": "work", "item_id": 79, "source_rank": null, "rationale": "Position 3 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 79, "title": "To the Lighthouse", "form": "book", "field": "literature", "original_year": null, "original_language": "English", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 81, "name": "Virginia Woolf", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 818, "language": "English", "translator": "", "publisher": "Norton & Company Limited, W. W.", "isbn": "9798734589137", "pages": 242, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL39396W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8231846-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 3 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 4 | work:267 | Jane Eyre — Charlotte Brontë
+{"entry_id": 5804, "item_type": "work", "item_id": 267, "source_rank": null, "rationale": "Position 4 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 267, "title": "Jane Eyre", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 238, "name": "Charlotte Brontë", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 210, "language": "English", "translator": "", "publisher": "Globe Fearon", "isbn": "0451530918", "pages": 480, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL1095427W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8235363-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 4 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 5 | work:266 | Wuthering Heights — Emily Brontë
+{"entry_id": 5805, "item_type": "work", "item_id": 266, "source_rank": null, "rationale": "Position 5 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 266, "title": "Wuthering Heights", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 237, "name": "Emily Brontë", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 565, "language": "English", "translator": "", "publisher": "Ediciones Destino", "isbn": "1441408428", "pages": 288, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL21177W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/12818862-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 5 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 6 | work:382 | The Lord of the Rings — J. R. R. Tolkien
+{"entry_id": 5806, "item_type": "work", "item_id": 382, "source_rank": null, "rationale": "Position 6 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 382, "title": "The Lord of the Rings", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 244, "name": "J. R. R. Tolkien", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 445, "language": "English", "translator": "", "publisher": "\"Azbuka\"", "isbn": "4566023648", "pages": 246, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL27448W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/14625765-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 6 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 7 | work:275 | Great Expectations — Charles Dickens
+{"entry_id": 5807, "item_type": "work", "item_id": 275, "source_rank": null, "rationale": "Position 7 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 275, "title": "Great Expectations", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 242, "name": "Charles Dickens", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 182, "language": "English", "translator": "", "publisher": "Juventud", "isbn": "9798763878363", "pages": 482, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL8721462W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/13322313-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 7 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 8 | work:77 | Nineteen Eighty-Four — George Orwell
+{"entry_id": 5808, "item_type": "work", "item_id": 77, "source_rank": null, "rationale": "Position 8 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 77, "title": "Nineteen Eighty-Four", "form": "book", "field": "literature", "original_year": null, "original_language": "English", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 79, "name": "George Orwell", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 266, "language": "English", "translator": "", "publisher": "Baker Street Press", "isbn": "0451516265", "pages": 318, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL1168083W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/9267242-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 8 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 9 | work:338 | Bleak House — Charles Dickens
+{"entry_id": 5809, "item_type": "work", "item_id": 338, "source_rank": null, "rationale": "Position 9 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 338, "title": "Bleak House", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 242, "name": "Charles Dickens", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 93, "language": "English", "translator": "", "publisher": "Lulu.com", "isbn": "9798592008825", "pages": 815, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL14868510W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/9279273-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 9 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 10 | work:4620 | Paradise Lost — John Milton
+{"entry_id": 5810, "item_type": "work", "item_id": 4620, "source_rank": null, "rationale": "Position 10 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 4620, "title": "Paradise Lost", "form": "book", "field": "literature", "original_year": 1667, "original_language": "", "countries": ["England"], "description": "Included at position 10 in the owner-supplied research synthesis. Original report title: Paradise Lost.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 484, "name": "John Milton", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 2261, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 333, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL810991W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/5992814-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 10 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 11 | work:727 | Emma — Jane Austen
+{"entry_id": 5811, "item_type": "work", "item_id": 727, "source_rank": null, "rationale": "Position 11 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 727, "title": "Emma", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 40, "name": "Jane Austen", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 153, "language": "English", "translator": "", "publisher": "Penguin USA, Inc.", "isbn": "9788417477394", "pages": 416, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL66513W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/9278312-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 11 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 12 | work:344 | The Canterbury Tales — Geoffrey Chaucer
+{"entry_id": 5812, "item_type": "work", "item_id": 344, "source_rank": null, "rationale": "Position 12 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 344, "title": "The Canterbury Tales", "form": "book", "field": "literature", "original_year": null, "original_language": "English", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 288, "name": "Geoffrey Chaucer", "biography": "", "countries": [], "source_url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 367, "language": "English", "translator": "", "publisher": "Pub. for the Chaucer Society by Trübner", "isbn": "1143629248", "pages": 626, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL531767W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/5767180-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 12 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 13 | work:380 | Mrs Dalloway — Virginia Woolf
+{"entry_id": 5813, "item_type": "work", "item_id": 380, "source_rank": null, "rationale": "Position 13 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 380, "title": "Mrs Dalloway", "form": "book", "field": "literature", "original_year": null, "original_language": "English", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 81, "name": "Virginia Woolf", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 249, "language": "English", "translator": "", "publisher": "Chivers North America", "isbn": "9798433608320", "pages": 224, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL39349W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/6397580-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 13 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 14 | work:277 | Frankenstein — Mary Shelley
+{"entry_id": 5814, "item_type": "work", "item_id": 277, "source_rank": null, "rationale": "Position 14 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 277, "title": "Frankenstein", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 245, "name": "Mary Shelley", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 165, "language": "English", "translator": "", "publisher": "Independently Published", "isbn": "9798716085268", "pages": 304, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL26860869W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/15118068-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 14 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 15 | work:272 | David Copperfield — Charles Dickens
+{"entry_id": 5815, "item_type": "work", "item_id": 272, "source_rank": null, "rationale": "Position 15 in the owner-supplied cross-source research synthesis.", "assessments": {}, "catalog": {"id": 272, "title": "David Copperfield", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 242, "name": "Charles Dickens", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 123, "language": "English", "translator": "", "publisher": "Edicions Proa", "isbn": "8497935187", "pages": 1128, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL8662242W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/1048892-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 15 in the owner-supplied cross-source research synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "ENGLAND-001", "title": "The Guardian — The 100 best novels of all time (2026 expert poll)", "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time"}, {"source_id": "ENGLAND-002", "title": "The Guardian — Readers' top 100 novels (2026)", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"}, {"source_id": "ENGLAND-003", "title": "The Guardian — The 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "ENGLAND-004", "title": "The Guardian — The 100 best nonfiction books of all time (2017)", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "ENGLAND-005", "title": "The Guardian — 100 greatest nonfiction books (2011)", "url": "https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+END OF THIS INPUT PART. Wait for the next numbered part.

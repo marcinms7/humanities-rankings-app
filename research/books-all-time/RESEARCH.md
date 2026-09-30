@@ -1,5 +1,7 @@
 # Books · All time — research state
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 ## Population checkpoint — 13 September 2026, broad expansion
 
 **Saved in the existing database: books-all-time 250 entries, revision 3; literature-all-time 250 entries, revision 3.** Both editorial orders preserved. All original entry identities, source ranks/assessments and historical revisions retained. Catalog now 423 works; only the original 14 have verified editions/covers, so new metadata and portraits are explicitly pending. This supersedes the old tiny-selection counts below. Nonfiction/philosophy expansion is next in the active run.

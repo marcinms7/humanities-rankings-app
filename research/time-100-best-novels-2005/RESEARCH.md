@@ -1,5 +1,7 @@
 # TIME · 100 Best Novels (1923–2005)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named reading collection (100 entries), checked 2026-09-14.
 
 Official source: https://time.com/archive/6675063/times-100-best-novels/

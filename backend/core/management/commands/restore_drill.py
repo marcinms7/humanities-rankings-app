@@ -9,6 +9,7 @@ from pathlib import Path
 from django.conf import settings
 from django.core.management.base import BaseCommand, CommandError
 from django.db.backends.sqlite3._functions import register
+from backend.core.local_backups import restore_media
 
 
 class Command(BaseCommand):
@@ -29,7 +30,12 @@ class Command(BaseCommand):
         shutil.copy2(stem.with_suffix('.sqlite3'), database)
         archive_path = stem.with_suffix('.media.tar.gz')
         file_count = 0
-        if archive_path.exists():
+        if stem.with_suffix('.media.json').exists():
+            try:
+                file_count = restore_media(stem, destination / 'media')
+            except (OSError, ValueError) as error:
+                raise CommandError(str(error)) from error
+        elif archive_path.exists():
             with tarfile.open(archive_path) as archive:
                 for member in archive:
                     target = (destination / member.name).resolve()

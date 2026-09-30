@@ -1,0 +1,28 @@
+{
+  "target_id": "history-books-ancient-world",
+  "ranking_entries": [],
+  "sources": [
+    {
+      "source_id": "metadata-20260928-egypt-frontmatter",
+      "underlying_source_id": "isbn:9780521284271:frontmatter",
+      "title": "Ancient Egypt: A Social History — publisher preview, title and copyright pages",
+      "canonical_url": "https://api.pageplace.de/preview/DT0400.9781316040782_A25932641/preview-9781316040782_A25932641.pdf",
+      "source_family": "academic_or_institutional",
+      "publisher": "Cambridge University Press (distributed preview)",
+      "access_level": "relevant_excerpt",
+      "accessed_at": "2026-09-28",
+      "count_eligible": false,
+      "target_ids": [
+        "history-books-ancient-world"
+      ],
+      "relevance_by_target": {
+        "history-books-ancient-world": "Verifies all four credited authors and a specific paperback edition for the reversed catalog record."
+      },
+      "evidence_notes": "Title page credits B. G. Trigger, B. J. Kemp, D. O’Connor and A. B. Lloyd. Copyright page gives first publication 1983, seventeenth printing 2008 and paperback ISBN 9780521284271. Contents identify the contributors by chapter. The preview does not establish the final numbered page count.",
+      "disagreement_or_limitations": "Title/copyright/contents consulted; no full-book reading or independent comparative-merit judgment claimed.",
+      "depends_on_source_ids": [],
+      "evidence_role": "bibliographic_identity",
+      "locally_verified": true
+    }
+  ]
+}

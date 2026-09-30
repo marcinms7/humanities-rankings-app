@@ -1,5 +1,6 @@
 """Private learning actions, independent of book completion and ranking scores."""
 import json
+from .content_cache import read_content
 import uuid
 from datetime import timedelta
 from pathlib import Path
@@ -8,7 +9,7 @@ from rest_framework.exceptions import ValidationError
 
 
 def learning_content(curriculum):
-    atlas = json.loads((Path(__file__).parent / 'content/classical_atlas.json').read_text())
+    atlas = read_content((Path(__file__).parent / 'content/classical_atlas.json'))
     prompts = []
     for m in curriculum['modules']:
         for suffix, question in [('question', m['question']), ('evidence', f'For {m["title"]}, recall one precise passage or example and explain what it supports.'), ('limits', f'What uncertainty, counterargument or alternative interpretation matters in {m["title"]}?')]:

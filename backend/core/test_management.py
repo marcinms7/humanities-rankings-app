@@ -106,4 +106,39 @@ class BootstrapTests(TestCase):
         self.assertFalse(Work.objects.exists())
         self.assertFalse(Person.objects.exists())
         self.assertEqual(Ranking.objects.get(slug='books-century-20').scope['year_from'], 1901)
-        self.assertEqual(Ranking.objects.get(slug='books-bce').scope['year_to'], -1)
+        self.assertFalse(Ranking.objects.filter(slug='books-bce').exists())
+        self.assertEqual(Ranking.objects.get(slug='books-every-country').scope['group_by'], 'country')
+
+
+class PreservedReportParsingTests(TestCase):
+    def test_horror_report_keeps_title_and_author_columns(self):
+        from research.import_owner_top150_reports import REPORTS, parse_entries, parse_sources
+        report = next(r for r in REPORTS if r.slug == 'books-horror-all-time')
+        root = Path(__file__).resolve().parents[2]
+        text = (root / 'research/incoming/books-horror-all-time/2026-09-14-owner-chat-attachments/report.txt').read_text()
+        entries = parse_entries(report, text, {s['source_id'] for s in parse_sources(report, text)})
+        self.assertEqual(len(entries), 150)
+        self.assertEqual((entries[0]['title'], entries[0]['attribution']), ('The Haunting of Hill House', 'Shirley Jackson'))
+        self.assertEqual((entries[1]['title'], entries[1]['attribution']), ('Frankenstein', 'Mary Shelley'))
+
+    def test_history_reports_keep_author_first_and_series_identity(self):
+        from scripts.prepare_country_synthesis_intake import REPORTS, ranking_records
+        root = Path(__file__).resolve().parents[2]
+        cases = {'history-books-ancient-world': ('SPQR: A History of Ancient Rome', 'Mary Beard'),
+                 'history-books-ancient-rome': ('The Roman Revolution', 'Ronald Syme'),
+                 'history-books-england': ('The Making of the English Working Class', 'E. P. Thompson')}
+        for target, expected in cases.items():
+            text = (root / 'research/incoming' / target / '2026-09-13-owner-paste/report.txt').read_text()
+            marker, count, _ = REPORTS[target]
+            rows = ranking_records(target, text, marker, count)
+            self.assertEqual(len(rows), 100)
+            self.assertEqual((rows[0]['reported_title'], rows[0]['reported_author']), expected)
+            if target == 'history-books-ancient-world':
+                self.assertEqual((rows[5]['reported_title'], rows[5]['reported_author']), ('The Cambridge Ancient History', ''))
+
+    def test_cover_matching_does_not_match_empty_transliterations(self):
+        from research.enrich_catalog_covers_public import same_author, same_title
+        self.assertFalse(same_title('李白', '杜甫')[0])
+        self.assertFalse(same_author(['李白'], ['杜甫']))
+        self.assertFalse(same_author(['Mary Shelley'], ['Percy Shelley']))
+        self.assertTrue(same_author(['F. Scott Fitzgerald'], ['Francis Scott Fitzgerald']))

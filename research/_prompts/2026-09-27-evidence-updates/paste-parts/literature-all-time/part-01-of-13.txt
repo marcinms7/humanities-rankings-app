@@ -1,0 +1,674 @@
+INPUT PART 1/13 — literature-all-time
+These numbered messages together are ONE complete research request. Expect 250 current entries and 101 current source records, plus the labelled supplements. Until the final part arrives, acknowledge receipt briefly and wait; do not start the research or infer missing parts. If the conversation cannot retain all parts, say so and request the complete prompt as a file instead of pretending full coverage.
+
+SELF-CONTAINED RANKING UPDATE REQUEST
+TARGET: Literary fiction · All time
+TARGET ID: literature-all-time
+SNAPSHOT: 2026-09-27T20:44:44.053349+00:00
+MODE: update an existing research synthesis
+CURRENT SIZE: 250 distinct entries
+CURRENT REGISTER: 101 source records; 101 stored as eligible (historical flags, subject to audit)
+DESIRED SCOPE: Approximately 250 worldwide literary-fiction works, improving the existing breadth and comparative support. Preserve the two qualitative views and historical evidence; do not pad the list or force particular titles or positions.
+
+You are updating ONE existing humanities ranking for a reading app. You have no access to its repository, database or earlier conversations. Everything needed to start is included below: the task, current entries, both saved editorial orders where present, existing entry citations, and the complete current target-specific source register. Research this target on the web and return a portable, evidence-backed update. Do not merely critique this prompt or supply a research plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+OWNER'S OBJECTIVE
+Improve the substance and traceability of the ranking while keeping a useful, broad candidate pool. Start by auditing and using relevant existing material, then research the specific gaps. The source count alone does not establish adequate support. An established, fully consulted list may support many candidates; a large bibliography of generic references may support few comparative judgments. The owner specifically requests at least 100 additional sources for this update; this is not a per-entry quota.
+
+Treat this as a revision, not an instruction to retain every existing position. Compare the complete pool, identify conspicuous omissions, and justify additions, removals, merges and substantial moves. Keep the supplied identities and prior evidence traceable. Do not replace a substantial ranking with a tiny polished subset while ignoring the rest. If work must stop, return the full baseline with updated and unresolved rows clearly distinguished, plus the exact continuation point.
+
+WHAT COUNTS AS EVIDENCE
+The supplied source eligibility flags, access labels, dates and notes are historical records. They are NOT a claim that you consulted those pages, or that their contents justify every attached candidate. Separate inherited evidence, independently rechecked evidence, newly consulted evidence, bibliographic/context material, unavailable material and unexamined leads. Never copy an old access date into a claim of your own consultation.
+
+Open and examine relevant content before claiming new or rechecked evidence. Record what claim it supports and where: article section, page, list entry or other precise location. Search-result pages/snippets, unopened links and generic site homepages are leads, not substantive consultation. A long page or successful HTTP response is not sufficient. Narrow reference facts, primary texts and publisher descriptions can be useful, but do not by themselves demonstrate comparative critical standing. Preserve these useful roles without counting metadata-only leads as substantive research.
+
+Use an appropriate mixture of scholarship/critical studies, university and specialist selections, independent critics/polls/reviews, and reader discussions including Goodreads or Reddit where relevant. Use relevant non-English sources when you can understand them reliably. Prioritize independent, candidate-specific evidence and underrepresented traditions. Do not keep collecting repetitive pages to inflate totals.
+
+Deduplicate underlying publications, mirrors, syndication and copied lists. Wikipedia translations and copies of one poll are not independent critical endorsements. An aggregator is one consulted source unless its underlying sources are individually examined; do not double-count their judgments. One discussion thread is one source, not one per comment. Record dependencies and publisher/platform concentration. Preserve disagreements. Never invent sources, URLs, quotations, source positions or consultation claims.
+
+The project uses a floor of 50 distinct relevant consulted sources for a completed research target, including sound prior research retained with explicit provenance. This is not 50 NEW sources, not 50 per candidate, and not a guarantee of adequate coverage. Recalculate the defensible total after the audit; do not accept stored eligibility totals automatically. Separate genuinely qualifying prior evidence from your own consultations in the totals. Below the floor, or with substantial unresolved support, label the result incomplete. Above it, stop when the useful revision is delivered and identify remaining concrete gaps rather than researching indefinitely. One target's bibliography does not automatically count for another target.
+
+SCOPE, IDENTITY AND ORDERING
+Use the target-specific scope below. Books, authors/philosophers, individual stories/essays/poems/plays, collections, series and editions are different objects. Do not silently turn a series into its first volume, a collection into one story, or an author into a book. Verify ambiguous or reversed author/title records before making further claims. Retain anonymous, collective and disputed attributions honestly. Use original composition/publication dates, with uncertainty where appropriate, not translation dates.
+
+For country/tradition scopes, document literary/cultural association; language, setting, citizenship and country are not interchangeable. Multiple associations can be valid. England is distinct from the UK. Establish English availability for reading recommendations where required by this target; an English-translated title alone does not prove an English edition exists. Record unavailable or unverified translations explicitly instead of inventing editions or silently dropping important works.
+
+Produce two reasoned qualitative editorial views when applicable: (1) critical standing/enduring influence, and (2) reading value today. The second is not just ease of reading or popularity. Give it independent reasoning where it differs; if you cannot support a separate full order, say so. Both views should cover the same final candidate set; explicitly label unresolved placements instead of silently omitting candidates. A beginner route or reading sequence is separately labelled and is not automatically a merit ranking. A country-grouped selection keeps local positions and does not acquire a global merit order.
+
+Personal numerical criteria, weights, assessments and personalized scores are UNSET. Leave them unset. The owner explicitly authorizes qualitative, source-backed editorial orderings without numerical scoring. This supersedes older generic instructions that would block any editorial ranking until personal criteria exist. Do not invent the owner's tastes. Explain your comparative method and uncertainty; precise ordinal positions are editorial judgments, not measured facts. Preserve original publisher ranks, ties, list lengths and unranked status separately. Absence from a short source list is not a last-place vote.
+
+An existing shared ranking is the baseline for this assignment. Preserve its prior form in the change log; propose a revised version rather than claiming to overwrite the app. No application code, account, library, private notes or preferences are part of your task. Do not claim a database import or publication.
+
+REQUIRED RETURN PACKAGE
+Return one complete, downloadable Word .docx for this target, named <target-id>-<your-run-id>-update.docx. Structured Markdown or UTF-8 text is acceptable if genuine .docx generation is unavailable; do not rename a text file to .docx. Optional sources.json and candidates.json make later import easier but do not replace the readable report. If output limits require multiple files, number them and supply a manifest; do not silently truncate the ranking or bibliography.
+
+Include all of the following:
+1. Target ID, scope, actual research dates/run ID, methodology, status, achieved candidate count, consultation counts split into inherited/rechecked/new, source-family/domain/publisher distribution, dependency audit, limitations and stopping rationale.
+2. The complete revised standing order and complete reading-value order where applicable, or all country sections with their local positions. Give each retained item its supplied work/person ID; new items receive clearly external candidate IDs, never invented app IDs. Report both old and proposed positions, identity corrections, rationale and confidence. Preserve ties/uncertainty where appropriate.
+3. Candidate records for EVERY proposed item: title/name, author/attribution, form, original date/language/associations when supported, scope eligibility, inclusion and comparative reasoning, actual supporting source IDs and claim locations, counterarguments, English-availability status and unresolved facts. Differentiate identity/context support from evidence of selection, reception, criticism or comparative judgment. Do not attach the same generic bibliography to every candidate without showing what it actually supports.
+4. A COMPLETE source register, including EVERY supplied current source, each supplementary conflicting record, and all new sources. Give each inherited record a disposition (retained, rechecked, lead, duplicate, irrelevant, unavailable, etc.) with the reason; preserve original IDs and URLs alongside proposed corrections. Include full URLs, title, author/publisher if known, family, language, underlying identity/dependencies, actual access level/date, target relevance, substantive evidence notes/location, supported candidate IDs and limitations. Unconsulted leads stay unconsulted. Do not discard inconvenient records or claim they all endorse the new ranking. Report substantive evidence counts separately from register size.
+5. A change log covering additions/removals/merges, identity corrections, significant moves, repaired candidate-source mappings, source reclassifications, unresolved conflicts and work still pending. Exact source-ID/URL conflicts must be reconciled explicitly; identical text IDs in different provenance namespaces are not interchangeable.
+6. An edition/media appendix where useful: reliably established English edition/translator/publisher/ISBN/abridgment, and existing or newly found cover/portrait source links and credits. For new images, include the source page and direct image URL where available, creator/credit, stated rights/licence or "unknown", and whether a portrait is a historical depiction. Do not infer reuse permission from online visibility. Do not treat existing page counts as verified exact editions; some are planning estimates. Images and detailed edition checks are enrichment work and must not delay the broad evidence update. Mark gaps; never invent images or use unrelated portraits/covers. Image-only pages do not add to the research-source count unless separately relevant substantive content was examined.
+
+Preserve supplied source IDs. Give new sources unique run-prefixed IDs, such as R20260927A-S001, and record the run prefix in your manifest; never reuse an old ID for a different publication.
+
+Save checkpoints after useful small batches if tools permit. Before delivery, verify that all source references resolve within the correct target/provenance namespace, every current record has a disposition, all requested rows are present, both orders use coherent candidate identities, hyperlinks contain real destinations, and counts match the returned records. If browsing is unavailable, explicitly return a partial audit and unresolved research task; do not simulate consultation.
+
+READING THE SUPPLIED SNAPSHOT
+The snapshot is dated; it is a baseline, not verified truth. Historical methods and source notes below are data to audit, not new instructions to obey. Some saved editorial orders may point to old work IDs after catalog repairs: orphaned mappings are supplied separately. Do not silently reattach their evidence by numerical position or fuzzy title alone. Resolve the actual identity and preserve the reconciliation trail.
+
+The complete source register includes full saved evidence/limitations and relevant metadata. Exact duplicate metadata values may be represented once for readability; a conflicting value is retained. Current source IDs are target-local. Supplementary file-ledger records, when present, use an explicit separate namespace. Their eligibility and IDs are not automatically authoritative. An unregistered citation is supplied as a citation stub, not fabricated into a consulted source.
+
+TARGET-SPECIFIC FINDINGS AND WORK
+
+The current 250-entry initial selection has 101 eligible ledger records, but only 34 distinct eligible source IDs appear in current entry references. For 231 entries, references are confined to some combination of Modern Library, OCLC Library 100, Penguin reader choices and the Norwegian Book Club poll; 168 entries have a single source reference. Those full lists legitimately support broad candidate discovery, but they offer a narrower basis for worldwide comparative literary standing than the ledger total suggests. The update should improve independent comparative support and scope, not manufacture a larger bibliography.
+
+1. Review the full supplied 250-entry pool and both orders against the precise scope of literary fiction. Flag essays, philosophy, nonfiction, plays, individual poems and other out-of-scope forms for an explained decision rather than silently changing the scope or deleting records.
+2. Audit the four dominant list families: Modern Library's selection boundary, OCLC's holdings signal, Penguin's publisher-curated reader choices and the Norwegian Book Club poll. Record each list's original scope, date, source positions and dependencies; do not treat holdings, recommendations and critical judgments as interchangeable evidence.
+3. Distinguish the complete ledger from sources actually supporting current candidates and comparisons. Reuse useful existing scholarly or critical evidence before opening new sources; document target and candidate relevance instead of assigning every source to every book.
+4. Consult targeted independent literary criticism, scholarship, substantial editorial selections and reader discussion where the current pool or ordering depends on one compilation family. Seek missing language traditions and perspectives through reliable relevant sources, without imposing arbitrary geographic or source-family quotas.
+5. Reassess inherited source-list order and the leading group against the full pool. Supply concise work-specific inclusion and placement reasons, including significant disagreements and uncertainty about adjacent positions; avoid using raw recurrence or one list's absent titles as a universal ranking rule.
+6. Return both critical-standing/enduring-influence and reading-value-today proposals, explaining important differences without equating reading value with ease. Retain prior positions and exact publisher positions as provenance, and leave personal numerical criteria, weights and scores unset.
+7. Normalize alternate titles, author aliases, multi-volume novels, collections and translations. Identify English availability and significant translation issues where evidence allows, keeping detailed edition and image work in a separate unresolved queue rather than an inclusion gate.
+
+CURRENT TARGET DEFINITION AND HISTORICAL METHOD
+{
+  "id": 2,
+  "slug": "literature-all-time",
+  "title": "Literary fiction · All time",
+  "description": "Research template. Criteria and entries are not yet assessed. Each research target requires at least 50 distinct, relevant, diverse consulted sources.",
+  "domain": "literature",
+  "item_type": "work",
+  "presentation": "ranked",
+  "origin": "curated",
+  "target_size": 200,
+  "status": "initial_selection",
+  "source_url": "",
+  "publisher": "",
+  "last_researched_at": null,
+  "last_sources_checked_at": null,
+  "revision": 3,
+  "criteria": [],
+  "scope": {
+    "forms": [
+      "book"
+    ],
+    "literary_fiction_only": true
+  },
+  "historical_editorial_method_and_notes": {
+    "version": 3,
+    "published_on": "2026-09-13",
+    "notice": "250-book first-pass comparison. Two qualitative orders; no personal scores. Edition details, covers and author portraits are still being completed for newly added books. Lower placements are less closely compared and will be refined.",
+    "method": "Qualitative editorial compilation from a 423-book comparison pool: the saved cross-tradition research, both Modern Library board lists, the Norwegian Book Clubs selection, OCLC holdings and Penguin reader suggestions. An explicit comparative head precedes a lower-confidence section, where published board ordering is a tie-break and other supported candidates follow. All-books interleaves fiction and nonfiction after the comparative head; this is an editorial breadth choice, not user weights or a numerical merit formula. Library holdings indicate circulation/reception, not excellence. The Norwegian table is unranked except its reported winner. Penguin display numbers are not vote ranks. Aggregators and their source lists are not independent votes. Adjacent positions remain revisable; no personal scores are assigned.",
+    "input_sha256": "df027c1f479ec42ec70933b1a96dd6c6688ef7174b954e08e10d1d55adfd64be"
+  }
+}
+
+CURRENT SAVED EDITORIAL ORDERS
+Item IDs below resolve to the complete current entries or the explicit orphan mapping appendix. A saved order is historical, not a requirement to retain the same order. For unranked/country-grouped records, these are display sequences, not global merit positions.
+{
+  "standing": {
+    "label": "Critical standing / enduring influence",
+    "description": "Comparative editorial standing across the saved pool; source scope and dependence are recorded.",
+    "item_ids": [
+      15,
+      18,
+      2,
+      16,
+      349,
+      6,
+      7,
+      19,
+      5,
+      290,
+      281,
+      17,
+      20,
+      70,
+      8,
+      66,
+      68,
+      280,
+      312,
+      79,
+      4,
+      327,
+      263,
+      26,
+      77,
+      367,
+      21,
+      310,
+      266,
+      267,
+      342,
+      380,
+      387,
+      83,
+      128,
+      71,
+      69,
+      117,
+      362,
+      374,
+      354,
+      350,
+      74,
+      355,
+      22,
+      24,
+      89,
+      99,
+      111,
+      1,
+      23,
+      382,
+      269,
+      275,
+      67,
+      311,
+      154,
+      131,
+      347,
+      348,
+      25,
+      27,
+      29,
+      28,
+      3,
+      30,
+      31,
+      351,
+      365,
+      359,
+      364,
+      361,
+      356,
+      373,
+      369,
+      381,
+      343,
+      346,
+      341,
+      353,
+      375,
+      370,
+      417,
+      418,
+      411,
+      394,
+      416,
+      395,
+      330,
+      338,
+      272,
+      397,
+      158,
+      72,
+      73,
+      75,
+      76,
+      78,
+      80,
+      81,
+      82,
+      84,
+      85,
+      86,
+      87,
+      88,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      112,
+      113,
+      114,
+      115,
+      116,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      129,
+      130,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      155,
+      156,
+      157,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      262,
+      264,
+      265,
+      268,
+      270,
+      271,
+      273,
+      274,
+      277,
+      278,
+      279,
+      282,
+      283,
+      284,
+      286,
+      288,
+      289,
+      292,
+      293,
+      294,
+      295,
+      298,
+      299,
+      301,
+      303,
+      304,
+      305,
+      307,
+      308,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      328,
+      331,
+      332,
+      333,
+      334,
+      335,
+      339,
+      413,
+      393,
+      396,
+      399,
+      423,
+      384,
+      345,
+      398,
+      383,
+      421,
+      389,
+      401,
+      409,
+      410,
+      407,
+      400,
+      358,
+      392,
+      390,
+      405,
+      388,
+      391,
+      408,
+      414,
+      386,
+      403
+    ]
+  },
+  "reading": {
+    "label": "Reading value today",
+    "description": "Selected promotions for present engagement, with explanations; other relative positions retain the standing order.",
+    "item_ids": [
+      349,
+      7,
+      2,
+      20,
+      19,
+      8,
+      280,
+      290,
+      26,
+      15,
+      77,
+      267,
+      66,
+      21,
+      311,
+      22,
+      382,
+      387,
+      312,
+      1,
+      3,
+      342,
+      6,
+      4,
+      5,
+      18,
+      16,
+      298,
+      74,
+      79,
+      277,
+      281,
+      17,
+      70,
+      68,
+      327,
+      263,
+      367,
+      310,
+      266,
+      380,
+      83,
+      128,
+      71,
+      69,
+      117,
+      362,
+      374,
+      354,
+      350,
+      355,
+      24,
+      89,
+      99,
+      111,
+      23,
+      269,
+      275,
+      67,
+      154,
+      131,
+      347,
+      348,
+      25,
+      27,
+      29,
+      28,
+      30,
+      31,
+      351,
+      365,
+      359,
+      364,
+      361,
+      356,
+      373,
+      369,
+      381,
+      343,
+      346,
+      341,
+      353,
+      375,
+      370,
+      417,
+      418,
+      411,
+      394,
+      416,
+      395,
+      330,
+      338,
+      272,
+      397,
+      158,
+      72,
+      73,
+      75,
+      76,
+      78,
+      80,
+      81,
+      82,
+      84,
+      85,
+      86,
+      87,
+      88,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      112,
+      113,
+      114,
+      115,
+      116,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      129,
+      130,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      155,
+      156,
+      157,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      262,
+      264,
+      265,
+      268,
+      270,
+      271,
+      273,
+      274,
+      278,
+      279,
+      282,
+      283,
+      284,
+      286,
+      288,
+      289,
+      292,
+      293,
+      294,
+      295,
+      299,
+      301,
+      303,
+      304,
+      305,
+      307,
+      308,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      328,
+      331,
+      332,
+      333,
+      334,
+      335,
+      339,
+      413,
+      393,
+      396,
+      399,
+      423,
+      384,
+      345,
+      398,
+      383,
+      421,
+      389,
+      401,
+      409,
+      410,
+      407,
+      400,
+      358,
+      392,
+      390,
+      405,
+      388,
+      391,
+      408,
+      414,
+      386,
+      403
+    ]
+  }
+}
+
+COMPLETE CURRENT ENTRY LIST: 250 ENTRIES
+Database position is the current saved display order; separate editorial views appear above. Saved bibliographic metadata is not independently reverified by this export.
+
+ENTRY 1 | work:15 | Don Quixote — Miguel de Cervantes
+{"entry_id": 292, "item_type": "work", "item_id": 15, "source_rank": null, "rationale": "International writers’ selection and institutional reception converge. Inclusion evidence: S04 library_holdings #1, R049, R133, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 15, "title": "Don Quixote", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 35, "name": "Miguel de Cervantes", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 3759, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://www.gutenberg.org/ebooks/996", "image_attribution": "Project Gutenberg ebook 996 cover: https://www.gutenberg.org/cache/epub/996/pg996.cover.medium.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "International writers’ selection and institutional reception converge. Inclusion evidence: S04 library_holdings #1, R049, R133, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "High placement retains imaginative range, not merely historical priority. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Holdings and one poll do not settle first place. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "R133", "title": "Große Romane der Weltliteratur: Die Geschichte eines faszinierenden Genres", "url": "https://www.deutschlandfunk.de/grosse-romane-der-weltliteratur-die-geschichte-eines-100.html"}, {"source_id": "S04", "title": "The Library 100", "url": "https://www.oclc.org/en/worldcat/library100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": [{"source_id": "S04", "list": "library_holdings", "position": 1}]}, "country_groupings": []}
+
+ENTRY 2 | work:18 | Ulysses — James Joyce
+{"entry_id": 293, "item_type": "work", "item_id": 18, "source_rank": null, "rationale": "First in Modern Library’s scoped poll; substantial formal ambition. Inclusion evidence: S02 novels #1, S04 library_holdings #47, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 18, "title": "Ulysses", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 38, "name": "James Joyce", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 536, "language": "English", "translator": "", "publisher": "Rhein-Verlag", "isbn": "9798810090632", "pages": 736, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL86318W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/13136548-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "First in Modern Library’s scoped poll; substantial formal ambition. Inclusion evidence: S02 novels #1, S04 library_holdings #47, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Retains a high place for its formal and linguistic rewards; its allusive density moves it below more immediately sustained narratives in this general-reader order.", "caveat": "Publisher ranking covers a narrower universe than this target. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S02", "title": "Modern Library Top 100", "url": "https://sites.prh.com/modern-library-top-100/"}, {"source_id": "S04", "title": "The Library 100", "url": "https://www.oclc.org/en/worldcat/library100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": [{"source_id": "S02", "list": "novels", "position": 1}, {"source_id": "S04", "list": "library_holdings", "position": 47}]}, "country_groupings": []}
+
+ENTRY 3 | work:2 | War and Peace — Leo Tolstoy
+{"entry_id": 1, "item_type": "work", "item_id": 2, "source_rank": null, "rationale": "Broad acclaim supports a high provisional position. Inclusion evidence: S14, S04 library_holdings #28, R049. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 2, "title": "War and Peace", "form": "book", "field": "literature", "original_year": 1869, "original_language": "Russian", "countries": ["Russia"], "description": "A novel combining social narrative, war and historical inquiry. The completed first book edition appeared in 1868–1869, following earlier serialization.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 2, "name": "Leo Tolstoy", "biography": "", "countries": [], "source_url": "https://www.nybooks.com/articles/2007/11/22/tolstoys-real-hero/", "image_attribution": "Sergei Prokudin-Gorskii; Public domain. https://commons.wikimedia.org/wiki/File:Leo_Tolstoy_1908_Portrait_(3x4_cropped).jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 2, "language": "English", "translator": "Richard Pevear and Larissa Volokhonsky", "publisher": "Vintage", "isbn": "9781400079988", "pages": 1296, "word_count": null, "abridged": 0, "translation_notes": "Complete-novel translation; retains French passages with English footnotes. Figes praises repetition and register while noting individual errors. This is not Bromfield’s translation of an earlier, shorter draft.", "source_url": "https://www.penguinrandomhouse.com/books/208646/war-and-peace-by-leo-tolstoy-a-new-translation-by-richard-pevear-and-larissa-volokhonsky/9781400079988/", "image_attribution": "Cover: Vintage. Publisher-supplied image for ISBN 9781400079988; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Broad acclaim supports a high provisional position. Inclusion evidence: S14, S04 library_holdings #28, R049. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Sustained engagement supports keeping it high. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Dedicated criticism still needed. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S04", "title": "The Library 100", "url": "https://www.oclc.org/en/worldcat/library100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": [{"source_id": "S04", "list": "library_holdings", "position": 28}]}, "country_groupings": []}
+
+ENTRY 4 | work:16 | In Search of Lost Time — Marcel Proust
+{"entry_id": 294, "item_type": "work", "item_id": 16, "source_rank": null, "rationale": "Cross-language critical standing supports the upper group. Inclusion evidence: R049, R103. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 16, "title": "In Search of Lost Time", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 36, "name": "Marcel Proust", "biography": "", "countries": [], "source_url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 205, "language": "English", "translator": "", "publisher": "The Editorium, LLC", "isbn": "9781434105547", "pages": 1118, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL38078207W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/14634155-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Cross-language critical standing supports the upper group. Inclusion evidence: R049, R103. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Exceptional sustained introspection remains valuable; the length and recursive structure make it a larger commitment than the novels promoted here.", "caveat": "Response depends strongly on tolerance for sustained introspection. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "R103", "title": "En busca del tiempo perdido: comentarios y opiniones", "url": "https://www.lecturalia.com/libro/14611/en-busca-del-tiempo-perdido"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 5 | work:349 | The Brothers Karamazov — Fyodor Dostoevsky
+{"entry_id": 295, "item_type": "work", "item_id": 349, "source_rank": null, "rationale": "Inclusion evidence: R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 349, "title": "The Brothers Karamazov", "form": "book", "field": "literature", "original_year": null, "original_language": "Russian", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 247, "name": "Fyodor Dostoevsky", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1291, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/brotherskaramazo0000fyod_s6l9", "image_attribution": "Internet Archive item image: https://archive.org/services/img/brotherskaramazo0000fyod_s6l9", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Inclusion evidence: R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Promoted for the combination of dramatic momentum, moral conflict and philosophical conversation; breadth of reward matters more here than formal priority.", "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 6 | work:6 | The Tale of Genji — Murasaki Shikibu
+{"entry_id": 2, "item_type": "work", "item_id": 6, "source_rank": null, "rationale": "Specialist and reader selections support cross-tradition comparison. Inclusion evidence: S29, S37, R049. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 6, "title": "The Tale of Genji", "form": "book", "field": "literature", "original_year": null, "original_language": "Japanese", "countries": ["Japan"], "description": "A long narrative of relationships, court life and changing generations in Heian Japan. Composition belongs to the early eleventh century; an exact year is not asserted.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 6, "name": "Murasaki Shikibu", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/books/62239/the-tale-of-genji-by-murasaki-shikibu-trans-royall-tyler/9780142437148", "image_attribution": "Tosa Mitsuoki (1617 - 1691); Public domain. https://commons.wikimedia.org/wiki/File:Murasaki-Shikibu-composing-Genji-Monogatari.png Historical depiction, not a contemporary likeness.", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 6, "language": "English", "translator": "Royall Tyler", "publisher": "Penguin Classics", "isbn": "9780142437148", "pages": 1216, "word_count": null, "abridged": 0, "translation_notes": "Publisher explicitly identifies a complete translation, with notes, glossaries, character lists and chronology.", "source_url": "https://www.penguin.co.uk/books/62239/the-tale-of-genji-by-murasaki-shikibu-trans-royall-tyler/9780142437148", "image_attribution": "Cover: Penguin Classics. Publisher-supplied image for ISBN 9780142437148; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Specialist and reader selections support cross-tradition comparison. Inclusion evidence: S29, S37, R049. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Keep high for sustained engagement beyond familiar European traditions. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "More independent criticism and complete-edition matching needed. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S29", "title": "Five East Asian Classic Books Worth Reading", "url": "https://fivebooks.com/best-books/east-asian-classic-books-tuva-kahrs/"}, {"source_id": "S37", "title": "Books of the Year", "url": "https://tonysreadinglist.wordpress.com/books-of-the-year/"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 7 | work:7 | Middlemarch — George Eliot
+{"entry_id": 3, "item_type": "work", "item_id": 7, "source_rank": null, "rationale": "Critical discussion and independent rereading support upper-group inclusion. Inclusion evidence: R055, S37, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 7, "title": "Middlemarch", "form": "book", "field": "literature", "original_year": null, "original_language": "English", "countries": ["England"], "description": "An interconnected provincial society tests aspiration, marriage, vocation and the limits of sympathy.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 7, "name": "George Eliot", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549", "image_attribution": "replica by François D’Albert Durade (1804–1886); Public domain. https://commons.wikimedia.org/wiki/File:George_Eliot,_por_Fran%C3%A7ois_D%27Albert_Durade.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 7, "language": "English", "translator": "", "publisher": "Penguin Classics", "isbn": "9780141439549", "pages": 880, "word_count": null, "abridged": 0, "translation_notes": "Edited with introduction by Rosemary Ashton. Physical extent and date refer to the UK publisher record for this ISBN.", "source_url": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549", "image_attribution": "Cover: Penguin Classics. Publisher-supplied image for ISBN 9780141439549; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Critical discussion and independent rereading support upper-group inclusion. Inclusion evidence: R055, S37, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Proposed first for sustained social and personal reflection. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Exact lead over other novels requires fuller comparative criticism. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "R055", "title": "Wozu noch Klassiker lesen?", "url": "https://www.deutschlandfunk.de/endlich-mal-erklaert-wozu-noch-klassiker-lesen-100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}, {"source_id": "S37", "title": "Books of the Year", "url": "https://tonysreadinglist.wordpress.com/books-of-the-year/"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 8 | work:19 | One Hundred Years of Solitude — Gabriel García Márquez
+{"entry_id": 296, "item_type": "work", "item_id": 19, "source_rank": null, "rationale": "Prominent reception supports inclusion. Inclusion evidence: S14, S04 library_holdings #54, R049. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 19, "title": "One Hundred Years of Solitude", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 39, "name": "Gabriel García Márquez", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 277, "language": "English", "translator": "", "publisher": "A Bard Book", "isbn": "", "pages": 417, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL43108828W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/15185412-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Prominent reception supports inclusion. Inclusion evidence: S14, S04 library_holdings #54, R049. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Imaginative family narrative raises reading priority. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Independent depth remains thin. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S04", "title": "The Library 100", "url": "https://www.oclc.org/en/worldcat/library100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": [{"source_id": "S04", "list": "library_holdings", "position": 54}]}, "country_groupings": []}
+
+ENTRY 9 | work:5 | Moby-Dick — Herman Melville
+{"entry_id": 4, "item_type": "work", "item_id": 5, "source_rank": null, "rationale": "Influential ambition supports upper-group consideration. Inclusion evidence: S14, S04 library_holdings #9, R049. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 5, "title": "Moby-Dick", "form": "book", "field": "literature", "original_year": 1851, "original_language": "English", "countries": ["United States"], "description": "A whaling voyage becomes a novel of obsession, interpretation and the limits of human mastery.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 5, "name": "Herman Melville", "biography": "", "countries": [], "source_url": "https://www.penguinrandomhouse.com/books/323502/moby-dick-by-herman-melville/", "image_attribution": "Joseph Oriel Eaton; Public domain. https://commons.wikimedia.org/wiki/File:Herman_Melville_by_Joseph_O_Eaton.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 5, "language": "English", "translator": "", "publisher": "Penguin Classics", "isbn": "9780141199603", "pages": 720, "word_count": null, "abridged": 0, "translation_notes": "Clothbound hardcover using the Northwestern–Newberry text, with introduction by Andrew Delbanco and commentary by Tom Quirk. Do not confuse it with the abridged audio format on the same product page.", "source_url": "https://www.penguinrandomhouse.com/books/323502/moby-dick-by-herman-melville/", "image_attribution": "Cover: Penguin Classics. Publisher-supplied image for ISBN 9780141199603; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Influential ambition supports upper-group consideration. Inclusion evidence: S14, S04 library_holdings #9, R049. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Demanding scope makes priority reader-dependent. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Comparative criticism remains incomplete. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S04", "title": "The Library 100", "url": "https://www.oclc.org/en/worldcat/library100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": [{"source_id": "S04", "list": "library_holdings", "position": 9}]}, "country_groupings": []}
+
+ENTRY 10 | work:290 | Anna Karenina — Leo Tolstoy
+{"entry_id": 297, "item_type": "work", "item_id": 290, "source_rank": null, "rationale": "Inclusion evidence: S04 library_holdings #38, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 290, "title": "Anna Karenina", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 2, "name": "Leo Tolstoy", "biography": "", "countries": [], "source_url": "https://www.nybooks.com/articles/2007/11/22/tolstoys-real-hero/", "image_attribution": "Sergei Prokudin-Gorskii; Public domain. https://commons.wikimedia.org/wiki/File:Leo_Tolstoy_1908_Portrait_(3x4_cropped).jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 1274, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 528, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/annakarenina0000unse_y3d4", "image_attribution": "Internet Archive item image: https://archive.org/services/img/annakarenina0000unse_y3d4", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Inclusion evidence: S04 library_holdings #38, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S04", "title": "The Library 100", "url": "https://www.oclc.org/en/worldcat/library100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": [{"source_id": "S04", "list": "library_holdings", "position": 38}]}, "country_groupings": []}
+
+ENTRY 11 | work:281 | Madame Bovary — Gustave Flaubert
+{"entry_id": 298, "item_type": "work", "item_id": 281, "source_rank": null, "rationale": "Inclusion evidence: S04 library_holdings #23, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 281, "title": "Madame Bovary", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 248, "name": "Gustave Flaubert", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 239, "language": "English", "translator": "", "publisher": "Jonathan Cape", "isbn": "8471666979", "pages": 416, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL893707W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/12993424-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Inclusion evidence: S04 library_holdings #23, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S04", "title": "The Library 100", "url": "https://www.oclc.org/en/worldcat/library100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}, {"source_id": "R049", "title": "Norwegian Book Clubs poll — full factual table (same underlying source)", "url": "https://en.wikipedia.org/wiki/Bokklubben_World_Library"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": [{"source_id": "S04", "list": "library_holdings", "position": 23}]}, "country_groupings": []}
+
+ENTRY 12 | work:17 | Dream of the Red Chamber — Cao Xueqin
+{"entry_id": 299, "item_type": "work", "item_id": 17, "source_rank": null, "rationale": "Substantial Chinese reader reception supports inclusion. Inclusion evidence: R107. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 17, "title": "Dream of the Red Chamber", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 37, "name": "Cao Xueqin", "biography": "", "countries": [], "source_url": "https://book.douban.com/subject/30137806/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1255, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/the-dream-of-the-red-chamber-book-i_gutenberg-etext9603", "image_attribution": "Internet Archive item image: https://archive.org/services/img/the-dream-of-the-red-chamber-book-i_gutenberg-etext9603", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Substantial Chinese reader reception supports inclusion. Inclusion evidence: R107. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Social recognition offers a strong reason to read beyond reputation. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "One consulted reader page is insufficient for a secure global placement. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R107", "title": "红楼梦：读者短评与版本资料", "url": "https://book.douban.com/subject/30137806/"}], "metadata_status": "See catalog: verified existing media retained; missing edition/cover/portraits pending", "source_positions": []}, "country_groupings": []}
+
+END OF THIS INPUT PART. Wait for the next numbered part.

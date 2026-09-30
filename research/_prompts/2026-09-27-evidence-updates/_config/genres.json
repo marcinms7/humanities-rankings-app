@@ -1,0 +1,262 @@
+{
+  "manga-shonen-all-time": {
+    "priority": 1,
+    "issue_summary": "The saved Top 200 has 276 source records, but every entry has exactly one linked reference and all 200 cite Wikipedia alone. The wider bibliography is not an entry-level comparative evidence map; reference records establish publication facts, not merit positions.",
+    "tasks": [
+      "Review every supplied candidate and all supplied source records. First recover relevant support from the existing criticism, awards, historical studies and reader evidence, recording which works each source actually discusses; do not discard the prior bibliography or treat its URLs as already rechecked.",
+      "Verify shonen membership as a publishing demographic using documented magazine, imprint and serialization history. Record transfers, mixed publication histories and disputed classifications; do not infer demographic from action content, protagonist gender or audience age alone.",
+      "Replace Wikipedia-only placement arguments with substantive independent criticism, manga history, documented awards and thoughtful reader discussion where available. Japanese sources are especially useful when reliably understood. Preserve reference pages for bibliographic claims and disclose lower-confidence entries where substantive coverage remains scarce.",
+      "Check work, sequel, connected sequence and edition boundaries, including romanization and alternate titles. Explain whether evidence applies to the whole series, an arc, a single volume or an adaptation; anime acclaim alone is not evidence about the manga's execution.",
+      "Compare influence, sequential-art achievement and current reading experience explicitly. Identify borrowed list dependencies and bestseller or franchise effects; do not let source frequency or commercial size silently become quality scores.",
+      "Return a proposed complete 200-entry revision with candidate-specific source IDs, justified changes and unresolved gaps. Preserve the supplied ordering as history and distinguish any separately argued reading-value order from a copy of the main order."
+    ],
+    "desired_scope": "Retain a broad Top 200 of shonen manga works or explicitly bounded connected sequences. Preserve current breadth; change the size only for documented identity or scope corrections, not because some candidates have less English-language criticism."
+  },
+  "manga-shojo-all-time": {
+    "priority": 1,
+    "issue_summary": "The saved Top 200 has 273 source records, but every entry has one linked reference and 195 entries cite Wikipedia alone. Existing scholarship and criticism need meaningful candidate-level mapping before the order can claim strong comparative support.",
+    "tasks": [
+      "Read the complete supplied candidate list and source register, then recover work-specific arguments from the already saved critical, historical and scholarly sources. Separate prior reported consultation from sources independently examined during this update.",
+      "Verify shojo publication-demographic eligibility through magazines, imprints and publication history. Preserve documented cross-demographic cases and distinguish shojo from josei, romance as a genre, and a reader's assumed gender.",
+      "Strengthen the Wikipedia-only entries with manga scholarship, specialist criticism, archival reception, awards and substantive reader evidence. Use Japanese and other relevant language sources where accessible; avoid replacing a reference monopoly with a single English-language review site's opinions.",
+      "Compare visual and narrative innovation, historical influence and reader experience across eras and subgenres, including works whose importance is poorly reflected by current translation availability or online popularity.",
+      "Resolve series, sequels, omnibus editions and alternative title identities. State whether critical claims concern the manga itself or an adaptation, and preserve uncertain or unavailable English editions as explicit gaps rather than exclusions.",
+      "Return all 200 proposed entries with source-linked inclusion and placement reasoning, meaningful disagreements, an explained change log and a separate reading-value order only if independently reasoned."
+    ],
+    "desired_scope": "Maintain approximately the current 200 shōjo manga entries, allowing only justified identity, demographic or substantive selection corrections. Retain historical breadth and do not penalize unlicensed works merely for limited English access."
+  },
+  "manga-seinen-all-time": {
+    "priority": 1,
+    "issue_summary": "The saved Top 200 has 253 source records, yet all entries have one linked reference and 194 cite Wikipedia alone. The additional bibliography contains potentially useful support, but current references do not adequately explain comparative placement.",
+    "tasks": [
+      "Audit the entire supplied register and map already available criticism, histories, awards and reader discussions to their actual candidates and claims before collecting more material.",
+      "Establish seinen eligibility from documented publishing history, not violence, complexity, sexual content or assumptions about adult readers. Explain magazine transfers and ambiguous classifications, retaining the evidence for each decision.",
+      "Prioritize substantive evidence for candidates with only reference citations, including Japanese specialist criticism and manga studies where available. Keep identity references visible but do not count encyclopedia descriptions as independent critical endorsements.",
+      "Assess art, formal innovation, influence and reading experience across literary, historical, comic, speculative and other traditions. Identify bias toward translated prestige titles, recent adaptations and large online fan communities.",
+      "Normalize complete series, volumes, arcs, sequels, creator credits and alternate romanizations. Evidence about an anime or live-action version must remain distinct from evidence about the printed work.",
+      "Deliver a complete proposed Top 200 with entry-specific support, justified movement and replacements, retained earlier positions and explicit uncertainty where the comparative evidence is thin."
+    ],
+    "desired_scope": "Keep the current Top 200 scale for seinen manga works and clearly bounded series. Correct unsupported demographic assignments or duplicate identities with evidence; do not shrink to the small set with abundant English reviews."
+  },
+  "manga-josei-all-time": {
+    "priority": 1,
+    "issue_summary": "The saved Top 200 has 304 source records, but every entry has one linked reference and 187 cite Wikipedia alone. A large bibliography does not resolve especially thin comparative support for less-reviewed and lower-ranked works.",
+    "tasks": [
+      "Examine every supplied source and candidate. Map the existing criticism and scholarly material to specific works, while keeping publication metadata, source discovery leads and substantive evaluation separate.",
+      "Verify josei classification using magazine, imprint and serialization history. Handle labels such as ladies' comics and documented shojo-to-josei transitions explicitly; do not classify solely by romance, sexual content, protagonist age or assumed readership.",
+      "Seek focused Japanese-language and other relevant specialist criticism, scholarship, awards and substantial reader discussion for weakly supported entries. Acknowledge unequal archival and translation coverage rather than manufacturing confidence to fill 200 positions.",
+      "Evaluate formal and artistic achievement, cultural significance and present reading value across the target's actual range. Avoid letting a small set of internationally licensed or adapted works dominate solely because evidence is easier to find.",
+      "Resolve series boundaries, alternate titles, sequels and author credits. State English availability honestly, including partial or unavailable translations, without making availability a merit criterion.",
+      "Return the complete proposed ordering with candidate-specific claims and source IDs, confidence limits for the lower-ranked pool, defensible substitutions and a comparison against the supplied order."
+    ],
+    "desired_scope": "Preserve the current 200-entry josei manga scope unless documented identity or eligibility problems require justified corrections. Retain a useful broad discovery list and label uncertain relative placements honestly."
+  },
+  "books-horror-all-time": {
+    "priority": 1,
+    "issue_summary": "The 150-entry ranking has 267 saved sources, but its current data contains confirmed title/author reversals: rank 8 records 'Clive Barker' as the work and 'Books of Blood, Volumes 1–3' as its author. Thirty current canonical work IDs lack corresponding current editorial-note keys, while older mappings survive. Identity and evidence reconciliation precede additional ranking research.",
+    "tasks": [
+      "Start with the supplied current entries, orphan editorial mappings and both saved orders. Audit every row against bibliographic authorities and the source content available in this package or on the web. Do not assume a precise count of reversed records from the example; return an individually evidenced reconciliation table.",
+      "For each proposed correction, retain current work/person IDs and positions, record the intended title and author or attribution, distinguish aliases from genuinely different works, and map old editorial-note IDs and source links to the proposed canonical candidate. Identify unresolved mappings rather than guessing or deleting them.",
+      "After identity reconciliation, assess candidate-specific support in all 267 supplied source records. Preserve original source IDs and distinguish reference or publisher identity evidence from criticism supporting horror achievement and comparative placement.",
+      "Review horror, Gothic, weird fiction and adjacent speculative boundaries. State whether each entry is a novel, short work, named collection or bounded series, and keep collection-level acclaim separate from a particular story's reception.",
+      "Fill concrete evidence gaps through specialist horror criticism, literary history, credible awards or polls and substantial reader reception, including non-Anglophone traditions. Do not use commercial popularity, adaptation fame or repeated list copies as independent votes.",
+      "Return a proposed 150-position corrected ranking, an identity-and-citation repair table, source-backed changes and remaining uncertainties. This is an external research deliverable, not a claim that catalog or database records have been changed."
+    ],
+    "desired_scope": "Preserve the current 150-position global horror selection while reconciling catalog identities and source mappings. Propose size changes only for demonstrated duplicates or eligibility corrections, and justify any replacement."
+  },
+  "classical-education-guide": {
+    "priority": 2,
+    "issue_summary": "The Greek/Latin Top 250 has 311 saved sources, 287 marked eligible; 194 entries have one citation. Much support is primary-text or tertiary reference material, useful for textual facts and starter selections but insufficient by itself to justify comparative educational value.",
+    "tasks": [
+      "Retain the explicitly Greek and Latin scope. Read all supplied candidates, starter guidance and source records; do not broaden this into a worldwide great-books ranking or an unrelated private study plan.",
+      "Classify primary passages, scholarly editions, reference entries, educational guidance, criticism and metadata by the claims they support. Preserve the 24 currently ineligible records and their reasons; change eligibility only with documented new access or correction.",
+      "Strengthen educational and comparative claims using relevant classical scholarship, curricula, teaching guides and informed reception. Direct reading of an excerpt supports observations about that passage, not a claim to have examined the whole work or proved its overall rank.",
+      "Resolve works versus excerpt selections, fragmentary texts, corpora, uncertain attributions and overlapping units. Keep proposed selections precise enough that a reader can identify what to read.",
+      "Separate educational/literary importance from a beginner route. Explain prerequisites, historical context and approachable starting passages; preserve demanding major works without lowering their importance merely because they are difficult.",
+      "Return the full proposed 250-entry guide, an evidence-linked rationale for changes, starter recommendations and honest translation/edition gaps. Do not claim that the current merit order is already a separately researched beginner sequence."
+    ],
+    "desired_scope": "Maintain the current 250 Greek and Latin texts across poetry, prose, philosophy, history, rhetoric and drama, with clearly identified reading units. Correct duplicates or scope errors only with evidence."
+  },
+  "other-works-all-time": {
+    "priority": 2,
+    "issue_summary": "This 250-entry cross-form ranking concerns historical literary importance. It has 611 saved sources, yet 92 entries cite only Wikipedia and 247 Wikipedia source records carry an academic/institutional family label. Reference coverage is not equivalent to comparative literary-history evidence.",
+    "tasks": [
+      "Use the ranking's actual purpose, historical literary importance, and its cross-form scope. Do not turn it into another best-novels list, an enjoyable-reading poll or a ranking of religious truth claims.",
+      "Review all supplied sources and correct source-role descriptions in the returned audit. Keep Wikipedia as tertiary reference where appropriate; distinguish primary texts, catalog records, criticism, historical studies and reader reception without erasing earlier records.",
+      "Strengthen weak entries with literary histories, scholarship and independent criticism documenting transmission, influence, formal innovation, reception and cultural reach. Explain the evidence for each type of importance instead of substituting citation volume or current fame.",
+      "Reconcile books, epics, poems, plays, essays, stories, anthologies and textual corpora. Record uncertain ancient dates and anonymous or collective attribution honestly, and identify overlaps between an entire collection and its separately ranked contents.",
+      "Check major language and literary traditions using sources relevant to them; make canon formation, colonial transmission and translation biases explicit. Religious or foundational works may have literary influence without uniform agreement on their artistic ranking.",
+      "Return a complete proposed 250-entry order with linked comparative arguments, justified changes and uncertainty. Preserve the earlier order; label any separate reading-value sequence as a different editorial question."
+    ],
+    "desired_scope": "Retain approximately 250 historically important literary works across the supplied forms and world traditions. Preserve broad coverage and change identities, membership or count only with a documented rationale."
+  },
+  "books-fantasy-all-time": {
+    "priority": 2,
+    "issue_summary": "The Top 150 has 267 saved sources, but 67 entries have one citation and 58 cite Wikipedia alone. Many reference links establish identity or genre context without explaining comparative fantasy achievement.",
+    "tasks": [
+      "Read the complete supplied list and register, recovering substantive candidate support already present before adding sources. Separate identity and genre references from critical judgments, awards, reader reception and actual ranked selections.",
+      "Explain the target's boundaries around fantasy, myth, fairy tale, magical realism and adjacent literary works. Retain supported boundary cases with a reason rather than silently importing or excluding whole traditions.",
+      "Resolve novels, trilogies, long series, connected sequences and collections as explicit units. A source recommending an entire series does not automatically establish a particular volume's placement, or vice versa.",
+      "Prioritize the Wikipedia-only and otherwise weakly mapped candidates for specialist criticism, scholarship, independent selections and substantial reader discussion. Audit dependencies among aggregator lists, awards, publisher promotion and fan polls.",
+      "Compare imagination, formal achievement, influence and reading value without turning sales, adaptation success, length or English translation availability into merit criteria. Check non-Anglophone traditions and historical range.",
+      "Return all 150 proposed entries with source-linked inclusion and placement reasoning, justified differences from the saved order and clearly separated reading-value arguments."
+    ],
+    "desired_scope": "Keep a global 150-entry fantasy selection with explicit work or sequence boundaries. Preserve useful breadth while correcting demonstrated duplicates and scope mistakes."
+  },
+  "books-biography-autobiography-all-time": {
+    "priority": 2,
+    "issue_summary": "The Top 150 has 277 saved sources; 72 entries have one citation and 55 cite Wikipedia alone. Bibliographic coverage often exceeds the support for life-writing quality, historical reliability and comparative placement.",
+    "tasks": [
+      "Inspect every supplied entry and source. Map existing critical and scholarly evidence to actual works rather than assuming a famous subject or an encyclopedia record establishes the biography's quality.",
+      "Preserve distinctions among biography, autobiography, memoir, edited diary, correspondence and collaborative testimony. Identify the subject, author, editor, interviewer or translator correctly and explain the unit ranked.",
+      "Strengthen reference-only entries with independent reviews, scholarship, relevant historical assessments and substantial reader response. Treat author or publisher promotional descriptions as a different evidence role from critical comparison.",
+      "Distinguish literary achievement, historical influence, documentary reliability and reading experience. Record disputed factual claims, retrospective self-fashioning, collaboration and editing limitations without falsely treating all memoirs as straightforward verified history.",
+      "Check cultural, linguistic and gender coverage, plus overlap between a person's life and multiple biographies or volumes. Identify a supported English edition or translation where possible without making detailed edition work an inclusion gate.",
+      "Return a full proposed 150-entry revision with candidate-specific evidence, justified reorderings or substitutions and preserved earlier positions. Keep any alternative reading-value order explicitly separate."
+    ],
+    "desired_scope": "Maintain the existing global 150-entry life-writing scope, including its documented subforms. Correct identity or scope errors with evidence instead of reducing the list to conventional single-volume biographies."
+  },
+  "books-beautifully-written-all-time": {
+    "priority": 2,
+    "issue_summary": "The Top 150 has 320 saved sources, but 61 entries have one citation and 42 cite Wikipedia alone. General reputation and identity references do not adequately support this target's specific claim about prose achievement.",
+    "tasks": [
+      "Audit all supplied sources for what they actually say about writing style. Separate general canonical standing, plot appreciation and bibliographic facts from evidence about diction, rhythm, imagery, syntax, voice or other relevant formal achievements.",
+      "Prioritize weakly supported candidates for close criticism, stylistic scholarship, informed reviews and substantial reader discussion. Do not treat an unexamined adjective such as lyrical or beautiful as a complete comparative argument.",
+      "Distinguish claims about the original language from claims about a named English translation. Identify translator and edition where the judgment depends on them, and preserve disagreement about fidelity, voice, register or readability.",
+      "Retain the supplied prose-achievement focus and explicitly explain eligibility for any mixed-form, essay, dramatic or other boundary case. Avoid equating ornate prose with the only valid kind of beauty.",
+      "Compare different stylistic traditions and aesthetic aims, checking language and period concentration. Small lawful excerpts or precise textual references can substantiate analysis, but do not copy substantial copyrighted passages.",
+      "Return the full proposed Top 150 with work-specific stylistic reasons, supporting source IDs, translation caveats and justified changes. Keep prose beauty distinct from easy reading and from the owner's unset personal scores."
+    ],
+    "desired_scope": "Preserve the current 150-entry global prose-achievement selection and its documented boundary cases. Correct unsupported identities or eligibility with explanation; do not substitute a general literary canon."
+  },
+  "books-funniest-all-time": {
+    "priority": 2,
+    "issue_summary": "The Top 150 has 354 saved sources, with 281 marked eligible and 73 limited-access leads excluded. Twenty-two entries cite Wikipedia alone. The saved revision explicitly emphasizes laughter at 70%, so a refresh must strengthen comic-response evidence while preserving that declared editorial preference.",
+    "tasks": [
+      "Review the supplied current revision, all sources and any recorded weighting explanation. Preserve the documented 70% laughter emphasis; do not invent missing component weights or silently replace it with a conventional influence ranking.",
+      "Retain limited-access leads as uncounted unless new consultation justifies a change. Prioritize reference-only entries for criticism that discusses comic technique and for substantial reader responses that support actual amusement, while recording disagreement.",
+      "Distinguish satire, wit, farce, absurdism, parody and other comic effects from general literary quality. Historical importance or classification as comedy does not establish how funny a work feels to current readers.",
+      "Assess translation, performance, cultural knowledge and changes in comic sensibility. Keep plays, poetry, individual short works, books and collections accurately identified, and avoid transferring a film or stage performance's success automatically to a printed text.",
+      "Audit online poll and list dependencies, demographic concentration and repeated recommendations. Preserve minority reactions and uncertainty; numerical score gaps in an editorial model are not scientific measurements of laughter.",
+      "Return a complete 150-entry proposed revision with claim-level evidence, a transparent account of retained methodology, justified changes and any parameters that could not be reconstructed from the supplied material."
+    ],
+    "desired_scope": "Maintain 150 comic literary works across the currently allowed forms and global traditions, retaining the saved laughter-focused editorial preference. Correct size or scope only with documented justification."
+  },
+  "science-books-all-time": {
+    "priority": 3,
+    "issue_summary": "The Top 150 has 270 saved sources and generally stronger specialist and critical coverage; seven entries cite Wikipedia alone. A targeted refresh should strengthen weak placements and distinguish historical importance from current scientific accuracy.",
+    "tasks": [
+      "Review the entire supplied register and candidate map, then focus new work on reference-only entries, unsupported comparative claims and subject-area gaps instead of pursuing a larger URL total.",
+      "Distinguish original scientific contributions, histories of science, popular exposition, textbooks and other eligible forms. Explain what achievement each type contributes to an all-time science-books comparison.",
+      "Use relevant scientific and historical expertise to separate lasting influence from superseded or disputed explanations. Preserve major historical works while giving accurate caveats; do not rewrite their original claims as current consensus.",
+      "Support readability and explanatory quality with informed reviews and reader experience, separate from technical correctness. Record the reader background assumed by a recommendation.",
+      "Check disciplinary, geographical and linguistic coverage and identify edition-dependent revisions, abridgments or collections. Bibliographic metadata and publisher promotion should remain distinct from independent scientific or literary evaluation.",
+      "Return the full 150-entry proposed update with evidence-linked changes and unchanged entries carried forward transparently. Prefer a limited, justified revision when the saved evidence already supports a placement."
+    ],
+    "desired_scope": "Keep 150 science-related books or clearly defined eligible units across the current worldwide and historical scope. Preserve historical classics with factual limitations stated, and change count only for documented corrections."
+  },
+  "books-science-fiction-all-time": {
+    "priority": 3,
+    "issue_summary": "The Top 150 has 289 saved sources and no Wikipedia-only entry mappings in the local audit. Specialist reference, awards and criticism provide a comparatively stronger base, but specialist reference material still needs to be distinguished from independent comparative evaluation.",
+    "tasks": [
+      "Read all supplied evidence and identify the particular entries whose current support is only reference or contextual material. Reuse substantive existing criticism before adding targeted new sources.",
+      "Resolve individual novels, fix-ups, story collections, series and connected universes as explicit ranking units. Record whether an award or recommendation concerns a volume, whole series, translation or adaptation.",
+      "Explain science-fiction boundaries and documented overlaps with fantasy, speculative literary fiction and utopia. Avoid imposing technical plausibility as an unstated universal quality criterion.",
+      "Compare formal and imaginative achievement, influence and reading experience using independent criticism, histories, awards or polls and thoughtful reader reception. Keep repeated awards coverage and copied list data from becoming multiple independent votes.",
+      "Check historical and non-Anglophone representation, including translation and circulation effects. Distinguish enduring significance from whether an old scientific forecast proved accurate.",
+      "Return a complete proposed 150-entry revision and a concise change audit. Leave well-supported placements stable unless new evidence or a corrected comparison provides a reason to move them."
+    ],
+    "desired_scope": "Maintain the current worldwide 150-entry science-fiction selection, with clear boundaries for books, collections and sequences. Permit only justified identity, scope or selection corrections."
+  },
+  "books-mainstream-loved-all-time": {
+    "priority": 3,
+    "issue_summary": "The Top 150 has 281 saved sources, 200 marked eligible; 81 limited-access leads are excluded. The mix is relevant to reader affection, although eleven entries cite Wikipedia alone and shared citation sets need more specific support.",
+    "tasks": [
+      "Keep the actual question: broad, enduring mainstream reader affection. Read all supplied sources and map the evidence for affection to individual books, defined series or verse works; do not substitute scholarly prestige or sales alone.",
+      "Preserve current access limitations, source IDs and previously reconciled title identities. Recheck a lead before changing its eligibility, and do not claim that its presence in the register means it was independently read in this update.",
+      "Strengthen reference-only or generic mappings with substantial reader polls, sustained reader discussion, library or reading-community evidence and critical accounts of popular reception. Distinguish these signals from advertising, adaptation visibility and ratings without context.",
+      "Audit sample sizes, self-selection, platform concentration, language and geographical reach, poll dates and copied results. Do not interpret one platform's enthusiasm as uniform worldwide affection.",
+      "Resolve books versus defined series and collections, including translations and local title variants. Check that evidence concerns the ranked unit and does not simply concern a film, franchise or another volume.",
+      "Return the complete 150-entry proposed revision with candidate-specific reception evidence, justified changes and explicit uncertainty. Retain the existing order where fresh evidence does not justify movement."
+    ],
+    "desired_scope": "Keep 150 books, explicitly defined series or collections, and eligible verse works with enduring mainstream reader affection. Preserve global breadth and change size only for evidenced identity or scope corrections."
+  },
+  "books-addictive-all-time": {
+    "priority": 3,
+    "issue_summary": "The Top 150 has 281 saved sources, 274 marked eligible, and no Wikipedia-only entry mappings in the audit. Reader and editorial evidence generally fits the target, but some repeated citation sets need more direct support for compulsive reading.",
+    "tasks": [
+      "Use the stated scope: prose fiction and narrative nonfiction readers report being unable to put down. Examine every supplied source, recording actual claims about narrative momentum and sustained engagement rather than general acclaim.",
+      "Check shared or single-source mappings against the source's actual candidate coverage. Preserve the seven currently ineligible records and revisit them only when useful, with new access recorded honestly.",
+      "Strengthen weak candidates through substantive reviews and independent reader discussions describing the reading experience. Distinguish page-turning from sales, short length, easy prose, a familiar franchise or an exciting adaptation.",
+      "Compare relevant mechanisms such as suspense, narrative voice, emotional involvement, structure and curiosity without inventing personal numerical weights. Include counterexamples and reader disagreement when a widely loved work is also frequently experienced as slow.",
+      "Resolve novels, narrative nonfiction, collections and explicitly defined series; keep evidence about a volume distinct from whole-series claims. Check language, genre and platform concentration, including commercially promoted recommendation lists.",
+      "Return the complete proposed 150-entry update with source-linked reading-experience explanations and justified changes. Use targeted improvements rather than a wholesale reorder unsupported by new evidence."
+    ],
+    "desired_scope": "Maintain 150 prose-fiction or narrative-nonfiction entries at the present scope, with explicit work and sequence boundaries. Change size only for documented duplicates or eligibility corrections."
+  },
+  "manga-all-time": {
+    "priority": 3,
+    "issue_summary": "The overall Top 250 has 596 saved sources and substantially broader review, award and historical support than the demographic lists; only one entry cites Wikipedia alone. However, 26 records reported as metadata access are still eligible, so the meaning of the total needs qualification.",
+    "tasks": [
+      "Review all supplied candidates and source records, preserving stable IDs. Identify weakly mapped entries and concrete comparative gaps, drawing first on substantive criticism and historical material already saved.",
+      "Audit the 26 reported metadata-access records and other access labels by claim. A bibliographic description can support identity or availability; do not treat it as an examined scholarly argument or an independent endorsement of rank.",
+      "Keep publication demographics distinct from genre, quality and age rating. Compare across the target's manga traditions rather than automatically combining the orders or source counts from separate demographic rankings.",
+      "Resolve work, series, arc, sequel and connected-sequence boundaries, alternative titles and creator credits. Separate manga evidence from anime or other adaptation reception and record original publication chronology.",
+      "Fill specific gaps using manga criticism, history, scholarship, awards and substantive reader responses, including Japanese evidence where reliably understood. Audit dependencies among lists, awards coverage and franchise popularity.",
+      "Return all 250 proposed entries with traceable reasons for changes, preserved prior positions and remaining limitations. Retain well-supported placements unless a revised comparison justifies movement."
+    ],
+    "desired_scope": "Maintain the current 250 manga works or explicitly named connected sequences across publishing demographics and genres. Preserve breadth while correcting demonstrated identity and scope issues."
+  },
+  "comics-graphic-novels-all-time": {
+    "priority": 3,
+    "issue_summary": "The Top 250 has 827 saved sources and comparatively strong entry-level variety, with no Wikipedia-only entries in the audit. Its total includes 237 records reported as bibliographic/context material, which need claim-specific access and eligibility treatment rather than automatic interpretation as critical endorsements.",
+    "tasks": [
+      "Examine all supplied entries and sources. Preserve the substantial existing evidence and identify specific gaps or incorrect mappings before collecting more sources or changing the ordering.",
+      "Audit bibliographic/context records and source-family labels, retaining narrow factual support but distinguishing it from consulted criticism. Explain dependencies among reprinted reviews, awards, polls and aggregators instead of counting every URL as an independent judgment.",
+      "Retain the worldwide scope including comics, graphic novels, manga, manhwa, manhua, strips and wordless novels. Do not remove manga because another ranking also covers it, and do not treat publishing demographics as genres or quality tiers.",
+      "Define each ranked unit as a book, bounded story, coherent series, creator run or strip corpus, including dates and creators where needed. Keep criticism of a particular run or volume from silently supporting a larger franchise.",
+      "Compare sequential art, narrative and formal achievement, historical influence and present reading experience with region-appropriate criticism and reader evidence. Check translation, distribution and Anglo-American award biases.",
+      "Return a complete proposed 250-entry revision with justified changes, corrected source-role accounting and explicit limits. Avoid a wholesale reorder when a targeted evidence or identity correction is sufficient."
+    ],
+    "desired_scope": "Preserve 250 worldwide comics and graphic-narrative entries across the currently documented media and entry units. Correct identities or unit overlaps with evidence, retaining the broad international scope."
+  },
+  "essay-all-time": {
+    "priority": 2,
+    "issue_summary": "The 100-entry essay ranking has 225 saved sources, 224 marked eligible, but every editorial entry repeats the same five corpus-level citations. All records carry summary-only access labels, so the bibliography does not yet provide a defensible work-by-work evidence map.",
+    "tasks": [
+      "Read all 100 supplied entries and all source records. Replace the repeated five-citation template with actual work-to-source and claim-to-source mappings, recording sources that do not address a given candidate.",
+      "Audit what the summary-only records actually support and distinguish prior reported consultation from newly examined content. A catalogue page, abstract, general anthology discussion or essayist profile does not establish that a particular essay was critically assessed.",
+      "Resolve individual essays, book-length essays and collections, including reused titles and pieces collected in later volumes. Preserve the existing mixed scope while identifying parent-child overlaps and original publication dates.",
+      "Use essay scholarship, criticism, anthology selections, contextual histories and substantive reader discussions to compare formal achievement, intellectual force, influence and reading experience. A collection's acclaim should not silently become an individual essay's rank.",
+      "Check non-Anglophone essay traditions and different rhetorical forms without making English translation visibility the measure of importance. Record translation, abridgment and uncertain attribution issues precisely.",
+      "Return a complete proposed 100-entry ranking with specific evidence, preserved original source positions where available, a justified change log and honest gaps. Distinguish enduring standing from a separately argued reading-value order."
+    ],
+    "desired_scope": "Maintain the present 100-entry worldwide essay scope, including clearly identified individual essays, book-length essays and selected collections. Correct overlaps or eligibility only with a documented rationale."
+  },
+  "play-all-time": {
+    "priority": 2,
+    "issue_summary": "The current list contains 149 plays and 266 saved sources. Every editorial entry repeats the same five corpus-level citations, and all source records have summary-only access labels; the source count does not establish candidate-specific comparative support.",
+    "tasks": [
+      "Inspect all 149 supplied entries and the full source register. Replace generic repeated citations with the sources that actually discuss each dramatic work and the particular claims they support.",
+      "Audit limited-access and reported-consultation records. Preserve original critic-list positions when recoverable and explain dependence among copied lists, polls, publisher descriptions and individual productions.",
+      "Resolve play texts, revisions, translations, adaptations, cycles and trilogies as explicit units, including co-authorship or uncertain attribution. Do not assume the catalog form label alone establishes eligibility.",
+      "Separate dramatic-text achievement, performance history, historical influence and the experience of reading the text. A review of one production may support reception of that production without proving a universal judgment about the play.",
+      "Strengthen weak entries using theater scholarship, independent dramatic criticism, documented repertory or canon studies and informed reader or audience responses. Check non-Anglophone and non-Western dramatic traditions and explain translation limits.",
+      "Return a complete proposed revision with source-linked comparative reasons and a change audit. Preserve the actual 149-entry baseline; do not invent a missing 150th work merely because an older title or report used a round number."
+    ],
+    "desired_scope": "Maintain the current 149-entry worldwide dramatic-work selection, allowing a justified addition or identity correction when supported. Keep plays, cycles and versions explicitly bounded."
+  },
+  "short-story-all-time": {
+    "priority": 2,
+    "issue_summary": "The 150-entry short-story ranking has 227 saved sources, but every editorial entry repeats the same five Goodreads collection-list citations. All source records carry summary-only access labels; much of the actual list consists of collections despite the short-story title.",
+    "tasks": [
+      "Inspect every supplied candidate and all 227 source records. Replace the common five-source template with actual candidate-specific evidence rather than assuming every Goodreads collection list supports every entry.",
+      "Audit the real ranking units before comparison: individual stories, selected stories, collected stories, named collections and anthology editions. Preserve the current collection-rich scope unless a clearly justified correction is proposed; do not silently transform it into a list of individual stories.",
+      "Resolve generic titles such as Selected Stories or The Complete Stories using author, contents and edition scope. Identify overlaps between individual stories and collections and between competing collected editions.",
+      "Recover substantive existing criticism and add targeted scholarship, independent reviews, anthology or award evidence and thoughtful reader reception where candidate support is weak. A review of one included story does not automatically support an entire corpus at the same strength.",
+      "Separate reported consultation, limited summaries, metadata and newly examined content. Audit Goodreads and other platform dependence and check language, period and regional coverage without using source frequency as a substitute for literary comparison.",
+      "Return all 150 proposed entries with explicit unit labels, source-linked inclusion and placement reasons, justified changes and unresolved scope questions. Keep earlier positions and any original publisher ordering as provenance."
+    ],
+    "desired_scope": "Retain the current 150-entry worldwide short-fiction selection, including its clearly identified collections and any individual stories. Correct duplicate or ambiguous units with evidence rather than filling an arbitrary quota."
+  }
+}

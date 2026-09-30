@@ -1,5 +1,7 @@
 # Books · Poland — owner-paste intake, 13 September 2026
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 ## Audited owner revision — 14 September 2026
 
 The owner supplied a revised and audited Top 100, preserved at `../incoming/books-poland/2026-09-14-owner-chat-audited-revision/report.txt` with SHA-256 `b61297a7a91d5f312fdbfd03d00079b869b1d0f15c91bea9cde49812718abe08`. It retains and audits the earlier 125 identifiers and adds 116 reported consulted records. The live target ledger now has **241 retained records, 149 eligible records**, and the supplied Top 100 is published at **revision 4**.

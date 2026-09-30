@@ -1,5 +1,7 @@
 # Literary fiction · All time — illustrated initial selection
 
+> Historical initial selection. Later publications supersede this small comparison; consult [current saved state](../../docs/CURRENT_STATE.md). Preserve this report as provenance.
+
 Initial researched selection: 8 novels. Expansion toward 100–200 works continues. Positions compare these included works; this is not a completed worldwide Top 8.
 
 Two qualitative editorial judgments using the consulted evidence and recorded counterarguments. Critical standing emphasizes formal achievement and enduring reception; reading value emphasizes interpretive, imaginative and ethical reward today. Difficulty does not automatically lower reading value. No numerical criteria, weights or personal scores are assigned. Selection membership currently reflects completed bibliographic and image verification, so omissions are not negative judgments. Exact adjacent positions remain open to revision.

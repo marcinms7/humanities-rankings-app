@@ -1,0 +1,23 @@
+{
+  "snapshot_at_utc": "2026-09-27T20:44:44.053349+00:00",
+  "checks": {
+    "read_only_database_transaction": true,
+    "all_active_shared_curated_targets_have_specific_instructions": true,
+    "entry_and_source_counts_match_prior_audit": true,
+    "full_source_notes_preserved_with_exact_duplicate_metadata_condensed": true,
+    "all_paste_parts_reassemble_to_complete_prompt": true,
+    "private_tables_not_exported": true
+  },
+  "totals": {
+    "targets": 66,
+    "entries": 8996,
+    "target_local_source_records": 17142,
+    "supplementary_ledger_records": 218,
+    "paste_parts": 850
+  },
+  "priority_counts": {
+    "1": 14,
+    "2": 41,
+    "3": 11
+  }
+}

@@ -1,5 +1,7 @@
 # 4chan /lit/ · Top 100 Books (2023)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named published ranking (100 entries), checked 2026-09-13.
 
 Source: https://www.reddit.com/r/4chan/comments/190jl6c/lits_top_100_books_of_all_time_for_2023/

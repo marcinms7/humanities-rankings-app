@@ -1,0 +1,1071 @@
+UPDATE REQUEST: Ethics · Works
+Target ID: books-ethics
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 98; current source records: 138 (includes unverified leads).
+Desired scope: A broad roughly 100-work ethics ranking across books and landmark essays, with a clear philosophical focus and transparent treatment of diverse traditions.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+98 entries and 138 eligible records all marked summary_only. Every entry repeats five SEP topic articles rather than candidate-specific references; the current corpus mixes books and essays.
+1. Map substantive source evidence to the specific works and distinguish philosophical context from evidence of influence or comparative standing.
+2. Check the saved candidate pool for unresolved collective, anonymous or identity cases behind the 98 published entries.
+3. Review normative, metaethical, applied and historical traditions and justify the boundary between philosophical ethics, religious instruction and political theory.
+4. Use relevant global traditions on their own scholarly terms, explaining comparison rather than assuming SEP topic coverage itself supplies a ranking.
+5. Clarify essay/collection boundaries, authorship and translations, and compare major omitted candidates.
+
+CURRENT SCOPE
+{"forms": ["book", "essay"], "topic": "ethics"}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:33] Nicomachean Ethics — Aristotle | standing=1; reading=1 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+2. [work:459] Groundwork of the Metaphysics of Morals — Immanuel Kant | standing=2; reading=2 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+3. [work:3086] Republic — Plato | standing=3; reading=3 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+4. [work:689] Utilitarianism — John Stuart Mill | standing=4; reading=4 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+5. [work:4177] The Methods of Ethics — Henry Sidgwick | standing=5; reading=5 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+6. [work:34] Analects — Confucius | standing=6; reading=6 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+7. [work:4178] An Enquiry Concerning the Principles of Morals — David Hume | standing=7; reading=7 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+8. [work:480] Reasons and Persons — Derek Parfit | standing=8; reading=8 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+9. [work:45] On the Genealogy of Morality — Friedrich Nietzsche | standing=9; reading=9 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+10. [work:488] After Virtue — Alasdair MacIntyre | standing=10; reading=10 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+11. [work:36] Ethics — Baruch Spinoza | standing=11; reading=11 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+12. [work:42] A Theory of Justice — John Rawls | standing=12; reading=12 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+13. [work:4179] An Introduction to the Principles of Morals and Legislation — Jeremy Bentham | standing=13; reading=13 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+14. [work:193] Principia Ethica — G. E. Moore | standing=14; reading=14 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+15. [work:4180] The Right and the Good — W. D. Ross | standing=15; reading=15 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+16. [work:489] Ethics and the Limits of Philosophy — Bernard Williams | standing=16; reading=16 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+17. [work:4181] The Theory of Moral Sentiments — Adam Smith | standing=17; reading=17 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+18. [work:4182] What We Owe to Each Other — T. M. Scanlon | standing=18; reading=18 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+19. [work:4183] Modern Moral Philosophy — G. E. M. Anscombe | standing=19; reading=19 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+20. [work:4184] especially Prima Secundae / Secunda Secundae — Thomas Aquinas | standing=20; reading=20 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+21. [work:4185] A Treatise of Human Nature, Book III: Of Morals — David Hume | standing=21; reading=21 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+22. [work:3124] De Officiis — Cicero | standing=22; reading=22 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+23. [work:43] Mengzi — Mencius | standing=23; reading=23 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+24. [work:4034] Critique of Practical Reason — Immanuel Kant | standing=24; reading=24 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+25. [work:4186] The Sovereignty of Good — Iris Murdoch | standing=25; reading=25 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+26. [work:4187] Natural Goodness — Philippa Foot | standing=26; reading=26 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+27. [work:4188] The Sources of Normativity — Christine M. Korsgaard | standing=27; reading=27 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+28. [work:4189] Ethics: Inventing Right and Wrong — J. L. Mackie | standing=28; reading=28 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+29. [work:4190] Eudemian Ethics — Aristotle | standing=29; reading=29 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+30. [work:434] Gorgias — Plato | standing=30; reading=30 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+31. [work:4191] The Metaphysics of Morals — Immanuel Kant | standing=31; reading=31 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+32. [work:4192] The Fragility of Goodness — Martha C. Nussbaum | standing=32; reading=32 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+33. [work:3025] The Ethics of Ambiguity — Simone de Beauvoir | standing=33; reading=33 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+34. [work:14] On Liberty — John Stuart Mill | standing=34; reading=34 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+35. [work:4193] Practical Ethics — Peter Singer | standing=35; reading=35 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+36. [work:4194] Utilitarianism: For and Against — Bernard Williams; J. J. C. Smart | standing=36; reading=36 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+37. [work:554] Animal Liberation — Peter Singer | standing=37; reading=37 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+38. [work:476] Beyond Good and Evil — Friedrich Nietzsche | standing=38; reading=38 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+39. [work:4195] Mortal Questions — Thomas Nagel | standing=39; reading=39 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+40. [work:451] Discourses — Epictetus | standing=40; reading=40 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+41. [work:2980] Meditations — Marcus Aurelius | standing=41; reading=41 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+42. [work:48] Xunzi — Xunzi | standing=42; reading=42 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+43. [work:901] Mozi — Mozi | standing=43; reading=43 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+44. [work:39] Daodejing — Laozi | standing=44; reading=44 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+45. [work:35] Zhuangzi — Zhuangzi | standing=45; reading=45 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+46. [work:4196] A Guide to the Bodhisattva Way of Life — Shantideva | standing=46; reading=46 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+47. [work:4197] Letter to Menoeceus and Principal Doctrines — Epicurus | standing=47; reading=47 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+48. [work:3108] Moral Letters to Lucilius — Seneca | standing=48; reading=48 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+49. [work:4198] On Free Choice of the Will — Augustine of Hippo | standing=49; reading=49 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+50. [work:4199] On the Basis of Morality — Arthur Schopenhauer | standing=50; reading=50 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+51. [work:4200] Works of Love — Søren Kierkegaard | standing=51; reading=51 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+52. [work:1768] Elements of the Philosophy of Right — G. W. F. Hegel | standing=52; reading=52 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+53. [work:458] Leviathan — Thomas Hobbes | standing=53; reading=53 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+54. [work:4201] Sources of the Self — Charles Taylor | standing=54; reading=54 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+55. [work:4202] Prolegomena to Ethics — T. H. Green | standing=55; reading=55 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+56. [work:4203] Famine, Affluence, and Morality — Peter Singer | standing=56; reading=56 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+57. [work:4204] A Defense of Abortion — Judith Jarvis Thomson | standing=57; reading=57 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+58. [work:4205] The Problem of Abortion and the Doctrine of the Double Effect — Philippa Foot | standing=58; reading=58 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+59. [work:4206] Principles of Biomedical Ethics — Tom L. Beauchamp; James F. Childress | standing=59; reading=59 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+60. [work:4207] Causing Death and Saving Lives — Jonathan Glover | standing=60; reading=60 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+61. [work:4208] Just and Unjust Wars — Michael Walzer | standing=61; reading=61 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+62. [work:4209] The Case for Animal Rights — Tom Regan | standing=62; reading=62 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+63. [work:4210] A Sand County Almanac — especially The Land Ethic — Aldo Leopold | standing=63; reading=63 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+64. [work:4211] The Language of Morals — R. M. Hare | standing=64; reading=64 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+65. [work:4212] Moral Thinking — R. M. Hare | standing=65; reading=65 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+66. [work:4213] Ethics and Language — Charles L. Stevenson | standing=66; reading=66 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+67. [work:4214] The Moral Problem — Michael Smith | standing=67; reading=67 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+68. [work:4215] Wise Choices, Apt Feelings — Allan Gibbard | standing=68; reading=68 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+69. [work:4216] Moral Realism and the Foundations of Ethics — David O. Brink | standing=69; reading=69 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+70. [work:4217] Moral Realism: A Defence — Russ Shafer-Landau | standing=70; reading=70 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+71. [work:4218] Taking Morality Seriously — David Enoch | standing=71; reading=71 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+72. [work:4219] The Second-Person Standpoint — Stephen Darwall | standing=72; reading=72 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+73. [work:4220] Practical Reason and Norms — Joseph Raz | standing=73; reading=73 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+74. [work:479] On What Matters — Derek Parfit | standing=74; reading=74 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+75. [work:4221] On Virtue Ethics — Rosalind Hursthouse | standing=75; reading=75 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+76. [work:4222] Virtues and Vices — Philippa Foot | standing=76; reading=76 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+77. [work:4223] Moral Luck — Bernard Williams | standing=77; reading=77 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+78. [work:4224] The Possibility of Altruism — Thomas Nagel | standing=78; reading=78 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+79. [work:4225] Whose Justice? Which Rationality? — Alasdair MacIntyre | standing=79; reading=79 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+80. [work:485] Justice for Hedgehogs — Ronald Dworkin | standing=80; reading=80 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+81. [work:4226] In a Different Voice — Carol Gilligan | standing=81; reading=81 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+82. [work:4227] Caring — Nel Noddings | standing=82; reading=82 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+83. [work:4228] The Ethics of Care — Virginia Held | standing=83; reading=83 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+84. [work:4229] Love's Labor — Eva Feder Kittay | standing=84; reading=84 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+85. [work:4230] Ethics Without Principles — Jonathan Dancy | standing=85; reading=85 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+86. [work:4231] Moral Saints — Susan Wolf | standing=86; reading=86 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+87. [work:4232] Natural Law and Natural Rights — John Finnis | standing=87; reading=87 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+88. [work:4233] Totality and Infinity — Emmanuel Levinas | standing=88; reading=88 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+89. [work:4234] Ethics — Dietrich Bonhoeffer | standing=89; reading=89 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+90. [work:4235] Rinrigaku — Watsuji Tetsurō | standing=90; reading=90 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+91. [work:4236] Tahdhib al-Akhlaq — Miskawayh | standing=91; reading=91 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+92. [work:4237] The Revival of the Religious Sciences — ethical books/sections — Al-Ghazali | standing=92; reading=92 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+93. [work:4238] Eight Chapters — Maimonides | standing=93; reading=93 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+94. [work:4239] Ethics of Liberation in the Age of Globalization and Exclusion — Enrique Dussel | standing=94; reading=94 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+95. [work:4240] The Racial Contract — Charles W. Mills | standing=95; reading=95 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+96. [work:4241] The Ethics of Identity — Kwame Anthony Appiah | standing=96; reading=96 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+97. [work:4242] Tradition and Modernity: Philosophical Reflections on the African Experience — Kwame Gyekye | standing=97; reading=97 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+98. [work:4243] African Philosophy through Ubuntu — Mogobe B. Ramose | standing=98; reading=98 | sources: ETHICS-001, ETHICS-002, ETHICS-003, ETHICS-004, ETHICS-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[ETHICS-001] Stanford Encyclopedia of Philosophy — Virtue Ethics
+https://plato.stanford.edu/entries/ethics-virtue/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:81680b00975097d42441171f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-002] Stanford Encyclopedia of Philosophy — Chinese Ethics
+https://plato.stanford.edu/entries/ethics-chinese/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0d0d3151832613ffb2870298
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-003] Stanford Encyclopedia of Philosophy — Ethics in Indian Buddhism
+https://plato.stanford.edu/entries/ethics-indian-buddhism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:63c71369c80ed2b21ebcade2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-004] Stanford Encyclopedia of Philosophy — African Ethics
+https://plato.stanford.edu/entries/african-ethics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b5795c41504be429e21488a0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-005] Stanford Encyclopedia of Philosophy — Aristotle's Ethics
+https://plato.stanford.edu/entries/aristotle-ethics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dd697ac00da573cfc2aef1cf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-006] Stanford Encyclopedia of Philosophy — Plato's Ethics: An Overview
+https://plato.stanford.edu/entries/plato-ethics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:40d2a011053a6df24d721b37
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-007] Stanford Encyclopedia of Philosophy — Hume's Moral Philosophy
+https://plato.stanford.edu/entries/hume-moral/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e72b32ae8f654d0e9bc3879e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-008] Stanford Encyclopedia of Philosophy — Nietzsche's Moral and Political Philosophy
+https://plato.stanford.edu/entries/nietzsche-moral-political/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7db77cd6d2f2c0a26f6beff1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-009] Stanford Encyclopedia of Philosophy — Deontological Ethics
+https://plato.stanford.edu/entries/ethics-deontological/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e900d65dc7bef21de57376f9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-010] Stanford Encyclopedia of Philosophy — Contractualism
+https://plato.stanford.edu/entries/contractualism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3a22e4f2204ceff340161d9b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-011] Stanford Encyclopedia of Philosophy — Moral Theory
+https://plato.stanford.edu/entries/moral-theory/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5c49bf4c4234eab0439a0a10
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-012] Stanford Encyclopedia of Philosophy — Kant and Hume on Morality
+https://plato.stanford.edu/entries/kant-hume-morality/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e2cbba4354f9286da9845269
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-013] Stanford Encyclopedia of Philosophy — Feminist Ethics
+https://plato.stanford.edu/entries/feminism-ethics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a6ba7c4d5e65665868f3b683
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-014] Stanford Encyclopedia of Philosophy — Moral Realism
+https://plato.stanford.edu/entries/moral-realism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:988c0b1e801b7fda50090f3e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-015] Stanford Encyclopedia of Philosophy — Metaethics
+https://plato.stanford.edu/entries/metaethics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:537bbf70ad87074a85597b5c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-016] Stanford Encyclopedia of Philosophy — Henry Sidgwick
+https://plato.stanford.edu/entries/sidgwick/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:816c7c7a3f91a054f8566ca0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-017] Stanford Encyclopedia of Philosophy — G. E. M. Anscombe
+https://plato.stanford.edu/entries/anscombe/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b041fb69f934c16d1bcff9c0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-018] Stanford Encyclopedia of Philosophy — Philippa Foot
+https://plato.stanford.edu/entries/philippa-foot/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1f9e2b6c13ebe81cf8d8557a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-019] Stanford Encyclopedia of Philosophy — William David Ross
+https://plato.stanford.edu/entries/william-david-ross/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2e2dd765499db0da0e71ce20
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-020] Stanford Encyclopedia of Philosophy — Moral Character
+https://plato.stanford.edu/entries/moral-character/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d4b58de6592d886b666fdb30
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-021] Stanford Encyclopedia of Philosophy archive — Moore's Moral Philosophy
+https://plato.stanford.edu/archives/fall2020/entries/moore-moral/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:798b55c0a5d06e952df4572f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-022] Stanford Encyclopedia of Philosophy archive — Kant's Moral Philosophy
+https://plato.stanford.edu/archives/fall2018/entries/kant-moral/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bda6ee65bcae6b55120f2eb2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-023] Stanford Encyclopedia of Philosophy archive — Moral Anti-Realism
+https://plato.stanford.edu/archives/spr2013/entries/moral-anti-realism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e9504074721cc605d5e68da2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-024] Internet Encyclopedia of Philosophy — Care Ethics
+https://iep.utm.edu/care-ethics/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0a6c41faae507a5c0fba6900
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-025] Internet Encyclopedia of Philosophy — Modern Morality and Ancient Ethics
+https://iep.utm.edu/modern-morality-ancient-ethics/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1756e51537bd623353a60a7f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-026] Internet Encyclopedia of Philosophy — Metaethics
+https://iep.utm.edu/metaethi/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3fee5bf91fc0e6f3cdf11373
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-027] Internet Encyclopedia of Philosophy — Virtue Ethics
+https://iep.utm.edu/virtue
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e34a120a1ff129d3f040b45d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-028] Internet Encyclopedia of Philosophy — Buddha / Buddhist Ethics
+https://iep.utm.edu/buddha/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:558e371f4d6a5fa7976e156c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-029] Internet Encyclopedia of Philosophy — Spinoza: Moral Philosophy
+https://iep.utm.edu/spin-mor/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bc47fdbe5376dc01a9b8eb27
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-030] Internet Encyclopedia of Philosophy — Bioethics
+https://iep.utm.edu/bioethics/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c655b110896346e6b2a64a6c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-031] Internet Encyclopedia of Philosophy — Health Care Ethics
+https://iep.utm.edu/h-c-ethi/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ad9e25cd06df9e12e8dbbfee
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-032] PhilPapers linked bibliography — Consequentialism
+https://philpapers.org/sep/consequentialism
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f69c18b3754d5b53a6ca9d77
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-033] PhilPapers Survey results — normative ethics, target faculty
+https://philpapers.org/surveys/results.pl?affil=Target+faculty&areas0=0&areas_max=1&grain=fine
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2b7a4904ae3684ea44bf303b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-034] PhilPapers Survey results — Ethics specialists
+https://philpapers.org/surveys/results.pl?areas0=13
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:12fefe23842d3290fec609e6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-035] Cambridge — The Cambridge History of Moral Philosophy
+https://www.cambridge.org/core/books/abs/cambridge-history-of-moral-philosophy/cambridge-history-of-moral-philosophy/976B808C23C31E9C9B81A6A7D3F01D4C
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8bda675d115aee9bdcbe9bea
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-036] Cambridge — Essays on Henry Sidgwick
+https://www.cambridge.org/core/books/essays-on-henry-sidgwick/164B4FAFAA91D309B548414B3E58CFC0
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1acba48079a5a68756b1efa5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-037] Cambridge Elements — Sidgwick's Ethics
+https://www.cambridge.org/core/elements/abs/sidgwicks-ethics/22B8B3653C8394B2A67457484333FE3D
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eb901c6866e4fe77629b5862
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-038] Cambridge Utilitas — Sidgwick's Critique of Deontology
+https://www.cambridge.org/core/journals/utilitas/article/sidgwicks-critique-of-deontology-scrupulous-fairness-or-serpentwindings/A1AD585164E976AAA3E643F798DE4C98
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:69a0b6b51f1e0bb7834babf6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-039] Cambridge — Bernard Williams on Sidgwick and the ambitions of ethics
+https://www.cambridge.org/core/books/abs/making-sense-of-humanity/point-of-view-of-the-universe-sidgwick-and-the-ambitions-of-ethics/CEB9115750A367881D18332D4126EA1A
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cd22fd7782689ba08100eabb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-040] Notre Dame Philosophical Reviews — On What Matters, Volumes 1 and 2
+https://ndpr.nd.edu/reviews/on-what-matters-volumes-1-and-2/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3e91d7f0d50644ba92de4bff
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-041] Notre Dame Philosophical Reviews — Does Anything Really Matter? Essays on Parfit
+https://ndpr.nd.edu/reviews/does-anything-really-matter-essays-on-parfit-on-objectivity/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:db63f6fe655868ca78624d6c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-042] Oxford — Thomas Sinclair, Ethics reading list
+https://users.ox.ac.uk/~lady2916/readinglists/ethics.html
+Family: academic_or_institutional | Publisher: users.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:33eea610f5f5416bc7b3a7d3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-043] Oxford — Thomas Sinclair, Moral Philosophy reading list
+https://users.ox.ac.uk/~lady2916/readinglists/moralphilosophy.html
+Family: academic_or_institutional | Publisher: users.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bc9dc875777bb21222b44415
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-044] Oxford — Thomas Sinclair, Practical Ethics reading list
+https://users.ox.ac.uk/~lady2916/readinglists/practicalethics.html
+Family: academic_or_institutional | Publisher: users.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5c799e795677d379c18e1fb4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-045] Oxford Faculty of Philosophy — Finals course descriptions
+https://philosophy.web.ox.ac.uk/course-descriptions-finals
+Family: academic_or_institutional | Publisher: philosophy.web.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8b7359b3d239699e3508f31c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-046] Oxford Uehiro Centre — What is Practical Ethics?
+https://practicalethics.web.ox.ac.uk/what-practical-ethics
+Family: academic_or_institutional | Publisher: practicalethics.web.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:773c37f8b7a140772acf1e4b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-047] Oxford Uehiro Centre — Books
+https://www.practicalethics.ox.ac.uk/books
+Family: academic_or_institutional | Publisher: www.practicalethics.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:231fa9c89a6698056d460963
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-048] Oxford Uehiro Centre — BPhil Practical Ethics programme PDF
+https://www.practicalethics.ox.ac.uk/files/bphilprogramht2019pdf
+Family: academic_or_institutional | Publisher: www.practicalethics.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dcb56a042fd4281418e22caf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-049] Oxford Lifelong Learning — Great Moral Issues reading list PDF
+https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O19P565THW
+Family: academic_or_institutional | Publisher: lifelong-learning.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:655b04ce9bfa87e9f0b1ad88
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-050] Oxford Lifelong Learning — Ethics with Aristotle reading list PDF
+https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O24P783PHZ
+Family: academic_or_institutional | Publisher: lifelong-learning.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fa91ababd310ceade9ded1e9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-051] Cambridge Philosophy — Part II syllabus
+https://www.phil.cam.ac.uk/syllabus-part-ii-gtc
+Family: academic_or_institutional | Publisher: www.phil.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4a33c9282353ccc8d9a31955
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-052] Cambridge Philosophy — Suggested preliminary readings PDF
+https://www.phil.cam.ac.uk/system/files/suggested_preliminary_readings_updated_july_2023.pdf
+Family: academic_or_institutional | Publisher: www.phil.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:af1fc723eabf3e7915a073e8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-053] Cambridge Divinity — Introductory reading
+https://www.divinity.cam.ac.uk/study-here/undergraduate/introductory-reading
+Family: academic_or_institutional | Publisher: www.divinity.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9b7ac3533e7b83e6077b715f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-054] Yale Directed Studies — Philosophy syllabus
+https://directedstudies.yale.edu/syllabi/syllabi/philosophy-syllabus
+Family: academic_or_institutional | Publisher: directedstudies.yale.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6bf04b7ee1132bc8b07cd5c8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-055] MIT OpenCourseWare — Ethics syllabus
+https://ocw.mit.edu/courses/24-231-ethics-fall-2009/pages/syllabus/
+Family: academic_or_institutional | Publisher: ocw.mit.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:98d81dffbed060b51ae84cfb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-056] MIT Open Learning Library — Moral Problems and the Good Life
+https://openlearninglibrary.mit.edu/courses/course-v1%3AMITx%2B24.02x%2B2T2020/about
+Family: academic_or_institutional | Publisher: openlearninglibrary.mit.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ef40561576f837655005d9f6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-057] MIT OpenCourseWare — Literature and Ethical Values
+https://ocw.mit.edu/courses/21l-450-literature-and-ethical-values-fall-2002/
+Family: academic_or_institutional | Publisher: ocw.mit.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c6c733bdc9ee655b09917280
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-058] Harvard — Introduction to Ethics syllabus PDF
+https://scholar.harvard.edu/files/benroth/files/ethics_syllabus.pdf
+Family: academic_or_institutional | Publisher: scholar.harvard.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cd00216b81953039bf3e56d7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-059] Stanford — Introduction to Moral Philosophy
+https://humanrights.stanford.edu/courses/introduction-moral-philosophy-phil-2/1-1
+Family: academic_or_institutional | Publisher: humanrights.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6bca9da46a412d61b464fc9a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-060] Stanford Philosophy — Courses
+https://philosophy.stanford.edu/academics/courses
+Family: academic_or_institutional | Publisher: philosophy.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:22e3e8575c22819dbaa5af2d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-061] University of Chicago — Introduction to Ethics
+https://philosophy.uchicago.edu/node/10192
+Family: academic_or_institutional | Publisher: philosophy.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bf7e65eb8a7694343198935e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-062] University of British Columbia — PHIL 230 Introduction to Ethics
+https://philosophy.ubc.ca/section/phil-230-2025s-901/
+Family: academic_or_institutional | Publisher: philosophy.ubc.ca | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7f33e7f41212b802cd6abd1d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-063] University of Toronto — PHL275H1 Introduction to Ethics
+https://artsci.calendar.utoronto.ca/course/phl275h1
+Family: academic_or_institutional | Publisher: artsci.calendar.utoronto.ca | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5a24493b31e2c5aae7e1f0af
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-064] LSE — BSc Philosophy, Logic and Scientific Method
+https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-logic-and-scientific-method
+Family: editorial_or_specialist | Publisher: www.lse.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:57e8faa90f73c0268ca79e85
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-065] University of Edinburgh — Moral Philosophy
+https://www.drps.ed.ac.uk/18-19/dpt/cxllli07005.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0dd4bd5d41789a38dd72bbd2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-066] Cardiff University — Foundational Ethics
+https://data.cardiff.ac.uk/legacy/grails/module/RT1356/15A.html
+Family: academic_or_institutional | Publisher: data.cardiff.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9e46aff31d1ff90078e757cc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-067] SMU — Recommended Readings on Ethics
+https://www.smu.edu/provost/ethics/resources/recommendedreadings
+Family: academic_or_institutional | Publisher: www.smu.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6dfd6097116534a74b044c01
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-068] University of Washington — History of Ethics syllabus
+https://staff.washington.edu/rosentha/PHIL342S13.html
+Family: academic_or_institutional | Publisher: staff.washington.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:837910dfe1698ca27ee84772
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-069] Le Moyne College — Ethics / Moral Philosophy resources
+https://web.lemoyne.edu/kagan/ethicsindex.html
+Family: academic_or_institutional | Publisher: web.lemoyne.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9477a52d3eee9d9b18c6c843
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-070] Australian National University — Chinese Philosophy course readings
+https://programsandcourses.anu.edu.au/2025/course/ASIA2054/First%20Semester/3313
+Family: academic_or_institutional | Publisher: programsandcourses.anu.edu.au | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:19858450244da5a7f41646c4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-071] Oxford Lincoln College — Philosophy and Modern Languages reading list
+https://lincoln.ox.ac.uk/undergraduate-freshers-hub/reading-lists/philosophy-and-modern-languages-reading-list/
+Family: academic_or_institutional | Publisher: lincoln.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ac30e01a42efdf4ff408979b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-072] Oxford Faculty of Philosophy — Undergraduate FAQs / reading suggestions
+https://philosophy.web.ox.ac.uk/undergraduate-faqs
+Family: academic_or_institutional | Publisher: philosophy.web.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b6a3cac91e87ed28fb36124d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-073] Oxford Lifelong Learning — Telling Right from Wrong: An Introduction to Ethics
+https://lifelong-learning.ox.ac.uk/courses/telling-right-from-wrong-an-introduction-to-ethics
+Family: academic_or_institutional | Publisher: lifelong-learning.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:217465a439b1e75f8cd95cd1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-074] Trinity College Cambridge — Pre-entry Philosophy reading list PDF
+https://www.trin.cam.ac.uk/wp-content/uploads/PRE-ENTRY-PHILOSOPHY-READING-LIST.pdf
+Family: academic_or_institutional | Publisher: www.trin.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bd4b24ff1c631f66bb415cc8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-075] University of Toronto — Arts & Science Calendar PDF
+https://artsci.calendar.utoronto.ca/sites/default/files/PDFs/2024-25_ARTSCI_Calendar.pdf
+Family: academic_or_institutional | Publisher: artsci.calendar.utoronto.ca | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:20bc0d83f7036ee985eaf4fb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-076] University of Edinburgh — New Paradigms in Ethics
+https://www.drps.ed.ac.uk/current/dpt/cxefie11502.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7e8dc4d1bd04d0384aebc5a5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-077] Five Books — Ethics & Moral Philosophy hub
+https://fivebooks.com/category/philosophy/ethics-moral-philosophy/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bf0d5c00f584339e270edee8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-078] Five Books — Moral Philosophy, selected by Jonathan Glover
+https://fivebooks.com/best-books/moral-philosophy-jonathan-glover/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:63925cee3c2092f4a82398cb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-079] Five Books — Utilitarianism
+https://fivebooks.com/category/philosophy/ethics-moral-philosophy/best-books-on-utilitarianism/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:45be70de31006a641b4c8e69
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-080] Five Books — Aristotle, selected by Edith Hall
+https://fivebooks.com/best-books/aristotle-edith-hall/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a7b32cdf08d00530930bd3fe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-081] Five Books — Virtue, selected by Edward Skidelsky
+https://fivebooks.com/best-books/virtue-edward-skidelsky/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b5f68558b7a196665190e058
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-082] Five Books — Being Good, selected by A. C. Grayling
+https://fivebooks.com/best-books/ac-grayling-being-good/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:67c5f08335013dfc37b6e21f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-083] Five Books — Immanuel Kant, selected by Adrian Moore
+https://fivebooks.com/best-books/kant/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5c767db76a7c92b641b285f9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-084] Five Books — Moral Character, selected by Christian Miller
+https://fivebooks.com/best-books/moral-character-christian-miller/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:39ebc98e9ece95f3a7e11f74
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-085] Five Books — Ethical Problems, selected by David Edmonds
+https://fivebooks.com/best-books/david-edmonds-ethical-problems/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0f262e69e5722f06dfcb07ed
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-086] Five Books — Nineteenth-Century Philosophy, selected by Peter Singer
+https://fivebooks.com/best-books/nineteenth-century-philosophy-peter-singer/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:27e466c5f6300a431508e3ed
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-087] Five Books — Introductions to Philosophy, selected by Nigel Warburton
+https://fivebooks.com/best-books/introductions-to-philosophy-warburton/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aca4df4f5d1d01d5e8a3612d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-088] Five Books — Stoicism, selected by Massimo Pigliucci
+https://fivebooks.com/best-books/massimo-pigliucci-stoicism/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:717241d0c72525ae2f743940
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-089] Five Books — Best Philosophy Books of 2016
+https://fivebooks.com/best-books/best-philosophy-books-2016/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2ee1e511d0909f2c7acc1cde
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-090] Oxford Practical Ethics blog — Best Practical Ethics Books of the Year
+https://blog.uehiro.ox.ac.uk/2012/12/the-best-practical-ethics-books-of-the-year/
+Family: academic_or_institutional | Publisher: blog.uehiro.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f145887f4f10091dee719dde
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-091] Leiter Reports — Most cited books of Anglophone moral philosophy in the last 200 years
+https://leiterreports.com/2025/12/19/most-cited-books-of-anglophone-moral-philosophy-in-the-last-two-hundred-years/
+Family: editorial_or_specialist | Publisher: leiterreports.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:630390a51575d5e3376df18e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-092] PhilosophyProfessor — Best Books on Ethics and Moral Philosophy
+https://www.philosophyprofessor.com/reading-guides/ethics/
+Family: editorial_or_specialist | Publisher: www.philosophyprofessor.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e4d197f8b0050f21e6c2495c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-093] Shortform — 100 Best Ethics Books of All Time
+https://www.shortform.com/best-books/genre/best-ethics-books-of-all-time
+Family: editorial_or_specialist | Publisher: www.shortform.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aa2c167bc0c03a119a3d629e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-094] Shortform — 100 Best Morality Books of All Time
+https://www.shortform.com/best-books/genre/best-morality-books-of-all-time
+Family: editorial_or_specialist | Publisher: www.shortform.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c41eef40c94a7eb34398c43e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-095] Skriuwer — Best Books on Ethics and Moral Philosophy
+https://www.skriuwer.com/blog/best-books-on-philosophy-of-ethics-2026
+Family: editorial_or_specialist | Publisher: www.skriuwer.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:24278b4cfaa8c11f3477b728
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-096] Goodreads — Ethics and Moral Philosophy shelf
+https://www.goodreads.com/shelf/show/ethics-and-moral-philosophy
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8a08834b7d9e126f9f4b5f53
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-097] Goodreads — Ethics Moral Philosophy shelf
+https://www.goodreads.com/shelf/show/ethics-moral-philosophy
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:79a7dd75ab473b0c43ec69bd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-098] Goodreads — Best Books on Morality
+https://www.goodreads.com/list/show/89204.Best_Books_on_Morality
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:408dcda8b1b392f9f6c70437
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-099] Goodreads — Philosophy Classics / Worldview
+https://www.goodreads.com/list/show/147269.Philosophy_Classics_Worldview
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:836ab5e7623152e82113b9a9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-100] Goodreads — Moral Philosophy recommended by Jonathan Glover
+https://www.goodreads.com/list/show/124332.Books_on_Moral_Philosophy_recommended_by_Jonathan_Glover
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bb3fb7c5579382fbd7348b5a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-101] Goodreads — Philosophy Books
+https://www.goodreads.com/list/show/20963.Philosophy_books
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3fde47827ac76f3e82226993
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-102] Goodreads — 50 Philosophy Classics
+https://www.goodreads.com/list/show/75349.50_Philosophy_Classics?order=a&page=1
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:753a30a2e997f90b0e7e892f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-103] Goodreads — Quintessential Philosophy
+https://www.goodreads.com/list/show/86566.Quintessential_Philosophy
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:92e52c179a24a661c9504bbe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-104] Goodreads — Virtue Ethics
+https://www.goodreads.com/list/show/133304.Virtue_Ethics
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:767200989724a3904a3ce0ff
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-105] Goodreads — Best Philosophy Books of All Time
+https://www.goodreads.com/list/show/230503.Best_Philosophy_Books_of_All_Time
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:83c7a1237c0331c9dd12602f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-106] Goodreads — Most Popular Philosophy Books
+https://www.goodreads.com/list/show/193550.Most_Popular_Philosophy_Books
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0f385ba0cd0c0cb10ac5e347
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-107] Reddit r/askphilosophy — Requesting Books and Resources on Ethics and Morality
+https://www.reddit.com/r/askphilosophy/comments/1rxca9j/requesting_books_and_resources_on_ethics_and/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a1e1584cbada2aa69f724dfe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-108] Reddit r/askphilosophy — Books about Morality/Ethics
+https://www.reddit.com/r/askphilosophy/comments/1pr6r9m/books_about_moralityethics/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5caac20e6f0fe917e95ef070
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-109] Reddit r/askphilosophy — Best books on philosophy / ethics
+https://www.reddit.com/r/askphilosophy/comments/1d7p9el
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e00945d58fa38ba782106300
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-110] Reddit r/askphilosophy — What books should I read for Ethics and Moral Philosophy?
+https://www.reddit.com/r/askphilosophy/comments/1mpawah
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c2e4e3d098aa24e60f934d5f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-111] Reddit r/askphilosophy — I'm just starting out, preferably ethics
+https://www.reddit.com/r/askphilosophy/comments/1kb7i7x
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c67ac29868a0fcadbd5aac10
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-112] Reddit r/askphilosophy — Moral philosophy books for beginners
+https://www.reddit.com/r/askphilosophy/comments/1ctb4gl
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:49febbfa4e1e1fdcfab30202
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-113] Reddit r/askphilosophy — Moral/ethical philosophy, Western or Asian
+https://www.reddit.com/r/askphilosophy/comments/m3x7q4
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4ee06f3f385f86e628fb42a0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-114] Reddit r/askphilosophy — Ethical theories of other cultures
+https://www.reddit.com/r/askphilosophy/comments/w11r64
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:86ca7ed113ab946606c65d5d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-115] Reddit r/askphilosophy — Reading before Parfit's Reasons and Persons
+https://www.reddit.com/r/askphilosophy/comments/pni5pd
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6c0ead179fea96dad122e223
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-116] Reddit r/askphilosophy — Buddhist ethics
+https://www.reddit.com/r/askphilosophy/comments/zqa9ef
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:71c6800edf3b986ce0a58272
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-117] Reddit r/askphilosophy — Aristotelian virtue ethics and Eastern virtue
+https://www.reddit.com/r/askphilosophy/comments/clumfx
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9c7ec2d39e7421a5708714ad
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-118] Reddit r/nihilism — Reading List on Moral Nihilism
+https://www.reddit.com/r/nihilism/comments/1lka4k3
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:13e84b57a0efd44a0eacbff4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-119] Douban (China) — Ethics tag / 伦理学
+https://book.douban.com/tag/%E4%BC%A6%E7%90%86%E5%AD%A6
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b0f630a2d40ce05d025360cd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-120] Douban (China) — user lists recommending Introduction to Ethics
+https://book.douban.com/subject/6809637/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5e98041ae1288c470c94dcb1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-121] Douban (China) — user lists around Bottom-line Ethics
+https://book.douban.com/subject/1015303/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8f5efd8f724cdb3a5b0e2fe3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-122] Douban (China) — user lists around Ethics Without Ontology
+https://book.douban.com/subject/3033692/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:66489fd72f589a461d3f23fc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-123] Douban (China) — user lists around Nietzsche / Genealogy / Beyond Good and Evil
+https://book.douban.com/subject/1002562/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:61cb64d11204f9e57a56e07d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-124] Douban (China) — broad philosophy-canon user lists
+https://book.douban.com/subject/1315184/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ebe45d3cf581d93a86d426a7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-125] Douban (China) — postgraduate/free-will/ethics-related user lists
+https://book.douban.com/subject/3206314/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d82c6256f3d2046152842587
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-126] SensCritique (France) — Philosophie morale, 107-book list
+https://www.senscritique.com/liste/philosophie_morale/2939382
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:10364d5ec4b507696bf7b6e0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-127] SensCritique (France) — Éthique et philosophie morale
+https://www.senscritique.com/liste/e_ethique_et_philosophie_morale/2356346
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e84e5d588541c1c5727f5341
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-128] Aladin (South Korea) — Ethics / Moral Philosophy category
+https://www.aladin.co.kr/shop/wbrowse.aspx?cid=51449
+Family: editorial_or_specialist | Publisher: www.aladin.co.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a8f95d466932915368d74b1a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-129] Aladin (South Korea) — weekly bestseller, Ethics / Moral Philosophy
+https://www.aladin.co.kr/shop/common/wbest.aspx?BestType=Bestseller&BranchType=1&CID=51449
+Family: editorial_or_specialist | Publisher: www.aladin.co.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:91f26c483648a22672ef3acb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-130] Yes24 (South Korea) — 동서양 철학 콘서트
+https://m.yes24.com/Goods/Detail/4824884
+Family: editorial_or_specialist | Publisher: m.yes24.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:348c4a69bed71eafbd73935c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-131] Yes24 (South Korea) — 행복의 철학
+https://m.yes24.com/goods/detail/106399048
+Family: editorial_or_specialist | Publisher: m.yes24.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1b25c1cb33909c56d3f4666b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-132] Filozofuj! (Poland) — Andrzej M. Kaniowski on Kant's ethics
+https://filozofuj.eu/andrzej-m-kaniowski-sedno-etyki-kanta/
+Family: editorial_or_specialist | Publisher: filozofuj.eu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fa3fa83d5119e53c5587cf94
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-133] Filozofuj! (Poland) — mandatory philosophy readings PDF
+https://filozofuj.eu/wp-content/uploads/2023/05/mfip-r0-100-2305.pdf
+Family: editorial_or_specialist | Publisher: filozofuj.eu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:582d3eb929ff00a4debcadab
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-134] Lubimyczytac (Poland) — Aristotle, Etyka
+https://lubimyczytac.pl/ksiazka/3771321/etyka
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5bac4b43277f76a2157fc3c7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-135] Filosofía&Co (Spain) — ethics collection / El bien y el mal
+https://filco.es/colecciones-etica/
+Family: editorial_or_specialist | Publisher: filco.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e058005ffc684d9f708bffc7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-136] Lecturalia (Spain) — Aristotle author page
+https://www.lecturalia.com/autor/1533/aristoteles
+Family: editorial_or_specialist | Publisher: www.lecturalia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cd9b9fba32092138d7d7b527
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-137] Lecturalia (Spain) — Ética a Nicómaco reader page
+https://www.lecturalia.com/libro/33401/etica-a-nicomaco
+Family: editorial_or_specialist | Publisher: www.lecturalia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e2d7c65939cdca180be77335
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ETHICS-138] LovelyBooks (Germany) — Einführung in die philosophische Ethik
+https://www.lovelybooks.de/autor/Dietmar-H%C3%BCbner/Einf%C3%BChrung-in-die-philosophische-Ethik-1344867640-w/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:64fb1a23b51ed34e43390acd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: books-ethics. Included 98 current entries and 138 current source records. Carry out the update and return the enhanced ranking with the complete source register.

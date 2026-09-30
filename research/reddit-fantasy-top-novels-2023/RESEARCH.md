@@ -1,5 +1,7 @@
 # r/Fantasy · Top Novels (2023)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named published ranking (266 entries), checked 2026-09-13.
 
 Source: https://www.reddit.com/r/Fantasy/comments/11mvwsa/rfantasy_top_novels_2023_results/

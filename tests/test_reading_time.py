@@ -46,7 +46,7 @@ class ReadingTimeTests(unittest.TestCase):
     def test_provenance_and_range_are_preserved(self):
         estimate = estimate_reading_time(ReadingMaterial(page_count=200))
         self.assertFalse(estimate.calibrated)
-        self.assertIn("uncalibrated", estimate.algorithm_version)
+        self.assertEqual(estimate.algorithm_version, "reading-time-v1-difficulty-range")
         self.assertLess(estimate.low_hours, estimate.estimated_hours)
         self.assertGreater(estimate.high_hours, estimate.estimated_hours)
 

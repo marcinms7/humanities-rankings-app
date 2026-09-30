@@ -1,0 +1,50 @@
+{
+  "target_id": "history-books-ancient-world",
+  "ranking_entries": [],
+  "sources": [
+    {
+      "source_id": "metadata-20260928-5f724027e1ce5bc5",
+      "underlying_source_id": "url:5f724027e1ce5bc53551567b",
+      "title": "Ancient Greece — Oxford Learning Link",
+      "canonical_url": "https://learninglink.oup.com/access/pomeroy-all",
+      "source_family": "academic_or_institutional",
+      "publisher": "Oxford University Press",
+      "access_level": "full_relevant_content",
+      "accessed_at": "2026-09-28",
+      "count_eligible": false,
+      "target_ids": [
+        "history-books-ancient-world"
+      ],
+      "relevance_by_target": {
+        "history-books-ancient-world": "Resolves abbreviated author credits and identifies the exact English edition of the ranked ancient-Greece textbook."
+      },
+      "evidence_notes": "Publisher distinguishes the full and brief textbooks and confirms six contributors in the full fourth edition, including new contributor Georgia Tsouvala.",
+      "disagreement_or_limitations": "Bibliographic verification only; not an independent ranking endorsement or full-book review.",
+      "depends_on_source_ids": [],
+      "evidence_role": "bibliographic_identity",
+      "locally_verified": true
+    },
+    {
+      "source_id": "metadata-20260928-17986329b2ff5859",
+      "underlying_source_id": "url:17986329b2ff5859826a2f82",
+      "title": "Ancient Greece, fourth edition — UNT library catalog",
+      "canonical_url": "https://discover.library.unt.edu/catalog/b7529874",
+      "source_family": "academic_or_institutional",
+      "publisher": "University of North Texas Libraries",
+      "access_level": "full_relevant_content",
+      "accessed_at": "2026-09-28",
+      "count_eligible": false,
+      "target_ids": [
+        "history-books-ancient-world"
+      ],
+      "relevance_by_target": {
+        "history-books-ancient-world": "Resolves abbreviated author credits and identifies the exact English edition of the ranked ancient-Greece textbook."
+      },
+      "evidence_notes": "Records Sarah B. Pomeroy, Stanley M. Burstein, Walter Donlan, Jennifer Tolbert Roberts and David W. Tandy, with Georgia Tsouvala. English fourth edition, Oxford University Press copyright 2018, paperback ISBN 9780190686918. Physical description gives xxviii preliminary pages, 578 numbered pages and 16 unnumbered plate pages.",
+      "disagreement_or_limitations": "Bibliographic verification only; not an independent ranking endorsement or full-book review.",
+      "depends_on_source_ids": [],
+      "evidence_role": "bibliographic_identity",
+      "locally_verified": true
+    }
+  ]
+}

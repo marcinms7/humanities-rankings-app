@@ -1,0 +1,38 @@
+[
+  {
+    "target": "poetry-all-time",
+    "new_catalog": [
+      {
+        "key": "new:du-fu",
+        "title": "The Poetry of Du Fu",
+        "authors": "Du Fu"
+      },
+      {
+        "key": "new:hafez",
+        "title": "Hafiz of Shiraz",
+        "authors": "Hafez"
+      },
+      {
+        "key": "new:li-bai",
+        "title": "The Selected Poems of Li Po",
+        "authors": "Li Bai"
+      },
+      {
+        "key": "new:milosz",
+        "title": "New and Collected Poems 1931–2001",
+        "authors": "Czesław Miłosz"
+      },
+      {
+        "key": "new:gitanjali",
+        "title": "Gitanjali Song Offerings",
+        "authors": "Rabindranath Tagore"
+      },
+      {
+        "key": "new:herbert",
+        "title": "The Collected Poems 1956–1998",
+        "authors": "Zbigniew Herbert"
+      }
+    ],
+    "conflicts": []
+  }
+]

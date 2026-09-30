@@ -1,0 +1,41 @@
+{"status": "no_unique_identity", "person_id": 52, "name": "Zhuangzi"}
+{"status": "no_unique_identity", "person_id": 55, "name": "Xunzi"}
+{"status": "no_human_portrait", "person_id": 137, "name": "Iris Murdoch"}
+{"status": "covered", "person_id": 53, "name": "Laozi"}
+{"status": "covered", "person_id": 54, "name": "René Descartes"}
+{"status": "covered", "person_id": 56, "name": "Miranda Fricker"}
+{"status": "image_error", "error": "unsupported raster format", "person_id": 57, "name": "Śāntideva"}
+{"status": "covered", "person_id": 58, "name": "Ibn Khaldūn"}
+{"status": "covered", "person_id": 66, "name": "José Carlos Mariátegui"}
+{"status": "covered", "person_id": 144, "name": "William James"}
+{"status": "covered", "person_id": 154, "name": "Isaiah Berlin"}
+{"status": "covered", "person_id": 160, "name": "Alfred North Whitehead"}
+{"status": "covered", "person_id": 161, "name": "Bertrand Russell"}
+{"status": "image_error", "error": "HTTP Error 429: Too many requests (76af2b0)", "person_id": 169, "name": "G. E. Moore"}
+{"status": "covered", "person_id": 170, "name": "John Dewey"}
+{"status": "image_error", "error": "HTTP Error 429: Too many requests (76af2b0)", "person_id": 199, "name": "Karl Popper"}
+{"status": "image_error", "error": "HTTP Error 429: Too many requests (76af2b0)", "person_id": 269, "name": "Albert Camus"}
+{"status": "covered", "person_id": 281, "name": "Voltaire"}
+{"status": "covered", "person_id": 289, "name": "Denis Diderot"}
+{"status": "image_error", "error": "HTTP Error 429: Too many requests (76af2b0)", "person_id": 300, "name": "Michel de Montaigne"}
+{"status": "no_unique_identity", "person_id": 367, "name": "Elisabeth of Bohemia"}
+{"status": "covered", "person_id": 344, "name": "Lucretius"}
+{"status": "covered", "person_id": 345, "name": "Anselm of Canterbury"}
+{"status": "covered", "person_id": 346, "name": "Augustine of Hippo"}
+{"status": "covered", "person_id": 347, "name": "Francis Bacon"}
+{"status": "covered", "person_id": 348, "name": "Epictetus"}
+{"status": "covered", "person_id": 349, "name": "Niccolò Machiavelli"}
+{"status": "covered", "person_id": 351, "name": "Plotinus"}
+{"status": "covered", "person_id": 353, "name": "Thomas Hobbes"}
+{"status": "covered", "person_id": 354, "name": "Gottfried Wilhelm Leibniz"}
+{"status": "covered", "person_id": 355, "name": "John Locke"}
+{"status": "covered", "person_id": 356, "name": "Blaise Pascal"}
+{"status": "covered", "person_id": 357, "name": "Jean-Jacques Rousseau"}
+{"status": "covered", "person_id": 358, "name": "Adam Smith"}
+{"status": "covered", "person_id": 359, "name": "Alexis de Tocqueville"}
+{"status": "covered", "person_id": 362, "name": "Martin Heidegger"}
+{"status": "covered", "person_id": 363, "name": "Edmund Husserl"}
+{"status": "covered", "person_id": 364, "name": "Søren Kierkegaard"}
+{"status": "covered", "person_id": 365, "name": "Karl Marx"}
+{"status": "image_error", "error": "HTTP Error 429: Too many requests (76af2b0)", "person_id": 368, "name": "Derek Parfit"}
+{"queued": 40, "processed": 40, "portraits": 30, "states": {"complete": 30, "identity_review": 19, "pending": 40, "retryable": 7, "unresolved": 4}, "next_retry": 1790624090.358499}

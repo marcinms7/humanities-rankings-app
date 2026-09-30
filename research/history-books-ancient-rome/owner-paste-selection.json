@@ -26,7 +26,7 @@
     },
     {
       "key": "history-books-ancient-rome-002",
-      "item_id": 1802,
+      "item_id": 2706,
       "source_ids": [
         "HISTORY-ANCIENT-ROME-001",
         "HISTORY-ANCIENT-ROME-002",
@@ -42,7 +42,7 @@
     },
     {
       "key": "history-books-ancient-rome-003",
-      "item_id": 1855,
+      "item_id": 608,
       "source_ids": [
         "HISTORY-ANCIENT-ROME-001",
         "HISTORY-ANCIENT-ROME-002",
@@ -794,7 +794,7 @@
     },
     {
       "key": "history-books-ancient-rome-050",
-      "item_id": 2178,
+      "item_id": 2619,
       "source_ids": [
         "HISTORY-ANCIENT-ROME-001",
         "HISTORY-ANCIENT-ROME-002",
@@ -1226,7 +1226,7 @@
     },
     {
       "key": "history-books-ancient-rome-077",
-      "item_id": 2204,
+      "item_id": 8165,
       "source_ids": [
         "HISTORY-ANCIENT-ROME-001",
         "HISTORY-ANCIENT-ROME-002",
@@ -1290,7 +1290,7 @@
     },
     {
       "key": "history-books-ancient-rome-081",
-      "item_id": 2207,
+      "item_id": 4343,
       "source_ids": [
         "HISTORY-ANCIENT-ROME-001",
         "HISTORY-ANCIENT-ROME-002",
@@ -1822,5 +1822,11 @@
         "history-books-ancient-rome-100"
       ]
     }
+  },
+  "identity_reconciliation": {
+    "date": "2026-09-28",
+    "receipts": "research/_runs/2026-09-28/completion/",
+    "previous_sha256": "2f01cf480ee41a643ce0383be60cd4b6a793c5e23db07eb5c60969e1659082db",
+    "note": "Title/author fields and canonical IDs reconciled with saved repairs; source order and entry keys retained. Previous import receipts remain historical."
   }
 }

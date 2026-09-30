@@ -185,12 +185,16 @@ def ranking_records(target, text, source_marker, expected_count):
         section = text[:text.index(source_marker)]
     rows = []
     for line in section.splitlines():
-        if target in {'history-books-chinese-history', 'history-books-london', 'history-books-social', 'books-italy', 'books-metaphysics', 'books-philosophy-of-mind', 'books-philosophy-of-science', 'books-epistemology', 'books-ethics', 'books-political-philosophy', 'books-philosophy-of-language', 'books-philosophy-of-mathematics', 'essay-all-time', 'history-books-medieval'}:
+        if target in {'history-books-ancient-world', 'history-books-ancient-rome', 'history-books-england', 'history-books-chinese-history', 'history-books-london', 'history-books-social', 'books-italy', 'books-metaphysics', 'books-philosophy-of-mind', 'books-philosophy-of-science', 'books-epistemology', 'books-ethics', 'books-political-philosophy', 'books-philosophy-of-language', 'books-philosophy-of-mathematics', 'essay-all-time', 'history-books-medieval'}:
             match = re.match(r'\s*(\d{1,3})\.\s+(.+?)\s+—\s+(.+?)\s*$', line)
             if match:
                 position, author, title = int(match.group(1)), match.group(2), match.group(3)
                 if 1 <= position <= expected_count:
                     row = {'position': position, 'reported_title': title, 'reported_author': author, 'raw_line': line.strip()}
+                    if target in {'history-books-ancient-world', 'history-books-ancient-rome', 'history-books-england'}:
+                        row['reported_title'] = re.sub(r'\s*\(\d{4}\)\s*$', '', title).strip()
+                        if author == 'The Cambridge Ancient History' and title == 'multi-volume series':
+                            row['reported_title'], row['reported_author'] = author, ''
                     if target in {'history-books-social', 'books-philosophy-of-language', 'books-philosophy-of-mathematics', 'essay-all-time'}:
                         row['reported_title'] = re.sub(r'\s*\([^)]*(?:\d{3,4}|BCE|lectures?|eds?\.)[^)]*\)\s*$', '', title).strip()
                         row['reported_title'] = re.sub(r'\s*,\s*especially\s+.*$', '', row['reported_title'], flags=re.I)

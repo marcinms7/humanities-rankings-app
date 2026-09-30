@@ -1,0 +1,80 @@
+name: Deliberate quality checks
+
+# Keep suites deliberate and isolated; browser verification remains with the owner.
+on:
+  workflow_dispatch:
+    inputs:
+      run_tests:
+        description: Run isolated regression suites as well as build and contract checks
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    env:
+      SQLITE_PATH: ${{ runner.temp }}/marginalia-quality.sqlite3
+      CATALOG_SEARCH_INDEX: ${{ runner.temp }}/marginalia-quality-search.sqlite3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+      - run: pip install -r requirements.txt
+      - run: npm --prefix frontend ci --ignore-scripts
+      - run: python manage.py check
+      - run: python manage.py makemigrations --check --dry-run
+      - run: python manage.py export_frontend_contracts --check
+      - run: npm --prefix frontend run build
+      - run: npm --prefix frontend run lint --if-present
+      - run: npm --prefix frontend run format:check --if-present
+      - if: ${{ inputs.run_tests }}
+        run: npm --prefix frontend run test:unit
+
+  regressions:
+    if: ${{ inputs.run_tests }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        database: [sqlite, postgres]
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_DB: marginalia_ci
+          POSTGRES_USER: marginalia_ci
+          POSTGRES_PASSWORD: disposable-ci-only
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+    env:
+      SQLITE_PATH: ${{ runner.temp }}/marginalia-regressions.sqlite3
+      POSTGRES_HOST: ${{ matrix.database == 'postgres' && '127.0.0.1' || '' }}
+      POSTGRES_DB: marginalia_ci
+      POSTGRES_USER: marginalia_ci
+      POSTGRES_PASSWORD: disposable-ci-only
+      MEDIA_ROOT: ${{ runner.temp }}/marginalia-test-media
+      CATALOG_SEARCH_INDEX: ${{ runner.temp }}/marginalia-test-search.sqlite3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python manage.py test backend.core
+      - run: python -m unittest discover -s tests

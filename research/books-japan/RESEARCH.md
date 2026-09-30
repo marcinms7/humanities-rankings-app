@@ -1,5 +1,7 @@
 # Books · Japan — owner-paste intake, 13 September 2026
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 ## Audited owner revision — 14 September 2026
 
 The owner supplied an expanded and audited Top 100 revision, preserved at `../incoming/books-japan/2026-09-14-owner-chat-audited-revision/report.txt` with SHA-256 `2542650f4e2ad8a230ecf384a5bcd2741ed64fcf83928f6a15f76bd667e58afd`. It retains and audits the earlier 132 identifiers and adds 127 reported consulted sources. The live target ledger now has **259 retained records, 153 eligible records**, and the revised 100-place selection is published at **revision 3**.

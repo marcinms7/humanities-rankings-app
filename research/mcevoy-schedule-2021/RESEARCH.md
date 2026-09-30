@@ -1,5 +1,7 @@
 # Hardcore Literature · 2021 book-club readings
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Verified and imported 13 September 2026: **14 active entries**, revision **2**.
 
 Verified 2021 book-club readings and named supplementary works, in dated introduction order. Includes Middlemarch’s November serial-reading guide; the reading continued in 2022. Partial: the complete original syllabus is member-only, and the public sitemap stops in February 2022.

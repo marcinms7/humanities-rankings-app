@@ -1,5 +1,7 @@
 # Books · Chinese-language tradition — owner-paste intake, 13 September 2026
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 ## Audited revision — 14 September 2026
 
 The owner-supplied revised Top 100 is preserved verbatim at `research/incoming/books-china/2026-09-14-owner-chat-audited-revision/report.txt` (SHA-256 `e28e86118df889db65ad7fe08bdf8165fe2b276fec0530af065ce181b8ac0d59`). It updates every prior `CHINA-001`–`CHINA-128` source record and adds `CHINA-129`–`CHINA-244`; the resulting ledger retains all **244 supplied records**. The report's audited status makes 30 of the earlier records and all 116 additions eligible, while metadata, shell and unavailable records remain retained but uncounted. `CHINA-245`, a directly read MCLC academic review, was added as a narrow supplementary entry-validation source for *Chronicle of a Blood Merchant*, whose supplied sole citation was a metadata-only directory lead. It brings the target to **245 retained / 147 eligible** without changing the supplied audit status for `CHINA-102`.

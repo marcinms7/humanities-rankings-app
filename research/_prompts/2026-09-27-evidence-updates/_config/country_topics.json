@@ -1,0 +1,471 @@
+{
+  "books-every-country": {
+    "priority": 1,
+    "issue_summary": "The current publication has 208 country/literary-region sections, 624 local positions and 617 distinct works. Of 1,395 retained source records, only 12 are currently eligible, all Wikipedia extracts; only eight sections link any of these, while 200 have no eligible linked source. The 12 records are section-level context, not proof of every associated book or local rank.",
+    "tasks": [
+      "Audit all 208 sections separately. Preserve the supplied countries/literary regions and local rank 1–3 structure; return a complete revised section table with the same stable section identifiers and an explanation for any proposed boundary or naming change.",
+      "Use each section's full existing source bundle as the starting point. Locate and read substantive originals behind the 1,383 search/metadata leads; retain failed or unavailable leads with an honest status. Do not treat all 1,395 links as consulted evidence.",
+      "Map sources to specific works, country affiliation, inclusion and comparative local placement. Explain when a source supports only identity or literary context. Wikipedia extracts alone do not establish a top-three consensus.",
+      "Seek relevant local-language criticism, national literary institutions, published canons, anthologies, prizes and established lists, especially for the 200 sections without currently eligible evidence; record dependencies among copied lists.",
+      "Reassess the existing ESTABLISHED, PROVISIONAL and LIMITED confidence labels from actual evidence. Keep a provisional third choice or an explicit unresolved position where support is thin; do not fabricate confidence or silently delete a country to obtain a cleaner result.",
+      "Preserve cross-country recurrence through one work identity with multiple section placements. Distinguish diaspora, colonial, linguistic and disputed affiliations in explanatory notes, and retain collective or anonymous attribution without inventing authors."
+    ],
+    "desired_scope": "Top three books/works within each of the existing 208 country or literary-region sections, aiming to preserve the breadth of 624 local placements as evidence permits. This is a grouped collection of country-level comparisons, never a global 1–624 merit ranking. English availability is useful metadata, not a universal eligibility requirement."
+  },
+  "books-africa": {
+    "priority": 1,
+    "issue_summary": "149 published entries and 255 eligible source records; 170 of those records are search-result URLs (150 Goodreads searches and 20 Douban searches). All entries repeat the same five corpus-level references, including the original Africa's 100 Best Books list and a Goodreads reproduction.",
+    "tasks": [
+      "Reclassify the 170 search-result records as discovery leads unless substantive evidence is actually accessed; locate the intended direct pages and describe what each contributes.",
+      "Recover the original Africa's 100 Best Books selection and distinguish its institutional process, period coverage and ordering from Goodreads mirrors or independent reader votes. Do not count a copied list as a second independent judgement.",
+      "Build a work-level support map for all current candidates and credible omissions using African literary institutions, criticism, awards, anthologies and established national/regional lists, with attention to North Africa and multiple African languages.",
+      "Audit authorship, title variants, collective texts and English-translation availability; preserve important unresolved candidates with explicit metadata tasks.",
+      "Reassess the broad order across the full pool and explain strong disagreements between scholarly/canonical and reader-oriented evidence."
+    ],
+    "desired_scope": "A broad African literary ranking at least comparable in ambition to the current roughly 150-entry selection, across regions, periods and languages; preserve the Africa scope rather than replacing it with only Anglophone fiction."
+  },
+  "books-germany": {
+    "priority": 2,
+    "issue_summary": "100 entries and 103 eligible source records, including 17 search URLs (10 Goodreads searches, six Douban searches and one JSTOR search). Every entry repeats five references, several of which are newspaper category/topic pages.",
+    "tasks": [
+      "Resolve the 17 search URLs to substantive originals or retain them as uncounted leads; inspect category pages and topic archives for the exact underlying articles or lists.",
+      "Extract the actual selections and positions from DER SPIEGEL, Der Kanon and other relevant sources; document dependencies between a list, its commentary and its reproduction.",
+      "Replace the identical five-reference bundle with candidate-specific support, giving a precise reason for each work's connection to the Germany target.",
+      "Audit cross-border German-language authors rather than assuming that German language automatically means Germany; explain any Austrian, Swiss or historical-border exceptions.",
+      "Compare current entries with major omissions while retaining stable identities and explicit translation/edition uncertainties."
+    ],
+    "desired_scope": "A broad ranking of works with documented German literary-cultural association, around the current 100-entry scale unless evidence supports a well-explained adjustment; not an unexplained ranking of every German-language work."
+  },
+  "books-southeast-asia": {
+    "priority": 2,
+    "issue_summary": "150 entries and 268 eligible records, all marked summary_only with generic reported-consultation notes. Goodreads and Reddit supply 121 records; every entry repeats the same five syllabus/context references. Those sources require individual review, not automatic rejection by access label or platform.",
+    "tasks": [
+      "Map the current candidate pool to actual source passages and lists rather than reusing the five opening syllabus references for every entry.",
+      "Review Goodreads list/tag/shelf pages and Reddit discussions for concrete relevant content and independence; distinguish mere navigation pages from substantive reader evidence.",
+      "Seek and use local-language literary institutions, criticism, translated anthologies and established lists across Southeast Asian countries; identify weakly represented countries and traditions without inventing equal quotas.",
+      "Audit national, diaspora and language affiliations and distinguish an original work from its English translation or collected edition.",
+      "Explain how the final broad comparison handles very uneven international visibility, reader popularity and English translation availability."
+    ],
+    "desired_scope": "A broad Southeast Asian literary selection at approximately the current 150-entry scale, preserving regional breadth and transparently documented country/language connections."
+  },
+  "books-south-america": {
+    "priority": 2,
+    "issue_summary": "150 entries and 260 eligible records all carry summary_only reported-consultation status; nine are search/index leads and every entry repeats the first five references. Saved notes explicitly leave direct verification and work-level mapping pending.",
+    "tasks": [
+      "Audit the full source register, including Google Scholar/JSTOR search leads, and recover substantive publications without promoting a search result or home page into evidence.",
+      "Map published lists, criticism, prizes and academic evidence to individual works and explain any copied-list dependencies.",
+      "Keep geographic scope exact: South America includes Brazil, the Guianas and relevant Indigenous traditions; Mexico, Central America and the Caribbean require exclusion or an explicitly justified cross-regional affiliation.",
+      "Check the breadth of Spanish-, Portuguese-, French-, English-, Dutch- and Indigenous-language traditions as relevant, rather than treating Hispanic Latin America as the whole continent.",
+      "Reassess major omissions and ordering across the full 150-entry pool, retaining uncertain editions and affiliations as explicit tasks."
+    ],
+    "desired_scope": "A broad geographic South American ranking around the current 150-entry scale, explicitly including French Guiana and excluding works supported only by Mexican, Central American or Caribbean affiliation."
+  },
+  "books-england": {
+    "priority": 2,
+    "issue_summary": "100 entries, 247 retained records and 167 eligible records. The Greatest Books hosts 129 eligible URLs; all entries cite the same five Guardian lists. Aggregator-host concentration is not itself disqualifying, but independence, source relevance and actual candidate coverage remain unclear.",
+    "tasks": [
+      "Trace The Greatest Books pages to their underlying published lists, preserving their original names, dates, scope and rank positions; do not count one publisher's list again through multiple mirrors.",
+      "Audit each Guardian and aggregator source for English literary-cultural relevance, since an English-language or British/world list is not automatically an England list.",
+      "Map evidence to each candidate's inclusion and comparative standing, avoiding a universal five-list citation bundle.",
+      "Review major omissions across novels, poetry, drama, essays and other already permitted forms, and document historical or diaspora affiliations.",
+      "Preserve the distinction between England, Britain, the United Kingdom and English-language literature in the final report."
+    ],
+    "desired_scope": "A broad roughly 100-work England ranking across the currently permitted literary forms, using documented literary-cultural association rather than language alone."
+  },
+  "books-arabic": {
+    "priority": 2,
+    "issue_summary": "98 current entries and 207 eligible reported consultations. Candidate-specific references exist, but all source access claims remain summary_only and externally reported. Arabian Nights and The Mu'allaqat were retained as unresolved collective/anonymous candidates.",
+    "tasks": [
+      "Audit the existing candidate-specific mappings against actual content and revise generic or unsupported source claims without discarding useful summaries solely because of their access label.",
+      "Revisit Arabian Nights and The Mu'allaqat as collective/anonymous works, recording their corpus boundaries and translation variants without inventing personal authors.",
+      "Compare classical, modern and contemporary Arabic-language traditions across regions, using Arabic-language criticism and published canons where accessible.",
+      "Distinguish the language of composition from an author's nationality or Arab identity; justify every non-Arabic-language exception explicitly.",
+      "Separate a whole collection or corpus from an individual poem, story or essay to prevent duplicate or incomparable entries."
+    ],
+    "desired_scope": "A broad Arabic literary-tradition ranking around 100 works, including the already permitted books, collections, poetry, plays, stories and essays; Arabic composition is the default scope with documented exceptions."
+  },
+  "books-caribbean": {
+    "priority": 3,
+    "issue_summary": "50 entries and 225 eligible sources with substantially more specific mapping than generic imports: 132 distinct linked sources and 49 distinct citation bundles. Access claims are still externally reported and need targeted confirmation.",
+    "tasks": [
+      "Preserve the existing detailed candidate mapping and source identifiers, auditing disputed, thinly supported and high-impact claims first.",
+      "Check regional and diaspora affiliations across Anglophone, Francophone, Hispanophone, Dutch-language and Creole traditions; explain border cases.",
+      "Distinguish primary texts, publisher metadata and reviews from actual comparative or canonical evidence.",
+      "Review major omissions and close ordering decisions using relevant Caribbean criticism and established regional/national lists.",
+      "Keep translation availability and collection boundaries explicit without using missing cover or edition metadata as a merit criterion."
+    ],
+    "desired_scope": "A carefully supported Caribbean and documented Caribbean-diaspora ranking around the existing 50-work scale, across its currently permitted literary forms."
+  },
+  "books-china": {
+    "priority": 3,
+    "issue_summary": "The audited revision already has 100 entries, 245 retained records and 147 eligible sources, with 101 distinct linked sources and 85 citation bundles. Earlier metadata/failed records remain correctly retained but uncounted; reported access is not proof of independent local rereading.",
+    "tasks": [
+      "Build on the audited revision rather than reverting to the older 97-entry selection or wholesale requalifying its excluded leads.",
+      "Review weaker candidate mappings, including reliance on primary-text repositories: a readable primary text can verify identity or contents but does not alone establish canonical rank.",
+      "Preserve the audit distinction between substantive access and metadata, shell or unavailable pages; investigate useful excluded leads individually.",
+      "Maintain mainland China, Hong Kong and Taiwan within the wider Chinese-language tradition, documenting language and cultural affiliation rather than imposing a passport test.",
+      "Preserve the authorless treatment of collective/classical corpora and reconcile original titles, English titles, translations and corpus boundaries to stable work identities."
+    ],
+    "desired_scope": "The audited Top 100 Chinese-language literary tradition, including mainland China, Hong Kong and Taiwan and the currently allowed forms; improve evidence and justified omissions without reverting to superseded intake limitations."
+  },
+  "books-france": {
+    "priority": 2,
+    "issue_summary": "100 entries and 130 eligible source records all marked summary_only; every entry repeats the same five references and generic reported-consultation note.",
+    "tasks": [
+      "Audit the complete source pool and replace the repeated five-reference bundle with actual work-level inclusion and comparative support.",
+      "Use relevant French-language canons, criticism, institutional lists and independent reader evidence; track copied rankings and publisher lists separately.",
+      "Distinguish France-specific association from the whole Francophone world and justify cross-border or diaspora cases.",
+      "Check work/title identities, translations and collection boundaries before proposing additions or removals.",
+      "Reassess important omissions and explain source disagreement rather than merely maintaining the supplied ordinal positions."
+    ],
+    "desired_scope": "A broad France-associated literary ranking around the existing 100-book scale, with explicit treatment of Francophone or historical-border exceptions."
+  },
+  "books-india": {
+    "priority": 2,
+    "issue_summary": "100 entries and 188 eligible records all marked summary_only; the same five references and generic evidence note are repeated throughout the selection.",
+    "tasks": [
+      "Map every retained selection to substantive candidate evidence from the supplied ledger and additional relevant sources where current coverage is absent.",
+      "Audit representation across India's literary languages, regions and periods, using local-language criticism, institutions, anthologies and established lists rather than equating India with English-language publishing.",
+      "Explain historical, partition-era and diaspora affiliations and distinguish India from the wider South Asian region.",
+      "Handle epics, religious/classical corpora, oral or collective works and modern books with transparent work boundaries and authorship.",
+      "Record English translation evidence separately from literary merit and keep major candidates with unresolved edition details visible."
+    ],
+    "desired_scope": "A broad India-associated literary ranking around the current 100-book scale, with multilingual and historical scope clearly explained."
+  },
+  "books-ireland": {
+    "priority": 2,
+    "issue_summary": "49 entries, 239 retained sources and 131 eligible sources; all eligible records are summary_only and every entry repeats the first five references.",
+    "tasks": [
+      "Audit both eligible records and retained leads, keeping unverified leads distinct and replacing generic citations with specific candidate evidence.",
+      "Clarify Ireland's island-wide, historical and diaspora literary scope without silently conflating it with England or restricting it by current citizenship.",
+      "Compare Irish- and English-language traditions and the permitted poetry, drama, stories, essays and books.",
+      "Investigate any retained unresolved candidate behind the current 49-entry publication before assuming the report intentionally selected only 49.",
+      "Explain strong candidates, contested placements and important omissions from actual Irish literary criticism and established published selections."
+    ],
+    "desired_scope": "An Irish literary-cultural selection around 50 works across the currently permitted forms, with transparent island, historical and diaspora affiliations."
+  },
+  "books-italy": {
+    "priority": 2,
+    "issue_summary": "100 entries and 145 eligible reported consultations all marked summary_only; all entries repeat the same five sources with a generic evidence note.",
+    "tasks": [
+      "Audit the actual content and independence of the source register and build candidate-specific support for the selection and ordering.",
+      "Use Italian-language criticism, institutional histories, canons and established published lists alongside justified international evidence.",
+      "Distinguish modern Italy from earlier Italian literary-cultural traditions and explain dialect, Latin-language or historical-border inclusions.",
+      "Check title variants, multi-part works and collected editions so alternate translations do not create duplicate candidates.",
+      "Review major omissions across periods without treating popularity or English availability as the sole measure of standing."
+    ],
+    "desired_scope": "A broad Italian literary-cultural ranking around the existing 100-book scale, with explicit treatment of pre-unification and language boundaries."
+  },
+  "books-japan": {
+    "priority": 3,
+    "issue_summary": "The audited revision has 100 entries, 259 retained sources and 153 eligible sources, with 129 distinct linked sources and 97 citation bundles. Its C/B/M/X/W access statuses and detailed work mapping already improve on the older corpus-level import.",
+    "tasks": [
+      "Preserve the audited revision and its source-status distinctions; do not revive superseded exclusions or count metadata/failed/wrong-target sources automatically.",
+      "Audit thin, disputed and high-impact candidate evidence while preserving valid detailed mappings.",
+      "Distinguish primary-text access, biographical pages and publisher records from evidence of reception, comparison and canonical standing.",
+      "Preserve intentionally collective/anonymous classical works and reconcile Japanese titles, English titles and translations to existing identities.",
+      "Review justified omissions across periods and forms, noting the selection effects of translation availability and international visibility."
+    ],
+    "desired_scope": "The current audited Top 100 Japanese literary-cultural works across the permitted forms, improving evidence and comparative explanation without reverting to the older 98-entry intake."
+  },
+  "books-poland": {
+    "priority": 3,
+    "issue_summary": "The audited revision has 100 entries, 241 retained sources and 149 eligible sources, with 123 distinct linked sources and 97 citation bundles. It already distinguishes TEXT/ABSTRACT evidence from metadata or failed access and reconciles original Polish and English titles.",
+    "tasks": [
+      "Preserve the audited current revision, valid source mappings and existing work identities rather than reconstructing the earlier unreviewed selection.",
+      "Audit weaker or disputed candidate claims and separate full/abstract evidence from metadata, inaccessible pages and primary-text-only support.",
+      "Use Polish-language literary criticism and institutional evidence to assess close placements and significant omissions.",
+      "Preserve the anonymous medieval chronicle and explain historical-border, exile and diaspora affiliations.",
+      "Reconcile original titles, common English translations and collection boundaries without creating duplicate works or treating a title change as a new candidate."
+    ],
+    "desired_scope": "The current audited Top 100 Polish literary-cultural works across the permitted forms, retaining documented historical and diaspora scope."
+  },
+  "books-russian": {
+    "priority": 3,
+    "issue_summary": "99 entries and 220 eligible sources, with 169 distinct linked sources and 98 citation bundles. This mapping is more specific than generic imports, but access claims are externally reported. The Tale of Igor's Campaign remains a retained unresolved collective/anonymous candidate in the saved intake.",
+    "tasks": [
+      "Audit existing specific mappings and source claims, giving special attention to dependence on a single canon project or repeated reviews.",
+      "Revisit The Tale of Igor's Campaign with anonymous/uncertain attribution and clear work boundaries rather than inventing an author.",
+      "Preserve the Russian literary-tradition scope, including documented emigre contexts, without making present-day nationality or political borders the sole membership test.",
+      "Distinguish original-language criticism and canonical evidence from translation marketing, metadata and reader popularity.",
+      "Reassess omissions and close positions across the permitted forms and periods while retaining stable work identities."
+    ],
+    "desired_scope": "A broad Russian literary-tradition ranking around 100 works, including emigre literature and the currently permitted forms, with documented language and cultural association."
+  },
+  "books-scotland": {
+    "priority": 2,
+    "issue_summary": "50 entries, 270 retained records and 50 directly qualified eligible sources. The other 220 remain deliberate discovery leads. The qualified evidence provides literary context, but all entries still repeat the same five references and exact ranks are not established.",
+    "tasks": [
+      "Preserve the distinction between the 50 qualified sources and 220 prospective leads; source-count expansion is not the main objective.",
+      "Map qualified sources to actual works and separate literary-historical context from evidence for inclusion or comparative rank.",
+      "Investigate the most useful retained leads for uncovered or disputed candidates rather than attempting to count every available URL.",
+      "Represent Scots, Scottish Gaelic and English-language traditions as supported, and explain historical or diaspora associations.",
+      "Reassess the current Top 50 and important omissions using concrete Scottish literary criticism, published canons and relevant independent evidence."
+    ],
+    "desired_scope": "A broad Scottish literary-cultural Top 50 across the permitted forms, with language and historical affiliation made explicit and rankings honestly qualified."
+  },
+  "books-turkish-tradition": {
+    "priority": 2,
+    "issue_summary": "100 entries and 137 eligible reported consultations, all summary_only; every entry repeats the first five sources with a generic note.",
+    "tasks": [
+      "Audit the complete ledger and map evidence to individual works rather than retaining a uniform opening-source bundle.",
+      "Use Turkish-language criticism, institutional literary histories, published canons and relevant independent reader evidence.",
+      "Clarify the continuity and boundaries of Turkish, Ottoman and Oghuz Turkish traditions; explain historical-border, diaspora and language exceptions.",
+      "Distinguish original works from translations, modernizations, selections and collective/oral corpora, preserving honest attribution.",
+      "Assess major omissions and contested placements with direct comparative evidence rather than raw platform ratings alone."
+    ],
+    "desired_scope": "A broad roughly 100-work Turkish and Ottoman/Oghuz Turkish literary-tradition ranking, using documented literary-cultural association."
+  },
+  "books-united-states": {
+    "priority": 2,
+    "issue_summary": "100 entries and 113 eligible records all marked summary_only; the same five citations and generic evidence note appear on every entry.",
+    "tasks": [
+      "Review actual source content and map the current selection to direct evidence of inclusion, reception and comparative standing.",
+      "Use established American literary lists and criticism while tracing mirrors and aggregators back to their underlying publications.",
+      "Audit regional, Indigenous, African American, immigrant and other traditions using relevant evidence rather than a mechanical demographic quota.",
+      "Explain citizenship, residence, diaspora and pre-national historical cases instead of equating English-language literature with the United States.",
+      "Check major omissions, title variants and collected-work boundaries before proposing a revised broad ordering."
+    ],
+    "desired_scope": "A broad United States-associated literary ranking around the existing 100-book scale, with cultural and historical affiliation transparently documented."
+  },
+  "books-ancient": {
+    "priority": 2,
+    "issue_summary": "130 published entries from a saved 150-candidate report, with 221 eligible reported consultations all marked summary_only and the same five references on every entry. Twenty composite or anonymous attributions were retained unresolved at intake.",
+    "tasks": [
+      "Reconcile the saved 150-candidate pool with current publication and revisit all 20 unresolved collective/composite cases without inventing personal authors.",
+      "Map sources to individual ancient works and distinguish primary textual evidence, modern scholarly evaluation and reader lists.",
+      "Preserve the global ancient scope rather than substituting a Greco-Roman-only canon; explain composition dates, oral transmission and uncertain redaction periods.",
+      "Distinguish entire corpora, collections, books, plays and poems and prevent overlap from silently double-counting a corpus and its component texts.",
+      "Compare major omissions and alternatives across the full pool; do not treat missing modern editions or covers as grounds for excluding significant works."
+    ],
+    "desired_scope": "Ancient works composed or originating broadly before 600 CE, across books, poems, plays and collections and across world traditions, aiming to resolve the original approximately 150-work ambition with honest attribution."
+  },
+  "books-medieval": {
+    "priority": 2,
+    "issue_summary": "100 entries and 118 eligible reported consultations all marked summary_only; every entry repeats five Goodreads list or tag sources. This target is medieval literary/cultural works, distinct from modern books about medieval history.",
+    "tasks": [
+      "Audit the source ledger for actual support of medieval primary works and exclude modern historical studies from the candidate set unless a scope exception is explicitly proposed.",
+      "Replace the repeated five-reference bundle with evidence for each work's identity, inclusion, reception and comparative place.",
+      "Use global literary scholarship and relevant local-language canons across roughly 500–1500 CE, explaining how regional period boundaries differ.",
+      "Handle anonymous, collective, oral and redacted texts through explicit attribution and date ranges rather than fictitious certainty.",
+      "Review translations and collection boundaries separately from merit, and identify major omitted traditions and candidates."
+    ],
+    "desired_scope": "A global medieval literary/cultural ranking around 100 works, broadly 500–1500 CE with explicit regional dating caveats; not the separate history-books-medieval ranking."
+  },
+  "books-victorian": {
+    "priority": 2,
+    "issue_summary": "150 entries and 229 eligible reported consultations all marked summary_only; all entries repeat five reader-list references. The current scope is British and Irish Victorian literature, 1837–1901.",
+    "tasks": [
+      "Audit list scope carefully: general nineteenth-century and world-classics lists may include works outside Victorian dates or the British/Irish target.",
+      "Map source evidence to individual candidates and trace reproduced published lists to their original judgements.",
+      "Compare literary forms and important omissions rather than assuming the available Victorian-novel lists cover the full intended literary world.",
+      "Check serial publication dates, collected editions, title variants and works spanning the period boundaries.",
+      "Use relevant period scholarship and established critical selections alongside independent reader reception, explaining contested comparisons."
+    ],
+    "desired_scope": "A broad British and Irish Victorian literary ranking around 150 works, with the existing 1837–1901 period and any boundary exceptions explicitly justified."
+  },
+  "books-historical-fiction": {
+    "priority": 1,
+    "issue_summary": "99 entries and 263 eligible records, including 142 Google search URLs. Every entry repeats five pages from the same Five Books category pagination rather than distinct work-specific evidence.",
+    "tasks": [
+      "Resolve the 142 search URLs to intended substantive pages or retain them as uncounted leads, recording any nonexistent or mismatched target.",
+      "Replace Five Books category pagination with the actual expert interviews or lists and distinguish separate recommendations from repeated navigation pages.",
+      "Map every retained candidate to substantive evidence and explain the historical-fiction classification, including border cases with contemporary-at-publication novels or mythic retellings.",
+      "Audit the current 99-work selection against the supplied report for unresolved or duplicate candidates before interpreting the size as intentional.",
+      "Compare credible omissions across historical periods, geographic settings and literary traditions using established genre criticism, awards and published lists."
+    ],
+    "desired_scope": "A broad historical-fiction ranking around the current 100-work ambition, with a clear genre definition and justified treatment of boundary cases; distinguish it from nonfiction history rankings."
+  },
+  "history-books-ancient-rome": {
+    "priority": 1,
+    "issue_summary": "100 entries and 226 eligible records, including 170 Google search URLs. The visible catalog also contains inverted title/author pairs, including Ronald Syme / The Roman Revolution and Mary Beard / SPQR. Every entry repeats the same five references.",
+    "tasks": [
+      "First audit every candidate's title and author against authoritative bibliographic sources. Return an explicit old-record-to-correct-work reconciliation table for inverted pairs, aliases and duplicates, preserving existing identifiers for the importer to reconcile.",
+      "Resolve the 170 Google search URLs to substantive sources or retain them as uncounted leads; do not count an intended institution named in a search query as a consulted source.",
+      "Map actual scholarly reviews, specialist recommendations, reading lists and other substantive evidence to each candidate and explain comparative standing.",
+      "Remove accidental historical-fiction contamination from nonfiction history evidence, and clearly label any justified ancient primary-source candidates rather than silently mixing them with modern scholarship.",
+      "Review coverage of the Republic, Empire, late antiquity, social and economic history, archaeology and institutions; explain superseded scholarship and enduring historiographical value separately."
+    ],
+    "desired_scope": "A broad roughly 100-book Ancient Rome history ranking covering the Republic and Empire and justified late-antique boundaries, with corrected bibliographic identities and explicit distinctions between modern histories, primary sources and fiction."
+  },
+  "history-books-medieval": {
+    "priority": 1,
+    "issue_summary": "50 entries and 137 eligible source records, including 108 search URLs: 92 Google, nine Goodreads and seven Douban. All entries repeat the first five references, two of which are Google searches.",
+    "tasks": [
+      "Recover substantive originals behind the 108 search URLs and retain unresolved searches as discovery leads, with corrected eligibility and provenance.",
+      "Map genuine specialist recommendations, scholarly reviews and syllabi to individual books, distinguishing background course pages from specific recommendations.",
+      "Audit title/author identities and detect fiction or medieval primary works that have been confused with modern history books.",
+      "Preserve cross-regional medieval history and explain differing regional period boundaries instead of universalizing a European chronology.",
+      "Reassess the current Top 50, important omissions and older scholarship in light of current historical understanding, while separately recording lasting historiographical importance."
+    ],
+    "desired_scope": "A roughly 50-book ranking of histories of the medieval world across regions; distinct from the primary literary/cultural works in books-medieval."
+  },
+  "history-books-ancient-world": {
+    "priority": 2,
+    "issue_summary": "100 entries and 230 eligible reported consultations all marked summary_only. Every entry repeats five general university reading-list references rather than a specific candidate evidence map.",
+    "tasks": [
+      "Map actual items and recommendations from the supplied reading lists and scholarly sources to the books they support.",
+      "Preserve the secondary-history-only scope and distinguish histories from ancient primary texts, historical fiction and general archaeological reference material.",
+      "Audit geographic breadth beyond Greece and Rome, including relevant ancient Near Eastern, African, Asian and American histories according to justified chronological scope.",
+      "Explain the evidentiary status of older classics: enduring historiographical influence is separate from current reliability.",
+      "Review major omissions, title/author identities and multi-volume work boundaries before proposing revised positions."
+    ],
+    "desired_scope": "A broad approximately 100-book secondary-history ranking of the ancient world across regions, with explicit regional chronology and scope."
+  },
+  "history-books-chinese-history": {
+    "priority": 2,
+    "issue_summary": "49 entries and 120 eligible records, all summary_only reported consultations. Every entry repeats five prize/archive references, which cannot automatically support all current books.",
+    "tasks": [
+      "Extract actual prize winners and relevant citations rather than assigning prize-archive support to every entry.",
+      "Map scholarly reviews, specialist recommendations, reading lists and other substantive evidence to individual candidates.",
+      "Preserve secondary history as the candidate scope and distinguish primary chronicles, historical fiction and general literature.",
+      "Review chronological breadth, social/economic/cultural/political history and clearly justified geographic boundaries, using Chinese-language scholarship where useful and accessible.",
+      "Reconcile the 49 published entries against the supplied candidate pool and assess significant omissions before choosing the revised scale."
+    ],
+    "desired_scope": "A broad roughly 50-book secondary-history ranking on Chinese history, with explicit chronological, geographic and thematic scope and English-edition evidence recorded separately."
+  },
+  "history-books-england": {
+    "priority": 2,
+    "issue_summary": "100 entries and 218 eligible reported consultations all marked summary_only; all entries repeat five university reading-list or syllabus references, including sources covering the wider British Isles.",
+    "tasks": [
+      "Extract book-level recommendations from the actual syllabi and reading lists and map them to individual entries.",
+      "Distinguish England-specific histories from histories of Britain, Ireland, the United Kingdom or the empire; explain cross-border works' relevance rather than assuming equivalence.",
+      "Preserve secondary-history scope and identify primary documents, historical fiction or reference works that require explicit treatment.",
+      "Review chronology and political, social, economic, cultural and environmental coverage using specialist criticism and established recommendations.",
+      "Audit bibliographic identities, outdated scholarship and major omissions before reassessing the full ordering."
+    ],
+    "desired_scope": "A broad approximately 100-book secondary-history ranking of England, with clearly justified use of wider British, imperial or comparative histories."
+  },
+  "history-books-london": {
+    "priority": 2,
+    "issue_summary": "50 entries and 266 eligible reported consultations all marked summary_only; every entry repeats the same five sources despite the large register.",
+    "tasks": [
+      "Audit the full register and map actual Londonist, specialist, scholarly and published-list evidence to specific books.",
+      "Separate nonfiction urban history from novels, travel recommendations, guidebooks and general London-themed reader lists.",
+      "Compare coverage across periods, communities, class, migration, economy, built environment and cultural life using relevant evidence.",
+      "Distinguish a source's popularity claim from scholarly reliability or importance and explain major disagreements.",
+      "Check title/author identities, revised editions and major omissions before proposing a new Top 50."
+    ],
+    "desired_scope": "A roughly 50-book history of London ranking across urban, social, cultural, political and economic history, with explicit treatment of genre boundaries."
+  },
+  "history-books-social": {
+    "priority": 2,
+    "issue_summary": "50 entries, 243 retained sources and 123 eligible reported consultations; 120 search/index records are already correctly uncounted. All entries repeat the same five source references and detailed candidate mapping is pending.",
+    "tasks": [
+      "Preserve the existing exclusion of 120 search/index leads; investigate them only when they can yield substantive, relevant evidence.",
+      "Map scholarly reviews, specialist recommendations and reading-list selections to individual works, distinguishing general social-history descriptions from comparative support.",
+      "Review the breadth of everyday life, class, communities, gender, family, labor and social change across regions and periods.",
+      "Clarify borders with sociology, anthropology, economic history and cultural history and justify cross-disciplinary inclusions.",
+      "Separate continuing historiographical influence from current empirical reliability when comparing older landmark works with later scholarship."
+    ],
+    "desired_scope": "A broad approximately 50-book social-history ranking across regions and periods, retaining a clear historical focus and transparent interdisciplinary boundaries."
+  },
+  "history-books-world": {
+    "priority": 2,
+    "issue_summary": "150 entries and 228 eligible records all marked summary_only; all entries repeat five Five Books category or interview references. The saved report is an externally supplied initial synthesis, not an independently audited consensus.",
+    "tasks": [
+      "Resolve category pages to the actual interviews or published lists and map recommendations to their specific candidate books.",
+      "Clarify world/global/comparative history scope: a history of one country or region requires a substantive connected or comparative role to belong here.",
+      "Audit global coverage, connections and period balance without substituting a set of unrelated national histories or imposing mechanical regional quotas.",
+      "Use scholarly reviews and historiographical discussion to distinguish grand narrative appeal, lasting influence and current evidentiary reliability.",
+      "Reassess the full 150-book comparison, significant omissions, multi-volume boundaries and duplicate editions."
+    ],
+    "desired_scope": "A broad roughly 150-book world/global/comparative and connected-history ranking, with explicit criteria for specialist works that contribute to that scope."
+  },
+  "books-epistemology": {
+    "priority": 2,
+    "issue_summary": "100 entries and 163 eligible records all marked summary_only. Every entry repeats five general SEP articles, so the large register does not establish candidate-specific support. Earlier title/author inversion was corrected and should not be reintroduced.",
+    "tasks": [
+      "Audit source content and map actual discussions, bibliographies, reviews and recommendations to individual books and landmark essays.",
+      "Separate SEP background coverage from evidence for a work's influence, reception and comparative standing; a general field article should not be attached indiscriminately to every candidate.",
+      "Preserve corrected title/author identities and distinguish essays from similarly titled books or collections containing them.",
+      "Review coverage across foundational, skeptical, formal, social and other relevant epistemological traditions, explaining inclusion and disciplinary boundary cases.",
+      "Reassess major omissions and close positions with substantive evidence rather than counting bibliography appearances as equivalent endorsements."
+    ],
+    "desired_scope": "A broad approximately 100-work epistemology selection including books and landmark essays, with explicit work boundaries and comparative rationale."
+  },
+  "books-metaphysics": {
+    "priority": 2,
+    "issue_summary": "100 books and 153 eligible records all marked summary_only; every entry repeats the same five SEP sources, several specifically about Plato or Aristotle even when attached to unrelated candidates.",
+    "tasks": [
+      "Replace blanket source attachment with actual book-specific evidence from substantive discussions, reviews, histories and relevant published selections.",
+      "Distinguish a source discussing a philosopher from a source discussing the particular selected work and from a source making a comparative judgement.",
+      "Preserve the current books scope unless a clearly labelled proposal justifies adding essays; do not silently change the unit of comparison.",
+      "Review historical and contemporary metaphysical traditions, including major non-Western candidates where relevant evidence supports them.",
+      "Explain inclusion, influence, disagreements and disputed disciplinary boundaries, and audit translated titles and multipart works."
+    ],
+    "desired_scope": "A broad approximately 100-book metaphysics ranking, with the current book-level scope and any proposed scope changes separated from the main result."
+  },
+  "books-ethics": {
+    "priority": 2,
+    "issue_summary": "98 entries and 138 eligible records all marked summary_only. Every entry repeats five SEP topic articles rather than candidate-specific references; the current corpus mixes books and essays.",
+    "tasks": [
+      "Map substantive source evidence to the specific works and distinguish philosophical context from evidence of influence or comparative standing.",
+      "Check the saved candidate pool for unresolved collective, anonymous or identity cases behind the 98 published entries.",
+      "Review normative, metaethical, applied and historical traditions and justify the boundary between philosophical ethics, religious instruction and political theory.",
+      "Use relevant global traditions on their own scholarly terms, explaining comparison rather than assuming SEP topic coverage itself supplies a ranking.",
+      "Clarify essay/collection boundaries, authorship and translations, and compare major omitted candidates."
+    ],
+    "desired_scope": "A broad roughly 100-work ethics ranking across books and landmark essays, with a clear philosophical focus and transparent treatment of diverse traditions."
+  },
+  "books-philosophy-of-mind": {
+    "priority": 2,
+    "issue_summary": "50 entries and 153 eligible reported consultations all marked summary_only; all entries repeat the same five references.",
+    "tasks": [
+      "Audit the supplied sources and build a work-specific map of substantive discussion, critical reception, influence and recommendations.",
+      "Distinguish philosophy of mind from empirical psychology, neuroscience, cognitive science and popular consciousness writing while justifying relevant cross-disciplinary candidates.",
+      "Preserve landmark essays as distinct works without duplicating them through collected volumes or alternative titles.",
+      "Review historical and contemporary positions and important omissions, explaining philosophical disagreements rather than converting citation frequency into merit.",
+      "Check whether sources actually discuss each selected work rather than only its author or general topic."
+    ],
+    "desired_scope": "A broad roughly 50-work philosophy of mind ranking including books and landmark essays, with explicit interdisciplinary boundaries."
+  },
+  "books-political-philosophy": {
+    "priority": 2,
+    "issue_summary": "50 entries and 133 eligible reported consultations all marked summary_only; every entry repeats the opening five sources.",
+    "tasks": [
+      "Map each candidate to substantive scholarship and reception evidence rather than general political-philosophy background.",
+      "Clarify borders with political history, economics, sociology, legal theory and manifestos; explain rather than conceal cross-disciplinary inclusions.",
+      "Review a broad range of historical and contemporary political traditions using relevant original-language or specialist scholarship where possible.",
+      "Distinguish historical influence, philosophical argument and present endorsement; controversial influence alone does not settle merit.",
+      "Audit book/essay/collection identities and compare credible omissions and close positions."
+    ],
+    "desired_scope": "A broad roughly 50-work political-philosophy ranking including books and landmark essays, with transparent disciplinary and historical scope."
+  },
+  "books-philosophy-of-science": {
+    "priority": 2,
+    "issue_summary": "50 entries and 120 eligible reported consultations all marked summary_only; all entries repeat the same five references.",
+    "tasks": [
+      "Audit source content and map direct discussions, reviews, histories and recommendations to individual books or essays.",
+      "Distinguish philosophy of science from general science popularization and history of science while justifying borderline landmarks.",
+      "Review general methodological questions and the philosophy of particular sciences without allowing one easily sourced subfield to dominate by default.",
+      "Separate a work's historical influence from contemporary acceptance and explain major scholarly disagreements.",
+      "Check essay/collection boundaries, revised editions and important omissions before proposing a revised ordering."
+    ],
+    "desired_scope": "A broad roughly 50-work philosophy of science ranking across books and landmark essays, with clear treatment of general and special sciences."
+  },
+  "books-philosophy-of-mathematics": {
+    "priority": 2,
+    "issue_summary": "20 entries and 132 eligible reported consultations all marked summary_only. Every entry repeats the opening five source references; source volume exceeds the size of the list but work-level support remains undocumented.",
+    "tasks": [
+      "Concentrate on mapping and evaluating existing evidence rather than accumulating a larger source count for its own sake.",
+      "Audit substantive discussions of each book or landmark essay and distinguish philosophy of mathematics from technical textbooks, mathematical results and general logic.",
+      "Review historical and contemporary positions, including rival foundational programmes and practice-oriented approaches where relevant.",
+      "Check essay, collection and multi-volume identities to avoid duplicate work claims.",
+      "Explain important exclusions and close comparative decisions, expanding the candidate pool only where meaningful omissions justify it."
+    ],
+    "desired_scope": "A focused roughly 20-work philosophy of mathematics ranking including books and landmark essays, with evidence-led expansion proposed only where warranted."
+  },
+  "books-philosophy-of-language": {
+    "priority": 2,
+    "issue_summary": "20 entries, 135 retained records and 53 eligible sources independently accessed during intake. The other 82 are intentionally unverified leads. All entries still repeat five sources, including broad bibliography pages.",
+    "tasks": [
+      "Preserve the distinction between the 53 qualified sources and 82 prospective leads; do not label all 135 sources as consulted or reject the 53 merely because their access label is summary_only.",
+      "Map the qualified references to specific works and distinguish bibliography membership, topic discussion, critical engagement and comparative judgement.",
+      "Investigate only useful retained leads needed for unsupported candidates, important omissions or contested comparisons.",
+      "Preserve landmark essays as explicit work units and check overlap with collections, alternative titles and related books.",
+      "Review semantics, reference, meaning, pragmatics and other relevant traditions while justifying borders with linguistics, logic and cognitive science."
+    ],
+    "desired_scope": "A focused roughly 20-work philosophy of language ranking across books and landmark essays, improving specific support and justified omissions rather than chasing a source-count target."
+  }
+}

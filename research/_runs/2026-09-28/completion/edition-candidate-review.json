@@ -1,0 +1,677 @@
+{
+  "reason": "Audit found provider conflation of graded/shortened texts and series/individual-volume identities. Retain candidates and receipts but do not expose unconfirmed editions as reading options.",
+  "candidates": [
+    {
+      "edition_id": 6734,
+      "work_id": 128,
+      "isbn": "0241002516",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6735,
+      "work_id": 77,
+      "isbn": "9780571394388",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6736,
+      "work_id": 714,
+      "isbn": "9781447289463",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6739,
+      "work_id": 82,
+      "isbn": "0385333846",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6757,
+      "work_id": 730,
+      "isbn": "9780374531553",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6786,
+      "work_id": 2,
+      "isbn": "9781535299534",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6787,
+      "work_id": 5,
+      "isbn": "9781091287808",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6790,
+      "work_id": 18,
+      "isbn": "9781721068074",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6795,
+      "work_id": 70,
+      "isbn": "9780679732242",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6813,
+      "work_id": 79,
+      "isbn": "9780863077012",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6816,
+      "work_id": 298,
+      "isbn": "9780785847625",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6817,
+      "work_id": 292,
+      "isbn": "9798650373346",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6818,
+      "work_id": 342,
+      "isbn": "9780802147158",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6819,
+      "work_id": 7,
+      "isbn": "9781408291405",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6820,
+      "work_id": 20,
+      "isbn": "9787511024831",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6821,
+      "work_id": 69,
+      "isbn": "9780375712364",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6822,
+      "work_id": 357,
+      "isbn": "9781976421969",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6823,
+      "work_id": 3187,
+      "isbn": "9781544792378",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6824,
+      "work_id": 3552,
+      "isbn": "9781521924709",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6825,
+      "work_id": 67,
+      "isbn": "9781537429441",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6826,
+      "work_id": 117,
+      "isbn": "9780425021552",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6827,
+      "work_id": 692,
+      "isbn": "9780192835956",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6828,
+      "work_id": 1725,
+      "isbn": "9781440471049",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6829,
+      "work_id": 95,
+      "isbn": "9781398864528",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6841,
+      "work_id": 83,
+      "isbn": "9780241970560",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6844,
+      "work_id": 275,
+      "isbn": "9781520802640",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6846,
+      "work_id": 347,
+      "isbn": "9781544014302",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6849,
+      "work_id": 394,
+      "isbn": "9781512102468",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6850,
+      "work_id": 413,
+      "isbn": "9780141045641",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6851,
+      "work_id": 447,
+      "isbn": "9780232530568",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6853,
+      "work_id": 1152,
+      "isbn": "9780380000302",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6855,
+      "work_id": 21,
+      "isbn": "9780320066542",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6857,
+      "work_id": 154,
+      "isbn": "9780224038294",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6858,
+      "work_id": 276,
+      "isbn": "054792822X",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6859,
+      "work_id": 366,
+      "isbn": "9780140446029",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6860,
+      "work_id": 732,
+      "isbn": "9780571390861",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6861,
+      "work_id": 2104,
+      "isbn": "9780805037586",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6862,
+      "work_id": 4620,
+      "isbn": "9780820704043",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6863,
+      "work_id": 2980,
+      "isbn": "9781548319496",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6864,
+      "work_id": 4821,
+      "isbn": "9781522844808",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6866,
+      "work_id": 728,
+      "isbn": "9781439195260",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6867,
+      "work_id": 747,
+      "isbn": "9780307277923",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6868,
+      "work_id": 1145,
+      "isbn": "0553106201",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6870,
+      "work_id": 5161,
+      "isbn": "9780330485425",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6871,
+      "work_id": 26,
+      "isbn": "9780385474542",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6873,
+      "work_id": 284,
+      "isbn": "9780061120084",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6874,
+      "work_id": 374,
+      "isbn": "9780460006170",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6875,
+      "work_id": 3188,
+      "isbn": "9781522899235",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6876,
+      "work_id": 6,
+      "isbn": "9781462902583",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6877,
+      "work_id": 129,
+      "isbn": "9780393002249",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6878,
+      "work_id": 263,
+      "isbn": "039598078X",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6879,
+      "work_id": 271,
+      "isbn": "9781978127074",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6882,
+      "work_id": 330,
+      "isbn": "9781493599110",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6883,
+      "work_id": 332,
+      "isbn": "9781496007063",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6884,
+      "work_id": 338,
+      "isbn": "0140430636",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6885,
+      "work_id": 777,
+      "isbn": "9780356507460",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6886,
+      "work_id": 1144,
+      "isbn": "9780140077025",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6887,
+      "work_id": 119,
+      "isbn": "9781514371077",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6889,
+      "work_id": 273,
+      "isbn": "9781403739094",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6891,
+      "work_id": 1727,
+      "isbn": "9781324105992",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6892,
+      "work_id": 3193,
+      "isbn": "9781502543288",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6893,
+      "work_id": 4849,
+      "isbn": "9781407109428",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6894,
+      "work_id": 5166,
+      "isbn": "0060976861",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6895,
+      "work_id": 138,
+      "isbn": "9780099910107",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6896,
+      "work_id": 158,
+      "isbn": "9780241951552",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6897,
+      "work_id": 748,
+      "isbn": "9781848940833",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6898,
+      "work_id": 768,
+      "isbn": "9781472258229",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6899,
+      "work_id": 4915,
+      "isbn": "9780140028904",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6900,
+      "work_id": 4982,
+      "isbn": "0345348036",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6901,
+      "work_id": 11,
+      "isbn": "9781794397637",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6902,
+      "work_id": 36,
+      "isbn": "9781979700467",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6903,
+      "work_id": 122,
+      "isbn": "9781398813670",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6904,
+      "work_id": 283,
+      "isbn": "9781434105554",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6905,
+      "work_id": 319,
+      "isbn": "9781984105967",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6906,
+      "work_id": 712,
+      "isbn": "9780008749552",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6907,
+      "work_id": 738,
+      "isbn": "9781526681539",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6908,
+      "work_id": 755,
+      "isbn": "9780061120060",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6909,
+      "work_id": 1157,
+      "isbn": "9780374706098",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6910,
+      "work_id": 4637,
+      "isbn": "9780002216012",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6911,
+      "work_id": 4866,
+      "isbn": "0931771021",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6912,
+      "work_id": 4880,
+      "isbn": "0670833339",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6913,
+      "work_id": 5165,
+      "isbn": "9780007268412",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6914,
+      "work_id": 5619,
+      "isbn": "9781788166355",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6915,
+      "work_id": 3,
+      "isbn": "9781513283296",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6916,
+      "work_id": 103,
+      "isbn": "9780451022721",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6917,
+      "work_id": 118,
+      "isbn": "9780394309682",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6918,
+      "work_id": 295,
+      "isbn": "9788182520318",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6919,
+      "work_id": 334,
+      "isbn": "9781908533739",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6920,
+      "work_id": 358,
+      "isbn": "9781398855953",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6921,
+      "work_id": 425,
+      "isbn": "9781727816662",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6922,
+      "work_id": 650,
+      "isbn": "0929587618",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6923,
+      "work_id": 725,
+      "isbn": "9781409090021",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6924,
+      "work_id": 3096,
+      "isbn": "9781420926446",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6925,
+      "work_id": 3208,
+      "isbn": "9781475059403",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6926,
+      "work_id": 3233,
+      "isbn": "9781778786754",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    },
+    {
+      "edition_id": 6927,
+      "work_id": 4846,
+      "isbn": "9781848941151",
+      "previously_archived": false,
+      "disposition": "archived_pending_publisher_or_library_confirmation"
+    }
+  ]
+}

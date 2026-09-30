@@ -1,0 +1,83 @@
+.saved-filter-picker,
+.saved-filter-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+.saved-filter-picker {
+  margin: 16px 0;
+}
+.saved-filter-picker .field {
+  min-width: min(100%, 230px);
+  margin: 0;
+}
+.saved-filter-manager {
+  margin: 18px 0;
+}
+.saved-filter-manager .toolbar {
+  align-items: end;
+}
+.saved-filter-manager .field {
+  flex: 1;
+  min-width: min(100%, 240px);
+}
+.perspective-comparison {
+  padding: 0 24px 18px;
+}
+.perspective-columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 12px;
+}
+.perspective-column {
+  min-width: 0;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.perspective-column h3 {
+  font-size: 1rem;
+  margin: 0 0 6px;
+}
+.perspective-column p {
+  margin: 8px 0 0;
+}
+.perspective-delta {
+  display: inline-block;
+  font-weight: 600;
+  margin-top: 6px;
+}
+.perspective-delta.changed {
+  color: var(--accent);
+}
+.ranking-page-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 16px 0;
+}
+.ranking-comparison-entry + .ranking-comparison-entry {
+  border-top: 1px solid var(--border);
+}
+@media (max-width: 700px) {
+  .perspective-comparison {
+    padding: 0 14px 16px;
+  }
+  .perspective-columns {
+    gap: 8px;
+  }
+  .perspective-column {
+    padding: 9px;
+  }
+  .saved-filter-picker {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .saved-filter-picker .field {
+    width: 100%;
+  }
+}

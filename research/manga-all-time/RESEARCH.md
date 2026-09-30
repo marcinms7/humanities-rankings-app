@@ -1,5 +1,7 @@
 # Manga · All time — owner-supplied international Top 250 intake
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: published initial selection, revision 2, 13 September 2026.
 
 The owner supplied an international editorial Top 250 of Japanese manga. The report is preserved verbatim in `research/incoming/manga-all-time/2026-09-13-owner-chat-attachment/report.txt`; its SHA-256 is `f2a4c409d70e6f93183c187f169d5934c7e7bd9de695ad2c5d5aa7197b040967`.

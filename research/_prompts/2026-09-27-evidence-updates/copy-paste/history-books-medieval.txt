@@ -1,0 +1,969 @@
+UPDATE REQUEST: Medieval history · Books
+Target ID: history-books-medieval
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 50; current source records: 137 (includes unverified leads).
+Desired scope: A roughly 50-book ranking of histories of the medieval world across regions; distinct from the primary literary/cultural works in books-medieval.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+50 entries and 137 eligible source records, including 108 search URLs: 92 Google, nine Goodreads and seven Douban. All entries repeat the first five references, two of which are Google searches.
+1. Recover substantive originals behind the 108 search URLs and retain unresolved searches as discovery leads, with corrected eligibility and provenance.
+2. Map genuine specialist recommendations, scholarly reviews and syllabi to individual books, distinguishing background course pages from specific recommendations.
+3. Audit title/author identities and detect fiction or medieval primary works that have been confused with modern history books.
+4. Preserve cross-regional medieval history and explain differing regional period boundaries instead of universalizing a European chronology.
+5. Reassess the current Top 50, important omissions and older scholarship in light of current historical understanding, while separately recording lasting historiographical importance.
+
+CURRENT SCOPE
+{"forms": ["book"], "subject": "history", "topic": "medieval", "parent_ranking": "history-books-all-time", "research_priority": "queued_later", "focus": "The medieval period across regions; avoid treating European period boundaries as universal."}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:4309] Feudal Society — Marc Bloch | standing=1; reading=1 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+2. [work:4310] Framing the Early Middle Ages: Europe and the Mediterranean, 400–800 — Chris Wickham | standing=2; reading=2 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+3. [work:4083] The Autumn of the Middle Ages — Johan Huizinga | standing=3; reading=3 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+4. [work:4311] The Making of the Middle Ages — R. W. Southern | standing=4; reading=4 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+5. [work:4312] The Making of Europe: Conquest, Colonization and Cultural Change, 950–1350 — Robert Bartlett | standing=5; reading=5 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+6. [work:4313] The King's Two Bodies: A Study in Mediaeval Political Theology — Ernst H. Kantorowicz | standing=6; reading=6 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+7. [work:4314] Montaillou: Cathars and Catholics in a French Village, 1294–1324 — Emmanuel Le Roy Ladurie | standing=7; reading=7 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+8. [work:4315] The Birth of Purgatory — Jacques Le Goff | standing=8; reading=8 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+9. [work:4316] The Formation of a Persecuting Society: Authority and Deviance in Western Europe, 950–1250 — R. I. Moore | standing=9; reading=9 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+10. [work:4317] Holy Feast and Holy Fast: The Religious Significance of Food to Medieval Women — Caroline Walker Bynum | standing=10; reading=10 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+11. [work:4318] From Memory to Written Record: England 1066–1307 — Michael T. Clanchy | standing=11; reading=11 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+12. [work:4319] Fiefs and Vassals: The Medieval Evidence Reinterpreted — Susan Reynolds | standing=12; reading=12 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+13. [work:4320] The Inheritance of Rome: A History of Europe from 400 to 1000 — Chris Wickham | standing=13; reading=13 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+14. [work:4321] The Rise of Western Christendom: Triumph and Diversity, A.D. 200–1000 — Peter Brown | standing=14; reading=14 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+15. [work:4322] The Three Orders: Feudal Society Imagined — Georges Duby | standing=15; reading=15 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+16. [work:4323] Medieval Civilization, 400–1500 — Jacques Le Goff | standing=16; reading=16 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+17. [work:4324] Mohammed and Charlemagne — Henri Pirenne | standing=17; reading=17 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+18. [work:4325] Categories of Medieval Culture — Aron Gurevich | standing=18; reading=18 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+19. [work:4326] The First European Revolution, c. 970–1215 — R. I. Moore | standing=19; reading=19 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+20. [work:4327] The Commercial Revolution of the Middle Ages, 950–1350 — Robert S. Lopez | standing=20; reading=20 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+21. [work:4328] Communities of Violence: Persecution of Minorities in the Middle Ages — David Nirenberg | standing=21; reading=21 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+22. [work:4329] The Great Famine: Northern Europe in the Early Fourteenth Century — William Chester Jordan | standing=22; reading=22 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+23. [work:4330] God's War: A New History of the Crusades — Christopher Tyerman | standing=23; reading=23 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+24. [work:4331] The Crusades: Islamic Perspectives — Carole Hillenbrand | standing=24; reading=24 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+25. [work:4332] The Carolingians and the Written Word — Rosamond McKitterick | standing=25; reading=25 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+26. [work:4333] Before France and Germany: The Creation and Transformation of the Merovingian World — Patrick J. Geary | standing=26; reading=26 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+27. [work:4334] The Cult of the Saints: Its Rise and Function in Latin Christianity — Peter Brown | standing=27; reading=27 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+28. [work:4335] The Crisis of the Twelfth Century: Power, Lordship, and the Origins of European Government — Thomas N. Bisson | standing=28; reading=28 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+29. [work:4336] Time, Work & Culture in the Middle Ages — Jacques Le Goff | standing=29; reading=29 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+30. [work:4337] Medieval Europe — Chris Wickham | standing=30; reading=30 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+31. [work:4338] Bond Men Made Free: Medieval Peasant Movements and the English Rising of 1381 — Rodney Hilton | standing=31; reading=31 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+32. [work:4339] The Stripping of the Altars: Traditional Religion in England, c. 1400–c. 1580 — Eamon Duffy | standing=32; reading=32 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+33. [work:4340] England Under the Norman and Angevin Kings, 1075–1225 — Robert Bartlett | standing=33; reading=33 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+34. [work:4341] Muslim Spain and Portugal: A Political History of al-Andalus — Hugh Kennedy | standing=34; reading=34 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+35. [work:4342] The Mongols and the Islamic World: From Conquest to Conversion — Peter Jackson | standing=35; reading=35 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+36. [work:4343] Barbarian Migrations and the Roman West, 376–568 — Guy Halsall | standing=36; reading=36 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+37. [work:4344] Barbarian Europe — Karol Modzelewski | standing=37; reading=37 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+38. [work:4345] Medieval Households — David Herlihy | standing=38; reading=38 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+39. [work:4346] Ale, Beer, and Brewsters in England: Women's Work in a Changing World, 1300–1600 — Judith M. Bennett | standing=39; reading=39 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+40. [work:4347] Making a Living in the Middle Ages: The People of Britain, 850–1520 — Christopher Dyer | standing=40; reading=40 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+41. [work:4348] King and Emperor: A New Life of Charlemagne — Janet L. Nelson | standing=41; reading=41 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+42. [work:4349] The Viking Way: Magic and Mind in Late Iron Age Scandinavia — Neil Price | standing=42; reading=42 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+43. [work:4350] The Hundred Years War, Vol. I: Trial by Battle — Jonathan Sumption | standing=43; reading=43 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+44. [work:4351] A History of the Crusades — Steven Runciman | standing=44; reading=44 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+45. [work:2588] A Distant Mirror: The Calamitous 14th Century — Barbara W. Tuchman | standing=45; reading=45 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+46. [work:4352] The Formation of Christendom — Judith Herrin | standing=46; reading=46 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+47. [work:4353] The Empire That Would Not Die: The Paradox of Eastern Roman Survival, 640–740 — John Haldon | standing=47; reading=47 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+48. [work:4354] The Golden Rhinoceros: Histories of the African Middle Ages — François-Xavier Fauvelle | standing=48; reading=48 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+49. [work:4355] The Middle Ages: History and Culture — Johannes Fried | standing=49; reading=49 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+50. [work:4356] The Horde: How the Mongols Changed the World — Marie Favereau | standing=50; reading=50 | sources: HISTORY-MEDIEVAL-001, HISTORY-MEDIEVAL-002, HISTORY-MEDIEVAL-003, HISTORY-MEDIEVAL-004, HISTORY-MEDIEVAL-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[HISTORY-MEDIEVAL-001] University of Cambridge, Robinson College — Advance Reading List in History (2023)
+https://www.robinson.cam.ac.uk/sites/default/files/assets/prospective-students/History%20Advance%20READING%20LIST%202023.pdf
+Family: academic_or_institutional | Publisher: www.robinson.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8335b55d91f25617dceb869c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-002] University of Cambridge — Historical Tripos, Paper 14: European History 900–1500 reading list
+https://www.google.com/search?q=site%3Acam.ac.uk+University+of+Cambridge+%E2%80%94+Historical+Tripos%2C+Paper+14%3A+European+History+900%E2%80%931500+reading+list
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1cd2d4743b3699934fb501a3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-003] University of Cambridge — Anglo-Saxon, Norse and Celtic introductory reading list
+https://www.asnc.cam.ac.uk/currentstudents/undergraduates/reading-lists/intro-reading.htm
+Family: academic_or_institutional | Publisher: www.asnc.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0b57953ad45ada931834f5a1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-004] University of Edinburgh — Medieval Worlds: A Journey through the Middle Ages (HIST08035) reading list
+https://www.google.com/search?q=site%3Aed.ac.uk+University+of+Edinburgh+%E2%80%94+Medieval+Worlds%3A+A+Journey+through+the+Middle+Ages+%28HIST08035%29+reading+list
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2a0239a6c9f527bd60074029
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-005] University of Edinburgh — History summer/introductory reading lists: medieval history
+https://hca.ed.ac.uk/prospective-postgraduates/our-degrees-our-students/our-degrees/masters-degree-programmes/summer-reading-lists/history-reading-lists
+Family: academic_or_institutional | Publisher: hca.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ecd1fa610aaca4affd637310
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-006] University of Edinburgh — Sources of Medieval History reading list
+https://www.google.com/search?q=site%3Aed.ac.uk+University+of+Edinburgh+%E2%80%94+Sources+of+Medieval+History+reading+list
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fe6f845d40669d024864e2d4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-007] University of Edinburgh — Charlemagne and His World reading list
+https://www.google.com/search?q=site%3Aed.ac.uk+University+of+Edinburgh+%E2%80%94+Charlemagne+and+His+World+reading+list
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8792f7733872bbdd9bc2b8c1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-008] University of York — After the Conquest module reading list
+https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/CED00113C/2026-27
+Family: academic_or_institutional | Publisher: www.york.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6807694131647166b4e9bce2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-009] University of Warwick — The Medieval World bibliography
+https://www.google.com/search?q=site%3Awarwick.ac.uk+University+of+Warwick+%E2%80%94+The+Medieval+World+bibliography
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a7412df2fea6009d94583a2d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-010] University of Bristol — History and Historians in Medieval Europe reading list
+https://www.google.com/search?q=site%3Abristol.ac.uk+University+of+Bristol+%E2%80%94+History+and+Historians+in+Medieval+Europe+reading+list
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d1858fd212777f0997b6d26b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-011] University of Malta — HST1010 Medieval Europe reading list
+https://www.google.com/search?q=site%3Aum.edu.mt+University+of+Malta+%E2%80%94+HST1010+Medieval+Europe+reading+list
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6c11b20384d6c85c5727e8da
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-012] University of Southampton — Sin and Society in the Middle Ages reading list
+https://www.google.com/search?q=site%3Asouthampton.ac.uk+University+of+Southampton+%E2%80%94+Sin+and+Society+in+the+Middle+Ages+reading+list
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:198748aa1192fd143aa39696
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-013] Charles University, Prague — medieval everyday life / social history syllabus
+https://www.google.com/search?q=site%3Acuni.cz+Charles+University%2C+Prague+%E2%80%94+medieval+everyday+life+%2F+social+history+syllabus
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d9fb66816f3fab9fedf96e67
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-014] University of Hyderabad — HS403 Medieval Societies syllabus
+https://www.google.com/search?q=site%3Auohyd.ac.in+University+of+Hyderabad+%E2%80%94+HS403+Medieval+Societies+syllabus
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f64f0261eacf48996e3fe7a5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-015] University of Wisconsin — medieval European economic and social history reading guide
+https://history.wisc.edu/wp-content/uploads/sites/202/2017/05/history321_fall1989_Mazzaoui.pdf
+Family: academic_or_institutional | Publisher: history.wisc.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:744ceb9fa21a13a2875d8db6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-016] Goethe University Frankfurt OKAPI — Handbücher: Einführungen (Mittelalter)
+https://www.google.com/search?q=site%3Auni-frankfurt.de+Goethe+University+Frankfurt+OKAPI+%E2%80%94+Handb%C3%BCcher%3A+Einf%C3%BChrungen+%28Mittelalter%29
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1be68ea065d512ab18afcc27
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-017] Goethe University Frankfurt OKAPI — thematic medieval handbooks
+https://www.google.com/search?q=site%3Auni-frankfurt.de+Goethe+University+Frankfurt+OKAPI+%E2%80%94+thematic+medieval+handbooks
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c34639848abd65c367ff0e26
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-018] Goethe University Frankfurt OKAPI — medieval journals list
+https://www.google.com/search?q=site%3Auni-frankfurt.de+Goethe+University+Frankfurt+OKAPI+%E2%80%94+medieval+journals+list
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:874eaa7255b2cc3f351d51ad
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-019] Goethe University Frankfurt OKAPI — medieval bibliographies
+https://www.google.com/search?q=site%3Auni-frankfurt.de+Goethe+University+Frankfurt+OKAPI+%E2%80%94+medieval+bibliographies
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:20ece8da391dbee87071b8cf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-020] Goethe University Frankfurt OKAPI — source-finding tools for medieval history
+https://www.google.com/search?q=site%3Auni-frankfurt.de+Goethe+University+Frankfurt+OKAPI+%E2%80%94+source-finding+tools+for+medieval+history
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:02b812413d97dfbd6da3b2ec
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-021] Institute of Historical Research (London) — Medieval History Collections
+https://www.google.com/search?q=site%3Ahistory.ac.uk+Institute+of+Historical+Research+%28London%29+%E2%80%94+Medieval+History+Collections
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c2a26dcb440b71f1bc6bca70
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-022] University of Leeds — International Medieval Bibliography (IMB)
+https://www.google.com/search?q=site%3Aleeds.ac.uk+University+of+Leeds+%E2%80%94+International+Medieval+Bibliography+%28IMB%29
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2414d665cc13ec9675d757a0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-023] University of Leeds — Online Medieval Resources / bibliographies
+https://www.google.com/search?q=site%3Aleeds.ac.uk+University+of+Leeds+%E2%80%94+Online+Medieval+Resources+%2F+bibliographies
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0b0ce7fa6141a036a6447fb4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-024] University of Reading — Becoming a Historian: Theory and Themes in Medieval History
+https://www.google.com/search?q=site%3Areading.ac.uk+University+of+Reading+%E2%80%94+Becoming+a+Historian%3A+Theory+and+Themes+in+Medieval+History
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a29f0e6c41d6f0f06438620a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-025] University of Bologna — Storia medievale, 2026/27
+https://www.google.com/search?q=site%3Aunibo.it+University+of+Bologna+%E2%80%94+Storia+medievale%2C+2026%2F27
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2826ec790fd79213a05d5daa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-026] University of Bologna — Medieval History, 2025/26
+https://www.google.com/search?q=site%3Aunibo.it+University+of+Bologna+%E2%80%94+Medieval+History%2C+2025%2F26
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:53fb9f9e1a2d48cf063c9c77
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-027] University of Bologna — Storia medievale, 2025/26
+https://www.google.com/search?q=site%3Aunibo.it+University+of+Bologna+%E2%80%94+Storia+medievale%2C+2025%2F26
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:052d9dbe86022f404b3a449f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-028] University of Milan — Storia medievale, 2025/26
+https://www.google.com/search?q=site%3Aunimi.it+University+of+Milan+%E2%80%94+Storia+medievale%2C+2025%2F26
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cf96ff914ae091ae1c8df3b9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-029] University of Milan — Storia medievale LM, 2025/26
+https://www.google.com/search?q=site%3Aunimi.it+University+of+Milan+%E2%80%94+Storia+medievale+LM%2C+2025%2F26
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4668ec6ace3aa9f6d96d62e9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-030] University of Milan — Storia medievale, 2026/27
+https://www.google.com/search?q=site%3Aunimi.it+University+of+Milan+%E2%80%94+Storia+medievale%2C+2026%2F27
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:33ac63505fc0078032c6b52b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-031] Universidad Complutense de Madrid — Historia Medieval de Europa, 2025/26
+https://www.google.com/search?q=site%3Aucm.es+Universidad+Complutense+de+Madrid+%E2%80%94+Historia+Medieval+de+Europa%2C+2025%2F26
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a9f4399512b85001f6a0cb82
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-032] H-Soz-Kult — review of The New Cambridge Medieval History IV
+https://www.google.com/search?q=site%3Acam.ac.uk+H-Soz-Kult+%E2%80%94+review+of+The+New+Cambridge+Medieval+History+IV
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:46538032f28fee8d24a1d913
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-033] sehepunkte — review of The New Cambridge Medieval History IV
+https://www.google.com/search?q=site%3Acam.ac.uk+sehepunkte+%E2%80%94+review+of+The+New+Cambridge+Medieval+History+IV
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:95f4e8fa94d14f597265391c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-034] Goethe University Frankfurt — teaching bibliography on medieval chivalry
+https://www.google.com/search?q=site%3Auni-frankfurt.de+Goethe+University+Frankfurt+%E2%80%94+teaching+bibliography+on+medieval+chivalry
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2c9cd7f79b6326b70b913dfd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-035] Stanford History PhD handbook — Medieval Europe field
+https://www.google.com/search?q=site%3Astanford.edu+Stanford+History+PhD+handbook+%E2%80%94+Medieval+Europe+field
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0af08a6f20add8d9d32c7230
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-036] Columbia History graduate field — Medieval Europe
+https://www.google.com/search?q=site%3Acolumbia.edu+Columbia+History+graduate+field+%E2%80%94+Medieval+Europe
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6a0eafade962fe82ee816ad5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-037] UC Berkeley History — premodern/medieval course offerings and reading context
+https://www.google.com/search?q=site%3Aberkeley.edu+UC+Berkeley+History+%E2%80%94+premodern%2Fmedieval+course+offerings+and+reading+context
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dc7ad2a59ad83f1ac8ef7698
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-038] Medieval Academy of America — Haskins Medal: award description
+https://www.google.com/search?q=site%3Amedievalacademy.org+Medieval+Academy+of+America+%E2%80%94+Haskins+Medal%3A+award+description
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d2c503701d7af8ed8ee9552f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-039] Medieval Academy of America — Haskins Medal recipients
+https://www.google.com/search?q=site%3Amedievalacademy.org+Medieval+Academy+of+America+%E2%80%94+Haskins+Medal+recipients
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ed0ff23e362d97427345d623
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-040] Medieval Academy of America — John Nicholas Brown Prize
+https://www.google.com/search?q=site%3Amedievalacademy.org+Medieval+Academy+of+America+%E2%80%94+John+Nicholas+Brown+Prize
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3f3c5cc4a22e18384d2a1b92
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-041] Medieval Academy of America — Publication Prizes
+https://www.google.com/search?q=site%3Amedievalacademy.org+Medieval+Academy+of+America+%E2%80%94+Publication+Prizes
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:60c3d8877179029f47ba7646
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-042] Western Michigan University / Medieval Institute — Otto Gründler Book Prize past winners
+https://www.google.com/search?q=site%3Awmich.edu+Western+Michigan+University+%2F+Medieval+Institute+%E2%80%94+Otto+Gr%C3%BCndler+Book+Prize+past+winners
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d3665fc4d0dfbd5c35df10b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-043] International Congress on Medieval Studies — book-award pages
+https://www.google.com/search?q=site%3Awmich.edu+International+Congress+on+Medieval+Studies+%E2%80%94+book-award+pages
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4bb7aefcf6274aa994b60466
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-044] American Historical Association — prize for history before CE 1000
+https://www.google.com/search?q=site%3Ahistorians.org+American+Historical+Association+%E2%80%94+prize+for+history+before+CE+1000
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fae810aeaa318067dc25cc6b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-045] American Historical Association — Herbert Baxter Adams Prize
+https://www.google.com/search?q=site%3Ahistorians.org+American+Historical+Association+%E2%80%94+Herbert+Baxter+Adams+Prize
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4ad209553c42c9e4c7ffecfc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-046] American Historical Association — Premio del Rey
+https://www.google.com/search?q=site%3Ahistorians.org+American+Historical+Association+%E2%80%94+Premio+del+Rey
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ebdb391e2ddcb267c03ecdc2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-047] American Historical Association — prizes and awards index
+https://www.google.com/search?q=site%3Ahistorians.org+American+Historical+Association+%E2%80%94+prizes+and+awards+index
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3d778144ffa8e3b5ad70abbe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-048] Royal Historical Society — Whitfield Prize
+https://www.google.com/search?q=site%3Aroyalhistsoc.org+Royal+Historical+Society+%E2%80%94+Whitfield+Prize
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3a06cca2855fc638e78abf13
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-049] Wolfson History Prize — Chris Wickham, Framing the Early Middle Ages (2006 winner)
+https://www.wolfsonhistoryprize.org.uk/past-winners/2006-winners/framing-the-early-middle-ages/
+Family: editorial_or_specialist | Publisher: www.wolfsonhistoryprize.org.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f300a4af8ee6f49cefe81aa7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-050] Wolfson History Prize — Jonathan Sumption, The Hundred Years War III: Divided Houses (2010 winner)
+https://www.google.com/search?q=site%3Awolfsonhistoryprize.org.uk+Wolfson+History+Prize+%E2%80%94+Jonathan+Sumption%2C+The+Hundred+Years+War+III%3A+Divided+Houses+%282010+winner%29
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ac79eaa8f1db01dd5836a47
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-051] Cundill History Prize — 2017 longlist
+https://www.google.com/search?q=site%3Acundillprize.com+Cundill+History+Prize+%E2%80%94+2017+longlist
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c0ef9cb846114951aeed9389
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-052] The Medieval Review — 2026 reviews index
+https://www.google.com/search?q=site%3Ascholarworks.iu.edu+The+Medieval+Review+%E2%80%94+2026+reviews+index
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:916f4763add747b7acc53c55
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-053] Institute of Historical Research — Reviews in History: Medieval History Reviews
+https://www.google.com/search?q=site%3Ahistory.ac.uk+Institute+of+Historical+Research+%E2%80%94+Reviews+in+History%3A+Medieval+History+Reviews
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:794c032ad113278d57646e9b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-054] Institute of Historical Research — Reviews in History editorial board
+https://www.google.com/search?q=site%3Ahistory.ac.uk+Institute+of+Historical+Research+%E2%80%94+Reviews+in+History+editorial+board
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cb3d98344ee67b6f3bef8f80
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-055] H-Soz-Kult — review of Johannes Fried, Das Mittelalter: Geschichte und Kultur
+https://www.google.com/search?q=site%3Ahsozkult.de+H-Soz-Kult+%E2%80%94+review+of+Johannes+Fried%2C+Das+Mittelalter%3A+Geschichte+und+Kultur
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:35b62119a5d8ea6dac31ab8d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-056] H-Soz-Kult — review of The New Cambridge Medieval History IV.1
+https://www.google.com/search?q=site%3Acam.ac.uk+H-Soz-Kult+%E2%80%94+review+of+The+New+Cambridge+Medieval+History+IV.1
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:246b06a6a5531378bd4af9dc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-057] H-Soz-Kult — review of Thomas Bauer, Warum es kein islamisches Mittelalter gab
+https://www.google.com/search?q=site%3Ahsozkult.de+H-Soz-Kult+%E2%80%94+review+of+Thomas+Bauer%2C+Warum+es+kein+islamisches+Mittelalter+gab
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3b1a03d9e04d32d67b56dea1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-058] sehepunkte — review of Robert Bartlett, Blood Royal
+https://www.google.com/search?q=site%3Asehepunkte.de+sehepunkte+%E2%80%94+review+of+Robert+Bartlett%2C+Blood+Royal
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:09dd4419c61c22d2b776d506
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-059] sehepunkte — review of Florin Curta, Southeastern Europe in the Middle Ages, 500–1250
+https://www.google.com/search?q=site%3Asehepunkte.de+sehepunkte+%E2%80%94+review+of+Florin+Curta%2C+Southeastern+Europe+in+the+Middle+Ages%2C+500%E2%80%931250
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:12ec94de29df1efdefac6169
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-060] sehepunkte — review of Michael North, Europa expandiert 1250–1500
+https://www.google.com/search?q=site%3Asehepunkte.de+sehepunkte+%E2%80%94+review+of+Michael+North%2C+Europa+expandiert+1250%E2%80%931500
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4eccab1add25283ea1271bcc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-061] Persée / Revue belge de philologie et d'histoire — review of Robert Bartlett, The Making of Europe
+https://www.google.com/search?q=site%3Apersee.fr+Pers%C3%A9e+%2F+Revue+belge+de+philologie+et+d%27histoire+%E2%80%94+review+of+Robert+Bartlett%2C+The+Making+of+Europe
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9042fc98d9cac01c406c7aa1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-062] Persée — review of Bernard Guenée, Histoire et culture historique dans l'Occident médiéval
+https://www.google.com/search?q=site%3Apersee.fr+Pers%C3%A9e+%E2%80%94+review+of+Bernard+Guen%C3%A9e%2C+Histoire+et+culture+historique+dans+l%27Occident+m%C3%A9di%C3%A9val
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ffc92ed0144656e0edbd1d76
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-063] Persée — review of Louis Halphen, Initiation aux études sur l'histoire du Moyen Âge
+https://www.google.com/search?q=site%3Apersee.fr+Pers%C3%A9e+%E2%80%94+review+of+Louis+Halphen%2C+Initiation+aux+%C3%A9tudes+sur+l%27histoire+du+Moyen+%C3%82ge
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:39b365795f37fd7037c3b292
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-064] Persée — review literature on Jean Verdon and medieval social/cultural history
+https://www.google.com/search?q=site%3Apersee.fr+Pers%C3%A9e+%E2%80%94+review+literature+on+Jean+Verdon+and+medieval+social%2Fcultural+history
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:48feb38e272ac8230fa2e5d1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-065] Persée — review of Pirenne/Cohen/Focillon, Histoire du Moyen Âge
+https://www.google.com/search?q=site%3Apersee.fr+Pers%C3%A9e+%E2%80%94+review+of+Pirenne%2FCohen%2FFocillon%2C+Histoire+du+Moyen+%C3%82ge
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:80c10453a42d447a146ec965
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-066] American Historical Review — John H. Arnold, 'Persecution and Power in Medieval Europe' (2018)
+https://www.google.com/search?q=site%3Aacademic.oup.com+American+Historical+Review+%E2%80%94+John+H.+Arnold%2C+%27Persecution+and+Power+in+Medieval+Europe%27+%282018%29
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9e6762ecd3c96f0ca6cc62e7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-067] English Historical Review — 'Huizinga's Autumntide: The Centenary of a Masterpiece' (2021)
+https://www.google.com/search?q=site%3Aacademic.oup.com+English+Historical+Review+%E2%80%94+%27Huizinga%27s+Autumntide%3A+The+Centenary+of+a+Masterpiece%27+%282021%29
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:335e6afb6a18aa8e36defb45
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-068] History and Theory — Ewa Domańska, 'Revisiting Montaillou' (2024/25)
+https://www.google.com/search?q=site%3Aonlinelibrary.wiley.com+History+and+Theory+%E2%80%94+Ewa+Doma%C5%84ska%2C+%27Revisiting+Montaillou%27+%282024%2F25%29
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b1cb3c354426c04e9ab1e9a2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-069] The Medieval Review — review of Crick & Walsham, Script and Print
+https://www.google.com/search?q=site%3Ascholarworks.iu.edu+The+Medieval+Review+%E2%80%94+review+of+Crick+%26+Walsham%2C+Script+and+Print
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:74c0f57909a14002dc906c2a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-070] The Medieval Review — review of Caroline Walker Bynum, Christian Materiality
+https://www.google.com/search?q=site%3Ascholarworks.iu.edu+The+Medieval+Review+%E2%80%94+review+of+Caroline+Walker+Bynum%2C+Christian+Materiality
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:37ea9d80a421171cdeed46e9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-071] The Medieval Review — review of Georges Duby, History Continues
+https://www.google.com/search?q=site%3Ascholarworks.iu.edu+The+Medieval+Review+%E2%80%94+review+of+Georges+Duby%2C+History+Continues
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e3994220e2a48f96025d1709
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-072] The Medieval Review — review of Heresy and the Persecuting Society
+https://www.google.com/search?q=site%3Ascholarworks.iu.edu+The+Medieval+Review+%E2%80%94+review+of+Heresy+and+the+Persecuting+Society
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:504a1bf1dae8439d5a9c8de8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-073] The Medieval Review — review of Susan Reynolds, Fiefs and Vassals
+https://www.google.com/search?q=site%3Ascholarworks.iu.edu+The+Medieval+Review+%E2%80%94+review+of+Susan+Reynolds%2C+Fiefs+and+Vassals
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:994f494fb2663002c0978b90
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-074] The Medieval Review — review of Peter Brown, The Rise of Western Christendom
+https://www.google.com/search?q=site%3Ascholarworks.iu.edu+The+Medieval+Review+%E2%80%94+review+of+Peter+Brown%2C+The+Rise+of+Western+Christendom
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:db978497169790991230ec19
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-075] Journal of Religious History — review essay on R. I. Moore, The First European Revolution
+https://www.google.com/search?q=site%3Aonlinelibrary.wiley.com+Journal+of+Religious+History+%E2%80%94+review+essay+on+R.+I.+Moore%2C+The+First+European+Revolution
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:814a4a22a9ecbce4889532d9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-076] Journal of Religious History — review essay on Peter Brown, The Rise of Western Christendom, 2nd ed.
+https://www.google.com/search?q=site%3Aonlinelibrary.wiley.com+Journal+of+Religious+History+%E2%80%94+review+essay+on+Peter+Brown%2C+The+Rise+of+Western+Christendom%2C+2nd+ed
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9bf3303128dcc1d6d5a49f25
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-077] New York Review of Books — Maurice Keen on Holy Feast and Holy Fast
+https://www.google.com/search?q=site%3Ayork.ac.uk+New+York+Review+of+Books+%E2%80%94+Maurice+Keen+on+Holy+Feast+and+Holy+Fast
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:541f4271d972c7767e7003b4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-078] Oxford Academic — Susan Reynolds, Fiefs and Vassals
+https://www.google.com/search?q=site%3Aacademic.oup.com+Oxford+Academic+%E2%80%94+Susan+Reynolds%2C+Fiefs+and+Vassals
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5f47f3cbe33f231060012163
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-079] Wiley — R. I. Moore, The Formation of a Persecuting Society
+https://www.google.com/search?q=site%3Awiley.com+Wiley+%E2%80%94+R.+I.+Moore%2C+The+Formation+of+a+Persecuting+Society
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:96ef216b27ff1c27dc0a2775
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-080] Yale University Press — R. W. Southern, The Making of the Middle Ages
+https://www.google.com/search?q=site%3Ayalebooks.yale.edu+Yale+University+Press+%E2%80%94+R.+W.+Southern%2C+The+Making+of+the+Middle+Ages
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5e4e582e75a8d14bf5457232
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-081] University of Chicago Press — Jacques Le Goff, The Birth of Purgatory
+https://www.google.com/search?q=site%3Apress.uchicago.edu+University+of+Chicago+Press+%E2%80%94+Jacques+Le+Goff%2C+The+Birth+of+Purgatory
+Family: academic_or_institutional | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:105a40dab4fe8ac6bfb466bb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-082] Five Books — Medieval History: books recommended by historians
+https://fivebooks.com/category/history-books/medieval-history/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fd3efb2ac8b02df976898fa9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-083] Five Books — The best books on the Crusades, recommended by Guy Perry
+https://www.google.com/search?q=site%3Afivebooks.com+Five+Books+%E2%80%94+The+best+books+on+the+Crusades%2C+recommended+by+Guy+Perry
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d8a83ac77584ea5a79defa79
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-084] Five Books — The best books on the Vikings, recommended by Eleanor Rosamund Barraclough
+https://www.google.com/search?q=site%3Afivebooks.com+Five+Books+%E2%80%94+The+best+books+on+the+Vikings%2C+recommended+by+Eleanor+Rosamund+Barraclough
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:60db9db36de03b89e533a3ac
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-085] Five Books — The best books on Byzantium, recommended by Judith Herrin
+https://www.google.com/search?q=site%3Afivebooks.com+Five+Books+%E2%80%94+The+best+books+on+Byzantium%2C+recommended+by+Judith+Herrin
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b8d38881d530d10a4f05a12b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-086] Five Books — Daily Life in Medieval England, recommended by Ian Mortimer
+https://www.google.com/search?q=site%3Afivebooks.com+Five+Books+%E2%80%94+Daily+Life+in+Medieval+England%2C+recommended+by+Ian+Mortimer
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9f18a086c4cd7373e5c477d0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-087] Five Books — Queens and Power, recommended by Helen Castor
+https://www.google.com/search?q=site%3Afivebooks.com+Five+Books+%E2%80%94+Queens+and+Power%2C+recommended+by+Helen+Castor
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2c1121cbdd121b9178015e8d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-088] Five Books — books on Charlemagne
+https://www.google.com/search?q=site%3Afivebooks.com+Five+Books+%E2%80%94+books+on+Charlemagne
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2e8562126bc7de892725c05d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-089] Five Books — books on Chinggis Khan / the Mongols
+https://www.google.com/search?q=site%3Afivebooks.com+Five+Books+%E2%80%94+books+on+Chinggis+Khan+%2F+the+Mongols
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:05ece59d8942e520c0880de0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-090] Five Books — books on Ghana, Mali and Songhai
+https://www.google.com/search?q=site%3Afivebooks.com+Five+Books+%E2%80%94+books+on+Ghana%2C+Mali+and+Songhai
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:22b46dbb946b1487218316b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-091] Five Books — The Middle Ages, recommended by Hannah Skoda
+https://fivebooks.com/best-books/the-middle-ages-hannah-skoda/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:648bc34079d3c82f809c973a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-092] Medievalists.net — Five Books to Start Your Journey Back to the Middle Ages
+https://www.medievalists.net/2014/11/five-books-start-journey-back-middle-ages/
+Family: editorial_or_specialist | Publisher: www.medievalists.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4534f81cff614d2a682fc633
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-093] Medievalists.net — Books about the Middle Ages that are Great Reads
+https://www.google.com/search?q=site%3Amedievalists.net+Medievalists.net+%E2%80%94+Books+about+the+Middle+Ages+that+are+Great+Reads
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:59ff5ba5af3ecbf019faa4f4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-094] Medievalists.net — Best Books about the Middle Ages from 2020
+https://www.google.com/search?q=site%3Amedievalists.net+Medievalists.net+%E2%80%94+Best+Books+about+the+Middle+Ages+from+2020
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:41bee69e2b33f7307304a635
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-095] Medievalists.net — Best Medieval Books of 2022
+https://www.google.com/search?q=site%3Amedievalists.net+Medievalists.net+%E2%80%94+Best+Medieval+Books+of+2022
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d9a5a01ba2ffab24e595e998
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-096] Medievalists.net — Best Medieval Books of 2024
+https://www.medievalists.net/2024/12/best-medieval-books-of-2024/
+Family: editorial_or_specialist | Publisher: www.medievalists.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d98c954d42898b7935d0e6b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-097] The Medieval Magazine / Medievalists.net — Top 50 Books in Medieval Studies of 2015
+https://www.google.com/search?q=site%3Amedievalists.net+The+Medieval+Magazine+%2F+Medievalists.net+%E2%80%94+Top+50+Books+in+Medieval+Studies+of+2015
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fb3d82dbd26cad18e46dcbc3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-098] Medievalists.net — Ten Books about the Middle Ages You Can Read for Free (2021)
+https://www.google.com/search?q=site%3Amedievalists.net+Medievalists.net+%E2%80%94+Ten+Books+about+the+Middle+Ages+You+Can+Read+for+Free+%282021%29
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a5d65d2cefd6e4b99efba297
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-099] Medievalists.net — 20 Open Access Books about the Middle Ages (2023)
+https://www.google.com/search?q=site%3Amedievalists.net+Medievalists.net+%E2%80%94+20+Open+Access+Books+about+the+Middle+Ages+%282023%29
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e4ae22b01013c7ae58a16aea
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-100] Medievalists.net — 10 Open Access Books about the Middle Ages (2024)
+https://www.google.com/search?q=site%3Amedievalists.net+Medievalists.net+%E2%80%94+10+Open+Access+Books+about+the+Middle+Ages+%282024%29
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d1177f806fd14687951db760
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-101] Medieval Reporter — Reviews of Medieval History Books
+https://www.google.com/search?q=site%3Amedievalreporter.com+Medieval+Reporter+%E2%80%94+Reviews+of+Medieval+History+Books
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c110a539bc258b563899044d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-102] Goodreads Listopia — Best Medieval History Books
+https://www.goodreads.com/list/show/9405.Best_Medieval_History_Books
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f33ff4b66120e0eacc6a11ed
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-103] Goodreads Listopia — Best Books on Early Medieval History, Art, Literature and Archaeology
+https://www.goodreads.com/search?q=Best+Books+on+Early+Medieval+History%2C+Art%2C+Literature+and+Archaeology
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e374e2a1e63263c1805d1860
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-104] Goodreads Listopia — Best History Books on Crusades
+https://www.goodreads.com/search?q=Best+History+Books+on+Crusades
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1c0929bf7edcbd02206889b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-105] Goodreads Listopia — Best Viking Age Non-Fiction Books
+https://www.goodreads.com/search?q=Best+Viking+Age+Non-Fiction+Books
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7b6e35835d739fe30f533bc7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-106] Goodreads Listopia — Viking and Scandinavian Early Historic Archaeology and History
+https://www.goodreads.com/search?q=Viking+and+Scandinavian+Early+Historic+Archaeology+and+History
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4c5d442f9a2620158d13da33
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-107] Goodreads Listopia — All Byzantium
+https://www.goodreads.com/search?q=All+Byzantium
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3b1a2aff7179840cddce4157
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-108] Goodreads Listopia — The Black Death
+https://www.goodreads.com/search?q=The+Black+Death
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b6429c09c4d9af4ffdfbaea1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-109] Goodreads Listopia — Medieval Women
+https://www.goodreads.com/search?q=Medieval+Women
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c26e5893d52ba66998518162
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-110] Goodreads Listopia — Medieval & Early Modern Women in Europe
+https://www.goodreads.com/search?q=Medieval+%26+Early+Modern+Women+in+Europe
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aa68bfe310cfb4cfcd2fed5d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-111] Goodreads Listopia — Best Middle Ages Books
+https://www.goodreads.com/search?q=Best+Middle+Ages+Books
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:58b13f472c8cb1254209e4c4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-112] Reddit r/MedievalHistory — 'Medieval History: A Reading List' (2020)
+https://www.reddit.com/search/?q=Reddit+r%2FMedievalHistory+%E2%80%94+%27Medieval+History%3A+A+Reading+List%27+%282020%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c1a7a91d49052838b59fd740
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-113] Reddit r/MedievalHistory — 'What 10 books would you pick to summarize all Medieval History?'
+https://www.reddit.com/search/?q=Reddit+r%2FMedievalHistory+%E2%80%94+%27What+10+books+would+you+pick+to+summarize+all+Medieval+History%3F%27
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:09529ad7c746f49e387be105
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-114] Reddit r/MedievalHistory — 'What is a textbook you'd recommend?' (2026)
+https://www.reddit.com/search/?q=Reddit+r%2FMedievalHistory+%E2%80%94+%27What+is+a+textbook+you%27d+recommend%3F%27+%282026%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5606c9f4b4a71c1c19eb8bbf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-115] Reddit r/MedievalHistory — High Middle Ages recommendation thread
+https://www.reddit.com/search/?q=Reddit+r%2FMedievalHistory+%E2%80%94+High+Middle+Ages+recommendation+thread
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2babdac84149727ef717d8a4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-116] Reddit r/MedievalHistory — general medieval-history book recommendations (2025)
+https://www.reddit.com/search/?q=Reddit+r%2FMedievalHistory+%E2%80%94+general+medieval-history+book+recommendations+%282025%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:458c78ab8fe4284f2746a7df
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-117] Reddit r/HistoryBooks — medieval history up through the Reformation (2026)
+https://www.reddit.com/search/?q=Reddit+r%2FHistoryBooks+%E2%80%94+medieval+history+up+through+the+Reformation+%282026%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:04f0c55147738df59097b9e0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-118] Reddit r/MedievalHistory — readable early-medieval social history recommendations (2026)
+https://www.reddit.com/search/?q=Reddit+r%2FMedievalHistory+%E2%80%94+readable+early-medieval+social+history+recommendations+%282026%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6b32e3f1e3b0928e50bae289
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-119] Reddit r/MedievalHistory — medieval English history recommendations (2026)
+https://www.reddit.com/search/?q=Reddit+r%2FMedievalHistory+%E2%80%94+medieval+English+history+recommendations+%282026%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e7adf69ab7696dbe8a41bd05
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-120] Reddit r/MedievalHistory — worst books about medieval history (2025)
+https://www.reddit.com/search/?q=Reddit+r%2FMedievalHistory+%E2%80%94+worst+books+about+medieval+history+%282025%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2092c1b900a40357bfd58357
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-121] Reddit r/AskHistorians — best books on the Byzantine Empire (2021)
+https://www.reddit.com/search/?q=Reddit+r%2FAskHistorians+%E2%80%94+best+books+on+the+Byzantine+Empire+%282021%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4fd776e9ca36bda7e2a8a190
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-122] Reddit r/AskHistorians — entertaining books on the Byzantine Empire (2022)
+https://www.reddit.com/search/?q=Reddit+r%2FAskHistorians+%E2%80%94+entertaining+books+on+the+Byzantine+Empire+%282022%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e2b86a29ff92b4a8f2c2b89f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-123] Reddit r/AskHistorians — academic books on the Byzantine Empire (2024)
+https://www.reddit.com/search/?q=Reddit+r%2FAskHistorians+%E2%80%94+academic+books+on+the+Byzantine+Empire+%282024%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bb71f5d8624061396e1bfc2f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-124] Reddit r/ksiazki — 'Najlepsza historia polskiego średniowiecza?'
+https://www.reddit.com/search/?q=Reddit+r%2Fksiazki+%E2%80%94+%27Najlepsza+historia+polskiego+%C5%9Bredniowiecza%3F%27
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b83a41cc6f6920b55e98c789
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-125] Reddit r/ksiazki — 'Podręcznik do Średniowiecza' (2026)
+https://www.reddit.com/search/?q=Reddit+r%2Fksiazki+%E2%80%94+%27Podr%C4%99cznik+do+%C5%9Aredniowiecza%27+%282026%29
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:82ad4dbb708d8bac7e72d5bc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-126] Lubimyczytać — historia / średniowiecze tag and ranking pages
+https://lubimyczytac.pl/szukaj/ksiazki?phrase=Lubimyczyta%C4%87+%E2%80%94+historia+%2F+%C5%9Bredniowiecze+tag+and+ranking+pages
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5d61d1705a2a06915b9dd128
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-127] Historia.org.pl — review of Chris Wickham, Średniowieczna Europa
+https://www.google.com/search?q=site%3Ahistoria.org.pl+Historia.org.pl+%E2%80%94+review+of+Chris+Wickham%2C+%C5%9Aredniowieczna+Europa
+Family: editorial_or_specialist | Publisher: www.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6059067475c2a233b5e63894
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-128] SensCritique — 'Un si long Moyen Âge: la contre-liste' (127 works)
+https://www.senscritique.com/recherche?query=SensCritique+%E2%80%94+%27Un+si+long+Moyen+%C3%82ge%3A+la+contre-liste%27+%28127+works%29
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e50f154654bdc6f6415c0edf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-129] SensCritique — 'Le Moyen Âge dans ma bibliothèque' (60 works)
+https://www.senscritique.com/recherche?query=SensCritique+%E2%80%94+%27Le+Moyen+%C3%82ge+dans+ma+biblioth%C3%A8que%27+%2860+works%29
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9743f4bfa1c692fef01ec302
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-130] SensCritique — medieval books/top-list pages
+https://www.senscritique.com/recherche?query=SensCritique+%E2%80%94+medieval+books%2Ftop-list+pages
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:71202c2040a214e8a7b44622
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-131] Douban — recommended European medieval-history book lists
+https://search.douban.com/book/subject_search?search_text=Douban+%E2%80%94+recommended+European+medieval-history+book+lists
+Family: reader_community | Publisher: search.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1a142cff5d0d2a05e1d061b2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-132] Douban — European medieval history list collections
+https://search.douban.com/book/subject_search?search_text=Douban+%E2%80%94+European+medieval+history+list+collections
+Family: reader_community | Publisher: search.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:236c8bc9cbf03b3662390ee9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-133] Douban — C. Warren Hollister/Judith Bennett, Medieval Europe: A Short History
+https://search.douban.com/book/subject_search?search_text=Douban+%E2%80%94+C.+Warren+Hollister%2FJudith+Bennett%2C+Medieval+Europe%3A+A+Short+History
+Family: reader_community | Publisher: search.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:32d46ae7ab442b0fd40368e5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-134] Douban — Marc Bloch, Feudal Society
+https://search.douban.com/book/subject_search?search_text=Douban+%E2%80%94+Marc+Bloch%2C+Feudal+Society
+Family: reader_community | Publisher: search.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:190abaa403434d4a4d3345e9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-135] Douban — Johan Huizinga, The Autumn of the Middle Ages
+https://search.douban.com/book/subject_search?search_text=Douban+%E2%80%94+Johan+Huizinga%2C+The+Autumn+of+the+Middle+Ages
+Family: reader_community | Publisher: search.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:96a0e67e7527637bc7088acc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-136] Douban — Marc Bloch author/work pages
+https://search.douban.com/book/subject_search?search_text=Douban+%E2%80%94+Marc+Bloch+author%2Fwork+pages
+Family: reader_community | Publisher: search.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5df23a1665546cb58843357b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-MEDIEVAL-137] Douban — Blockmans & Hoppenbrouwers, Introduction to Medieval Europe
+https://search.douban.com/book/subject_search?search_text=Douban+%E2%80%94+Blockmans+%26+Hoppenbrouwers%2C+Introduction+to+Medieval+Europe
+Family: reader_community | Publisher: search.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dce3c9500a925e246bb7d50e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: history-books-medieval. Included 50 current entries and 137 current source records. Carry out the update and return the enhanced ranking with the complete source register.

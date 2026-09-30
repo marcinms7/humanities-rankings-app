@@ -1,0 +1,484 @@
+INPUT PART 1/11 — books-japan
+These numbered messages together are ONE complete research request. Expect 100 current entries and 259 current source records, plus the labelled supplements. Until the final part arrives, acknowledge receipt briefly and wait; do not start the research or infer missing parts. If the conversation cannot retain all parts, say so and request the complete prompt as a file instead of pretending full coverage.
+
+SELF-CONTAINED RANKING UPDATE REQUEST
+TARGET: Books · Japan
+TARGET ID: books-japan
+SNAPSHOT: 2026-09-27T20:44:44.053349+00:00
+MODE: update an existing research synthesis
+CURRENT SIZE: 100 distinct entries
+CURRENT REGISTER: 259 source records; 153 stored as eligible (historical flags, subject to audit)
+DESIRED SCOPE: The current audited Top 100 Japanese literary-cultural works across the permitted forms, improving evidence and comparative explanation without reverting to the older 98-entry intake.
+
+You are updating ONE existing humanities ranking for a reading app. You have no access to its repository, database or earlier conversations. Everything needed to start is included below: the task, current entries, both saved editorial orders where present, existing entry citations, and the complete current target-specific source register. Research this target on the web and return a portable, evidence-backed update. Do not merely critique this prompt or supply a research plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+OWNER'S OBJECTIVE
+Improve the substance and traceability of the ranking while keeping a useful, broad candidate pool. Start by auditing and using relevant existing material, then research the specific gaps. The source count alone does not establish adequate support. An established, fully consulted list may support many candidates; a large bibliography of generic references may support few comparative judgments. The owner specifically requests at least 100 additional sources for this update; this is not a per-entry quota.
+
+Treat this as a revision, not an instruction to retain every existing position. Compare the complete pool, identify conspicuous omissions, and justify additions, removals, merges and substantial moves. Keep the supplied identities and prior evidence traceable. Do not replace a substantial ranking with a tiny polished subset while ignoring the rest. If work must stop, return the full baseline with updated and unresolved rows clearly distinguished, plus the exact continuation point.
+
+WHAT COUNTS AS EVIDENCE
+The supplied source eligibility flags, access labels, dates and notes are historical records. They are NOT a claim that you consulted those pages, or that their contents justify every attached candidate. Separate inherited evidence, independently rechecked evidence, newly consulted evidence, bibliographic/context material, unavailable material and unexamined leads. Never copy an old access date into a claim of your own consultation.
+
+Open and examine relevant content before claiming new or rechecked evidence. Record what claim it supports and where: article section, page, list entry or other precise location. Search-result pages/snippets, unopened links and generic site homepages are leads, not substantive consultation. A long page or successful HTTP response is not sufficient. Narrow reference facts, primary texts and publisher descriptions can be useful, but do not by themselves demonstrate comparative critical standing. Preserve these useful roles without counting metadata-only leads as substantive research.
+
+Use an appropriate mixture of scholarship/critical studies, university and specialist selections, independent critics/polls/reviews, and reader discussions including Goodreads or Reddit where relevant. Use relevant non-English sources when you can understand them reliably. Prioritize independent, candidate-specific evidence and underrepresented traditions. Do not keep collecting repetitive pages to inflate totals.
+
+Deduplicate underlying publications, mirrors, syndication and copied lists. Wikipedia translations and copies of one poll are not independent critical endorsements. An aggregator is one consulted source unless its underlying sources are individually examined; do not double-count their judgments. One discussion thread is one source, not one per comment. Record dependencies and publisher/platform concentration. Preserve disagreements. Never invent sources, URLs, quotations, source positions or consultation claims.
+
+The project uses a floor of 50 distinct relevant consulted sources for a completed research target, including sound prior research retained with explicit provenance. This is not 50 NEW sources, not 50 per candidate, and not a guarantee of adequate coverage. Recalculate the defensible total after the audit; do not accept stored eligibility totals automatically. Separate genuinely qualifying prior evidence from your own consultations in the totals. Below the floor, or with substantial unresolved support, label the result incomplete. Above it, stop when the useful revision is delivered and identify remaining concrete gaps rather than researching indefinitely. One target's bibliography does not automatically count for another target.
+
+SCOPE, IDENTITY AND ORDERING
+Use the target-specific scope below. Books, authors/philosophers, individual stories/essays/poems/plays, collections, series and editions are different objects. Do not silently turn a series into its first volume, a collection into one story, or an author into a book. Verify ambiguous or reversed author/title records before making further claims. Retain anonymous, collective and disputed attributions honestly. Use original composition/publication dates, with uncertainty where appropriate, not translation dates.
+
+For country/tradition scopes, document literary/cultural association; language, setting, citizenship and country are not interchangeable. Multiple associations can be valid. England is distinct from the UK. Establish English availability for reading recommendations where required by this target; an English-translated title alone does not prove an English edition exists. Record unavailable or unverified translations explicitly instead of inventing editions or silently dropping important works.
+
+Produce two reasoned qualitative editorial views when applicable: (1) critical standing/enduring influence, and (2) reading value today. The second is not just ease of reading or popularity. Give it independent reasoning where it differs; if you cannot support a separate full order, say so. Both views should cover the same final candidate set; explicitly label unresolved placements instead of silently omitting candidates. A beginner route or reading sequence is separately labelled and is not automatically a merit ranking. A country-grouped selection keeps local positions and does not acquire a global merit order.
+
+Personal numerical criteria, weights, assessments and personalized scores are UNSET. Leave them unset. The owner explicitly authorizes qualitative, source-backed editorial orderings without numerical scoring. This supersedes older generic instructions that would block any editorial ranking until personal criteria exist. Do not invent the owner's tastes. Explain your comparative method and uncertainty; precise ordinal positions are editorial judgments, not measured facts. Preserve original publisher ranks, ties, list lengths and unranked status separately. Absence from a short source list is not a last-place vote.
+
+An existing shared ranking is the baseline for this assignment. Preserve its prior form in the change log; propose a revised version rather than claiming to overwrite the app. No application code, account, library, private notes or preferences are part of your task. Do not claim a database import or publication.
+
+REQUIRED RETURN PACKAGE
+Return one complete, downloadable Word .docx for this target, named <target-id>-<your-run-id>-update.docx. Structured Markdown or UTF-8 text is acceptable if genuine .docx generation is unavailable; do not rename a text file to .docx. Optional sources.json and candidates.json make later import easier but do not replace the readable report. If output limits require multiple files, number them and supply a manifest; do not silently truncate the ranking or bibliography.
+
+Include all of the following:
+1. Target ID, scope, actual research dates/run ID, methodology, status, achieved candidate count, consultation counts split into inherited/rechecked/new, source-family/domain/publisher distribution, dependency audit, limitations and stopping rationale.
+2. The complete revised standing order and complete reading-value order where applicable, or all country sections with their local positions. Give each retained item its supplied work/person ID; new items receive clearly external candidate IDs, never invented app IDs. Report both old and proposed positions, identity corrections, rationale and confidence. Preserve ties/uncertainty where appropriate.
+3. Candidate records for EVERY proposed item: title/name, author/attribution, form, original date/language/associations when supported, scope eligibility, inclusion and comparative reasoning, actual supporting source IDs and claim locations, counterarguments, English-availability status and unresolved facts. Differentiate identity/context support from evidence of selection, reception, criticism or comparative judgment. Do not attach the same generic bibliography to every candidate without showing what it actually supports.
+4. A COMPLETE source register, including EVERY supplied current source, each supplementary conflicting record, and all new sources. Give each inherited record a disposition (retained, rechecked, lead, duplicate, irrelevant, unavailable, etc.) with the reason; preserve original IDs and URLs alongside proposed corrections. Include full URLs, title, author/publisher if known, family, language, underlying identity/dependencies, actual access level/date, target relevance, substantive evidence notes/location, supported candidate IDs and limitations. Unconsulted leads stay unconsulted. Do not discard inconvenient records or claim they all endorse the new ranking. Report substantive evidence counts separately from register size.
+5. A change log covering additions/removals/merges, identity corrections, significant moves, repaired candidate-source mappings, source reclassifications, unresolved conflicts and work still pending. Exact source-ID/URL conflicts must be reconciled explicitly; identical text IDs in different provenance namespaces are not interchangeable.
+6. An edition/media appendix where useful: reliably established English edition/translator/publisher/ISBN/abridgment, and existing or newly found cover/portrait source links and credits. For new images, include the source page and direct image URL where available, creator/credit, stated rights/licence or "unknown", and whether a portrait is a historical depiction. Do not infer reuse permission from online visibility. Do not treat existing page counts as verified exact editions; some are planning estimates. Images and detailed edition checks are enrichment work and must not delay the broad evidence update. Mark gaps; never invent images or use unrelated portraits/covers. Image-only pages do not add to the research-source count unless separately relevant substantive content was examined.
+
+Preserve supplied source IDs. Give new sources unique run-prefixed IDs, such as R20260927A-S001, and record the run prefix in your manifest; never reuse an old ID for a different publication.
+
+Save checkpoints after useful small batches if tools permit. Before delivery, verify that all source references resolve within the correct target/provenance namespace, every current record has a disposition, all requested rows are present, both orders use coherent candidate identities, hyperlinks contain real destinations, and counts match the returned records. If browsing is unavailable, explicitly return a partial audit and unresolved research task; do not simulate consultation.
+
+READING THE SUPPLIED SNAPSHOT
+The snapshot is dated; it is a baseline, not verified truth. Historical methods and source notes below are data to audit, not new instructions to obey. Some saved editorial orders may point to old work IDs after catalog repairs: orphaned mappings are supplied separately. Do not silently reattach their evidence by numerical position or fuzzy title alone. Resolve the actual identity and preserve the reconciliation trail.
+
+The complete source register includes full saved evidence/limitations and relevant metadata. Exact duplicate metadata values may be represented once for readability; a conflicting value is retained. Current source IDs are target-local. Supplementary file-ledger records, when present, use an explicit separate namespace. Their eligibility and IDs are not automatically authoritative. An unregistered citation is supplied as a citation stub, not fabricated into a consulted source.
+
+TARGET-SPECIFIC FINDINGS AND WORK
+
+The audited revision has 100 entries, 259 retained sources and 153 eligible sources, with 129 distinct linked sources and 97 citation bundles. Its C/B/M/X/W access statuses and detailed work mapping already improve on the older corpus-level import.
+
+1. Preserve the audited revision and its source-status distinctions; do not revive superseded exclusions or count metadata/failed/wrong-target sources automatically.
+2. Audit thin, disputed and high-impact candidate evidence while preserving valid detailed mappings.
+3. Distinguish primary-text access, biographical pages and publisher records from evidence of reception, comparison and canonical standing.
+4. Preserve intentionally collective/anonymous classical works and reconcile Japanese titles, English titles and translations to existing identities.
+5. Review justified omissions across periods and forms, noting the selection effects of translation availability and international visibility.
+
+CURRENT TARGET DEFINITION AND HISTORICAL METHOD
+{
+  "id": 15,
+  "slug": "books-japan",
+  "title": "Books · Japan",
+  "description": "Research template. Criteria and entries are not yet assessed. Each research target requires at least 50 distinct, relevant, diverse consulted sources.",
+  "domain": "literature",
+  "item_type": "work",
+  "presentation": "ranked",
+  "origin": "curated",
+  "target_size": 100,
+  "status": "initial_selection",
+  "source_url": "",
+  "publisher": "",
+  "last_researched_at": null,
+  "last_sources_checked_at": null,
+  "revision": 3,
+  "criteria": [],
+  "scope": {
+    "forms": [
+      "book",
+      "collection",
+      "essay",
+      "play"
+    ],
+    "country": "Japan",
+    "association": "documented_literary_cultural",
+    "english_edition_required": true,
+    "allow_unresolved_attribution": true,
+    "revised_scope_date": "2026-09-14"
+  },
+  "historical_editorial_method_and_notes": {
+    "version": "owner-chat-audited-country-revision-2026-09-14",
+    "published_on": "2026-09-14",
+    "notice": "Owner-supplied audited revision. Previous revision and source history are preserved; no personal numerical scores are set.",
+    "method": "Audited owner-supplied all-time country synthesis. The report maps evidence to entries and records access limitations; its editorial order is retained in both views pending a separately reasoned reading-value order.",
+    "input_sha256": "2bf34bbbc428a3787202baffae2adc3f5354063317919ce03b308ffc5eb6cd95",
+    "reviewed_exclusions": [
+      {
+        "item_id": 800,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 813,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 818,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 820,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 824,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 825,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 828,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 829,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 830,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 843,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 844,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 847,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 849,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 851,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 855,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 858,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 863,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 864,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 865,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 866,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 869,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 870,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 871,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 875,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      },
+      {
+        "item_id": 876,
+        "reason": "Explicitly removed in the owner-supplied audited revision after comparison with the expanded candidate pool; retained in prior revision history and not deleted."
+      }
+    ]
+  }
+}
+
+CURRENT SAVED EDITORIAL ORDERS
+Item IDs below resolve to the complete current entries or the explicit orphan mapping appendix. A saved order is historical, not a requirement to retain the same order. For unranked/country-grouped records, these are display sequences, not global merit positions.
+{
+  "standing": {
+    "label": "Audited revised all-time order",
+    "description": "The supplied 14 September 2026 revised editorial order.",
+    "item_ids": [
+      6,
+      783,
+      3,
+      6518,
+      787,
+      782,
+      788,
+      784,
+      6409,
+      786,
+      6519,
+      790,
+      794,
+      785,
+      789,
+      359,
+      793,
+      6410,
+      796,
+      797,
+      6411,
+      792,
+      6412,
+      791,
+      6520,
+      6413,
+      804,
+      795,
+      805,
+      801,
+      817,
+      822,
+      803,
+      799,
+      798,
+      802,
+      840,
+      6414,
+      6415,
+      806,
+      807,
+      6416,
+      823,
+      6417,
+      808,
+      842,
+      6418,
+      821,
+      6419,
+      815,
+      6420,
+      836,
+      814,
+      812,
+      837,
+      6421,
+      873,
+      6422,
+      845,
+      811,
+      809,
+      810,
+      6423,
+      853,
+      6424,
+      6425,
+      6426,
+      841,
+      826,
+      848,
+      833,
+      816,
+      832,
+      835,
+      859,
+      6427,
+      6428,
+      6429,
+      856,
+      827,
+      862,
+      860,
+      857,
+      6430,
+      831,
+      838,
+      867,
+      872,
+      6431,
+      6432,
+      846,
+      834,
+      839,
+      874,
+      852,
+      854,
+      850,
+      819,
+      868,
+      861
+    ]
+  },
+  "reading": {
+    "label": "Revised order (reading-value view pending)",
+    "description": "No separate reading-value order was supplied.",
+    "item_ids": [
+      6,
+      783,
+      3,
+      6518,
+      787,
+      782,
+      788,
+      784,
+      6409,
+      786,
+      6519,
+      790,
+      794,
+      785,
+      789,
+      359,
+      793,
+      6410,
+      796,
+      797,
+      6411,
+      792,
+      6412,
+      791,
+      6520,
+      6413,
+      804,
+      795,
+      805,
+      801,
+      817,
+      822,
+      803,
+      799,
+      798,
+      802,
+      840,
+      6414,
+      6415,
+      806,
+      807,
+      6416,
+      823,
+      6417,
+      808,
+      842,
+      6418,
+      821,
+      6419,
+      815,
+      6420,
+      836,
+      814,
+      812,
+      837,
+      6421,
+      873,
+      6422,
+      845,
+      811,
+      809,
+      810,
+      6423,
+      853,
+      6424,
+      6425,
+      6426,
+      841,
+      826,
+      848,
+      833,
+      816,
+      832,
+      835,
+      859,
+      6427,
+      6428,
+      6429,
+      856,
+      827,
+      862,
+      860,
+      857,
+      6430,
+      831,
+      838,
+      867,
+      872,
+      6431,
+      6432,
+      846,
+      834,
+      839,
+      874,
+      852,
+      854,
+      850,
+      819,
+      868,
+      861
+    ]
+  }
+}
+
+COMPLETE CURRENT ENTRY LIST: 100 ENTRIES
+Database position is the current saved display order; separate editorial views appear above. Saved bibliographic metadata is not independently reverified by this export.
+
+ENTRY 1 | work:6 | The Tale of Genji — Murasaki Shikibu
+{"entry_id": 1267, "item_type": "work", "item_id": 6, "source_rank": null, "rationale": "Position 1 in the owner-supplied audited 14 September 2026 revision. The strongest first choice for its sustained psychological observation, shifting perspectives and immense afterlife. Its treatment of desire, rank, memory and women's constrained agency supports repeated reinterpretation; the surviving text's formation should not be reduced to a confidently dated single draft.", "assessments": {}, "catalog": {"id": 6, "title": "The Tale of Genji", "form": "book", "field": "literature", "original_year": null, "original_language": "Japanese", "countries": ["Japan"], "description": "A long narrative of relationships, court life and changing generations in Heian Japan. Composition belongs to the early eleventh century; an exact year is not asserted.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 6, "name": "Murasaki Shikibu", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/books/62239/the-tale-of-genji-by-murasaki-shikibu-trans-royall-tyler/9780142437148", "image_attribution": "Tosa Mitsuoki (1617 - 1691); Public domain. https://commons.wikimedia.org/wiki/File:Murasaki-Shikibu-composing-Genji-Monogatari.png Historical depiction, not a contemporary likeness.", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 6, "language": "English", "translator": "Royall Tyler", "publisher": "Penguin Classics", "isbn": "9780142437148", "pages": 1216, "word_count": null, "abridged": 0, "translation_notes": "Publisher explicitly identifies a complete translation, with notes, glossaries, character lists and chronology.", "source_url": "https://www.penguin.co.uk/books/62239/the-tale-of-genji-by-murasaki-shikibu-trans-royall-tyler/9780142437148", "image_attribution": "Cover: Penguin Classics. Publisher-supplied image for ISBN 9780142437148; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 1 in the owner-supplied audited 14 September 2026 revision. The strongest first choice for its sustained psychological observation, shifting perspectives and immense afterlife. Its treatment of desire, rank, memory and women's constrained agency supports repeated reinterpretation; the surviving text's formation should not be reduced to a confidently dated single draft.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-135", "title": "Reading The Tale of Genji | Columbia University Press", "url": "https://cup.columbia.edu/book/reading-the-tale-of-genji/9780231537209/"}, {"source_id": "JAPAN-141", "title": "The Tale of Genji - Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Tale_of_Genji"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 2 | work:783 | The Tale of the Heike — Anonymous
+{"entry_id": 1270, "item_type": "work", "item_id": 783, "source_rank": null, "rationale": "Position 2 in the owner-supplied audited 14 September 2026 revision. An extraordinary conjunction of battle narrative, lament and Buddhist impermanence. Its many voices and performative transmission make it a central literary achievement rather than simply a record of the Genpei War.", "assessments": {}, "catalog": {"id": 783, "title": "The Tale of the Heike", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Japan"], "description": "Included at position 4 in the owner-supplied country synthesis. Original report title: The Tale of the Heike.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 581, "name": "Anonymous", "biography": "", "countries": [], "source_url": "https://www.goodreads.com/list/show/6497.Japanese_Literature", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 3622, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://www.goodreads.com/book/show/75301535-the-tale-of-the-heike", "image_attribution": "Web image result from www.goodreads.com: https://www.goodreads.com/book/show/75301535-the-tale-of-the-heike (image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672031747i/75301535.jpg)", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 2 in the owner-supplied audited 14 September 2026 revision. An extraordinary conjunction of battle narrative, lament and Buddhist impermanence. Its many voices and performative transmission make it a central literary achievement rather than simply a record of the Genpei War.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-133", "title": "Traditional Japanese Literature | Columbia University Press", "url": "https://cup.columbia.edu/book/traditional-japanese-literature/9780231136976/"}, {"source_id": "JAPAN-172", "title": "The Tale of the Heike - Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Tale_of_the_Heike"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 3 | work:3 | Kokoro — Natsume Sōseki
+{"entry_id": 1268, "item_type": "work", "item_id": 3, "source_rank": null, "rationale": "Position 3 in the owner-supplied audited 14 September 2026 revision. A controlled study of trust, guilt and isolation whose late confession transforms everything preceding it. Retained near the summit because its narrative construction makes the ethical problem inseparable from the act of reading.", "assessments": {}, "catalog": {"id": 3, "title": "Kokoro", "form": "book", "field": "literature", "original_year": 1914, "original_language": "Japanese", "countries": ["Japan"], "description": "A novel of friendship, guilt and generational change, with a younger narrator and an older figure called Sensei.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 3, "name": "Natsume Sōseki", "biography": "", "countries": [], "source_url": "https://www.konan-u.ac.jp/lib/blog/archives/7958", "image_attribution": "Ogawa Kazumasa; Public domain. https://commons.wikimedia.org/wiki/File:Natsume_Soseki_photo.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 3, "language": "English", "translator": "Meredith McKinney", "publisher": "Penguin Classics", "isbn": "9780143106036", "pages": 256, "word_count": null, "abridged": 0, "translation_notes": "English translation with introduction and notes by Meredith McKinney. The publisher page contains an unrelated author-biography block; that block was excluded from catalog research.", "source_url": "https://www.penguinrandomhouse.com/books/302596/kokoro-by-natsume-soseki-translated-with-an-introduction-and-notes-by-meredith-mckinney/9780143106036/", "image_attribution": "Cover: Penguin Classics. Publisher-supplied image for ISBN 9780143106036; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 3 in the owner-supplied audited 14 September 2026 revision. A controlled study of trust, guilt and isolation whose late confession transforms everything preceding it. Retained near the summit because its narrative construction makes the ethical problem inseparable from the act of reading.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-149", "title": "図書カード：こころ", "url": "https://www.aozora.gr.jp/cards/000148/card773.html"}, {"source_id": "JAPAN-208", "title": "Kokoro | Japanische Literatur", "url": "https://japanliteratur.net/kokoro/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 4 | work:6518 | Man'yōshū
+{"entry_id": 11133, "item_type": "work", "item_id": 6518, "source_rank": null, "rationale": "Position 4 in the owner-supplied audited 14 September 2026 revision. The diversity of voices, occasions and poetic scales gives this anthology exceptional range. It rises because an all-form canon should recognize poetry's foundational imaginative achievement alongside the later novel.", "assessments": {}, "catalog": {"id": 6518, "title": "Man'yōshū", "form": "collection", "field": "literature", "original_year": null, "original_language": "Old Japanese", "countries": ["Japan"], "description": "Position 4 in the owner-supplied audited revision. Attribution: Many poets; compilation uncertain, with Ōtomo no Yakamochi traditionally associated with its final formation. Date: 8th-century compilation; latest dated poem 759. Form: Collective poetry anthology. The diversity of voices, occasions and poetic scales gives this anthology exceptional range. It rises because an all-form canon should recognize poetry's foundational imaginative achievement alongside the later novel.", "contained_in_id": null, "is_archived": 0, "authors": [], "default_edition": null}, "editorial_evidence_and_rationales": {"standing": "Position 4 in the owner-supplied audited 14 September 2026 revision. The diversity of voices, occasions and poetic scales gives this anthology exceptional range. It rises because an all-form canon should recognize poetry's foundational imaginative achievement alongside the later novel.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-133", "title": "Traditional Japanese Literature | Columbia University Press", "url": "https://cup.columbia.edu/book/traditional-japanese-literature/9780231136976/"}, {"source_id": "JAPAN-142", "title": "Man'yōshū - Wikipedia", "url": "https://en.wikipedia.org/wiki/Man%27y%C5%8Dsh%C5%AB"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 5 | work:787 | The Pillow Book — Sei Shōnagon
+{"entry_id": 1274, "item_type": "work", "item_id": 787, "source_rank": null, "rationale": "Position 5 in the owner-supplied audited 14 September 2026 revision. Its lists are instruments of judgment, comedy and exact perception. The movement between private taste and public court life remains formally adventurous, while its class-bound perspective invites critical reading rather than sentimental admiration.", "assessments": {}, "catalog": {"id": 787, "title": "The Pillow Book", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Japan"], "description": "Included at position 8 in the owner-supplied country synthesis. Original report title: The Pillow Book.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 584, "name": "Sei Shōnagon", "biography": "", "countries": [], "source_url": "https://www.goodreads.com/list/show/6497.Japanese_Literature", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 798, "language": "English", "translator": "", "publisher": "Penguin Books", "isbn": "9780140442366", "pages": 411, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL4087156W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/6938306-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 5 in the owner-supplied audited 14 September 2026 revision. Its lists are instruments of judgment, comedy and exact perception. The movement between private taste and public court life remains formally adventurous, while its class-bound perspective invites critical reading rather than sentimental admiration.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-171", "title": "The Pillow Book - Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Pillow_Book"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 6 | work:782 | The Makioka Sisters — Jun'ichirō Tanizaki
+{"entry_id": 1269, "item_type": "work", "item_id": 782, "source_rank": null, "rationale": "Position 6 in the owner-supplied audited 14 September 2026 revision. Domestic negotiations become the medium for a large historical portrait. Its patient attention to four sisters, social standing and ordinary rituals warrants continued placement among the greatest Japanese novels despite a modest downward move.", "assessments": {}, "catalog": {"id": 782, "title": "The Makioka Sisters", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Japan"], "description": "Included at position 3 in the owner-supplied country synthesis. Original report title: The Makioka Sisters.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 580, "name": "Jun'ichirō Tanizaki", "biography": "", "countries": [], "source_url": "https://www.goodreads.com/list/show/6497.Japanese_Literature", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 3621, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://www.amazon.com/Makioka-Sisters-Junichiro-Tanizaki/dp/0679761640", "image_attribution": "Web image result from www.amazon.com: https://www.amazon.com/Makioka-Sisters-Junichiro-Tanizaki/dp/0679761640 (image: https://m.media-amazon.com/images/I/61WNh1+F1ZL._SL1200_.jpg)", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 6 in the owner-supplied audited 14 September 2026 revision. Domestic negotiations become the medium for a large historical portrait. Its patient attention to four sisters, social standing and ordinary rituals warrants continued placement among the greatest Japanese novels despite a modest downward move.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-177", "title": "The Makioka Sisters - Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Makioka_Sisters"}, {"source_id": "JAPAN-199", "title": "The Makioka Sisters | Japanische Literatur", "url": "https://japanliteratur.net/the-makioka-sisters/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 7 | work:788 | The Narrow Road to the Deep North — Matsuo Bashō
+{"entry_id": 1275, "item_type": "work", "item_id": 788, "source_rank": null, "rationale": "Position 7 in the owner-supplied audited 14 September 2026 revision. A densely shaped literary journey in which landscape, earlier poetry and mortality answer one another. The prose and verse create meaning together; this is neither a literal itinerary nor merely a selection of famous haiku.", "assessments": {}, "catalog": {"id": 788, "title": "The Narrow Road to the Deep North", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Japan"], "description": "Included at position 9 in the owner-supplied country synthesis. Original report title: The Narrow Road to the Deep North.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 585, "name": "Matsuo Bashō", "biography": "", "countries": [], "source_url": "https://www.goodreads.com/list/show/6497.Japanese_Literature", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 3625, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://www.penguinrandomhouse.com/books/266685/the-narrow-road-to-the-deep-north-and-other-travel-sketches-by-matsuo-basho/", "image_attribution": "Web image result from www.penguinrandomhouse.com: https://www.penguinrandomhouse.com/books/266685/the-narrow-road-to-the-deep-north-and-other-travel-sketches-by-matsuo-basho/ (image: https://images4.penguinrandomhouse.com/smedia/9780140441857)", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 7 in the owner-supplied audited 14 September 2026 revision. A densely shaped literary journey in which landscape, earlier poetry and mortality answer one another. The prose and verse create meaning together; this is neither a literal itinerary nor merely a selection of famous haiku.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-134", "title": "Japan and the Culture of the Four Seasons | Columbia University Press", "url": "https://cup.columbia.edu/book/japan-and-the-culture-of-the-four-seasons/9780231152808/"}, {"source_id": "JAPAN-173", "title": "Oku no Hosomichi - Wikipedia", "url": "https://en.wikipedia.org/wiki/Oku_no_Hosomichi"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 8 | work:784 | Snow Country — Yasunari Kawabata
+{"entry_id": 1271, "item_type": "work", "item_id": 784, "source_rank": null, "rationale": "Position 8 in the owner-supplied audited 14 September 2026 revision. Ellipsis and recurring visual and auditory images make frustrated intimacy almost palpable. Its opacity is integral to its power, although translation and the protagonist's aesthetic detachment complicate the familiar image of a serenely beautiful book.", "assessments": {}, "catalog": {"id": 784, "title": "Snow Country", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Japan"], "description": "Included at position 5 in the owner-supplied country synthesis. Original report title: Snow Country.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 295, "name": "Yasunari Kawabata", "biography": "", "countries": [], "source_url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": null}, "editorial_evidence_and_rationales": {"standing": "Position 8 in the owner-supplied audited 14 September 2026 revision. Ellipsis and recurring visual and auditory images make frustrated intimacy almost palpable. Its opacity is integral to its power, although translation and the protagonist's aesthetic detachment complicate the familiar image of a serenely beautiful book.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-178", "title": "Snow Country - Wikipedia", "url": "https://en.wikipedia.org/wiki/Snow_Country"}, {"source_id": "JAPAN-197", "title": "Schneeland | Japanische Literatur", "url": "https://japanliteratur.net/schneeland/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 9 | work:6409 | Rashōmon and Seventeen Other Stories — the specified modern selection is translated by Jay Rubin, with an introduction by Haruki Murakami; Ryūnosuke Akutagawa
+{"entry_id": 11134, "item_type": "work", "item_id": 6409, "source_rank": null, "rationale": "Position 9 in the owner-supplied audited 14 September 2026 revision. Adds the original list's most conspicuous missing major storyteller. Historical reinvention, unreliable testimony, artistic obsession and late self-disintegration demonstrate a range a single famous story cannot represent. The slot denotes a specified selection, not a lifetime book assembled by Akutagawa.", "assessments": {}, "catalog": {"id": 6409, "title": "Rashōmon and Seventeen Other Stories", "form": "collection", "field": "literature", "original_year": null, "original_language": "Japanese / Japan", "countries": ["Japan"], "description": "Position 9 in the owner-supplied audited revision. Attribution: Ryūnosuke Akutagawa; the specified modern selection is translated by Jay Rubin, with an introduction by Haruki Murakami. Date: stories from the 1910s–1927; specified English selection 2006. Form: Selected short stories; modern editorial anthology. Adds the original list's most conspicuous missing major storyteller. Historical reinvention, unreliable testimony, artistic obsession and late self-disintegration demonstrate a range a single famous story cannot represent. The slot denotes a specified selection, not a lifetime book assembled by Akutagawa.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 4312, "name": "the specified modern selection is translated by Jay Rubin, with an introduction by Haruki Murakami", "biography": "", "countries": [], "source_url": "https://www.jlpp.go.jp/en/works/01_01.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}, {"id": 2613, "name": "Ryūnosuke Akutagawa", "biography": "", "countries": [], "source_url": "https://www.goodreads.com/list/show/787.Best_Short_Story_Collections", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": null}, "editorial_evidence_and_rationales": {"standing": "Position 9 in the owner-supplied audited 14 September 2026 revision. Adds the original list's most conspicuous missing major storyteller. Historical reinvention, unreliable testimony, artistic obsession and late self-disintegration demonstrate a range a single famous story cannot represent. The slot denotes a specified selection, not a lifetime book assembled by Akutagawa.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-154", "title": "図書カード：地獄変", "url": "https://www.aozora.gr.jp/cards/000879/card60.html"}, {"source_id": "JAPAN-191", "title": "Rashomon and 17 Other Stories | The 1st Selected Works | Translation Works | Japan International Translation Competition", "url": "https://www.jlpp.go.jp/en/works/01_01.html"}, {"source_id": "JAPAN-222", "title": "図書カード：羅生門", "url": "https://www.aozora.gr.jp/cards/000879/card127.html"}, {"source_id": "JAPAN-259", "title": "Penguin Books Australia — Rashomon and Seventeen Other Stories", "url": "https://www.penguin.com.au/books/rashomon-and-seventeen-other-stories-9780140449709"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 10 | work:786 | The Woman in the Dunes — Kōbō Abe
+{"entry_id": 1273, "item_type": "work", "item_id": 786, "source_rank": null, "rationale": "Position 10 in the owner-supplied audited 14 September 2026 revision. Its material world of sand and repetitive labor sustains an unusually rigorous investigation of freedom, captivity and adaptation. A compelling story and an unresolved philosophical experiment reinforce one another.", "assessments": {}, "catalog": {"id": 786, "title": "The Woman in the Dunes", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Japan"], "description": "Included at position 7 in the owner-supplied country synthesis. Original report title: The Woman in the Dunes.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 583, "name": "Kōbō Abe", "biography": "", "countries": [], "source_url": "https://www.goodreads.com/list/show/6497.Japanese_Literature", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 3623, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 158, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://www.amazon.com/woman-dunes-Kobo-Abe/dp/B0006BM0W4", "image_attribution": "Web image result from www.amazon.com: https://www.amazon.com/woman-dunes-Kobo-Abe/dp/B0006BM0W4 (image: https://m.media-amazon.com/images/I/91dnEYZMJML._SL1500_.jpg)", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 10 in the owner-supplied audited 14 September 2026 revision. Its material world of sand and repetitive labor sustains an unusually rigorous investigation of freedom, captivity and adaptation. A compelling story and an unresolved philosophical experiment reinforce one another.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-179", "title": "The Woman in the Dunes - Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Woman_in_the_Dunes"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 11 | work:6519 | Kokin Wakashū
+{"entry_id": 11135, "item_type": "work", "item_id": 6519, "source_rank": null, "rationale": "Position 11 in the owner-supplied audited 14 September 2026 revision. The ordered anthology makes seasons and love into extended structures of feeling. Its importance lies in arrangement and critical self-definition as well as individual poems, justifying a substantial rise from the original list.", "assessments": {}, "catalog": {"id": 6519, "title": "Kokin Wakashū", "form": "collection", "field": "literature", "original_year": null, "original_language": "Classical Japanese", "countries": ["Japan"], "description": "Position 11 in the owner-supplied audited revision. Attribution: Many poets; compilers Ki no Tsurayuki, Ki no Tomonori, Ōshikōchi no Mitsune and Mibu no Tadamine. Date: commissioned 905; completed in the early 10th century. Form: Imperial waka anthology and poetics. The ordered anthology makes seasons and love into extended structures of feeling. Its importance lies in arrangement and critical self-definition as well as individual poems, justifying a substantial rise from the original list.", "contained_in_id": null, "is_archived": 0, "authors": [], "default_edition": null}, "editorial_evidence_and_rationales": {"standing": "Position 11 in the owner-supplied audited 14 September 2026 revision. The ordered anthology makes seasons and love into extended structures of feeling. Its importance lies in arrangement and critical self-definition as well as individual poems, justifying a substantial rise from the original list.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-134", "title": "Japan and the Culture of the Four Seasons | Columbia University Press", "url": "https://cup.columbia.edu/book/japan-and-the-culture-of-the-four-seasons/9780231152808/"}, {"source_id": "JAPAN-143", "title": "Kokin Wakashū - Wikipedia", "url": "https://en.wikipedia.org/wiki/Kokin_Wakash%C5%AB"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 12 | work:790 | The Silent Cry — Kenzaburō Ōe
+{"entry_id": 1277, "item_type": "work", "item_id": 790, "source_rank": null, "rationale": "Position 12 in the owner-supplied audited 14 September 2026 revision. Family trauma and village history collide in a violent examination of myth, responsibility and political inheritance. It remains Ōe's strongest all-time representative here because individual experience and collective history are held in unstable tension.", "assessments": {}, "catalog": {"id": 790, "title": "The Silent Cry", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Japan"], "description": "Included at position 11 in the owner-supplied country synthesis. Original report title: The Silent Cry.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 587, "name": "Kenzaburō Ōe", "biography": "", "countries": [], "source_url": "https://www.goodreads.com/list/show/6497.Japanese_Literature", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 801, "language": "English", "translator": "", "publisher": "Serpent's Tail Limited", "isbn": "9781846688072", "pages": 274, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL24218506W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/10678366-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 12 in the owner-supplied audited 14 September 2026 revision. Family trauma and village history collide in a violent examination of myth, responsibility and political inheritance. It remains Ōe's strongest all-time representative here because individual experience and collective history are held in unstable tension.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-180", "title": "The Silent Cry - Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Silent_Cry"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 13 | work:794 | Essays in Idleness — Yoshida Kenkō
+{"entry_id": 1282, "item_type": "work", "item_id": 794, "source_rank": null, "rationale": "Position 13 in the owner-supplied audited 14 September 2026 revision. An exceptionally flexible intelligence moves between comic social observation, aesthetic judgment and awareness of death. Its fragmentary form supports contradiction and rereading instead of presenting a seamless moral system.", "assessments": {}, "catalog": {"id": 794, "title": "Essays in Idleness", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Japan"], "description": "Included at position 16 in the owner-supplied country synthesis. Original report title: Essays in Idleness.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 589, "name": "Yoshida Kenkō", "biography": "", "countries": [], "source_url": "https://www.goodreads.com/list/show/6497.Japanese_Literature", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 679, "language": "English", "translator": "", "publisher": "Cosimo Classics", "isbn": "1596050624", "pages": 104, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL8994034W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/875425-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 13 in the owner-supplied audited 14 September 2026 revision. An exceptionally flexible intelligence moves between comic social observation, aesthetic judgment and awareness of death. Its fragmentary form supports contradiction and rereading instead of presenting a seamless moral system.", "reading": "No separate reading-value order was supplied; this view retains the revised report order.", "caveat": "The supplied citations support context, criticism, reception, bibliography or audited access limits, not an exact consensus rank. Reported consultation/access remains externally reported; editions and media are pending.", "sources": [{"source_id": "JAPAN-175", "title": "Tsurezuregusa - Wikipedia", "url": "https://en.wikipedia.org/wiki/Tsurezuregusa"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+END OF THIS INPUT PART. Wait for the next numbered part.

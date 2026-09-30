@@ -1,0 +1,73 @@
+{
+  "core_user": {
+    "rows_before": 1,
+    "rows_after": 1,
+    "unchanged": true
+  },
+  "core_classicalstudyprofile": {
+    "rows_before": 0,
+    "rows_after": 0,
+    "unchanged": true
+  },
+  "core_rankingpreference": {
+    "rows_before": 1,
+    "rows_after": 1,
+    "unchanged": true
+  },
+  "core_libraryitem": {
+    "rows_before": 10,
+    "rows_after": 10,
+    "unchanged": true
+  },
+  "core_readinggoal": {
+    "rows_before": 0,
+    "rows_after": 0,
+    "unchanged": true
+  },
+  "core_readingattempt": {
+    "rows_before": 0,
+    "rows_after": 0,
+    "unchanged": true
+  },
+  "core_planitem": {
+    "rows_before": 1,
+    "rows_after": 1,
+    "unchanged": true
+  },
+  "core_readingadjustment": {
+    "rows_before": 0,
+    "rows_after": 0,
+    "unchanged": true
+  },
+  "core_ranking": {
+    "rows_before": 0,
+    "rows_after": 0,
+    "unchanged": true
+  },
+  "core_rankingentry": {
+    "rows_before": 0,
+    "rows_after": 0,
+    "unchanged": true
+  },
+  "core_rankingrevision": {
+    "rows_before": 0,
+    "rows_after": 0,
+    "unchanged": true
+  },
+  "integrity": [
+    [
+      "ok"
+    ]
+  ],
+  "foreign_key_errors": [],
+  "deletion_guards": [
+    "protect_core_person_deletion",
+    "protect_core_work_deletion",
+    "protect_core_tag_deletion",
+    "protect_core_researchsource_deletion",
+    "protect_core_ranking_deletion",
+    "protect_core_rankingrevision_deletion",
+    "protect_core_rankingentry_deletion",
+    "protect_core_edition_deletion"
+  ]
+}

@@ -1,0 +1,119 @@
+.today-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+  gap: 24px;
+  align-items: start;
+}
+.today-reading,
+.today-plan,
+.today-next {
+  min-width: 0;
+}
+.today-plan {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+}
+.today-next {
+  grid-column: 1;
+}
+.today-book + .today-book {
+  border-top: 1px solid var(--border);
+}
+.today-book-details {
+  display: grid;
+  gap: 12px;
+  padding: 0 22px 20px;
+}
+.today-progress-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 10px;
+}
+.today-progress-form .field {
+  flex: 1 0 100px;
+  max-width: 150px;
+  margin-bottom: 0;
+}
+.today-progress-form > button {
+  margin-bottom: 3px;
+}
+.today-totals {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.today-totals strong {
+  display: block;
+  color: var(--accent);
+  font: 30px var(--serif);
+}
+.today-totals span {
+  display: block;
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 6px;
+}
+.today-allocation {
+  padding: 18px 0;
+  border-top: 1px solid var(--border);
+}
+.today-allocation:first-of-type {
+  margin-top: 18px;
+}
+.today-allocation .book-title {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+.allocation-progress {
+  display: grid;
+  gap: 8px;
+  margin: 10px 0;
+}
+.allocation-progress > .text-link {
+  justify-self: start;
+  font-size: 11px;
+}
+.allocation-progress-form {
+  display: grid;
+  gap: 9px;
+}
+.allocation-progress-form .field {
+  margin: 0;
+}
+.allocation-progress-form .input {
+  max-width: 160px;
+}
+.allocation-progress-form .row-actions {
+  flex-wrap: wrap;
+}
+.carryover-preview {
+  display: grid;
+  gap: 12px;
+  margin-top: 20px;
+}
+.month-carryover {
+  margin: 0 20px 16px;
+}
+@media (max-width: 1050px) {
+  .today-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .today-plan,
+  .today-next {
+    grid-column: auto;
+    grid-row: auto;
+  }
+}
+@media (max-width: 500px) {
+  .today-totals {
+    gap: 8px;
+  }
+  .today-totals strong {
+    font-size: 25px;
+  }
+  .today-book-details {
+    padding: 0 14px 16px;
+  }
+}

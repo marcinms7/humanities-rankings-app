@@ -1,0 +1,1225 @@
+UPDATE REQUEST: Epistemology · Works
+Target ID: books-epistemology
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 100; current source records: 163 (includes unverified leads).
+Desired scope: A broad approximately 100-work epistemology selection including books and landmark essays, with explicit work boundaries and comparative rationale.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+100 entries and 163 eligible records all marked summary_only. Every entry repeats five general SEP articles, so the large register does not establish candidate-specific support. Earlier title/author inversion was corrected and should not be reintroduced.
+1. Audit source content and map actual discussions, bibliographies, reviews and recommendations to individual books and landmark essays.
+2. Separate SEP background coverage from evidence for a work's influence, reception and comparative standing; a general field article should not be attached indiscriminately to every candidate.
+3. Preserve corrected title/author identities and distinguish essays from similarly titled books or collections containing them.
+4. Review coverage across foundational, skeptical, formal, social and other relevant epistemological traditions, explaining inclusion and disciplinary boundary cases.
+5. Reassess major omissions and close positions with substantive evidence rather than counting bibliography appearances as equivalent endorsements.
+
+CURRENT SCOPE
+{"forms": ["book", "essay"], "topic": "epistemology"}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:32] Critique of Pure Reason — Immanuel Kant | standing=1; reading=1 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+2. [work:440] Theaetetus — Plato | standing=2; reading=2 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+3. [work:13] An Enquiry concerning Human Understanding — David Hume | standing=3; reading=3 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+4. [work:44] Meditations on First Philosophy — René Descartes | standing=4; reading=4 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+5. [work:612] An Essay Concerning Human Understanding — John Locke | standing=5; reading=5 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+6. [work:4095] Is Justified True Belief Knowledge? — Edmund Gettier | standing=6; reading=6 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+7. [work:3808] Posterior Analytics — Aristotle | standing=7; reading=7 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+8. [work:3146] Outlines of Pyrrhonism — Sextus Empiricus | standing=8; reading=8 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+9. [work:4096] On Certainty — Ludwig Wittgenstein | standing=9; reading=9 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+10. [work:4097] Knowledge and Its Limits — Timothy Williamson | standing=10; reading=10 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+11. [work:3782] Empiricism and the Philosophy of Mind — Wilfrid Sellars | standing=11; reading=11 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+12. [work:4098] Epistemology Naturalized — W. V. O. Quine | standing=12; reading=12 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+13. [work:4099] Knowledge in Perspective — Ernest Sosa | standing=13; reading=13 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+14. [work:4100] What Is Justified Belief? — Alvin I. Goldman | standing=14; reading=14 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+15. [work:4101] Essays on the Intellectual Powers of Man — Thomas Reid | standing=15; reading=15 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+16. [work:4102] Nyāya Sūtra — Gautama | standing=16; reading=16 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+17. [work:4103] The Structure of Empirical Knowledge — Laurence BonJour | standing=17; reading=17 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+18. [work:4104] Knowledge and the Flow of Information — Fred Dretske | standing=18; reading=18 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+19. [work:4105] Philosophical Explanations — Part III: Knowledge — Robert Nozick | standing=19; reading=19 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+20. [work:4106] Epistemic Injustice: Power and the Ethics of Knowing — Miranda Fricker | standing=20; reading=20 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+21. [work:4107] Warrant and Proper Function — Alvin Plantinga | standing=21; reading=21 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+22. [work:4108] Epistemology and Cognition — Alvin I. Goldman | standing=22; reading=22 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+23. [work:433] Meno — Plato | standing=23; reading=23 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+24. [work:4109] A Defence of Common Sense — G. E. Moore | standing=24; reading=24 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+25. [work:4110] Theory of Knowledge — Roderick M. Chisholm | standing=25; reading=25 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+26. [work:4111] Pramāṇasamuccaya — Dignāga | standing=26; reading=26 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+27. [work:4112] Pramāṇavārttika — Dharmakīrti | standing=27; reading=27 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+28. [work:3700] A Treatise Concerning the Principles of Human Knowledge — George Berkeley | standing=28; reading=28 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+29. [work:4113] A Treatise of Human Nature — Book I — David Hume | standing=29; reading=29 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+30. [work:4114] New Essays on Human Understanding — G. W. Leibniz | standing=30; reading=30 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+31. [work:4115] The Fixation of Belief — C. S. Peirce | standing=31; reading=31 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+32. [work:4116] How to Make Our Ideas Clear — C. S. Peirce | standing=32; reading=32 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+33. [work:4117] The Logic of Scientific Discovery — Karl Popper | standing=33; reading=33 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+34. [work:230] The Structure of Scientific Revolutions — Thomas S. Kuhn | standing=34; reading=34 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+35. [work:4118] The Problem of Knowledge — A. J. Ayer | standing=35; reading=35 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+36. [work:4119] Belief, Truth and Knowledge — D. M. Armstrong | standing=36; reading=36 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+37. [work:4120] Sense and Sensibilia — J. L. Austin | standing=37; reading=37 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+38. [work:4121] Epistemic Justification — William P. Alston | standing=38; reading=38 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+39. [work:4122] Virtues of the Mind — Linda Trinkaus Zagzebski | standing=39; reading=39 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+40. [work:4123] Tattvacintāmaṇi — Gaṅgeśa | standing=40; reading=40 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+41. [work:4124] al-Munqidh min al-Ḍalāl — al-Ghazālī | standing=41; reading=41 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+42. [work:4125] Contra Academicos — Augustine of Hippo | standing=42; reading=42 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+43. [work:4126] De veritate — Thomas Aquinas | standing=43; reading=43 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+44. [work:4127] The Book of Demonstration, from The Healing — Avicenna | standing=44; reading=44 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+45. [work:448] Novum Organum — Francis Bacon | standing=45; reading=45 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+46. [work:4128] The Search after Truth — Nicolas Malebranche | standing=46; reading=46 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+47. [work:4068] The Problems of Philosophy — Bertrand Russell | standing=47; reading=47 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+48. [work:4129] An Analysis of Knowledge and Valuation — C. I. Lewis | standing=48; reading=48 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+49. [work:4130] The Quest for Certainty — John Dewey | standing=49; reading=49 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+50. [work:3825] Personal Knowledge — Michael Polanyi | standing=50; reading=50 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+51. [work:3814] A System of Logic — John Stuart Mill | standing=51; reading=51 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+52. [work:4131] Qiwulun — Zhuangzi | standing=52; reading=52 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+53. [work:4132] Mozi — Canons and Explanations — Later Mohists | standing=53; reading=53 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+54. [work:4133] Vigrahavyāvartanī — Nāgārjuna | standing=54; reading=54 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+55. [work:4134] Perception: An Essay on Classical Indian Theories of Knowledge — B. K. Matilal | standing=55; reading=55 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+56. [work:4135] The Nyāya Theory of Knowledge — Satischandra Chatterjee | standing=56; reading=56 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+57. [work:4136] Epistemology in Classical India: The Knowledge Sources of the Nyāya School — Stephen H. Phillips | standing=57; reading=57 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+58. [work:3823] Science as Social Knowledge — Helen E. Longino | standing=58; reading=58 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+59. [work:4137] Whose Science? Whose Knowledge? — Sandra Harding | standing=59; reading=59 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+60. [work:4138] Situated Knowledges — Donna Haraway | standing=60; reading=60 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+61. [work:4139] Epistemic Responsibility — Lorraine Code | standing=61; reading=61 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+62. [work:4140] Knowledge in a Social World — Alvin I. Goldman | standing=62; reading=62 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+63. [work:4141] Testimony: A Philosophical Study — C. A. J. Coady | standing=63; reading=63 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+64. [work:4142] Learning from Words: Testimony as a Source of Knowledge — Jennifer Lackey | standing=64; reading=64 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+65. [work:4143] The Epistemology of Resistance — José Medina | standing=65; reading=65 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+66. [work:4144] Tracking Epistemic Violence, Tracking Practices of Silencing — Kristie Dotson | standing=66; reading=66 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+67. [work:4145] Knowledge and the State of Nature — Edward Craig | standing=67; reading=67 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+68. [work:4146] Evidence and Inquiry — Susan Haack | standing=68; reading=68 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+69. [work:4147] The Value of Knowledge and the Pursuit of Understanding — Jonathan L. Kvanvig | standing=69; reading=69 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+70. [work:4148] Epistemic Luck — Duncan Pritchard | standing=70; reading=70 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+71. [work:4149] Achieving Knowledge — John Greco | standing=71; reading=71 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+72. [work:4150] A Virtue Epistemology: Apt Belief and Reflective Knowledge, Vol. I — Ernest Sosa | standing=72; reading=72 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+73. [work:4151] Skepticism and the Veil of Perception — Michael Huemer | standing=73; reading=73 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+74. [work:4152] Elusive Knowledge — David Lewis | standing=74; reading=74 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+75. [work:4153] Solving the Skeptical Problem — Keith DeRose | standing=75; reading=75 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+76. [work:4154] Contextualist Solutions to Epistemological Problems — Stewart Cohen | standing=76; reading=76 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+77. [work:4155] Knowledge and Lotteries — John Hawthorne | standing=77; reading=77 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+78. [work:4156] Knowledge and Practical Interests — Jason Stanley | standing=78; reading=78 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+79. [work:4157] Knowledge in an Uncertain World — Jeremy Fantl; Matthew McGrath | standing=79; reading=79 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+80. [work:4158] Evidentialism: Essays in Epistemology — Earl Conee; Richard Feldman | standing=80; reading=80 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+81. [work:4159] The Inescapability of Gettier Problems — Linda Trinkaus Zagzebski | standing=81; reading=81 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+82. [work:4160] Conclusive Reasons — Fred Dretske | standing=82; reading=82 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+83. [work:4161] A Causal Theory of Knowing — Alvin I. Goldman | standing=83; reading=83 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+84. [work:4162] The Raft and the Pyramid — Ernest Sosa | standing=84; reading=84 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+85. [work:4163] Proof of an External World — G. E. Moore | standing=85; reading=85 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+86. [work:4164] The Skeptic and the Dogmatist — James Pryor | standing=86; reading=86 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+87. [work:2949] The Concept of Mind — Gilbert Ryle | standing=87; reading=87 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+88. [work:4165] Human Knowledge: Its Scope and Limits — Bertrand Russell | standing=88; reading=88 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+89. [work:4166] General Theory of Knowledge — Moritz Schlick | standing=89; reading=89 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+90. [work:4167] Logical Foundations of Probability — Rudolf Carnap | standing=90; reading=90 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+91. [work:4168] Truth and Probability — Frank P. Ramsey | standing=91; reading=91 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+92. [work:4169] The Will to Believe — William James | standing=92; reading=92 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+93. [work:4170] Knowledge and Human Interests — Jürgen Habermas | standing=93; reading=93 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+94. [work:3804] Against Method — Paul Feyerabend | standing=94; reading=94 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+95. [work:4171] The Formation of the Scientific Mind — Gaston Bachelard | standing=95; reading=95 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+96. [work:4172] Logical Investigations — Edmund Husserl | standing=96; reading=96 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+97. [work:4173] Ethics — especially Part II — Baruch Spinoza | standing=97; reading=97 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+98. [work:4174] An Inquiry into the Human Mind on the Principles of Common Sense — Thomas Reid | standing=98; reading=98 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+99. [work:4175] Ignorance: A Case for Scepticism — Peter Unger | standing=99; reading=99 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+100. [work:4176] Epistemology: An Anthology — Jaegwon Kim; Jeremy Fantl; Ernest Sosa; Matthew McGrath | standing=100; reading=100 | sources: EPISTEMOLOGY-001, EPISTEMOLOGY-002, EPISTEMOLOGY-003, EPISTEMOLOGY-004, EPISTEMOLOGY-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[EPISTEMOLOGY-001] SEP — Foundationalist Theories of Epistemic Justification (archive)
+https://plato.stanford.edu/archives/spr2018/entries/justep-foundational/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e7149280216442d614b37893
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-002] SEP — The Analysis of Knowledge (archive)
+https://plato.stanford.edu/archives/sum2012/entries/knowledge-analysis/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:32aa49d9fe9b660b303a38a8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-003] SEP — Epistemology (Fall 2021 archive)
+https://plato.stanford.edu/archives/fall2021/entries/epistemology/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:96687dceddbc9ed0468d6549
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-004] SEP — Skepticism
+https://plato.stanford.edu/entries/skepticism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:46e25e71d0e8639b536f4aa9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-005] SEP — Formal Epistemology
+https://plato.stanford.edu/entries/formal-epistemology/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:53e26c71e469d53df3817e10
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-006] SEP — Feminist Social Epistemology
+https://plato.stanford.edu/entries/feminist-social-epistemology/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e094cd74e4fd6b143cad88ce
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-007] SEP — Internalist vs. Externalist Conceptions of Epistemic Justification
+https://plato.stanford.edu/entries/justep-intext/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:be2ffad186f81e72d6c2baa6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-008] SEP — Bayesian Epistemology
+https://plato.stanford.edu/entries/epistemology-bayesian/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aff961fc5b133a06f45cdebb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-009] SEP — Feminist Epistemology and Philosophy of Science
+https://plato.stanford.edu/entries/feminism-epistemology/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7ad01b239eef636f009322a7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-010] SEP — Virtue Epistemology
+https://plato.stanford.edu/entries/epistemology-virtue/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:84a7e70e207f151dbead1ef9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-011] SEP — Epistemic Contextualism
+https://plato.stanford.edu/entries/contextualism-epistemology/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1ddb68e4a4c7ac43145a42a4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-012] SEP — Reliabilist Epistemology
+https://plato.stanford.edu/entries/reliabilism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:69b45438cd37e57d34e4bea4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-013] SEP — A Priori Justification and Knowledge
+https://plato.stanford.edu/entries/apriori/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bbfbdc5b49811f3cfaeede29
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-014] SEP — Self-Knowledge
+https://plato.stanford.edu/entries/self-knowledge/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7c9e7a6fa7e4bf1c00f26855
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-015] SEP — The Value of Knowledge
+https://plato.stanford.edu/entries/knowledge-value/index.html
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2df118ef829c8342cdaabe6b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-016] SEP — Ancient Skepticism
+https://plato.stanford.edu/entries/skepticism-ancient/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c691e3ac0540008660878481
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-017] SEP — Medieval Skepticism (Summer 2025 archive)
+https://plato.stanford.edu/archives/sum2025/entries/skepticism-medieval/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bac1d4fb9b761c310f8dd347
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-018] SEP — Epistemological Problems of Memory
+https://plato.stanford.edu/entries/memory-episprob/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c22563ef3c93737b42d45d35
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-019] SEP — Epistemological Problems of Perception
+https://plato.stanford.edu/entries/perception-episprob/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4180fda21fba2f9baf02061
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-020] SEP — Memory
+https://plato.stanford.edu/entries/memory/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:48440a258824fe78f7d97b58
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-021] SEP — Epistemological Problems of Testimony
+https://plato.stanford.edu/entries/testimony-episprob/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8750c37cdecb0c7ce42c8874
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-022] SEP — Epistemology in Classical Indian Philosophy
+https://plato.stanford.edu/entries/epistemology-india/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4e699bdebb9d737c608db599
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-023] SEP — Mind in Indian Buddhist Philosophy
+https://plato.stanford.edu/entries/mind-indian-buddhism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:48fbb16afdedc3a869e0567a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-024] SEP — Epistemology in Chinese Philosophy
+https://plato.stanford.edu/entries/chinese-epistemology/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8e01eb445f54f3bb5257af34
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-025] SEP — Zhuangzi
+https://plato.stanford.edu/entries/zhuangzi/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:52edadb0c5f1da025033c4f2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-026] SEP — Modern Confucianism
+https://plato.stanford.edu/entries/confucianism-modern/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ec905bb0c41d96a60e0a7fc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-027] SEP — Dharmakīrti (Summer 2026 archive)
+https://plato.stanford.edu/archives/sum2026/entries/dharmakiirti/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6f538b4900bef1b2e96962bf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-028] IEP — Epistemology
+https://iep.utm.edu/epistemo/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:39f5343637ec92f44fa101ea
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-029] IEP — The Gettier Problem
+https://iep.utm.edu/gettier/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e7124695f0caa296eb3b5718
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-030] IEP — Contemporary Skepticism
+https://iep.utm.edu/skepcont/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:046bd3564a0dcb9bb5b8e02e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-031] IEP — Reliabilism
+https://iep.utm.edu/reliabilism/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e0a686403308ff6e02c022cd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-032] IEP — Feminist Epistemology
+https://iep.utm.edu/fem-epis/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e8e4684f4a524a6041a99784
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-033] IEP — Epistemology of Testimony
+https://iep.utm.edu/ep-testi/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0a8b97967a8cd129a9939cdb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-034] PhilPapers — Epistemology bibliography
+https://philpapers.org/browse/epistemology
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f9eb423be554bbfdd65c18de
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-035] PhilPapers — Skepticism bibliography
+https://philpapers.org/browse/skepticism
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:42fb0915e91534ea93b9a5e2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-036] PhilPapers — SEP-linked Epistemology bibliography
+https://philpapers.org/sep/epistemology/
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c20d8598d8bd48a7c13a2b8a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-037] PhilPapers — SEP-linked Metaepistemology bibliography
+https://philpapers.org/sep/metaepistemology/
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dd18224023f49f01c9dd8827
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-038] PhilPapers — SEP-linked Classical Indian Epistemology bibliography
+https://philpapers.org/sep/epistemology-india/
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:acf094cb057574e23a0db27e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-039] PhilPapers — Ernest Sosa works
+https://philpapers.org/s/Sosa
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5c1b122a8958eb1754f32520
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-040] PhilPapers — Goldman, Knowledge in a Social World
+https://philpapers.org/rec/GOLKIA-5
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0316c70e3b630fdccdbb44e4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-041] PhilPapers — Williamson, Knowledge and Its Limits
+https://philpapers.org/rec/WILKAI-9
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0432521506e666e6e47bda26
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-042] PhilPapers — Zagzebski, The Inescapability of Gettier Problems
+https://philpapers.org/rec/ZAGTIO
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f3b38ed271049762c4689e77
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-043] PhilPapers — Cohen, Contextualist Solutions to Epistemological Problems
+https://philpapers.org/rec/COHCST
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:398d6f76ca5dbfed82bedac9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-044] PhilPapers — DeRose, Solving the Skeptical Problem
+https://philpapers.org/rec/DERSTS-8
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:721f35cbeaf27e0590c2dcec
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-045] PhilPapers — Turri, Is Knowledge Justified True Belief?
+https://philpapers.org/rec/turikj
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6b5670b8abcbece6bd4e9f8c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-046] MIT OpenCourseWare — Theory of Knowledge syllabus
+https://ocw.mit.edu/courses/24-211-theory-of-knowledge-spring-2014/pages/syllabus/
+Family: academic_or_institutional | Publisher: ocw.mit.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:16ff59aa9b5b86a759459807
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-047] MIT OpenCourseWare — Problems of Philosophy syllabus
+https://ocw.mit.edu/courses/24-00-problems-of-philosophy-fall-2019/pages/syllabus/
+Family: academic_or_institutional | Publisher: ocw.mit.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:963b4b95637f346e88b3f285
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-048] Oxford — Knowledge and Reality reading list (PDF)
+https://users.ox.ac.uk/~orie2304/read-kr.pdf
+Family: academic_or_institutional | Publisher: users.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a5e7d8de0eeed30d50678c2a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-049] Oxford — Finals course descriptions: Knowledge and Reality
+https://philosophy.web.ox.ac.uk/course-descriptions-finals
+Family: academic_or_institutional | Publisher: philosophy.web.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8b7359b3d239699e3508f31c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-050] Oxford Lifelong Learning — Theory of Knowledge
+https://lifelong-learning.ox.ac.uk/courses/theory-of-knowledge-online
+Family: academic_or_institutional | Publisher: lifelong-learning.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1e7d83bef26f136a88c489ea
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-051] Oxford — Philosophy lecture prospectus Hilary Term 2026 (PDF)
+https://www.philosophy.ox.ac.uk/sites/default/files/philosophy/documents/media/lecture_prospectus_ht26.pdf
+Family: academic_or_institutional | Publisher: www.philosophy.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f3152cf095dd90a6e92c5fa6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-052] Lincoln College Oxford — PPE reading list (PDF)
+https://lincoln.ox.ac.uk/asset/PPE-Reading-list.pdf
+Family: academic_or_institutional | Publisher: lincoln.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7c81c11f4372100ebd41e6ff
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-053] Lincoln College Oxford — Philosophy and Modern Languages reading list
+https://lincoln.ox.ac.uk/undergraduate-freshers-hub/reading-lists/philosophy-and-modern-languages-reading-list/
+Family: academic_or_institutional | Publisher: lincoln.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ac30e01a42efdf4ff408979b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-054] UCL — Social Epistemology of Science syllabus (PDF)
+https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/hpsc0033-0086-special_topics_in_hps-syllabus_2023-24.pdf
+Family: academic_or_institutional | Publisher: www.ucl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4ac57a56c5c9be8e7c7a728b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-055] University of Edinburgh — Epistemology course 2015–16
+https://www.drps.ed.ac.uk/15-16/dpt/cxphil11131.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b204b5c07edf1780a3b016a5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-056] University of Edinburgh — Epistemology course 2017–18
+https://www.drps.ed.ac.uk/17-18/dpt/cxphil11131.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:762dfb77839202c6cd9f88b1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-057] University of Edinburgh — Advanced Epistemology 2024–25
+https://www.drps.ed.ac.uk/24_25_Archive_at_01-09-2024/dpt/cxphil11136.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6b50b352f881494ebd3a1fb7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-058] University of Edinburgh — Themes in Epistemology 2016–17
+https://www.drps.ed.ac.uk/16-17/dpt/cxphil11064.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5eee125d63cced7c03ba19bf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-059] University of Edinburgh — Themes in Epistemology 2018–19
+https://www.drps.ed.ac.uk/18-19/dpt/cxphil11064.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:536a8935c3690828d206e9ca
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-060] University of Edinburgh — Social Epistemology 2024–25
+https://www.drps.ed.ac.uk/24-25/dpt/cxphil11243.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dd263d0e37346d1a3425e2bc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-061] University of Cambridge — Suggested preliminary philosophy readings (PDF)
+https://www.phil.cam.ac.uk/system/files/suggested_preliminary_readings_updated_july_2023.pdf
+Family: academic_or_institutional | Publisher: www.phil.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:af1fc723eabf3e7915a073e8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-062] King's College London — Epistemology I suggested reading
+https://www.kcl.ac.uk/abroad/module-options/epistemology-i-1
+Family: editorial_or_specialist | Publisher: www.kcl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:99c6e7aae1f07dd91bedbbcd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-063] LSE — Hub for African Thought: Epistemology reading list
+https://www.lse.ac.uk/africa/hub-for-african-thought/Reading-Lists/epistemology
+Family: editorial_or_specialist | Publisher: www.lse.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:376712563861eb5dc558311c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-064] Yale — Directed Studies philosophy syllabus
+https://directedstudies.yale.edu/syllabi/syllabi/philosophy-syllabus
+Family: academic_or_institutional | Publisher: directedstudies.yale.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6bf04b7ee1132bc8b07cd5c8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-065] University of Manchester — Philosophy reading list (document)
+https://documents.manchester.ac.uk/display.aspx?DocID=20157
+Family: academic_or_institutional | Publisher: documents.manchester.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2226e8443d93f61ab43ad089
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-066] Uppsala University — Epistemology reading list 1
+https://www.uu.se/en/study/reading-list?query=22420
+Family: academic_or_institutional | Publisher: www.uu.se | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d7281298b18953621da8484a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-067] Uppsala University — Epistemology reading list 2
+https://www.uu.se/en/study/reading-list?query=30637
+Family: academic_or_institutional | Publisher: www.uu.se | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fa6a09593a7cb6901c30e1e0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-068] Uppsala University — Epistemology reading list 3
+https://www.uu.se/en/study/reading-list?query=40576
+Family: academic_or_institutional | Publisher: www.uu.se | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5c6ab0b206cf54a586619668
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-069] Uppsala University — Epistemology reading list 4
+https://www.uu.se/en/study/reading-list?query=eaadd9e3-9566-11f0-b2df-e72fb4754f32
+Family: academic_or_institutional | Publisher: www.uu.se | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f32ea943541ced3c629d0498
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-070] Rutgers — Theory of Knowledge course description
+https://philosophy.rutgers.edu/undergraduate-course-descriptions/undergraduate-course-description/1266-01-730-220-theory-of-knowledge
+Family: academic_or_institutional | Publisher: philosophy.rutgers.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1f00f3e9cc3927efbc59c1b5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-071] Rutgers — Theory of Knowledge syllabus (PDF)
+https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/730-220-B6.pdf
+Family: academic_or_institutional | Publisher: www.philosophy.rutgers.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9acf31202faab562ec8660c1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-072] Rutgers — Intro Philosophy syllabus incl. epistemology (PDF)
+https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/730%20103%20H6%20Wilsch.pdf
+Family: academic_or_institutional | Publisher: www.philosophy.rutgers.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9d8e51ec670ac1559c534524
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-073] Rutgers — Ernest Sosa advanced epistemology syllabus (PDF)
+https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/syllabi/14919_650-Sosa.pdf
+Family: academic_or_institutional | Publisher: www.philosophy.rutgers.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:409f24af7941062ccb97167b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-074] Rutgers — Aristotle syllabus, incl. Posterior Analytics (PDF)
+https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/402-01%20SP-13%20Bolton.pdf
+Family: academic_or_institutional | Publisher: www.philosophy.rutgers.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3fe44651a4710edb6bbef1ae
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-075] Rutgers — Theory of Knowledge syllabus 2 (PDF)
+https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/730%20220%2001%20syllabus.pdf
+Family: academic_or_institutional | Publisher: www.philosophy.rutgers.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d6ea706c5a8bac6579105e01
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-076] Columbia — Spring 2026 philosophy courses
+https://philosophy.columbia.edu/content/spring-2026-courses
+Family: academic_or_institutional | Publisher: philosophy.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:377dd7b4bcbee1ddb53f3044
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-077] Columbia — Fall 2026 philosophy courses
+https://philosophy.columbia.edu/content/fall-2026-courses
+Family: academic_or_institutional | Publisher: philosophy.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fda45b727e5eb520f026fca1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-078] Duke — Epistemology course
+https://philosophy.duke.edu/courses/epistemology
+Family: academic_or_institutional | Publisher: philosophy.duke.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1990260478590b79f8e83db1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-079] Cornell — Fall 2026 philosophy courses
+https://philosophy.cornell.edu/courses/FA26
+Family: academic_or_institutional | Publisher: philosophy.cornell.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0bbcfcf07cc5c6822355e317
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-080] Cornell — Spring 2025 philosophy courses
+https://philosophy.cornell.edu/courses/SP25
+Family: academic_or_institutional | Publisher: philosophy.cornell.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e1152c7933c4d8ebcc441a6d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-081] Princeton — 21st-Century Epistemology syllabus (PDF)
+https://philosophy.princeton.edu/sites/g/files/toruqf2381/files/documents/PHI539%20Syllabus.pdf
+Family: academic_or_institutional | Publisher: philosophy.princeton.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8af4e620a6780fe6e21d5e8f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-082] Wisconsin — Spring 2026 Theory of Knowledge / philosophy courses
+https://philosophy.wisc.edu/courses/course-archives/2026-spring-courses/
+Family: academic_or_institutional | Publisher: philosophy.wisc.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:629ca02e0621cc1012e9390f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-083] Elliott Sober / Wisconsin — course materials incl. Bayesian epistemology
+https://sober.philosophy.wisc.edu/course-materials
+Family: academic_or_institutional | Publisher: sober.philosophy.wisc.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:450141f7317b96a30375343f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-084] University of Virginia — Fall 2026 philosophy courses / epistemology
+https://philosophy.virginia.edu/courses/fall-2026-philosophy-courses
+Family: academic_or_institutional | Publisher: philosophy.virginia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f5455e084d22cea4bffe398e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-085] Northwestern — Winter 2025 philosophy schedule / epistemology
+https://philosophy.northwestern.edu/courses/2024-2025/winter-2025-class-schedule.html
+Family: academic_or_institutional | Publisher: philosophy.northwestern.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ca91c8decea96e8bb719a413
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-086] University of Porto — Filosofia do Conhecimento reading list 1
+https://sigarra.up.pt/flup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=80192
+Family: academic_or_institutional | Publisher: sigarra.up.pt | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f53579bb65c7a1951f4c3ce6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-087] University of Porto — Filosofia do Conhecimento reading list 2
+https://sigarra.up.pt/flup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=80190
+Family: academic_or_institutional | Publisher: sigarra.up.pt | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:80a14d55a226116665550db6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-088] University of Porto — Filosofia do Conhecimento older reading list
+https://sigarra.up.pt/flup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=473463
+Family: academic_or_institutional | Publisher: sigarra.up.pt | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a0de50a19b37ddb3eb6fa9a2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-089] NOVA University Lisbon — Knowledge/Epistemology course 2022
+https://guia.unl.pt/pt/2022/fcsh/program/6459/course/722031046
+Family: academic_or_institutional | Publisher: guia.unl.pt | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:88dcf5e00b33deaed4c7cc30
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-090] NOVA University Lisbon — Epistemology course 2026
+https://guia.unl.pt/pt/2026/fcsh/program/17943/course/02112087
+Family: academic_or_institutional | Publisher: guia.unl.pt | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a2e6c740d94955ac1016672f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-091] NOVA University Lisbon — Knowledge/Epistemology course 2020
+https://guia.unl.pt/pt/2020/fcsh/program/6459/course/722031046
+Family: academic_or_institutional | Publisher: guia.unl.pt | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1fe0d6d4cd4f27667d2a0669
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-092] Goodreads — Epistemology shelf
+https://www.goodreads.com/shelf/show/epistemology
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7fa96c6c34ed629e3590001f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-093] Goodreads — Epistemology Philosophy shelf
+https://www.goodreads.com/shelf/show/epistemology-philosophy
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4820bd93c6ad33b40c033ae8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-094] Goodreads — Philosophy and Epistemology shelf
+https://www.goodreads.com/shelf/show/philosophy-and-epistemology
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e8a6f6aecf5744f2b7dc04c0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-095] Douban Books — 知识论 (Epistemology) tag, popular sort
+https://book.douban.com/tag/%E7%9F%A5%E8%AF%86%E8%AE%BA?type=S
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f34d404f58835e2330c9fd07
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-096] Douban Books — 知识论 tag, recommendation/rating view
+https://book.douban.com/tag/%E7%9F%A5%E8%AF%86%E8%AE%BA?type=R
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a9eb46d935719bbccbbf705e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-097] Douban Books — 认识论 (Theory of Knowledge/Epistemology) tag
+https://book.douban.com/tag/%E8%AE%A4%E8%AF%86%E8%AE%BA?start=0&type=R
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d435947a0940b9348a6fd165
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-098] Douban Books — The Theory of Knowledge page / related lists
+https://book.douban.com/subject/3801042/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:41d3c53d7f7f9811a2084f4b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-099] Douban — epistemology-related user lists attached to book 1075249
+https://book.douban.com/subject/1075249/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:131f25f8febf894a7bdda0fb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-100] Douban — philosophy/epistemology user list
+https://www.douban.com/doulist/135407470/
+Family: reader_community | Publisher: www.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:04163a1ff3b3f1a598a6a670
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-101] Douban — epistemology-related lists attached to book 1315184
+https://book.douban.com/subject/1315184/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ebe45d3cf581d93a86d426a7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-102] Douban — philosophy reading list
+https://www.douban.com/doulist/152335537/
+Family: reader_community | Publisher: www.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a432b0626bc7e4a27ce4b847
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-103] Douban — lists attached to book 20423241
+https://book.douban.com/subject/20423241/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:017700b5a9449c11fcf9e9c9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-104] Douban — lists attached to book 2285869
+https://book.douban.com/subject/2285869/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d4ee493543a78a2ee5354f19
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-105] Yomeru.jp (Japan) — 認識論 recommended-book ranking
+https://yomeru.jp/%E8%AA%8D%E8%AD%98%E8%AB%96
+Family: editorial_or_specialist | Publisher: yomeru.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:346005035152e4a149dca427
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-106] Japanese book-review site — 10 books on epistemology
+https://shohyoubookreview.com/archives/20830
+Family: editorial_or_specialist | Publisher: shohyoubookreview.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4afaa95fd36a6af88cbf3d64
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-107] PhilosophyProfessor.com — English Epistemology reading guide
+https://www.philosophyprofessor.com/reading-guides/epistemology/
+Family: editorial_or_specialist | Publisher: www.philosophyprofessor.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b748a4258e72df6e29bd6a51
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-108] PhilosophyProfessor.com — Spanish epistemology reading guide
+https://www.philosophyprofessor.com/es/guias-de-lectura/libros-de-epistemologia/
+Family: editorial_or_specialist | Publisher: www.philosophyprofessor.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:87da2887c934eb90e1604cc1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-109] Notre Dame Philosophical Reviews — review of Sosa, Epistemology
+https://ndpr.nd.edu/reviews/epistemology/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:48b870062ec43957fca62d8f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-110] NDPR — Virtue Epistemology: Motivation and Knowledge
+https://ndpr.nd.edu/reviews/virtue-epistemology-motivation-and-knowledge/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2234488fcc6a719a3ed75b74
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-111] NDPR — The Inquiring Mind
+https://ndpr.nd.edu/reviews/he-inquiring-mind-on-intellectual-virtues-and-virtue-epistemology/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:20ce4912d6f3e05fd91597dd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-112] NDPR — Sosa, A Virtue Epistemology
+https://ndpr.nd.edu/reviews/a-virtue-epistemology-apt-belief-and-reflective-knowledge-volume-1/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8d3584d0e33e06c7cc709eac
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-113] NDPR — Sosa, Epistemic Explanations
+https://ndpr.nd.edu/reviews/epistemic-explanations-a-theory-of-telic-normativity-and-what-it-explains/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:663d079f88069f2181809609
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-114] NDPR — Fricker, Epistemic Injustice
+https://ndpr.nd.edu/reviews/epistemic-injustice-power-and-the-ethics-of-knowing/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b69bdbf80626da0f4b8c85e8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-115] NDPR — Steve Fuller / Social Epistemology
+https://ndpr.nd.edu/reviews/legitimizing-scientific-knowledge-an-introduction-to-steve-fuller-s-social-epistemology/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:92aff8ef83618f72240dfa24
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-116] NDPR — Williamson on Knowledge
+https://ndpr.nd.edu/reviews/williamson-on-knowledge/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:da2b3834084b4a0396d058d8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-117] NDPR — Social Epistemology and Epistemic Agency
+https://ndpr.nd.edu/reviews/social-epistemology-and-epistemic-agency-decentralizing-epistemic-agency/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:328be5814201df4ac1012416
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-118] NDPR — Intellectual Virtue
+https://ndpr.nd.edu/reviews/intellectual-virtue-perspectives-from-ethics-and-epistemology/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:79c10c284e770204ed599b86
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-119] NDPR — Knowledge, Truth, and Duty
+https://ndpr.nd.edu/reviews/knowledge-truth-and-duty-essays-on-epistemic-justification-responsibility-and-virtue/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a5e616bc366fb6acd08352d9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-120] NDPR — Pritchard, Epistemic Luck
+https://ndpr.nd.edu/reviews/epistemic-luck/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ceafa6a5a222d799bebe4c01
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-121] NDPR — Sources of Knowledge
+https://ndpr.nd.edu/reviews/sources-of-knowledge-on-the-concept-of-a-rational-capacity-for-knowledge/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ad98ac41819837559d1c31fd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-122] NDPR — Righting Epistemology: Hume's Revolution
+https://ndpr.nd.edu/reviews/righting-epistemology-humes-revolution/
+Family: academic_or_institutional | Publisher: ndpr.nd.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f348f7f9cf2a3e555ca36694
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-123] Persée — bibliography/review on the problem of knowledge (French)
+https://www.persee.fr/doc/phlou_0035-3841_1958_num_56_52_4973
+Family: editorial_or_specialist | Publisher: www.persee.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:28f1d2ae0026ddde05c7f34f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-124] Spektrum (German) — Erkenntnistheorie encyclopedia entry and bibliography
+https://www.spektrum.de/lexikon/philosophie/erkenntnistheorie/606
+Family: editorial_or_specialist | Publisher: www.spektrum.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ce04f1eae3afe6005abfb64a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-125] Dialnet — Jonathan Dancy, Introducción a la epistemología contemporánea
+https://dialnet.unirioja.es/servlet/libro?codigo=323390
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c37e2a63a940733d8c2ed11d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-126] Dialnet — Spanish-language Epistemología volume
+https://dialnet.unirioja.es/servlet/libro?codigo=981114
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4419533a2334356e895103b2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-127] Dialnet — Cuestiones de teoría del conocimiento
+https://dialnet.unirioja.es/servlet/libro?codigo=874289
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e5eb33c25c17bbacb548bb2f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-128] Dialnet — Spanish teaching material / Theory of Knowledge II
+https://dialnet.unirioja.es/servlet/libro?codigo=839933
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7c0f8bc995d83f2a1be52555
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-129] Cairn (France) — review of Connaître: Questions d’épistémologie
+https://shs.cairn.info/revue-philosophique-2016-2-page-235?lang=fr
+Family: editorial_or_specialist | Publisher: shs.cairn.info | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bf3f04b3c96516d981546da0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-130] Dialnet — socioconstructivist epistemology volume
+https://dialnet.unirioja.es/servlet/libro?codigo=320949
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:115e436890f7112752345afe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-131] SciELO Venezuela — contemporary epistemological currents
+https://ve.scielo.org/scielo.php?lng=es&pid=S2542-30292025000200004&script=sci_arttext&tlng=es
+Family: editorial_or_specialist | Publisher: ve.scielo.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f3188a4dd7d6f2503cca0153
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-132] Dialnet — Hetherington, introduction to metaphysics and epistemology
+https://dialnet.unirioja.es/servlet/libro?codigo=292226
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:09d57afb3d48eafc32598661
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-133] Treccani (Italy) — Epistemologie contemporanee
+https://www.treccani.it/enciclopedia/epistemologie-contemporanee_%28Storia-della-civilt%C3%A0-europea-a-cura-di-Umberto-Eco%29/
+Family: editorial_or_specialist | Publisher: www.treccani.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1a2d3c236a378e0b4ca6a379
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-134] Spektrum (Germany) — philosophy special issue incl. epistemology
+https://www.spektrum.de/inhaltsverzeichnis/die-groessten-raetsel-der-philosophie-spektrum-highlights-2-2020/1143487
+Family: editorial_or_specialist | Publisher: www.spektrum.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8abe59c70f183bcd66e67900
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-135] Persée — Hartmann, a priori/a posteriori discussion
+https://www.persee.fr/doc/phlou_0035-3841_1960_num_58_59_5046
+Family: editorial_or_specialist | Publisher: www.persee.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:89ecc3e3c6e91a46a68c945f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-136] Treccani — Epistemologia dictionary entry
+https://www.treccani.it/vocabolario/epistemologia/
+Family: editorial_or_specialist | Publisher: www.treccani.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8ae7a4885fff99a795053672
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-137] Dialnet — Popper, Los dos problemas fundamentales de la epistemología
+https://dialnet.unirioja.es/servlet/libro?codigo=324820
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:23aae1ec75987eac8c42d1d9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-138] Brazilian Ministry of Education — philosophy text / epistemology bibliography (PDF)
+https://portal.mec.gov.br/index.php?Itemid=30192FERRY&alias=7837-2011-filosofia-capa-pdf&category_slug=abril-2011-pdf&option=com_docman&view=download
+Family: editorial_or_specialist | Publisher: portal.mec.gov.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a9478bb12c4998417f788c78
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-139] Reddit r/askphilosophy — Where to start on epistemology? (2026)
+https://www.reddit.com/r/askphilosophy/comments/1rz8rqg/where_to_start_on_epistemology/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5d72e1275055e9eca127ab38
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-140] Reddit r/askphilosophy — Beginner epistemology book recs (2026)
+https://www.reddit.com/r/askphilosophy/comments/1rgrzm2/beginner_epistemology_book_recs/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aee0419bef7ba08001dfb4f1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-141] Reddit r/askphilosophy — Metaphysics/epistemology book recs (2026)
+https://www.reddit.com/r/askphilosophy/comments/1slhgbv/metaphysicsepistemology_book_recs/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:93f06ac4f1f4aa8af0d6ef6c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-142] Reddit r/askphilosophy — Epistemology anthology recommendations
+https://www.reddit.com/r/askphilosophy/comments/ghytmx
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5a76927cea98274bfad08024
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-143] Reddit r/askphilosophy — Books to start epistemology
+https://www.reddit.com/r/askphilosophy/comments/rimplz
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c52e9639429353fb84be46ad
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-144] Reddit r/askphilosophy — Historical epistemology reading list
+https://www.reddit.com/r/askphilosophy/comments/g3zglw
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:90e2f5350924ae9bb7a372d8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-145] Reddit r/askphilosophy — Cross-cultural epistemology recommendations
+https://www.reddit.com/r/askphilosophy/comments/1jl5atu
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d8ed3227d312acde9a6c612e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-146] Reddit r/askphilosophy — Beginner logic/epistemology
+https://www.reddit.com/r/askphilosophy/comments/1rgtneb
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:93374fe4e517baf218d8b8a9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-147] Reddit r/askphilosophy — Epistemology reading list
+https://www.reddit.com/r/askphilosophy/comments/11nggiv
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d3005ff1f4c90f00ba5a8d78
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-148] Reddit r/askphilosophy — Specialized epistemology reading lists
+https://www.reddit.com/r/askphilosophy/comments/1vsiwyx/does_anyone_have_specialised_reading_lists/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ea37b013ed764f7a4c0d3482
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-149] Reddit r/askphilosophy — Contemporary metaphysics & epistemology list
+https://www.reddit.com/r/askphilosophy/comments/wtwbcs
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2f1b9e532d57f588bdd9f805
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-150] Reddit r/askphilosophy — Must-read epistemology
+https://www.reddit.com/r/askphilosophy/comments/yw5y7f
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:892404cca2c20e6ee2e6d991
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-151] Reddit Brazil — broad philosophy reading list
+https://www.reddit.com/r/brasil/comments/1f30kgr
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ceb919c532cef6507c86c0f8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-152] Reddit r/Filosofia (Brazil) — introductory epistemology book recommendations
+https://www.reddit.com/r/Filosofia/comments/1s5d7q8/recomende_um_livro_de_introdu%C3%A7%C3%A3o_a_epistemologia/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cdd8514db94962820f2d1d16
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-153] Reddit Brazil — works on epistemology
+https://www.reddit.com/r/PsicologiaBR/comments/1shotma/indica%C3%A7%C3%B5es_de_obras_sobre_epistemologia_eou/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5a5b4f13ade9de809b47cc23
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-154] Reddit r/Filosofia (Brazil) — theory of knowledge recommendations
+https://www.reddit.com/r/Filosofia/comments/14m13nw
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d0b8f4feb47fd61f7f21274e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-155] Reddit Portugal — philosophy book recommendations
+https://www.reddit.com/r/LivrosPortugal/comments/1iucs60
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1c105944b2ac08fde2391b9c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-156] Reddit r/Filosofia (Brazil) — where to begin in philosophy
+https://www.reddit.com/r/Filosofia/comments/1bucr9i/por_onde_come%C3%A7ar_livros_filos%C3%B3ficos_para/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:81a397dc1f05d081a0f9017d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-157] Reddit Brazil — philosophy study recommendations
+https://www.reddit.com/r/estudosBR/comments/1jmuqba
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a603f1caeb60207c51ea99b5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-158] Reddit Brazil — philosophy recommendations mirror/community thread
+https://www.reddit.com/r/FilosofiaBAR/comments/1n4ub8c/por_onde_come%C3%A7ar_livros_filos%C3%B3ficos_para/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a6cbdb1ce412ca02332efece
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-159] EAST / Austrian Academy of Sciences — Dignāga, Pramāṇasamuccaya materials
+https://east.ikga.oeaw.ac.at/data/1/12/
+Family: editorial_or_specialist | Publisher: east.ikga.oeaw.ac.at | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f967caef9d103a538b7be181
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-160] EAST / Austrian Academy of Sciences — Dignāga, Pramāṇasamuccayavṛtti materials
+https://east.ikga.oeaw.ac.at/data/1/13/
+Family: editorial_or_specialist | Publisher: east.ikga.oeaw.ac.at | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9330c24d23a06342cf01e936
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-161] Cambridge Core — bibliography for An Introduction to Indian Philosophy
+https://www.cambridge.org/core/books/abs/an-introduction-to-indian-philosophy/bibliography/64FFE9D95AD14EDE4D3A16F2E825BB5D
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d9c0b8e3de829a9e5bd2cc95
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-162] Theoria / Wiley — academic discussion of al-Ghazālī and skepticism
+https://onlinelibrary.wiley.com/doi/10.1111/theo.12331
+Family: academic_or_institutional | Publisher: onlinelibrary.wiley.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a0bf3d2dc5f32bcf1449f160
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[EPISTEMOLOGY-163] FNAC Portugal — Epistemology category (popular/retail reception; low weight)
+https://www.fnac.pt/n544165/Livros-em-Promocao/Tecnico-e-Universitario/Filosofia/Epistemologia
+Family: editorial_or_specialist | Publisher: www.fnac.pt | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:20a3474c1505db527a6a1204
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: books-epistemology. Included 100 current entries and 163 current source records. Carry out the update and return the enhanced ranking with the complete source register.

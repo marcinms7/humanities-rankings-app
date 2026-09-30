@@ -1,5 +1,7 @@
 # Le Monde/Fnac · 100 Books of the Century (1999)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named published ranking (100 entries), checked 2026-09-13.
 
 Source: https://www.lemonde.fr/archives/article/1999/10/15/cent-disques-cent-films-et-cent-livres-pour-un-siecle_3570803_1819218.html

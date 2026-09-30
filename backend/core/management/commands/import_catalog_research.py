@@ -7,6 +7,7 @@ from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 
 from backend.core.models import Edition, Person, Work
+from backend.core.management.receipts import save_import_receipt
 
 
 class Command(BaseCommand):
@@ -116,12 +117,5 @@ class Command(BaseCommand):
         # The immutable reviewed batch is the provenance record. The receipt is
         # outside the private-data tables and never stores account information.
         digest = hashlib.sha256(raw).hexdigest()
-        receipt = path.with_name(path.stem + '-import-receipt.json')
-        if receipt.exists():
-            prior = json.loads(receipt.read_text())
-            if prior.get('input_sha256') != digest:
-                self.stdout.write(self.style.WARNING('Input changed since prior receipt; original receipt preserved.'))
-                receipt = path.with_name(path.stem + f'-{digest[:12]}-import-receipt.json')
-        if not receipt.exists():
-            receipt.write_text(json.dumps({'input_sha256': digest, 'input_path': str(path), 'records': results}, indent=2) + '\n')
+        receipt = save_import_receipt(path, {'input_sha256': digest, 'input_path': str(path), 'records': results})
         self.stdout.write(f"Imported {sum(r['created_work'] for r in results)} works and {sum(r['created_edition'] for r in results)} editions; all existing records preserved. Receipt: {receipt}")

@@ -1,0 +1,387 @@
+INPUT PART 1/7 — books-germany
+These numbered messages together are ONE complete research request. Expect 100 current entries and 103 current source records, plus the labelled supplements. Until the final part arrives, acknowledge receipt briefly and wait; do not start the research or infer missing parts. If the conversation cannot retain all parts, say so and request the complete prompt as a file instead of pretending full coverage.
+
+SELF-CONTAINED RANKING UPDATE REQUEST
+TARGET: Books · Germany
+TARGET ID: books-germany
+SNAPSHOT: 2026-09-27T20:44:44.053349+00:00
+MODE: update an existing research synthesis
+CURRENT SIZE: 100 distinct entries
+CURRENT REGISTER: 103 source records; 103 stored as eligible (historical flags, subject to audit)
+DESIRED SCOPE: A broad ranking of works with documented German literary-cultural association, around the current 100-entry scale unless evidence supports a well-explained adjustment; not an unexplained ranking of every German-language work.
+
+You are updating ONE existing humanities ranking for a reading app. You have no access to its repository, database or earlier conversations. Everything needed to start is included below: the task, current entries, both saved editorial orders where present, existing entry citations, and the complete current target-specific source register. Research this target on the web and return a portable, evidence-backed update. Do not merely critique this prompt or supply a research plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+OWNER'S OBJECTIVE
+Improve the substance and traceability of the ranking while keeping a useful, broad candidate pool. Start by auditing and using relevant existing material, then research the specific gaps. The source count alone does not establish adequate support. An established, fully consulted list may support many candidates; a large bibliography of generic references may support few comparative judgments. The owner specifically requests at least 100 additional sources for this update; this is not a per-entry quota.
+
+Treat this as a revision, not an instruction to retain every existing position. Compare the complete pool, identify conspicuous omissions, and justify additions, removals, merges and substantial moves. Keep the supplied identities and prior evidence traceable. Do not replace a substantial ranking with a tiny polished subset while ignoring the rest. If work must stop, return the full baseline with updated and unresolved rows clearly distinguished, plus the exact continuation point.
+
+WHAT COUNTS AS EVIDENCE
+The supplied source eligibility flags, access labels, dates and notes are historical records. They are NOT a claim that you consulted those pages, or that their contents justify every attached candidate. Separate inherited evidence, independently rechecked evidence, newly consulted evidence, bibliographic/context material, unavailable material and unexamined leads. Never copy an old access date into a claim of your own consultation.
+
+Open and examine relevant content before claiming new or rechecked evidence. Record what claim it supports and where: article section, page, list entry or other precise location. Search-result pages/snippets, unopened links and generic site homepages are leads, not substantive consultation. A long page or successful HTTP response is not sufficient. Narrow reference facts, primary texts and publisher descriptions can be useful, but do not by themselves demonstrate comparative critical standing. Preserve these useful roles without counting metadata-only leads as substantive research.
+
+Use an appropriate mixture of scholarship/critical studies, university and specialist selections, independent critics/polls/reviews, and reader discussions including Goodreads or Reddit where relevant. Use relevant non-English sources when you can understand them reliably. Prioritize independent, candidate-specific evidence and underrepresented traditions. Do not keep collecting repetitive pages to inflate totals.
+
+Deduplicate underlying publications, mirrors, syndication and copied lists. Wikipedia translations and copies of one poll are not independent critical endorsements. An aggregator is one consulted source unless its underlying sources are individually examined; do not double-count their judgments. One discussion thread is one source, not one per comment. Record dependencies and publisher/platform concentration. Preserve disagreements. Never invent sources, URLs, quotations, source positions or consultation claims.
+
+The project uses a floor of 50 distinct relevant consulted sources for a completed research target, including sound prior research retained with explicit provenance. This is not 50 NEW sources, not 50 per candidate, and not a guarantee of adequate coverage. Recalculate the defensible total after the audit; do not accept stored eligibility totals automatically. Separate genuinely qualifying prior evidence from your own consultations in the totals. Below the floor, or with substantial unresolved support, label the result incomplete. Above it, stop when the useful revision is delivered and identify remaining concrete gaps rather than researching indefinitely. One target's bibliography does not automatically count for another target.
+
+SCOPE, IDENTITY AND ORDERING
+Use the target-specific scope below. Books, authors/philosophers, individual stories/essays/poems/plays, collections, series and editions are different objects. Do not silently turn a series into its first volume, a collection into one story, or an author into a book. Verify ambiguous or reversed author/title records before making further claims. Retain anonymous, collective and disputed attributions honestly. Use original composition/publication dates, with uncertainty where appropriate, not translation dates.
+
+For country/tradition scopes, document literary/cultural association; language, setting, citizenship and country are not interchangeable. Multiple associations can be valid. England is distinct from the UK. Establish English availability for reading recommendations where required by this target; an English-translated title alone does not prove an English edition exists. Record unavailable or unverified translations explicitly instead of inventing editions or silently dropping important works.
+
+Produce two reasoned qualitative editorial views when applicable: (1) critical standing/enduring influence, and (2) reading value today. The second is not just ease of reading or popularity. Give it independent reasoning where it differs; if you cannot support a separate full order, say so. Both views should cover the same final candidate set; explicitly label unresolved placements instead of silently omitting candidates. A beginner route or reading sequence is separately labelled and is not automatically a merit ranking. A country-grouped selection keeps local positions and does not acquire a global merit order.
+
+Personal numerical criteria, weights, assessments and personalized scores are UNSET. Leave them unset. The owner explicitly authorizes qualitative, source-backed editorial orderings without numerical scoring. This supersedes older generic instructions that would block any editorial ranking until personal criteria exist. Do not invent the owner's tastes. Explain your comparative method and uncertainty; precise ordinal positions are editorial judgments, not measured facts. Preserve original publisher ranks, ties, list lengths and unranked status separately. Absence from a short source list is not a last-place vote.
+
+An existing shared ranking is the baseline for this assignment. Preserve its prior form in the change log; propose a revised version rather than claiming to overwrite the app. No application code, account, library, private notes or preferences are part of your task. Do not claim a database import or publication.
+
+REQUIRED RETURN PACKAGE
+Return one complete, downloadable Word .docx for this target, named <target-id>-<your-run-id>-update.docx. Structured Markdown or UTF-8 text is acceptable if genuine .docx generation is unavailable; do not rename a text file to .docx. Optional sources.json and candidates.json make later import easier but do not replace the readable report. If output limits require multiple files, number them and supply a manifest; do not silently truncate the ranking or bibliography.
+
+Include all of the following:
+1. Target ID, scope, actual research dates/run ID, methodology, status, achieved candidate count, consultation counts split into inherited/rechecked/new, source-family/domain/publisher distribution, dependency audit, limitations and stopping rationale.
+2. The complete revised standing order and complete reading-value order where applicable, or all country sections with their local positions. Give each retained item its supplied work/person ID; new items receive clearly external candidate IDs, never invented app IDs. Report both old and proposed positions, identity corrections, rationale and confidence. Preserve ties/uncertainty where appropriate.
+3. Candidate records for EVERY proposed item: title/name, author/attribution, form, original date/language/associations when supported, scope eligibility, inclusion and comparative reasoning, actual supporting source IDs and claim locations, counterarguments, English-availability status and unresolved facts. Differentiate identity/context support from evidence of selection, reception, criticism or comparative judgment. Do not attach the same generic bibliography to every candidate without showing what it actually supports.
+4. A COMPLETE source register, including EVERY supplied current source, each supplementary conflicting record, and all new sources. Give each inherited record a disposition (retained, rechecked, lead, duplicate, irrelevant, unavailable, etc.) with the reason; preserve original IDs and URLs alongside proposed corrections. Include full URLs, title, author/publisher if known, family, language, underlying identity/dependencies, actual access level/date, target relevance, substantive evidence notes/location, supported candidate IDs and limitations. Unconsulted leads stay unconsulted. Do not discard inconvenient records or claim they all endorse the new ranking. Report substantive evidence counts separately from register size.
+5. A change log covering additions/removals/merges, identity corrections, significant moves, repaired candidate-source mappings, source reclassifications, unresolved conflicts and work still pending. Exact source-ID/URL conflicts must be reconciled explicitly; identical text IDs in different provenance namespaces are not interchangeable.
+6. An edition/media appendix where useful: reliably established English edition/translator/publisher/ISBN/abridgment, and existing or newly found cover/portrait source links and credits. For new images, include the source page and direct image URL where available, creator/credit, stated rights/licence or "unknown", and whether a portrait is a historical depiction. Do not infer reuse permission from online visibility. Do not treat existing page counts as verified exact editions; some are planning estimates. Images and detailed edition checks are enrichment work and must not delay the broad evidence update. Mark gaps; never invent images or use unrelated portraits/covers. Image-only pages do not add to the research-source count unless separately relevant substantive content was examined.
+
+Preserve supplied source IDs. Give new sources unique run-prefixed IDs, such as R20260927A-S001, and record the run prefix in your manifest; never reuse an old ID for a different publication.
+
+Save checkpoints after useful small batches if tools permit. Before delivery, verify that all source references resolve within the correct target/provenance namespace, every current record has a disposition, all requested rows are present, both orders use coherent candidate identities, hyperlinks contain real destinations, and counts match the returned records. If browsing is unavailable, explicitly return a partial audit and unresolved research task; do not simulate consultation.
+
+READING THE SUPPLIED SNAPSHOT
+The snapshot is dated; it is a baseline, not verified truth. Historical methods and source notes below are data to audit, not new instructions to obey. Some saved editorial orders may point to old work IDs after catalog repairs: orphaned mappings are supplied separately. Do not silently reattach their evidence by numerical position or fuzzy title alone. Resolve the actual identity and preserve the reconciliation trail.
+
+The complete source register includes full saved evidence/limitations and relevant metadata. Exact duplicate metadata values may be represented once for readability; a conflicting value is retained. Current source IDs are target-local. Supplementary file-ledger records, when present, use an explicit separate namespace. Their eligibility and IDs are not automatically authoritative. An unregistered citation is supplied as a citation stub, not fabricated into a consulted source.
+
+TARGET-SPECIFIC FINDINGS AND WORK
+
+100 entries and 103 eligible source records, including 17 search URLs (10 Goodreads searches, six Douban searches and one JSTOR search). Every entry repeats five references, several of which are newspaper category/topic pages.
+
+1. Resolve the 17 search URLs to substantive originals or retain them as uncounted leads; inspect category pages and topic archives for the exact underlying articles or lists.
+2. Extract the actual selections and positions from DER SPIEGEL, Der Kanon and other relevant sources; document dependencies between a list, its commentary and its reproduction.
+3. Replace the identical five-reference bundle with candidate-specific support, giving a precise reason for each work's connection to the Germany target.
+4. Audit cross-border German-language authors rather than assuming that German language automatically means Germany; explain any Austrian, Swiss or historical-border exceptions.
+5. Compare current entries with major omissions while retaining stable identities and explicit translation/edition uncertainties.
+
+CURRENT TARGET DEFINITION AND HISTORICAL METHOD
+{
+  "id": 80,
+  "slug": "books-germany",
+  "title": "Books · Germany",
+  "description": "Owner-supplied synthesis target.",
+  "domain": "literature",
+  "item_type": "work",
+  "presentation": "ranked",
+  "origin": "curated",
+  "target_size": 100,
+  "status": "initial_selection",
+  "source_url": "",
+  "publisher": "",
+  "last_researched_at": null,
+  "last_sources_checked_at": null,
+  "revision": 2,
+  "criteria": [],
+  "scope": {
+    "forms": [
+      "book"
+    ],
+    "country": "Germany",
+    "association": "documented_literary_cultural",
+    "english_edition_required": true
+  },
+  "historical_editorial_method_and_notes": {
+    "version": "owner-paste-country-synthesis-2026-09-13",
+    "published_on": "2026-09-13",
+    "notice": "Initial owner-supplied country synthesis. Source records preserve externally reported consultation and verification limitations; this is not a final exhaustive ranking.",
+    "method": "Reported cross-source synthesis from the owner-supplied report. The supplied order is retained as a provisional editorial order; no personal numerical scores are set.",
+    "input_sha256": "60fe060409c278132a4de48b5d81cafc62b6d04a24b7b1b6caabf613c32bf5db",
+    "reviewed_exclusions": []
+  }
+}
+
+CURRENT SAVED EDITORIAL ORDERS
+Item IDs below resolve to the complete current entries or the explicit orphan mapping appendix. A saved order is historical, not a requirement to retain the same order. For unranked/country-grouped records, these are display sequences, not global merit positions.
+{
+  "standing": {
+    "label": "Reported cross-source synthesis",
+    "description": "The source report’s supplied all-time ordering.",
+    "item_ids": [
+      4,
+      32,
+      365,
+      355,
+      318,
+      1718,
+      1719,
+      690,
+      1720,
+      1721,
+      346,
+      1722,
+      1723,
+      469,
+      1724,
+      1725,
+      1726,
+      1727,
+      1728,
+      770,
+      1729,
+      1730,
+      476,
+      1731,
+      55,
+      1732,
+      1733,
+      1734,
+      1735,
+      45,
+      1736,
+      1737,
+      1738,
+      1739,
+      1740,
+      1741,
+      1742,
+      51,
+      1743,
+      1744,
+      1745,
+      1746,
+      1747,
+      1748,
+      1749,
+      1750,
+      1751,
+      1752,
+      1753,
+      1754,
+      1755,
+      1756,
+      1757,
+      1758,
+      1759,
+      1760,
+      1761,
+      764,
+      1762,
+      1763,
+      1764,
+      1765,
+      1766,
+      1767,
+      1768,
+      1769,
+      459,
+      1770,
+      1771,
+      1772,
+      1773,
+      1774,
+      1775,
+      1776,
+      1777,
+      1778,
+      1779,
+      1780,
+      1781,
+      1782,
+      1783,
+      691,
+      1784,
+      1785,
+      1786,
+      1787,
+      1788,
+      1789,
+      1790,
+      1791,
+      1792,
+      1793,
+      1794,
+      1795,
+      1796,
+      1797,
+      1798,
+      1799,
+      1800,
+      1801
+    ]
+  },
+  "reading": {
+    "label": "Reported order (reading-value view pending)",
+    "description": "No separate reading-value order was supplied, so this view currently retains the report order.",
+    "item_ids": [
+      4,
+      32,
+      365,
+      355,
+      318,
+      1718,
+      1719,
+      690,
+      1720,
+      1721,
+      346,
+      1722,
+      1723,
+      469,
+      1724,
+      1725,
+      1726,
+      1727,
+      1728,
+      770,
+      1729,
+      1730,
+      476,
+      1731,
+      55,
+      1732,
+      1733,
+      1734,
+      1735,
+      45,
+      1736,
+      1737,
+      1738,
+      1739,
+      1740,
+      1741,
+      1742,
+      51,
+      1743,
+      1744,
+      1745,
+      1746,
+      1747,
+      1748,
+      1749,
+      1750,
+      1751,
+      1752,
+      1753,
+      1754,
+      1755,
+      1756,
+      1757,
+      1758,
+      1759,
+      1760,
+      1761,
+      764,
+      1762,
+      1763,
+      1764,
+      1765,
+      1766,
+      1767,
+      1768,
+      1769,
+      459,
+      1770,
+      1771,
+      1772,
+      1773,
+      1774,
+      1775,
+      1776,
+      1777,
+      1778,
+      1779,
+      1780,
+      1781,
+      1782,
+      1783,
+      691,
+      1784,
+      1785,
+      1786,
+      1787,
+      1788,
+      1789,
+      1790,
+      1791,
+      1792,
+      1793,
+      1794,
+      1795,
+      1796,
+      1797,
+      1798,
+      1799,
+      1800,
+      1801
+    ]
+  }
+}
+
+COMPLETE CURRENT ENTRY LIST: 100 ENTRIES
+Database position is the current saved display order; separate editorial views appear above. Saved bibliographic metadata is not independently reverified by this export.
+
+ENTRY 1 | work:4 | The Magic Mountain — Thomas Mann
+{"entry_id": 2212, "item_type": "work", "item_id": 4, "source_rank": null, "rationale": "Position 1 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 4, "title": "The Magic Mountain", "form": "book", "field": "literature", "original_year": 1924, "original_language": "German", "countries": ["Germany"], "description": "A novel of time, illness and intellectual conflict set in a Swiss sanatorium before the First World War.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 4, "name": "Thomas Mann", "biography": "", "countries": [], "source_url": "https://www.penguinrandomhouse.com/books/107311/the-magic-mountain-by-thomas-mann-translated-by-john-e-woods-introduction-by-a-s-byatt/", "image_attribution": "Nobel Foundation; Public domain. https://commons.wikimedia.org/wiki/File:Thomas_Mann_1929.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 4, "language": "English", "translator": "John E. Woods", "publisher": "Everyman’s Library", "isbn": "9781400044214", "pages": 904, "word_count": null, "abridged": 0, "translation_notes": "Hardcover English edition with introduction by A. S. Byatt, bibliography and author chronology. The 904-page extent belongs to this hardcover, not the separately listed 720-page paperback. The earlier reader review R179 concerns Lowe-Porter, not Woods.", "source_url": "https://www.penguinrandomhouse.com/books/107311/the-magic-mountain-by-thomas-mann-translated-by-john-e-woods-introduction-by-a-s-byatt/", "image_attribution": "Cover: Everyman’s Library. Publisher-supplied image for ISBN 9781400044214; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 1 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 2 | work:32 | Critique of Pure Reason — Immanuel Kant
+{"entry_id": 2213, "item_type": "work", "item_id": 32, "source_rank": null, "rationale": "Position 2 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 32, "title": "Critique of Pure Reason", "form": "book", "field": "philosophy", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 11, "name": "Immanuel Kant", "biography": "A philosopher whose three Critiques connect knowledge, ethics and judgment through questions of reason and autonomy.", "countries": [], "source_url": "https://plato.stanford.edu/entries/kant/", "image_attribution": "Johann Gottlieb Becker (1720-1782); Public domain. https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 121, "language": "English", "translator": "", "publisher": "Palgrave Macmillan", "isbn": "0230013376", "pages": 768, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL99703W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/2336629-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 2 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 3 | work:365 | Buddenbrooks — Thomas Mann
+{"entry_id": 2214, "item_type": "work", "item_id": 365, "source_rank": null, "rationale": "Position 3 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 365, "title": "Buddenbrooks", "form": "book", "field": "literature", "original_year": null, "original_language": "German", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 4, "name": "Thomas Mann", "biography": "", "countries": [], "source_url": "https://www.penguinrandomhouse.com/books/107311/the-magic-mountain-by-thomas-mann-translated-by-john-e-woods-introduction-by-a-s-byatt/", "image_attribution": "Nobel Foundation; Public domain. https://commons.wikimedia.org/wiki/File:Thomas_Mann_1929.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 94, "language": "English", "translator": "", "publisher": "Alfred A. Knopf", "isbn": "9780140181388", "pages": 592, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL14867081W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8244437-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 3 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 4 | work:355 | The Tin Drum — Günter Grass
+{"entry_id": 2215, "item_type": "work", "item_id": 355, "source_rank": null, "rationale": "Position 4 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 355, "title": "The Tin Drum", "form": "book", "field": "literature", "original_year": null, "original_language": "German", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 293, "name": "Günter Grass", "biography": "", "countries": [], "source_url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1289, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 594, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/tindrum0000unse_n6d2", "image_attribution": "Internet Archive item image: https://archive.org/services/img/tindrum0000unse_n6d2", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 4 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 5 | work:318 | All Quiet on the Western Front — Erich Maria Remarque
+{"entry_id": 2216, "item_type": "work", "item_id": 318, "source_rank": null, "rationale": "Position 5 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 318, "title": "All Quiet on the Western Front", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 273, "name": "Erich Maria Remarque", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 58, "language": "English", "translator": "", "publisher": "the folio society, london", "isbn": "", "pages": 232, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL42975781W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/14866709-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 5 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 6 | work:1718 | The Sorrows of Young Werther — Johann Wolfgang von Goethe
+{"entry_id": 2217, "item_type": "work", "item_id": 1718, "source_rank": null, "rationale": "Position 6 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1718, "title": "The Sorrows of Young Werther", "form": "book", "field": "literature", "original_year": 2006, "original_language": "", "countries": ["Germany"], "description": "Included at position 6 in the owner-supplied country synthesis. Original report title: The Sorrows of Young Werther.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1167, "name": "Johann Wolfgang von Goethe", "biography": "", "countries": [], "source_url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1501, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 104, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL23095535W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/10510097-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 6 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 7 | work:1719 | Capital, Volume I — Karl Marx
+{"entry_id": 2218, "item_type": "work", "item_id": 1719, "source_rank": null, "rationale": "Position 7 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1719, "title": "Capital, Volume I", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Germany"], "description": "Included at position 7 in the owner-supplied country synthesis. Original report title: Capital, Volume I.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 365, "name": "Karl Marx", "biography": "", "countries": [], "source_url": "https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 3166, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 830, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/CapitalVolumeI_201902", "image_attribution": "Internet Archive item image: https://archive.org/services/img/CapitalVolumeI_201902", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 7 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 8 | work:690 | Thus Spoke Zarathustra — Friedrich Nietzsche
+{"entry_id": 2219, "item_type": "work", "item_id": 690, "source_rank": null, "rationale": "Position 8 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 690, "title": "Thus Spoke Zarathustra", "form": "book", "field": "philosophy", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 20, "name": "Friedrich Nietzsche", "biography": "A philosopher whose writing joins psychological criticism with a re-examination of values. His authored books must be distinguished from posthumous notebook compilations.", "countries": [], "source_url": "https://plato.stanford.edu/entries/nietzsche/", "image_attribution": "Friedrich Hermann Hartmann; Public domain. https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 525, "language": "English", "translator": "", "publisher": "Lulu.com", "isbn": "9780368886317", "pages": 252, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL24528372W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/11161281-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 8 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 9 | work:1720 | The World as Will and Representation — Arthur Schopenhauer
+{"entry_id": 2220, "item_type": "work", "item_id": 1720, "source_rank": null, "rationale": "Position 9 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1720, "title": "The World as Will and Representation", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Germany"], "description": "Included at position 9 in the owner-supplied country synthesis. Original report title: The World as Will and Representation.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1168, "name": "Arthur Schopenhauer", "biography": "", "countries": [], "source_url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 3167, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/worldaswillrepre00scho", "image_attribution": "Internet Archive item image: https://archive.org/services/img/worldaswillrepre00scho", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 9 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 10 | work:1721 | Being and Time — Martin Heidegger
+{"entry_id": 2221, "item_type": "work", "item_id": 1721, "source_rank": null, "rationale": "Position 10 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1721, "title": "Being and Time", "form": "book", "field": "literature", "original_year": 2023, "original_language": "", "countries": ["Germany"], "description": "Included at position 10 in the owner-supplied country synthesis. Original report title: Being and Time.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 362, "name": "Martin Heidegger", "biography": "", "countries": [], "source_url": "https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1503, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 589, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL45453085W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/15221434-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 10 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 11 | work:346 | Berlin Alexanderplatz — Alfred Döblin
+{"entry_id": 2222, "item_type": "work", "item_id": 346, "source_rank": null, "rationale": "Position 11 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 346, "title": "Berlin Alexanderplatz", "form": "book", "field": "literature", "original_year": null, "original_language": "German", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 290, "name": "Alfred Döblin", "biography": "", "countries": [], "source_url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 90, "language": "English", "translator": "", "publisher": "Ediciones Catedra S.A.", "isbn": "9783423002950", "pages": 454, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL1434640W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/577140-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 11 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 12 | work:1722 | Children's and Household Tales — Jacob and Wilhelm Grimm
+{"entry_id": 2223, "item_type": "work", "item_id": 1722, "source_rank": null, "rationale": "Position 12 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1722, "title": "Children's and Household Tales", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Germany"], "description": "Included at position 12 in the owner-supplied country synthesis. Original report title: Children's and Household Tales / Grimms' Fairy Tales.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1169, "name": "Jacob and Wilhelm Grimm", "biography": "", "countries": [], "source_url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": null}, "editorial_evidence_and_rationales": {"standing": "Position 12 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 13 | work:1723 | Wilhelm Meister's Apprenticeship — Johann Wolfgang von Goethe
+{"entry_id": 2224, "item_type": "work", "item_id": 1723, "source_rank": null, "rationale": "Position 13 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1723, "title": "Wilhelm Meister's Apprenticeship", "form": "book", "field": "literature", "original_year": 2015, "original_language": "", "countries": ["Germany"], "description": "Included at position 13 in the owner-supplied country synthesis. Original report title: Wilhelm Meister's Apprenticeship.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1167, "name": "Johann Wolfgang von Goethe", "biography": "", "countries": [], "source_url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 886, "language": "English", "translator": "", "publisher": "Franklin Classics Trade Press", "isbn": "9781345802924", "pages": 586, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL24387482W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/10922433-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 13 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 14 | work:469 | Phenomenology of Spirit — G. W. F. Hegel
+{"entry_id": 2225, "item_type": "work", "item_id": 469, "source_rank": null, "rationale": "Position 14 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 469, "title": "Phenomenology of Spirit", "form": "book", "field": "philosophy", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 361, "name": "G. W. F. Hegel", "biography": "", "countries": [], "source_url": "https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1307, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/phenomenology-of-spirit-g-w-f-hegel", "image_attribution": "Internet Archive item image: https://archive.org/services/img/phenomenology-of-spirit-g-w-f-hegel", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 14 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 15 | work:1724 | Doctor Faustus — Thomas Mann
+{"entry_id": 2226, "item_type": "work", "item_id": 1724, "source_rank": null, "rationale": "Position 15 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1724, "title": "Doctor Faustus", "form": "book", "field": "literature", "original_year": 1947, "original_language": "", "countries": ["Germany"], "description": "Included at position 15 in the owner-supplied country synthesis. Original report title: Doctor Faustus.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 4, "name": "Thomas Mann", "biography": "", "countries": [], "source_url": "https://www.penguinrandomhouse.com/books/107311/the-magic-mountain-by-thomas-mann-translated-by-john-e-woods-introduction-by-a-s-byatt/", "image_attribution": "Nobel Foundation; Public domain. https://commons.wikimedia.org/wiki/File:Thomas_Mann_1929.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 1504, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 545, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL14867080W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/3976241-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 15 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 16 | work:1725 | Siddhartha — Hermann Hesse
+{"entry_id": 2227, "item_type": "work", "item_id": 1725, "source_rank": null, "rationale": "Position 16 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1725, "title": "Siddhartha", "form": "book", "field": "literature", "original_year": 1922, "original_language": "", "countries": ["Germany"], "description": "Included at position 16 in the owner-supplied country synthesis. Original report title: Siddhartha.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1170, "name": "Hermann Hesse", "biography": "", "countries": [], "source_url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1505, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 140, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL872932W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/6562535-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 16 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "GERMANY-001", "title": "DER SPIEGEL — Die besten 100 Bücher aus 100 Jahren – Deutschland", "url": "https://shop.spiegel.de/buecher/empfehlungen-aus-der-redaktion/die-100-besten-buecher/deutschland/"}, {"source_id": "GERMANY-002", "title": "DER SPIEGEL — Bücher / Literatur recommendations", "url": "https://www.spiegel.de/kultur/literatur/"}, {"source_id": "GERMANY-003", "title": "DER SPIEGEL — Marcel Reich-Ranicki / Der Kanon coverage", "url": "https://www.spiegel.de/thema/marcel_reich_ranicki/"}, {"source_id": "GERMANY-004", "title": "Marcel Reich-Ranicki — Der Kanon", "url": "https://de.wikipedia.org/wiki/Der_Kanon"}, {"source_id": "GERMANY-005", "title": "Die Welt — Literatur", "url": "https://www.welt.de/kultur/literarischewelt/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+END OF THIS INPUT PART. Wait for the next numbered part.

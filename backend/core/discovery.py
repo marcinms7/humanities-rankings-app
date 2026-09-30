@@ -73,12 +73,13 @@ def source_explorer(request):
     if url := p.get('url', ''):
         qs = qs.filter(url=url[:1000])
     paginator = CatalogPagination()
-    page = paginator.paginate_queryset(qs.select_related('ranking').defer('metadata', 'ranking__scope').order_by('title', 'ranking__title', 'pk'), request)
+    page = paginator.paginate_queryset(qs.select_related('ranking').defer('ranking__scope').order_by('title', 'ranking__title', 'pk'), request)
     uses = defaultdict(dict)
     for item in base.filter(url__in={s.url for s in page}).values('url', 'ranking_id', 'ranking__title', 'eligible'):
         saved = uses[item['url']].setdefault(item['ranking_id'], dict(id=item['ranking_id'], title=item['ranking__title'], eligible=False))
         saved['eligible'] = saved['eligible'] or item['eligible']
-    rows = [dict(id=s.pk, source_id=s.source_id, title=s.title, url=s.url, publisher=s.publisher,
+    from .evidence_provenance import source_provenance
+    rows = [dict(provenance=source_provenance(s), id=s.pk, source_id=s.source_id, title=s.title, url=s.url, publisher=s.publisher,
         family=s.family, language=s.language_label, geography=s.geography_label, access=s.access_label,
         eligible=s.eligible, evidence=s.evidence, limitations=s.limitations, consulted_on=s.consulted_on,
         ranking=dict(id=s.ranking_id, title=s.ranking.title), reuse_count=s.reuse_count,

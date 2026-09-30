@@ -1,5 +1,7 @@
 # Asia Weekly · 20th-Century 100 Best Chinese Fictions (1999)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named published ranking (100 entries), checked 2026-09-14.
 
 Primary source: https://www.mybook285.com/xdwx/20bq.htm

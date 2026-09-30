@@ -1,0 +1,35 @@
+.reading-facts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 18px 0;
+}
+.reading-facts dt {
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.reading-facts dd {
+  margin: 0;
+  font-weight: 600;
+  font-size: 14px;
+}
+.reading-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.book-workflow .select {
+  width: 100%;
+}
+@media (max-width: 600px) {
+  .reading-facts {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  .reading-facts div {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+  }
+}

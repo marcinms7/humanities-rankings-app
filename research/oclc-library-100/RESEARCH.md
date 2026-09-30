@@ -1,5 +1,7 @@
 # OCLC · The Library 100
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named published ranking (100 entries), checked 2026-09-14.
 
 Official source: https://www.oclc.org/en/worldcat/library100.html

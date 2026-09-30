@@ -11,6 +11,19 @@ from enum import Enum
 from math import isfinite
 
 
+def difficulty_multiplier(prose: int, concepts: int, structure: int) -> float:
+    """Editorial 0–4 ratings; provisional curved slowdown, not measured scores.
+
+    Combine overlapping demands once, then allow extra rereading at the hard
+    end. Zero means straightforward; four means exceptionally demanding.
+    """
+    for value in (prose, concepts, structure):
+        if type(value) is not int or not 0 <= value <= 4:
+            raise ValueError('Difficulty ratings must be whole numbers from 0 to 4.')
+    demand = (0.4 * prose + 0.4 * concepts + 0.2 * structure) / 4
+    return round(1 + demand + 2 * demand ** 2, 3)
+
+
 class ReadingLoad(str, Enum):
     LEISURE = "leisure"
     CLASSIC_LITERATURE = "classic_literature"
@@ -38,7 +51,7 @@ class ReaderProfile:
 
 @dataclass(frozen=True)
 class EstimationPolicy:
-    version: str = "reading-time-v0-uncalibrated"
+    version: str = "reading-time-v1-difficulty-range"
     words_per_page: float = 300.0
     leisure_multiplier: float = 1.0
     classic_multiplier: float = 1.5
@@ -124,8 +137,12 @@ def estimate_reading_time(
     hours = words / reader.baseline_words_per_minute / 60 * multiplier * (1 + reader.study_overhead_fraction)
     if not isfinite(hours) or not isfinite(hours * policy.range_high_multiplier):
         raise ValueError("Inputs produce a nonfinite duration")
+    # Unverified page density and difficult material widen the planning range.
+    # These are deliberately illustrative bounds, not confidence intervals.
+    extra_uncertainty = (0.10 if basis == 'page_count_estimate' else 0) + min(0.20, max(0, multiplier - 1) * 0.05)
+    assumptions.append('Planning range widens when word density is unknown or reading demands are higher.')
     return ReadingTimeEstimate(
-        "provisional", hours, hours * policy.range_low_multiplier,
-        hours * policy.range_high_multiplier, basis, multiplier, policy.version,
+        "provisional", hours, hours * max(0.25, policy.range_low_multiplier - extra_uncertainty),
+        hours * (policy.range_high_multiplier + extra_uncertainty), basis, multiplier, policy.version,
         False, tuple(assumptions),
     )

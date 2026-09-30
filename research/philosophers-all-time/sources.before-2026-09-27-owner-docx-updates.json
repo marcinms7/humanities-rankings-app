@@ -1,0 +1,3681 @@
+{
+  "target_id": "philosophers-all-time",
+  "minimum_eligible_sources": 50,
+  "criteria_version": null,
+  "ranking_entries": [],
+  "sources": [
+    {
+      "source_id": "S17",
+      "underlying_source_id": "plato",
+      "title": "Plato",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/plato/",
+      "access_url": "https://plato.stanford.edu/entries/plato/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Supports Plato's influence and cautions against conflating his voice with Socrates."
+      },
+      "evidence_notes": "The entry connects Plato's continuing influence to open-ended dialogue and distinguishes Plato's authored arguments from testimony about the historical Socrates.",
+      "location": "Introduction and sections 2–6",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Plato",
+        "Socrates",
+        "Republic",
+        "Phaedo",
+        "Theaetetus"
+      ],
+      "disagreement_or_limitations": "A scholarly interpretation, not a comparative world ranking; shorter dialogues require books-only eligibility review.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-01.json"
+    },
+    {
+      "source_id": "R002",
+      "underlying_source_id": "R002",
+      "title": "Aristotle",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/aristotle/",
+      "access_url": "https://plato.stanford.edu/entries/aristotle/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents Aristotle's disciplinary range and long reception."
+      },
+      "evidence_notes": "The surviving corpus spans logic, biology, metaphysics and ethics. Its frequently unfinished, technical prose differs from lost public writings; later editorial arrangement complicates work identity.",
+      "location": "Introduction and section 2, corpus and divisions",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Aristotle",
+        "Nicomachean Ethics",
+        "Metaphysics",
+        "Politics",
+        "History of Animals"
+      ],
+      "disagreement_or_limitations": "Western reception framing; scholarly influence does not establish modern scientific accuracy.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-01.json"
+    },
+    {
+      "source_id": "S20",
+      "underlying_source_id": "confucius",
+      "title": "Confucius",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/confucius/",
+      "access_url": "https://plato.stanford.edu/entries/confucius/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Distinguishes the historical thinker from later appropriations of Confucius."
+      },
+      "evidence_notes": "The Analects transmits multiple representations of Confucius. The entry treats ritual, virtue and family-state relations while warning that later traditions select different aspects of his legacy.",
+      "location": "Introduction, lines 13–20",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Confucius",
+        "Analects"
+      ],
+      "disagreement_or_limitations": "Authorship and doctrine are historically underdetermined; no single modern label captures all reception.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-01.json"
+    },
+    {
+      "source_id": "S23",
+      "underlying_source_id": "kant",
+      "title": "Immanuel Kant",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/kant/",
+      "access_url": "https://plato.stanford.edu/entries/kant/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Supports breadth and reception of Kant's philosophical contribution."
+      },
+      "evidence_notes": "The three Critiques connect epistemology, ethics and judgment through autonomy. The introduction describes Kant's enduring influence across modern philosophical fields.",
+      "location": "Introduction, lines 13–15",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Immanuel Kant",
+        "Critique of Pure Reason",
+        "Critique of Practical Reason",
+        "Critique of the Power of Judgment"
+      ],
+      "disagreement_or_limitations": "Introductory interpretation only; competing readings and discriminatory views require additional evidence.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-01.json"
+    },
+    {
+      "source_id": "S18",
+      "underlying_source_id": "du-bois",
+      "title": "W.E.B. Du Bois",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/dubois/",
+      "access_url": "https://plato.stanford.edu/entries/dubois/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents Du Bois's contribution to philosophy of race."
+      },
+      "evidence_notes": "The entry argues that Du Bois made race a central philosophical problem across social, political and aesthetic inquiry. Its structure separates periods around The Souls of Black Folk.",
+      "location": "Introduction and section structure, lines 13–31",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "W.E.B. Du Bois",
+        "The Souls of Black Folk"
+      ],
+      "disagreement_or_limitations": "Opening and named work sections identified; detailed work-level argument assessment remains pending.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-01.json"
+    },
+    {
+      "source_id": "S40",
+      "underlying_source_id": "wollstonecraft-sep",
+      "title": "Mary Wollstonecraft",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/wollstonecraft/",
+      "access_url": "https://plato.stanford.edu/entries/wollstonecraft/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents philosophical scope and influence beyond one famous contribution."
+      },
+      "evidence_notes": "Wollstonecraft's critique links women's condition to wider social relations and consumption. The entry identifies Vindication's feminist significance and a broader influence on travel writing and Romanticism.",
+      "location": "Introduction, lines 13–15",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Mary Wollstonecraft",
+        "A Vindication of the Rights of Woman"
+      ],
+      "disagreement_or_limitations": "Her bibliography includes fiction and pamphlets; these do not all qualify as nonfiction books.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-01.json"
+    },
+    {
+      "source_id": "S25",
+      "underlying_source_id": "zhuangzi",
+      "title": "Zhuangzi",
+      "author": null,
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "publisher_group": "Internet Encyclopedia of Philosophy",
+      "canonical_url": "https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher/",
+      "access_url": "https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "iep.utm.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Separates attributed thinker, multiple textual strands and later editor Guo Xiang."
+      },
+      "evidence_notes": "The text combines narrative, humour and criticism of fixed categories. It is an anthology, reduced by Guo Xiang from an earlier collection; attribution of its inner chapters is traditional.",
+      "location": "Opening paragraphs and historical-background excerpt",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Zhuangzi",
+        "Zhuang Zhou",
+        "Guo Xiang"
+      ],
+      "disagreement_or_limitations": "Do not assign all 33 chapters to one author or silently classify the hybrid text as modern nonfiction.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-01.json"
+    },
+    {
+      "source_id": "S49",
+      "underlying_source_id": "bhagavad",
+      "title": "The Bhagavad Gītā",
+      "author": null,
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "publisher_group": "Internet Encyclopedia of Philosophy",
+      "canonical_url": "https://iep.utm.edu/bhagavad-gita/",
+      "access_url": "https://iep.utm.edu/bhagavad-gita/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "iep.utm.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Provides a reception link among Vedanta commentators; does not treat fictional speakers as historical philosophers."
+      },
+      "evidence_notes": "The article analyzes the Gita as moral argument within the Mahabharata and traces its separate reception. Shankara, Ramanuja and Madhva wrote commentaries on it.",
+      "location": "Opening and introduction, lines 2–5 and 24–28",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Bhagavad Gita",
+        "Shankara",
+        "Ramanuja",
+        "Madhva"
+      ],
+      "disagreement_or_limitations": "One interpretive account; epic context and modern religious reception complicate genre classification.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-01.json"
+    },
+    {
+      "source_id": "R009",
+      "underlying_source_id": "R009",
+      "title": "Nāgārjuna",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/nagarjuna/",
+      "access_url": "https://plato.stanford.edu/entries/nagarjuna/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents Nagarjuna's influence while qualifying uncertain biography."
+      },
+      "evidence_notes": "Emptiness and arguments against intrinsic nature shaped Buddhist philosophy across Asia; the entry distinguishes reliably attributed works from later name-attributions.",
+      "location": "Introduction and life-and-works list",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Nagarjuna",
+        "The Fundamental Wisdom of the Middle Way",
+        "The Dispeller of Disputes"
+      ],
+      "disagreement_or_limitations": "Dates and attributions are uncertain; verse treatises need complete-work eligibility review.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-02.json"
+    },
+    {
+      "source_id": "R010",
+      "underlying_source_id": "R010",
+      "title": "Śaṅkara",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/shankara/",
+      "access_url": "https://plato.stanford.edu/entries/shankara/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Supports Shankara as systematizer rather than originator of the entire tradition."
+      },
+      "evidence_notes": "Shankara systematized Advaita through consciousness, metaphysics and teaching methods. His extant commentaries concern the Brahmasutras, Gita and principal Upanishads.",
+      "location": "Introduction and life-and-works excerpt",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Shankara",
+        "Brahmasutra commentary",
+        "Bhagavad Gita commentary"
+      ],
+      "disagreement_or_limitations": "Hagiographies are not dependable biography; root texts and commentaries must not be conflated.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-02.json"
+    },
+    {
+      "source_id": "R011",
+      "underlying_source_id": "R011",
+      "title": "Ibn Sina [Avicenna]",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/ibn-sina/",
+      "access_url": "https://plato.stanford.edu/entries/ibn-sina/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents Avicenna's systematic contribution and contested reception."
+      },
+      "evidence_notes": "Avicenna integrated science and philosophy; the medical Canon influenced European teaching, while philosophical reception included revision and refutation across religious communities.",
+      "location": "Introduction, lines 13–19",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Avicenna",
+        "The Canon of Medicine",
+        "Guide of the Perplexed"
+      ],
+      "disagreement_or_limitations": "One author's strong comparative influence judgment is not a global score.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-02.json"
+    },
+    {
+      "source_id": "R012",
+      "underlying_source_id": "R012",
+      "title": "al-Farabi",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/al-farabi/",
+      "access_url": "https://plato.stanford.edu/entries/al-farabi/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Supports al-Farabi's work in logic, philosophy and music."
+      },
+      "evidence_notes": "The Great Book of Music combines musical theory and philosophy. The entry flags missing complete English translations and describes medieval reception of Enumeration of the Sciences.",
+      "location": "Introduction and opening of section 1",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "al-Farabi",
+        "Great Book of Music",
+        "Enumeration of the Sciences"
+      ],
+      "disagreement_or_limitations": "Do not recommend an English edition before verifying it; biography and ethnic attribution are disputed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-02.json"
+    },
+    {
+      "source_id": "R013",
+      "underlying_source_id": "R013",
+      "title": "Mencius",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/mencius/",
+      "access_url": "https://plato.stanford.edu/entries/mencius/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Supports Mencius's distinctive position and later reception."
+      },
+      "evidence_notes": "Mengzi's ethical cultivation and account of human nature invite comparison with Aristotle and Hume. The text was compiled by followers and later edited by Zhao Qi.",
+      "location": "Introduction and section 1",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Mencius",
+        "Mengzi"
+      ],
+      "disagreement_or_limitations": "Do not attribute the entire received compilation directly to one author's manuscript.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-02.json"
+    },
+    {
+      "source_id": "R014",
+      "underlying_source_id": "R014",
+      "title": "Xunzi",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/xunzi/",
+      "access_url": "https://plato.stanford.edu/entries/xunzi/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Shows that historical marginalization differs from philosophical significance."
+      },
+      "evidence_notes": "Xunzi's reputation shifted from frequent disapproval to renewed recognition. The received collection derives from posthumous editorial work; it is predominantly authentic but textually layered.",
+      "location": "Introduction and section 1",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Xunzi",
+        "Xun Kuang"
+      ],
+      "disagreement_or_limitations": "Life dates are uncertain; source biography can distort philosophers' lives.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-02.json"
+    },
+    {
+      "source_id": "R015",
+      "underlying_source_id": "R015",
+      "title": "Laozi",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/laozi/",
+      "access_url": "https://plato.stanford.edu/entries/laozi/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Requires a disputed-historical-identity flag before person eligibility."
+      },
+      "evidence_notes": "Daodejing's ethical, political and spiritual interpretations differ. The text's influence is broad, but the existence of its traditionally named author is disputed.",
+      "location": "Introduction",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Laozi",
+        "Daodejing"
+      ],
+      "disagreement_or_limitations": "Do not infer an established historical individual from a surviving named text.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-02.json"
+    },
+    {
+      "source_id": "R016",
+      "underlying_source_id": "R016",
+      "title": "African Sage Philosophy",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/african-sage/",
+      "access_url": "https://plato.stanford.edu/entries/african-sage/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Distinguishes named oral thinkers from undifferentiated communal beliefs."
+      },
+      "evidence_notes": "Oruka's Sage Philosophy records dialogues evidencing individual critical thought in African oral traditions, challenging the assumption that philosophy requires a written authorial corpus.",
+      "location": "Introduction and examples from Oruka's project",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Henry Odera Oruka",
+        "Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy",
+        "Paul Mbuya Akoko",
+        "Okemba Simiyu Chaungo"
+      ],
+      "disagreement_or_limitations": "Interview mediation and translation matter; oral thinkers need person-specific evidence.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-02.json"
+    },
+    {
+      "source_id": "R017",
+      "underlying_source_id": "R017",
+      "title": "Simone de Beauvoir",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/beauvoir/",
+      "access_url": "https://plato.stanford.edu/entries/beauvoir/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Corrects the reduction of Beauvoir's thought to Sartre's influence."
+      },
+      "evidence_notes": "Beauvoir's original contributions extend across existentialism, ethics and feminism. The entry challenges her treatment as merely Sartre's assistant and separates fiction, memoir and theory.",
+      "location": "Introduction and named work section headings",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Simone de Beauvoir",
+        "The Second Sex",
+        "The Ethics of Ambiguity",
+        "The Coming of Age"
+      ],
+      "disagreement_or_limitations": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-03.json"
+    },
+    {
+      "source_id": "R018",
+      "underlying_source_id": "R018",
+      "title": "Hannah Arendt",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/arendt/",
+      "access_url": "https://plato.stanford.edu/entries/arendt/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Supports public and scholarly reception while preserving controversy."
+      },
+      "evidence_notes": "Origins of Totalitarianism, The Human Condition and Eichmann in Jerusalem had academic and public impact. They investigate different questions; the banality-of-evil formulation remains controversial.",
+      "location": "Introduction and named work section headings",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Hannah Arendt",
+        "The Origins of Totalitarianism",
+        "The Human Condition",
+        "Eichmann in Jerusalem"
+      ],
+      "disagreement_or_limitations": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-03.json"
+    },
+    {
+      "source_id": "R019",
+      "underlying_source_id": "R019",
+      "title": "Ludwig Wittgenstein",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/wittgenstein/",
+      "access_url": "https://plato.stanford.edu/entries/wittgenstein/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents influence without assuming a simple reversal narrative."
+      },
+      "evidence_notes": "Tractatus and Philosophical Investigations represent major approaches to language and philosophy. The familiar early/late split is itself disputed by scholarship emphasizing continuity or additional phases.",
+      "location": "Introduction and named work section headings",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Ludwig Wittgenstein",
+        "Tractatus Logico-Philosophicus",
+        "Philosophical Investigations"
+      ],
+      "disagreement_or_limitations": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-03.json"
+    },
+    {
+      "source_id": "R020",
+      "underlying_source_id": "R020",
+      "title": "David Hume",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/hume/",
+      "access_url": "https://plato.stanford.edu/entries/hume/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents experimental approach and evolving reception."
+      },
+      "evidence_notes": "Hume's contemporary historical fame differed from later philosophical reception. The Enquiries rework Treatise topics more concisely; scholarship debates continuity and substantive change.",
+      "location": "Introduction and life-and-works excerpts",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "David Hume",
+        "A Treatise of Human Nature",
+        "An Enquiry concerning Human Understanding",
+        "An Enquiry concerning the Principles of Morals"
+      ],
+      "disagreement_or_limitations": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-03.json"
+    },
+    {
+      "source_id": "R021",
+      "underlying_source_id": "R021",
+      "title": "Baruch Spinoza",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/spinoza/",
+      "access_url": "https://plato.stanford.edu/entries/spinoza/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Supports Spinoza's original synthesis of several intellectual traditions."
+      },
+      "evidence_notes": "Spinoza links naturalistic metaphysics to passions, happiness and democratic politics. The entry separately treats Ethics and the Theological-Political Treatise.",
+      "location": "Introduction and named work section headings",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Baruch Spinoza",
+        "Ethics",
+        "Theological-Political Treatise"
+      ],
+      "disagreement_or_limitations": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-03.json"
+    },
+    {
+      "source_id": "R022",
+      "underlying_source_id": "R022",
+      "title": "Thomas Aquinas",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/aquinas/",
+      "access_url": "https://plato.stanford.edu/entries/aquinas/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents scholastic innovation and subsequent debate."
+      },
+      "evidence_notes": "Aquinas systematically reworked Aristotelian thought. His Summae are theological works with philosophical content; serious comparison should include disputed questions and parallel treatments.",
+      "location": "Introduction and life-and-works excerpts",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Thomas Aquinas",
+        "Summa theologiae",
+        "Summa contra gentiles"
+      ],
+      "disagreement_or_limitations": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-03.json"
+    },
+    {
+      "source_id": "R023",
+      "underlying_source_id": "R023",
+      "title": "Friedrich Nietzsche",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/nietzsche/",
+      "access_url": "https://plato.stanford.edu/entries/nietzsche/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents Nietzsche's philosophical projects beyond isolated slogans."
+      },
+      "evidence_notes": "Nietzsche combines psychological critique with proposed new values. The Will to Power is a posthumous notebook selection, unlike the authored Genealogy and Beyond Good and Evil.",
+      "location": "Introduction and life-and-works excerpts",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Friedrich Nietzsche",
+        "On the Genealogy of Morality",
+        "Beyond Good and Evil",
+        "The Gay Science",
+        "The Will to Power"
+      ],
+      "disagreement_or_limitations": "Relevant excerpts, not full-entry or primary-book review; comparative merit and English editions remain unassessed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-03.json"
+    },
+    {
+      "source_id": "R024",
+      "underlying_source_id": "R024",
+      "title": "Frantz Fanon",
+      "author": null,
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "publisher_group": "Internet Encyclopedia of Philosophy",
+      "canonical_url": "https://iep.utm.edu/fanon/",
+      "access_url": "https://iep.utm.edu/fanon/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "iep.utm.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Supports Fanon's role in Africana thought and human dignity debates."
+      },
+      "evidence_notes": "Black Skin, White Masks develops anti-racist humanism; later works shift toward colonized peoples' liberation. The entry places Fanon centrally in Africana political thought.",
+      "location": "Opening paragraphs",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Frantz Fanon",
+        "Black Skin, White Masks",
+        "The Wretched of the Earth",
+        "A Dying Colonialism"
+      ],
+      "disagreement_or_limitations": "Interpretive introduction; debates over violence and later reception need independent criticism.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-03.json"
+    },
+    {
+      "source_id": "S19",
+      "underlying_source_id": "warburton",
+      "title": "Key Philosophical Texts in the Western Canon",
+      "author": "Nigel Warburton; interviewed by Sophie Roell",
+      "publisher": "Five Books",
+      "publisher_group": "Five Books",
+      "canonical_url": "https://fivebooks.com/best-books/key-philosophical-texts-western-nigel-warburton/",
+      "access_url": "https://fivebooks.com/best-books/key-philosophical-texts-western-nigel-warburton/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "expert_interview",
+      "domain_or_platform": "fivebooks.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Provides reception evidence for Plato, Descartes, Hume, Mill and Wittgenstein."
+      },
+      "evidence_notes": "Warburton selects classics partly for accessibility and literary qualities. His five choices are explicitly Western and all male; Republic is discussed through ethics and political analogy.",
+      "location": "Selection and opening interview, lines 235–285",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Republic",
+        "Meditations on First Philosophy",
+        "An Enquiry concerning Human Understanding",
+        "On Liberty",
+        "Philosophical Investigations"
+      ],
+      "disagreement_or_limitations": "Narrow Western selection; introductory accessibility is distinct from greatest-ever merit.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-04.json"
+    },
+    {
+      "source_id": "R026",
+      "underlying_source_id": "R026",
+      "title": "The Best Philosophy Books by Women",
+      "author": "Lisa Whiting and Rebecca Buxton; interviewed by Nigel Warburton",
+      "publisher": "Five Books",
+      "publisher_group": "Five Books",
+      "canonical_url": "https://fivebooks.com/best-books/philosophy-women-lisa-whiting-rebecca-buxton/",
+      "access_url": "https://fivebooks.com/best-books/philosophy-women-lisa-whiting-rebecca-buxton/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "expert_interview",
+      "domain_or_platform": "fivebooks.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents canon exclusion and specific overlooked philosophers."
+      },
+      "evidence_notes": "The interview questions how canons exclude women and selects Davis, Manne, Midgley, Shklar and Benhabib. It distinguishes a book about philosophers from an anthology of their texts.",
+      "location": "Selection and opening interview",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Women, Race & Class",
+        "Down Girl",
+        "What Is Philosophy For?",
+        "American Citizenship",
+        "The Rights of Others",
+        "Angela Davis",
+        "Kate Manne",
+        "Mary Midgley",
+        "Judith Shklar",
+        "Seyla Benhabib"
+      ],
+      "disagreement_or_limitations": "One jointly authored selection, not five independent sources; shared interviewer with other Five Books pieces.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-04.json"
+    },
+    {
+      "source_id": "R027",
+      "underlying_source_id": "R027",
+      "title": "The best books on Philosophy in the Islamic World",
+      "author": "Peter Adamson; interviewed by Nigel Warburton",
+      "publisher": "Five Books",
+      "publisher_group": "Five Books",
+      "canonical_url": "https://fivebooks.com/best-books/peter-adamson-philosophy-islamic-world/",
+      "access_url": "https://fivebooks.com/best-books/peter-adamson-philosophy-islamic-world/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "expert_interview",
+      "domain_or_platform": "fivebooks.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Supports cross-community reception of Avicenna, Maimonides and al-Razi."
+      },
+      "evidence_notes": "Adamson distinguishes language, ethnicity, religion and political setting. He recommends studies of Greek-Arabic transmission, Avicenna, Maimonides and al-Razi, rejecting a simple Golden-Age endpoint.",
+      "location": "Selection and scope discussion, lines 235–279",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Greek Thought, Arabic Culture",
+        "Avicenna",
+        "Avicenna's De Anima in the Latin West",
+        "Maimonides in His World",
+        "The Teleological Ethics of Fakhr al-Din al-Razi"
+      ],
+      "disagreement_or_limitations": "Recommended books are secondary scholarship; do not imply they are primary texts by the studied philosophers.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-04.json"
+    },
+    {
+      "source_id": "R028",
+      "underlying_source_id": "R028",
+      "title": "The best books on World Philosophy",
+      "author": "Bryan Van Norden; interviewed by Nigel Warburton",
+      "publisher": "Five Books",
+      "publisher_group": "Five Books",
+      "canonical_url": "https://fivebooks.com/best-books/world-philosophy-bryan-van-norden/",
+      "access_url": "https://fivebooks.com/best-books/world-philosophy-bryan-van-norden/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "expert_interview",
+      "domain_or_platform": "fivebooks.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": "The interview explicitly develops the author's joint New York Times editorial and Taking Back Philosophy; not independent votes for those same arguments.",
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Challenges equating departmental representation with worldwide philosophical merit."
+      },
+      "evidence_notes": "Van Norden pairs Plato and Hume with Mengzi, Zhuangzi and Shantideva, arguing that academic access and exclusion shape the apparent canon.",
+      "location": "Selection and initial canon-history discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Republic",
+        "A Treatise of Human Nature",
+        "Mengzi",
+        "Zhuangzi",
+        "Bodhicaryavatara",
+        "Shantideva"
+      ],
+      "disagreement_or_limitations": "Interview's historical claims require independent corroboration; linked editorial is an uncounted lead.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-04.json"
+    },
+    {
+      "source_id": "R029",
+      "underlying_source_id": "R029",
+      "title": "Who Is The Best Philosopher?",
+      "author": null,
+      "publisher": "Philosophy Now",
+      "publisher_group": "Philosophy Now",
+      "canonical_url": "https://philosophynow.org/issues/70/Who_Is_The_Best_Philosopher",
+      "access_url": "https://philosophynow.org/issues/70/Who_Is_The_Best_Philosopher",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_community",
+      "domain_or_platform": "philosophynow.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Direct evidence of disagreement among readers about philosopher comparisons."
+      },
+      "evidence_notes": "Reader submissions disagree about the best philosopher and proposed standards. One Hume submission distinguishes communication, breadth and lasting contribution and cites Think and Kant's first Critique.",
+      "location": "Question introduction and Hume response",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "David Hume",
+        "Simon Blackburn",
+        "Think",
+        "Critique of Pure Reason",
+        "Mary Warnock",
+        "Plato"
+      ],
+      "disagreement_or_limitations": "Edited reader submissions count once; subjective reasons, not a representative poll.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-04.json"
+    },
+    {
+      "source_id": "R030",
+      "underlying_source_id": "R030",
+      "title": "Recommended Reads",
+      "author": null,
+      "publisher": "Philosophy Now",
+      "publisher_group": "Philosophy Now",
+      "canonical_url": "https://philosophynow.org/issues/8/Recommended_Reads",
+      "access_url": "https://philosophynow.org/issues/8/Recommended_Reads",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_review",
+      "domain_or_platform": "philosophynow.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Shows a familiar selection of Plato, Descartes, Heidegger, Hume and Wittgenstein in public pedagogy."
+      },
+      "evidence_notes": "Mini-reviews distinguish accessible introductions from advanced surveys. Ayer's twentieth-century account is criticized for limited Continental coverage; Magee's interview anthology supplies historical entry points.",
+      "location": "Mini-reviews, lines 41–48",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Philosophy: The Basics",
+        "Philosophy in the 20th Century",
+        "The Great Philosophers",
+        "Learning to Philosophise"
+      ],
+      "disagreement_or_limitations": "Historical reviews and prices are not current buying guidance; one review admits partial reading.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-04.json"
+    },
+    {
+      "source_id": "S41",
+      "underlying_source_id": "yale-politics",
+      "title": "Introduction to Political Philosophy",
+      "author": "Steven B. Smith",
+      "publisher": "Yale University",
+      "publisher_group": "Yale University",
+      "canonical_url": "https://oyc.yale.edu/political-science/plsc-114",
+      "access_url": "https://oyc.yale.edu/political-science/plsc-114",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "academic_curriculum",
+      "domain_or_platform": "oyc.yale.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents curricular reception of Plato, Aristotle, Machiavelli, Hobbes, Locke, Rousseau and Tocqueville."
+      },
+      "evidence_notes": "The syllabus groups political texts around city-state, sovereignty, constitutional government and democracy. Sessions assign parts of works, so teaching order is neither complete-book coverage nor rank.",
+      "location": "Course description, texts and session list",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Republic",
+        "Politics",
+        "The Prince",
+        "Leviathan",
+        "Second Treatise of Government",
+        "Democracy in America",
+        "Social Contract"
+      ],
+      "disagreement_or_limitations": "Western introductory syllabus; lecture videos not watched or counted separately.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-04.json"
+    },
+    {
+      "source_id": "S03",
+      "underlying_source_id": "sjc",
+      "title": "St. John's Reading List: A Great Books Curriculum",
+      "author": null,
+      "publisher": "St. John's College",
+      "publisher_group": "St. John's College",
+      "canonical_url": "https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list",
+      "access_url": "https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "academic_curriculum",
+      "domain_or_platform": "sjc.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Provides curricular reception of Aristotle; not every listed scientist is a philosopher."
+      },
+      "evidence_notes": "The curriculum links Aristotle's ethical and natural works, Euclid's Elements, Harvey's circulation treatise and Herodotus's Histories. It warns that selections and campus lists vary.",
+      "location": "Introduction and freshman selections, lines 13–172",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Nicomachean Ethics",
+        "Metaphysics",
+        "Elements",
+        "On the Motion of the Heart and Blood in Animals",
+        "Histories"
+      ],
+      "disagreement_or_limitations": "A Western educational collection; extracts and sequence must not acquire merit positions.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-04.json"
+    },
+    {
+      "source_id": "R033",
+      "underlying_source_id": "R033",
+      "title": "On What Matters, Volumes 1 and 2",
+      "author": "Mark Schroeder",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "publisher_group": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "canonical_url": "https://ndpr.nd.edu/reviews/on-what-matters-volumes-1-and-2/",
+      "access_url": "https://ndpr.nd.edu/reviews/on-what-matters-volumes-1-and-2/",
+      "publication_date": "2011-08-01",
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "ndpr.nd.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Evidence for Derek Parfit's contribution and its reception."
+      },
+      "evidence_notes": "Schroeder praises the systematic achievement but argues that convergence can be overstated when Kantians reject the background assumptions. He distinguishes this project from Reasons and Persons.",
+      "location": "Introduction and convergence critique",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "On What Matters",
+        "Reasons and Persons",
+        "Derek Parfit"
+      ],
+      "disagreement_or_limitations": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-05.json"
+    },
+    {
+      "source_id": "R034",
+      "underlying_source_id": "R034",
+      "title": "Epistemic Injustice: Power and the Ethics of Knowing",
+      "author": "Lorraine Code",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "publisher_group": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "canonical_url": "https://ndpr.nd.edu/reviews/epistemic-injustice-power-and-the-ethics-of-knowing/",
+      "access_url": "https://ndpr.nd.edu/reviews/epistemic-injustice-power-and-the-ethics-of-knowing/",
+      "publication_date": "2008-03-12",
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "ndpr.nd.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Evidence for Miranda Fricker's contribution and its reception."
+      },
+      "evidence_notes": "Code praises the connection between ethics, epistemology and power. Testimonial and hermeneutical harms affect people as knowers; collective prejudice complicates individual virtue remedies.",
+      "location": "Opening analysis and collective-prejudice discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Epistemic Injustice",
+        "Miranda Fricker"
+      ],
+      "disagreement_or_limitations": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-05.json"
+    },
+    {
+      "source_id": "R035",
+      "underlying_source_id": "R035",
+      "title": "Death and the Afterlife",
+      "author": "John Cottingham",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "publisher_group": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "canonical_url": "https://ndpr.nd.edu/reviews/death-and-the-afterlife/",
+      "access_url": "https://ndpr.nd.edu/reviews/death-and-the-afterlife/",
+      "publication_date": "2014-05-02",
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "ndpr.nd.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Evidence for Samuel Scheffler's contribution and its reception."
+      },
+      "evidence_notes": "Cottingham praises clear argument about humanity surviving one's death, but questions the exclusion of religious reflection. The review distinguishes collective survival from personal immortality.",
+      "location": "Opening argument and concluding reservation",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Death and the Afterlife",
+        "Samuel Scheffler"
+      ],
+      "disagreement_or_limitations": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-05.json"
+    },
+    {
+      "source_id": "R036",
+      "underlying_source_id": "R036",
+      "title": "Creating Capabilities: The Human Development Approach",
+      "author": "Ingrid Robeyns",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "publisher_group": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "canonical_url": "https://ndpr.nd.edu/reviews/creating-capabilities-the-human-development-approach-2/",
+      "access_url": "https://ndpr.nd.edu/reviews/creating-capabilities-the-human-development-approach-2/",
+      "publication_date": "2011-09-23",
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "ndpr.nd.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Evidence for Martha Nussbaum's contribution and its reception."
+      },
+      "evidence_notes": "Robeyns finds an effective general introduction. The capabilities approach evaluates substantive opportunities rather than resources alone, distinguishing Nussbaum's justice project from Sen's comparative assessments.",
+      "location": "Opening paragraphs",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Creating Capabilities",
+        "Women and Human Development",
+        "Frontiers of Justice",
+        "Martha Nussbaum"
+      ],
+      "disagreement_or_limitations": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-05.json"
+    },
+    {
+      "source_id": "R037",
+      "underlying_source_id": "R037",
+      "title": "Justice for Hedgehogs",
+      "author": "Gerald Doppelt",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "publisher_group": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "canonical_url": "https://ndpr.nd.edu/reviews/justice-for-hedgehogs/",
+      "access_url": "https://ndpr.nd.edu/reviews/justice-for-hedgehogs/",
+      "publication_date": "2011-08-04",
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "ndpr.nd.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Evidence for Ronald Dworkin's contribution and its reception."
+      },
+      "evidence_notes": "Doppelt describes a systematic, readable defense of independent but mutually supporting moral values, interpreted through further value judgments rather than purely empirical tests.",
+      "location": "Introduction and opening independence-of-value analysis",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Justice for Hedgehogs",
+        "Ronald Dworkin"
+      ],
+      "disagreement_or_limitations": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-05.json"
+    },
+    {
+      "source_id": "R038",
+      "underlying_source_id": "R038",
+      "title": "Democracy After Virtue: Toward Pragmatic Confucian Democracy",
+      "author": "Kenneth Winston",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "publisher_group": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "canonical_url": "https://ndpr.nd.edu/reviews/emocracy-after-virtue-toward-pragmatic-confucian-democracy/",
+      "access_url": "https://ndpr.nd.edu/reviews/emocracy-after-virtue-toward-pragmatic-confucian-democracy/",
+      "publication_date": "2019-07-20",
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "ndpr.nd.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Evidence for Sungmoon Kim's contribution and its reception."
+      },
+      "evidence_notes": "Winston locates Kim between Confucian meritocrats and democrats. Kim challenges elite moral monopoly and treats pluralism as central to the problem of political legitimacy.",
+      "location": "Opening argument exposition",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Democracy After Virtue",
+        "Sungmoon Kim"
+      ],
+      "disagreement_or_limitations": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-05.json"
+    },
+    {
+      "source_id": "R039",
+      "underlying_source_id": "R039",
+      "title": "Ethics in the Conflicts of Modernity",
+      "author": "Richard Kraut",
+      "publisher": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "publisher_group": "Notre Dame Philosophical Reviews / University of Notre Dame",
+      "canonical_url": "https://ndpr.nd.edu/reviews/ethics-in-the-conflicts-of-modernity-an-essay-on-desire-practical-reasoning-and-narrative/",
+      "access_url": "https://ndpr.nd.edu/reviews/ethics-in-the-conflicts-of-modernity-an-essay-on-desire-practical-reasoning-and-narrative/",
+      "publication_date": "2018-01-17",
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "ndpr.nd.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Evidence for Alasdair MacIntyre's contribution and its reception."
+      },
+      "evidence_notes": "Kraut connects the book to After Virtue while noting renewed engagement with expressivism and Bernard Williams. MacIntyre's approach demands historical and social context for moral philosophy.",
+      "location": "Opening paragraphs",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Ethics in the Conflicts of Modernity",
+        "After Virtue",
+        "Ethics and the Limits of Philosophy",
+        "Alasdair MacIntyre"
+      ],
+      "disagreement_or_limitations": "Review excerpts examined; reviewed books and works cited within the review are not separately counted. Shared journal, independent reviewer.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-05.json"
+    },
+    {
+      "source_id": "R040",
+      "underlying_source_id": "R040",
+      "title": "Recensie: Sophie Bósèdé Olúwolé – Socrates en Òrúnmìlà",
+      "author": "Erik-Jan Hummel",
+      "publisher": "Tzum",
+      "publisher_group": "Tzum",
+      "canonical_url": "https://www.tzum.info/2018/07/recensie-sophie-bosede-oluwole-socrates-en-orunmila/",
+      "access_url": "https://www.tzum.info/2018/07/recensie-sophie-bosede-oluwole-socrates-en-orunmila/",
+      "publication_date": "2018-07-12",
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_review",
+      "domain_or_platform": "tzum.info",
+      "language": "nl",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Examines why Socrates and Orunmila receive unequal recognition."
+      },
+      "evidence_notes": "Hummel finds Oluwole accessible but sometimes repetitive and oversimplified. He disputes explaining Orunmila's obscurity mainly by mistranslation, emphasizing transmission and institutional reception.",
+      "location": "Review body, lines 54–65",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Socrates and Orunmila",
+        "Sophie Oluwole",
+        "Orunmila",
+        "Socrates"
+      ],
+      "disagreement_or_limitations": "Dutch edition review; historical claims about Orunmila remain disputed rather than adopted as facts.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-05.json"
+    },
+    {
+      "source_id": "R041",
+      "underlying_source_id": "R041",
+      "title": "Filozofowie ważni i bliscy — wyniki plebiscytu",
+      "author": null,
+      "publisher": "Filozofuj! / Academicon",
+      "publisher_group": "Filozofuj! / Academicon",
+      "canonical_url": "https://filozofuj.eu/filozofowie-wazni-i-bliscy-wedlug-czytelnikow-filozofuj-oglaszamy-liste-zwyciezcow/",
+      "access_url": "https://filozofuj.eu/filozofowie-wazni-i-bliscy-wedlug-czytelnikow-filozofuj-oglaszamy-liste-zwyciezcow/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_community",
+      "domain_or_platform": "filozofuj.eu",
+      "language": "pl",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Direct Polish reader evidence distinguishing perceived importance from personal resonance."
+      },
+      "evidence_notes": "Among 135 respondents, the importance ranking begins Plato, Aristotle, Kant; personal closeness begins Socrates and Nietzsche and includes Tischner and Kolakowski. Votes used a 3–2–1 scheme.",
+      "location": "Results and voting method, lines 582–605",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Plato",
+        "Aristotle",
+        "Immanuel Kant",
+        "Socrates",
+        "Friedrich Nietzsche",
+        "Jozef Tischner",
+        "Leszek Kolakowski"
+      ],
+      "disagreement_or_limitations": "Self-selected small readership; importance and closeness are separate source rankings. Follow-up breakdown is the same poll, not another source.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-06.json"
+    },
+    {
+      "source_id": "R042",
+      "underlying_source_id": "R042",
+      "title": "Paweł Okołowski: Lukrecjusz ze Lwowa",
+      "author": "Paweł Okołowski; interviewed by Filip Kobiela",
+      "publisher": "Filozofuj! / Academicon",
+      "publisher_group": "Filozofuj! / Academicon",
+      "canonical_url": "https://filozofuj.eu/pawel-okolowski-lukrecjusz-ze-lwowa/",
+      "access_url": "https://filozofuj.eu/pawel-okolowski-lukrecjusz-ze-lwowa/",
+      "publication_date": "2021-11-09",
+      "accessed_at": "2026-09-12",
+      "source_family": "expert_interview",
+      "domain_or_platform": "filozofuj.eu",
+      "language": "pl",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Provides a contested expert argument for Lem's philosopher eligibility."
+      },
+      "evidence_notes": "Okolowski argues Lem's essays form a philosophical system obscured by his fiction's fame and difficult discursive prose. He contrasts Summa and Dialogues with fictional narratives.",
+      "location": "Interview opening, lines 578–593",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Stanislaw Lem",
+        "Summa Technologiae",
+        "Dialogues",
+        "His Master's Voice"
+      ],
+      "disagreement_or_limitations": "A sympathetic specialist's interpretation; outdated English-publication comments are not treated as current availability.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-06.json"
+    },
+    {
+      "source_id": "R043",
+      "underlying_source_id": "R043",
+      "title": "La carrière française de John Rawls",
+      "author": "Ophélie Desmons",
+      "publisher": "La Vie des idées",
+      "publisher_group": "La Vie des idées",
+      "canonical_url": "https://laviedesidees.fr/La-carriere-francaise-de-John-Rawls",
+      "access_url": "https://laviedesidees.fr/La-carriere-francaise-de-John-Rawls",
+      "publication_date": "2019-06-10",
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "laviedesidees.fr",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Separates Rawls's philosophical work from its shifting public labels."
+      },
+      "evidence_notes": "Reviewing Hauchecorne, Desmons explains Rawls's delayed French canonization and conflicting political readings. International circulation changes a book's interpreted meaning through local institutions and mediators.",
+      "location": "Introduction and methodological discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "John Rawls",
+        "A Theory of Justice",
+        "La gauche américaine en France"
+      ],
+      "disagreement_or_limitations": "French reception case study, not direct validation of Rawls's arguments; English translation of the reviewed monograph unresolved.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-06.json"
+    },
+    {
+      "source_id": "R044",
+      "underlying_source_id": "R044",
+      "title": "Un nouveau Spinoza : entretien avec Bernard Pautrat",
+      "author": "Marc Lebiez; Bernard Pautrat",
+      "publisher": "En attendant Nadeau",
+      "publisher_group": "En attendant Nadeau",
+      "canonical_url": "https://www.en-attendant-nadeau.fr/2022/10/13/pleiade-spinoza-entretien-pautrat/",
+      "access_url": "https://www.en-attendant-nadeau.fr/2022/10/13/pleiade-spinoza-entretien-pautrat/",
+      "publication_date": "2022-10-13",
+      "accessed_at": "2026-09-12",
+      "source_family": "expert_interview",
+      "domain_or_platform": "en-attendant-nadeau.fr",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Adds French scholarly reception of Spinoza beyond summary reference."
+      },
+      "evidence_notes": "Pautrat explains revised texts, consistent translation of Latin terms and a reading of Ethics' geometric order as substantive argument. He describes transformative reading, not merely admiration.",
+      "location": "Interview on edition rationale, translation consistency and geometric order",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Baruch Spinoza",
+        "Ethics",
+        "Political Treatise",
+        "Treatise on the Emendation of the Intellect"
+      ],
+      "disagreement_or_limitations": "French edition and editor's own interpretation; not an English-edition recommendation.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-06.json"
+    },
+    {
+      "source_id": "R045",
+      "underlying_source_id": "R045",
+      "title": "Resenha: Sair da Grande Noite — Achille Mbembe",
+      "author": null,
+      "publisher": "Trans/Form/Ação / UNESP",
+      "publisher_group": "Trans/Form/Ação / UNESP",
+      "canonical_url": "https://www.scielo.br/j/trans/a/8y55qsQj7mXXk6ySzhKjy4k/?lang=pt",
+      "access_url": "https://www.scielo.br/j/trans/a/8y55qsQj7mXXk6ySzhKjy4k/?lang=pt",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "scielo.br",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents Mbembe's intellectual dialogue with Fanon and Ela."
+      },
+      "evidence_notes": "The review presents decolonization as opening possible futures rather than merely auditing independence. It connects Mbembe to Fanon and Jean-Marc Ela and examines hybrid theoretical-autobiographical writing.",
+      "location": "Review body, lines 73–85",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Achille Mbembe",
+        "Out of the Dark Night",
+        "Frantz Fanon",
+        "Jean-Marc Ela"
+      ],
+      "disagreement_or_limitations": "Portuguese translation reviewed; the source is one article, not each cited book or DOI version.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-06.json"
+    },
+    {
+      "source_id": "R046",
+      "underlying_source_id": "R046",
+      "title": "学习哲学，要读读哪些书呢？",
+      "author": null,
+      "publisher": "Tsinghua University Department of Philosophy",
+      "publisher_group": "Tsinghua University Department of Philosophy",
+      "canonical_url": "https://www.phil.tsinghua.edu.cn/info/1037/1319.htm",
+      "access_url": "https://www.phil.tsinghua.edu.cn/info/1037/1319.htm",
+      "publication_date": "2018-07-04",
+      "accessed_at": "2026-09-12",
+      "source_family": "academic_curriculum",
+      "domain_or_platform": "phil.tsinghua.edu.cn",
+      "language": "zh",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents Chinese academic reception of Zhu Xi, Wang Yangming and Mozi."
+      },
+      "evidence_notes": "The departmental list organizes Chinese and Western philosophy by study area, including Zhu Xi, Wang Yangming, Mozi and Chinese commentarial editions. Repeated works across areas invite different readings.",
+      "location": "Introduction and Chinese/Western reading lists",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Feng Youlan",
+        "A History of Chinese Philosophy",
+        "Zhu Xi",
+        "Reflections on Things at Hand",
+        "Wang Yangming",
+        "Instructions for Practical Living",
+        "Mozi"
+      ],
+      "disagreement_or_limitations": "Study list is not a merit ranking; Chinese edition names do not verify English availability.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-06.json"
+    },
+    {
+      "source_id": "R047",
+      "underlying_source_id": "R047",
+      "title": "Libros para que te explote la cabeza",
+      "author": "Jaime Rubio Hancock",
+      "publisher": "Verne / El País",
+      "publisher_group": "PRISA",
+      "canonical_url": "https://verne.elpais.com/verne/2017/02/03/articulo/1486123377_072005.html",
+      "access_url": "https://verne.elpais.com/verne/2017/02/03/articulo/1486123377_072005.html",
+      "publication_date": "2017-02-05",
+      "accessed_at": "2026-09-12",
+      "source_family": "editorial_selection",
+      "domain_or_platform": "verne.elpais.com",
+      "language": "es",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Provides public reception of Garces, Camps, Parfit and Singer."
+      },
+      "evidence_notes": "A deliberately subjective selection pairs established works with Garces, Camps and Han. It praises philosophical questioning and contextual ethics rather than claiming a universal hierarchy.",
+      "location": "Introduction and annotated selections, lines 65–86",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Filosofía inacabada",
+        "Elogio de la duda",
+        "Practical Ethics",
+        "Reasons and Persons",
+        "Superintelligence",
+        "Marina Garces",
+        "Victoria Camps",
+        "Byung-Chul Han"
+      ],
+      "disagreement_or_limitations": "Some bibliographic/anecdotal details need correction before reuse; English availability for Spanish titles unresolved.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-06.json"
+    },
+    {
+      "source_id": "R048",
+      "underlying_source_id": "R048",
+      "title": "10 Klassiker der Philosophie – in je einem Satz",
+      "author": "Philomag Redaktion",
+      "publisher": "Philosophie Magazin",
+      "publisher_group": "Philosophie Magazin",
+      "canonical_url": "https://www.philomag.de/artikel/10-klassiker-der-philosophie-je-einem-satz",
+      "access_url": "https://www.philomag.de/artikel/10-klassiker-der-philosophie-je-einem-satz",
+      "publication_date": "2023-06-06",
+      "accessed_at": "2026-09-12",
+      "source_family": "editorial_selection",
+      "domain_or_platform": "philomag.de",
+      "language": "de",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Documents editorial visibility of women moral philosophers."
+      },
+      "evidence_notes": "The German selection includes Foot, Weil, Shklar and Murdoch alongside Wittgenstein, Smith and Tocqueville. One-sentence explanations offer reception and candidate evidence only.",
+      "location": "The ten annotated selections",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Natural Goodness",
+        "Gravity and Grace",
+        "The Sovereignty of Good",
+        "The Theory of Moral Sentiments",
+        "Philippa Foot",
+        "Simone Weil",
+        "Iris Murdoch"
+      ],
+      "disagreement_or_limitations": "Thin explanatory depth; selected essays and posthumous compilations need books-only identity review. German dates may be translation dates.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-06.json"
+    },
+    {
+      "source_id": "R072",
+      "underlying_source_id": "R072",
+      "title": "Kwasi Wiredu’s golden rule",
+      "author": null,
+      "publisher": "Africa Is a Country",
+      "publisher_group": "Africa Is a Country",
+      "canonical_url": "https://africasacountry.com/2022/05/kwasi-wiredus-golden-rule",
+      "access_url": "https://africasacountry.com/2022/05/kwasi-wiredus-golden-rule",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "africasacountry.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Specific intellectual contributions and disputes concerning named thinkers."
+      },
+      "evidence_notes": "Jackson distinguishes Wiredu’s careful conceptual analysis from romanticized cultural wholes; Twi syntax becomes a test of inherited metaphysical categories.",
+      "location": "Opening and Akan conceptual analysis",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Kwasi Wiredu",
+        "Philosophy and an African Culture",
+        "Cultural Universals and Particulars"
+      ],
+      "disagreement_or_limitations": "Commendatory retrospective; exemplary article does not establish every argument in both books.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-10.json"
+    },
+    {
+      "source_id": "R073",
+      "underlying_source_id": "R073",
+      "title": "On Annihilation of Caste, Are We Asking the Right Question?",
+      "author": null,
+      "publisher": "The India Forum",
+      "publisher_group": "The India Forum",
+      "canonical_url": "https://www.theindiaforum.in/caste/annihilation-caste-are-we-asking-right-question",
+      "access_url": "https://www.theindiaforum.in/caste/annihilation-caste-are-we-asking-right-question",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "theindiaforum.in",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Specific intellectual contributions and disputes concerning named thinkers."
+      },
+      "evidence_notes": "Tandon extends anti-caste analysis to the unequal power to define social meaning; democratic reform must alter cultural recognition as well as material structures.",
+      "location": "Opening and symbolic domination section",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "B. R. Ambedkar",
+        "Annihilation of Caste",
+        "Social democracy"
+      ],
+      "disagreement_or_limitations": "Contemporary interpretive extension; distinguish Tandon’s proposal from Ambedkar’s original wording.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-10.json"
+    },
+    {
+      "source_id": "R074",
+      "underlying_source_id": "R074",
+      "title": "A new commentary offers a fresh perspective on Ambedkar’s Annihilation of Caste",
+      "author": null,
+      "publisher": "Scroll",
+      "publisher_group": "Scroll",
+      "canonical_url": "https://scroll.in/article/1047019/ramachandra-guha-a-new-commentary-offers-a-fresh-perspective-on-ambedkars-annihilation-of-caste",
+      "access_url": "https://scroll.in/article/1047019/ramachandra-guha-a-new-commentary-offers-a-fresh-perspective-on-ambedkars-annihilation-of-caste",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_review",
+      "domain_or_platform": "scroll.in",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Specific intellectual contributions and disputes concerning named thinkers."
+      },
+      "evidence_notes": "Guha compares four Indian political classics, praising Ambedkar’s coherence while criticizing Gandhi’s antimodern excess, Nehru’s digressions and Tagore’s English expression.",
+      "location": "Comparative opening and scholarly temperament",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Annihilation of Caste",
+        "Hind Swaraj",
+        "Nationalism",
+        "The Discovery of India",
+        "Ambedkar",
+        "Gandhi",
+        "Tagore"
+      ],
+      "disagreement_or_limitations": "One historian’s explicitly personal comparative judgment; historical importance and prose quality separated.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-10.json"
+    },
+    {
+      "source_id": "R075",
+      "underlying_source_id": "R075",
+      "title": "On What Philosophical Issues Have You Changed Your Mind?",
+      "author": null,
+      "publisher": "Daily Nous",
+      "publisher_group": "Daily Nous",
+      "canonical_url": "https://dailynous.com/2020/04/29/philosophical-issues-changed-mind/",
+      "access_url": "https://dailynous.com/2020/04/29/philosophical-issues-changed-mind/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_reader_discussion",
+      "domain_or_platform": "dailynous.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Specific intellectual contributions and disputes concerning named thinkers."
+      },
+      "evidence_notes": "Contributors describe revising views through reading and debate, including Frege’s Begriffsschrift and Scanlon; change can mean corrected interpretation rather than accepting an author’s conclusion.",
+      "location": "Comments on Kant, Frege and reasons",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Begriffsschrift",
+        "Gottlob Frege",
+        "T. M. Scanlon",
+        "Kant",
+        "Rawls",
+        "Interpretive revision"
+      ],
+      "disagreement_or_limitations": "One moderated professional-community thread; self-reported effects, not representative survey or validated argument.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-10.json"
+    },
+    {
+      "source_id": "R076",
+      "underlying_source_id": "R076",
+      "title": "Algunas consideraciones sobre la lógica de la liberación latinoamericana",
+      "author": null,
+      "publisher": "Proyecto Filosofía en español",
+      "publisher_group": "Proyecto Filosofía en español",
+      "canonical_url": "https://www.filosofia.org/mon/cub/dt009.htm",
+      "access_url": "https://www.filosofia.org/mon/cub/dt009.htm",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "specialist_critical_essay",
+      "domain_or_platform": "filosofia.org",
+      "language": "es",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Specific intellectual contributions and disputes concerning named thinkers."
+      },
+      "evidence_notes": "Rabadán develops Plá’s critique of Dussel’s analectic method, questioning idealized universality and conflation of ethical commitment with explanatory method.",
+      "location": "Analectic criticism and idealist universals",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Enrique Dussel",
+        "Leopoldo Zea",
+        "Gustavo Bueno",
+        "Liberation philosophy methodology"
+      ],
+      "disagreement_or_limitations": "Partisan philosophical-materialist critique; Plá’s argument is mediated and not an independent consulted source.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-10.json"
+    },
+    {
+      "source_id": "R077",
+      "underlying_source_id": "R077",
+      "title": "Should Ethiopian philosophy be universalist or Africanist?",
+      "author": null,
+      "publisher": "Aeon",
+      "publisher_group": "Aeon",
+      "canonical_url": "https://aeon.co/essays/should-ethiopian-philosophy-be-universalist-or-africanist",
+      "access_url": "https://aeon.co/essays/should-ethiopian-philosophy-be-universalist-or-africanist",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "aeon.co",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Specific intellectual contributions and disputes concerning named thinkers."
+      },
+      "evidence_notes": "Challenges using the Hatatas as straightforward evidence of a seventeenth-century Ethiopian rationalist canon; authorship disputes intersect with universalist and Africanist conceptions of philosophy.",
+      "location": "Universalist/Africanist dispute and authorship discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Hatata",
+        "Zera Yacob",
+        "Walda Heywat",
+        "Authorship dispute"
+      ],
+      "disagreement_or_limitations": "Author argues for missionary authorship; this is a disputed position, not settled bibliographic fact.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-10.json"
+    },
+    {
+      "source_id": "R078",
+      "underlying_source_id": "R078",
+      "title": "Ibn Tufayl and the story of the feral child of philosophy",
+      "author": null,
+      "publisher": "Aeon",
+      "publisher_group": "Aeon",
+      "canonical_url": "https://aeon.co/ideas/ibn-tufayl-and-the-story-of-the-feral-child-of-philosophy",
+      "access_url": "https://aeon.co/ideas/ibn-tufayl-and-the-story-of-the-feral-child-of-philosophy",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "aeon.co",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Specific intellectual contributions and disputes concerning named thinkers."
+      },
+      "evidence_notes": "Elshakry and Idris contrast solitary perfection and political community in Hayy, challenging translations that assimilate its ecstatic trajectory to European rationalism.",
+      "location": "Opening through reason and illumination",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Ibn Tufayl",
+        "Hayy ibn Yaqzan",
+        "Thomas Hobbes"
+      ],
+      "disagreement_or_limitations": "Philosophical fiction: suitable for philosophy books and literary fiction, not silently classified nonfiction.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-10.json"
+    },
+    {
+      "source_id": "R079",
+      "underlying_source_id": "R079",
+      "title": "George Scialabba and the Culture Wars; or, Critique of Judgment",
+      "author": null,
+      "publisher": "Crooked Timber",
+      "publisher_group": "Crooked Timber",
+      "canonical_url": "https://crookedtimber.org/2009/08/03/george-scialabba-and-the-culture-wars-or-critique-of-judgment/",
+      "access_url": "https://crookedtimber.org/2009/08/03/george-scialabba-and-the-culture-wars-or-critique-of-judgment/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_scholarly_blog",
+      "domain_or_platform": "crookedtimber.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Specific intellectual contributions and disputes concerning named thinkers."
+      },
+      "evidence_notes": "Bérubé praises Scialabba’s fair reconstruction of opponents while documenting how political agreement distorts perceived prose merit; Rorty and Chomsky frame the collection’s intellectual tensions.",
+      "location": "Opening review and partisan-review discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "What Are Intellectuals Good For?",
+        "George Scialabba",
+        "Richard Rorty",
+        "Noam Chomsky"
+      ],
+      "disagreement_or_limitations": "Essayistic intellectual criticism; do not equate agreement with merit or automatically classify every discussed writer as philosopher.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-10.json"
+    },
+    {
+      "source_id": "R080",
+      "underlying_source_id": "R080",
+      "title": "What is the cure for the West’s individualist worldview?",
+      "author": null,
+      "publisher": "Aeon",
+      "publisher_group": "Aeon",
+      "canonical_url": "https://aeon.co/essays/what-is-the-cure-for-the-wests-individualist-worldview",
+      "access_url": "https://aeon.co/essays/what-is-the-cure-for-the-wests-individualist-worldview",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "aeon.co",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions of named thinkers or limits of individual attribution."
+      },
+      "evidence_notes": "Compares Rosemont, Ames, Rošker, Ivanhoe and Puett on relational selves; distinguishes expanding individuality through relationships from erasing it, and ordinary ritual from political feasibility.",
+      "location": "Modern Confucian books and practical limits",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Against Individualism",
+        "Confucian Role Ethics",
+        "Confucian Relationism and Global Ethics",
+        "Oneness",
+        "The Path",
+        "Henry Rosemont",
+        "Roger Ames",
+        "Jana Rošker"
+      ],
+      "disagreement_or_limitations": "Comparative advocacy, not a survey of all Confucian traditions.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-11.json"
+    },
+    {
+      "source_id": "R081",
+      "underlying_source_id": "R081",
+      "title": "Life on the slippery Earth",
+      "author": null,
+      "publisher": "Aeon",
+      "publisher_group": "Aeon",
+      "canonical_url": "https://aeon.co/essays/aztec-moral-philosophy-didnt-expect-anyone-to-be-a-saint",
+      "access_url": "https://aeon.co/essays/aztec-moral-philosophy-didnt-expect-anyone-to-be-a-saint",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "aeon.co",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions of named thinkers or limits of individual attribution."
+      },
+      "evidence_notes": "Purcell reconstructs socially supported virtue from Florentine Codex book six, distinguishing a worthwhile life from guaranteed happiness; identifies mediation through colonial-era recording.",
+      "location": "Virtue argument and source discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Florentine Codex book VI",
+        "Nahua ethical thought"
+      ],
+      "disagreement_or_limitations": "Collective discourses cannot be assigned to an invented single philosopher; colonial compilation requires provenance care.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-11.json"
+    },
+    {
+      "source_id": "R082",
+      "underlying_source_id": "R082",
+      "title": "How classical Indian philosophy helps us understand the self",
+      "author": null,
+      "publisher": "Aeon",
+      "publisher_group": "Aeon",
+      "canonical_url": "https://aeon.co/essays/how-classical-indian-philosophy-helps-us-understand-the-self",
+      "access_url": "https://aeon.co/essays/how-classical-indian-philosophy-helps-us-understand-the-self",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "aeon.co",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions of named thinkers or limits of individual attribution."
+      },
+      "evidence_notes": "Menon and Vaidya connect Katha Upanishad and Śaṅkara’s commentary with distinctions among empirical and enduring selves; compare William James and contemporary consciousness debates.",
+      "location": "Illumination, reality and five aspects of self",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Katha Upanishad",
+        "Śaṅkara",
+        "The Principles of Psychology",
+        "William James"
+      ],
+      "disagreement_or_limitations": "Comparative proposal; unfinished further arguments explicitly acknowledged by author’s collaborator.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-11.json"
+    },
+    {
+      "source_id": "R083",
+      "underlying_source_id": "R083",
+      "title": "L’intelligence du méchant",
+      "author": null,
+      "publisher": "La Vie des idées",
+      "publisher_group": "La Vie des idées",
+      "canonical_url": "https://laviedesidees.fr/L-intelligence-du-mechant",
+      "access_url": "https://laviedesidees.fr/L-intelligence-du-mechant",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review",
+      "domain_or_platform": "laviedesidees.fr",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions of named thinkers or limits of individual attribution."
+      },
+      "evidence_notes": "Boyer praises Spector’s historical analyses but challenges her reduction of contemporary political philosophy to Rawls and her reading of intolerance; offers an alternative interpretation of Hume’s sensible knave.",
+      "location": "Historical argument and critique of Rawls/Hume readings",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Éloges de l’injustice",
+        "Céline Spector",
+        "A Theory of Justice",
+        "Leviathan",
+        "Hume"
+      ],
+      "disagreement_or_limitations": "French original and linked English translation form one underlying review.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-11.json"
+    },
+    {
+      "source_id": "R084",
+      "underlying_source_id": "R084",
+      "title": "Heidegger historien",
+      "author": null,
+      "publisher": "En attendant Nadeau",
+      "publisher_group": "En attendant Nadeau",
+      "canonical_url": "https://www.en-attendant-nadeau.fr/2024/02/05/heidegger-historien-histoire-de-la-philosophie/",
+      "access_url": "https://www.en-attendant-nadeau.fr/2024/02/05/heidegger-historien-histoire-de-la-philosophie/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_review",
+      "domain_or_platform": "en-attendant-nadeau.fr",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions of named thinkers or limits of individual attribution."
+      },
+      "evidence_notes": "Figuier reads Heidegger’s 1926–27 course as philosophical reconstruction of ontology, tracing selective treatment of Spinoza, Leibniz, Wolff and Crusius.",
+      "location": "Course context and concluding historical analysis",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "History of Philosophy from Thomas Aquinas to Kant",
+        "Martin Heidegger",
+        "Leibniz",
+        "Christian Wolff",
+        "Christian August Crusius"
+      ],
+      "disagreement_or_limitations": "Lecture edition distinguished from Being and Time; review follows Heidegger’s interpretive frame.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-11.json"
+    },
+    {
+      "source_id": "R085",
+      "underlying_source_id": "R085",
+      "title": "Sobre a possibilidade de uma filosofia amazônica",
+      "author": null,
+      "publisher": "Trans/Form/Ação",
+      "publisher_group": "Trans/Form/Ação",
+      "canonical_url": "https://www.scielo.br/j/trans/a/ywsnVqTx9x8jMw4GczGrPpr/?lang=pt",
+      "access_url": "https://www.scielo.br/j/trans/a/ywsnVqTx9x8jMw4GczGrPpr/?lang=pt",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_article",
+      "domain_or_platform": "scielo.br",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions of named thinkers or limits of individual attribution."
+      },
+      "evidence_notes": "Develops dialogue with Yepamahsã thought through Barreto and Maia while warning that calling ritual knowledge Western ethics or art repeats ethnophilosophical distortions; names Kopenawa’s autoethnography.",
+      "location": "Abstract and conceptual comparison/conclusion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Falling Sky",
+        "Davi Kopenawa",
+        "João Paulo Barreto",
+        "Gabriel Maia",
+        "Yepamahsã thought"
+      ],
+      "disagreement_or_limitations": "Do not automatically label every knowledge specialist a philosopher; book and individual eligibility remain questions.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-11.json"
+    },
+    {
+      "source_id": "R086",
+      "underlying_source_id": "R086",
+      "title": "Favourite philosophy book which changed everything for you?",
+      "author": null,
+      "publisher": "Reddit",
+      "publisher_group": "Reddit",
+      "canonical_url": "https://www.reddit.com/r/RSbookclub/comments/191kcuu/favourite_philosophy_book_which_changed/",
+      "access_url": "https://www.reddit.com/r/RSbookclub/comments/191kcuu/favourite_philosophy_book_which_changed/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_discussion",
+      "domain_or_platform": "reddit.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions of named thinkers or limits of individual attribution."
+      },
+      "evidence_notes": "Readers describe powerful responses to Either/Or, Ethics and The Need for Roots; one connects Weil with a changed living practice, while another recommends Scottish fiction and Calvino.",
+      "location": "Opening and Weil exchange",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Either/Or",
+        "Ethics",
+        "The Need for Roots",
+        "Simone Weil",
+        "Invisible Cities",
+        "The Private Memoirs and Confessions of a Justified Sinner"
+      ],
+      "disagreement_or_limitations": "Anecdotal self-report, unverifiable causal influence; one thread regardless of comments.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-11.json"
+    },
+    {
+      "source_id": "R087",
+      "underlying_source_id": "R087",
+      "title": "Le divin avant les dieux",
+      "author": null,
+      "publisher": "En attendant Nadeau",
+      "publisher_group": "En attendant Nadeau",
+      "canonical_url": "https://www.en-attendant-nadeau.fr/2026/08/03/le-divin-avant-les-dieux/",
+      "access_url": "https://www.en-attendant-nadeau.fr/2026/08/03/le-divin-avant-les-dieux/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_review",
+      "domain_or_platform": "en-attendant-nadeau.fr",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions of named thinkers or limits of individual attribution."
+      },
+      "evidence_notes": "Lebiez discusses Zambrano’s philosophical-poetic account of the divine preceding particular gods; reports delayed French reception and the reading difficulty of its religious and non-systematic language.",
+      "location": "Review opening and cosmological interpretation",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Man and the Divine",
+        "María Zambrano"
+      ],
+      "disagreement_or_limitations": "French reception differs from Spanish influence; poetic philosophy is not automatically literary fiction.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-11.json"
+    },
+    {
+      "source_id": "S32",
+      "underlying_source_id": "brittle",
+      "title": "100 Notable African Books of 2022",
+      "author": null,
+      "publisher": "Brittle Paper",
+      "publisher_group": "Brittle Paper",
+      "canonical_url": "https://brittlepaper.com/2022/11/brittle-paper-debuts-100-notable-african-books-of-the-year-list/",
+      "access_url": "https://brittlepaper.com/2022/11/brittle-paper-debuts-100-notable-african-books-of-the-year-list/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "editorial_selection",
+      "domain_or_platform": "brittlepaper.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Cornell philosopher Olúfemi Táíwò identified through a specific critical book."
+      },
+      "evidence_notes": "Selection spans 23 countries and multiple genres; examined entries include Nganang’s generational history, Omotoso’s grief narrative, Ajala’s travel memoir and Táíwò’s critique of decolonization.",
+      "location": "Announcement and linked selection, early entries",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "A Trail of Crab Tracks",
+        "An Unusual Grief",
+        "An African Abroad",
+        "Against Decolonization",
+        "Olúfemi Táíwò"
+      ],
+      "disagreement_or_limitations": "Announcement and complete selection counted as one underlying source; distinguish Cornell Táíwò from Olúfẹ́mi O. Táíwò.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-12.json"
+    },
+    {
+      "source_id": "R101",
+      "underlying_source_id": "R101",
+      "title": "A crítica de Guimarães Rosa",
+      "author": null,
+      "publisher": "Revista Cult",
+      "publisher_group": "Revista Cult",
+      "canonical_url": "https://revistacult.uol.com.br/home/critica-de-guimaraes-rosa/",
+      "access_url": "https://revistacult.uol.com.br/home/critica-de-guimaraes-rosa/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_essay",
+      "domain_or_platform": "revistacult.uol.com.br",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Specific evidence for Benedito Nunes’s philosophical-critical contribution."
+      },
+      "evidence_notes": "Holanda traces Benedito Nunes’s interpretation of Rosa between poetic imagery and philosophical concepts; love joins the problems of evil, language and existence.",
+      "location": "Nunes’s critical method and love interpretation",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Grande sertão: veredas",
+        "Corpo de baile",
+        "O dorso do tigre",
+        "Benedito Nunes"
+      ],
+      "disagreement_or_limitations": "Mediates earlier Nunes essays; neither their publication count nor quoted passages create extra sources.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-13.json"
+    },
+    {
+      "source_id": "R109",
+      "underlying_source_id": "R109",
+      "title": "Rāmānuja",
+      "author": null,
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "publisher_group": "Internet Encyclopedia of Philosophy",
+      "canonical_url": "https://iep.utm.edu/ramanuja/",
+      "access_url": "https://iep.utm.edu/ramanuja/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "iep.utm.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Original contributions, historical reception and interpretive uncertainty."
+      },
+      "evidence_notes": "Defends real plurality and devotion against rival Vedānta accounts; distinguishes logical, positive and hermeneutic argument rather than treating commentary as passive transmission.",
+      "location": "Introduction and opponent/argument discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Rāmānuja",
+        "Śrī Bhāṣya",
+        "Vedārthasaṅgraha"
+      ],
+      "disagreement_or_limitations": "Dates and traditional biographies are uncertain; schools’ own categories require care.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-15.json"
+    },
+    {
+      "source_id": "R110",
+      "underlying_source_id": "R110",
+      "title": "Mulla Sadra",
+      "author": null,
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "publisher_group": "Internet Encyclopedia of Philosophy",
+      "canonical_url": "https://iep.utm.edu/sadra/",
+      "access_url": "https://iep.utm.edu/sadra/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "iep.utm.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Original contributions, historical reception and interpretive uncertainty."
+      },
+      "evidence_notes": "Explains a synthesis of argument, revelation and mystical insight; situates the Four Journeys and warns that repeated claims about intellectual teachers can outrun historical evidence.",
+      "location": "Introduction and intellectual biography",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Mulla Sadra",
+        "Transcendent Wisdom in the Four Journeys of the Intellect"
+      ],
+      "disagreement_or_limitations": "Broad influence claims reflect this reference author; synthetic method is not irrationalism.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-15.json"
+    },
+    {
+      "source_id": "R111",
+      "underlying_source_id": "R111",
+      "title": "Mary Astell",
+      "author": null,
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "publisher_group": "Internet Encyclopedia of Philosophy",
+      "canonical_url": "https://iep.utm.edu/mary-astell/",
+      "access_url": "https://iep.utm.edu/mary-astell/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "iep.utm.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Original contributions, historical reception and interpretive uncertainty."
+      },
+      "evidence_notes": "Connects women’s education and marriage criticism with a distinctive Cartesian metaphysics; Christian Religion challenges Locke on thinking matter, but occasionalist attribution requires contextual caution.",
+      "location": "Introduction and mind/body metaphysics",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Mary Astell",
+        "A Serious Proposal to the Ladies",
+        "Some Reflections upon Marriage",
+        "The Christian Religion"
+      ],
+      "disagreement_or_limitations": "Feminist reputation cannot stand in for the full religious and political position.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-15.json"
+    },
+    {
+      "source_id": "R112",
+      "underlying_source_id": "R112",
+      "title": "Tsongkhapa",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/tsongkhapa/",
+      "access_url": "https://plato.stanford.edu/entries/tsongkhapa/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Original contributions, historical reception and interpretive uncertainty."
+      },
+      "evidence_notes": "Explains how commentary combines conventional knowledge with emptiness and ethical practice; traces a changing stance toward Yogācāra and Dolpopa rather than a single timeless doctrine.",
+      "location": "Introduction and early/mature contrast",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Tsongkhapa",
+        "Golden Garland of Eloquence",
+        "Dolpopa"
+      ],
+      "disagreement_or_limitations": "Commentarial originality assessed separately from textual authority; Tibetan school disagreements preserved.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-15.json"
+    },
+    {
+      "source_id": "R113",
+      "underlying_source_id": "R113",
+      "title": "Dharmakīrti",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/dharmakiirti/",
+      "access_url": "https://plato.stanford.edu/entries/dharmakiirti/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Original contributions, historical reception and interpretive uncertainty."
+      },
+      "evidence_notes": "Pramāṇavārttika’s nominalism attacks universals; arguments for other minds operate across realist and idealist settings. Reception differs markedly between Tibet, medieval China and modern Japan.",
+      "location": "Introduction, idealism and nominalism",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Dharmakīrti",
+        "Pramāṇavārttika",
+        "Saṃtānāntarasiddhi"
+      ],
+      "disagreement_or_limitations": "Biography substantially hagiographic; dates debated; verse/commentary genre requires separate nonfiction eligibility.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-15.json"
+    },
+    {
+      "source_id": "R114",
+      "underlying_source_id": "R114",
+      "title": "Lady Anne Conway",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/conway/",
+      "access_url": "https://plato.stanford.edu/entries/conway/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Original contributions, historical reception and interpretive uncertainty."
+      },
+      "evidence_notes": "Principles proposes living spiritual substance and moral perfectibility against inert matter; divine justice motivates rejection of eternal punishment. Posthumous anonymous publication complicates visibility.",
+      "location": "Introduction and ontological/moral outline",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Anne Conway",
+        "The Principles of the Most Ancient and Modern Philosophy"
+      ],
+      "disagreement_or_limitations": "Conway’s monadic language should not be collapsed into Leibniz’s later system.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-15.json"
+    },
+    {
+      "source_id": "R115",
+      "underlying_source_id": "R115",
+      "title": "al-Ghazali",
+      "author": null,
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "publisher_group": "Stanford Encyclopedia of Philosophy",
+      "canonical_url": "https://plato.stanford.edu/entries/al-ghazali/",
+      "access_url": "https://plato.stanford.edu/entries/al-ghazali/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "plato.stanford.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Original contributions, historical reception and interpretive uncertainty."
+      },
+      "evidence_notes": "Rejects a simple anti-philosophy portrait: Incoherence criticizes selected doctrines while Aristotelian demonstration and Avicennian ideas enter theology through al-Ghazali.",
+      "location": "Introduction and intellectual intervention",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "al-Ghazali",
+        "The Incoherence of the Philosophers",
+        "The Revival of the Religious Sciences"
+      ],
+      "disagreement_or_limitations": "Reference overview; later causal interpretations require closer comparison.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-15.json"
+    },
+    {
+      "source_id": "R116",
+      "underlying_source_id": "R116",
+      "title": "Ibn Rushd (Averroes)",
+      "author": null,
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "publisher_group": "Internet Encyclopedia of Philosophy",
+      "canonical_url": "https://iep.utm.edu/ibn-rushd-averroes/",
+      "access_url": "https://iep.utm.edu/ibn-rushd-averroes/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_reference",
+      "domain_or_platform": "iep.utm.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Original contributions, historical reception and interpretive uncertainty."
+      },
+      "evidence_notes": "Decisive Treatise defends philosophical engagement with scripture through differentiated modes of understanding; commentary and original religious argument both contribute to medieval reception.",
+      "location": "Introduction and philosophy/religion overview",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Ibn Rushd",
+        "The Decisive Treatise",
+        "Aristotelian commentaries"
+      ],
+      "disagreement_or_limitations": "Its decline narrative conflicts with evidence for later Islamic philosophy, including Sadra; do not adopt 'last philosopher' literally.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-15.json"
+    },
+    {
+      "source_id": "R142",
+      "underlying_source_id": "R142",
+      "title": "Book review: Doing Philosophy",
+      "author": null,
+      "publisher": "New Humanist",
+      "publisher_group": "New Humanist",
+      "canonical_url": "https://newhumanist.org.uk/articles/book-review-doing-philosophy/",
+      "access_url": "https://newhumanist.org.uk/articles/book-review-doing-philosophy/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "newhumanist.org.uk",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Thinker contributions and contested interpretation."
+      },
+      "evidence_notes": "Egid presents Williamson’s model-building account, then asks whether its scientific ideal impoverishes philosophy’s humanistic and socially engaged purposes.",
+      "location": "Main review, science/humanistic contrast",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Doing Philosophy",
+        "Timothy Williamson",
+        "Bernard Williams"
+      ],
+      "disagreement_or_limitations": "Reviewer’s objections are distinct from Williamson’s position.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-19.json"
+    },
+    {
+      "source_id": "R143",
+      "underlying_source_id": "R143",
+      "title": "Épidémie d’injustice et hygiène épistémique",
+      "author": null,
+      "publisher": "En attendant Nadeau",
+      "publisher_group": "En attendant Nadeau",
+      "canonical_url": "https://www.en-attendant-nadeau.fr/2026/08/13/epidemie-dinjustice-et-hygiene-epistemique/",
+      "access_url": "https://www.en-attendant-nadeau.fr/2026/08/13/epidemie-dinjustice-et-hygiene-epistemique/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "en-attendant-nadeau.fr",
+      "language": "fr",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Thinker contributions and contested interpretation."
+      },
+      "evidence_notes": "Chevalier distinguishes testimonial and hermeneutic injustice while questioning conceptual breadth and the normative role assigned to epistemology.",
+      "location": "Definitions and objections in main review",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Epistemic Injustice",
+        "Miranda Fricker"
+      ],
+      "disagreement_or_limitations": "Polemical counter-reading; mediated critics are not extra sources.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-19.json"
+    },
+    {
+      "source_id": "R144",
+      "underlying_source_id": "R144",
+      "title": "A vanguarda enraizada: o marxismo vivo de Mariátegui",
+      "author": null,
+      "publisher": "Estudos Avançados / Alfredo Bosi",
+      "publisher_group": "Estudos Avançados / Alfredo Bosi",
+      "canonical_url": "https://www.scielo.br/j/ea/a/ZM8NPFHW5zQTkqGgtXk3Zxs/?lang=pt",
+      "access_url": "https://www.scielo.br/j/ea/a/ZM8NPFHW5zQTkqGgtXk3Zxs/?lang=pt",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_article",
+      "domain_or_platform": "scielo.br",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Thinker contributions and contested interpretation."
+      },
+      "evidence_notes": "Bosi balances Mariátegui’s creative Marxism with disappointed revolutionary expectations, reading Defensa del marxismo as a flexible language of political action.",
+      "location": "Opening and Defensa discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "José Carlos Mariátegui",
+        "Defensa del marxismo",
+        "Seven Interpretive Essays on Peruvian Reality"
+      ],
+      "disagreement_or_limitations": "1990 historical perspective; later online publication is not a new study.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-19.json"
+    },
+    {
+      "source_id": "R145",
+      "underlying_source_id": "R145",
+      "title": "Aníbal Quijano e a racionalidade alternativa na América Latina: diálogos com Mariátegui",
+      "author": null,
+      "publisher": "Estudos Avançados",
+      "publisher_group": "Estudos Avançados",
+      "canonical_url": "https://www.scielo.br/j/ea/a/JvktpmthZyvb5rQwtmrzZDH/?lang=pt",
+      "access_url": "https://www.scielo.br/j/ea/a/JvktpmthZyvb5rQwtmrzZDH/?lang=pt",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_article",
+      "domain_or_platform": "scielo.br",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Thinker contributions and contested interpretation."
+      },
+      "evidence_notes": "Examines Quijano’s reconstruction of Mariátegui and Sobrevilla’s objections that alternative rationality is neither explicit nor adequately specified in the original works.",
+      "location": "Introduction and Aventuras periféricas section",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Aníbal Quijano",
+        "José Carlos Mariátegui",
+        "El marxismo de Mariátegui y su aplicación a los 7 ensayos",
+        "Seven Interpretive Essays on Peruvian Reality"
+      ],
+      "disagreement_or_limitations": "Later conceptual reconstruction is not automatically the earlier author’s doctrine.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-19.json"
+    },
+    {
+      "source_id": "R146",
+      "underlying_source_id": "R146",
+      "title": "Agamben. Tutto è reale",
+      "author": null,
+      "publisher": "Doppiozero",
+      "publisher_group": "Doppiozero",
+      "canonical_url": "https://www.doppiozero.com/agamben-tutto-e-reale",
+      "access_url": "https://www.doppiozero.com/agamben-tutto-e-reale",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_criticism",
+      "domain_or_platform": "doppiozero.com",
+      "language": "it",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions and contested accounts of these thinkers."
+      },
+      "evidence_notes": "Solla reads Agamben’s threshold sections as argumentative devices and examines the claim that possibilities already possess reality without requiring actualization.",
+      "location": "Threshold discussion and realization argument",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "L’irrealizzabile",
+        "The Use of Bodies",
+        "Giorgio Agamben"
+      ],
+      "disagreement_or_limitations": "Reviewer explicitly restricts his interpretation to the new book’s opening threshold.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-20.json"
+    },
+    {
+      "source_id": "R147",
+      "underlying_source_id": "R147",
+      "title": "Impossible freedom",
+      "author": null,
+      "publisher": "New Humanist",
+      "publisher_group": "New Humanist",
+      "canonical_url": "https://newhumanist.org.uk/articles/impossible-freedom/",
+      "access_url": "https://newhumanist.org.uk/articles/impossible-freedom/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "newhumanist.org.uk",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions and contested accounts of these thinkers."
+      },
+      "evidence_notes": "Egid contrasts Kantian and Spinozist responses to determinism, credits Tallis’s critique of neurodeterminism and identifies his account of causation as especially original.",
+      "location": "Opening through causation discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Freedom: An Impossible Reality",
+        "Raymond Tallis",
+        "Spinoza",
+        "Kant"
+      ],
+      "disagreement_or_limitations": "One review; philosophical interpretation of neuroscience, not clinical guidance.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-20.json"
+    },
+    {
+      "source_id": "R148",
+      "underlying_source_id": "R148",
+      "title": "Book review: Worldmaking After Empire",
+      "author": null,
+      "publisher": "New Humanist",
+      "publisher_group": "New Humanist",
+      "canonical_url": "https://newhumanist.org.uk/articles/book-review-worldmaking-after-empire/",
+      "access_url": "https://newhumanist.org.uk/articles/book-review-worldmaking-after-empire/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "newhumanist.org.uk",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions and contested accounts of these thinkers."
+      },
+      "evidence_notes": "Egid credits Getatchew with recovering anticolonial projects for international equality beyond nation-building, emphasizing Nkrumah’s account of economic dependence.",
+      "location": "Main argument and institutional examples",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Worldmaking After Empire",
+        "Adom Getatchew",
+        "Kwame Nkrumah"
+      ],
+      "disagreement_or_limitations": "Historical political theory; review does not independently verify every institutional claim.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-20.json"
+    },
+    {
+      "source_id": "R149",
+      "underlying_source_id": "R149",
+      "title": "Book review: Being Human",
+      "author": null,
+      "publisher": "New Humanist",
+      "publisher_group": "New Humanist",
+      "canonical_url": "https://newhumanist.org.uk/articles/book-review-being-human/",
+      "access_url": "https://newhumanist.org.uk/articles/book-review-being-human/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "newhumanist.org.uk",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions and contested accounts of these thinkers."
+      },
+      "evidence_notes": "Egid values Williams’s relational account of meaning but rejects the easy inference from reductive explanations to moral danger.",
+      "location": "Reductionism and meaningful experience passages",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Being Human",
+        "Rowan Williams"
+      ],
+      "disagreement_or_limitations": "Secular reviewer’s perspective on philosophical theology.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-20.json"
+    },
+    {
+      "source_id": "R150",
+      "underlying_source_id": "R150",
+      "title": "هل ألّف ابن خلدون المقدمةَ قبل باقي كِتاب العبر؟",
+      "author": null,
+      "publisher": "Al Watan / Mahmoud Dhaouadi",
+      "publisher_group": "Al Watan / Mahmoud Dhaouadi",
+      "canonical_url": "https://www.alwatan.com.sa/article/1178179",
+      "access_url": "https://www.alwatan.com.sa/article/1178179",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "newspaper_critical_essay",
+      "domain_or_platform": "alwatan.com.sa",
+      "language": "ar",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions and contested accounts of these thinkers."
+      },
+      "evidence_notes": "Dhaouadi questions assumptions about the Muqaddimah’s composition order, comparing autobiographical testimony with al-Jabri and Wafi’s reconstruction.",
+      "location": "Composition evidence and al-Jabri/Wafi discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Muqaddimah",
+        "Kitab al-Ibar",
+        "Ibn Khaldun"
+      ],
+      "disagreement_or_limitations": "Argument from textual silence is interpretive evidence, not conclusive dating.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-20.json"
+    },
+    {
+      "source_id": "R151",
+      "underlying_source_id": "R151",
+      "title": "المقدمة — Franz Rosenthal’s introductory study",
+      "author": null,
+      "publisher": "Khotwa Center / Franz Rosenthal",
+      "publisher_group": "Khotwa Center / Franz Rosenthal",
+      "canonical_url": "https://www.khotwacenter.com/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/",
+      "access_url": "https://www.khotwacenter.com/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_chapter",
+      "domain_or_platform": "khotwacenter.com",
+      "language": "ar",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Contributions and contested accounts of these thinkers."
+      },
+      "evidence_notes": "Rosenthal explains repetition through lecturing and manuscript constraints, praises the work’s organization, and identifies uneven checking of historical references.",
+      "location": "Translated introductory study, structure/style/source discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Muqaddimah",
+        "Ibn Khaldun"
+      ],
+      "disagreement_or_limitations": "Arabic translation of Rosenthal’s English introduction; not an independent Arabic-origin judgment or extra translated vote.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-20.json"
+    },
+    {
+      "source_id": "R152",
+      "underlying_source_id": "R152",
+      "title": "Review: Philosophers of Nothingness",
+      "author": null,
+      "publisher": "Journal of Buddhist Ethics / Diana L. Pasulka",
+      "publisher_group": "Journal of Buddhist Ethics / Diana L. Pasulka",
+      "canonical_url": "https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-BE/jbe105262.htm",
+      "access_url": "https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-BE/jbe105262.htm",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "academic_review",
+      "domain_or_platform": "dlbs.liberal.ntu.edu.tw",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Distinct philosophical contributions and limits."
+      },
+      "evidence_notes": "Pasulka praises Heisig’s accessible organization and account of experiential philosophy, distinguishing Kyoto interpretations from Buddhism generally and tracing intercultural exchange.",
+      "location": "Review pp.63–64",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Philosophers of Nothingness",
+        "James Heisig",
+        "Nishida Kitarō",
+        "Tanabe Hajime",
+        "Nishitani Keiji"
+      ],
+      "disagreement_or_limitations": "Taiwan-hosted copy of an English-language review; not an independent Taiwanese critical judgment.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-21.json"
+    },
+    {
+      "source_id": "R153",
+      "underlying_source_id": "R153",
+      "title": "The Philosophy of the Mozi: The First Consequentialists",
+      "author": null,
+      "publisher": "Notre Dame Philosophical Reviews / Eirik Lang Harris",
+      "publisher_group": "Notre Dame Philosophical Reviews / Eirik Lang Harris",
+      "canonical_url": "https://ndpr.nd.edu/reviews/the-philosophy-of-the-mozi-the-first-consequentialists/",
+      "access_url": "https://ndpr.nd.edu/reviews/the-philosophy-of-the-mozi-the-first-consequentialists/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "academic_review",
+      "domain_or_platform": "ndpr.nd.edu",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Distinct philosophical contributions and limits."
+      },
+      "evidence_notes": "Harris describes Fraser’s rehabilitation of Mohist impartiality and skill-centered epistemology, linking moral standards to motivation and political order.",
+      "location": "Opening and epistemology discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Mozi",
+        "The Philosophy of the Mozi",
+        "Chris Fraser"
+      ],
+      "disagreement_or_limitations": "Modern consequentialist terminology is an interpretation; school text is not a single-author transcript.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-21.json"
+    },
+    {
+      "source_id": "R154",
+      "underlying_source_id": "R154",
+      "title": "Recensie: Mogobe Ramose – Ubuntu",
+      "author": null,
+      "publisher": "Tzum / Erik-Jan Hummel",
+      "publisher_group": "Tzum / Erik-Jan Hummel",
+      "canonical_url": "https://www.tzum.info/2018/07/recensie-mogobe-ramose-ubuntu/",
+      "access_url": "https://www.tzum.info/2018/07/recensie-mogobe-ramose-ubuntu/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "professional_review",
+      "domain_or_platform": "tzum.info",
+      "language": "nl",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Distinct philosophical contributions and limits."
+      },
+      "evidence_notes": "Hummel criticizes abstraction, repetition and unexplained communal identity in Ramose, explicitly identifying his own European standpoint and unresolved reader questions.",
+      "location": "Opening and three proposed ubuntu features",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Ubuntu: stroom van het bestaan als levensfilosofie",
+        "Mogobe Ramose"
+      ],
+      "disagreement_or_limitations": "Critical outsider response; do not generalize its objections to all African philosophy.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-21.json"
+    },
+    {
+      "source_id": "R155",
+      "underlying_source_id": "R155",
+      "title": "Ubuntu and the globalisation of Southern African thought and society",
+      "author": null,
+      "publisher": "Quest / Wim van Binsbergen",
+      "publisher_group": "Quest / Wim van Binsbergen",
+      "canonical_url": "https://quest-journal.net/shikanda/general/ubuntu.htm",
+      "access_url": "https://quest-journal.net/shikanda/general/ubuntu.htm",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_essay",
+      "domain_or_platform": "quest-journal.net",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Distinct philosophical contributions and limits."
+      },
+      "evidence_notes": "Van Binsbergen values Ramose’s globalization critique but treats codified ubuntu as a modern reconstruction and warns against confusing normative aspiration with ethnographic description.",
+      "location": "Methodology and sections 2–3",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "African Philosophy through Ubuntu",
+        "Mogobe Ramose"
+      ],
+      "disagreement_or_limitations": "Author discloses collegial ties and participant commitments; mirror/PDF same underlying essay.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-21.json"
+    },
+    {
+      "source_id": "R156",
+      "underlying_source_id": "R156",
+      "title": "An Initial Sketch of Sor Juana’s Virtue Epistemology",
+      "author": null,
+      "publisher": "Journal of the American Philosophical Association",
+      "publisher_group": "Journal of the American Philosophical Association",
+      "canonical_url": "https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/an-initial-sketch-of-sor-juanas-virtue-epistemology/D570ADFACB0BFBC0FC9FEC43A61AC946",
+      "access_url": "https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/an-initial-sketch-of-sor-juanas-virtue-epistemology/D570ADFACB0BFBC0FC9FEC43A61AC946",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_article",
+      "domain_or_platform": "cambridge.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Distinct philosophical contributions and limits."
+      },
+      "evidence_notes": "Interprets Sor Juana’s Reply through intellectual humility, curiosity and publicly discernible epistemic agency, explaining how these arguments resist gendered restrictions on learning.",
+      "location": "Introduction and statement of four interpretive claims",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Reply to Sor Philotea",
+        "Sor Juana Inés de la Cruz"
+      ],
+      "disagreement_or_limitations": "Virtue-responsibilist classification is the article’s reconstruction; not Sor Juana’s own terminology.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-21.json"
+    },
+    {
+      "source_id": "R157",
+      "underlying_source_id": "R157",
+      "title": "On Liberty — selected passages",
+      "author": null,
+      "publisher": "John Stuart Mill / Project Gutenberg",
+      "publisher_group": "John Stuart Mill / Project Gutenberg",
+      "canonical_url": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+      "access_url": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "primary_text",
+      "domain_or_platform": "gutenberg.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Distinct philosophical contributions and limits."
+      },
+      "evidence_notes": "Mill defends discussion through fallibility and grounds liberty in utility, yet explicitly excludes societies he deems unready for free discussion.",
+      "location": "Chapters I–II: scope, utility and infallibility",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "On Liberty",
+        "John Stuart Mill"
+      ],
+      "disagreement_or_limitations": "Selected passages only; colonial exclusion is recorded alongside the defense, not endorsed.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-21.json"
+    },
+    {
+      "source_id": "R158",
+      "underlying_source_id": "R158",
+      "title": "An Enquiry Concerning Human Understanding — selected passages",
+      "author": null,
+      "publisher": "David Hume / Project Gutenberg",
+      "publisher_group": "David Hume / Project Gutenberg",
+      "canonical_url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+      "access_url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "primary_text",
+      "domain_or_platform": "gutenberg.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Distinct philosophical contributions and limits."
+      },
+      "evidence_notes": "Hume distinguishes repeated conjunction from insight into causal power and explains inferential expectation through habit while retaining ordinary practical reasoning.",
+      "location": "Section V, paragraphs 34–36",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "An Enquiry Concerning Human Understanding",
+        "David Hume"
+      ],
+      "disagreement_or_limitations": "Selected passage; a primary argument is not an independent vote for its truth or influence.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-21.json"
+    },
+    {
+      "source_id": "R159",
+      "underlying_source_id": "R159",
+      "title": "Second Treatise of Government — selected passages",
+      "author": null,
+      "publisher": "John Locke / Project Gutenberg",
+      "publisher_group": "John Locke / Project Gutenberg",
+      "canonical_url": "https://www.gutenberg.org/files/7370/7370-h/7370-h.htm",
+      "access_url": "https://www.gutenberg.org/files/7370/7370-h/7370-h.htm",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "primary_text",
+      "domain_or_platform": "gutenberg.org",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Distinct philosophical contributions and limits."
+      },
+      "evidence_notes": "Locke connects appropriation to labor and sufficient resources remaining for others, then distinguishes common land held by compact and enlarged holdings through money.",
+      "location": "Chapter V, sections 27–36 and money discussion",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Second Treatise of Government",
+        "John Locke"
+      ],
+      "disagreement_or_limitations": "Selected property argument; its normative and colonial implications require separate critical comparison.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-21.json"
+    },
+    {
+      "source_id": "S13",
+      "underlying_source_id": "reddit-difficulty",
+      "title": "Reviewing and Ranking the 40 Classics I’ve Read",
+      "author": null,
+      "publisher": "Reddit r/classicliterature / Lipe18090",
+      "publisher_group": "Reddit r/classicliterature / Lipe18090",
+      "canonical_url": "https://www.reddit.com/r/classicliterature/comments/1u07sps/reviewing_and_ranking_the_40_classics_ive_read/",
+      "access_url": "https://www.reddit.com/r/classicliterature/comments/1u07sps/reviewing_and_ranking_the_40_classics_ive_read/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "reader_ranking",
+      "domain_or_platform": "reddit.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Work-based reception of these philosophers, not a person-ranking poll."
+      },
+      "evidence_notes": "Separates enjoyment from difficulty; prefers Camus’s fiction to his essays, finds Aristotle demanding but rewarding, and reports personal benefit from Marcus Aurelius.",
+      "location": "Opening reviews and philosophical entries 31,30,24",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Heart of Darkness",
+        "The Myth of Sisyphus",
+        "Politics",
+        "Meditations",
+        "Nausea"
+      ],
+      "disagreement_or_limitations": "One reader’s restricted finished-book set; replies contest the Sartre judgment.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-23.json"
+    },
+    {
+      "source_id": "R193",
+      "underlying_source_id": "R193",
+      "title": "The Recent Scholarship on Adam Smith’s The Wealth of Nations: A Review",
+      "author": "Keiichi Watanabe",
+      "publisher": "The Japanese Society for the History of Economic Thought / J-STAGE",
+      "publisher_group": "The Japanese Society for the History of Economic Thought / J-STAGE",
+      "canonical_url": "https://www.jstage.jst.go.jp/article/jshet/53/1/53_100/_article/-char/en",
+      "access_url": "https://www.jstage.jst.go.jp/article/jshet/53/1/53_100/_article/-char/en",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_review_abstract",
+      "domain_or_platform": "jstage.jst.go.jp",
+      "language": "en",
+      "access_level": "abstract_only",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Smith's multidisciplinary reception."
+      },
+      "evidence_notes": "Abstract contrasts economic-history and moral-philosophical approaches, surveying Japanese and international Smith scholarship.",
+      "location": "English abstract, 2011 article",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Wealth of Nations",
+        "Adam Smith"
+      ],
+      "disagreement_or_limitations": "Full PDF unavailable; cited studies not separately consulted.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-29.json"
+    },
+    {
+      "source_id": "R196",
+      "underlying_source_id": "R196",
+      "title": "Reseña de Temor y Temblor",
+      "author": "Maximiliano Korstanje",
+      "publisher": "Cuaderno de Materiales / Filosofia.net",
+      "publisher_group": "Cuaderno de Materiales / Filosofia.net",
+      "canonical_url": "https://www.filosofia.net/materiales/resenas/r_3.html",
+      "access_url": "https://www.filosofia.net/materiales/resenas/r_3.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "independent_specialist_review",
+      "domain_or_platform": "filosofia.net",
+      "language": "es",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Thinker's contribution and contested reception."
+      },
+      "evidence_notes": "Finds the book compelling but repetitive; examines faith, ethical responsibility and the danger of false religious authority.",
+      "location": "Review body and footnotes",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Fear and Trembling",
+        "Søren Kierkegaard"
+      ],
+      "disagreement_or_limitations": "Reviewer's applications are not automatically Kierkegaard's conclusions; HTML/PDF reprints count once.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-30.json"
+    },
+    {
+      "source_id": "R197",
+      "underlying_source_id": "R197",
+      "title": "Punição, poder e sociedade em Michel Foucault: para além de Vigiar e punir",
+      "author": "Marcos César Alvarez and Jade Gonçalves Roque",
+      "publisher": "Revista Cult",
+      "publisher_group": "Revista Cult",
+      "canonical_url": "https://revistacult.uol.com.br/home/punicao-poder-e-sociedade-em-michel-foucault-para-alem-de-vigiar-e-punir/",
+      "access_url": "https://revistacult.uol.com.br/home/punicao-poder-e-sociedade-em-michel-foucault-para-alem-de-vigiar-e-punir/",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_magazine_excerpt",
+      "domain_or_platform": "revistacult.uol.com.br",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Thinker's contribution and contested reception."
+      },
+      "evidence_notes": "Opening situates genealogical innovation and political engagement, documenting Discipline and Punish's recurrent role in interpreting Foucault.",
+      "location": "Three accessible opening paragraphs",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Discipline and Punish",
+        "Michel Foucault"
+      ],
+      "disagreement_or_limitations": "Paywalled continuation unread; cannot infer its proposed reinterpretation.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-30.json"
+    },
+    {
+      "source_id": "R198",
+      "underlying_source_id": "R198",
+      "title": "Poder e direito em Foucault: relendo Vigiar e Punir 40 anos depois",
+      "author": "Josué Pereira da Silva",
+      "publisher": "Lua Nova / SciELO",
+      "publisher_group": "Lua Nova / SciELO",
+      "canonical_url": "https://www.scielo.br/j/ln/a/KHwwMH5p4B5GSGqgmCZ54mp/?lang=pt",
+      "access_url": "https://www.scielo.br/j/ln/a/KHwwMH5p4B5GSGqgmCZ54mp/?lang=pt",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_critical_article",
+      "domain_or_platform": "scielo.br",
+      "language": "pt",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Thinker's contribution and contested reception."
+      },
+      "evidence_notes": "Credits disciplinary-power analysis but challenges totalizing pathology, unclear standpoint and insufficient normative differentiation of democratic gains.",
+      "location": "Disciplinary society and concluding critique",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Discipline and Punish",
+        "Michel Foucault"
+      ],
+      "disagreement_or_limitations": "Records a critical interpretation; cited Habermas/Honneth texts not separately consulted.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-30.json"
+    },
+    {
+      "source_id": "R199",
+      "underlying_source_id": "R199",
+      "title": "Gedachte und reale Freiheit",
+      "author": "Heidemarie Schumacher",
+      "publisher": "Deutschlandfunk / Deutschlandradio",
+      "publisher_group": "Deutschlandfunk / Deutschlandradio",
+      "canonical_url": "https://www.deutschlandfunk.de/klaus-vieweg-hegel-der-philosoph-der-freiheit-gedachte-und-100.html",
+      "access_url": "https://www.deutschlandfunk.de/klaus-vieweg-hegel-der-philosoph-der-freiheit-gedachte-und-100.html",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "critical_broadcast_review",
+      "domain_or_platform": "deutschlandfunk.de",
+      "language": "de",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Thinker's contribution and contested reception."
+      },
+      "evidence_notes": "Connects Hegel's philosophical form and reception while questioning Vieweg's celebration of speculative logic and freedom.",
+      "location": "Philosophical-form and Logic sections",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Phenomenology of Spirit",
+        "Science of Logic",
+        "Elements of the Philosophy of Right",
+        "G. W. F. Hegel"
+      ],
+      "disagreement_or_limitations": "Review of a biography, with direct work discussion; Vieweg's claims retain attribution.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-30.json"
+    },
+    {
+      "source_id": "R200",
+      "underlying_source_id": "R200",
+      "title": "Hegels Phänomenologie des Geistes: Ein kooperativer Kommentar — excerpt",
+      "author": "Robert B. Pippin; preface by Klaus Vieweg and Wolfgang Welsch",
+      "publisher": "Suhrkamp",
+      "publisher_group": "Suhrkamp",
+      "canonical_url": "https://media.suhrkamp.de/mediadelivery/asset/e375c00291cb484e9d07f5e278569ee1/hegels-phaenomenologie-des-geistes_9783518294765_leseprobe.pdf?contentdisposition=inline",
+      "access_url": "https://media.suhrkamp.de/mediadelivery/asset/e375c00291cb484e9d07f5e278569ee1/hegels-phaenomenologie-des-geistes_9783518294765_leseprobe.pdf?contentdisposition=inline",
+      "publication_date": null,
+      "accessed_at": "2026-09-12",
+      "source_family": "scholarly_book_excerpt",
+      "domain_or_platform": "media.suhrkamp.de",
+      "language": "de",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Thinker's contribution and contested reception."
+      },
+      "evidence_notes": "Pippin examines transformative self-understanding and the problem of rational development; editors stress continuing cross-disciplinary reception.",
+      "location": "Preface pp. 5–6; Pippin opening pp. 13–17",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "Phenomenology of Spirit",
+        "G. W. F. Hegel"
+      ],
+      "disagreement_or_limitations": "One consulted book excerpt; unseen contributors receive no credit. Vieweg also features in R199.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-12/batch-30.json"
+    },
+    {
+      "source_id": "S02",
+      "underlying_source_id": "modern",
+      "title": "Modern Library Top 100: board novels and nonfiction lists",
+      "author": null,
+      "publisher": "Penguin Random House / Modern Library",
+      "publisher_group": "Penguin Random House / Modern Library",
+      "canonical_url": "https://sites.prh.com/modern-library-top-100/",
+      "access_url": "https://sites.prh.com/modern-library-top-100/",
+      "publication_date": null,
+      "accessed_at": "2026-09-13",
+      "source_family": "independent_ranking",
+      "domain_or_platform": "sites.prh.com",
+      "language": "en",
+      "access_level": "relevant_excerpt",
+      "depends_on_source_ids": [],
+      "dependency_note": null,
+      "target_ids": [
+        "philosophers-all-time"
+      ],
+      "relevance_by_target": {
+        "philosophers-all-time": "Philosophical authors explicitly represented by named philosophical books in the board nonfiction list: James, Whitehead/Russell, Rawls, Moore, Dewey, Berlin and Popper. This supports candidate reception, not a poll ordering of philosophers."
+      },
+      "evidence_notes": "Examined both complete lists of 100 titles. The nonfiction list includes James, Whitehead/Russell, Rawls, Moore, Dewey, Berlin and Popper as well as history, memoir, criticism and science.",
+      "location": "Nonfiction board list, positions 1–100; factual extraction research/_runs/2026-09-13/compilation/S02-modern-library.json",
+      "evidence_role": "candidate_evidence",
+      "candidates_or_claims_supported": [
+        "The Varieties of Religious Experience",
+        "A Theory of Justice",
+        "Principia Mathematica",
+        "Principia Ethica",
+        "Philosophy and Civilization",
+        "The Open Society and Its Enemies"
+      ],
+      "disagreement_or_limitations": "English-language twentieth-century selection; editorial board perspective is not a global or reader consensus. Novel and nonfiction positions belong to separate lists.",
+      "count_eligible": true,
+      "exclusion_reason": null,
+      "consultation_batch": "research/_runs/2026-09-13/batch-34.json"
+    }
+  ],
+  "status": "collecting_evidence_criteria_unset",
+  "saved_at": "2026-09-13"
+}

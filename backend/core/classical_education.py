@@ -1,6 +1,8 @@
 """Private owner syllabus and versioned assignment progress."""
 import json
 import math
+from copy import deepcopy
+from hashlib import sha256
 from pathlib import Path
 from django.conf import settings
 from django.contrib.auth import get_user_model
@@ -10,15 +12,20 @@ from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.exceptions import PermissionDenied, ValidationError
 from rest_framework.response import Response
+from .mutations import mutation_guard
 from .models import ClassicalStudyProfile
+from .content_cache import read_content
+from .catalog_cache import cached_catalog
+from .study_store import load_state, save_state, state_changes, summary_state, records_page, browser_state
+from .plan_previews import PlanPreviewConflict
 from .classical_companion import companion_content, route_summary, validate_update, plan_preview, apply_update, saved_plans
 from .classical_learning import learning_content, validate_learning, apply_learning, learning_summary, essay_text
 from .classical_reading_desk import desk_content, validate_desk, apply_desk, desk_export
 
 
-def content():
-    curriculum = json.loads((Path(__file__).parent / 'content/classical_education.json').read_text())
-    curriculum['tools'] = json.loads((Path(__file__).parent / 'content/classical_study_tools.json').read_text())
+def _build_content():
+    curriculum = read_content(Path(__file__).parent / 'content/classical_education.json')
+    curriculum['tools'] = read_content(Path(__file__).parent / 'content/classical_study_tools.json')
     curriculum['companion'] = companion_content()
     curriculum['learning'] = learning_content(curriculum)
     curriculum['desk'] = desk_content()
@@ -27,13 +34,43 @@ def content():
     return curriculum
 
 
+def content():
+    files = [*sorted((Path(__file__).parent / 'content').glob('classical_*.json')),
+             settings.BASE_DIR / 'research/classical-education-guide/owner-chat-catalog-2026-09-14.json']
+    version = tuple((str(path), path.stat().st_mtime_ns, path.stat().st_size) for path in files)
+    return cached_catalog(('study-content', version), _build_content)
+
+
 @api_view(['GET', 'PATCH'])
 @permission_classes([IsAuthenticated])
+@mutation_guard
 def syllabus(request):
     owner = get_user_model().objects.order_by('pk').values_list('pk', flat=True).first()
     if request.user.pk != owner:
         raise PermissionDenied('This is the owner’s private study space.')
     curriculum = content()
+    part = request.query_params.get('part', 'full')
+    if part not in {'full', 'content', 'state', 'delta', 'summary', 'records'}:
+        raise ValidationError('Choose content, state or the complete study view.')
+    if request.method == 'GET' and part == 'content':
+        digest = sha256(json.dumps(curriculum, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+        response = Response({'content': curriculum, 'content_revision': digest})
+        response['ETag'] = '"' + digest + '"'
+        response['Cache-Control'] = 'private, no-cache'
+        return response
+    if request.method == 'GET' and part == 'records':
+        try:
+            page = int(request.query_params.get('page', '1'))
+        except ValueError:
+            raise ValidationError('Choose a positive study page.')
+        with transaction.atomic():
+            profile = ClassicalStudyProfile.objects.select_for_update().filter(user=request.user).first()
+            payload = records_page(profile, request.query_params.get('family', ''), page,
+                                   expected=request.query_params.get('snapshot'), history_key=request.query_params.get('record'))
+        response = Response(payload)
+        response['Cache-Control'] = 'private, no-store'
+        return response
+    before_state = None
     if request.method == 'GET' and 'work' in request.query_params:
         work = next((w for w in curriculum['companion']['works'] if str(w['id']) == request.query_params['work']), None)
         if not work:
@@ -45,9 +82,11 @@ def syllabus(request):
         data = request.data
         if not isinstance(data, dict):
             raise ValidationError('Send a study update.')
-        allowed = {'module', 'notes', 'completed', 'path', 'pace', 'activity', 'response', 'done', 'companion', 'learning', 'desk'}
+        allowed = {'module', 'notes', 'completed', 'path', 'pace', 'activity', 'response', 'done', 'companion', 'learning', 'desk', 'expected_updated_at'}
         if set(data) - allowed:
             raise ValidationError('Unknown study field.')
+        expected = data.get('expected_updated_at')
+        data = {key: value for key, value in data.items() if key != 'expected_updated_at'}
         companion = None
         learning = None
         desk = None
@@ -93,9 +132,17 @@ def syllabus(request):
         if 'done' in data and type(data['done']) is not bool:
             raise ValidationError('Completion must be true or false.')
         with transaction.atomic():
-            profile, _ = ClassicalStudyProfile.objects.get_or_create(user=request.user)
+            # Companion actions also write library/plan rows. Use the same lock
+            # as the main planner and edition changes before reading their state.
+            request.user = get_user_model().objects.select_for_update().get(pk=request.user.pk)
+            profile, created = ClassicalStudyProfile.objects.get_or_create(user=request.user)
             profile = ClassicalStudyProfile.objects.select_for_update().get(pk=profile.pk)
-            state = profile.state
+            if part == 'delta' and 'expected_updated_at' not in request.data:
+                raise ValidationError('Reload study progress before saving.')
+            if part == 'delta' and expected != (profile.updated_at.isoformat() if not created else None):
+                raise PlanPreviewConflict('Study work changed in another window. Reload before saving; your draft is still here.')
+            state = load_state(profile)
+            before_state = deepcopy(state)
             if companion:
                 apply_update(companion, curriculum, state, request.user)
             if learning:
@@ -116,10 +163,13 @@ def syllabus(request):
                 for key in ('response', 'done'):
                     if key in data:
                         item[key] = data[key]
-            profile.state = state
-            profile.save(update_fields=['state', 'updated_at'])
-    profile = ClassicalStudyProfile.objects.filter(user=request.user).first()
-    state = profile.state if profile else {}
+            save_state(profile, state)
+    if request.method == 'GET':
+        profile = ClassicalStudyProfile.objects.filter(user=request.user).first()
+        state = summary_state(profile, curriculum['revision']) if part == 'summary' else load_state(profile)
+    # PATCH replies use exactly the state/revision committed under our lock.
+    # Re-reading here could mix another window's subsequent save into the
+    # response and needlessly load every growing record a second time.
     path = state.get('path', 'light')
     pace = state.get('pace', 4)
     total = sum(m[path]['hours'] for m in curriculum['modules'])
@@ -139,6 +189,31 @@ def syllabus(request):
         response.write('\n\nMARGINALIA READING DESK\n' + json.dumps(curriculum['desk'], ensure_ascii=False, indent=2))
         response['Content-Disposition'] = 'attachment; filename="marginalia-classical-education.txt"'
     else:
-        response = Response({'content': curriculum, 'state': state, 'path': path, 'pace': pace, 'completed': completed, 'ready': ready, 'total_hours': total, 'total_weeks': math.ceil(total / pace), 'remaining_hours': remaining, 'route': route_summary(curriculum, state), 'classical_plans': saved_plans(state, request.user), 'learning_summary': learning_summary(curriculum, state)})
+        payload = {'path': path, 'pace': pace, 'completed': completed, 'ready': ready,
+                   'total_hours': total, 'total_weeks': math.ceil(total / pace), 'remaining_hours': remaining,
+                   'route': route_summary(curriculum, state), 'classical_plans': saved_plans(state, request.user),
+                   'learning_summary': learning_summary(curriculum, state),
+                   'updated_at': profile.updated_at.isoformat() if profile else None}
+        if part == 'delta' and request.method == 'PATCH':
+            payload['changes'] = state_changes(browser_state(before_state), browser_state(state))
+            payload['learning_summary']['sessions_today'] = [
+                {**{key: row.get(key) for key in ('id', 'module', 'minutes', 'saved_at')}, 'reflection': '', 'passage': ''}
+                for row in payload['learning_summary']['sessions_today']]
+        else:
+            payload['state'] = state
+        if part == 'summary':
+            # Due-date projections feed counters, not partially populated editors.
+            payload['state'] = deepcopy(state)
+            payload['state'].get('companion', {}).pop('commonplaces', None)
+            payload['state'].get('learning', {}).pop('recall', None)
+            from django.utils import timezone
+            today = timezone.localdate().isoformat()
+            payload['learning_summary']['sessions_today'] = [
+                {**{key: row.get(key) for key in ('id', 'module', 'minutes', 'saved_at')}, 'reflection': '', 'passage': ''}
+                for row in ((profile.state if profile else {}).get('learning', {}).get('sessions', []))
+                if row.get('saved_at', '')[:10] == today]
+        if part == 'full':
+            payload['content'] = curriculum
+        response = Response(payload)
     response['Cache-Control'] = 'private, no-store'
     return response

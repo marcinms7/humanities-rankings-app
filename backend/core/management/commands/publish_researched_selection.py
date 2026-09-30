@@ -6,6 +6,7 @@ from pathlib import Path
 from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 from backend.core.models import Ranking, RankingEntry, Work, Person
+from backend.core.management.receipts import save_import_receipt
 from backend.core.views import ensure_revision, save_revision
 
 
@@ -115,6 +116,6 @@ class Command(BaseCommand):
             # Partial publication is not a completed global research refresh.
             ranking.full_clean()
             save_revision(ranking, f'Researched selection: {len(prepared)} entries, critical standing and reading value. Personal scores unset.')
-        receipt = path.with_name(path.stem + '-import-receipt.json')
-        receipt.write_text(json.dumps(dict(input_sha256=digest, ranking_id=ranking.pk, revision=ranking.revision, entry_count=len(prepared), entry_ids={key: entry.pk for key, entry in prepared.items()}), indent=2) + '\n')
+        receipt = save_import_receipt(path, dict(input_sha256=digest, ranking_id=ranking.pk, revision=ranking.revision,
+                                                 entry_count=len(prepared), entry_ids={key: entry.pk for key, entry in prepared.items()}))
         self.stdout.write(f'Published {len(prepared)} entries in {ranking.slug}, revision {ranking.revision}. Receipt: {receipt}')

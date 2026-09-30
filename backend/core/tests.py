@@ -75,7 +75,9 @@ class APITests(TestCase):
 
     def test_library_upsert_does_not_duplicate_and_rejects_wrong_edition(self):
         first = self.client.post('/api/library/', {'work': self.work.pk, 'rating': 8}, format='json')
-        second = self.client.post('/api/library/', {'work': self.work.pk, 'status': 'reading'}, format='json')
+        blocked = self.client.post('/api/library/', {'work': self.work.pk, 'status': 'reading'}, format='json')
+        self.assertEqual(blocked.status_code, 400)
+        second = self.client.post(f"/api/library/{first.data['id']}/reread/", {}, format='json')
         self.assertEqual(first.status_code, 201)
         self.assertEqual(first.data['rating'], 8)
         self.assertEqual(second.status_code, 200)
@@ -140,9 +142,10 @@ class APITests(TestCase):
         self.assertEqual(RankingPreference.objects.count(), before)
 
     def test_criteria_used_in_personal_overrides_cannot_be_silently_removed(self):
-        RankingPreference.objects.create(user=self.owner, ranking=self.ranking, weights={'depth': 5})
-        self.client.force_authenticate(self.editor)
-        response = self.client.patch(f'/api/rankings/{self.ranking.pk}/', {'criteria': []}, format='json')
+        self.private.criteria = self.ranking.criteria
+        self.private.save()
+        RankingPreference.objects.create(user=self.owner, ranking=self.private, weights={'depth': 5})
+        response = self.client.patch(f'/api/rankings/{self.private.pk}/', {'criteria': []}, format='json')
         self.assertEqual(response.status_code, 400, response.data)
 
     def test_revision_snapshots_preserve_original_and_reject_stale_edit(self):
@@ -175,7 +178,7 @@ class APITests(TestCase):
         published = RankingEntry.objects.create(ranking=source, work=self.work, source_rank=7)
         self.client.force_authenticate(self.editor)
         response = self.client.post(f'/api/rankings/{source.pk}/reorder/', {'entry_ids': [published.pk]}, format='json')
-        self.assertEqual(response.status_code, 400)
+        self.assertEqual(response.status_code, 403)
         result = self.client.post(f'/api/rankings/{source.pk}/copy/', {}, format='json')
         self.assertEqual(result.status_code, 201)
         self.assertEqual(result.data['entry_count'], 1)
@@ -216,7 +219,9 @@ class APITests(TestCase):
         self.ranking.save()
         self.client.force_authenticate(self.editor)
         response = self.client.patch(f'/api/rankings/{self.ranking.pk}/', {'title': 'New metadata title'}, format='json')
-        self.assertEqual(response.status_code, 200, response.data)
+        self.assertEqual(response.status_code, 403, response.data)
+        self.ranking.title = 'Editorial metadata correction'
+        self.ranking.save()
         self.client.post(f'/api/rankings/{self.ranking.pk}/refresh/', {}, format='json')
         self.ranking.refresh_from_db()
         self.assertEqual(self.ranking.last_researched_at, old)
@@ -245,6 +250,10 @@ class APITests(TestCase):
         self.assertEqual(self.client.get('/api/rankings/recommendations/').data['results'], [])
 
     def test_planner_preview_apply_spans_months_and_preserves_locks(self):
+        self.owner.reading_target_period = 'day'
+        self.owner.reading_days_per_week = 7
+        self.owner.difficulty_aware_planning = False
+        self.owner.save()
         LibraryItem.objects.create(user=self.owner, work=self.work)
         locked = PlanItem.objects.create(user=self.owner, work=self.work, month=date(2027, 2, 1), pages=100, locked=True)
         payload = {'start_month': '2027-01-01', 'months': 2, 'work_ids': [self.work.pk]}
@@ -252,11 +261,13 @@ class APITests(TestCase):
         self.assertEqual(response.status_code, 200, response.data)
         self.assertEqual(response.data['items'], [{'work': self.work.pk, 'month': '2027-01-01', 'pages': 310, 'locked': False}])
         self.assertIn('90 pages', response.data['unscheduled'][0]['reason'])
+        preview_token = response.data['preview_token']
         self.assertEqual(PlanItem.objects.count(), 1)
         response = self.client.post('/api/plan/suggest/', {**payload, 'apply': True}, format='json')
         self.assertEqual(response.status_code, 400)
         self.assertEqual(PlanItem.objects.count(), 1)
-        response = self.client.post('/api/plan/suggest/', {**payload, 'apply': True, 'confirm_replace': True}, format='json')
+        response = self.client.post('/api/plan/suggest/', {**payload, 'apply': True, 'confirm_replace': True,
+                                                        'preview_token': preview_token}, format='json')
         self.assertEqual(response.status_code, 200, response.data)
         locked.refresh_from_db()
         self.assertEqual(locked.pages, 100)
@@ -299,10 +310,12 @@ class APITests(TestCase):
         LibraryItem.objects.create(user=self.owner, work=self.second, rating=9, notes='MY NOTE')
         result = self.client.get('/api/export/')
         self.assertEqual(result.status_code, 200)
-        self.assertEqual(len(result.data['library']), 1)
-        self.assertEqual(result.data['library'][0]['notes'], 'MY NOTE')
-        self.assertEqual(result.data['library'][0]['rating'], 9)
-        self.assertNotIn('OTHER PRIVATE', str(result.data))
+        import json
+        exported = json.loads(b''.join(result.streaming_content))
+        self.assertEqual(len(exported['library']), 1)
+        self.assertEqual(exported['library'][0]['notes'], 'MY NOTE')
+        self.assertEqual(exported['library'][0]['rating'], 9)
+        self.assertNotIn('OTHER PRIVATE', str(exported))
 
 
 @override_settings(DEBUG=True)
@@ -347,7 +360,7 @@ class DomainTests(SimpleTestCase):
                               [{'work': 1, 'month': months[1], 'pages': 400}])
         self.assertEqual(result['items'][0]['pages'], 100)
         self.assertEqual(result['unscheduled'], [])
-        self.assertIn('120 pages', result['warnings'][0])
+        self.assertIn('120 budget units', result['warnings'][0])
         self.assertEqual(result['capacity_remaining']['2027-02-01'], -120)
 
     def test_calendar_capacity_uses_actual_month_and_leap_year(self):

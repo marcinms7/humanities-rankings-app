@@ -1,5 +1,7 @@
 # r/Fantasy · Top Novels (2014)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named published ranking (105 entries), checked 2026-09-13.
 
 Source: https://www.reddit.com/r/Fantasy/comments/1ynqcm/the_top_rfantasy_novels_of_all_time_results_thread/

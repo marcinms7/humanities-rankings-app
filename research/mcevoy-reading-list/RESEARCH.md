@@ -1,5 +1,7 @@
 # Benjamin McEvoy · Reading list
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Verified and imported 13 September 2026: **101 active entries**, revision **5**.
 
 Benjamin McEvoy’s five-year suggested reading programme. Year labels refer to programme stages, not book-club calendar years. Some assignments name an unspecified selection or collection.

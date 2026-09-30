@@ -1,0 +1,45 @@
+{"work_id": 2, "title": "War and Peace", "status": "no_matching_work"}
+{"work_id": 5, "title": "Moby-Dick", "status": "identity_review"}
+{"work_id": 15, "title": "Don Quixote", "status": "no_matching_work"}
+{"work_id": 19, "title": "One Hundred Years of Solitude", "status": "identity_review"}
+{"work_id": 18, "title": "Ulysses", "status": "identity_review"}
+{"work_id": 387, "title": "The Master and Margarita", "status": "no_matching_work"}
+{"work_id": 290, "title": "Anna Karenina", "status": "no_matching_work"}
+{"work_id": 66, "title": "The Great Gatsby", "status": "identity_review"}
+{"work_id": 70, "title": "The Sound and the Fury", "status": "identity_review"}
+{"work_id": 349, "title": "The Brothers Karamazov", "status": "no_matching_work"}
+{"work_id": 79, "title": "To the Lighthouse", "status": "identity_review"}
+{"work_id": 128, "title": "The Catcher in the Rye", "status": "found", "edition_id": 6734}
+{"work_id": 77, "title": "Nineteen Eighty-Four", "status": "found", "edition_id": 6735}
+{"work_id": 277, "title": "Frankenstein", "status": "identity_review"}
+{"work_id": 298, "title": "The Count of Monte Cristo", "status": "identity_review"}
+{"work_id": 714, "title": "Blood Meridian", "status": "found", "edition_id": 6736}
+{"work_id": 292, "title": "The Picture of Dorian Gray", "status": "identity_review"}
+{"work_id": 342, "title": "Ficciones", "status": "identity_review"}
+{"work_id": 311, "title": "The Stranger", "status": "no_matching_work"}
+{"work_id": 4, "title": "The Magic Mountain", "status": "identity_review"}
+{"work_id": 312, "title": "The Trial", "status": "identity_review"}
+{"work_id": 7, "title": "Middlemarch", "status": "identity_review"}
+{"work_id": 20, "title": "Pride and Prejudice", "status": "identity_review"}
+{"work_id": 69, "title": "Brave New World", "status": "identity_review"}
+{"work_id": 357, "title": "Odyssey", "status": "no_matching_work"}
+{"work_id": 82, "title": "Slaughterhouse-Five", "status": "found", "edition_id": 6739}
+{"work_id": 759, "title": "The Metamorphosis", "status": "no_verified_english_option"}
+{"work_id": 3187, "title": "Hamlet", "status": "identity_review"}
+{"work_id": 8, "title": "Beloved", "status": "existing_isbn_preserved"}
+{"work_id": 369, "title": "The Book of Disquiet", "status": "no_matching_work"}
+{"work_id": 730, "title": "2666", "status": "found", "edition_id": 6757}
+{"work_id": 3552, "title": "Dubliners", "status": "identity_review"}
+{"work_id": 67, "title": "A Portrait of the Artist As a Young Man", "status": "identity_review"}
+{"work_id": 117, "title": "Pale Fire", "status": "identity_review"}
+{"work_id": 692, "title": "Faust", "status": "no_matching_work"}
+{"work_id": 745, "title": "The Name of the Rose", "status": "no_matching_work"}
+{"work_id": 780, "title": "Invisible Cities", "status": "no_verified_english_option"}
+{"work_id": 1725, "title": "Siddhartha", "status": "identity_review"}
+Traceback (most recent call last):
+  File "/Users/marcinswierczewski/humanities-rankings-app/research/enrich_exact_english_editions.py", line 77, in <module>
+    with exclusive('exact-editions'):main()
+                                     ^^^^^^
+  File "/Users/marcinswierczewski/humanities-rankings-app/research/enrich_exact_english_editions.py", line 36, in main
+    time.sleep(1.5)
+KeyboardInterrupt

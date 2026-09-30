@@ -203,7 +203,13 @@ def parse_entries(report: Report, text: str, known_sources: set[str]) -> list[di
         author = field(block, 'Author')
         title = heading
         if not author and ' — ' in heading:
-            author, title = (part.strip() for part in heading.split(' — ', 1))
+            left, right = (part.strip() for part in heading.split(' — ', 1))
+            # The preserved horror report explicitly uses title — author.
+            # Its prose/genre fields do not include a separate Author line.
+            if report.slug == 'books-horror-all-time':
+                title, author = left, right
+            else:
+                author, title = left, right
         if not author:
             raise ValueError(f'{report.slug}: no author resolved for rank {position}: {heading}')
         refs = [f'{report.prefix}-S{number}' for number in re.findall(r'\bS(\d{3})\b', field(block, 'Supporting sources', 'Supporting source IDs', 'Sources'))]

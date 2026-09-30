@@ -1,5 +1,7 @@
 # The New York Times · Readers' 100 Best Books of the 21st Century (2024)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named Published ranking (100 entries), checked 2026-09-14.
 
 Primary source: https://www.nytimes.com/interactive/2024/books/reader-best-books-21st-century.html

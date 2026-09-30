@@ -1,5 +1,7 @@
 # Literary fiction · All time — research state
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 ## Population checkpoint — 13 September 2026, broad expansion
 
 **Saved in the existing database: books-all-time 250 entries, revision 3; literature-all-time 250 entries, revision 3.** Both editorial orders preserved. All original entry identities, source ranks/assessments and historical revisions retained. Catalog now 423 works; only the original 14 have verified editions/covers, so new metadata and portraits are explicitly pending. This supersedes the old tiny-selection counts below. Nonfiction/philosophy expansion is next in the active run.
@@ -94,3 +96,10 @@ Compile the full broad comparison from published lists now. Refine detailed doss
 ## Preservation
 
 Prior empty ranking revisions and v1 proposals are preserved. Catalog batches, image manifests with credits/hashes, and import receipts are in `research/catalog/`. Existing sources were imported without --update-existing. Private account and preference records were not edited by this research. A new library item appeared during the live session and is retained; the preservation audit records this separately. Source and publication dates remain distinct.
+
+
+## Owner DOCX update — 27 September 2026
+
+Imported the supplied report into the existing database, revision 4: 250 → 250 active entries; 101 → 451 source records (+350, including 325 newly registered sources whose substantive consultation is externally reported). Added 69 active ranking candidates; 69 superseded ranking entries remain archived with history. Every pre-existing source record and its eligibility was preserved. No source-by-source web verification or fresh research was performed.
+
+Full intake notes, limitations, source/candidate ID maps and receipts: `research/_runs/2026-09-27/owner-docx-updates/`. Both editorial views were persisted; personal numerical scores remain unset. Edition/media and the report's stated evidence gaps remain open. Canonical sources.json contains all current database sources; previous ledger retained.

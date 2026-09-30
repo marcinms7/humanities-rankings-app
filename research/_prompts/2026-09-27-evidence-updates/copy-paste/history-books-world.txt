@@ -1,0 +1,1715 @@
+UPDATE REQUEST: World history · Books
+Target ID: history-books-world
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 150; current source records: 228 (includes unverified leads).
+Desired scope: A broad roughly 150-book world/global/comparative and connected-history ranking, with explicit criteria for specialist works that contribute to that scope.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+150 entries and 228 eligible records all marked summary_only; all entries repeat five Five Books category or interview references. The saved report is an externally supplied initial synthesis, not an independently audited consensus.
+1. Resolve category pages to the actual interviews or published lists and map recommendations to their specific candidate books.
+2. Clarify world/global/comparative history scope: a history of one country or region requires a substantive connected or comparative role to belong here.
+3. Audit global coverage, connections and period balance without substituting a set of unrelated national histories or imposing mechanical regional quotas.
+4. Use scholarly reviews and historiographical discussion to distinguish grand narrative appeal, lasting influence and current evidentiary reliability.
+5. Reassess the full 150-book comparison, significant omissions, multi-volume boundaries and duplicate editions.
+
+CURRENT SCOPE
+{"forms": ["book"], "subject": "history", "topic": "world", "parent_ranking": "history-books-all-time", "research_priority": "queued_later", "focus": "Comparative and connected histories across regions."}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:4406] The Rise of the West: A History of the Human Community — William H. McNeill | standing=1; reading=1 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+2. [work:4407] The Mediterranean and the Mediterranean World in the Age of Philip II — Fernand Braudel | standing=2; reading=2 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+3. [work:1908] The Great Divergence: China, Europe, and the Making of the Modern World Economy — Kenneth Pomeranz | standing=3; reading=3 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+4. [work:4408] The Transformation of the World: A Global History of the Nineteenth Century — Jürgen Osterhammel | standing=4; reading=4 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+5. [work:4409] The Birth of the Modern World, 1780–1914 — C. A. Bayly | standing=5; reading=5 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+6. [work:4410] The Venture of Islam — Marshall G. S. Hodgson | standing=6; reading=6 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+7. [work:4411] Civilization and Capitalism, 15th–18th Century — Fernand Braudel | standing=7; reading=7 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+8. [work:4412] Plagues and Peoples — William H. McNeill | standing=8; reading=8 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+9. [work:4413] Before European Hegemony: The World System A.D. 1250–1350 — Janet L. Abu-Lughod | standing=9; reading=9 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+10. [work:4414] Europe and the People Without History — Eric R. Wolf | standing=10; reading=10 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+11. [work:4415] The Modern World-System — Immanuel Wallerstein | standing=11; reading=11 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+12. [work:4416] Ecological Imperialism: The Biological Expansion of Europe, 900–1900 — Alfred W. Crosby | standing=12; reading=12 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+13. [work:4417] The Human Web: A Bird’s-Eye View of World History — J. R. McNeill; William H. McNeill | standing=13; reading=13 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+14. [work:4418] Science and Civilisation in China — Joseph Needham | standing=14; reading=14 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+15. [work:1207] The Muqaddimah — Ibn Khaldun | standing=15; reading=15 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+16. [work:4419] The Pursuit of Power: Technology, Armed Force, and Society since A.D. 1000 — William H. McNeill | standing=16; reading=16 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+17. [work:4420] The Columbian Exchange: Biological and Cultural Consequences of 1492 — Alfred W. Crosby | standing=17; reading=17 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+18. [work:4421] The Great Transformation — Karl Polanyi | standing=18; reading=18 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+19. [work:4422] The Global Cold War — Odd Arne Westad | standing=19; reading=19 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+20. [work:4423] The Penguin History of the World — J. M. Roberts; revised by Odd Arne Westad | standing=20; reading=20 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+21. [work:4424] Empire of Cotton: A Global History — Sven Beckert | standing=21; reading=21 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+22. [work:4425] Maps of Time: An Introduction to Big History — David Christian | standing=22; reading=22 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+23. [work:4426] After Tamerlane: The Rise and Fall of Global Empires, 1400–2000 — John Darwin | standing=23; reading=23 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+24. [work:4427] Global Crisis: War, Climate Change and Catastrophe in the Seventeenth Century — Geoffrey Parker | standing=24; reading=24 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+25. [work:4428] The Cambridge World History — Merry E. Wiesner-Hanks | standing=25; reading=25 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+26. [work:4429] Old World Encounters: Cross-Cultural Contacts and Exchanges in Pre-Modern Times — Jerry H. Bentley | standing=26; reading=26 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+27. [work:4430] Power and Plenty: Trade, War, and the World Economy in the Second Millennium — Ronald Findlay; Kevin H. O’Rourke | standing=27; reading=27 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+28. [work:4431] The World Economy: A Millennial Perspective — Angus Maddison | standing=28; reading=28 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+29. [work:4432] Something New Under the Sun: An Environmental History of the Twentieth-Century World — J. R. McNeill | standing=29; reading=29 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+30. [work:4433] ReORIENT: Global Economy in the Asian Age — Andre Gunder Frank | standing=30; reading=30 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+31. [work:1915] China Transformed: Historical Change and the Limits of European Experience — R. Bin Wong | standing=31; reading=31 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+32. [work:4434] Why Europe Grew Rich and Asia Did Not — Prasannan Parthasarathi | standing=32; reading=32 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+33. [work:4435] Empires in World History: Power and the Politics of Difference — Frederick Cooper; Jane Burbank | standing=33; reading=33 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+34. [work:4436] The Origins of the Modern World: A Global and Environmental Narrative — Robert B. Marks | standing=34; reading=34 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+35. [work:4437] What Is Global History? — Sebastian Conrad | standing=35; reading=35 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+36. [work:4438] Strange Parallels — Victor Lieberman | standing=36; reading=36 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+37. [work:4439] Cross-Cultural Trade in World History — Philip D. Curtin | standing=37; reading=37 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+38. [work:4440] Sapiens: A Brief History of Humankind — Yuval Noah Harari | standing=38; reading=38 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+39. [work:558] Guns, Germs, and Steel — Jared Diamond | standing=39; reading=39 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+40. [work:4441] The Silk Roads: A New History of the World — Peter Frankopan | standing=40; reading=40 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+41. [work:4442] The World That Trade Created — Kenneth Pomeranz; Steven Topik | standing=41; reading=41 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+42. [work:4443] War in Human Civilization — Azar Gat | standing=42; reading=42 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+43. [work:4444] The Boundless Sea: A Human History of the Oceans — David Abulafia | standing=43; reading=43 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+44. [work:4445] The Sea and Civilization: A Maritime History of the World — Lincoln Paine | standing=44; reading=44 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+45. [work:4446] Trade and Civilisation in the Indian Ocean — K. N. Chaudhuri | standing=45; reading=45 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+46. [work:4447] Asia Before Europe — K. N. Chaudhuri | standing=46; reading=46 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+47. [work:4448] The Age of Revolution: 1789–1848 — Eric Hobsbawm | standing=47; reading=47 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+48. [work:4449] The Age of Capital: 1848–1875 — Eric Hobsbawm | standing=48; reading=48 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+49. [work:4450] The Age of Empire: 1875–1914 — Eric Hobsbawm | standing=49; reading=49 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+50. [work:4451] Age of Extremes: The Short Twentieth Century, 1914–1991 — Eric Hobsbawm | standing=50; reading=50 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+51. [work:206] A Study of History — Arnold J. Toynbee | standing=51; reading=51 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+52. [work:4452] The Outline of History — H. G. Wells | standing=52; reading=52 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+53. [work:4453] The Story of Civilization — Will; Ariel Durant | standing=53; reading=53 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+54. [work:4454] A Global History: From Prehistory to the 21st Century — L. S. Stavrianos | standing=54; reading=54 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+55. [work:4455] A Little History of the World — E. H. Gombrich | standing=55; reading=55 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+56. [work:4456] The Dawn of Everything — David Graeber; David Wengrow | standing=56; reading=56 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+57. [work:4457] Debt: The First 5,000 Years — David Graeber | standing=57; reading=57 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+58. [work:4458] Against the Grain: A Deep History of the Earliest States — James C. Scott | standing=58; reading=58 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+59. [work:4459] Why the West Rules—For Now — Ian Morris | standing=59; reading=59 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+60. [work:4460] The Great Leveler — Walter Scheidel | standing=60; reading=60 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+61. [work:4461] Empire of Things: How We Became a World of Consumers — Frank Trentmann | standing=61; reading=61 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+62. [work:2671] 1493: Uncovering the New World Columbus Created — Charles C. Mann | standing=62; reading=62 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+63. [work:4462] Empires of the Silk Road — Christopher I. Beckwith | standing=63; reading=63 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+64. [work:4463] The Silk Road: A New History — Valerie Hansen | standing=64; reading=64 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+65. [work:4464] The Year 1000: When Explorers Connected the World—and Globalization Began — Valerie Hansen | standing=65; reading=65 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+66. [work:4465] Pathfinders: A Global History of Exploration — Felipe Fernández-Armesto | standing=66; reading=66 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+67. [work:4466] Millennium: A History of the Last Thousand Years — Felipe Fernández-Armesto | standing=67; reading=67 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+68. [work:4467] Civilizations: Culture, Ambition, and the Transformation of Nature — Felipe Fernández-Armesto | standing=68; reading=68 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+69. [work:4468] The World: A History — Felipe Fernández-Armesto | standing=69; reading=69 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+70. [work:4469] The Lever of Riches — Joel Mokyr | standing=70; reading=70 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+71. [work:4470] A Culture of Growth — Joel Mokyr | standing=71; reading=71 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+72. [work:4471] The British Industrial Revolution in Global Perspective — Robert C. Allen | standing=72; reading=72 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+73. [work:4472] The Great Acceleration: An Environmental History of the Anthropocene since 1945 — J. R. McNeill; Peter Engelke | standing=73; reading=73 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+74. [work:4473] Energy and Civilization: A History — Vaclav Smil | standing=74; reading=74 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+75. [work:4474] The Unending Frontier: An Environmental History of the Early Modern World — John F. Richards | standing=75; reading=75 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+76. [work:4475] The Earth Transformed: An Untold History — Peter Frankopan | standing=76; reading=76 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+77. [work:4476] The Origins of Political Order — Francis Fukuyama | standing=77; reading=77 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+78. [work:4477] The Rise and Fall of the Great Powers — Paul Kennedy | standing=78; reading=78 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+79. [work:4478] The War of the World — Niall Ferguson | standing=79; reading=79 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+80. [work:4479] The Deluge: The Great War, America and the Remaking of the Global Order, 1916–1931 — Adam Tooze | standing=80; reading=80 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+81. [work:4480] A World at Arms: A Global History of World War II — Gerhard L. Weinberg | standing=81; reading=81 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+82. [work:4481] The Cold War: A World History — Odd Arne Westad | standing=82; reading=82 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+83. [work:4482] The Shock of the Global — Erez Manela; Daniel J. Sargent; Niall Ferguson; Charles S. Maier | standing=83; reading=83 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+84. [work:4483] Decolonization: A Short History — Jürgen Osterhammel; Jan C. Jansen | standing=84; reading=84 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+85. [work:4484] The End of Empires and a World Remade — Martin Thomas | standing=85; reading=85 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+86. [work:4485] The Darker Nations: A People’s History of the Third World — Vijay Prashad | standing=86; reading=86 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+87. [work:4486] Empire of Guns: The Violent Making of the Industrial Revolution — Priya Satia | standing=87; reading=87 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+88. [work:4487] Thirst for Empire: How Tea Shaped the Modern World — Erika Rappaport | standing=88; reading=88 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+89. [work:4488] A Fistful of Shells: West Africa from the Rise of the Slave Trade to the Age of Revolution — Toby Green | standing=89; reading=89 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+90. [work:4489] Horizons: A Global History of Science — James Poskett | standing=90; reading=90 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+91. [work:4490] Cotton: The Fabric that Made the Modern World — Giorgio Riello | standing=91; reading=91 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+92. [work:4491] Vermeer’s Hat: The Seventeenth Century and the Dawn of the Global World — Timothy Brook | standing=92; reading=92 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+93. [work:4492] Sweetness and Power — Sidney W. Mintz | standing=93; reading=93 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+94. [work:4493] Capitalism and Slavery — Eric Williams | standing=94; reading=94 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+95. [work:4494] The Black Atlantic — Paul Gilroy | standing=95; reading=95 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+96. [work:4495] The Making of New World Slavery — Robin Blackburn | standing=96; reading=96 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+97. [work:4496] The Slave Ship: A Human History — Marcus Rediker | standing=97; reading=97 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+98. [work:4497] The Many-Headed Hydra — Marcus Rediker; Peter Linebaugh | standing=98; reading=98 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+99. [work:4498] The Rise of African Slavery in the Americas — David Eltis | standing=99; reading=99 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+100. [work:4499] Africa and Africans in the Making of the Atlantic World, 1400–1800 — John Thornton | standing=100; reading=100 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+101. [work:4500] Transformations in Slavery — Paul E. Lovejoy | standing=101; reading=101 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+102. [work:4501] The African Diaspora: A History Through Culture — Patrick Manning | standing=102; reading=102 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+103. [work:4502] The Black Jacobins — C. L. R. James | standing=103; reading=103 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+104. [work:4503] How Europe Underdeveloped Africa — Walter Rodney | standing=104; reading=104 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+105. [work:4504] Born in Blackness — Howard W. French | standing=105; reading=105 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+106. [work:4505] Provincializing Europe — Dipesh Chakrabarty | standing=106; reading=106 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+107. [work:4506] Orientalism — Edward W. Said | standing=107; reading=107 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+108. [work:4507] The Theft of History — Jack Goody | standing=108; reading=108 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+109. [work:4508] The Eastern Origins of Western Civilisation — John M. Hobson | standing=109; reading=109 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+110. [work:4509] Global Economic History: A Very Short Introduction — Robert C. Allen | standing=110; reading=110 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+111. [work:4510] Contours of the World Economy, 1–2030 AD — Angus Maddison | standing=111; reading=111 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+112. [work:4511] A Farewell to Alms — Gregory Clark | standing=112; reading=112 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+113. [work:4512] The Wealth and Poverty of Nations — David S. Landes | standing=113; reading=113 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+114. [work:4513] Escape from Rome — Walter Scheidel | standing=114; reading=114 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+115. [work:4514] The Sources of Social Power — Michael Mann | standing=115; reading=115 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+116. [work:4515] Violence and Social Orders — Douglass C. North; John Joseph Wallis; Barry R. Weingast | standing=116; reading=116 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+117. [work:636] Why Nations Fail — Daron Acemoglu; James A. Robinson | standing=117; reading=117 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+118. [work:4516] The Great Sea: A Human History of the Mediterranean — David Abulafia | standing=118; reading=118 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+119. [work:4517] A Hundred Horizons: The Indian Ocean in the Age of Global Empire — Sugata Bose | standing=119; reading=119 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+120. [work:4356] The Horde: How the Mongols Changed the World — Marie Favereau | standing=120; reading=120 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+121. [work:2599] Genghis Khan and the Making of the Modern World — Jack Weatherford | standing=121; reading=121 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+122. [work:4518] The Horse, the Wheel, and Language — David W. Anthony | standing=122; reading=122 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+123. [work:4519] After the Ice — Steven Mithen | standing=123; reading=123 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+124. [work:4520] The Human Past: World Prehistory and the Development of Human Societies — Chris Scarre | standing=124; reading=124 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+125. [work:4521] Who We Are and How We Got Here — David Reich | standing=125; reading=125 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+126. [work:4522] Globalization: A Short History — Jürgen Osterhammel; Niels P. Petersson | standing=126; reading=126 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+127. [work:4523] Navigating World History — Patrick Manning | standing=127; reading=127 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+128. [work:4524] Global Perspectives on Global History — Dominic Sachsenmaier | standing=128; reading=128 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+129. [work:4525] Global History, Globally — Sven Beckert; Dominic Sachsenmaier | standing=129; reading=129 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+130. [work:4526] The Prospect of Global History — Margret Frenz; Chris Wickham; John Darwin; James Belich | standing=130; reading=130 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+131. [work:4527] The Oxford Handbook of World History — Jerry H. Bentley | standing=131; reading=131 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+132. [work:4528] A Companion to World History — Douglas Northrop | standing=132; reading=132 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+133. [work:4529] World History: A Very Short Introduction — Merry E. Wiesner-Hanks | standing=133; reading=133 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+134. [work:4530] Traditions & Encounters: A Global Perspective on the Past — Jerry H. Bentley; Herbert F. Ziegler; Heather Streets-Salter | standing=134; reading=134 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+135. [work:1743] The Decline of the West — Oswald Spengler | standing=135; reading=135 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+136. [work:4531] The Evolution of Civilizations — Carroll Quigley | standing=136; reading=136 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+137. [work:4532] The Discoverers — Daniel J. Boorstin | standing=137; reading=137 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+138. [work:4533] A History of the World in 100 Objects — Neil MacGregor | standing=138; reading=138 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+139. [work:4534] Connections — James Burke | standing=139; reading=139 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+140. [work:4535] Ideas: A History of Thought and Invention, from Fire to Freud — Peter Watson | standing=140; reading=140 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+141. [work:2627] Salt: A World History — Mark Kurlansky | standing=141; reading=141 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+142. [work:4536] A History of the World in 6 Glasses — Tom Standage | standing=142; reading=142 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+143. [work:4537] A Splendid Exchange — William J. Bernstein | standing=143; reading=143 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+144. [work:4538] The Box — Marc Levinson | standing=144; reading=144 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+145. [work:4539] Governing the World — Mark Mazower | standing=145; reading=145 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+146. [work:4540] The Climate of History in a Planetary Age — Dipesh Chakrabarty | standing=146; reading=146 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+147. [work:4541] Relocating Modern Science — Kapil Raj | standing=147; reading=147 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+148. [work:4542] The First Globalization: The Eurasian Exchange, 1500–1800 — Geoffrey C. Gunn | standing=148; reading=148 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+149. [work:4543] The World System: Five Hundred Years or Five Thousand? — Andre Gunder Frank; Barry K. Gills | standing=149; reading=149 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+150. [work:4544] Toward a New World History — Masashi Haneda | standing=150; reading=150 | sources: HISTORY-WORLD-001, HISTORY-WORLD-002, HISTORY-WORLD-003, HISTORY-WORLD-004, HISTORY-WORLD-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[HISTORY-WORLD-001] [English / expert recommendations] Five Books — World History Books
+https://fivebooks.com/category/history/world-history-books/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1be7771106393d89bbe09d23
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-002] [English / expert recommendations] Five Books — Best History Books
+https://fivebooks.com/best-books/history-best-fivebooks
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8d1b99348d34975f5581f18f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-003] [English / expert recommendations] Five Books — World History Books (history-books path)
+https://fivebooks.com/category/history-books/world-history-books/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:79eefbf10468a10ebb1508a9
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-004] [English / expert recommendations] Five Books — History Books category
+https://fivebooks.com/category/history-books/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9c3be4409747a27c47a689e6
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-005] [English / expert interview] Five Books — Felipe Fernández-Armesto on Global History
+https://fivebooks.com/best-books/global-history-felipe-fernandez-armesto/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b0a218f56e0d12e06e242fd3
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-006] [English / expert interview] Five Books — Maxine Berg on Global History
+https://fivebooks.com/best-books/global-history-maxine-berg/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e1d9a6373902192f1eac694f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-007] [Reader list / English] LibraryThing — World list
+https://www.librarything.com/list/47456/all/World
+Family: reader_community | Publisher: www.librarything.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:68301d6846874123c82bc87c
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-008] [Reader tagging / English] LibraryThing — global or world history tag
+https://www.librarything.com/tag/global%20or%20world%20history
+Family: reader_community | Publisher: www.librarything.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:930d1e22ba6436356040c386
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-009] [Reader/catalogue] LibraryThing — California World History Library
+https://www.librarything.com/nseries/33551/California-World-History-Library
+Family: reader_community | Publisher: www.librarything.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3833e69b962cfb0e241be5ed
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-010] [Reader/catalogue] LibraryThing — Kindle World History tag
+https://www.librarything.com/tag/Kindle%20World%20History
+Family: reader_community | Publisher: www.librarything.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:64fdb500e069f6a71cf036e9
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-011] [University syllabus] Warwick — Doing Global History
+https://warwick.ac.uk/fac/arts/history/students/ma_studies/modules/hi9b2/
+Family: academic_or_institutional | Publisher: warwick.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:60cef1e811a3998c59fc97c9
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-012] [University syllabus] Purdue — Global History 105, Klein, Spring 2026
+https://www.cla.purdue.edu/academic/history/documents/syllabus-spring-documents/2026/2026-spring-syllabus-accessible/history-105-01-klein-p.html
+Family: academic_or_institutional | Publisher: www.cla.purdue.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:377d0389d4095b47df70427a
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-013] [University syllabus] Purdue — Global History 105, Bhattacharya, Spring 2026
+https://www.cla.purdue.edu/academic/history/documents/syllabus-spring-documents/2026/2026-spring-syllabus-accessible/history-105-bhattacharya.html
+Family: academic_or_institutional | Publisher: www.cla.purdue.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9e206cf2794b604a8fc3efb5
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-014] [University course] Berkeley — Global History, Fall 2026
+https://classes.berkeley.edu/content/2026-fall-history-1-001-lec-001
+Family: academic_or_institutional | Publisher: classes.berkeley.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:209a75ccd573a73dd2289a9e
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-015] [University catalogue] Berkeley — Global History course catalogue
+https://graduate.catalog.berkeley.edu/courses/1543201
+Family: academic_or_institutional | Publisher: graduate.catalog.berkeley.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5822c9105d88c4b5a8abdcbf
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-016] [University curriculum] Berkeley — History undergraduate program
+https://guide.berkeley.edu/undergraduate/degree-programs/history/
+Family: academic_or_institutional | Publisher: guide.berkeley.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d04ae56ff41f2a574886dbe3
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-017] [University curriculum] Berkeley — archived History courses
+https://berkeleyguidearchive.github.io/2024-25/courses/history/
+Family: academic_or_institutional | Publisher: berkeleyguidearchive.github.io | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ff4f87d718f021879987d63e
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-018] [University course] Columbia — The Year 1000
+https://doc.sis.columbia.edu/subj/HIST/UN1942-20261-001/
+Family: academic_or_institutional | Publisher: doc.sis.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ec8ae7f6969c55488d865f2a
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-019] [University curriculum] Columbia — Global Core requirement
+https://bulletin.columbia.edu/columbia-college/core-curriculum/global-core-requirement/
+Family: academic_or_institutional | Publisher: bulletin.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c5e0ba5e3f86dc5d73dd9c52
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-020] [University curriculum] Columbia-LSE MA in International and World History — curriculum
+https://worldhistory.columbia.edu/content/curriculum
+Family: academic_or_institutional | Publisher: worldhistory.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1d0be812446e26835bffc20a
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-021] [University curriculum] Princeton — History area of study
+https://www.princeton.edu/academics/area-of-study/history
+Family: academic_or_institutional | Publisher: www.princeton.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:66fbaa944b584a8cf9eee997
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-022] [University course] LSE — HY461
+https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY461.htm
+Family: academic_or_institutional | Publisher: www.lse.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:83b37540ecc250255698efa0
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-023] [University course] Leiden — Global History
+https://studiegids-archief.leidenuniv.nl/en/courses/129001/global-history
+Family: academic_or_institutional | Publisher: studiegids-archief.leidenuniv.nl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2c365471a8eec43a00369956
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-024] [University curriculum] Stanford — current History courses
+https://history.stanford.edu/academics/courses/current-courses
+Family: academic_or_institutional | Publisher: history.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e83cf75f8652deae8030004c
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-025] [University curriculum] Illinois — Fall 2010 course guide
+https://history.illinois.edu/fall-2010-course-guide
+Family: academic_or_institutional | Publisher: history.illinois.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:151db1bb37bfe7d30c967da7
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-026] [Popular ranking] Shortform — 100 World History Books
+https://www.shortform.com/best-books/genre/best-world-history-books-of-all-time
+Family: editorial_or_specialist | Publisher: www.shortform.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d32f012df1fcdcfc72487c63
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-027] [Reader ranking] Goodreads — Big History
+https://www.goodreads.com/list/show/71817.Big_History_
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1e47557071deb3382ab4c721
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-028] [Reader ranking] Goodreads — Big history books
+https://www.goodreads.com/list/show/233446.Big_history_books
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4f558252d8076d7914d7b19
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-029] [Reader ranking] Goodreads — Historia Global
+https://www.goodreads.com/list/show/412895.Historia_Global
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d4f6ceb7baacdfcc012f9555
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-030] [Reader ranking] Goodreads — World History
+https://www.goodreads.com/list/show/12797.World_History
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:436cac26dbd303a2ae0b44a1
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-031] [Reader ranking] Goodreads — Best History Books
+https://www.goodreads.com/list/show/1362.Best_History_Books_?page=1
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bea3dd2f6c34182f8dc31d96
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-032] [Reader ranking] Goodreads — Good General History Books
+https://www.goodreads.com/list/show/159404.Good_General_History_Books
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1532a49b19b8b9e60558cacc
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-033] [Reader ranking] Goodreads — my world history
+https://www.goodreads.com/list/show/202558.my_world_history
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:406579481c08916a38d1b7c3
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-034] [Reader ranking] Goodreads — Learn About History
+https://www.goodreads.com/list/show/2229.Learn_About_History?tab=all_votes
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4c01f242276e9219f48861f8
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-035] [Reader ranking] Goodreads — Humans: The Bigger Picture
+https://www.goodreads.com/list/show/166404.Humans_The_Bigger_Picture
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4a6b5c521b89f9d2e560e5b1
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-036] [Reader shelf] Goodreads — History of the World shelf
+https://www.goodreads.com/shelf/show/history-of-the-world
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1e011ade22d3c7c49768b764
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-037] [Reader ranking] Goodreads — Best History Books, page 2
+https://www.goodreads.com/list/show/1362.Best_History_Books_?page=2
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0661d2d61b6ab796e6115a12
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-038] [Reader ranking] Goodreads — Big History, page 2
+https://www.goodreads.com/list/show/71817.Big_History_?page=2
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:325df7c9186363ff116edf13
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-039] [Reader ranking] Goodreads — History books to understand the world
+https://www.goodreads.com/list/show/421454.History_books_to_understand_the_world
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:249c71ce9696179b9bcdd6f2
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-040] [Reader ranking] Goodreads — Top Economic History Books
+https://www.goodreads.com/list/show/97858.Top_Economic_History_Books
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3a5ac05a39fffaadb7c7f691
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-041] [Reader ranking] Goodreads — Economic History
+https://www.goodreads.com/list/show/7556.Economic_History
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ac128e795e483b3248038470
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-042] [Book reception] Goodreads — The History of the World, Roberts/Westad
+https://www.goodreads.com/book/show/15856821-the-history-of-the-world
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5143accbd537ccba47d19e55
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-043] [Book reception] Goodreads — The Human Web
+https://www.goodreads.com/book/show/28537554-the-human-web
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6df21b9565475a8822ac7cea
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-044] [Book reception] Goodreads — The Rise of the West
+https://www.goodreads.com/book/show/126353525-rise-of-the-west
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d63f822aab13a1e438256273
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-045] [Book reception] Goodreads — A Study of History
+https://goodreads.com/book/show/50352571-a-study-of-history
+Family: reader_community | Publisher: goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3317c646d587c32e1c8eea8a
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-046] [Book reception] Goodreads — The Mediterranean, vol. I
+https://www.goodreads.com/en/book/show/171362.The_Mediterranean_and_the_Mediterranean_World_in_the_Age_of_Philip_II_Volume_I
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7e6549b708defe8699a8f113
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-047] [Book reception] Goodreads — The Venture of Islam
+https://www.goodreads.com/en/book/show/171586.The_Venture_of_Islam_Vol_1
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f6e52302cbd0ccc9c2826ba6
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-048] [Book reception] Goodreads — Before European Hegemony
+https://goodreads.com/book/show/171369.Before_European_Hegemony_The_World_System_AD_1250_1350
+Family: reader_community | Publisher: goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7abacc8f15850723ed448252
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-049] [Book reception] Goodreads — What Is Global History?
+https://www.goodreads.com/en/book/show/26597309-what-is-global-history
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fbf3f6c47a65fc9ec8fed9f0
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-050] [Book reception] Goodreads — The Eastern Origins of Western Civilisation
+https://www.goodreads.com/en/book/show/131236.The_Eastern_Origins_of_Western_Civilisation
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:331339535516a96a5c4dd23b
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-051] [Book reception] Goodreads — Why Europe Grew Rich and Asia Did Not
+https://www.goodreads.com/book/show/11461427-why-europe-grew-rich-and-asia-did-not
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fb788a396957c1325a0185c0
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-052] [Book reception] Goodreads — Andrew Marr, A History of the World
+https://www.goodreads.com/book/show/15814588-a-history-of-the-world
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:18c2599cd5392993c0b6a80b
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-053] [Book reception] Goodreads — Cynthia Stokes Brown, Big History
+https://www.goodreads.com/book/show/13587085-big-history
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:188a6da2f8a53b8e4f97150a
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-054] [Reddit] Reddit r/HistoryBooks — J.M. Roberts / world history
+https://www.reddit.com/r/HistoryBooks/comments/1ujb4zk/im_basically_new_to_learning_world_history_is_the/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3b705e5f32f036c9aab30e49
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-055] [Reddit] Reddit r/history — condensed history
+https://www.reddit.com/r/history/comments/10w7jkc
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b5411e5e299b627cadbbd94f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-056] [Reddit] Reddit r/AskHistorians — World History Book Recommendations
+https://www.reddit.com/r/AskHistorians/comments/1uv9tu6/world_history_book_recommendations/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d29ac3f01d308e709414bb0b
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-057] [Reddit] Reddit r/nonfictionbookclub — Best book on world history
+https://www.reddit.com/r/nonfictionbookclub/comments/1rss7ot/best_book_on_world_history/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:979d51cf26ab7e4f2a76bd08
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-058] [Reddit] Reddit r/suggestmeabook — history of the world
+https://www.reddit.com/r/suggestmeabook/comments/17s1hd5
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:56e556b0419179159f20e599
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-059] [Reddit] Reddit r/HistoryBooks — beginning to read history
+https://www.reddit.com/r/HistoryBooks/comments/1ree97a/beginning_to_read_history/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d1d0346a2de8b6166d9207ee
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-060] [Reddit] Reddit r/AskHistory — entire world
+https://www.reddit.com/r/AskHistory/comments/wtyur7
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:103a9f7298caef0e9866f78a
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-061] [Reddit] Reddit r/HistoryBooks — history books
+https://www.reddit.com/r/HistoryBooks/comments/1u49k9r/history_books/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2dd527f7348208decfb3c511
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-062] [Reddit] Reddit r/HistoryBooks — history I should know
+https://www.reddit.com/r/HistoryBooks/comments/1q5qoxv/looking_for_books_to_teach_me_the_history_i/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:99e236663a197d3a2a581444
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-063] [Reddit] Reddit r/AskHistory — recommendations
+https://www.reddit.com/r/AskHistory/comments/1f5fmpa
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4a8563abadc19c971566d51
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-064] [Reddit] Reddit r/nonfictionbookclub — general knowledge of history
+https://www.reddit.com/r/nonfictionbookclub/comments/1w0yr6d/what_book_should_i_read_for_general_knowledge_of/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ed6e420bdd80f21399a3ab18
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-065] [Reddit / Philippines] Reddit r/PHBookClub — history books
+https://www.reddit.com/r/PHBookClub/comments/1vnjpef/recommend_history_books/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d596e57ccf2096d0a069847b
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-066] [Forum] History StackExchange — introductory world history book
+https://history.stackexchange.com/questions/9188/good-introductory-world-history-book
+Family: editorial_or_specialist | Publisher: history.stackexchange.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:42b130a2285d270b6c6ac251
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-067] [Forum] Chronicle of the Horse forum — world history recommendations
+https://forum.chronofhorse.com/t/world-history-book-recommendations/469525
+Family: editorial_or_specialist | Publisher: forum.chronofhorse.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1c79ef789422f096e99db799
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-068] [Reddit aggregation] BooksReddit — best history books
+https://booksreddit.com/best/history/
+Family: reader_community | Publisher: booksreddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:343cd9d1385c747764fd76b7
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-069] [Professional award] American Historical Association — Jerry Bentley Prize
+https://www.historians.org/award-grant/jerry-bentley-prize/
+Family: editorial_or_specialist | Publisher: www.historians.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:44edece07df3e6187686ce3c
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-070] [Professional awards] American Historical Association — awards and prizes
+https://www.historians.org/community-careers/awards-grants/awards-prizes/
+Family: editorial_or_specialist | Publisher: www.historians.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:83752b524b6017e2ee7168c8
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-071] [Professional award] American Historical Association — Fairbank Prize
+https://www.historians.org/award-grant/john-k-fairbank-prize/
+Family: editorial_or_specialist | Publisher: www.historians.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:21928d82ef362870758a85f8
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-072] [Professional award] American Historical Association — Prize in European International History
+https://www.historians.org/award-grant/aha-prize-in-european-international-history/
+Family: editorial_or_specialist | Publisher: www.historians.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dcc4e58a9c110e8146659297
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-073] [Professional awards] Berkshire Conference — annual prizes
+https://berksconference.org/annual-prizes/
+Family: editorial_or_specialist | Publisher: berksconference.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2b928fa51f74d15602e14ff7
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-074] [Professional awards] Berkshire Conference — book prize winners
+https://berksconference.org/annual-prizes/book-prize-winners/
+Family: editorial_or_specialist | Publisher: berksconference.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2daf5c4f2e6e0a0f78ae56d9
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-075] [Professional award] Wolfson History Prize — history
+https://www.wolfsonhistoryprize.org.uk/about/history/
+Family: editorial_or_specialist | Publisher: www.wolfsonhistoryprize.org.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eb276151b5966df6b7da8ad6
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-076] [Professional award] Wolfson History Prize — about
+https://www.wolfsonhistoryprize.org.uk/about/
+Family: editorial_or_specialist | Publisher: www.wolfsonhistoryprize.org.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a653b04703ddb8378f9cccfe
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-077] [Professional award] Cundill History Prize — about
+https://www.cundillprize.com/about
+Family: editorial_or_specialist | Publisher: www.cundillprize.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a546bf5110a815818c5a23ce
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-078] [Professional award] Cundill History Prize — home
+https://www.cundillprize.com/
+Family: editorial_or_specialist | Publisher: www.cundillprize.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2a8951b8221e2a2403d688de
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-079] [Professional association] World History Association — committees and awards
+https://www.thewha.org/wha-standing-and-awards-committees
+Family: editorial_or_specialist | Publisher: www.thewha.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7ea28bb6188bc18b6b90ee97
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-080] [Bibliographic orientation] Wikipedia — Bibliography of world history (field)
+https://en.wikipedia.org/wiki/Bibliography_of_world_history_%28field%29
+Family: editorial_or_specialist | Publisher: en.wikipedia.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d3d0e6fbfa8ff26d3185f4c0
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-081] [Academic review] Journal of Asian Studies — review of The Great Divergence
+https://doi.org/10.2307/2700299
+Family: editorial_or_specialist | Publisher: doi.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:72dbb3ae784c3291e5ea77c3
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-082] [Publisher / academic] Oxford Academic — Before European Hegemony
+https://academic.oup.com/book/54378
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:682f5a4966f61d4f5f9cc4a4
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-083] [Academic review] Cambridge — Venture of Islam as world history
+https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/islamic-history-as-world-history-marshall-hodgson-the-venture-of-islam/8FBA23CF513B3C8F953603B0FC9E47B5
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:25f632203e7b6e96b10979ad
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-084] [Academic review] Cambridge — Pomeranz / Great Divergence review essay
+https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/development-or-involution-in-eighteenthcentury-britain-and-china-a-review-of-kenneth-pomeranzs-the-great-divergence-china-europe-and-the-making-of-the-modern-world-economy/8113826986A88670DC1B91C64796E320
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:86a7b7ae4a22574b9787e874
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-085] [Academic review] SAGE — critique of The Great Divergence
+https://journals.sagepub.com/doi/10.1177/0486613403261110
+Family: editorial_or_specialist | Publisher: journals.sagepub.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:de7c00ecb4f667526e3a17e6
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-086] [Review] NYRB — Europe and the People Without History review
+https://www.nybooks.com/articles/1983/06/02/return-of-the-natives/
+Family: editorial_or_specialist | Publisher: www.nybooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:36d0efa99cfe0f86997d9775
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-087] [Academic review] Institute of Historical Research — Bayly, Birth of the Modern World review
+https://archives.history.ac.uk/history-in-focus/Migration/reviews/hall.html
+Family: editorial_or_specialist | Publisher: archives.history.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e0d37663ad0d6c4a41ee8285
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-088] [Academic review] DergiPark — Osterhammel, Transformation of the World review
+https://dergipark.org.tr/en/pub/divan/article/335628
+Family: editorial_or_specialist | Publisher: dergipark.org.tr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4b82f19ad76980a142267bc6
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-089] [Academic review] JSTOR — Ecological Imperialism review
+https://www.jstor.org/stable/4235801
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eba8e284fe981a3844695642
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-090] [Review] Kirkus — Plagues and Peoples
+https://www.kirkusreviews.com/book-reviews/william-h-mcneill/plagues-and-peoples/
+Family: editorial_or_specialist | Publisher: www.kirkusreviews.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cef991b0a6e2730db534105a
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-091] [Academic / book] JSTOR — The Great Divergence book
+https://www.jstor.org/stable/j.ctt7sv80
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ce4fea9ec0ce6ab3dbceda3a
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-092] [Review] NYRB — The Human Web review
+https://www.nybooks.com/articles/2003/10/09/the-whole-world-in-their-hands/
+Family: editorial_or_specialist | Publisher: www.nybooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:15625a6a11b2365f77d42a0f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-093] [Review] Kirkus — The Pursuit of Power
+https://www.kirkusreviews.com/book-reviews/william-h-mcneill/the-pursuit-of-power/
+Family: editorial_or_specialist | Publisher: www.kirkusreviews.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2b052d41bea069a22c2455b8
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-094] [Review] Kirkus — McNeill, A World History
+https://www.kirkusreviews.com/book-reviews/william-h-mcneill/a-world-history/
+Family: editorial_or_specialist | Publisher: www.kirkusreviews.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8f44d392af786a8d0dac71a0
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-095] [Review] Kirkus — Braudel, The Perspective of the World
+https://www.kirkusreviews.com/book-reviews/a/fernand-braudel/the-perspective-of-the-world-civilization-and-c/
+Family: editorial_or_specialist | Publisher: www.kirkusreviews.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7db86cc1e62ba7bd6ce95b99
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-096] [Review] Kirkus — Braudel, The Wheels of Commerce
+https://www.kirkusreviews.com/book-reviews/a/fernand-braudel-2/the-wheels-of-commerce-civilization-and-capital/
+Family: editorial_or_specialist | Publisher: www.kirkusreviews.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:902d86488da0bcf9ff4eea06
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-097] [Review] NYRB — Braudel, The Long March
+https://www.nybooks.com/articles/1984/11/22/the-long-march/
+Family: editorial_or_specialist | Publisher: www.nybooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:49567ef812cd5a19009948f0
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-098] [Review] NYRB — The Pursuit of Power
+https://www.nybooks.com/articles/1983/01/20/command-performances/
+Family: editorial_or_specialist | Publisher: www.nybooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b7d538e3af7c27a2d88040b2
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-099] [Academic review] Cambridge — Why Europe Grew Rich and Asia Did Not review essay
+https://www.cambridge.org/core/journals/international-review-of-social-history/article/why-europe-grew-rich-and-asia-did-not/CF3562A17FF84BB11E378B6EDBC3D45B
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5afd9b5ea7e000b80ca2641b
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-100] [Academic review] Oxford Academic — Why Europe Grew Rich and Asia Did Not review
+https://academic.oup.com/ehr/article-abstract/128/534/1251/436182
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d10322a87713bcf31208d7b7
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-101] [Academic review] ResearchGate / Journal of World History — Parthasarathi review essay
+https://www.researchgate.net/publication/282366708_Challenges_Non-Responses_and_Politics_A_Review_of_Prasannan_Parthasarathi_Why_Europe_Grew_Rich_and_Asia_Did_Not_Global_Economic_Divergence_1600-1850
+Family: editorial_or_specialist | Publisher: www.researchgate.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c7f7a599e3b4392ac7be4d42
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-102] [Academic review] Cambridge Business History Review — Parthasarathi review
+https://www.cambridge.org/core/journals/business-history-review/article/abs/why-europe-grew-rich-and-asia-did-not-global-economic-divergence-16001850-byprasannan-parthasarathi-new-york-cambridge-university-press-2011-xviii-365-pp-illustrations-maps-tables-bibliography-notes-index-cloth-9000-paper-2999-isbn-cloth-9781107000308-paper-9780521168243/B809D2B186D879847397ED744E7EA50C
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:47d24278284f9efd4c8f940f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-103] [Academic review] AHR — What Is Global History? review
+https://academic.oup.com/ahr/article-abstract/122/4/1180/4320247
+Family: editorial_or_specialist | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:514be2270fb2f39fb2eaaaf5
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-104] [Academic review] World History Connected — Maps of Time review
+https://worldhistoryconnected.press.uillinois.edu/2.2/br_betterly.html
+Family: academic_or_institutional | Publisher: worldhistoryconnected.press.uillinois.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d5e5ee29731ec34e6359d0c5
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-105] [Academic review] Oxford JAH — Empire of Cotton review
+https://academic.oup.com/jah/article-abstract/102/3/825/1792048
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:66e80c2595d538ae8d995b86
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-106] [Academic review] Cambridge IRSH — Empire of Cotton review
+https://www.cambridge.org/core/journals/international-review-of-social-history/article/sven-beckert-empire-of-cotton-a-global-history-alfred-a-knopf-new-york2015-xxii-615-pp-ill-3500-paper-1895/6C3AB2CB030C50C1B63441DFC70DCC12
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3b29866d0b230550c9d63b6d
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-107] [Review] Kirkus — Empire of Cotton
+https://www.kirkusreviews.com/book-reviews/sven-beckert/empire-of-cotton/
+Family: editorial_or_specialist | Publisher: www.kirkusreviews.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0ba1d5c8082922403ba82817
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-108] [Academic review] Cambridge IRSH — Transformation of the World review
+https://www.cambridge.org/core/journals/international-review-of-social-history/article/jurgen-osterhammel-the-transformation-of-the-world-a-global-history-of-the-nineteenth-century-translated-by-patrick-camiller-princeton-university-press-princeton-etc-2014xxii-1167-pp-3995/14B566DA5E1C62BA731F340F9A76DEC3
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2cf182d6c483513cd75e540d
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-109] [Academic review] Oxford JAH — Transformation of the World review
+https://academic.oup.com/jah/article-abstract/101/4/1262/825840
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:97062125b5106fc156f72476
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-110] [Academic review] AHR — Transformation of the World featured review
+https://academic.oup.com/ahr/article-abstract/120/4/1440/1755462
+Family: editorial_or_specialist | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a6aee6237eec1cbbd90ba6cc
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-111] [Academic review] International Affairs — Transformation of the World review
+https://academic.oup.com/ia/article-abstract/91/3/627/2326876
+Family: editorial_or_specialist | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:04c7749459601d6c459e0234
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-112] [Academic review] Journal of Social History — Transformation of the World review
+https://academic.oup.com/jsh/article-abstract/50/1/230/2412994
+Family: editorial_or_specialist | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:10272a90b5edf87ebf19c6e3
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-113] [Academic review] AHR — Global Crisis review
+https://academic.oup.com/ahr/article-abstract/120/4/1429/1755449
+Family: editorial_or_specialist | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7cf7af1e36de3b2439afce32
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-114] [Academic review] Cambridge Journal of Global History — After Tamerlane review essay
+https://www.cambridge.org/core/journals/journal-of-global-history/article/abs/reconsidering-the-macronarrative-in-global-history-john-darwins-after-tamerlane-and-the-case-for-comparison/D8548EA762F377CB1C574F94FBB1473A
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9cacfa6e4bdecdaa58564414
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-115] [Academic review] Cambridge CSSH — Europe and the People Without History review article
+https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/abs/are-there-histories-of-peoples-without-europe-a-review-article/940E398D4BCC6435292DCAC9682FF506
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3ed5d01edb9847dfe3cfaa89
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-116] [Academic review] Cambridge CSSH — Before European Hegemony review article
+https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/abulughods-egalitarian-world-order-a-review-article/B9E0463D3B12AC322FD119C07B870B62
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:755dc8fea3e8fcae20e7f9a5
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-117] [Academic review] Cambridge JEH — Before European Hegemony review
+https://www.cambridge.org/core/journals/journal-of-economic-history/article/medieval-and-early-modern-before-european-hegemony-the-world-system-ad-12501350-by-janet-l-lughod-new-york-oxford-university-press-1989-pp-xvi-443-3500/6A3BB80AA157C7AACBAF062EAB87F79D
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ee8594e260b67671b4b21307
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-118] [Academic review] Cambridge JAS — Before European Hegemony review
+https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/before-european-hegemony-the-world-system-ad-12501350-by-janet-l-abulughod-new-york-oxford-university-press-1989-xviii-443-pp-3500/122AB0FB0CAFBF8D52F027AB08525894
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cc57f274125c234dee3db6fb
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-119] [Academic review] Cambridge APSR — Before European Hegemony review
+https://www.cambridge.org/core/journals/american-political-science-review/article/abs/before-european-hegemony-the-world-system-a-d-12501350-by-janet-abulughod-new-york-oxford-university-press-1989-443p-3500/8AA2C140A8AF1AE03DDA93CE63AF4A71
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:08ac069bfb94e6977aecafba
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-120] [Publisher] University of California Press — Europe and the People Without History
+https://www.ucpress.edu/book/9780520268180/europe-and-the-people-without-history
+Family: academic_or_institutional | Publisher: www.ucpress.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:35d470b832ddcf275d8203c2
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-121] [Publisher] University of Chicago Press — The Venture of Islam, vol. 1
+https://press.uchicago.edu/ucp/books/book/chicago/V/bo4127169.html
+Family: academic_or_institutional | Publisher: press.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:98d3dc77a2505789a06ebb88
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-122] [Publisher] University of Chicago Press — The Rise of the West
+https://press.uchicago.edu/ucp/books/book/chicago/R/bo3645507.html
+Family: academic_or_institutional | Publisher: press.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:add3adb6a96c67917fada543
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-123] [Publisher] Cambridge University Press — Ecological Imperialism
+https://www.cambridge.org/core/books/ecological-imperialism/8DDFF91CBE5BE025471C0E7622E16D1C
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5e4987f79d5a967b66979e4b
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-124] [Publisher] University of Chicago Press — Islam and World History
+https://press.uchicago.edu/ucp/books/book/chicago/I/bo29124127.html
+Family: academic_or_institutional | Publisher: press.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:57945831c9b9c4ec74c71ed7
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-125] [Publisher] University of California Press — The Mediterranean
+https://www.ucpress.edu/books/the-mediterranean-and-the-mediterranean-world-in-the-age-of-philip-ii/paper
+Family: academic_or_institutional | Publisher: www.ucpress.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:76cec56cbe654c3b42773030
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-126] [Publisher] University of Chicago Press — The Pursuit of Power
+https://press.uchicago.edu/ucp/books/book/chicago/P/bo5975947.html
+Family: academic_or_institutional | Publisher: press.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:71ccf6a95b39da9ba2232580
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-127] [Publisher] University of California Press — The Modern World-System series
+https://www.ucpress.edu/book-lists/the-modern-world-system
+Family: academic_or_institutional | Publisher: www.ucpress.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9db66a8f16e149031bc669a9
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-128] [Publisher] University of California Press — The Modern World-System I
+https://www.ucpress.edu/books/the-modern-world-system-i/paper
+Family: academic_or_institutional | Publisher: www.ucpress.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0738fb582020c32cce05a082
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-129] [Award/reference] ALA — Plagues and Peoples
+https://www.ala.org/winner/plagues-and-peoples
+Family: editorial_or_specialist | Publisher: www.ala.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6a8c1818b4c98d1abb0f696f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-130] [Library catalogue] WorldCat — Plagues and Peoples
+https://search.worldcat.org/title/Plagues-and-Peoples/oclc/1001616115
+Family: academic_or_institutional | Publisher: search.worldcat.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1af98ad233b69d2c6fc4274c
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-131] [Review aggregation] The World Economy — reviews of Maddison
+https://www.theworldeconomy.org/reviews/reviews.htm
+Family: editorial_or_specialist | Publisher: www.theworldeconomy.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2a998193ae41a10b4422ab8c
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-132] [Academic review] Centre for the Study of Living Standards — Maddison review
+https://csls.ca/ipm-archive/issue-3/review-article-on-the-world-economy-a-millennial-perspective-by-angus-maddison/
+Family: editorial_or_specialist | Publisher: csls.ca | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d7be9fa333ba87abb09a26ec
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-133] [China / reader reception] Douban — McNeill, A World History
+https://book.douban.com/subject/20389611/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7ed6c7fc508b1049e2987736
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-134] [China / reader reception] Douban — World History (Hayes et al.)
+https://book.douban.com/subject/6049323/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:75fa50eb659b4e4189e8e0e8
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-135] [China / lists] Douban — recommended Global History lists
+https://book.douban.com/subject/25725170/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d153cd2b3ebe0d4b4fc6e7da
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-136] [China / lists] Douban — Global History recommendation lists
+https://book.douban.com/subject/34843511/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c74b8eac46fe28a226e582cd
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-137] [China / reader list] Douban — 历史书单
+https://www.douban.com/doulist/160511870/
+Family: reader_community | Publisher: www.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5ae7b4b8366e5092f10ab6a7
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-138] [China / reader reception] Douban — Twentieth Century and Beyond: A Global History
+https://book.douban.com/subject/5402743/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d473e4d4a86ca4d6661c9253
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-139] [China / lists] Douban — Modern World History recommendation lists
+https://book.douban.com/subject/3555039/doulists?start=0
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:50e6492b37c58b8495e1ef75
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-140] [China / reader reception] Douban — Sebastian Conrad, What Is Global History?
+https://book.douban.com/subject/27625548/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:35df836e830104a435403962
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-141] [China / reader reception] Douban — Global History / Samuel Goodrich edition
+https://book.douban.com/subject/36403469/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b082efca6982ff49d64a06ee
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-142] [China / editorial list] Sohu — global-history classic-book list
+https://www.sohu.com/a/231471364_617755
+Family: editorial_or_specialist | Publisher: www.sohu.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:80f2141d40fb24f64a0d8512
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-143] [China / academic book] Douban — 全球史概论, Liu Wenming
+https://book.douban.com/subject/35659985/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:903439a34996014df3eb5627
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-144] [China / reader list] Douban — world-history reader list
+https://www.douban.com/doulist/19793224/
+Family: reader_community | Publisher: www.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8901c5f912e9a99163633c97
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-145] [China / lists] Douban — The Story of Civilization lists
+https://book.douban.com/subject/1001356/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b788145511999e64b024f684
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-146] [China / lists] Douban — Oxford Handbook of World History lists
+https://book.douban.com/subject/36432206/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:227b03ae3d7d7de9d1013475
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-147] [China / lists] Douban — 世界史的構造 lists
+https://book.douban.com/subject/21337397/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ff9b8f14d58a806963a8755f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-148] [China / reader reception] Douban — The Silk Roads
+https://book.douban.com/subject/26853835/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e68395e3d4855cc10975f98d
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-149] [China / reader reception] Douban — Sapiens (2018 edition)
+https://book.douban.com/subject/30257744/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:59ff0de31e75110ba06f9b32
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-150] [China / reader reception] Douban — Sapiens (2017 edition)
+https://book.douban.com/subject/36077941/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4739ca4c78c62db59131aa6f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-151] [China / reader reception] Douban — Empire of Cotton
+https://book.douban.com/subject/30411849/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:546cd47a4b4e9b910f1987f9
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-152] [China / reader reception] Douban — The Great Transformation (Polanyi)
+https://book.douban.com/subject/2079931/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5376a47bd23e90a74067f805
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-153] [China / reader reception] Douban — H. G. Wells, A Short History of the World
+https://book.douban.com/subject/1144504/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d70e997f7c133fb5699c2090
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-154] [Japan / reader platform] Bookmeter — World History Institute authors
+https://bookmeter.com/authors/3076126
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0bb4b3fc6ceaac1202686527
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-155] [Japan / editorial] Diamond Online — what world-history books to read
+https://diamond.jp/articles/-/394043
+Family: editorial_or_specialist | Publisher: diamond.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:80f9e5ad8d81a21db753fa71
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-156] [Japan / bookseller list] Honto — adult world-history books
+https://honto.jp/booktree/detail_00002708.html
+Family: editorial_or_specialist | Publisher: honto.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eca5cba0e9262a1a4ceba462
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-157] [Japan / reader platform] Bookmeter — 世界史研究所
+https://bookmeter.com/authors/3615460
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:093c6867dd4b2d42c2e1c74b
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-158] [Japan / bookseller list] Honto — contemporary society and world history
+https://honto.jp/booktree/detail_00006568.html
+Family: editorial_or_specialist | Publisher: honto.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3b197ce59893e4dd9afe1c9f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-159] [Korea / bookseller] Aladin — history category
+https://www.aladin.co.kr/shop/wbrowse.aspx?BrowseTarget=List&CID=81
+Family: editorial_or_specialist | Publisher: www.aladin.co.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:39728948f33dbf1ef7aa8882
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-160] [Korea / recommendations] Aladin — World History Association recommendations
+https://www.aladin.co.kr/author/wauthor_recommend.aspx?AuthorSearch=%405774636
+Family: editorial_or_specialist | Publisher: www.aladin.co.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6eb9d0b2673fc830a13ecda0
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-161] [Japan / reader platform] Bookmeter — Masashi Haneda
+https://bookmeter.com/authors/25828
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:864f0be81c652311c9974865
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-162] [Japan / editorial] Diamond Online — world-history reading
+https://diamond.jp/articles/-/321476
+Family: editorial_or_specialist | Publisher: diamond.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c483fcc7e330a93e94281bb4
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-163] [Japan / reader platform] Booklog — world-history author page
+https://booklog.jp/author/%E9%A0%88%E8%97%A4%E8%89%AF
+Family: editorial_or_specialist | Publisher: booklog.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d378e6700e3bc822723d3a44
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-164] [Japan / bookseller list] Honto — global-thinking history books
+https://honto.jp/booktree/detail_00002971.html
+Family: editorial_or_specialist | Publisher: honto.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c5d5003b1b100ac35abec206
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-165] [Japan / editorial] Diamond Online — learning world history
+https://diamond.jp/articles/-/394528
+Family: editorial_or_specialist | Publisher: diamond.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2907db0171fd24f877ad8f85
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-166] [Korea / reader/bookseller] Aladin — Larry Gonick recommendation page
+https://www.aladin.co.kr/author/wauthor_recommend.aspx?AuthorSearch=%40860139
+Family: editorial_or_specialist | Publisher: www.aladin.co.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0db28d44d3195fdc3370d46c
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-167] [Korea / bookseller] Aladin — historical guide list
+https://www.aladin.co.kr/shop/wbrowse.aspx?CID=140393
+Family: editorial_or_specialist | Publisher: www.aladin.co.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c44c85df2ed1559833ef5d84
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-168] [Korea / bookseller] Aladin — history category
+https://www.aladin.co.kr/shop/wbrowse.aspx?BrowseTarget=List&CID=74&SortOrder=2
+Family: editorial_or_specialist | Publisher: www.aladin.co.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:100f9dcd08608d5a4e45e8ac
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-169] [Korea / reader reviews] YES24 — world-history review search
+https://www.yes24.com/product/search?domain=BLOG_REVIEW&query=%25EC%2589%25BD%25EA%25B2%258C%2520%25EC%259D%25BD%25EB%258A%2594%2520%25EC%2584%25B8%25EA%25B3%2584%25EC%2582%25AC
+Family: editorial_or_specialist | Publisher: www.yes24.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:926ca2c47869c74fd38d341c
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-170] [Japan / bookseller] Kinokuniya — world history category
+https://www.kinokuniya.co.jp/f/dsd-101001017025--
+Family: editorial_or_specialist | Publisher: www.kinokuniya.co.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9aa6a13c7bbde446e1b686e2
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-171] [Korea / bookseller] Aladin — new English history books
+https://www.aladin.co.kr/shop/common/wnew.aspx?BranchType=1&CID=48813&NewType=ForeignEnglishNew
+Family: editorial_or_specialist | Publisher: www.aladin.co.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5a9e2cab59cbd3953f844878
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-172] [France / reader list] SensCritique — Histoire du monde
+https://www.senscritique.com/liste/histoire_du_monde/2773655
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4de4f288eb1043a4d4c13f82
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-173] [France / editorial list] 5livres — meilleurs livres sur l'histoire du monde
+https://5livres.fr/meilleurs-livres-histoire-monde/
+Family: editorial_or_specialist | Publisher: 5livres.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b1f9e58b6032f4b270540920
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-174] [France / specialist blog] Histoire Globale — teaching global history
+https://blogs.histoireglobale.com/category/enseigner-lhistoire-globale
+Family: editorial_or_specialist | Publisher: blogs.histoireglobale.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d9a7e83f38c92e748b3d7370
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-175] [France / specialist blog] Histoire Globale — book reviews
+https://blogs.histoireglobale.com/category/livres
+Family: editorial_or_specialist | Publisher: blogs.histoireglobale.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:43c556fcd05cf30240cd747c
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-176] [France / reader list] SensCritique — Histoire mondiale
+https://www.senscritique.com/liste/histoire_mondiale/3080120
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c405814fc676e9195f78364e
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-177] [France / reader list] SensCritique — Histoire globale / totale / mondiale
+https://www.senscritique.com/liste/histoire_globale_totale_mondiale/1659693
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0d07b7b9d1639541d0df7ea2
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-178] [France / Reddit] Reddit r/Histoire — recommendation de livres d'histoire
+https://www.reddit.com/r/Histoire/comments/1vp2gvv/recommandation_de_livres_dhistoire/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:657cb84ef03cf166dd8c3b30
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-179] [France / Reddit] Reddit r/Histoire — quel livre pour étudier l'histoire du monde
+https://www.reddit.com/r/Histoire/comments/1uaq5jj/quel_livre_pour_%C3%A9tudier_lhistoire_du_monde/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d4f7cf9b3c0c53f69db5d0cd
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-180] [France / Reddit] Reddit r/Histoire — sources pour apprendre l'histoire mondiale
+https://www.reddit.com/r/Histoire/comments/1quqtbm/sources_pour_bien_apprendre_lhistoire_mondiale/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6a810d4fec954ba7c26cefd0
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-181] [Germany / university bibliography] LMU Munich — history reading recommendations PDF
+https://www.fnz.geschichte.uni-muenchen.de/personen/professoren/hengerer/lektuereempfehlungengeschichte.pdf
+Family: academic_or_institutional | Publisher: www.fnz.geschichte.uni-muenchen.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7c22e2975b467324dd97778a
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-182] [Germany / specialist] Globalgeschichte.de — publications
+https://www.global-geschichte.de/publikationen/
+Family: editorial_or_specialist | Publisher: www.global-geschichte.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a3213f15a13d9f0b4a101dc6
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-183] [Switzerland / university bibliography] University of Basel — global-history bibliography
+https://dg.philhist.unibas.ch/de/studium/werkzeugkasten-geschichte/literatur-und-hilfsmittel/thematischer-zugang/weitere-themen/
+Family: academic_or_institutional | Publisher: dg.philhist.unibas.ch | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:16c8a94e0b3116b909ce9ab7
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-184] [Germany / bookseller] Dussmann — Globalgeschichte
+https://www.kulturkaufhaus.de/de/fachbuecher/geschichtswissenschaft/globalgeschichte
+Family: editorial_or_specialist | Publisher: www.kulturkaufhaus.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:28ae5905c74416c7e96b9716
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-185] [France / specialist] Histoire Mondiale — Laurent Testot
+https://www.histoire-mondiale.com/
+Family: editorial_or_specialist | Publisher: www.histoire-mondiale.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eade6856768c82c231927628
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-186] [Germany / book discovery] Bücherfinden — globale Geschichte
+https://xn--bcherfinden-thb.de/buecher/thema/globale%2Bgeschichte
+Family: editorial_or_specialist | Publisher: xn--bcherfinden-thb.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:724b65baa582f316021d2362
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-187] [France / university course] Université de Rouen — Histoire globale
+https://histoireunivrouen.fr/licence/licence-3e-annee-l3/cours-licence-3/histoire-globale/
+Family: academic_or_institutional | Publisher: histoireunivrouen.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d4f716222017cbb3c9eb16bb
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-188] [Francophone Canada / university syllabus] UQAM — Global History course PDF
+https://histoire.uqam.ca/wp-content/uploads/sites/21/HIS4850-40_H-2025_PDC.pdf
+Family: academic_or_institutional | Publisher: histoire.uqam.ca | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:67240435fa09660faf061846
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-189] [Italy / bibliographic orientation] Italian Wikipedia — Storia globale
+https://it.wikipedia.org/wiki/Storia_globale
+Family: editorial_or_specialist | Publisher: it.wikipedia.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:11aeb607b4659bdcdee6d2d2
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-190] [Spanish-language ranking] ReadThisTwice — mejores libros de historia mundial
+https://www.readthistwice.com/es/lists/best-world-history-books
+Family: editorial_or_specialist | Publisher: www.readthistwice.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2679b7526c65bbeb15926683
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-191] [Spanish-language ranking] Most Recommended Books — historia mundial
+https://www.mostrecommendedbooks.com/es/listas/mejores-libros-de-historia-mundial
+Family: editorial_or_specialist | Publisher: www.mostrecommendedbooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f08c02ae755380906979d8e0
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-192] [Italy / bookseller ranking] Libreria Universitaria — storia generale e mondiale top books
+https://www.libreriauniversitaria.it/libri-storia/storia-generale-e-mondiale-top-of-the-year.htm
+Family: editorial_or_specialist | Publisher: www.libreriauniversitaria.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c865f98d90eafa990af71483
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-193] [Italy / university syllabus] University of Bologna — history of globalization, 2026
+https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2026/514766
+Family: academic_or_institutional | Publisher: www.unibo.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:81de6f15f154834bfa0beb4e
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-194] [Italy / university syllabus] Roma Tre — Global History syllabus
+https://www.uniroma3.it/insegnamento-erogato/dipartimento-di-studi-umanistici/l/2024-2025/storia-territorio-e-societa-globale-0580706204200001/266bbe6c-801c-4501-9ad6-a0d4db1c0bd5--20710671/
+Family: academic_or_institutional | Publisher: www.uniroma3.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7384561af66f3f24785db3fe
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-195] [Italy / publisher] Carocci — Sebastian Conrad, Storia globale
+https://www.carocci.it/prodotto/storia-globale
+Family: editorial_or_specialist | Publisher: www.carocci.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7d809de035339daeec765427
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-196] [Italy / popular list] Sobrief — world history
+https://sobrief.com/it/genres/world-history
+Family: editorial_or_specialist | Publisher: sobrief.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0339e510f9f3216a991bf324
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-197] [Italy / bookseller] IBS — storia generale e mondiale
+https://www.ibs.it/libri/storia-archeologia/storia-generale-mondiale-c3984
+Family: editorial_or_specialist | Publisher: www.ibs.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9afadbc740c2f1b0a0ffeb46
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-198] [Poland / bookseller editorial] Empik — najlepsze książki historyczne
+https://www.empik.com/pasje/najlepsze-ksiazki-historyczne%2C137264%2Ca
+Family: editorial_or_specialist | Publisher: www.empik.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cfe42b93f25bd050da8f53c6
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-199] [Italy / university syllabus] University of Bologna — global history, environment and society, 2025
+https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/527781
+Family: academic_or_institutional | Publisher: www.unibo.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6e3e7c29c6b581c1006c702c
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-200] [Italy / Reddit] Reddit r/Libri — libro di storia recommendations
+https://www.reddit.com/r/Libri/comments/1v2lnc5/mi_consigliate_un_libro_di_storia/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:336db94c5cac929e4383eaf3
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-201] [Poland / Reddit] Reddit r/ksiazki — history textbook discussion
+https://www.reddit.com/r/ksiazki/comments/1ugxesf/podr%C4%99cznik_do_%C5%9Bredniowiecza/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7f82d2a22be239cf9c03c618
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-202] [Poland / Reddit] Reddit r/ksiazki — ancient/general history discussion
+https://www.reddit.com/r/ksiazki/comments/1q17n70/czy_polecacie/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:65a506e62b6011315bcfa2b6
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-203] [India / university bibliography] University of Delhi — History programme / World History suggestions PDF
+https://www.aurobindoe.du.ac.in/uploads/links/05022020-BA%20History%20Hons%20_%20PROGRAMMEPROGRAMME%20IN%20HISTORY%20--%202nd%20SEMESTER%20PAPERS-1January%202020.pdf
+Family: academic_or_institutional | Publisher: www.aurobindoe.du.ac.in | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3f435b8ecfa64ca984b1b0ff
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-204] [India / exam/history reading] Insights IAS — booklists
+https://www.insightsonindia.com/booklists/
+Family: editorial_or_specialist | Publisher: www.insightsonindia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:414b30279886b99f6628c906
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-205] [India / university syllabus] University of Hyderabad — MA History syllabus
+https://socialsciences.uohyd.ac.in/history/ma-history-syllabus/
+Family: academic_or_institutional | Publisher: socialsciences.uohyd.ac.in | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:307907089f13909a4751542f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-206] [India / university syllabus] UCC College — MA History syllabus 2025
+https://history.uccollege.edu.in/wp-content/uploads/sites/4/2025/05/History-MA-Syllabus-2025-New.pdf
+Family: academic_or_institutional | Publisher: history.uccollege.edu.in | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:56e8f905303b4ea917f90f06
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-207] [University reading list] Cambridge — World History Since 1914 reading list PDF
+https://www.hist.cam.ac.uk/sites/default/files/2021-10/Paper_23_Reading_List_2021-22.pdf
+Family: academic_or_institutional | Publisher: www.hist.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6d1b1db02ea2378db117942a
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-208] [Reddit] Reddit r/HistoryBooks — collection including Indian/global history
+https://www.reddit.com/r/HistoryBooks/comments/1tp17my/my_current_collection/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:818c1dec2a6c4840394b651b
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-209] [Reddit / India] Reddit r/Recommend_A_Book — Indian history and politics
+https://www.reddit.com/r/Recommend_A_Book/comments/1upqi6y/indian_history_and_politics/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e35fa433efd538572c64c6d1
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-210] [India / Reddit] Reddit r/upsc_discussions — History Optional list
+https://www.reddit.com/r/upsc_discussions/comments/1lv9000
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cb3d962c2e0dd697827159a4
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-211] [Reddit] Reddit r/AskHistorians — global history request
+https://www.reddit.com/r/AskHistorians/comments/1ejvfbh
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9e0b27afd3d9aea0803fe717
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-212] [India / Reddit] Reddit r/IndianHistory — master book list, global/European powers
+https://www.reddit.com/r/IndianHistory/comments/1nwyna8/partvi_of_the_indian_history_master_book_list/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7ac4d233794269696c9696bb
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-213] [Reddit] Reddit r/suggestmeabook — world history
+https://www.reddit.com/r/suggestmeabook/comments/zz8iz6/suggest_me_a_book_on_world_history/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2defef06acd0082fa523991f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-214] [India / Reddit] Reddit r/IndianHistory — reading the entire history of the world
+https://www.reddit.com/r/IndianHistory/comments/1vfs9oj/im_going_to_read_the_entire_history_of_the_world/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4781ae5cd9b3f003dba17d7f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-215] [India / Reddit] Reddit r/IndianHistory — unbiased sources
+https://www.reddit.com/r/IndianHistory/comments/1o1wj9y
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:208bad52257a58cb843269fc
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-216] [India / Reddit] Reddit r/Indianbooks — global independence/decolonization
+https://www.reddit.com/r/Indianbooks/comments/1o1xcuw
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e87999aaf3c7cca64808c408
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-217] [Reading list] Westborough Center — India reading list / global trade
+https://www.westboroughcenter.org/westborough-history-connections/westborough-india-introduction/
+Family: editorial_or_specialist | Publisher: www.westboroughcenter.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a00fa9a6ff96ca6b3d7be93f
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-218] [Argentina / university syllabus] University of Buenos Aires — historiography syllabus incl. global history
+https://historia.filo.uba.ar/sites/historia.filo.uba.ar/files/0433%20-%20TEOR%C3%8DA%20E%20HISTORIA%20DE%20LA%20HISTORIOGRAF%C3%8DA%20-%20CATTARUZZA%20-%201C%202024.pdf
+Family: academic_or_institutional | Publisher: historia.filo.uba.ar | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:63451288c38d7eeff9dba426
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-219] [Spain / university syllabus] Universidad de Cantabria — master's bibliography, globalization and history
+https://web.unican.es/estudios/Documents/Guias/2025/es/1396.pdf
+Family: academic_or_institutional | Publisher: web.unican.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:268b061d31582b277ce65b34
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-220] [Brazil / historiography] SciELO Brasil — História global: um empreendimento intelectual em curso
+https://www.scielo.br/j/tem/a/5Qh7XtLX9H9Q4hxrVWMPmhG/?format=html&lang=pt
+Family: editorial_or_specialist | Publisher: www.scielo.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:43e34c961cb521f7204f017b
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-221] [Mexico / university bibliography] UNAM CCH — Primera Guerra Mundial bibliography
+https://e1.portalacademico.cch.unam.mx/alumno/historiauniversal2/unidad1/primeraGuerraMundial/bibliografia
+Family: academic_or_institutional | Publisher: e1.portalacademico.cch.unam.mx | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:34625e6aacb32a6eaf59d0bb
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-222] [Mexico / university bibliography] UNAM CCH — expansion/colonialism bibliography
+https://e1.portalacademico.cch.unam.mx/alumno/historiauniversal2/unidad1/expansioncolonialsigloXIX/bibliografia
+Family: academic_or_institutional | Publisher: e1.portalacademico.cch.unam.mx | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6573946e2f0bc61b7eda0044
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-223] [Mexico / university bibliography] UNAM CCH — Historia Universal bibliography
+https://e1.portalacademico.cch.unam.mx/alumno/historiauniversal1/unidad1/categoriasConceptos/bibliografia
+Family: academic_or_institutional | Publisher: e1.portalacademico.cch.unam.mx | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1d7a79abf65dee3ed26f5860
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-224] [Spanish-language Reddit] Reddit r/libros — libros para aprender historia general
+https://www.reddit.com/r/libros/comments/17vfbob
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:332e2c5d99b8c8c430c614ed
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-225] [Spanish-language Reddit] Reddit r/libros — historia general
+https://www.reddit.com/r/libros/comments/116unl1
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9cd85829f2d06d5d106edb5d
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-226] [Spanish-language Reddit] Reddit r/libros — historia o mitología recommendations
+https://www.reddit.com/r/libros/comments/1czadmo
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e68eafec9233be6c8d7a65e0
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-227] [Spanish-language Reddit] Reddit r/libros — imperialismo, capitalismo, marxismo y descolonización
+https://www.reddit.com/r/libros/comments/1lhqumk
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5d863f85e3bde501246b0a2d
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[HISTORY-WORLD-228] [Portuguese-language Reddit] Reddit r/Livros — abrir horizontes / história mundial
+https://www.reddit.com/r/Livros/comments/1eculd0
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e82fc4a89e705811490e5684
+Saved evidence: Reported consultation in the owner-supplied synthesis; the detailed source register is retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: history-books-world. Included 150 current entries and 228 current source records. Carry out the update and return the enhanced ranking with the complete source register.

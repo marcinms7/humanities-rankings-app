@@ -1,4 +1,5 @@
 import os
+import re
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parents[2]
@@ -14,6 +15,7 @@ INSTALLED_APPS = ['django.contrib.admin', 'django.contrib.auth', 'django.contrib
 MIDDLEWARE = ['django.middleware.security.SecurityMiddleware', 'whitenoise.middleware.WhiteNoiseMiddleware',
               'django.contrib.sessions.middleware.SessionMiddleware', 'django.middleware.common.CommonMiddleware',
               'django.middleware.csrf.CsrfViewMiddleware', 'django.contrib.auth.middleware.AuthenticationMiddleware',
+              'backend.core.telemetry.OperationalTelemetryMiddleware',
               'django.contrib.messages.middleware.MessageMiddleware', 'django.middleware.clickjacking.XFrameOptionsMiddleware']
 ROOT_URLCONF = 'backend.config.urls'
 WSGI_APPLICATION = 'backend.config.wsgi.application'
@@ -39,10 +41,26 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 STATICFILES_DIRS = [BASE_DIR / 'backend/static']
+STORAGES = {
+    'default': {'BACKEND': 'django.core.files.storage.FileSystemStorage'},
+    # Vite already fingerprints bundle names; preserve them and add gzip files.
+    'staticfiles': {'BACKEND': 'whitenoise.storage.CompressedStaticFilesStorage'},
+}
+
+
+def immutable_static_file(path, url):
+    return bool(re.search(r'/app/assets/[^/]+-[A-Za-z0-9_-]{8,}\.(?:js|css)$', url))
+
+
+WHITENOISE_IMMUTABLE_FILE_TEST = immutable_static_file
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 MEDIA_ROOT = Path(os.getenv('MEDIA_ROOT', str(MEDIA_ROOT)))
 MEDIA_URL = os.getenv('MEDIA_URL', MEDIA_URL)
+if os.getenv('CATALOG_SEARCH_INDEX'):
+    CATALOG_SEARCH_INDEX = Path(os.environ['CATALOG_SEARCH_INDEX'])
+if os.getenv('CATALOG_SEARCH_ALIASES'):
+    CATALOG_SEARCH_ALIASES = Path(os.environ['CATALOG_SEARCH_ALIASES'])
 PUBLIC_REGISTRATION = os.getenv('PUBLIC_REGISTRATION', '0') == '1'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = os.getenv('EMAIL_HOST', '')

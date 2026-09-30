@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-09-27-owner-docx-updates",
+  "status": "imported",
+  "target": "philosophy-books-all-time",
+  "files": [
+    {
+      "filename": "Philosophy_Books_Revised_Rankings_and_Sources.docx",
+      "target": "philosophy-books-all-time",
+      "sha256": "1597c4dbc3aee5f5181310f63a801f32894b5f472f4144a03b0a8ec560603aa4",
+      "directory": "research/incoming/philosophy-books-all-time/2026-09-27-owner-docx-updates",
+      "blocks": 6704,
+      "tables": 6,
+      "chars": 984106
+    }
+  ],
+  "database_receipt": "research/_runs/2026-09-27/owner-docx-updates/philosophy-books-all-time-import-receipt.json",
+  "preserved_all_existing_sources": true,
+  "source_by_source_web_verification_performed": false
+}

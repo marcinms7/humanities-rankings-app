@@ -1,0 +1,24 @@
+{
+  "baseline": {
+    "default_covers": 6064,
+    "default_page_counts": 4183,
+    "portraits": 34
+  },
+  "current": {
+    "default_covers": 6272,
+    "default_page_counts": 4450,
+    "portraits": 120
+  },
+  "net_added": {
+    "default_covers": 208,
+    "default_page_counts": 267,
+    "portraits": 86
+  },
+  "newly_repaired_identities": 396,
+  "historical_order_refs_reconciled": 30,
+  "directly_checked_edition_records": 4,
+  "provider_edition_candidates_archived_pending_confirmation": 96,
+  "remaining_missing_default_covers": 2219,
+  "remaining_missing_portraits": 5565,
+  "workers": "Stopped at saved checkpoints; portrait provider cooldown recorded."
+}

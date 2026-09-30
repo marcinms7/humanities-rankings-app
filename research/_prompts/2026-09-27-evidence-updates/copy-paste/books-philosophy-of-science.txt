@@ -1,0 +1,867 @@
+UPDATE REQUEST: Philosophy of science · Works
+Target ID: books-philosophy-of-science
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 50; current source records: 120 (includes unverified leads).
+Desired scope: A broad roughly 50-work philosophy of science ranking across books and landmark essays, with clear treatment of general and special sciences.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+50 entries and 120 eligible reported consultations all marked summary_only; all entries repeat the same five references.
+1. Audit source content and map direct discussions, reviews, histories and recommendations to individual books or essays.
+2. Distinguish philosophy of science from general science popularization and history of science while justifying borderline landmarks.
+3. Review general methodological questions and the philosophy of particular sciences without allowing one easily sourced subfield to dominate by default.
+4. Separate a work's historical influence from contemporary acceptance and explain major scholarly disagreements.
+5. Check essay/collection boundaries, revised editions and important omissions before proposing a revised ordering.
+
+CURRENT SCOPE
+{"forms": ["book", "essay"], "topic": "philosophy-of-science"}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:230] The Structure of Scientific Revolutions — Thomas S. Kuhn | standing=1; reading=1 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+2. [work:3800] The Logic of Scientific Discovery — Karl R. Popper | standing=2; reading=2 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+3. [work:3801] The Scientific Image — Bas C. van Fraassen | standing=3; reading=3 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+4. [work:3802] The Aim and Structure of Physical Theory — Pierre Duhem | standing=4; reading=4 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+5. [work:3803] Aspects of Scientific Explanation and Other Essays in the Philosophy of Science — Carl G. Hempel | standing=5; reading=5 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+6. [work:3804] Against Method — Paul Feyerabend | standing=6; reading=6 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+7. [work:3805] The Methodology of Scientific Research Programmes — Imre Lakatos | standing=7; reading=7 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+8. [work:3806] Representing and Intervening — Ian Hacking | standing=8; reading=8 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+9. [work:3807] Science and Hypothesis — Henri Poincaré | standing=9; reading=9 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+10. [work:448] Novum Organum — Francis Bacon | standing=10; reading=10 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+11. [work:3808] Posterior Analytics — Aristotle | standing=11; reading=11 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+12. [work:13] An Enquiry concerning Human Understanding — David Hume | standing=12; reading=12 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+13. [work:3809] The Structure of Science — Ernest Nagel | standing=13; reading=13 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+14. [work:3810] The Philosophy of the Inductive Sciences — William Whewell | standing=14; reading=14 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+15. [work:3811] Experience and Prediction — Hans Reichenbach | standing=15; reading=15 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+16. [work:3812] Testability and Meaning — Rudolf Carnap | standing=16; reading=16 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+17. [work:3813] The Science of Mechanics — Ernst Mach | standing=17; reading=17 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+18. [work:3814] A System of Logic — John Stuart Mill | standing=18; reading=18 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+19. [work:3815] Genesis and Development of a Scientific Fact — Ludwik Fleck | standing=19; reading=19 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+20. [work:3816] Patterns of Discovery — Norwood Russell Hanson | standing=20; reading=20 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+21. [work:3817] Fact, Fiction, and Forecast — Nelson Goodman | standing=21; reading=21 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+22. [work:3818] Conjectures and Refutations — Karl R. Popper | standing=22; reading=22 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+23. [work:3819] Progress and Its Problems — Larry Laudan | standing=23; reading=23 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+24. [work:3820] How the Laws of Physics Lie — Nancy Cartwright | standing=24; reading=24 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+25. [work:3821] Scientific Explanation and the Causal Structure of the World — Wesley C. Salmon | standing=25; reading=25 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+26. [work:3822] The Advancement of Science — Philip Kitcher | standing=26; reading=26 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+27. [work:3823] Science as Social Knowledge — Helen E. Longino | standing=27; reading=27 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+28. [work:3824] Metaphysical Foundations of Natural Science — Immanuel Kant | standing=28; reading=28 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+29. [work:449] Discourse on the Method — René Descartes | standing=29; reading=29 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+30. [work:3825] Personal Knowledge — Michael Polanyi | standing=30; reading=30 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+31. [work:3826] The Scientific Conception of the World: The Vienna Circle — Hahn; Neurath; Carnap | standing=31; reading=31 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+32. [work:3827] The Logic of Modern Physics — P. W. Bridgman | standing=32; reading=32 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+33. [work:3828] Scientific Realism: How Science Tracks Truth — Stathis Psillos | standing=33; reading=33 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+34. [work:3829] Laws and Symmetry — Bas C. van Fraassen | standing=34; reading=34 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+35. [work:3830] Nature's Capacities and Their Measurement — Nancy Cartwright | standing=35; reading=35 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+36. [work:3831] Making Things Happen: A Theory of Causal Explanation — James Woodward | standing=36; reading=36 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+37. [work:3832] Objectivity — Lorraine Daston; Peter Galison | standing=37; reading=37 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+38. [work:3833] The Fate of Knowledge — Helen E. Longino | standing=38; reading=38 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+39. [work:3834] Science, Truth, and Democracy — Philip Kitcher | standing=39; reading=39 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+40. [work:3835] The Science Question in Feminism — Sandra Harding | standing=40; reading=40 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+41. [work:3836] Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective — Donna Haraway | standing=41; reading=41 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+42. [work:3837] Error and the Growth of Experimental Knowledge — Deborah G. Mayo | standing=42; reading=42 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+43. [work:3838] Science, Policy, and the Value-Free Ideal — Heather E. Douglas | standing=43; reading=43 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+44. [work:3839] Inventing Temperature: Measurement and Scientific Progress — Hasok Chang | standing=44; reading=44 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+45. [work:3840] Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives — P. Kyle Stanford | standing=45; reading=45 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+46. [work:3841] Explaining Science: A Cognitive Approach — Ronald N. Giere | standing=46; reading=46 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+47. [work:3842] Theory and Reality: An Introduction to the Philosophy of Science — Peter Godfrey-Smith | standing=47; reading=47 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+48. [work:3843] What Is This Thing Called Science? — Alan F. Chalmers | standing=48; reading=48 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+49. [work:3844] Two Dogmas of Empiricism — W. V. O. Quine | standing=49; reading=49 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+50. [work:3845] Structural Realism: The Best of Both Worlds? — John Worrall | standing=50; reading=50 | sources: PHILOSOPHY-OF-SCIENCE-001, PHILOSOPHY-OF-SCIENCE-002, PHILOSOPHY-OF-SCIENCE-003, PHILOSOPHY-OF-SCIENCE-004, PHILOSOPHY-OF-SCIENCE-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[PHILOSOPHY-OF-SCIENCE-001] [Academic reference / bibliography] PhilPapers — General Philosophy of Science
+https://philpapers.org/browse/general-philosophy-of-science/
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b961483b20a18f6083aa22ac
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-002] [Academic reference / bibliography] PhilPapers — Philosophy of Science, General Works
+https://philpapers.org/browse/philosophy-of-science-general-works
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:73c2afbf2fbdc078975405c9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-003] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Thomas Kuhn
+https://plato.stanford.edu/entries/thomas-kuhn/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8d585952732340f30b834496
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-004] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Scientific Realism
+https://plato.stanford.edu/entries/scientific-realism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a1ffcdb579028780033f6dc0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-005] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Logical Empiricism
+https://plato.stanford.edu/entries/logical-empiricism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:78a036cf469fed3ff5333252
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-006] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Constructive Empiricism
+https://plato.stanford.edu/entries/constructive-empiricism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ba880690956a273bef8e238a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-007] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Models in Science
+https://plato.stanford.edu/entries/models-science/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:004ff1340f267dab51baf475
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-008] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Scientific Objectivity
+https://plato.stanford.edu/entries/scientific-objectivity/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c322af0b709800c40ffdb80b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-009] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Paul Feyerabend
+https://plato.stanford.edu/entries/feyerabend/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cbff6f6eb4973c1fa180df0c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-010] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Scientific Method
+https://plato.stanford.edu/entries/scientific-method/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9eefe887f58635f3bfd35403
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-011] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Scientific Revolutions
+https://plato.stanford.edu/entries/scientific-revolutions/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b897e1fd29b446adefa00250
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-012] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Feminist Epistemology and Philosophy of Science
+https://plato.stanford.edu/archives/spr2019/entries/feminism-epistemology/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:79a872faa8ef001e8efe81c2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-013] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — The Problem of Induction
+https://plato.stanford.edu/archives/fall2024/entries/induction-problem/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:62ce4ff02f5221af278bf10a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-014] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Carl Hempel
+https://plato.stanford.edu/entries/hempel/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eb67251d857c2d81e8f09f7a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-015] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Scientific Explanation
+https://plato.stanford.edu/archives/win2018/entries/scientific-explanation/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:96a1c1dde43f724ea07a3f2c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-016] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — William Whewell
+https://plato.stanford.edu/entries/whewell/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:266b4a0806e07590da822886
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-017] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Pierre Duhem
+https://plato.stanford.edu/entries/duhem/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:36d6aa6526ee240df72b84ac
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-018] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Imre Lakatos
+https://plato.stanford.edu/entries/lakatos/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0c1b587ef4cde3d56b4e36bf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-019] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Francis Bacon
+https://plato.stanford.edu/archives/spr2016/entries/francis-bacon/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:62fdd21b3ac58b9472caa85d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-020] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Historicist Theories of Scientific Rationality
+https://plato.stanford.edu/entries/rationality-historicist/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:df52d52f44f7e5245690d32a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-021] [Academic encyclopedia] Stanford Encyclopedia of Philosophy — Henri Poincaré
+https://plato.stanford.edu/archives/fall2014/entries/poincare/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:35f9d1c612b14da71f2dbd6c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-022] [University reading list] University of Oxford — Philosophy of Science Finals Reading List
+https://users.ox.ac.uk/~orie2304/read-ps.pdf
+Family: academic_or_institutional | Publisher: users.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7ab8f4e0ada27c4456b05c82
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-023] [University reading list] University of Oxford — Philosophy of Science Reading List (TT13)
+https://users.ox.ac.uk/~mert2255/teaching/undergrad_tutorials/124.pdf
+Family: academic_or_institutional | Publisher: users.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9893077726c6344b72f5bd1e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-024] [University programme / readings] LSE — MSc Philosophy of Science
+https://www.lse.ac.uk/study-at-lse/graduate/msc-philosophy-of-science
+Family: academic_or_institutional | Publisher: www.lse.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5e364b6e57af7773af762af2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-025] [University reading lists] University of Cambridge — Part II Philosophy Reading Lists
+https://www.phil.cam.ac.uk/curr-students/II/II-reading-lists
+Family: academic_or_institutional | Publisher: www.phil.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d8eb1d6f5d527047e28b9676
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-026] [University course] UCL — HPSC Modules: Philosophy of Science
+https://www.ucl.ac.uk/mathematical-physical-sciences/sts/study/modules-and-courses/hpsc-modules-introductory-year-1
+Family: academic_or_institutional | Publisher: www.ucl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0c601727b57d85d85d282284
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-027] [University syllabus] UCL — Philosophy of Science 1 syllabus 2025–26
+https://www.ucl.ac.uk/mathematical-physical-sciences/sites/mathematical_physical_sciences/files/2026-03/hpsc0004_philosophy_of_science_1-syllabus_2025-26.pdf
+Family: academic_or_institutional | Publisher: www.ucl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9e2f6cec7bc7f202f25f4a78
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-028] [University course] University of Edinburgh — Philosophy of Science
+https://www.drps.ed.ac.uk/25-26/dpt/cxphil08005.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9c1e78e77797061fada61206
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-029] [University course] University of Edinburgh — Philosophy of Science PG Online
+https://www.drps.ed.ac.uk/current/dpt/cxphil11133.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d32e49e3e0c6c4f18626188f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-030] [University course] University of Edinburgh — Philosophy of Science Honours
+https://www.drps.ed.ac.uk/26-27/dpt/cxphil10242.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:56bbfdf5a3f2d1a4b14aa1d9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-031] [University course] University of Edinburgh — Philosophy of Science PG
+https://www.drps.ed.ac.uk/26-27/dpt/cxphil11227.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:01bd2036623738ebf11a13f4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-032] [University course] Australian National University — PHIL2057 Philosophy of Science
+https://programsandcourses.anu.edu.au/course/phil2057
+Family: academic_or_institutional | Publisher: programsandcourses.anu.edu.au | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5a1964bade6ed7efd8a14026
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-033] [University course] University of Sydney — HPSC4101 Philosophy of Science
+https://www.sydney.edu.au/units/HPSC4101
+Family: academic_or_institutional | Publisher: www.sydney.edu.au | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:45c70227e662b1dbe9b5b490
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-034] [University course] University of Sussex — Philosophy of Science
+https://www.sussex.ac.uk/study/modules/undergraduate/2025/90652-philosophy-of-science
+Family: academic_or_institutional | Publisher: www.sussex.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8125181e4728b5948fb4d80c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-035] [University syllabus] University of Pittsburgh — Philosophy of Science Core Seminar 2026
+https://sites.pitt.edu/~jdnorton/teaching/Phil_Sci_Core/Phil_Sci_Core_2026/general.html
+Family: academic_or_institutional | Publisher: sites.pitt.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f97c64d1816790239011a9e2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-036] [University syllabus] University of Pittsburgh — Philosophy of Science Core schedule/readings
+https://sites.pitt.edu/~jdnorton/teaching/Phil_Sci_Core/Phil_Sci_Core_2026/schedule.html
+Family: academic_or_institutional | Publisher: sites.pitt.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8164947a46c3a0c05bb4d057
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-037] [University reading list] UC Berkeley — Philosophy of Science Prelim / Simplicity reading list
+https://logic.berkeley.edu/syllabi/phil-science-simplicity.pdf
+Family: academic_or_institutional | Publisher: logic.berkeley.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0a55c433b9429151be7cec10
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-038] [University course] UC Berkeley — Philosophy of Science course descriptions
+https://philosophy.berkeley.edu/courses/descriptions/17
+Family: academic_or_institutional | Publisher: philosophy.berkeley.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:18988e5f39c410fc98f6dcef
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-039] [University course] Rutgers — Philosophy of Science course description
+https://philosophy.sas.rutgers.edu/undergraduate-course-descriptions/undergraduate-course-description/1287-01-730-425-philosophy-of-science
+Family: academic_or_institutional | Publisher: philosophy.sas.rutgers.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:48d7cf5109b3a7893973232f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-040] [University syllabus] Rutgers — Philosophy of Science syllabus
+https://philosophy.rutgers.edu/joomlatools-files/docman-files/philsci-syllabus.pdf
+Family: academic_or_institutional | Publisher: philosophy.rutgers.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2084a0c8f8616668f3ee2a57
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-041] [University syllabus] Rutgers — Philosophy of Science sample syllabus Spring 2021
+https://philosophy.rutgers.edu/images/syllabi_samples/425_01_Phil_of_Science_B._Saad__H._Li_Spr21.pdf
+Family: academic_or_institutional | Publisher: philosophy.rutgers.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e195b642a4acf3fa0a9dd8c2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-042] [University course] University of Chicago — Introduction to Philosophy of Science
+https://philosophy.uchicago.edu/node/10013
+Family: academic_or_institutional | Publisher: philosophy.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4a89acfd79b88b1c1a7cdd22
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-043] [University course] Harvard — Empiricists, Scientists, and Charlatans: Introduction to Philosophy of Science
+https://mcdonough.scholars.harvard.edu/class/empiricists-scientists-and-charlatans-introduction-philosophy-science
+Family: academic_or_institutional | Publisher: mcdonough.scholars.harvard.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7fd71feb9e46295b65e3a267
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-044] [University course] Stanford — PHIL 160 Philosophy of Science
+https://bulletin.stanford.edu/courses/2273231
+Family: academic_or_institutional | Publisher: bulletin.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e2b17ecd648a2becbd1ec5d8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-045] [University course] Stanford — PHIL 60S Philosophy of Science
+https://bulletin.stanford.edu/courses/2268991
+Family: academic_or_institutional | Publisher: bulletin.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0e050d05c1ea3869ffbd533a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-046] [University course] Stanford — PHIL 60 Philosophy of Science
+https://bulletin.stanford.edu/courses/1221271
+Family: academic_or_institutional | Publisher: bulletin.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f42b5c35134a8356ea1241ea
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-047] [University programme] Stanford — History and Philosophy of Science undergraduate major
+https://hps.stanford.edu/undergraduate/major
+Family: academic_or_institutional | Publisher: hps.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:efbda60723c5062acd7d6d4f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-048] [University course listings] Princeton — Philosophy courses Fall 2026
+https://philosophy.princeton.edu/undergraduate/courses/fall-2026
+Family: academic_or_institutional | Publisher: philosophy.princeton.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9405d06ad7433c97914a62b7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-049] [University course] Columbia — PHIL W3551 Philosophy of Science
+https://doc.sis.columbia.edu/subj/PHIL/W3551-20263-001/
+Family: academic_or_institutional | Publisher: doc.sis.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b96fe9d52656c7d776da2687
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-050] [University course] University of Toronto — PHL255 Philosophy of Science
+https://philosophy.utoronto.ca/st-george/undergraduate-at-st-george/courses/200-level-courses-26-27/
+Family: academic_or_institutional | Publisher: philosophy.utoronto.ca | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3806f645d198f6d2bd029efc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-051] [University syllabus / Brazil] Federal University of Ceará — Filosofia da Ciência
+https://ppgern.ufc.br/pt/filosofia-da-ciencia/
+Family: academic_or_institutional | Publisher: ppgern.ufc.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f771158465ccdff9a257e2e9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-052] [University reading list] Oxford Lifelong Learning — Philosophy of Science reading list
+https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O22P417PHW
+Family: academic_or_institutional | Publisher: lifelong-learning.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:37c37c7a1962fe0bf505cd54
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-053] [Prize / field recognition] LSE — Lakatos Award: winners and lectures
+https://www.lse.ac.uk/philosophy/events/lakatos-award-lecture
+Family: editorial_or_specialist | Publisher: www.lse.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f75ecfca5ee78e2b731b4664
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-054] [Academic publisher] Oxford Academic — The Scientific Image
+https://academic.oup.com/book/7116
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f07e153a1ba066f6fdd7e247
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-055] [Academic retrospective] Cambridge — Kuhn's The Structure of Scientific Revolutions at 60
+https://www.cambridge.org/core/books/kuhns-the-structure-of-scientific-revolutions-at-60/114A420D7C4391F62EC37CDF53B85587
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:590a2514cb0caf41413b5943
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-056] [Academic journal] Philosophy of Science — Thomas S. Kuhn (1922–1996)
+https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/thomas-s-kuhn-19221996/AA8746C9E61F3D3CA2164609D2051E74
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:95462e7f8426e8ebbe6432ff
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-057] [Academic review] Philosophy of Science — review of Popper, The Logic of Scientific Discovery
+https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/karl-r-popper-the-logic-of-scientific-discovery-translated-by-the-author-with-the-assistance-of-julius-freed-and-lan-freed-new-york-basic-books-1959-479-pp-750/6BA6311C59D6BE1FCD452C8315C8FDC2
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9c17d21521b07f9d1064efe9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-058] [Academic paper] Philosophy of Science — Karl Popper's Philosophical Breakthrough
+https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/karl-poppers-philosophical-breakthrough/BC03FCBBD11DFD23E4C36AF2B4268963
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f9c130b9c6aa975625b07b32
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-059] [Academic paper] Philosophy of Science — A Critique of Popper's Views on Scientific Method
+https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/critique-of-poppers-views-on-scientific-method/C575E106A1418678603BCDA1039F2876
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:353a273dd2669e0717025630
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-060] [Academic paper] Philosophy — Popper's Account of Scientific Method
+https://www.cambridge.org/core/journals/philosophy/article/abs/poppers-account-of-scientific-method1/3FD626ED460E11540FBA924826169120
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:861184779490236eedf9a357
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-061] [Reader ranking] Goodreads — Philosophy of Science list
+https://www.goodreads.com/list/show/91895.Philosophy_of_science
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:be13f71a2f9e1af41d331f9e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-062] [Reader ranking] Goodreads — Philosophy of Science Fundamentals
+https://www.goodreads.com/list/show/196535.Philosophy_of_Science_Fundamentals
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1f9881743d0c8b4d734a5dba
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-063] [Reader ranking] Goodreads — Philosophy of Science / Worldview
+https://www.goodreads.com/list/show/13925.Philosophy_of_Science_Worldview
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:743be36a96f51ddd887525ad
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-064] [Reader ranking] Goodreads — History and Philosophy of Science
+https://www.goodreads.com/list/show/35170.History_and_Philosophy_of_Science
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dbaa56a2274cfa260cf3897d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-065] [Reader ranking] Goodreads — Scientists and Philosophers
+https://www.goodreads.com/list/show/1826.Scientists_and_Philosophers
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:59ffa405c33afa2470189903
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-066] [Popular meta-list] Shortform — 100 Best Philosophy of Science Books of All Time
+https://www.shortform.com/best-books/genre/best-philosophy-of-science-books-of-all-time
+Family: editorial_or_specialist | Publisher: www.shortform.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3275a6a7766458621e70b8fa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-067] [Prize reader list] Goodreads — Lakatos Award Winners
+https://www.goodreads.com/list/show/146837.Lakatos_Award_Winners
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4e2eaa634d4d32c4c55b9b78
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-068] [Community discussion] Reddit r/askphilosophy — philosophy of science introductory reading
+https://www.reddit.com/r/askphilosophy/comments/j34wul/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:48ef14e1b807f1af5c927a87
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-069] [Community discussion] Reddit r/askphilosophy — philosophy of science recommendations (2024)
+https://www.reddit.com/r/askphilosophy/comments/1eyxfar/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7fffc73ce161e9b2bf343d73
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-070] [Community discussion] Reddit r/askphilosophy — philosophy of science readings (2025)
+https://www.reddit.com/r/askphilosophy/comments/1ipxu7u/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c3325ac555aeb93877894627
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-071] [Community discussion] Reddit r/PhilosophyofScience — best books in philosophy of science
+https://www.reddit.com/r/PhilosophyofScience/comments/1g83w9j/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3bc2d530858080237a15f334
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-072] [Community discussion] Reddit r/askphilosophy — essentials of philosophy of science
+https://www.reddit.com/r/askphilosophy/comments/15l5376/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3f7f8d5dd31ac2af966b76f4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-073] [Community discussion] Reddit r/askphilosophy — philosophy of science books for a scientist
+https://www.reddit.com/r/askphilosophy/comments/1hrv67d/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:53f84a3ef4ee6fbfefac3501
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-074] [Community discussion] Reddit r/PhilosophyofScience — introductory reading
+https://www.reddit.com/r/PhilosophyofScience/comments/1euqcms/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aa40564c1b9da88aafd9969f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-075] [Community discussion] Reddit r/askphilosophy — philosophy of science recommendations (2021)
+https://www.reddit.com/r/askphilosophy/comments/on9xg6/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:924a6450a685c6302e6e61c9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-076] [Community discussion] Reddit r/askphilosophy — philosophy of science book recommendations (2022)
+https://www.reddit.com/r/askphilosophy/comments/v3ujxt/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3820c22338403eec8af53cf3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-077] [Community discussion] Reddit r/PhilosophyofScience — varied perspectives / books (2025)
+https://www.reddit.com/r/PhilosophyofScience/comments/1mw51y9/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1794ea33819a4acc6c5b615c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-078] [Community discussion] Reddit r/PhilosophyofScience — scientific / philosophical books (2024)
+https://www.reddit.com/r/PhilosophyofScience/comments/1cmdwms/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:da43b45b45b96dfd98c0d761
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-079] [Chinese reader reception] Douban — Popper, The Logic of Scientific Discovery
+https://book.douban.com/subject/3349509/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:771d0bb0e12fcc98fb9f8936
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-080] [Chinese reader list] Douban — Philosophy of Science doulist
+https://www.douban.com/doulist/153892957/
+Family: reader_community | Publisher: www.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6cf558c7479d6bc79a35aac3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-081] [Chinese reader reception] Douban — Kuhn, The Structure of Scientific Revolutions (2022 ed.)
+https://book.douban.com/subject/35951747/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cc58c14e202c4d14e637f3e9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-082] [Chinese reader lists] Douban — recommendation/doulist pages linked to philosophy-of-science title
+https://book.douban.com/subject/1799729/doulists?start=20
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9f1c1d3e7bc0aa420767d569
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-083] [Chinese reader reception] Douban — Lakatos, Methodology of Scientific Research Programmes
+https://book.douban.com/subject/26666229/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ac3c92e27ea48862c50cb345
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-084] [Chinese bibliography] Douban — Popper work / editions
+https://book.douban.com/works/1000754
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:38d80daa16e3bc38e5fd8851
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-085] [Chinese reader reception] Douban — Popper older Chinese edition
+https://book.douban.com/subject/3201509/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fd97ea0df977ac1c69eb7e13
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-086] [Chinese bibliography] Douban — Thomas Kuhn author works
+https://book.douban.com/author/445299/books?format=pic&sortby=collect
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7ddd8e6806068e2fcbb90597
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-087] [Chinese reader reception] Douban — Feyerabend, Against Method editions
+https://book.douban.com/works/1028207
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5be40ecf909a93ed4c652447
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-088] [Chinese review] Douban — review discussing Kuhn / Hacking and Structure at 50
+https://book.douban.com/review/10505621/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1eab39c56ffa3325a0c04c60
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-089] [Chinese reader lists] Douban — modern Western philosophy recommendation lists
+https://book.douban.com/subject/2285869/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d4ee493543a78a2ee5354f19
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-090] [Chinese reader lists] Douban — Science in Action recommendation lists
+https://book.douban.com/subject/1423236/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:560e35c79c5311f3f7c9c7bb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-091] [Chinese reader lists] Douban — philosophy of mathematics / related philosophy lists
+https://book.douban.com/subject/5241269/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5682d04192b973761056c8b6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-092] [Japanese library reception] CiNii Books — Kuhn, Japanese edition (1971)
+https://ci.nii.ac.jp/ncid/BN00151566?l=ja
+Family: academic_or_institutional | Publisher: ci.nii.ac.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:886537a9536e2a8d76677e08
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-093] [Japanese library reception] CiNii Books — Kuhn, Japanese edition (2023)
+https://ci.nii.ac.jp/ncid/BD02510229
+Family: academic_or_institutional | Publisher: ci.nii.ac.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3a7b9aad0a8f21b9f99c0861
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-094] [Japanese library reception] CiNii Books — Kuhn, The Essential Tension, Japanese edition
+https://ci.nii.ac.jp/ncid/BA38452767
+Family: academic_or_institutional | Publisher: ci.nii.ac.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a34d0a0925df37f31038e09e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-095] [Japanese national bibliography] National Diet Library — Kuhn, 2023 Japanese edition
+https://ndlsearch.ndl.go.jp/books/R100000002-I032846604
+Family: academic_or_institutional | Publisher: ndlsearch.ndl.go.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e61be7cb18cb93272ea5f08f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-096] [Japanese national bibliography] National Diet Library — Kuhn, 1971 Japanese edition
+https://ndlsearch.ndl.go.jp/books/R100000002-I000001121151
+Family: academic_or_institutional | Publisher: ndlsearch.ndl.go.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:08494673dd1955afd04c80f8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-097] [Japanese scholarly reception] J-STAGE — retrospective on a quarter century of STS
+https://www.jstage.jst.go.jp/article/jnlsts/12/0/12_201/_pdf/-char/ja
+Family: editorial_or_specialist | Publisher: www.jstage.jst.go.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:477d1d1f294c9f476afaf080
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-098] [Japanese scholarly journal] J-STAGE — Philosophy of Science 15 (1982)
+https://www.jstage.jst.go.jp/article/jpssj1968/15/0/15_0_31/_pdf
+Family: editorial_or_specialist | Publisher: www.jstage.jst.go.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fc109b7d203a936958ca8bc2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-099] [Japanese scholarly discussion] J-STAGE — article discussing Kuhn and scientific paradigms
+https://www.jstage.jst.go.jp/article/arfe/61/1/61_1/_html/-char/en
+Family: editorial_or_specialist | Publisher: www.jstage.jst.go.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e2dbf236d8d91e33fd5961ee
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-100] [French reader reception] SensCritique — La Structure des révolutions scientifiques
+https://www.senscritique.com/livre/la_structure_des_revolutions_scientifiques/92520
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:255252cfd4b5f25bf7a84014
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-101] [French reader reviews] SensCritique — reviews of La Structure des révolutions scientifiques
+https://www.senscritique.com/livre/la_structure_des_revolutions_scientifiques/92520/critiques
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:47ed0edba472a44bc22f5473
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-102] [French academic review] Persée — review of Kuhn (1974)
+https://www.persee.fr/doc/phlou_0035-3841_1974_num_72_15_5809_t1_0634_0000_2
+Family: editorial_or_specialist | Publisher: www.persee.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a9bd4304edbb5d546f52060c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-103] [German philosophy blog / retrospective] Praefaktisch — 100 Jahre Kuhn / 60 Jahre Structure
+https://praefaktisch.de/100-jahre-kuhn-und-lakatos/2022-100-jahre-kuhn-60-jahre-structure/
+Family: editorial_or_specialist | Publisher: praefaktisch.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7f00834aea020b98582f4052
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-104] [German reader reception] LovelyBooks — Die Struktur wissenschaftlicher Revolutionen
+https://www.lovelybooks.de/autor/Thomas-S-Kuhn/Die-Struktur-wissenschaftlicher-Revolutionen-143645880-w/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a41708d7c688395ec0abd57c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-105] [German-language reader reception] Goodreads — German edition of Structure
+https://www.goodreads.com/book/show/374864
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:014a8379c122fedb0eba3a54
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-106] [Italian bookseller / reception] IBS — Kuhn, La struttura delle rivoluzioni scientifiche
+https://www.ibs.it/struttura-delle-rivoluzioni-scientifiche-libro-thomas-s-kuhn/e/9788806199005
+Family: editorial_or_specialist | Publisher: www.ibs.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:64ee3a478e62ea539ea079c3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-107] [Italian subject bibliography] IBS — Filosofia della scienza category
+https://www.ibs.it/libri/scienze-geografia-ambiente/filosofia-scienza-c2765
+Family: editorial_or_specialist | Publisher: www.ibs.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6636a72ea8fd8bd82dd57296
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-108] [Italian reader reception] Anobii — Kuhn editions
+https://www.anobii.com/it/list/editions/01b36c7fe99d4bd49f
+Family: editorial_or_specialist | Publisher: www.anobii.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cd4a10c7419031c2784f0e21
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-109] [Italian bibliography] IBS — Biblioteca analitica: testi fondamentali
+https://www.ibs.it/biblioteca-analitica-testi-fondamentali-libro-vari/e/9788829001538
+Family: editorial_or_specialist | Publisher: www.ibs.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:194b45f8dcc63f6aff37e195
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-110] [Spanish reader/bookseller reception] Casa del Libro — La estructura de las revoluciones científicas
+https://www.casadellibro.com/libro-la-estructura-de-las-revoluciones-cientificas-4-ed/9786071614223/2260998
+Family: editorial_or_specialist | Publisher: www.casadellibro.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9b30a87ff7cc8c75d7a05282
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-111] [Spanish reader reviews] Casa del Libro — opinions on Kuhn
+https://latam.casadellibro.com/opiniones-libro/la-estructura-de-las-revoluciones-cientificas-4-ed/9786071614223/2260998
+Family: editorial_or_specialist | Publisher: latam.casadellibro.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a64aa36c5ebde15585994077
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-112] [Spanish academic index] Dialnet — article on Popper / philosophy of science
+https://dialnet.unirioja.es/servlet/articulo?codigo=5114629
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a2a4c54973a1bf1dd9e35f62
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-113] [Brazilian reader reception] Skoob — A Estrutura das Revoluções Científicas
+https://www.skoob.com.br/pt/book/122327839?title=a-estrutura-das-revolucoes-cientificas
+Family: editorial_or_specialist | Publisher: www.skoob.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8abded027346dbf6c7a542ef
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-114] [Brazilian reader reception] Skoob — alternate Kuhn edition
+https://www.skoob.com.br/pt/book/544721
+Family: editorial_or_specialist | Publisher: www.skoob.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fd4610ae95e4af6fa81cc215
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-115] [Polish reader reception] Lubimyczytac — Struktura rewolucji naukowych
+https://lubimyczytac.pl/ksiazka/4951716/struktura-rewolucji-naukowych
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ae06422c73aeadcb6213f99
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-116] [Russian reader reception] LiveLib — Структура научных революций
+https://www.livelib.ru/book/1000410317-struktura-nauchnyh-revolyutsij-tomas-kun
+Family: editorial_or_specialist | Publisher: www.livelib.ru | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:00e27c0a638ab49ede97adc8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-117] [Russian reader reception] LiveLib — Kuhn 2015 edition
+https://trigger.livelib.ru/book/1001451353-struktura-nauchnyh-revolyutsij-tomas-kun
+Family: editorial_or_specialist | Publisher: trigger.livelib.ru | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4cacb6d54dd26a06d1652c49
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-118] [Russian bibliography] LiveLib — Kuhn editions
+https://www.livelib.ru/book/402833/editions
+Family: editorial_or_specialist | Publisher: www.livelib.ru | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cf36f81684f7c9486c41dda5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-119] [French academic book / philosophy of science] Cairn — scholarly text on scientific construction
+https://stm.cairn.info/article/QUAE_GRISO_2011_01_0001/pdf?lang=fr
+Family: editorial_or_specialist | Publisher: stm.cairn.info | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e1480b5bb690aff01e87f78e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[PHILOSOPHY-OF-SCIENCE-120] [French-language reader reception] Goodreads — French edition of Structure
+https://www.goodreads.com/book/show/241569098-la-structure-des-r-volutions-scientifiques
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fe0839687b796732251a2a7d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: books-philosophy-of-science. Included 50 current entries and 120 current source records. Carry out the update and return the enhanced ranking with the complete source register.

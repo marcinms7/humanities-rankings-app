@@ -1,0 +1,164 @@
+.catalog-review-totals {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+.catalog-review-total {
+  padding: 1rem 1.2rem;
+  text-align: left;
+  color: var(--text);
+  cursor: pointer;
+}
+.catalog-review-total strong {
+  display: block;
+  font: 1.9rem var(--font-display, Georgia, serif);
+}
+.catalog-review-total span {
+  display: block;
+  margin-top: 0.4rem;
+}
+.catalog-review-total.selected {
+  outline: 2px solid var(--accent, #667858);
+  outline-offset: 2px;
+}
+.catalog-review-search {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex: 1;
+  min-width: 180px;
+}
+.catalog-review-search input {
+  width: 100%;
+}
+.catalog-review-select {
+  margin: 1rem 0;
+}
+.catalog-review-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  align-items: start;
+}
+.catalog-review-card {
+  padding: 1.2rem;
+  min-width: 0;
+}
+.catalog-review-card-head {
+  display: flex;
+  align-items: start;
+  gap: 0.8rem;
+}
+.catalog-review-card-head > input {
+  margin-top: 0.35rem;
+  flex-shrink: 0;
+}
+.catalog-review-card-head .tag-row {
+  margin-top: 0.6rem;
+}
+.catalog-review-card > p {
+  line-height: 1.5;
+}
+.catalog-review-card summary {
+  cursor: pointer;
+  padding: 0.5rem 0;
+}
+.catalog-review-evidence {
+  overflow-wrap: anywhere;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+.catalog-review-evidence h4 {
+  margin-bottom: 0.4rem;
+}
+.catalog-review-image {
+  display: block;
+  max-width: 9rem;
+  max-height: 12rem;
+  object-fit: contain;
+  margin: 0.8rem 0;
+  border-radius: 0.3rem;
+}
+.catalog-review-metadata {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+.catalog-review-metadata dt {
+  font-size: 0.8rem;
+  opacity: 0.75;
+}
+.catalog-review-metadata dd {
+  margin: 0.3rem 0 0;
+}
+.catalog-review-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.7rem;
+  margin-top: 0.8rem;
+}
+.catalog-review-excerpt {
+  white-space: pre-wrap;
+  max-height: 15rem;
+  overflow-y: auto;
+}
+.catalog-review-source {
+  margin-top: 1rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--border);
+}
+.catalog-review-source details {
+  padding: 0.25rem 0;
+}
+.catalog-review-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 1.3rem 0;
+  font-size: 0.85rem;
+}
+.catalog-review-batch {
+  margin-top: 1.5rem;
+  padding: 1.4rem;
+}
+.catalog-review-batch h2 {
+  margin-top: 0;
+}
+.catalog-review-confirmations {
+  display: grid;
+  gap: 0.7rem;
+}
+.catalog-review-confirmations label {
+  align-items: start;
+}
+.catalog-review-history article {
+  padding: 1.3rem;
+  border-bottom: 1px solid var(--border);
+  overflow-wrap: anywhere;
+}
+.catalog-review-history article:last-child {
+  border-bottom: 0;
+}
+.catalog-review-history article h3 {
+  margin-top: 0;
+}
+@media (max-width: 760px) {
+  .catalog-review-grid {
+    grid-template-columns: 1fr;
+  }
+  .catalog-review-total {
+    padding: 0.8rem;
+  }
+  .catalog-review-total strong {
+    font-size: 1.5rem;
+  }
+  .catalog-review-total span {
+    font-size: 0.78rem;
+  }
+  .catalog-review-pagination {
+    flex-wrap: wrap;
+  }
+}

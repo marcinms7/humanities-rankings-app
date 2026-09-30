@@ -1,5 +1,7 @@
 # 4chan /lit/ · Top 100 Books (2024)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named published ranking (100 entries), checked 2026-09-13.
 
 Source: https://warosu.org/lit/thread/24093695

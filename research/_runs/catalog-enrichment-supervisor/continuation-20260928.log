@@ -1,0 +1,340 @@
+{"cycle": 1, "kind": "pages", "status": "starting"}
+[1/3] no_exact_page_match: The Selected Poems of Li Po
+[2/3] found: New and Collected Poems 1931–2001 — 776 pages
+[3/3] found: Gitanjali Song Offerings — 94 pages
+{
+  "queued": 3,
+  "saved": 2,
+  "processed": 3,
+  "no_exact_page_match": 1,
+  "found": 2,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4083,
+    "identity_review": 47,
+    "unresolved": 3553
+  },
+  "next_retry": null
+}
+{"cycle": 1, "kind": "covers", "status": "starting"}
+[23] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Cairo Trilogy
+[29] openlibrary_no_safe_cover; internet_archive_no_safe_cover — History
+[58] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Falling Sky
+[372] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Bostan
+[87] openlibrary_no_safe_cover; internet_archive_no_safe_cover — U.S.A. Trilogy
+[614] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Hydriotaphia, Urn Burial, or A Brief Discourse of the Sepulchral Urns Lately Found in Norfolk
+[441] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sophist
+[621] openlibrary_no_safe_cover; internet_archive_no_safe_cover — From the Soil
+[653] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Apology
+[658] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Old Testament
+[659] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Meditations on First Philosophy
+[672] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The New Testament
+[673] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Everything
+[675] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Praise of Folly
+[677] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Areopagitica
+[688] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Critiques
+[692] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Faust
+[696] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Manifesto (with Engels)
+[700] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Hedda Gabler
+[702] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Selected Works
+[706] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Anton Chekhov
+[708] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Uncle Vanya
+[709] openlibrary_no_safe_cover; internet_archive_no_safe_cover — In Remembrance of Things Past
+[710] openlibrary_no_safe_cover; internet_archive_no_safe_cover — T.S. Eliot
+[711] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Waste Land
+[753] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Short Stories of Chekhov
+[784] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Snow Country
+[792] openlibrary_no_safe_cover; internet_archive_no_safe_cover — I Am a Cat
+[803] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Black Rain
+[806] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sanshirō
+[810] covered — Naomi
+[809] covered — Botchan
+[811] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Gate
+[813] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Growing Up
+[822] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Tales of Ise
+[815] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Master of Go
+[823] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Kojiki
+[824] openlibrary_no_safe_cover; internet_archive_no_safe_cover — One Hundred Poets, One Poem Each
+[825] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Tales of Times Now Past
+[826] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Futon
+[829] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Runaway Horses
+[838] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Old Capital
+[845] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Masks
+[850] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Norwegian Wood
+[846] covered — The Key
+[874] openlibrary_ambiguous; internet_archive_no_safe_cover — Dogra Magra
+[885] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Songs of Chu
+[886] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Plum in the Golden Vase
+[887] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Zuo Zhuan
+[888] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Mencius
+{
+  "queued": 50,
+  "covered": 3,
+  "processed": 50,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 46,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 1,
+  "provider_errors": 0,
+  "states": {
+    "complete": 3863,
+    "pending": 2407,
+    "retry_exhausted": 239,
+    "retryable": 41,
+    "unresolved": 228
+  },
+  "next_retry": 0.0
+}
+{"cycle": 2, "kind": "pages", "status": "starting"}
+{
+  "queued": 0,
+  "saved": 0,
+  "processed": 0,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4083,
+    "identity_review": 47,
+    "unresolved": 3553
+  },
+  "next_retry": null
+}
+{"cycle": 2, "kind": "covers", "status": "starting"}
+[892] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Comprehensive Mirror in Aid of Governance
+[894] openlibrary_no_safe_cover; internet_archive_no_safe_cover — To Live
+[897] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Collected Poems of Du Fu
+[898] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Collected Poems of Li Bai
+[900] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Xunzi
+[903] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Selections of Refined Literature
+[906] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Rickshaw Boy
+[907] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Romances / Legends
+[918] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ordinary World
+[916] openlibrary_no_safe_cover; internet_archive_error: The read operation timed out — Golden Age
+[921] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Chess King
+[932] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Qin Opera
+[935] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Gujin Xiaoshuo
+[936] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Pai'an Jingqi collections
+[940] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Orphan of Zhao
+[946] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Strategies of the Warring States
+[947] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Huainanzi
+[949] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Book of Han
+[950] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ancient Prose Viewed
+[951] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Collected Poems of Li Qingzhao
+[952] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Collected Poems of Tao Yuanming
+[953] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Collected Works of Su Shi
+[954] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Collected Poems of Wang Wei
+[955] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Three Hundred Tang Poems
+[957] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Wild Grass
+[961] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Me and the Temple of Earth
+[964] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Hibiscus Town
+[968] openlibrary_no_safe_cover; internet_archive_no_safe_cover — novel
+[985] covered — Flights
+[990] openlibrary_no_safe_cover; internet_archive_no_safe_cover — A Memoir of the Warsaw Uprising
+[989] openlibrary_no_safe_cover; internet_archive_no_safe_cover — A World Apart
+[995] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Rescue
+[997] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The End and the Beginning
+[998] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Anxiety
+[1000] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Nights and Days
+[1002] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Stranger
+[1003] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Insatiability
+[1005] openlibrary_no_safe_cover; internet_archive_no_safe_cover — A Treatise on Shelling Beans
+[1015] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Primeval and Other Times
+[1019] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Star Diaries
+[1020] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Invincible
+[1022] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Futurological Congress
+[1028] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Last Wish
+[1035] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Black Torrent
+[1036] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Fame and Glory
+[1037] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Maids of Wilko
+[1045] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The King of Warsaw
+[1046] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sand Mountain
+[1047] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Dark, Almost Night
+[1048] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Tale of the Snake's Heart
+{
+  "queued": 50,
+  "covered": 1,
+  "processed": 50,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 48,
+  "openlibrary_no_safe_cover; internet_archive_error": 1,
+  "provider_errors": 1,
+  "states": {
+    "complete": 3864,
+    "pending": 2357,
+    "retry_exhausted": 239,
+    "retryable": 42,
+    "unresolved": 276
+  },
+  "next_retry": 0.0
+}
+{"cycle": 3, "kind": "pages", "status": "starting"}
+{
+  "queued": 0,
+  "saved": 0,
+  "processed": 0,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4083,
+    "identity_review": 47,
+    "unresolved": 3553
+  },
+  "next_retry": null
+}
+{"cycle": 3, "kind": "covers", "status": "starting"}
+[1055] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the Niemen
+[1050] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Miedzianka. Historia znikania
+[1056] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The New Woman
+[1060] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Revenge
+[1061] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Vade-mecum
+[1067] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Life of an Honest Man
+[1122] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Ravishing of Lol Stein
+[1077] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Life: A User’s Manual
+[1128] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Small Lives
+[1136] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Discourse on Voluntary Servitude
+[1139] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Grand Testament
+[1177] covered — Love Medicine
+[1180] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Book of Kings
+[1184] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sir Gawain and the Green Knight
+[1189] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Poetic Edda
+[1188] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Roman de la Rose
+[1194] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Njáls Saga
+[1191] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Lais
+[1203] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Book of Good Love
+[1195] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Canzoniere
+[1214] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Egil's Saga
+[1215] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Laxdæla Saga
+[1217] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Táin Bó Cúailnge
+[1218] openlibrary_ambiguous; internet_archive_no_safe_cover — The Knight in the Panther's Skin
+[1219] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Book of Lamentations
+[1220] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Secret History of the Mongols
+[1221] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Kebra Nagast
+[1222] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Gulistan
+[1223] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Bustan
+[1225] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Khamsa
+[1226] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Vis and Ramin
+[1227] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Epistle of Forgiveness
+[1229] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Hayy ibn Yaqzan
+[1230] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Maqamat of al-Hariri
+[1232] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Kitab al-Aghani
+[1233] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Revival of the Religious Sciences
+[1242] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Testament
+[1249] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Tale of Igor's Campaign
+[1250] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Primary Chronicle
+[1251] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Kudrun
+[1254] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ancrene Wisse
+[1255] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Everyman
+[1257] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Hōjōki
+[1258] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Kokinshū
+[1259] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Shinkokinshū
+[1260] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Konjaku Monogatari-shū
+[1278] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Dede Korkut Kitabı
+[1279] openlibrary_ambiguous; internet_archive_no_safe_cover — Puslu Kıtalar Atlası
+[1281] openlibrary_ambiguous; internet_archive_no_safe_cover — Sevgili Arsız Ölüm
+[1283] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Tehlikeli Oyunlar
+{
+  "queued": 50,
+  "covered": 1,
+  "processed": 50,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 46,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 3,
+  "provider_errors": 0,
+  "states": {
+    "complete": 3865,
+    "pending": 2307,
+    "retry_exhausted": 239,
+    "retryable": 42,
+    "unresolved": 325
+  },
+  "next_retry": 0.0
+}
+{"cycle": 4, "kind": "pages", "status": "starting"}
+{
+  "queued": 0,
+  "saved": 0,
+  "processed": 0,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4083,
+    "identity_review": 47,
+    "unresolved": 3553
+  },
+  "next_retry": null
+}
+{"cycle": 4, "kind": "covers", "status": "starting"}
+[1298] openlibrary_ambiguous; internet_archive_no_safe_cover — Kıskanmak
+[1300] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Garip
+[1296] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ölmeye Yatmak
+[1305] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Alemdağ’da Var Bir Yılan
+[1309] covered — Parasız Yatılı
+[1310] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Fahim Bey ve Biz
+[1318] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Kar
+[1319] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Yılanların Öcü
+[1320] openlibrary_no_safe_cover; internet_archive_no_safe_cover — 47’liler
+[1324] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Kiralık Konak
+[1329] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Kendi Gök Kubbemiz
+[1331] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Orta Direk
+[1336] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Bir Deliler Evinin Yalan Yanlış Anlatılan Kısa Tarihi
+[1340] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Medarı Maişet Motoru
+[1348] openlibrary_ambiguous; internet_archive_no_safe_cover — Aganta Burina Burinata
+[1341] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ayaşlı ile Kiracıları
+[1353] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Çılgın Gibi
+[1352] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Kırık Hayatlar
+[1354] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Buzul Çağının Virüsü
+[1355] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Piyale
+[1359] openlibrary_ambiguous; internet_archive_no_safe_cover — Şimdiki Çocuklar Harika
+[1357] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Otuz Beş Yaş
+[1395] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Last Fog
+[1404] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Stories of Love, Madness and Death
+[1416] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Artificial Respiration
+[1422] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Fever Dream
+[1424] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Things We Lost in the Fire
+[1425] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Mouthful of Birds
+[1426] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Little Eyes
+[1428] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Luminous Novel
+[1436] openlibrary_no_safe_cover; internet_archive_no_safe_cover — A World for Julius
+[1438] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Word of the Speechless
+[1449] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Remainder
+[1464] openlibrary_no_safe_cover; internet_archive_no_safe_cover — They Were Many Horses
+[1472] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Falling Sky
+[1482] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Bitch
+[1483] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Changó, the Biggest Badass
+[1485] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Jawbone
+[1486] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Cockfight
+[1493] openlibrary_ambiguous; internet_archive_no_safe_cover — Iphigenia
+[1489] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Bronze Race
+[1495] openlibrary_ambiguous; internet_archive_no_safe_cover — The Night
+[1498] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Open Veins of Latin America
+[1501] openlibrary_ambiguous; internet_archive_no_safe_cover — Jungle Tales
+[1502] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Winners
+[1507] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Hoe duur was de suiker?
+[1504] openlibrary_no_safe_cover; internet_archive_no_safe_cover — 62: A Model Kit
+[1508] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On a Woman's Madness
+[1513] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Bhagavad Gita
+[1514] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Rig Veda
+{
+  "queued": 50,
+  "covered": 1,
+  "processed": 50,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 6,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 43,
+  "provider_errors": 0,
+  "states": {
+    "complete": 3866,
+    "pending": 2257,
+    "retry_exhausted": 239,
+    "retryable": 42,
+    "unresolved": 374
+  },
+  "next_retry": 0.0
+}
+{"cycle": 5, "kind": "pages", "status": "starting"}
+{
+  "queued": 0,
+  "saved": 0,
+  "processed": 0,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4083,
+    "identity_review": 47,
+    "unresolved": 3553
+  },
+  "next_retry": null
+}
+{"cycle": 5, "kind": "covers", "status": "starting"}
+{"status": "stopped", "pid": 56004, "batches": 5, "last_batch": [{"kind": "pages", "queued": 0, "saved": 0, "processed": 0, "provider_errors": 0, "states": {"complete": 4083, "identity_review": 47, "unresolved": 3553}, "next_retry": null}], "finished_at": 1790624316.35341}

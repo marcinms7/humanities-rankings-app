@@ -1,5 +1,7 @@
 # r/classicliterature · Top 100 Favourite Books (2025)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named published ranking (100 entries), checked 2026-09-13.
 
 Source: https://www.reddit.com/r/classicliterature/comments/1qdutwp/rclassicliteratures_top_100_favourite_books_2025/

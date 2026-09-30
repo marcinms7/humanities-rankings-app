@@ -1,3 +1,5 @@
 # Books · South America — owner-paste intake, 13 September 2026
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 The Top 150 report is preserved at `research/incoming/books-south-america/2026-09-13-owner-paste/report.txt` (SHA-256 `01323f651f78974be4b2b6004856004400b479e6e749e027e648586578137281`). Its 260 URL-backed source records and 150 entries are imported and published in revision 2. The supplied report names 263 source channels; three did not provide standalone URLs. Scope is geographic South America, excluding Mexico, Central America and the Caribbean and including French Guiana. Direct verification, candidate-level source mapping, editions, images, and a separate reading-value order remain pending.

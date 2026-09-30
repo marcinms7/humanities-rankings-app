@@ -1,12 +1,14 @@
 # Humanities rankings app — product plan
 
+**29 September further selection:** the owner approved the catalog atlas/timeline and cross-publisher list comparisons (proposals 2 and 3). These are read-only discovery views using saved catalog metadata, private reading overlays and original publisher positions; see [implementation and scope](docs/ATLAS_AND_PUBLISHED_COMPARISON_2026_09_29.md). Question-led discovery was not selected.
+
+**29 September improvement selection:** incremental search updates, crash/refresh recovery for unsaved drafts, and calendar pauses/temporary monthly reading targets are authorized. The other ideas in that proposal were rejected and must not be suggested again; see the exact list in [AGENTS.md](AGENTS.md). Descriptions below retain the original product history and are not permission to implement or re-propose those rejected extensions.
+
 **Latest owner correction (13 September 2026):** broad all-time rankings should have approximately 250 entries, compiled quickly from established published lists and iterated afterward. Existing source counts are sufficient to start; long dossiers, additional source quotas and individual image/edition lookups must not keep the app at a tiny subset. [The corrected workflow](docs/RANKING_RESEARCH_WORKFLOW.md) supersedes older depth-first sequencing below. Preserve both editorial orderings, images as tracked completion work, provenance and private data.
 
-Status: first local application implemented, with database-backed empty ranking definitions, an imported initial research survey and the Python reading-time prototype. Updated 12 September 2026. [README.md](README.md) describes launch commands, current features and implementation limits; sections below retain the complete intended product scope.
+Status: the local Django/React application is populated with researched rankings, publisher lists, reading collections and target-specific evidence. [Current saved counts](docs/CURRENT_STATE.md) are generated from the database; [HANDOVER.md](HANDOVER.md) distinguishes implemented maintenance from remaining editorial, metadata and deployment work. The empty-catalog/build-time research pause was a September 12 starting state and is superseded. Numerical criteria and personal assessments are not invented by imports.
 
-The owner authorized starting general ranking research, then asked to prioritize a runnable first application and continue research afterward. The Django/React application now has a database schema, migrations, 65 empty ranking/collection definitions, local first-account setup and persistent source imports. The existing 51-source survey belongs only to `books-all-time`; every other target starts with zero evidence. No catalog works, people, ranked entries, images or criterion scores are seeded. Criteria and weights will be designed separately. The repository was empty when planning began.
-
-Confirmed direction: a Python backend; Docker is familiar; a responsive website for computer and phone; rankings calculated from user-selected criteria and weights; the full requested feature set in the first complete release. The owner tentatively identified the classics collection as Great Books of the Western World. Its edition remains to be chosen.
+Confirmed direction: a Python backend; Docker is familiar; a responsive website for computer and phone; rankings calculated from user-selected criteria and weights; the full requested feature set in the first complete release. Great Books of the Western World is represented by separate edition-specific reading collections; their imported inventories do not imply verified copies of every included text.
 
 Assessment workflow confirmed: agents research and propose criterion scores with explanations; the owner can review and override them. Changing a personal override must not alter the shared assessment for other users.
 
@@ -16,9 +18,11 @@ Coverage is worldwide, with verified English editions/translations for reading r
 
 **Mandatory research requirement: a hard minimum of 50 distinct, relevant sources for every requested research target, ideally many, many more than 50. Fifty is the floor, not the intended research depth or a stopping rule. Sources must be diverse: academic research and criticism, independent rankings, websites, blogs, reviews, and reader discussions including Reddit and Goodreads. Many sources from just one community do not satisfy the requirement.** The owner will define criteria when each ranking is designed. This minimum applies to each requested author, era/decade, topic, style, custom tag, or other research target, with explicit scope and an auditable evidence ledger. See [the research skill](docs/skills/humanities-ranking-research/SKILL.md) for counting and synthesis rules.
 
+Implementation update (28 September 2026): the owner-approved [seven improvements](docs/APP_IMPROVEMENTS_2026_09_28.md) now provide Today, explicit monthly reading and previewed carryover, the book edition/save/shortlist/planning workflow, reusable private filters, ranking perspective comparison with bounded browsing, staff catalog review and complete private JSON/ZIP exports. Migration 0016 adds persistent preferences, reading/carryover history, filters and review receipts. These are software capabilities, not completion of catalog research or public deployment. Automated suites/browser verification remain deferred to the owner’s preference for this iteration.
+
 ## 1. Product intent
 
-Reader/editor boundary clarified on 12 September 2026: agents extract and synthesize the main rankings from relevant online research and save them in the database. The normal Rankings pages are read-only. Bookmarking can enable private personalization; changing membership or manual order creates/edits a personal copy. Shared originals are maintained through a separate editorial workflow. The owner will perform browser checks and has asked to stop automated testing for this iteration.
+Reader/editor boundary clarified on 12 September 2026: agents extract and synthesize the main rankings from relevant online research and save them in the database. The normal Rankings pages are read-only. Bookmarking can enable private personalization; changing membership or manual order creates/edits a personal copy. Shared originals are maintained through a separate editorial workflow. The owner generally prefers personal browser checks; the 28 September continuation authorized the deferred suites and isolated browser verification, recorded in docs/CONTENT_REPAIR_2026_09_28.md.
 
 Reading collections sits directly below Published rankings in navigation. The sidebar must scroll in short windows. Planner settings start collapsed into a compact summary so month cards are visible immediately; expanded controls have equal heights.
 
@@ -41,9 +45,9 @@ Requested capabilities:
 - Country and century rankings, translation recommendations, and a dedicated country-grouped Top 3 books ranking with local numbering and filtering.
 - Visible ranking update dates, research age, refresh preferences, and reviewable research revisions.
 
-The first complete release also includes weight controls, automatic recommendations from assessed catalog data, reading progress, and scheduling. Implementation can proceed in stages, but these features are not being removed from the requested release. Research has started independently of implementation; final ranking population awaits criteria and evidence-backed assessment.
+The first complete release also includes weight controls, automatic recommendations from assessed catalog data, reading progress, and scheduling. Implementation can proceed in stages, but these features are not being removed from the requested release. Source-backed editorial rankings are already populated; personalized numerical scores still await agreed criteria and evidence-backed assessments.
 
-Ranking contents must remain empty during the initial template work. Category names, source metadata, and empty list definitions are acceptable; invented ranks, scores, biographies, and reading histories are not.
+The initial template-only phase kept ranking contents empty. That phase is complete; current researched/imported content is recorded in [CURRENT_STATE.md](docs/CURRENT_STATE.md). Invented ranks, scores, biographies and reading histories remain prohibited.
 
 ## 2. Suggested format and stack
 
@@ -199,13 +203,15 @@ Suggested navigation: **Explore · Rankings · Collections · My Library · Read
 7. **Reading Plan:** month columns or a month selector, ordered books per month, easy movement, visible carryover, reading progress, compact expandable reading-rhythm controls, locks, per-month add buttons, and automatic schedule suggestions. A detailed day-by-day display is optional; weekly/monthly targets do not require consistent daily reading.
 8. **Content management:** Django admin for works, people, categories, media, source definitions, criteria, assessments, and draft rankings; import preview and validation. Add custom app forms where an editorial task needs a friendlier workflow.
 
-Suggested appearance: warm ivory with ink text and forest-green accents in light mode; charcoal with warm text and restrained amber accents in dark mode. Use a serif for titles, a readable sans-serif for controls, generous space, and covers as the main visual texture. Treat this as a direction to discuss, not an approved design.
+The implemented and owner-approved appearance uses warm ivory with ink text and forest-green accents in light mode; charcoal with warm text and restrained amber accents in dark mode. Preserve the serif titles, readable sans-serif controls and existing palette.
 
 The requested direction is modern, elegant, and academic, with covers and portraits integrated naturally. [Design references and interaction guidance](docs/DESIGN_DIRECTION.md) capture researched examples from Linear and Readwise. Theme colors surround images; they do not invert or recolor them.
 
 Provide light, dark, and system settings, persist the choice, and check contrast, keyboard focus, responsive layouts, loading/error states, and reduced-motion preferences. [Tailwind dark mode](https://tailwindcss.com/docs/dark-mode), [shadcn/ui component approach](https://ui.shadcn.com/docs)
 
 ## 6. Empty source and ranking templates
+
+This section records the original template design. Guardian, Great Books and McEvoy entries have since been imported; their current revisions and coverage are recorded in [CURRENT_STATE.md](docs/CURRENT_STATE.md). The early confirmation questions below are historical, not instructions to reset populated lists or repeat imports.
 
 Suggested template families:
 
@@ -240,7 +246,7 @@ Provide manual uploads from the beginning. Stored covers attach to editions, wit
 
 Keep files in a persistent media directory outside generated build output and outside Git. Reference stable keys through a small storage interface so files can later move to object storage. Backups and exports must include a media manifest and, where applicable, the actual files.
 
-External identifiers from Open Library and Wikidata can help match catalog records. Matching/import automation is a later step, with a preview for ambiguous titles, names, and editions.
+External identifiers from Open Library and Wikidata help match catalog records. Bounded enrichment queues and explicit import commands are implemented; ambiguous identities and edition candidates remain subject to review. See [maintenance behavior](docs/MAINTENANCE_2026_09.md).
 
 Open Library supplies both covers and author images. Its public API guidance requests direct image URLs on public-facing pages and does not permit using the display API as a bulk crawler. Therefore, support external media references as well as owned/storable files; do not promise that all API images will be copied into our bucket. Use uploads or a source whose reuse terms permit storage for assets that must be retained locally. Record the source and reuse information per asset. [Open Library Covers API](https://openlibrary.org/dev/docs/api/covers)
 
@@ -288,7 +294,7 @@ Research notes and candidate leads may be created now. Source-backed editorial r
 
 ### A. Agree the plan
 
-The Python/React direction, research minimum, worldwide coverage with English editions, page-based scheduling, modern academic visual direction, public-audience ambition, and privacy model are settled. Specific ranking criteria will be designed separately. The requested complete feature set is retained. Keep rankings unpopulated.
+The Python/React direction, research minimum, worldwide coverage with English editions, page-based scheduling, modern academic visual direction, public-audience ambition, and privacy model are settled. Specific numerical ranking criteria will be designed separately. The requested complete feature set is retained; editorial rankings are already populated.
 
 ### B. Local foundation and templates
 
@@ -300,15 +306,15 @@ Add all requested ranking scopes, score/weight editing and explanations, recomme
 
 ### D. Deliberate content curation
 
-Research is authorized and began with the all-subjects, all-time books evidence survey, now paused during app development. [The research queue](docs/RESEARCH_QUEUE.md) records every requested initial scope and target size, including country, century, form, and philosophy-topic lists. Each separately researched target requires at least 50 eligible diverse sources, with many, many more than 50 as the desired depth. Do not stop at the minimum when useful evidence remains available. A source may contribute to several targets only where its relevant evidence is recorded separately. The initial 51-source ledger is stored in files and linked to exactly one database ranking. It does not satisfy the source minimum for any other queued ranking, or mean a final assessed Top 100–200 is ready. Save and import every subsequent small evidence batch rather than waiting for the whole research task to finish.
+Research began with the all-subjects, all-time books evidence survey and has expanded to many populated targets. The build-time pause is historical; an ordinary development request still does not initiate new research. [The research queue](docs/RESEARCH_QUEUE.md) and [current checkpoint](docs/CURRENT_STATE.md) distinguish completed imports from outstanding coverage. The 50-source floor applies to completed target research; supported broad rankings take priority over open-ended additional gathering. A source may contribute to several targets only where its relevant evidence is recorded separately. The initial 51-source ledger belongs to one target and never satisfies another target's evidence requirements. Save and import every subsequent small evidence batch rather than waiting for the whole research task to finish.
 
-Build rankings one scope at a time and import confirmed external sources under the skill's separate faithful-import procedure. Add portraits/covers through the approved sources. A small verified catalog is preferable to a large guessed one.
+Build rankings one scope at a time and import confirmed external sources under the skill's separate faithful-import procedure. Compile broad comparisons from supported identities and published lists, then add credited images and edition details in batches. Missing media must not exclude major candidates; uncertain identities remain explicit review tasks.
 
 ### E. Public hosting and accounts
 
 Configure the selected Python host, managed PostgreSQL, media storage, and deployment settings. Transfer the database and files while retaining user IDs and reading history. Add the agreed invite/sign-up behavior and verify access boundaries using two accounts. Keep Django authentication rather than introducing a separate identity platform merely for deployment.
 
-Plan for a wider public audience from the first schema: public catalog/published rankings, private user libraries, and explicit sharing permissions. Before public launch add sign-up and account recovery, pagination and indexed filters, request/import limits, structured logs and error monitoring, backup restore checks, account export/deletion, and a clear boundary between public submissions and editorial publication. Avoid shared caches containing private ranking weights or reading data.
+Plan for a wider public audience from the first schema: public catalog/published rankings, private user libraries, and explicit sharing permissions. Sign-up, email recovery, pagination, indexed filters, basic request limits, structured logging and private library export are implemented. Before public launch verify configured mail delivery and production backups, and complete monitoring, account deletion and the public-submission/editorial boundary. See [PUBLIC_RELEASE.md](docs/PUBLIC_RELEASE.md) for the actual deployment checklist. Avoid shared caches containing private ranking weights or reading data.
 
 Retain the Django application as one modular service. It can run multiple stateless web processes with shared PostgreSQL and object storage when traffic requires it. Cache public revision-based results and serve media/static files through a CDN. Move long research/import work to a durable background queue when that feature is implemented; expose progress and deduplicate simultaneous refresh requests. Hosting budget and providers remain undecided.
 

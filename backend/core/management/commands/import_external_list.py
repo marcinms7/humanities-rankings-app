@@ -7,6 +7,7 @@ from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 
 from backend.core.models import Ranking, RankingEntry, Work
+from backend.core.management.receipts import save_import_receipt
 from backend.core.views import ensure_revision, save_revision
 
 
@@ -60,7 +61,6 @@ class Command(BaseCommand):
                 'method_note': batch['method_note'],
             }}
             save_revision(ranking, f"Faithful source-list import: {len(prepared)} resolved entries.")
-        receipt = path.with_name(path.stem + '-import-receipt.json')
-        receipt.write_text(json.dumps({'input_sha256': hashlib.sha256(raw).hexdigest(), 'ranking_id': ranking.pk,
-                                       'revision': ranking.revision, 'entry_count': len(prepared)}, indent=2) + '\n')
+        save_import_receipt(path, {'input_sha256': hashlib.sha256(raw).hexdigest(), 'ranking_id': ranking.pk,
+                                  'revision': ranking.revision, 'entry_count': len(prepared)})
         self.stdout.write(f'Imported {len(prepared)} entries into {ranking.slug}, revision {ranking.revision}.')

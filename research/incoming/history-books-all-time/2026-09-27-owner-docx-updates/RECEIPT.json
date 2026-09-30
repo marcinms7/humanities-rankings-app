@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-09-27-owner-docx-updates",
+  "status": "imported",
+  "target": "history-books-all-time",
+  "files": [
+    {
+      "filename": "History_books_updated.docx",
+      "target": "history-books-all-time",
+      "sha256": "c8bf876fcd94a73b4c570dcd4f6123f82e220a3503c5c85b602a3c447ee424d1",
+      "directory": "research/incoming/history-books-all-time/2026-09-27-owner-docx-updates",
+      "blocks": 7161,
+      "tables": 3,
+      "chars": 876190
+    }
+  ],
+  "database_receipt": "research/_runs/2026-09-27/owner-docx-updates/history-books-all-time-import-receipt.json",
+  "preserved_all_existing_sources": true,
+  "source_by_source_web_verification_performed": false
+}

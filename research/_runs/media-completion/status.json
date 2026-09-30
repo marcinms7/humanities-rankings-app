@@ -1,0 +1,84 @@
+{
+  "pid": 60617,
+  "started_at": 1790633145.955455,
+  "status": "running",
+  "batches": 135,
+  "added_this_run": 804,
+  "providers": {
+    "openlibrary-portraits": {
+      "processed": 15,
+      "covered": 4,
+      "provider_errors": 3,
+      "states": {
+        "complete": 444,
+        "pending": 4520,
+        "retryable": 33,
+        "unresolved": 568
+      },
+      "next_retry": 1790634841.9416819
+    },
+    "wikipedia-covers": {
+      "processed": 11,
+      "covered": 0,
+      "provider_errors": 1,
+      "retry_after": 1790636271.248647,
+      "states": {
+        "pending": 2180,
+        "retryable": 3,
+        "unresolved": 36
+      },
+      "next_retry": 1790633389.59876,
+      "blocked": "Repeated provider outage; rerun after service/quota recovers."
+    },
+    "covers": {
+      "queued": 30,
+      "covered": 3,
+      "processed": 30,
+      "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 23,
+      "openlibrary_error": 3,
+      "openlibrary_ambiguous; internet_archive_no_safe_cover": 1,
+      "provider_errors": 3,
+      "states": {
+        "complete": 4169,
+        "identity_review": 51,
+        "pending": 629,
+        "retry_exhausted": 239,
+        "retryable": 87,
+        "unresolved": 1603
+      },
+      "next_retry": 0.0
+    },
+    "portraits": {
+      "queued": 40,
+      "processed": 20,
+      "portraits": 0,
+      "states": {
+        "complete": 358,
+        "identity_review": 48,
+        "pending": 301,
+        "retry_exhausted": 25,
+        "retryable": 13,
+        "unresolved": 138
+      },
+      "next_retry": 1790705218.055404,
+      "provider_errors": 20,
+      "blocked": "Repeated provider outage; rerun after service/quota recovers."
+    },
+    "google-covers": {
+      "processed": 1,
+      "covered": 0,
+      "provider_errors": 1,
+      "retry_after": 1790636888.44083,
+      "states": {
+        "pending": 2215,
+        "retryable": 4
+      },
+      "next_retry": 1790632961.5019,
+      "blocked": "Repeated provider outage; rerun after service/quota recovers."
+    }
+  },
+  "updated_at": 1790727475.226939,
+  "missing_covers": 2126,
+  "missing_portraits": 4855,
+  "current_provider": "openlibrary-portraits"
+}

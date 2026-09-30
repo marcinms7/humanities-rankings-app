@@ -1,5 +1,7 @@
 # Benjamin McEvoy · TIME novels by Goodreads reception (Top 50)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named Published ranking (50 entries), checked 2026-09-14.
 
 Primary source: https://www.youtube.com/watch?v=lB_rjfkMCEw

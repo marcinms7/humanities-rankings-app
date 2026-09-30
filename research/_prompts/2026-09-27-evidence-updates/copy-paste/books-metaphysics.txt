@@ -1,0 +1,1165 @@
+UPDATE REQUEST: Metaphysics · Books
+Target ID: books-metaphysics
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 100; current source records: 153 (includes unverified leads).
+Desired scope: A broad approximately 100-book metaphysics ranking, with the current book-level scope and any proposed scope changes separated from the main result.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+100 books and 153 eligible records all marked summary_only; every entry repeats the same five SEP sources, several specifically about Plato or Aristotle even when attached to unrelated candidates.
+1. Replace blanket source attachment with actual book-specific evidence from substantive discussions, reviews, histories and relevant published selections.
+2. Distinguish a source discussing a philosopher from a source discussing the particular selected work and from a source making a comparative judgement.
+3. Preserve the current books scope unless a clearly labelled proposal justifies adding essays; do not silently change the unit of comparison.
+4. Review historical and contemporary metaphysical traditions, including major non-Western candidates where relevant evidence supports them.
+5. Explain inclusion, influence, disagreements and disputed disciplinary boundaries, and audit translated titles and multipart works.
+
+CURRENT SCOPE
+{"forms": ["book"], "topic": "metaphysics"}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:424] Metaphysics — Aristotle | standing=1; reading=1 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+2. [work:32] Critique of Pure Reason — Immanuel Kant | standing=2; reading=2 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+3. [work:439] Parmenides — Plato | standing=3; reading=3 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+4. [work:36] Ethics — Baruch Spinoza | standing=4; reading=4 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+5. [work:1721] Being and Time — Martin Heidegger | standing=5; reading=5 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+6. [work:1767] Science of Logic — G. W. F. Hegel | standing=6; reading=6 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+7. [work:44] Meditations on First Philosophy — René Descartes | standing=7; reading=7 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+8. [work:3687] al-Shifāʾ, Ilāhiyyāt — Avicenna | standing=8; reading=8 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+9. [work:3688] Fundamental Verses on the Middle Way — Nāgārjuna | standing=9; reading=9 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+10. [work:3136] Enneads — Plotinus | standing=10; reading=10 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+11. [work:3689] Monadology — G. W. Leibniz | standing=11; reading=11 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+12. [work:442] Timaeus — Plato | standing=12; reading=12 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+13. [work:3690] Process and Reality — Alfred North Whitehead | standing=13; reading=13 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+14. [work:3691] Commentary on the Brahma Sūtras — Śaṅkara | standing=14; reading=14 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+15. [work:3692] Naming and Necessity — Saul Kripke | standing=15; reading=15 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+16. [work:3693] On Being and Essence — Thomas Aquinas | standing=16; reading=16 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+17. [work:3694] Principal Upaniṣads — Anonymous | standing=17; reading=17 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+18. [work:3695] On the Plurality of Worlds — David Lewis | standing=18; reading=18 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+19. [work:3696] Metaphysical Disputations — Francisco Suárez | standing=19; reading=19 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+20. [work:3697] surviving poem — Parmenides | standing=20; reading=20 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+21. [work:1720] The World as Will and Representation — Arthur Schopenhauer | standing=21; reading=21 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+22. [work:441] Sophist — Plato | standing=22; reading=22 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+23. [work:3698] metaphysical sections — Thomas Aquinas | standing=23; reading=23 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+24. [work:39] Daodejing — Laozi | standing=24; reading=24 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+25. [work:1097] Being and Nothingness — Jean-Paul Sartre | standing=25; reading=25 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+26. [work:38] A Treatise of Human Nature — David Hume | standing=26; reading=26 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+27. [work:3699] Elements of Theology — Proclus | standing=27; reading=27 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+28. [work:3700] A Treatise Concerning the Principles of Human Knowledge — George Berkeley | standing=28; reading=28 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+29. [work:3701] From a Logical Point of View — W. V. O. Quine | standing=29; reading=29 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+30. [work:3702] Treasury of Abhidharma with Commentary — Vasubandhu | standing=30; reading=30 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+31. [work:3703] Tractatus Logico-Philosophicus — Ludwig Wittgenstein | standing=31; reading=31 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+32. [work:426] Physics — Aristotle | standing=32; reading=32 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+33. [work:3704] al-Asfār al-arbaʿa — Mullā Ṣadrā | standing=33; reading=33 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+34. [work:3705] Śrī Bhāṣya — Rāmānuja | standing=34; reading=34 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+35. [work:3706] especially distinctions on being, univocity, individuation — John Duns Scotus | standing=35; reading=35 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+36. [work:3707] Discourse on Metaphysics — G. W. Leibniz | standing=36; reading=36 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+37. [work:3708] Difference and Repetition — Gilles Deleuze | standing=37; reading=37 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+38. [work:612] An Essay Concerning Human Understanding — John Locke | standing=38; reading=38 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+39. [work:3709] The Nature of Necessity — Alvin Plantinga | standing=39; reading=39 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+40. [work:437] Phaedo — Plato | standing=40; reading=40 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+41. [work:3710] Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Book I — Edmund Husserl | standing=41; reading=41 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+42. [work:35] Zhuangzi — Zhuangzi | standing=42; reading=42 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+43. [work:469] Phenomenology of Spirit — G. W. F. Hegel | standing=43; reading=43 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+44. [work:3711] Confessions, Books XI–XII — Augustine | standing=44; reading=44 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+45. [work:3712] Brahma Sūtras — Bādarāyaṇa | standing=45; reading=45 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+46. [work:3713] Ḥikmat al-ishrāq — Suhrawardī | standing=46; reading=46 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+47. [work:3714] The Bezels of Wisdom — Ibn ʿArabī | standing=47; reading=47 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+48. [work:429] Categories — Aristotle | standing=48; reading=48 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+49. [work:3715] Prolegomena to Any Future Metaphysics — Immanuel Kant | standing=49; reading=49 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+50. [work:3716] Wissenschaftslehre — J. G. Fichte | standing=50; reading=50 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+51. [work:3717] Appearance and Reality — F. H. Bradley | standing=51; reading=51 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+52. [work:3718] Philosophical Investigations into the Essence of Human Freedom — F. W. J. Schelling | standing=52; reading=52 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+53. [work:3719] The Guide for the Perplexed — Moses Maimonides | standing=53; reading=53 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+54. [work:817] Shōbōgenzō — Dōgen | standing=54; reading=54 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+55. [work:3720] Great Commentary — Yijing tradition | standing=55; reading=55 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+56. [work:3721] Sāṃkhyakārikā — Īśvarakṛṣṇa | standing=56; reading=56 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+57. [work:3722] Nyāya Sūtra — Akṣapāda Gautama | standing=57; reading=57 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+58. [work:3723] Vaiśeṣika Sūtra — Kaṇāda | standing=58; reading=58 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+59. [work:3724] Long Commentary on Aristotle’s Metaphysics — Averroes | standing=59; reading=59 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+60. [work:470] Introduction to Metaphysics — Martin Heidegger | standing=60; reading=60 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+61. [work:3725] Creative Evolution — Henri Bergson | standing=61; reading=61 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+62. [work:3726] The Philosophy of Logical Atomism — Bertrand Russell | standing=62; reading=62 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+63. [work:3727] Der logische Aufbau der Welt — Rudolf Carnap | standing=63; reading=63 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+64. [work:3728] Individuals: An Essay in Descriptive Metaphysics — P. F. Strawson | standing=64; reading=64 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+65. [work:3729] A World of States of Affairs — D. M. Armstrong | standing=65; reading=65 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+66. [work:3730] Time and Modality — A. N. Prior | standing=66; reading=66 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+67. [work:3731] The Nature of Existence — J. M. E. McTaggart | standing=67; reading=67 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+68. [work:3732] Counterfactuals — David Lewis | standing=68; reading=68 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+69. [work:3733] On the Division of Nature — John Scotus Eriugena | standing=69; reading=69 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+70. [work:3734] The Divine Names — Pseudo-Dionysius the Areopagite | standing=70; reading=70 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+71. [work:47] The Incoherence of the Philosophers — al-Ghazālī | standing=71; reading=71 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+72. [work:3735] On First Philosophy — al-Kindī | standing=72; reading=72 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+73. [work:3736] The Principles of the Opinions of the Inhabitants of the Virtuous City — al-Fārābī | standing=73; reading=73 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+74. [work:3737] An Inquiry into the Good — Nishida Kitarō | standing=74; reading=74 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+75. [work:3738] Religion and Nothingness — Nishitani Keiji | standing=75; reading=75 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+76. [work:3739] Jinsilu — Zhu Xi and Lü Zuqian | standing=76; reading=76 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+77. [work:3740] Commentary on the Laozi — Wang Bi | standing=77; reading=77 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+78. [work:3741] Māṇḍūkya Kārikā — Gauḍapāda | standing=78; reading=78 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+79. [work:3742] Twenty Verses on Consciousness-Only — Vasubandhu | standing=79; reading=79 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+80. [work:3743] The Sweets of Refutation — Śrīharṣa | standing=80; reading=80 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+81. [work:3744] A Handful of Flowers of Logic — Udayana | standing=81; reading=81 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+82. [work:3745] Vākyapadīya — Bhartṛhari | standing=82; reading=82 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+83. [work:3746] Writing the Book of the World — Theodore Sider | standing=83; reading=83 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+84. [work:3747] The Four-Category Ontology — E. J. Lowe | standing=84; reading=84 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+85. [work:3748] Essence and Modality — Kit Fine | standing=85; reading=85 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+86. [work:3749] Modal Logic as Metaphysics — Timothy Williamson | standing=86; reading=86 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+87. [work:3750] Material Beings — Peter van Inwagen | standing=87; reading=87 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+88. [work:3751] Making Things Up — Karen Bennett | standing=88; reading=88 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+89. [work:3752] Constructing the World — David Chalmers | standing=89; reading=89 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+90. [work:3753] Every Thing Must Go: Metaphysics Naturalized — James Ladyman and Don Ross | standing=90; reading=90 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+91. [work:3754] Mind in a Physical World — Jaegwon Kim | standing=91; reading=91 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+92. [work:3755] Personal Identity — Derek Parfit | standing=92; reading=92 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+93. [work:3756] Phenomenology of Perception — Maurice Merleau-Ponty | standing=93; reading=93 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+94. [work:3757] A Pluralistic Universe — William James | standing=94; reading=94 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+95. [work:3758] Empiricism, Semantics, and Ontology — Rudolf Carnap | standing=95; reading=95 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+96. [work:3759] Four-Dimensionalism — Theodore Sider | standing=96; reading=96 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+97. [work:3760] Ontology Made Easy — Amie L. Thomasson | standing=97; reading=97 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+98. [work:3761] Resisting Reality: Social Construction and Social Critique — Sally Haslanger | standing=98; reading=98 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+99. [work:3762] On What Grounds What — Jonathan Schaffer | standing=99; reading=99 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+100. [work:3763] An Essay on African Philosophical Thought: The Akan Conceptual Scheme — Kwame Gyekye | standing=100; reading=100 | sources: METAPHYSICS-001, METAPHYSICS-002, METAPHYSICS-003, METAPHYSICS-004, METAPHYSICS-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[METAPHYSICS-001] Stanford Encyclopedia of Philosophy — Metaphysics
+https://plato.stanford.edu/entries/metaphysics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:764242a1a2b64d1c49dcd190
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-002] SEP — Aristotle’s Metaphysics
+https://plato.stanford.edu/entries/aristotle-metaphysics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f8158aa1e020615439424e2c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-003] SEP — Plato’s Middle Period Metaphysics and Epistemology
+https://plato.stanford.edu/entries/plato-metaphysics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:827277e905efdf87c9456e70
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-004] SEP — Plato’s Parmenides
+https://plato.stanford.edu/entries/plato-parmenides/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f99850d1ffe661d93ce01cd2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-005] SEP — Plato’s Timaeus
+https://plato.stanford.edu/entries/plato-timaeus/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6a89dab1597791a315b9e343
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-006] SEP — Method and Metaphysics in Plato’s Sophist and Statesman
+https://plato.stanford.edu/entries/plato-sophstate/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8d5ccd838fb6baee3edea8a0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-007] SEP — Parmenides
+https://plato.stanford.edu/entries/parmenides/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b8ddfbe92ba83e98d4e03660
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-008] SEP — Substance
+https://plato.stanford.edu/entries/substance/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:17c1b227c00c6c494fb82e60
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-009] SEP — Idealism
+https://plato.stanford.edu/entries/idealism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:07b19395ec0cafde070418b6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-010] SEP — Possible Worlds
+https://plato.stanford.edu/entries/possible-worlds/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:605ed287b5a54160583e90de
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-011] SEP — Metaphysical Grounding
+https://plato.stanford.edu/entries/grounding/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dd3434af321ca45c46926ac4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-012] SEP — David Lewis’s Metaphysics
+https://plato.stanford.edu/entries/lewis-metaphysics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fb53ead3a19bcb91a190a309
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-013] SEP — René Descartes
+https://plato.stanford.edu/entries/descartes/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c31faae061b1ffc56af210b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-014] SEP — Gottfried Wilhelm Leibniz
+https://plato.stanford.edu/entries/leibniz/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f73dafff54da88ce394d4949
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-015] SEP — Martin Heidegger
+https://plato.stanford.edu/entries/heidegger/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:76f1cd518b9c47faab72ec39
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-016] SEP — Alfred North Whitehead
+https://plato.stanford.edu/entries/whitehead/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ce1b4adcc80db14881ad062c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-017] SEP — Process Philosophy
+https://plato.stanford.edu/entries/process-philosophy/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5802ce4aa890aaa350d86caa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-018] SEP — Jean-Paul Sartre
+https://plato.stanford.edu/entries/sartre/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ade1a1665743bf53377840ff
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-019] SEP — Augustine of Hippo
+https://plato.stanford.edu/entries/augustine/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4eefe584a6a9cdd7155cf9e0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-020] SEP — Arabic and Islamic Metaphysics
+https://plato.stanford.edu/entries/arabic-islamic-metaphysics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:53ea7cae43b9bdeadbf5aa3c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-021] SEP — Ibn Sina’s Metaphysics
+https://plato.stanford.edu/entries/ibn-sina-metaphysics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:03252d4c50e59638ecea1533
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-022] SEP — Ibn ‘Arabi
+https://plato.stanford.edu/entries/ibn-arabi/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:faadaae528e4c9a220bb0f6a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-023] SEP — Mulla Sadra
+https://plato.stanford.edu/entries/mulla-sadra/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8ad7cc53df83dbba7aac2c93
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-024] SEP — Śaṅkara
+https://plato.stanford.edu/entries/shankara/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8609d6fc6ef92bb59cd236a1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-025] SEP — Yogācāra
+https://plato.stanford.edu/entries/yogacara/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cb44a1fbf24fdfb98e08e8a7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-026] SEP — Nāgārjuna (Spring 2024 archive)
+https://plato.stanford.edu/archives/spr2024/entries/nagarjuna/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d8bb91cf62f8614af8d77e73
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-027] SEP — Vasubandhu (Fall 2018 archive)
+https://plato.stanford.edu/archives/fall2018/entries/vasubandhu/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a03eb57d0235403a645d4f97
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-028] SEP — God and Other Ultimates
+https://plato.stanford.edu/entries/god-ultimates/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ecc3189fb85cb49c9b9da1b0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-029] SEP — Metaphysics in Chinese Philosophy
+https://plato.stanford.edu/entries/chinese-metaphysics/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:00e287bf6d830e98952d7f69
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-030] SEP — Zhuangzi
+https://plato.stanford.edu/entries/zhuangzi/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:52edadb0c5f1da025033c4f2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-031] SEP — Zhu Xi
+https://plato.stanford.edu/entries/zhu-xi/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aa072cb2f23b690b8081f0dc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-032] SEP — Japanese Philosophy
+https://plato.stanford.edu/entries/japanese-philosophy/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4954f69340ad775937550364
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-033] SEP — Nishida Kitarō
+https://plato.stanford.edu/entries/nishida-kitaro/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e6ddcb19405bab0af47a1f38
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-034] SEP — Contemporary Africana Philosophy
+https://plato.stanford.edu/entries/africana-contemporary/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:26a093e688784a4ef3109457
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-035] SEP — Négritude
+https://plato.stanford.edu/entries/negritude/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:78c7792a0eb5f273615901d8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-036] IEP — Aztec Philosophy
+https://iep.utm.edu/page/aztec/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:82e4525304bb8a9f79531352
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-037] PhilPapers — Metaphysics bibliography
+https://philpapers.org/browse/metaphysics
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c953f436ed3269d56b2fb035
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-038] PhilPapers — Aristotle: Metaphysics
+https://philpapers.org/browse/aristotle-metaphysics
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3c34d347a55f0a73fb253362
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-039] PhilPapers — Kant: Metaphysics
+https://philpapers.org/browse/kant-metaphysics
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2ecdfd77290cecf963acbaf1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-040] PhilPapers — Ontology
+https://philpapers.org/browse/ontology
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ea8724bf108fcc9478ebd50c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-041] PhilPapers — Modality
+https://philpapers.org/browse/modality
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e647702401281ecbaa0b9179
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-042] PhilPapers — Possible Worlds
+https://philpapers.org/browse/possible-worlds
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:10de43d983904cde1b5b850a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-043] PhilPapers — Modal Realism
+https://philpapers.org/browse/modal-realism
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:215b0516c6b1766f1f75952a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-044] PhilPapers — Time
+https://philpapers.org/browse/time
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c4316ff8ef0a2c9d87570d4b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-045] PhilPapers — Identity
+https://philpapers.org/browse/identity/
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a75d20462c1238471446d534
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-046] PhilPapers — Persistence
+https://philpapers.org/browse/persistence
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:009d654e7ef66191605fdb6e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-047] PhilPapers — linked bibliography for SEP Aristotle’s Metaphysics
+https://philpapers.org/sep/aristotle-metaphysics/
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c2ebd3b3918660a1d818b413
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-048] PhilPapers — linked bibliography for SEP David Lewis’s Metaphysics
+https://philpapers.org/sep/lewis-metaphysics/
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dbd46b334e19997eb4ca980f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-049] PhilPapers — Aristotle’s Metaphysics annotated bibliography (Radice)
+https://philpapers.org/rec/RADAMA
+Family: editorial_or_specialist | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e6128ccccd5472fc6257d785
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-050] PhilPapers Survey 2020 — results/correlations
+https://survey2020.philpeople.org/survey/results/correlations
+Family: editorial_or_specialist | Publisher: survey2020.philpeople.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:17e8d51a3931ecf9e31482c9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-051] Cambridge Classics — Greek and Roman Philosophy
+https://www.classics.cam.ac.uk/student-information/undergraduate-students/part-ii-1/ii-group-b
+Family: academic_or_institutional | Publisher: www.classics.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c0fad7bcb4529dcb210cc1b9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-052] Cambridge Philosophy — Part IA syllabus
+https://www.phil.cam.ac.uk/part-1a-syllabus-gtc
+Family: academic_or_institutional | Publisher: www.phil.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:026e117a669d344b58ce0585
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-053] Cambridge Philosophy — Part II course outlines/readings
+https://www.phil.cam.ac.uk/curr-students/II/II-reading-lists
+Family: academic_or_institutional | Publisher: www.phil.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d8eb1d6f5d527047e28b9676
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-054] Cambridge — Suggested preliminary philosophy reading
+https://www.phil.cam.ac.uk/system/files/suggested_preliminary_readings_updated_july_2023.pdf
+Family: academic_or_institutional | Publisher: www.phil.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:af1fc723eabf3e7915a073e8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-055] Downing College Cambridge — Philosophy reading list
+https://dow.cam.ac.uk/current-students/information-new-undergraduates/undergraduates-reading-lists/philosophy
+Family: academic_or_institutional | Publisher: dow.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9b9bf88d55c096cec65282fb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-056] Balliol College Oxford — Classics reading lists
+https://www.balliol.ox.ac.uk/admissions/undergraduate-admissions/classics-reading-lists
+Family: academic_or_institutional | Publisher: www.balliol.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7f707476c3c8b1e014cfb6aa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-057] Oxford — Knowledge and Reality reading list
+https://users.ox.ac.uk/~orie2304/read-kr.pdf
+Family: academic_or_institutional | Publisher: users.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a5e7d8de0eeed30d50678c2a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-058] Oxford Continuing Education — From A to Zeno reading list
+https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O23P445PHW
+Family: academic_or_institutional | Publisher: lifelong-learning.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6cc254a1b8199519853e5ede
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-059] Oxford Power Structuralism — Ancient Ontologies reading list
+https://www.power-structuralism.ox.ac.uk/summer_school_2016/Reading.html
+Family: academic_or_institutional | Publisher: www.power-structuralism.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7f0c058f07f411e30110baa4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-060] Lincoln College Oxford — PPE/General Philosophy reading list
+https://lincoln.ox.ac.uk/asset/PPE-Reading-list.pdf
+Family: academic_or_institutional | Publisher: lincoln.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7c81c11f4372100ebd41e6ff
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-061] Cardiff University — Metaphysics module (legacy)
+https://data.cardiff.ac.uk/legacy/grails/module/SE4364/17A.html
+Family: academic_or_institutional | Publisher: data.cardiff.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a689754af6452e4c078d7c1a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-062] University of Southampton — Metaphysics: The Nature of Reality
+https://www.southampton.ac.uk/courses/2026-27/modules/phil2032
+Family: academic_or_institutional | Publisher: www.southampton.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b20df676282f5c30a5783ef4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-063] University of Kent — Metaphysics PHIL6120
+https://www.kent.ac.uk/courses/modules/module/PHIL6120
+Family: academic_or_institutional | Publisher: www.kent.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b79e12359d22b33acc091f2e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-064] University of Kent — Metaphysics PHIL6110
+https://www.kent.ac.uk/courses/modules/module/PHIL6110
+Family: academic_or_institutional | Publisher: www.kent.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a154534e0ab1655805627394
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-065] University of Edinburgh — Topics in Metaphysics PHIL10264
+https://www.drps.ed.ac.uk/26-27/dpt/cxphil10264.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3212283ec9d38251c121604b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-066] University of Edinburgh — Metaphysics PHIL10155 archive
+https://www.drps.ed.ac.uk/17-18/dpt/cxphil10155.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ae0567aec45a19a9e1c8f83c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-067] UWE — Metaphysics module specification
+https://info.uwe.ac.uk/modules/specification.asp?file=UPZPMA-30-2&urn=2048761
+Family: editorial_or_specialist | Publisher: info.uwe.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4dca8f80c0b8dc631e2bb2b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-068] University of Arizona — Graduate metaphysics reading resources
+https://philosophy.arizona.edu/graduate-student-resources
+Family: academic_or_institutional | Publisher: philosophy.arizona.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3ffad034d2d9d4c567e8fbe0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-069] NYU Cian Dorr — Metaphysics syllabus
+https://pages.nyu.edu/dorr/teaching/metaphysics2002/index.html
+Family: academic_or_institutional | Publisher: pages.nyu.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ab08e220106599d62e716b91
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-070] Rutgers/Ted Sider — Fundamentality seminar
+https://www.tedsider.org/teaching/barryted/barryted.html
+Family: editorial_or_specialist | Publisher: www.tedsider.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cfb23f1926173b263530d147
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-071] Rutgers/Ted Sider — Structuralism seminar
+https://www.tedsider.org/teaching/structuralism_18/structuralism_18.html
+Family: editorial_or_specialist | Publisher: www.tedsider.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:411ba3f80bca93dbabe3c7b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-072] Rutgers/Ted Sider — Higher-Order Metaphysics
+https://www.tedsider.org/teaching/higher_order_20/higher_order_20.html
+Family: editorial_or_specialist | Publisher: www.tedsider.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0e2c52409833cac278a63bef
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-073] Marquette — Arabic & Islamic Philosophy course syllabus
+https://academic.mu.edu/taylorr/Arabic___Islamic_Philosophy_Course_%2828_class_meetings%29/Syllabus.html
+Family: academic_or_institutional | Publisher: academic.mu.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:16069ee9b294bd1d72e90891
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-074] Marquette — Philosophy in the Lands of Islam directed reading
+https://academic.mu.edu/taylorr/Philosophy_in_the_Lands_of_Islam/Syllabus.html
+Family: academic_or_institutional | Publisher: academic.mu.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:60841a1ad765170cf6ac36fa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-075] University of Chicago — Philosophical Commentaries on the Yijing
+https://ealc.uchicago.edu/node/843
+Family: academic_or_institutional | Publisher: ealc.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b995975527bc27bd8d2a1fc4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-076] Osaka Metropolitan University — Philosophy recommended books
+https://www.omu.ac.jp/lit/philosophy/assets/BookList.pdf
+Family: academic_or_institutional | Publisher: www.omu.ac.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1fd8264aa596bb671cd89707
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-077] Oxford Bibliographies — Contemporary Metaphysics
+https://academic.oup.com/reference/62401/reference-article-abstract/555539577
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8b4aab4bbf7d86dc0e38d692
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-078] Oxford Bibliographies — Metametaphysics
+https://academic.oup.com/reference/62401/reference-article-abstract/555521228
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d369088c0d6ac9f9730595d7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-079] Oxford Bibliographies — Space and Time
+https://academic.oup.com/reference/62401/reference-article-abstract/555540857
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9bd5e1fe0ce1586edd6c320a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-080] Oxford Bibliographies — Contemporary Hylomorphism
+https://academic.oup.com/reference/62401/reference-article-abstract/555522470
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b6940735f09bee041a8b1f8e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-081] Oxford Bibliographies — Feminist Metaphysics
+https://academic.oup.com/reference/62401/reference-article-abstract/555537196
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:59c69461c04d9e5da463ad6e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-082] Oxford Studies in Metaphysics, Vol. 1
+https://academic.oup.com/book/49771
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7eecf75a0cb67c675b3ff9b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-083] Oxford Studies in Metaphysics, Vol. 2
+https://academic.oup.com/book/50112
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4537699022f3c8c08b44533f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-084] Oxford Studies in Metaphysics, Vol. 3
+https://academic.oup.com/book/50013
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:363e8a5d7b6de302ee6ca936
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-085] Oxford Studies in Metaphysics, Vol. 4
+https://academic.oup.com/book/53322
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:421cb9dbf770466af2de24c1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-086] Oxford Studies in Metaphysics, Vol. 7
+https://academic.oup.com/book/36237
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9c4d3466f64c754f6712384b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-087] Oxford Studies in Metaphysics, Vol. 9
+https://academic.oup.com/book/8192
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5306f4c1ef94938a68d3d638
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-088] Oxford Studies in Metaphysics, Vol. 10
+https://academic.oup.com/book/26592
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:67b04809ae6c634ae7467f39
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-089] Oxford Studies in Metaphysics, Vol. 11
+https://academic.oup.com/book/26552
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f835b9657afd06bff18510a8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-090] OUP — Metametaphysics: New Essays on the Foundations of Ontology
+https://academic.oup.com/book/50169
+Family: editorial_or_specialist | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:53d8188dc5124f7945482d2b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-091] OUP — The Four-Category Ontology
+https://academic.oup.com/book/3774
+Family: editorial_or_specialist | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3054a1287f4aa5e091c16218
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-092] OUP — The Possibility of Metaphysics
+https://academic.oup.com/book/3944
+Family: editorial_or_specialist | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cc7b8c1ac5ad2b42ad2c1ef1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-093] OUP — Making Things Up
+https://academic.oup.com/book/11873
+Family: editorial_or_specialist | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:df55b2e18fa40e40ce7bb317
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-094] OUP — Ontology, Modality, and Mind
+https://academic.oup.com/book/10287
+Family: editorial_or_specialist | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:21f55e83e8bd3af801bcb2aa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-095] Cambridge — Metaphysical Grounding
+https://www.cambridge.org/core/books/metaphysical-grounding/C831A8BA2B70D1F07FA847C0CB72CB15
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dc56b7f3d60be8b056e23044
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-096] Cambridge — A World of States of Affairs
+https://www.cambridge.org/core/books/world-of-states-of-affairs/22A05B4801290FF6D55A51300936013A
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fa20f1fa9f7b42db547a2f15
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-097] Cambridge — Contemporary Aristotelian Metaphysics
+https://www.cambridge.org/core/books/contemporary-aristotelian-metaphysics/F40AA7DA63C4B94DBC19341EC1112CF8
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ba390304cf96c720bcf35e9c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-098] Cambridge — Fundamentality and Grounding
+https://www.cambridge.org/core/books/fundamentality-and-grounding/3F9C61241D337288816E64B95A4F3C1C
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f6be86a3141f9b4a9d7405aa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-099] The Review of Metaphysics — journal overview
+https://www.pjip.org/journal/1000240/review-of-metaphysics
+Family: editorial_or_specialist | Publisher: www.pjip.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9a91581d63d9612c93811965
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-100] Oxford Bibliographies/PhilPapers — Contemporary African Philosophy PDF
+https://philpapers.org/archive/METCAP.pdf
+Family: academic_or_institutional | Publisher: philpapers.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5af80e4a38fcdeb5eb01f5c0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-101] Cairn — Bibliography for Greek philosophy/Aristotle metaphysics
+https://shs.cairn.info/la-philosophie-grecque--9782715420090-page-511?lang=fr
+Family: editorial_or_specialist | Publisher: shs.cairn.info | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3ce1829bf716d98a711bc321
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-102] Dialnet — Logos: Anales del Seminario de Metafísica, issue 9
+https://dialnet.unirioja.es/ejemplar/138122
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a7c24b0ef79122a7fe55016c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-103] USC Dornsife — Five books for life’s biggest philosophical questions
+https://dornsife.usc.edu/news/stories/philosophy-books-for-beginners/
+Family: academic_or_institutional | Publisher: dornsife.usc.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4b70f63b192ddf50052a101f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-104] Five Books — Key philosophical texts in the Western canon
+https://fivebooks.com/best-books/key-philosophical-texts-western-nigel-warburton/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ec9902211a688073c4318c18
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-105] Read This Twice — Best books on metaphysics
+https://www.readthistwice.com/lists/best-books-on-metaphysics
+Family: editorial_or_specialist | Publisher: www.readthistwice.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:796d4e240b590b7fdc684ac2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-106] Goodreads — Metaphysical Philosophy list
+https://www.goodreads.com/list/show/238237.Metaphysical_philosophy
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c916659f47c11d1fd2551d45
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-107] Goodreads — Lists containing Aristotle’s Metaphysics
+https://www.goodreads.com/list/book/208036
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f6a611e4a720e5270d66d034
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-108] Goodreads — Best Philosophy Introductions
+https://www.goodreads.com/list/show/23390.Best_Philosophy_Introductions?tab=book
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ae9fc7b7f1a89e61472a8997
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-109] Goodreads — Best Popular Philosophy user-vote list
+https://www.goodreads.com/list/user_vote/5754989?tab=book
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c4c3761d1e2f875a1ca5ecd4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-110] Reddit r/Metaphysics — Reading List
+https://www.reddit.com/r/Metaphysics/comments/1i139cj
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5439a5cdd146de6fdfac8c68
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-111] Reddit r/askphilosophy — Starting with metaphysics
+https://www.reddit.com/r/askphilosophy/comments/lmmhfy
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7a7e2b1ac01886a441681b58
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-112] Reddit r/askphilosophy — Help with reading list on epistemology and metaphysics
+https://www.reddit.com/r/askphilosophy/comments/g3zglw
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:90e2f5350924ae9bb7a372d8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-113] Reddit r/askphilosophy — Book recs on metaphysics
+https://www.reddit.com/r/askphilosophy/comments/1qy0wb6/book_recs_on_metaphysics/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:405bc8fc97a7eb04e2208308
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-114] Reddit r/askphilosophy — Books about metaphysics
+https://www.reddit.com/r/askphilosophy/comments/1cm6zll
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6f013a7079e6cb7e76680da4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-115] Reddit r/askphilosophy — Metaphysics/Epistemology book recs
+https://www.reddit.com/r/askphilosophy/comments/1slhgbv/metaphysicsepistemology_book_recs/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:93f06ac4f1f4aa8af0d6ef6c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-116] Reddit r/PhilosophyBookClub — Philosophy book recommendations (metaphysics)
+https://www.reddit.com/r/PhilosophyBookClub/comments/1vxax0j/philosophy_book_recommendations/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2803ba980c0f0fab344f879a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-117] Reddit r/askphilosophy — Metaphysics + Epistemology reading order
+https://www.reddit.com/r/askphilosophy/comments/1l1m5ro
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3af7af85864c3c6fe7c56ba7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-118] Reddit r/askphilosophy — Core/magnum-opus books by major philosophers
+https://www.reddit.com/r/askphilosophy/comments/1vainro/what_is_the_one_book_that_contains_the_core/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6af3420c78f54e5bf364bdf5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-119] Reddit r/askphilosophy — Aristotle reading for Heidegger
+https://www.reddit.com/r/askphilosophy/comments/1536dpj
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6ac1329f8de8631aa0c7c383
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-120] Douban — Aristotle, Metaphysics (People’s University Press ed.)
+https://book.douban.com/subject/1084419/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:63b93f2074f43a3fdc09ed47
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-121] Douban — Aristotle, Metaphysics (Commercial Press ed.)
+https://book.douban.com/subject/1263204/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:76cb175b7bfd13f7293e09b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-122] Douban — Kant, Critique of Pure Reason (People’s Press ed.)
+https://book.douban.com/subject/1216729/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4a494e7a08f95968bb25c479
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-123] Douban — Kant collected works Vol. 4 / Prolegomena etc.
+https://book.douban.com/subject/1443350/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4448671c470b867910fccd1e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-124] Douban — Heidegger, Being and Time
+https://book.douban.com/subject/1783111/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:836df773ff597f4803dc8894
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-125] Douban — The Emptiness of Emptiness (Madhyamaka study)
+https://book.douban.com/subject/27594134/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4e9c5731f2dae20490cd5a61
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-126] East China Normal University — 2024 philosophy/literary theory article citing Kant/Heidegger Chinese editions
+https://tsla.ecnu.edu.cn/EN/Y2024/V44/I2/208
+Family: academic_or_institutional | Publisher: tsla.ecnu.edu.cn | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b3b9818803b84237e64fc161
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-127] GCORES — Chinese philosophy article with Kant/Heidegger book references
+https://www.gcores.com/articles/196058
+Family: editorial_or_specialist | Publisher: www.gcores.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:422b0021f426dba4643df808
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-128] Yomeru — 137 recommended metaphysics books
+https://yomeru.jp/%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6
+Family: editorial_or_specialist | Publisher: yomeru.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f137b61d6ae433e2c7ff4faa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-129] 深夜2時の読書論 — 10 recommended metaphysics books
+https://e-tohoku.jp/metaphysics-books-recommendation/
+Family: editorial_or_specialist | Publisher: e-tohoku.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0a685752756226be9cc1eea7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-130] Honcierge — 5 recommended books for learning metaphysics
+https://honcierge.jp/articles/shelf_story/9406
+Family: editorial_or_specialist | Publisher: honcierge.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:72f890940b5c0fbdfb360cae
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-131] Book review site (Japan) — metaphysics/philosophy recommendations
+https://shohyoubookreview.com/archives/942
+Family: editorial_or_specialist | Publisher: shohyoubookreview.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6168d0c61a1c564e1fb3115d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-132] Online Library Japan — metaphysics overview and recommended classics
+https://online-library.site/?p=1541
+Family: academic_or_institutional | Publisher: online-library.site | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:11a0b4c5aeada3fb8a4db423
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-133] Bookmeter — Martin Heidegger books ranked by registrations/reviews
+https://bookmeter.com/authors/2977
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5318c8cbff627dfb26b2f0cf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-134] Bookmeter — Heidegger, Introduction to Metaphysics
+https://bookmeter.com/books/577341
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:264ab741d97d61b095c53917
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-135] Bookmeter — Aristotle books ranked by registrations/reviews
+https://bookmeter.com/authors/578
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e6cb4234e472aaab2c77e5e5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-136] National Diet Library — Hegel/post-metaphysics research title
+https://ndlsearch.ndl.go.jp/en/books/R100000002-I033621188
+Family: academic_or_institutional | Publisher: ndlsearch.ndl.go.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8376f6dc7c36d281be15c770
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-137] National Diet Library — Schopenhauer introduction/reception title
+https://ndlsearch.ndl.go.jp/en/books/R100000002-I000000923525
+Family: academic_or_institutional | Publisher: ndlsearch.ndl.go.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9330a6a014669c94a2f98a20
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-138] National Diet Library — Current Kant research title
+https://ndlsearch.ndl.go.jp/en/books/R100000002-I033775440
+Family: academic_or_institutional | Publisher: ndlsearch.ndl.go.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c40942c6737ff3e81ef3df92
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-139] National Diet Library — Nonexistence/metaphysics title
+https://ndlsearch.ndl.go.jp/en/books/R100000002-I023567732
+Family: academic_or_institutional | Publisher: ndlsearch.ndl.go.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:56c6a9f3414e95ede2f96dd3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-140] Filozofuj! — Ontologia, czyli co?
+https://filozofuj.eu/arkadiusz-chrudzimski-1-ontologia-czyli-co/
+Family: editorial_or_specialist | Publisher: filozofuj.eu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0768bc9b4fb3d608cba4e395
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-141] Filozofuj! — Trilingual edition of Aristotle’s Metaphysics
+https://filozofuj.eu/trojjezyczne-wydanie-metafizyki-arystotelesa/
+Family: editorial_or_specialist | Publisher: filozofuj.eu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dc55096ff800656cff232000
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-142] Lubimyczytać — Kant, Critique of Pure Reason
+https://lubimyczytac.pl/ksiazka/5009750/krytyka-czystego-rozumu
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:23542ee21e8fecd916879634
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-143] Dialnet — Heidegger monograph record
+https://dialnet.unirioja.es/servlet/libro?codigo=292305
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3b37c58287437cd1317a3459
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-144] Dialnet — Heidegger reader of Aristotle’s Metaphysics (2025 article)
+https://dialnet.unirioja.es/servlet/articulo?codigo=10212660
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:635e8a012e62b8e30eff65e0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-145] Dialnet — thesis on Zubiri and metaphysics
+https://dialnet.unirioja.es/servlet/tesis?codigo=315255
+Family: editorial_or_specialist | Publisher: dialnet.unirioja.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aafee71cfb054359fa86267f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-146] Cairn — Heidegger/Aristotle bibliographical discussion
+https://shs.cairn.info/revue-philosophie-2008-2-page-3?lang=fr
+Family: editorial_or_specialist | Publisher: shs.cairn.info | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cec234d656f006d7b7e8d35c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-147] Perspectives philosophiques — Kant and metaphysics
+https://perspectivesphilosophiques.net/perspectives-021a/
+Family: editorial_or_specialist | Publisher: perspectivesphilosophiques.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e34b06360884890e55b8e3b1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-148] Fondation Jean Piaget — Kant bibliography/page
+https://www.fondationjeanpiaget.ch/fjp/site/oeuvre/index_auteurs_2.php?LANG=FR&MENU=11&NIV=2
+Family: editorial_or_specialist | Publisher: www.fondationjeanpiaget.ch | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6adf2745aae2139cfa125576
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-149] KCI — Korean article on metaphysical ontology
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001290172
+Family: editorial_or_specialist | Publisher: www.kci.go.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:82988d9fce85d80ec1058798
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-150] KCI — Korean study of Kant’s metaphysics
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002210665
+Family: editorial_or_specialist | Publisher: www.kci.go.kr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:028a952687e7a23f9ad39c38
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-151] YES24 Korea — Aristotle, Metaphysics
+https://www.yes24.com/product/goods/62062367
+Family: editorial_or_specialist | Publisher: www.yes24.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b199e86bdcc279805ffd77d6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-152] YES24 Korea — Metaphysics category bestseller page
+https://www.yes24.com/Product/Category/BestSeller?categoryNumber=001001019003031&pageNumber=1&pageSize=24
+Family: editorial_or_specialist | Publisher: www.yes24.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:83171c8b32d67ea39abe58d7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[METAPHYSICS-153] YES24 Korea — Heidegger, Kant and the Problem of Metaphysics
+https://www.yes24.com/product/goods/202927
+Family: editorial_or_specialist | Publisher: www.yes24.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0d46ae76436a5c45da87b723
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: books-metaphysics. Included 100 current entries and 153 current source records. Carry out the update and return the enhanced ranking with the complete source register.

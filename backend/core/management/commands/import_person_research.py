@@ -5,6 +5,7 @@ from pathlib import Path
 from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 from backend.core.models import Person, ResearchSource
+from backend.core.management.receipts import save_import_receipt
 
 
 class Command(BaseCommand):
@@ -40,7 +41,5 @@ class Command(BaseCommand):
         if options['dry_run']:
             self.stdout.write(f'Validated {len(results)} reviewed people; no writes.')
             return
-        receipt = path.with_name(path.stem + '-import-receipt.json')
-        if not receipt.exists():
-            receipt.write_text(json.dumps(dict(input_sha256=hashlib.sha256(raw).hexdigest(), records=results), indent=2) + '\n')
+        receipt = save_import_receipt(path, dict(input_sha256=hashlib.sha256(raw).hexdigest(), records=results))
         self.stdout.write(f'Imported {sum(r["created"] for r in results)} people; existing people preserved. Receipt: {receipt}')

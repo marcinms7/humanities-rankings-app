@@ -1,0 +1,28 @@
+{
+  "run_id": "2026-09-27-owner-docx-updates",
+  "status": "imported",
+  "target": "philosophers-all-time",
+  "files": [
+    {
+      "filename": "Philosophers_All_Time_Expanded_Ranking.docx",
+      "target": "philosophers-all-time",
+      "sha256": "09237a51f9b99b46635d7c2375594d25878c26dd8ac85f61c4481e64270b1282",
+      "directory": "research/incoming/philosophers-all-time/2026-09-27-owner-docx-updates",
+      "blocks": 2695,
+      "tables": 7,
+      "chars": 285750
+    },
+    {
+      "filename": "Philosophers_All_Time_Research_Update_2026-09-27.docx",
+      "target": "philosophers-all-time",
+      "sha256": "4e09f27ffbaee21bfff99a5800229c159572bf0ec111c93239395826496dbbf4",
+      "directory": "research/incoming/philosophers-all-time/2026-09-27-owner-docx-updates",
+      "blocks": 5489,
+      "tables": 4,
+      "chars": 602596
+    }
+  ],
+  "database_receipt": "research/_runs/2026-09-27/owner-docx-updates/philosophers-all-time-import-receipt.json",
+  "preserved_all_existing_sources": true,
+  "source_by_source_web_verification_performed": false
+}

@@ -4,10 +4,11 @@ from django.contrib.auth.models import AbstractUser
 from django.core.exceptions import ValidationError
 from django.core.validators import MinValueValidator, MaxValueValidator
 from django.db import models
-from django.db.models import Q
+from django.db.models import F, Q
 
 
 class User(AbstractUser):
+    home_page = models.CharField(max_length=20, default='explore', choices=[('explore', 'Explore'), ('today', 'Today')])
     registration_pending = models.BooleanField(default=False)
     display_name = models.CharField(max_length=100, blank=True)
     pages_per_day = models.PositiveIntegerField(default=25, validators=[MinValueValidator(1), MaxValueValidator(2000)])
@@ -30,6 +31,32 @@ class Timestamped(models.Model):
 class ClassicalStudyProfile(Timestamped):
     user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     state = models.JSONField(default=dict, blank=True)
+
+
+class StudyRecord(Timestamped):
+    """One growing note/essay/exercise with its existing revision history intact."""
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='study_records')
+    record_key = models.CharField(max_length=64)
+    path = models.JSONField()
+    value = models.JSONField(default=dict, null=True, blank=True)
+    revision = models.PositiveIntegerField(default=1)
+
+    class Meta:
+        constraints = [models.UniqueConstraint(fields=['user', 'record_key'], name='unique_private_study_record')]
+
+
+class MutationReceipt(models.Model):
+    """Private replay receipt; keys never authorize access without the account."""
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    key = models.CharField(max_length=128)
+    request_hash = models.CharField(max_length=64)
+    status_code = models.PositiveSmallIntegerField()
+    response = models.JSONField(null=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        constraints = [models.UniqueConstraint(fields=['user', 'key'], name='unique_private_mutation_key')]
+        indexes = [models.Index(fields=['created_at'], name='mutation_receipt_created_idx')]
 
 
 class Person(Timestamped):
@@ -102,6 +129,14 @@ class Work(Timestamped):
 
 
 class Edition(Timestamped):
+    pages_basis = models.CharField(max_length=40, default='unknown', choices=[
+        ('unknown', 'Basis not recorded'), ('isbn_matched', 'ISBN-matched provider record'),
+        ('estimated_across_editions', 'Estimate across editions'), ('manually_recorded', 'Manually recorded')])
+    pages_source_url = models.URLField(max_length=1000, blank=True)
+    cover_source_url = models.URLField(max_length=1000, blank=True)
+    cover_basis = models.CharField(max_length=40, default='unknown', choices=[
+        ('unknown', 'Basis not recorded'), ('representative_work', 'Representative work image'),
+        ('edition_matched', 'Edition-matched image'), ('manually_supplied', 'Manually supplied')])
     is_archived = models.BooleanField(default=False)
     work = models.ForeignKey(Work, on_delete=models.CASCADE, related_name='editions')
     language = models.CharField(max_length=60, default='English')
@@ -282,6 +317,7 @@ class RankingPreference(Timestamped):
 
 
 class LibraryItem(Timestamped):
+    reading_basis = models.JSONField(default=dict, blank=True)
     shelves = models.JSONField(default=list, blank=True)
     personal_tags = models.JSONField(default=list, blank=True)
     read_next_position = models.PositiveIntegerField(null=True, blank=True, validators=[MinValueValidator(1)])
@@ -294,6 +330,14 @@ class LibraryItem(Timestamped):
     current_page = models.PositiveIntegerField(default=0)
     rating = models.PositiveSmallIntegerField(null=True, blank=True, validators=[MinValueValidator(1), MaxValueValidator(10)])
     notes = models.TextField(blank=True)
+    def save(self, *args, **kwargs):
+        if not self.reading_basis:
+            from .reading_basis import capture_edition
+            self.reading_basis = capture_edition(self.edition or self.work.default_edition)
+            if kwargs.get('update_fields') is not None:
+                kwargs['update_fields'] = set(kwargs['update_fields']) | {'reading_basis'}
+        super().save(*args, **kwargs)
+
     class Meta:
         ordering = ['-updated_at']
         constraints = [models.UniqueConstraint(fields=['user', 'work'], name='unique_library_work'),
@@ -318,6 +362,7 @@ class AuthRateLimit(models.Model):
 
 
 class ReadingAttempt(Timestamped):
+    reading_basis = models.JSONField(default=dict, blank=True)
     user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     work = models.ForeignKey(Work, on_delete=models.PROTECT)
     edition = models.ForeignKey(Edition, null=True, blank=True, on_delete=models.PROTECT)
@@ -334,15 +379,108 @@ class ReadingAttempt(Timestamped):
 
 
 class PlanItem(Timestamped):
+    pages_read = models.PositiveIntegerField(null=True, blank=True, default=None)
+    carried_pages = models.PositiveIntegerField(default=0, editable=False)
+    reading_basis = models.JSONField(default=dict, blank=True)
     user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     work = models.ForeignKey(Work, on_delete=models.CASCADE)
     month = models.DateField(help_text='First day of the month')
     position = models.PositiveIntegerField(default=1)
     pages = models.PositiveIntegerField(null=True, blank=True)
     locked = models.BooleanField(default=False)
+    def save(self, *args, **kwargs):
+        if not self.reading_basis:
+            from .reading_basis import capture_plan
+            self.reading_basis = capture_plan(self.work, self.user_id)
+            if kwargs.get('update_fields') is not None:
+                kwargs['update_fields'] = set(kwargs['update_fields']) | {'reading_basis'}
+        super().save(*args, **kwargs)
+
     class Meta:
         ordering = ['month', 'position', 'id']
         constraints = [models.UniqueConstraint(fields=['user', 'work', 'month'], name='unique_plan_work_month'),
                        models.CheckConstraint(condition=Q(month__day=1), name='plan_month_first_day'),
                        models.CheckConstraint(condition=Q(position__gte=1), name='plan_position_positive'),
-                       models.CheckConstraint(condition=Q(pages__isnull=True) | Q(pages__gte=1), name='plan_pages_positive')]
+                       models.CheckConstraint(condition=Q(pages__isnull=True) | Q(pages__gte=1), name='plan_pages_positive'),
+                       models.CheckConstraint(condition=Q(carried_pages=0) | Q(pages__isnull=False, pages__gte=F('carried_pages')), name='plan_carry_within_pages'),
+                       models.CheckConstraint(condition=Q(pages_read__isnull=True) | Q(pages__isnull=False, pages_read__lte=F('pages') - F('carried_pages')), name='plan_read_within_pages')]
+
+
+class ReadingAdjustment(models.Model):
+    """Edition/progress adjustments are not completed reading attempts."""
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    work = models.ForeignKey(Work, on_delete=models.PROTECT)
+    library_item = models.ForeignKey(LibraryItem, null=True, on_delete=models.SET_NULL)
+    created_at = models.DateTimeField(auto_now_add=True)
+    method = models.CharField(max_length=30)
+    before = models.JSONField(default=dict)
+    after = models.JSONField(default=dict)
+
+
+class SavedDiscoveryFilter(Timestamped):
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='saved_discovery_filters')
+    name = models.CharField(max_length=100)
+    filters = models.JSONField(default=dict)
+
+    class Meta:
+        ordering = ['name', 'id']
+        constraints = [models.UniqueConstraint(fields=['user', 'name'], name='unique_user_discovery_filter')]
+
+
+class PlanCarryover(models.Model):
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    source_plan = models.ForeignKey(PlanItem, null=True, on_delete=models.SET_NULL, related_name='carryovers_out')
+    target_plan = models.ForeignKey(PlanItem, null=True, on_delete=models.SET_NULL, related_name='carryovers_in')
+    work = models.ForeignKey(Work, on_delete=models.PROTECT)
+    source_month = models.DateField()
+    target_month = models.DateField()
+    pages = models.PositiveIntegerField(validators=[MinValueValidator(1)])
+    reading_basis = models.JSONField(default=dict)
+    created_at = models.DateTimeField(auto_now_add=True)
+
+
+class CatalogReviewDecision(models.Model):
+    actor = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.PROTECT)
+    batch_id = models.UUIDField(default=uuid.uuid4, db_index=True)
+    entity_type = models.CharField(max_length=10)
+    entity_id = models.PositiveIntegerField()
+    issue = models.CharField(max_length=40)
+    fingerprint = models.CharField(max_length=64)
+    action = models.CharField(max_length=24)
+    note = models.TextField(blank=True)
+    evidence_url = models.URLField(max_length=1000, blank=True)
+    deferred_until = models.DateField(null=True, blank=True)
+    snapshot = models.JSONField(default=dict)
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        indexes = [models.Index(fields=['entity_type', 'entity_id', 'issue', 'created_at'], name='catalog_review_entity_idx')]
+
+
+class RecommendationFeedback(Timestamped):
+    """Owned suggestion signals; they never change merit scores or list order."""
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='recommendation_feedback')
+    work = models.ForeignKey(Work, null=True, blank=True, on_delete=models.PROTECT)
+    saved_filter = models.ForeignKey(SavedDiscoveryFilter, null=True, blank=True, on_delete=models.SET_NULL)
+    action = models.CharField(max_length=24, choices=[(value, value) for value in (
+        'preferences', 'neutral', 'more_like', 'not_interested', 'later')])
+    details = models.JSONField(default=dict, blank=True)
+    deferred_until = models.DateField(null=True, blank=True)
+    revision = models.PositiveIntegerField(default=1)
+
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(fields=['user', 'work'], name='unique_recommendation_work_feedback'),
+            models.UniqueConstraint(fields=['user'], condition=Q(work__isnull=True), name='unique_recommendation_preferences'),
+            models.CheckConstraint(condition=(Q(work__isnull=True, action='preferences') | Q(work__isnull=False, saved_filter__isnull=True, action__in=['neutral', 'more_like', 'not_interested', 'later'])), name='recommendation_feedback_target'),
+            models.CheckConstraint(condition=(Q(action='later', deferred_until__isnull=False) | (~Q(action='later') & Q(deferred_until__isnull=True))), name='recommendation_deferral_consistent'),
+        ]
+        indexes = [models.Index(fields=['user', 'action'], name='recommendation_user_action')]
+
+
+class ReadingCalendar(Timestamped):
+    """Private temporary exceptions; baseline reading targets and plans stay intact."""
+    user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='reading_calendar')
+    pauses = models.JSONField(default=list, blank=True)
+    month_targets = models.JSONField(default=list, blank=True)
+    revision = models.PositiveIntegerField(default=1)

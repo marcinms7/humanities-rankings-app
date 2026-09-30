@@ -1,0 +1,73 @@
+Creating test database for alias 'default'...
+..Bad Request: /api/library/1/
+Conflict: /api/library/1/edition-change/
+.Forbidden: /api/rankings/1/
+Forbidden: /api/rankings/1/entries/
+Forbidden: /api/rankings/1/entries/
+Forbidden: /api/rankings/1/reorder/
+Forbidden: /api/rankings/1/
+............Bad Request: /api/works/
+Bad Request: /api/works/1/
+.Forbidden: /api/rankings/
+Forbidden: /api/profile/
+Forbidden: /api/library/
+.Bad Request: /api/rankings/2/
+..Bad Request: /api/library/
+Bad Request: /api/library/
+Bad Request: /api/library/
+Bad Request: /api/library/
+Bad Request: /api/library/
+Bad Request: /api/library/1/
+..Bad Request: /api/library/
+Bad Request: /api/library/1/
+Bad Request: /api/library/1/
+Bad Request: /api/library/1/
+Bad Request: /api/library/1/
+Bad Request: /api/library/1/
+.Bad Request: /api/rankings/2/entries/
+Bad Request: /api/rankings/2/entries/
+Forbidden: /api/rankings/3/reorder/
+.Bad Request: /api/plan/1/
+Bad Request: /api/plan/1/
+.Forbidden: /api/rankings/1/
+.Forbidden: /api/works/
+.Bad Request: /api/plan/suggest/
+.Bad Request: /api/plan/suggest/
+.Bad Request: /api/plan/suggest/
+Bad Request: /api/plan/suggest/
+Bad Request: /api/plan/suggest/
+Bad Request: /api/plan/suggest/
+Bad Request: /api/plan/suggest/
+Bad Request: /api/plan/suggest/
+Bad Request: /api/plan/
+Bad Request: /api/plan/
+Bad Request: /api/plan/
+.Bad Request: /api/rankings/1/preference/
+Bad Request: /api/rankings/1/preference/
+Bad Request: /api/rankings/1/preference/
+Bad Request: /api/rankings/1/preference/
+Bad Request: /api/rankings/1/preference/
+.Not Found: /api/library/1/
+Not Found: /api/library/1/
+Not Found: /api/plan/1/
+Not Found: /api/plan/1/
+Not Found: /api/rankings/2/
+Not Found: /api/rankings/2/
+....Conflict: /api/rankings/3/
+..Not Found: /api/shared/a033f24f-4b66-4d4b-9890-571887e265d1/
+....Forbidden (CSRF token missing.): /api/session/
+Forbidden (CSRF token missing.): /api/session/
+Forbidden: /api/profile/
+Forbidden: /api/profile/
+Forbidden (CSRF token missing.): /api/session/
+Forbidden (CSRF token missing.): /api/session/
+Forbidden: /api/session/
+Forbidden: /api/session/
+....
+----------------------------------------------------------------------
+Ran 44 tests in 1.509s
+
+OK
+Destroying test database for alias 'default'...
+Found 44 test(s).
+System check identified no issues (0 silenced).

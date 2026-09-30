@@ -1,5 +1,7 @@
 # BookLive · Readers’ Best 100 Novels (2018)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: imported with one publisher-hidden source position (99 verified entries; rank 92 unresolved), checked 2026-09-14.
 
 Primary source: https://booklive.jp/feature/index/id/novel100

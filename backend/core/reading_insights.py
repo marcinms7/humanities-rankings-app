@@ -89,7 +89,8 @@ def overlap(request):
         target = get_object_or_404(shared_lists(request.user), pk=positive_id(ranking, 'ranking'))
         works = works.filter(pk__in=entries.filter(ranking=target).values('work_id'))
     if search := request.query_params.get('search'):
-        works = works.filter(Q(title__icontains=search) | Q(authors__name__icontains=search)).distinct()
+        from .search import search_catalog
+        works = search_catalog(works, search, order=False)
     if genre := request.query_params.get('genre'):
         works = works.filter(tags__kind='genre', tags__is_archived=False, tags__name=genre).distinct()
     read = completed_work_ids(request.user)

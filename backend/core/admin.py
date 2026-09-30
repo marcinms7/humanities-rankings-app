@@ -5,7 +5,29 @@ from .models import (User, Person, Work, Edition, Tag, Ranking, RankingEntry, Ra
 
 admin.site.site_header = 'Marginalia · Administration'
 admin.site.register(User, UserAdmin)
-admin.site.register([RankingPreference, LibraryItem, PlanItem])
+admin.site.register([RankingPreference, LibraryItem])
+
+
+@admin.register(PlanItem)
+class PlanItemAdmin(admin.ModelAdmin):
+    """Use the planner's validated progress/carryover flows for private writes.
+
+    A generic admin form bypasses allocation snapshots, preview signatures and
+    protected reading history. Keep this view available for inspection only.
+    """
+    list_display = ['user', 'work', 'month', 'pages', 'pages_read', 'carried_pages', 'locked']
+    list_filter = ['month', 'locked']
+    search_fields = ['work__title', 'user__username']
+    actions = None
+
+    def has_add_permission(self, request):
+        return False
+
+    def has_change_permission(self, request, obj=None):
+        return False
+
+    def has_delete_permission(self, request, obj=None):
+        return False
 
 class ArchiveOnlyAdmin(admin.ModelAdmin):
     list_filter = ['is_archived']

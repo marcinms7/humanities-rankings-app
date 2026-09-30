@@ -1,5 +1,7 @@
 # Books · Scotland
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 ## Owner report qualification and publication — 14 September 2026
 
 The owner-supplied **“Best Books from Scotland Ever Written”** report remains preserved at `../incoming/books-scotland/2026-09-13-owner-chat-attachments/report.txt`. It supplies the ordered Top 50, scope and a 270-page source pool, but originally described the links as pages it *would use*. Consequently, the prior intake retained all sources as unverified leads and did not publish an empty ranking.

@@ -1,0 +1,25 @@
+.reading-calendar fieldset {
+  min-width: 0;
+  border: 0;
+  padding: 0;
+  margin: 1.5rem 0;
+}
+.reading-calendar legend {
+  padding: 0;
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+}
+.reading-calendar .panel,
+.reading-calendar fieldset > .form-grid {
+  margin: 0.8rem 0;
+}
+.reading-calendar .panel > .form-grid + .field {
+  margin-top: 1rem;
+}
+.reading-calendar .text-button {
+  justify-self: start;
+  margin-top: 0.7rem;
+}
+.reading-calendar details {
+  margin-top: 0.6rem;
+}

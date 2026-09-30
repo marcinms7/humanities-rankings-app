@@ -1,0 +1,1031 @@
+{"cycle": 1, "kind": "pages", "status": "starting"}
+[1/50] no_author: The Cambridge Ancient History
+[2/50] found: Ancient Greece: A Political, Social, and Cultural History — 592 pages
+[3/50] found: The Oxford History of Ancient Egypt — 524 pages
+[4/50] found: The Cambridge History of Ancient China — 1180 pages
+[5/50] no_exact_page_match: The Corrupting Sea
+[6/50] no_exact_page_match: Cultural Atlas of Ancient Egypt
+[7/50] no_exact_page_match: Ancient Egypt: A Social History
+[8/50] found: The Archaeology of China — 475 pages
+[9/50] no_exact_page_match: The Cambridge History of China, Vol. 1: The Ch'in and Han Empires
+[10/50] no_exact_page_match: The Birth of Classical Europe
+[11/50] found: Ancient Southeast Asia — 654 pages
+[12/50] no_exact_page_match: The Ancient Maya
+[13/50] no_exact_page_match: Religions of Rome
+[14/50] found: The Roman Empire: Economy, Society and Culture — 231 pages
+[15/50] found: The Anglo-Saxons — 272 pages
+[16/50] no_exact_page_match: English Society in the Eighteenth Century
+[17/50] found: The Enlightened Economy: An Economic History of Britain 1700–1850 — 563 pages
+[18/50] no_exact_page_match: English History 1914–1945
+[19/50] no_exact_page_match: The Causes of the English Civil War
+[20/50] found: The Tudor Revolution in Government — 466 pages
+[21/50] found: Britain in Revolution 1625–1660 — 814 pages
+[22/50] found: The Wars of the Roses: Politics and the Constitution in England, c.1437–1509 — 293 pages
+[23/50] found: Magna Carta — 433 pages
+[24/50] found: The Making of the English Landscape — 240 pages
+[25/50] found: The Gentleman’s Daughter: Women’s Lives in Georgian England — 448 pages
+[26/50] found: Classes and Cultures: England 1918–1951 — 573 pages
+[27/50] found: The Voices of Morebath — 260 pages
+[28/50] found: 1599: A Year in the Life of William Shakespeare — 352 pages
+[29/50] found: Plantagenet England 1225–1360 — 638 pages
+[30/50] found: England and Its Rulers 1066–1307 — 344 pages
+[31/50] no_exact_page_match: Building Anglo-Saxon England
+[32/50] no_exact_page_match: Britain After Rome: The Fall and Rise, 400 to 1070
+[33/50] no_exact_page_match: The Anglo-Saxon World
+[34/50] ambiguous: William the Conqueror
+[35/50] found: The First English Empire: Power and Identities in the British Isles 1093–1343 — 219 pages
+[36/50] found: The Reign of Edward III: Crown and Political Society in England, 1327–1377 — 289 pages
+[37/50] found: Henry VI and the Politics of Kingship — 418 pages
+[38/50] found: Henry IV — 528 pages
+[39/50] found: English Reformations: Religion, Politics, and Society under the Tudors — 367 pages
+[40/50] found: Popular Politics and the English Reformation — 362 pages
+[41/50] found: Being Protestant in Reformation Britain — 509 pages
+[42/50] ambiguous: Providence in Early Modern England
+[43/50] found: Birth, Marriage and Death: Ritual, Religion, and the Life-Cycle in Tudor and Stuart England — 650 pages
+[44/50] found: Revel, Riot and Rebellion: Popular Politics and Culture in England 1603–1660 — 332 pages
+[45/50] found: The Crisis of the Aristocracy 1558–1641 — 841 pages
+[46/50] found: The Origins of English Individualism — 216 pages
+[47/50] found: The State and Social Change in Early Modern England, c.1550–1640 — 338 pages
+[48/50] found: Devil-Land: England Under Siege 1588–1688 — 682 pages
+[49/50] found: The English Civil Wars 1640–1660 — 192 pages
+[50/50] found: The Restoration: A Political and Religious History of England and Wales 1658–1667 — 379 pages
+{
+  "queued": 50,
+  "saved": 34,
+  "processed": 50,
+  "no_author": 1,
+  "found": 34,
+  "no_exact_page_match": 13,
+  "ambiguous": 2,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4228,
+    "identity_review": 48,
+    "pending": 145,
+    "unresolved": 3262
+  },
+  "next_retry": null
+}
+{"cycle": 1, "kind": "covers", "status": "starting"}
+[1807] no_credited_author — The Cambridge Ancient History
+[1806] covered — The Oxford History of Ancient Egypt
+[1821] covered — The Cambridge History of Ancient China
+[1832] covered — The Corrupting Sea
+[1814] openlibrary_cover_error: HTTP Error 502: Bad Gateway; internet_archive_no_safe_cover — Ancient Greece: A Political, Social, and Cultural History
+[1869] covered — Cultural Atlas of Ancient Egypt
+[1870] covered — Ancient Egypt: A Social History
+[1879] covered — The Rise of Civilization in India and Pakistan
+[1883] covered — The Archaeology of China
+[1887] openlibrary_no_safe_cover; internet_archive_no_safe_cover — History of the Qin and Han (秦汉史)
+[1886] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Cambridge History of China, Vol. 1: The Ch'in and Han Empires
+[1890] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Europe Between the Oceans, 9000 BC–AD 1000
+[1888] covered — Against the Grain
+[1892] covered — Carthage Must Be Destroyed
+[1891] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Birth of Classical Europe
+[1893] covered — The Phoenicians and the West
+[1894] covered — The Ancient Celts
+[1895] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The World of the Scythians
+[1896] covered — Wretched Kush
+[1897] covered — The Kingdom of Kush
+[1898] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Foundations of an African Civilisation: Aksum & the Northern Horn
+[1899] covered — The Origins of Ancient Vietnam
+[1900] covered — Ancient Southeast Asia
+[1901] covered — The Ancient Maya
+[1916] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Economic History of China: From Antiquity to the Nineteenth Century
+[1932] openlibrary_no_safe_cover; internet_archive_no_safe_cover — China at War: Triumph and Tragedy in the Emergence of the New China, 1937–1952
+[1938] openlibrary_ambiguous; internet_archive_no_safe_cover — China Under Mao: A Revolution Derailed
+[1940] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Guoshi Dagang / Outline of National History
+[1941] openlibrary_no_safe_cover; internet_archive_no_safe_cover — General History of China
+[1939] openlibrary_no_safe_cover; internet_archive_no_safe_cover — From Rebel to Ruler: One Hundred Years of the Chinese Communist Party
+[1942] openlibrary_no_safe_cover; internet_archive_no_safe_cover — China: A New Cultural History
+[1943] openlibrary_no_safe_cover; internet_archive_no_safe_cover — 中国历代政治得失
+[1944] openlibrary_no_safe_cover; internet_archive_no_safe_cover — 天朝的崩溃
+[1945] openlibrary_no_safe_cover; internet_archive_no_safe_cover — History of the Southern Ming
+[1946] openlibrary_no_safe_cover; internet_archive_no_safe_cover — 红太阳是怎样升起的
+[1948] openlibrary_no_safe_cover; internet_archive_no_safe_cover — 中国近代史
+[1947] openlibrary_no_safe_cover; internet_archive_no_safe_cover — 隋唐制度渊源略论稿
+[1952] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Palace Walk
+[1989] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Love unto the Grave
+[1998] openlibrary_ambiguous; internet_archive_no_safe_cover — The Bleeding of the Stone
+[1995] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Midaq Alley
+[2005] openlibrary_no_safe_cover; internet_archive_no_safe_cover — We Killed Mangy-Dog and Other Stories
+[2000] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Devil on the Cross
+[2006] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ualalapi
+[2009] openlibrary_ambiguous; internet_archive_no_safe_cover — The Fortunes of Wangrin
+[2012] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Abandoned Baobab
+[2069] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Committee
+[2074] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Most Secret Memory of Men
+[2080] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Conscript
+[2084] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Murder in the Cassava Patch
+{
+  "queued": 50,
+  "covered": 16,
+  "processed": 50,
+  "no_credited_author": 1,
+  "openlibrary_cover_error": 1,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 29,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 3,
+  "provider_errors": 1,
+  "states": {
+    "complete": 3935,
+    "identity_review": 1,
+    "pending": 2108,
+    "retry_exhausted": 239,
+    "retryable": 44,
+    "unresolved": 451
+  },
+  "next_retry": 0.0
+}
+{"cycle": 2, "kind": "pages", "status": "starting"}
+[1/50] found: Restoration: Charles II and His Kingdoms, 1660–1685 — 528 pages
+[2/50] found: The Long Eighteenth Century: British Political and Social History 1688–1832 — 430 pages
+[3/50] found: Captain Swing — 384 pages
+[4/50] found: Liberty’s Dawn: A People’s History of the Industrial Revolution — 315 pages
+[5/50] found: Energy and the English Industrial Revolution — 272 pages
+[6/50] found: The Industrial Revolution — 258 pages
+[7/50] found: The Age of Manufactures, 1700–1820 — 384 pages
+[8/50] found: Agricultural Revolution in England: The Transformation of the Agrarian Economy 1500–1850 — 258 pages
+[9/50] found: Victorian People — 312 pages
+[10/50] found: Victorian England: Portrait of an Age — 219 pages
+[11/50] found: The Mid-Victorian Generation 1846–1886 — 787 pages
+[12/50] found: The Rise of Respectable Society: A Social History of Victorian Britain, 1830–1900 — 382 pages
+[13/50] found: Private Lives, Public Spirit: Britain 1870–1914 — 283 pages
+[14/50] no_exact_page_match: The Chartists: Popular Politics in the Industrial Revolution
+[15/50] found: Chartism: A New History — 464 pages
+[16/50] no_exact_page_match: 1606: William Shakespeare and the Year of Lear
+[17/50] no_exact_page_match: Soul of the Age: The Life, Mind and World of William Shakespeare
+[18/50] found: The Lodger: Shakespeare on Silver Street — 377 pages
+[19/50] found: Tudor England: A History — 720 pages
+[20/50] found: Women in the Medieval English Countryside: Gender and Household in Brigstock Before the Plague — 330 pages
+[21/50] no_exact_page_match: The Ties That Bound: Peasant Families in Medieval England
+[22/50] found: Domestic Dangers: Women, Words, and Sex in Early Modern London — 307 pages
+[23/50] found: Meanings of Manhood in Early Modern England — 292 pages
+[24/50] found: Black Tudors: The Untold Story — 384 pages
+[25/50] found: Black and British: A Forgotten History — 592 pages
+[26/50] found: The English and Their History — 1024 pages
+[27/50] found: Austerity Britain 1945–51 — 692 pages
+[28/50] found: Never Again: Britain 1945–1951 — 544 pages
+[29/50] found: The Road to 1945: British Politics and the Second World War — 339 pages
+[30/50] found: The People: The Rise and Fall of the Working Class, 1910–2010 — 464 pages
+[31/50] no_exact_page_match: The History of England from the Accession of James II
+[32/50] found: The History of England — 582 pages
+[33/50] no_exact_page_match: The History of the Rebellion and Civil Wars in England
+[34/50] no_exact_page_match: Books of Blood, Volumes 1–3
+[35/50] no_exact_page_match: The Call of Cthulhu and Other Weird Stories
+[36/50] no_exact_page_match: Ghost Stories of an Antiquary
+[37/50] found: I Am Legend — 192 pages
+[38/50] no_exact_page_match: Carmilla
+[39/50] no_exact_page_match: Rosemary's Baby
+[40/50] found: The Great God Pan — 73 pages
+[41/50] found: The Exorcist — 400 pages
+[42/50] ambiguous: Songs of a Dead Dreamer
+[43/50] found: Something Wicked This Way Comes — 278 pages
+[44/50] found: Ghost Story — 507 pages
+[45/50] found: Dark Entries — 173 pages
+[46/50] no_exact_page_match: Ancient Sorceries and Other Weird Stories
+[47/50] found: The Hellbound Heart — 176 pages
+[48/50] found: Let the Right One In — 472 pages
+[49/50] found: The Fisherman — 304 pages
+[50/50] found: The Woman in Black — 160 pages
+{
+  "queued": 50,
+  "saved": 37,
+  "processed": 50,
+  "found": 37,
+  "no_exact_page_match": 12,
+  "ambiguous": 1,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4265,
+    "identity_review": 48,
+    "pending": 95,
+    "unresolved": 3275
+  },
+  "next_retry": null
+}
+{"cycle": 2, "kind": "covers", "status": "starting"}
+[2086] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Voice of Agony
+[2085] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Kusadikika
+[2124] openlibrary_no_safe_cover; internet_archive_no_safe_cover — News from the Empire
+[2141] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Polybius
+[2143] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Livy
+[2142] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Tacitus
+[2144] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Fergus Millar
+[2145] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The World of Late Antiquity
+[2146] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Beginnings of Rome
+[2147] covered — The Last Generation of the Roman Republic
+[2148] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Various authors
+[2149] covered — The Social and Economic History of the Roman Empire
+[2151] covered — Enemies of the Roman Order
+[2150] covered — Religions of Rome
+[2152] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Appian
+[2153] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Cassius Dio
+[2154] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Suetonius
+[2155] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ammianus Marcellinus
+[2156] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sallust
+[2157] covered — Italian Manpower 225 B.C.–A.D. 14
+[2158] covered — Rome's Cultural Revolution
+[2159] covered — Imperial Ideology and Provincial Loyalty in the Roman Empire
+[2160] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Roman Near East, 31 BC–AD 337
+[2161] covered — The Roman Empire: Economy, Society and Culture
+[2163] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Claude Nicolet
+[2162] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Personal Patronage under the Early Empire
+[2164] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Géza Alföldy
+[2165] openlibrary_no_safe_cover; internet_archive_no_safe_cover — War and Imperialism in Republican Rome, 327–70 B.C.
+[2166] covered — Becoming Roman: The Origins of Provincial Civilization in Gaul
+[2168] covered — Rome at War: Farms, Families, and Death in the Middle Republic
+[2167] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Limits of Empire: The Roman Army in the East
+[2169] covered — Roman Republics
+[2170] covered — Mass Oratory and Political Power in the Late Roman Republic
+[2171] covered — Plebs and Politics in the Late Roman Republic
+[2172] openlibrary_ambiguous; internet_archive_no_safe_cover — Reconstructing the Roman Republic
+[2173] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Roman Republic
+[2174] covered — A Critical History of Early Rome
+[2175] openlibrary_no_safe_cover; internet_archive_no_safe_cover — ed.
+[2176] covered — The Roman Triumph
+[2177] covered — Tacitus
+[2179] covered — Mortal Republic: How Rome Fell into Tyranny
+[2180] covered — Julius Caesar and the Roman People
+[2182] covered — Augustan Culture: An Interpretive Introduction
+[2181] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Jochen Bleicken
+[2183] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Res Gestae Divi Augusti: Text, Translation, and Commentary
+[2184] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Werner Eck
+[2185] covered — The Crowd in Rome in the Late Republic
+[2186] covered — Party Politics in the Age of Caesar
+[2187] covered — The Myths of Rome
+[2188] covered — Social Conflicts in the Roman Republic
+{
+  "queued": 50,
+  "covered": 23,
+  "processed": 50,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 26,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 1,
+  "provider_errors": 0,
+  "states": {
+    "complete": 3958,
+    "identity_review": 1,
+    "pending": 2058,
+    "retry_exhausted": 239,
+    "retryable": 44,
+    "unresolved": 478
+  },
+  "next_retry": 0.0
+}
+{"cycle": 3, "kind": "pages", "status": "starting"}
+[1/50] found: The House on the Borderland — 181 pages
+[2/50] found: Hell House — 268 pages
+[3/50] no_exact_page_match: The Other
+[4/50] no_exact_page_match: Ugetsu Monogatari (Tales of Moonlight and Rain)
+[5/50] found: The King in Yellow — 228 pages
+[6/50] found: The Black Spider (Die schwarze Spinne) — 135 pages
+[7/50] no_exact_page_match: Night Pieces (Nachtstücke)
+[8/50] found: Malpertuis — 187 pages
+[9/50] found: The Cipher — 260 pages
+[10/50] found: The Elementals — 288 pages
+[11/50] found: The Good House — 482 pages
+[12/50] found: The Ceremonies — 502 pages
+[13/50] no_exact_page_match: Shiki (尸鬼)
+[14/50] found: Dark Gods — 259 pages
+[15/50] found: The Only Good Indians — 320 pages
+[16/50] no_exact_page_match: Cursed Bunny (저주토끼)
+[17/50] found: The Golem (Der Golem) — 277 pages
+[18/50] found: The Monk — 412 pages
+[19/50] found: The Imago Sequence and Other Stories — 280 pages
+[20/50] no_exact_page_match: Alone with the Horrors
+[21/50] no_exact_page_match: Zan'e (残穢)
+[22/50] found: North American Lake Monsters — 300 pages
+[23/50] found: The Terror — 770 pages
+[24/50] found: My Life in the Bush of Ghosts — 174 pages
+[25/50] found: The Dark Side of Guy de Maupassant — 252 pages
+[26/50] found: The Drowning Girl: A Memoir — 343 pages
+[27/50] found: The October Country — 306 pages
+[28/50] no_exact_page_match: The Other Side (Die andere Seite)
+[29/50] found: The Motion Demon (Demon ruchu) — 130 pages
+[30/50] no_exact_page_match: Blackwater
+[31/50] found: The Houseguest and Other Stories — 200 pages
+[32/50] found: Aura — 70 pages
+[33/50] no_exact_page_match: Jawbone (Mandíbula)
+[34/50] found: The Devourers — 313 pages
+[35/50] found: White Is for Witching — 240 pages
+[36/50] found: The House Next Door — 348 pages
+[37/50] found: The Red Tree — 385 pages
+[38/50] found: The Between — 289 pages
+[39/50] found: My Soul to Keep — 346 pages
+[40/50] found: Carrion Comfort — 800 pages
+[41/50] found: Dark Water (Honogurai mizu no soko kara) — 288 pages
+[42/50] no_exact_page_match: The Changeling
+[43/50] no_exact_page_match: The Dangers of Smoking in Bed
+[44/50] found: The Iliac Crest (La cresta de Ilión) — 346 pages
+[45/50] found: Wounds: Six Stories from the Border of Hell — 145 pages
+[46/50] found: The Twenty Days of Turin (Le venti giornate di Torino) — 206 pages
+[47/50] found: Las voladoras — 128 pages
+[48/50] found: Carrie — 254 pages
+[49/50] found: Interview with the Vampire — 349 pages
+[50/50] found: Conjure Wife — 200 pages
+{
+  "queued": 50,
+  "saved": 38,
+  "processed": 50,
+  "found": 38,
+  "no_exact_page_match": 12,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4303,
+    "identity_review": 48,
+    "pending": 45,
+    "unresolved": 3287
+  },
+  "next_retry": null
+}
+{"cycle": 3, "kind": "covers", "status": "starting"}
+[2141] covered — The Histories
+[2142] covered — The Annals
+[2144] covered — The Emperor in the Roman World
+[2148] no_credited_author — The Cambridge Ancient History, Roman volumes VII.2–XIV
+[2143] covered — History of Rome
+[2152] covered — Roman History
+[2153] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Roman History
+[2154] covered — The Twelve Caesars
+[2155] covered — Res Gestae
+[2156] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The War with Catiline; The Jugurthine War; Histories
+[2163] covered — The World of the Citizen in Republican Rome
+[2181] openlibrary_ambiguous; internet_archive_no_safe_cover — Augustus: The Biography
+[2164] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Social History of Rome
+[2184] covered — The Age of Augustus
+[2189] covered — The Fall of Carthage
+[2190] covered — Hannibal's War
+[2192] covered — Mediterranean Anarchy, Interstate War, and the Rise of Rome
+[2191] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Mastering the West: Rome and Carthage at War
+[2193] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Roman Army at War, 100 BC–AD 200
+[2194] covered — The Making of the Roman Army
+[2195] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Roman Army, 31 BC–AD 337: A Sourcebook
+[2196] covered — Soldiers and Ghosts: A History of Battle in Classical Antiquity
+[2197] covered — Empire of Honour: The Art of Government in the Roman World
+[2198] covered — The Roman Empire from Severus to Constantine
+[2199] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Imperial Rome AD 193 to 284: The Critical Century
+[2201] covered — Pagans and Christians
+[2200] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Imperial Rome AD 284 to 363: The New Empire
+[2202] covered — Christianizing the Roman Empire
+[2203] covered — Roman Social Relations, 50 B.C. to A.D. 284
+[2205] openlibrary_ambiguous; internet_archive_no_safe_cover — The Last Pagans of Rome
+[2206] covered — The Later Roman Empire, AD 284–430
+[2209] covered — Western Aristocracies and Imperial Court, A.D. 364–425
+[2208] covered — History of the Later Roman Empire
+[2210] covered — Imperialism, Power, and Identity: Experiencing the Roman Empire
+[2211] covered — Rome and the Enemy
+[2212] covered — The Romanization of Britain
+[2214] covered — The Middle East Under Rome
+[2213] openlibrary_no_safe_cover; internet_archive_no_safe_cover — An Imperial Possession: Britain in the Roman Empire
+[2215] covered — The Roman Market Economy
+[2216] covered — The Economy of the Roman Empire
+[2218] covered — Death and Renewal
+[2217] openlibrary_no_safe_cover; internet_archive_no_safe_cover — eds.
+[2219] covered — Daily Life in Ancient Rome
+[2220] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Invisible Romans
+[2221] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Storia romana
+[2222] openlibrary_no_safe_cover; internet_archive_no_safe_cover — eds.
+[2223] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Romans: From Village to Empire
+[2228] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Tale of Khun Chang Khun Phaen
+[2229] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sejarah Melayu / Sulalatus Salatin
+[2232] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Hikayat Hang Tuah
+{
+  "queued": 50,
+  "covered": 30,
+  "processed": 50,
+  "no_credited_author": 1,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 17,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 2,
+  "provider_errors": 0,
+  "states": {
+    "complete": 3988,
+    "identity_review": 2,
+    "pending": 2022,
+    "retry_exhausted": 239,
+    "retryable": 44,
+    "unresolved": 483
+  },
+  "next_retry": 0.0
+}
+{"cycle": 4, "kind": "pages", "status": "starting"}
+[1/50] found: The Histories — 509 pages
+[2/50] no_exact_page_match: History of Rome
+[3/50] found: The Annals — 248 pages
+[4/50] no_author: The Cambridge Ancient History, Roman volumes VII.2–XIV
+[5/50] found: The Emperor in the Roman World — 665 pages
+[6/50] no_exact_page_match: Roman History
+[7/50] no_exact_page_match: Roman History
+[8/50] found: The Twelve Caesars — 432 pages
+[9/50] found: Res Gestae — 366 pages
+[10/50] no_exact_page_match: The War with Catiline; The Jugurthine War; Histories
+[11/50] found: The World of the Citizen in Republican Rome — 435 pages
+[12/50] found: The Social History of Rome — 251 pages
+[13/50] ambiguous: Augustus: The Biography
+[14/50] found: The Age of Augustus — 224 pages
+[15/50] found: Christianizing the Roman Empire — 183 pages
+[16/50] found: The Middle East Under Rome — 688 pages
+[17/50] found: Daily Life in Ancient Rome — 410 pages
+[18/50] no_exact_page_match: Storia romana
+[19/50] no_exact_page_match: The Romans: From Village to Empire
+[20/50] found: Our Lady of Darkness — 189 pages
+[21/50] found: Psycho — 185 pages
+[22/50] found: The Girl Next Door — 362 pages
+[23/50] found: Exquisite Corpse — 250 pages
+[24/50] found: The Ruins — 336 pages
+[25/50] no_exact_page_match: A Head Full of Ghosts
+[26/50] found: The Ritual — 368 pages
+[27/50] found: Burnt Offerings — 260 pages
+[28/50] no_exact_page_match: Harvest Home
+[29/50] found: The Auctioneer — 239 pages
+[30/50] found: Melmoth the Wanderer — 416 pages
+[31/50] found: Ghosts — 347 pages
+[32/50] found: Widdershins — 220 pages
+[33/50] no_exact_page_match: Viy
+[34/50] found: The Hungry Moon — 368 pages
+[35/50] found: Experimental Film — 352 pages
+[36/50] ambiguous: 20th Century Ghosts
+[37/50] found: The Damnation Game — 374 pages
+[38/50] found: Summer of Night — 576 pages
+[39/50] no_exact_page_match: The Black House (Kuroi ie)
+[40/50] no_exact_page_match: The Graveyard Apartment
+[41/50] no_exact_page_match: Whisper (荒聞)
+[42/50] no_exact_page_match: The Hole
+[43/50] no_exact_page_match: Audition
+[44/50] found: Parasite Eve — 314 pages
+[45/50] no_exact_page_match: The Sleepless
+[46/50] found: Broken Monsters — 453 pages
+[47/50] no_exact_page_match: Midnight Doorways: Fables from Pakistan
+[48/50] no_exact_page_match: Taranath Tantrik and Other Tales from the Supernatural
+[49/50] found: Apple and Knife — 192 pages
+[50/50] found: Vampire Junction — 362 pages
+{
+  "queued": 50,
+  "saved": 30,
+  "processed": 50,
+  "found": 30,
+  "no_exact_page_match": 17,
+  "no_author": 1,
+  "ambiguous": 2,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4333,
+    "identity_review": 49,
+    "pending": 14,
+    "unresolved": 3287
+  },
+  "next_retry": null
+}
+{"cycle": 4, "kind": "covers", "status": "starting"}
+[2233] openlibrary_ambiguous; internet_archive_no_safe_cover — Số đỏ
+[2235] openlibrary_no_safe_cover; internet_archive_no_safe_cover — I La Galigo
+[2239] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Hikayat Abdullah
+[2246] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Tum Teav
+[2242] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Judgment
+[2250] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Những ngã tư và những cột đèn
+[2257] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Reamker
+[2258] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Spring Essence: The Poetry of Hồ Xuân Hương
+[2259] openlibrary_no_safe_cover; internet_archive_no_safe_cover — House of Glass
+[2271] openlibrary_ambiguous; internet_archive_no_safe_cover — Dekada '70
+[2272] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Smile as They Bow
+[2274] openlibrary_no_safe_cover; internet_archive_no_safe_cover — A Portrait of the Artist as Filipino
+[2276] openlibrary_ambiguous; internet_archive_no_safe_cover — Chinatown
+[2280] openlibrary_no_safe_cover; internet_archive_no_safe_cover — A New Sun Rises Over the Old Land
+[2282] openlibrary_no_safe_cover; internet_archive_no_safe_cover — State of Emergency
+[2283] openlibrary_no_safe_cover; internet_archive_no_safe_cover — People from Bloomington
+[2287] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Return
+[2290] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Emily of Emerald Hill
+[2292] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Blind Earthworm in the Labyrinth
+[2295] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Weaverbirds
+[2298] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ramakien
+[2300] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The House of Doors
+[2301] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Tropical Gothic: The Stories of Nick Joaquin
+[2303] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Wrong Upbringing
+[2304] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Phra Aphai Mani
+[2305] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Kolab Pailin
+[2310] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Crónica de uma travessia
+[2316] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Birds of Prey
+[2311] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Story of Jan Dara
+[2318] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Time
+[2320] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ponti
+[2323] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sophat
+[2325] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ghosts
+[2330] openlibrary_no_safe_cover; internet_archive_no_safe_cover — In the Claws of Brightness
+[2333] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Understory
+[2338] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Biag ni Lam-ang
+[2349] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Sad Part Was
+[2352] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Lion City
+[2359] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Lục Vân Tiên
+[2360] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Phra Lak Phra Ram
+[2361] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Accidental Malay
+[2363] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Quiet Ones
+[2365] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Written in Black
+[2366] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Chinh phụ ngâm
+[2368] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Requiem for a Navigator
+[2407] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Le confessioni d'un italiano
+[2421] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Le vite
+[2429] openlibrary_no_safe_cover; internet_archive_no_safe_cover — La bufera e altro
+[2447] openlibrary_no_safe_cover; internet_archive_error: The read operation timed out — Quaderno proibito
+[2448] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Le ceneri di Gramsci
+{
+  "queued": 50,
+  "covered": 0,
+  "processed": 50,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 3,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 46,
+  "openlibrary_no_safe_cover; internet_archive_error": 1,
+  "provider_errors": 1,
+  "states": {
+    "complete": 3988,
+    "identity_review": 2,
+    "pending": 1972,
+    "retry_exhausted": 239,
+    "retryable": 45,
+    "unresolved": 532
+  },
+  "next_retry": 0.0
+}
+{"cycle": 5, "kind": "pages", "status": "starting"}
+[1/15] found: Ancient Egypt: A Social History — 463 pages
+[2/15] found: Slights — 300 pages
+[3/15] found: Horror Stories — 428 pages
+[4/15] found: Waking the Dead and Other Horror Stories — 149 pages
+[5/15] found: Jantar secreto — 349 pages
+[6/15] no_exact_page_match: A Nest of Nightmares
+[7/15] found: In a Lonely Place — 288 pages
+[8/15] found: The Dark Country — 200 pages
+[9/15] found: The Castle of Otranto — 114 pages
+[10/15] found: The Mysteries of Udolpho — 506 pages
+[11/15] found: Vathek — 172 pages
+[12/15] found: The Cormorant — 147 pages
+[13/15] found: Sweetheart, Sweetheart — 335 pages
+[14/15] found: Nightmare Seasons — 256 pages
+[15/15] found: Some of Your Blood — 143 pages
+{
+  "queued": 15,
+  "saved": 14,
+  "processed": 15,
+  "found": 14,
+  "no_exact_page_match": 1,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4347,
+    "identity_review": 49,
+    "unresolved": 3287
+  },
+  "next_retry": null
+}
+{"cycle": 5, "kind": "covers", "status": "starting"}
+[2483] covered — The Stripping of the Altars
+[2452] openlibrary_no_safe_cover; internet_archive_no_safe_cover — I piccoli maestri
+[2484] covered — Anglo-Saxon England
+[2485] covered — Britons: Forging the Nation 1707–1837
+[2488] covered — A Polite and Commercial People: England 1727–1783
+[2489] covered — From Memory to Written Record: England 1066–1307
+[2490] openlibrary_no_safe_cover; internet_archive_no_safe_cover — A Mad, Bad, and Dangerous People? England 1783–1846
+[2491] covered — The Struggle for Mastery: Britain 1066–1284
+[2493] covered — English Social History
+[2492] covered — The Anglo-Saxons
+[2494] covered — English Society 1580–1680
+[2495] covered — Tudor England
+[2496] covered — New Worlds, Lost Worlds: The Rule of the Tudors 1485–1603
+[2498] covered — Shaping the Nation: England 1360–1461
+[2497] covered — England in the Later Middle Ages
+[2499] covered — Heretics and Believers: A History of the English Reformation
+[2500] covered — Victorian Cities
+[2501] covered — The Sinews of Power: War, Money and the English State, 1688–1783
+[2504] covered — The Enlightened Economy: An Economic History of Britain 1700–1850
+[2502] openlibrary_no_safe_cover; internet_archive_no_safe_cover — English Society in the Eighteenth Century
+[2505] covered — English History 1914–1945
+[2507] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Causes of the English Civil War
+[2508] covered — The Tudor Revolution in Government
+[2509] covered — Britain in Revolution 1625–1660
+[2510] covered — The Wars of the Roses: Politics and the Constitution in England, c.1437–1509
+[2511] covered — Magna Carta
+[2512] covered — The Making of the English Landscape
+[2513] covered — The Gentleman’s Daughter: Women’s Lives in Georgian England
+[2515] covered — Classes and Cultures: England 1918–1951
+[2516] covered — The Voices of Morebath
+[2517] openlibrary_no_safe_cover; internet_archive_no_safe_cover — 1599: A Year in the Life of William Shakespeare
+[2518] covered — Plantagenet England 1225–1360
+[2519] covered — England and Its Rulers 1066–1307
+[2521] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Britain After Rome: The Fall and Rise, 400 to 1070
+[2520] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Building Anglo-Saxon England
+[2522] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Anglo-Saxon World
+[2523] covered — William the Conqueror
+[2524] covered — The First English Empire: Power and Identities in the British Isles 1093–1343
+[2525] covered — The Reign of Edward III: Crown and Political Society in England, 1327–1377
+[2526] covered — Henry VI and the Politics of Kingship
+[2527] covered — Henry IV
+[2528] covered — English Reformations: Religion, Politics, and Society under the Tudors
+[2529] covered — Popular Politics and the English Reformation
+[2530] covered — Being Protestant in Reformation Britain
+[2531] covered — Providence in Early Modern England
+[2532] covered — Birth, Marriage and Death: Ritual, Religion, and the Life-Cycle in Tudor and Stuart England
+[2533] covered — Revel, Riot and Rebellion: Popular Politics and Culture in England 1603–1660
+[2534] covered — The Crisis of the Aristocracy 1558–1641
+[2535] covered — The Origins of English Individualism
+[2536] covered — The State and Social Change in Early Modern England, c.1550–1640
+{
+  "queued": 50,
+  "covered": 42,
+  "processed": 50,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 8,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4030,
+    "identity_review": 2,
+    "pending": 1922,
+    "retry_exhausted": 239,
+    "retryable": 45,
+    "unresolved": 540
+  },
+  "next_retry": 0.0
+}
+{"cycle": 6, "kind": "pages", "status": "starting"}
+{
+  "queued": 0,
+  "saved": 0,
+  "processed": 0,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4347,
+    "identity_review": 49,
+    "unresolved": 3287
+  },
+  "next_retry": null
+}
+{"cycle": 6, "kind": "covers", "status": "starting"}
+[2537] covered — Devil-Land: England Under Siege 1588–1688
+[1814] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ancient Greece: A Political, Social, and Cultural History
+[2538] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The English Civil Wars 1640–1660
+[2539] covered — The Restoration: A Political and Religious History of England and Wales 1658–1667
+[2540] covered — Restoration: Charles II and His Kingdoms, 1660–1685
+[2541] covered — The Long Eighteenth Century: British Political and Social History 1688–1832
+[2543] covered — Captain Swing
+[2544] covered — Liberty’s Dawn: A People’s History of the Industrial Revolution
+[2545] covered — Energy and the English Industrial Revolution
+[2546] covered — The Industrial Revolution
+[2547] covered — The Age of Manufactures, 1700–1820
+[2548] covered — Agricultural Revolution in England: The Transformation of the Agrarian Economy 1500–1850
+[2549] covered — Victorian People
+[2551] covered — The Mid-Victorian Generation 1846–1886
+[2550] openlibrary_ambiguous; internet_archive_error: The read operation timed out — Victorian England: Portrait of an Age
+[2552] covered — The Rise of Respectable Society: A Social History of Victorian Britain, 1830–1900
+[2553] covered — Private Lives, Public Spirit: Britain 1870–1914
+[2554] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Chartists: Popular Politics in the Industrial Revolution
+[2555] covered — Chartism: A New History
+[2562] openlibrary_no_safe_cover; internet_archive_no_safe_cover — 1606: William Shakespeare and the Year of Lear
+[2564] covered — The Lodger: Shakespeare on Silver Street
+[2563] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Soul of the Age: The Life, Mind and World of William Shakespeare
+[2565] covered — Tudor England: A History
+[2566] covered — Women in the Medieval English Countryside: Gender and Household in Brigstock Before the Plague
+[2567] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Ties That Bound: Peasant Families in Medieval England
+[2568] covered — Domestic Dangers: Women, Words, and Sex in Early Modern London
+[2569] covered — Meanings of Manhood in Early Modern England
+[2570] covered — Black Tudors: The Untold Story
+[2571] covered — Black and British: A Forgotten History
+[2572] covered — The English and Their History
+[2573] covered — Austerity Britain 1945–51
+[2575] covered — The Road to 1945: British Politics and the Second World War
+[2574] covered — Never Again: Britain 1945–1951
+[2576] covered — The People: The Rise and Fall of the Working Class, 1910–2010
+[2579] covered — The History of England
+[2578] covered — The History of England from the Accession of James II
+[2619] covered — Rubicon: The Last Years of the Roman Republic
+[2580] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The History of the Rebellion and Civil Wars in England
+[2678] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Wager: A Tale of Shipwreck, Mutiny and Murder
+[2684] openlibrary_ambiguous; internet_archive_no_safe_cover — The Templars: The Rise and Spectacular Fall of God's Holy Warriors
+[2700] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Blitzed: Drugs in Nazi Germany
+[2703] openlibrary_ambiguous; internet_archive_no_safe_cover — The Origins of Political Order: From Prehuman Times to the French Revolution
+[2706] covered — SPQR: A History of Ancient Rome
+[2708] covered — Persian Fire: The First World Empire and the Battle for the West
+[2819] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Love Song of J. Alfred Prufrock and Other Poems
+[2804] covered — Four Quartets
+[2827] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Collected Poems, Vol. 1: 1909-1939
+[2847] openlibrary_no_safe_cover; internet_archive_no_safe_cover — C.P. Cavafy: Collected Poems
+[2859] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Above the River: The Complete Poems
+[2889] covered — Collected Poems, 1909-1962
+{
+  "queued": 50,
+  "covered": 34,
+  "processed": 50,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 13,
+  "openlibrary_ambiguous; internet_archive_error": 1,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 2,
+  "provider_errors": 1,
+  "states": {
+    "complete": 4064,
+    "identity_review": 2,
+    "pending": 1873,
+    "retry_exhausted": 239,
+    "retryable": 45,
+    "unresolved": 555
+  },
+  "next_retry": 0.0
+}
+{"cycle": 7, "kind": "pages", "status": "starting"}
+{
+  "queued": 0,
+  "saved": 0,
+  "processed": 0,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4347,
+    "identity_review": 49,
+    "unresolved": 3287
+  },
+  "next_retry": null
+}
+{"cycle": 7, "kind": "covers", "status": "starting"}
+[2916] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Cantos
+[2912] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Shahnameh: The Persian Book of Kings
+[2927] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Iovis Trilogy: Colors in the Mechanism of Concealment
+[2937] openlibrary_no_safe_cover; internet_archive_no_safe_cover — A Sourcebook in Classical Confucian Philosophy (SUNY series in Chinese Philosophy and Culture)
+[2943] openlibrary_ambiguous; internet_archive_no_safe_cover — The Ego Tunnel: The Science of the Mind and the Myth of the Self
+[2945] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False
+[2952] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Philosophical Foundations of Neuroscience
+[2965] openlibrary_ambiguous; internet_archive_no_safe_cover — The Immaterial Self
+[2972] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Experience Machine: How Our Minds Predict and Shape Reality
+[2975] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Mind-Body Problem: (The MIT Press Essential Knowledge series)
+[2989] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Greatest Empire: A Life of Seneca
+[2991] openlibrary_no_safe_cover; internet_archive_no_safe_cover — How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius
+[2998] openlibrary_no_safe_cover; internet_archive_no_safe_cover — GOD & COSMOS IN STOICISM
+[3014] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Proposed Roads to Freedom
+[3024] openlibrary_ambiguous; internet_archive_no_safe_cover — The Yoga-Sutra of Patanjali: A New Translation with Commentary
+[3029] openlibrary_ambiguous; internet_archive_no_safe_cover — Three Steps on the Ladder of Writing
+[3043] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Philosophy of Simone de Beauvoir: Ambiguity, Conversion, Resistance (Ideas in Context, Series Number 91)
+[3048] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Irigaray
+[3050] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Feminist Interpretations of Martin Heidegger (Re-Reading the Canon)
+[3052] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Feminist Interpretations of Jean-Paul Sartre (Re-Reading the Canon)
+[3064] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Dialogues and Essays
+[3070] covered — Philosophic Pride: Stoicism and Political Thought from Lipsius to Rousseau
+[3073] covered — The Root Stanzas of the Middle Way: The Mulamadhyamakakarika
+[3075] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Heart of Awareness: A Translation of the Ashtavakra Gita
+[3079] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Way of the Bodhisattva
+[3085] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Mahabharata
+[3087] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ramayana
+[3088] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Daodejing
+[3089] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Upanishads
+[3092] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Zhuangzi
+[3095] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Rigveda
+[3097] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Dhammapada
+[3098] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Art of War
+[3101] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Gathas
+[3107] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Annals
+[3106] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Parallel Lives
+[3108] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Moral Letters to Lucilius
+[3109] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Arthashastra
+[3110] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Lotus Sutra
+[3112] openlibrary_ambiguous; internet_archive_no_safe_cover — Victory Odes
+[3115] covered — Georgics
+[3116] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Poems
+[3133] covered — Eclogues
+[3134] openlibrary_ambiguous; internet_archive_no_safe_cover — True History
+[3137] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The City of God
+[3139] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Life of Antony
+[3140] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sayings of the Desert Fathers
+[3149] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Hippocratic Corpus
+[3142] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Antiquities of the Jews
+[3153] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Fables
+{
+  "queued": 50,
+  "covered": 4,
+  "processed": 50,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 40,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 6,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4068,
+    "identity_review": 2,
+    "pending": 1823,
+    "retry_exhausted": 239,
+    "retryable": 45,
+    "unresolved": 601
+  },
+  "next_retry": 0.0
+}
+{"cycle": 8, "kind": "pages", "status": "starting"}
+{
+  "queued": 0,
+  "saved": 0,
+  "processed": 0,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4347,
+    "identity_review": 49,
+    "unresolved": 3287
+  },
+  "next_retry": null
+}
+{"cycle": 8, "kind": "covers", "status": "starting"}
+[3159] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Liezi
+[3163] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Buddhacharita
+[3164] openlibrary_ambiguous; internet_archive_no_safe_cover — Fundamental Wisdom of the Middle Way
+[3166] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sutta Nipata
+[3167] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Vimalakirti Sutra
+[3168] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Diamond Sutra
+[3170] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Laws of Manu
+[3171] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Silappatikaram
+[3172] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Manimekalai
+[3173] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Tolkappiyam
+[3175] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Instruction of Ptahhotep
+[3178] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Descent of Inanna
+[3179] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Baal Cycle
+[3180] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Younger Avesta
+[3181] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Hymns of Enheduanna
+[3184] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Passion of Perpetua and Felicity
+[3182] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Instructions of Shuruppak
+[3185] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Gospel of Thomas
+[3186] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Ethiopian Story
+[3213] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Parts I & II
+[3293] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Blind Age
+[3249] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Atsumori
+[3294] openlibrary_ambiguous; internet_archive_no_safe_cover — Evam Indrajit
+[3297] openlibrary_no_safe_cover; internet_archive_no_safe_cover — One Day in Ashadha
+[3300] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Vestido de Noiva
+[3305] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Madame de Sade
+[3306] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Rituals of Signs and Transformations
+[3553] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Selected Stories
+[3583] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Dead and the Living
+[3610] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Collected Stories
+[3620] openlibrary_ambiguous; internet_archive_no_safe_cover — The Dark Domain
+[3622] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Elephant
+[3623] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Tales of Belkin
+[3629] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Colomber
+[3624] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Petersburg Tales
+[3636] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Revenge: Eleven Dark Tales
+[3631] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Selected Stories
+[3639] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Cursed Bunny
+[3641] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Flowers of Mold
+[3650] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Shroud and Other Stories
+[3647] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Mottled Dawn
+[3660] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Palestine’s Children
+[3686] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Tales from Djakarta
+[3687] openlibrary_no_safe_cover; internet_archive_no_safe_cover — al-Shifāʾ, Ilāhiyyāt
+[3688] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Fundamental Verses on the Middle Way
+[3694] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Principal Upaniṣads
+[3691] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Commentary on the Brahma Sūtras
+[3697] openlibrary_no_safe_cover; internet_archive_no_safe_cover — surviving poem
+[3698] openlibrary_no_safe_cover; internet_archive_no_safe_cover — metaphysical sections
+[3702] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Treasury of Abhidharma with Commentary
+{
+  "queued": 50,
+  "covered": 0,
+  "processed": 50,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 47,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 3,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4068,
+    "identity_review": 2,
+    "pending": 1773,
+    "retry_exhausted": 239,
+    "retryable": 45,
+    "unresolved": 651
+  },
+  "next_retry": 0.0
+}
+{"cycle": 9, "kind": "pages", "status": "starting"}
+{
+  "queued": 0,
+  "saved": 0,
+  "processed": 0,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4347,
+    "identity_review": 49,
+    "unresolved": 3287
+  },
+  "next_retry": null
+}
+{"cycle": 9, "kind": "covers", "status": "starting"}
+[3704] openlibrary_no_safe_cover; internet_archive_no_safe_cover — al-Asfār al-arbaʿa
+[3705] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Śrī Bhāṣya
+[3706] openlibrary_no_safe_cover; internet_archive_no_safe_cover — especially distinctions on being, univocity, individuation
+[3710] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Book I
+[3711] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Confessions, Books XI–XII
+[3713] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ḥikmat al-ishrāq
+[3720] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Great Commentary
+[3721] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sāṃkhyakārikā
+[3722] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Nyāya Sūtra
+[3723] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Vaiśeṣika Sūtra
+[3724] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Long Commentary on Aristotle’s Metaphysics
+[3733] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the Division of Nature
+[3736] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Principles of the Opinions of the Inhabitants of the Virtuous City
+[3739] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Jinsilu
+[3740] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Commentary on the Laozi
+[3742] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Twenty Verses on Consciousness-Only
+[3743] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Sweets of Refutation
+[3744] openlibrary_no_safe_cover; internet_archive_no_safe_cover — A Handful of Flowers of Logic
+[3751] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Making Things Up
+[3755] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Personal Identity
+[3758] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Empiricism, Semantics, and Ontology
+[3762] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On What Grounds What
+[3767] openlibrary_no_safe_cover; internet_archive_no_safe_cover — originally 'Psychological Predicates'
+[3768] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Minds, Brains, and Programs
+[3770] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sensations and Brain Processes
+[3772] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Mental Events
+[3774] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Extended Mind
+[3776] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Embodied Mind
+[3779] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Troubles with Functionalism
+[3781] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Ideas I
+[3780] openlibrary_no_safe_cover; internet_archive_error: The read operation timed out — Materialism and Qualia: The Explanatory Gap
+[3785] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Individualism and the Mental
+[3786] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Eliminative Materialism and the Propositional Attitudes
+[3793] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On a Confusion about a Function of Consciousness
+[3794] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Mad Pain and Martian Pain
+[3799] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Is Consciousness a Brain Process?
+[3803] openlibrary_ambiguous; internet_archive_no_safe_cover — Aspects of Scientific Explanation and Other Essays in the Philosophy of Science
+[3812] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Testability and Meaning
+[3836] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective
+[3826] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Scientific Conception of the World: The Vienna Circle
+[3844] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Two Dogmas of Empiricism
+[3850] no_credited_author — The Old Testament
+[3851] no_credited_author — The New Testament
+[3849] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Selected Short Stories
+[3854] no_credited_author — The Bible
+[3852] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Novels
+[3856] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Syntopicon: An Index to the Great Ideas, Volume 2
+[3855] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Syntopicon: An Index to the Great Ideas, Volume 1
+[3885] openlibrary_no_safe_cover; internet_archive_error: The read operation timed out — Lysis
+[3902] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Memory and Reminisence
+{
+  "queued": 50,
+  "covered": 0,
+  "processed": 50,
+  "openlibrary_no_safe_cover; internet_archive_no_safe_cover": 44,
+  "openlibrary_no_safe_cover; internet_archive_error": 2,
+  "openlibrary_ambiguous; internet_archive_no_safe_cover": 1,
+  "no_credited_author": 3,
+  "provider_errors": 2,
+  "states": {
+    "complete": 4068,
+    "identity_review": 5,
+    "pending": 1723,
+    "retry_exhausted": 239,
+    "retryable": 47,
+    "unresolved": 696
+  },
+  "next_retry": 0.0
+}
+{"cycle": 10, "kind": "pages", "status": "starting"}
+{
+  "queued": 0,
+  "saved": 0,
+  "processed": 0,
+  "provider_errors": 0,
+  "states": {
+    "complete": 4347,
+    "identity_review": 49,
+    "unresolved": 3287
+  },
+  "next_retry": null
+}
+{"cycle": 10, "kind": "covers", "status": "starting"}
+[3903] openlibrary_ambiguous; internet_archive_no_safe_cover — On Sleep and Sleeplessness
+[3904] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Dreams
+[3906] openlibrary_ambiguous; internet_archive_no_safe_cover — On Longevity and Shortness of Life
+[3910] openlibrary_ambiguous; internet_archive_no_safe_cover — On the Motion of Animals
+[3916] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Airs, Water, and Places
+[3917] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Book of Prognostics
+[3921] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the Surgery
+[3920] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Injuries of the Head
+[3923] openlibrary_ambiguous; internet_archive_no_safe_cover — On the Articulations
+[3928] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Fistulae
+[3927] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Ulcer
+[3929] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Hemorrhoids
+[3930] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the Sacred Disease
+[3932] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the Sphere and Cylinder
+[3933] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Measurement of a Circle
+[3934] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Conoids and Spheroids
+[3935] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Spirals
+[3936] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the Equilibrium of Planes
+[3937] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Sand Reckoner
+[3938] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Quadrature of the Parabola
+[3939] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Floating Bodies
+[3940] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Book of Lemmas
+[3941] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Method Treating of Mechanical Problems
+[3943] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Histories
+[3977] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Dialogues Concerning the Two New Sciences
+[3979] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the Circulation of Blood
+[3980] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the Generation of Animals
+[3986] openlibrary_no_safe_cover; internet_archive_no_safe_cover — A Paraphrase on Psalm 114
+[3987] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Psalm 136
+[3984] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Geometry
+[3988] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Passion
+[3989] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Time
+[3991] openlibrary_no_safe_cover; internet_archive_no_safe_cover — At a Solemn Musick
+[3990] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Upon the Circumcision
+[3992] openlibrary_no_safe_cover; internet_archive_no_safe_cover — An Epitaph on the Marchioness of Winchester
+[3993] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Song on May Morning
+[3994] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On Shakespeare
+[3995] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the University Carrier
+[3996] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Another on the Same (On the University Carrier)
+[4002] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the Death of a Fair Infant
+[4003] openlibrary_no_safe_cover; internet_archive_no_safe_cover — At a Vacation Exercise
+[4004] openlibrary_no_safe_cover; internet_archive_no_safe_cover — The Fifth Ode of Horace
+[4005] openlibrary_no_safe_cover; internet_archive_no_safe_cover — Sonnets (I, and VII—XIX)
+[4006] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the New Forcers of Conscience
+[4007] openlibrary_no_safe_cover; internet_archive_no_safe_cover — On the Lord General Fairfax at the Siege of Colchester
+[4009] openlibrary_no_safe_cover; internet_archive_no_safe_cover — To Sir Henry Vane the Younger
+[4008] openlibrary_no_safe_cover; internet_archive_no_safe_cover — To the Lord General Cromwell
+{"status": "stopped", "pid": 56735, "batches": 10, "last_batch": [{"kind": "pages", "queued": 0, "saved": 0, "processed": 0, "provider_errors": 0, "states": {"complete": 4347, "identity_review": 49, "unresolved": 3287}, "next_retry": null}], "finished_at": 1790626145.473852}

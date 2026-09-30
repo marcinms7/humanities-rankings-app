@@ -1,5 +1,7 @@
 # BBC · The Big Read (2003)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named published ranking (200 entries), checked 2026-09-13.
 
 Source: https://www.bbc.co.uk/arts/bigread/

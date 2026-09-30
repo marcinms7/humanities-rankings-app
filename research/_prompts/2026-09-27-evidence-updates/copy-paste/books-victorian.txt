@@ -1,0 +1,1721 @@
+UPDATE REQUEST: Books · Victorian world
+Target ID: books-victorian
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 150; current source records: 229 (includes unverified leads).
+Desired scope: A broad British and Irish Victorian literary ranking around 150 works, with the existing 1837–1901 period and any boundary exceptions explicitly justified.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+150 entries and 229 eligible reported consultations all marked summary_only; all entries repeat five reader-list references. The current scope is British and Irish Victorian literature, 1837–1901.
+1. Audit list scope carefully: general nineteenth-century and world-classics lists may include works outside Victorian dates or the British/Irish target.
+2. Map source evidence to individual candidates and trace reproduced published lists to their original judgements.
+3. Compare literary forms and important omissions rather than assuming the available Victorian-novel lists cover the full intended literary world.
+4. Check serial publication dates, collected editions, title variants and works spanning the period boundaries.
+5. Use relevant period scholarship and established critical selections alongside independent reader reception, explaining contested comparisons.
+
+CURRENT SCOPE
+{"forms": ["book"], "period": "Victorian", "year_from": 1837, "year_to": 1901, "scope": "British and Irish Victorian literary tradition", "english_edition_required": true}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:7] Middlemarch — George Eliot | standing=1; reading=1 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+2. [work:338] Bleak House — Charles Dickens | standing=2; reading=2 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+3. [work:267] Jane Eyre — Charlotte Brontë | standing=3; reading=3 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+4. [work:266] Wuthering Heights — Emily Brontë | standing=4; reading=4 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+5. [work:275] Great Expectations — Charles Dickens | standing=5; reading=5 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+6. [work:317] Vanity Fair — William Makepeace Thackeray | standing=6; reading=6 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+7. [work:272] David Copperfield — Charles Dickens | standing=7; reading=7 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+8. [work:295] Tess of the d'Urbervilles — Thomas Hardy | standing=8; reading=8 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+9. [work:420] The Woman in White — Wilkie Collins | standing=9; reading=9 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+10. [work:416] North and South — Elizabeth Gaskell | standing=10; reading=10 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+11. [work:1602] The Moonstone — Wilkie Collins | standing=11; reading=11 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+12. [work:1603] The Way We Live Now — Anthony Trollope | standing=12; reading=12 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+13. [work:292] The Picture of Dorian Gray — Oscar Wilde | standing=13; reading=13 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+14. [work:395] The Mill on the Floss — George Eliot | standing=14; reading=14 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+15. [work:1620] Daniel Deronda — George Eliot | standing=15; reading=15 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+16. [work:1606] Little Dorrit — Charles Dickens | standing=16; reading=16 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+17. [work:262] Alice's Adventures in Wonderland — Lewis Carroll | standing=17; reading=17 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+18. [work:282] Dracula — Bram Stoker | standing=18; reading=18 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+19. [work:30] Jude the Obscure — Thomas Hardy | standing=19; reading=19 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+20. [work:1608] Wives and Daughters — Elizabeth Gaskell | standing=20; reading=20 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+21. [work:769] Our Mutual Friend — Charles Dickens | standing=21; reading=21 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+22. [work:754] The Portrait of a Lady — Henry James | standing=22; reading=22 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+23. [work:1609] The Mayor of Casterbridge — Thomas Hardy | standing=23; reading=23 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+24. [work:1604] Villette — Charlotte Brontë | standing=24; reading=24 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+25. [work:271] A Christmas Carol — Charles Dickens | standing=25; reading=25 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+26. [work:396] Barchester Towers — Anthony Trollope | standing=26; reading=26 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+27. [work:334] Far from the Madding Crowd — Thomas Hardy | standing=27; reading=27 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+28. [work:1605] The Tenant of Wildfell Hall — Anne Brontë | standing=28; reading=28 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+29. [work:1607] Strange Case of Dr Jekyll and Mr Hyde — Robert Louis Stevenson | standing=29; reading=29 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+30. [work:335] The Return of the Native — Thomas Hardy | standing=30; reading=30 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+31. [work:423] Hard Times — Charles Dickens | standing=31; reading=31 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+32. [work:273] A Tale of Two Cities — Charles Dickens | standing=32; reading=32 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+33. [work:1612] The Importance of Being Earnest — Oscar Wilde | standing=33; reading=33 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+34. [work:410] Silas Marner — George Eliot | standing=34; reading=34 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+35. [work:403] The Time Machine — H. G. Wells | standing=35; reading=35 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+36. [work:1629] Mary Barton — Elizabeth Gaskell | standing=36; reading=36 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+37. [work:278] Oliver Twist — Charles Dickens | standing=37; reading=37 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+38. [work:1640] The Adventures of Sherlock Holmes — Arthur Conan Doyle | standing=38; reading=38 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+39. [work:1616] Lady Audley’s Secret — Mary Elizabeth Braddon | standing=39; reading=39 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+40. [work:1619] Adam Bede — George Eliot | standing=40; reading=40 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+41. [work:1611] The War of the Worlds — H. G. Wells | standing=41; reading=41 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+42. [work:2371] In Memoriam A.H.H. — Alfred Tennyson | standing=42; reading=42 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+43. [work:1655] The Small House at Allington — Anthony Trollope | standing=43; reading=43 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+44. [work:1617] The Warden — Anthony Trollope | standing=44; reading=44 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+45. [work:1652] Doctor Thorne — Anthony Trollope | standing=45; reading=45 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+46. [work:1627] Cranford — Elizabeth Gaskell | standing=46; reading=46 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+47. [work:1622] The Odd Women — George Gissing | standing=47; reading=47 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+48. [work:1621] New Grub Street — George Gissing | standing=48; reading=48 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+49. [work:11] On the Origin of Species — Charles Darwin | standing=49; reading=49 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+50. [work:1614] The Ring and the Book — Robert Browning | standing=50; reading=50 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+51. [work:1615] Aurora Leigh — Elizabeth Barrett Browning | standing=51; reading=51 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+52. [work:265] Treasure Island — Robert Louis Stevenson | standing=52; reading=52 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+53. [work:1610] Dombey and Son — Charles Dickens | standing=53; reading=53 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+54. [work:1651] The Eustace Diamonds — Anthony Trollope | standing=54; reading=54 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+55. [work:1650] Phineas Finn — Anthony Trollope | standing=55; reading=55 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+56. [work:1649] Can You Forgive Her? — Anthony Trollope | standing=56; reading=56 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+57. [work:131] Heart of Darkness — Joseph Conrad | standing=57; reading=57 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+58. [work:385] The Turn of the Screw — Henry James | standing=58; reading=58 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+59. [work:1626] The Island of Doctor Moreau — H. G. Wells | standing=59; reading=59 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+60. [work:1628] Through the Looking-Glass — Lewis Carroll | standing=60; reading=60 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+61. [work:1670] The Woodlanders — Thomas Hardy | standing=61; reading=61 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+62. [work:1684] The Heavenly Twins — Sarah Grand | standing=62; reading=62 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+63. [work:1683] The Story of an African Farm — Olive Schreiner | standing=63; reading=63 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+64. [work:1648] East Lynne — Ellen Wood | standing=64; reading=64 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+65. [work:1633] No Name — Wilkie Collins | standing=65; reading=65 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+66. [work:1634] Armadale — Wilkie Collins | standing=66; reading=66 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+67. [work:2372] The Memoirs of Sherlock Holmes — Arthur Conan Doyle | standing=67; reading=67 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+68. [work:1641] The Sign of Four — Arthur Conan Doyle | standing=68; reading=68 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+69. [work:1642] A Study in Scarlet — Arthur Conan Doyle | standing=69; reading=69 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+70. [work:1618] The Last Chronicle of Barset — Anthony Trollope | standing=70; reading=70 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+71. [work:1654] He Knew He Was Right — Anthony Trollope | standing=71; reading=71 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+72. [work:1653] Framley Parsonage — Anthony Trollope | standing=72; reading=72 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+73. [work:1630] Ruth — Elizabeth Gaskell | standing=73; reading=73 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+74. [work:1646] Cousin Phillis — Elizabeth Gaskell | standing=74; reading=74 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+75. [work:1631] Shirley — Charlotte Brontë | standing=75; reading=75 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+76. [work:1632] Agnes Grey — Anne Brontë | standing=76; reading=76 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+77. [work:1643] Lorna Doone — R. D. Blackmore | standing=77; reading=77 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+78. [work:592] The Life of Charlotte Brontë — Elizabeth Gaskell | standing=78; reading=78 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+79. [work:2373] Carmilla — Sheridan Le Fanu | standing=79; reading=79 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+80. [work:1636] Uncle Silas — Sheridan Le Fanu | standing=80; reading=80 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+81. [work:1665] Nicholas Nickleby — Charles Dickens | standing=81; reading=81 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+82. [work:1666] The Old Curiosity Shop — Charles Dickens | standing=82; reading=82 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+83. [work:1659] The History of Henry Esmond — William Makepeace Thackeray | standing=83; reading=83 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+84. [work:1658] The Newcomes — William Makepeace Thackeray | standing=84; reading=84 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+85. [work:1660] Pendennis — William Makepeace Thackeray | standing=85; reading=85 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+86. [work:1697] The Egoist — George Meredith | standing=86; reading=86 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+87. [work:1698] The Ordeal of Richard Feverel — George Meredith | standing=87; reading=87 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+88. [work:2374] Diana of the Crossways — George Meredith | standing=88; reading=88 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+89. [work:1675] News from Nowhere — William Morris | standing=89; reading=89 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+90. [work:1705] Goblin Market and Other Poems — Christina Rossetti | standing=90; reading=90 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+91. [work:1702] Men and Women — Robert Browning | standing=91; reading=91 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+92. [work:2375] Idylls of the King — Alfred Tennyson | standing=92; reading=92 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+93. [work:1704] Sonnets from the Portuguese — Elizabeth Barrett Browning | standing=93; reading=93 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+94. [work:590] Culture and Anarchy — Matthew Arnold | standing=94; reading=94 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+95. [work:2376] The Renaissance — Walter Pater | standing=95; reading=95 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+96. [work:14] On Liberty — John Stuart Mill | standing=96; reading=96 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+97. [work:1710] The Subjection of Women — John Stuart Mill | standing=97; reading=97 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+98. [work:1712] Unto This Last — John Ruskin | standing=98; reading=98 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+99. [work:1713] The Stones of Venice — John Ruskin | standing=99; reading=99 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+100. [work:2377] Modern Painters — John Ruskin | standing=100; reading=100 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+101. [work:1714] Past and Present — Thomas Carlyle | standing=101; reading=101 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+102. [work:1715] Apologia Pro Vita Sua — John Henry Newman | standing=102; reading=102 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+103. [work:591] Wonderful Adventures of Mrs Seacole in Many Lands — Mary Seacole | standing=103; reading=103 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+104. [work:595] London Labour and the London Poor — Henry Mayhew | standing=104; reading=104 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+105. [work:1711] The Descent of Man — Charles Darwin | standing=105; reading=105 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+106. [work:2378] The Malay Archipelago — Alfred Russel Wallace | standing=106; reading=106 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+107. [work:2379] Notes on Nursing — Florence Nightingale | standing=107; reading=107 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+108. [work:2380] She: A History of Adventure — H. Rider Haggard | standing=108; reading=108 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+109. [work:1681] King Solomon’s Mines — H. Rider Haggard | standing=109; reading=109 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+110. [work:1624] Kidnapped — Robert Louis Stevenson | standing=110; reading=110 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+111. [work:1637] The Master of Ballantrae — Robert Louis Stevenson | standing=111; reading=111 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+112. [work:149] Lord Jim — Joseph Conrad | standing=112; reading=112 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+113. [work:1673] Three Men in a Boat — Jerome K. Jerome | standing=113; reading=113 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+114. [work:2381] The Diary of a Nobody — George & Weedon Grossmith | standing=114; reading=114 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+115. [work:1639] The Jungle Book — Rudyard Kipling | standing=115; reading=115 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+116. [work:142] Kim — Rudyard Kipling | standing=116; reading=116 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+117. [work:1625] The Invisible Man — H. G. Wells | standing=117; reading=117 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+118. [work:1717] The Beetle — Richard Marsh | standing=118; reading=118 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+119. [work:1693] Trilby — George du Maurier | standing=119; reading=119 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+120. [work:2382] The Cloister and the Hearth — Charles Reade | standing=120; reading=120 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+121. [work:2383] Aurora Floyd — Mary Elizabeth Braddon | standing=121; reading=121 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+122. [work:1689] Miss Marjoribanks — Margaret Oliphant | standing=122; reading=122 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+123. [work:2384] Salem Chapel — Margaret Oliphant | standing=123; reading=123 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+124. [work:1690] Hester — Margaret Oliphant | standing=124; reading=124 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+125. [work:1680] Sybil, or The Two Nations — Benjamin Disraeli | standing=125; reading=125 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+126. [work:1679] The Water-Babies — Charles Kingsley | standing=126; reading=126 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+127. [work:2385] Tom Brown’s School Days — Thomas Hughes | standing=127; reading=127 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+128. [work:1691] The Heir of Redclyffe — Charlotte M. Yonge | standing=128; reading=128 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+129. [work:1678] The Princess and the Goblin — George MacDonald | standing=129; reading=129 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+130. [work:1677] Phantastes — George MacDonald | standing=130; reading=130 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+131. [work:2386] Lilith — George MacDonald | standing=131; reading=131 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+132. [work:2387] The Happy Prince and Other Tales — Oscar Wilde | standing=132; reading=132 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+133. [work:2388] The Ballad of Reading Gaol — Oscar Wilde | standing=133; reading=133 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+134. [work:2389] Flatland — Edwin A. Abbott | standing=134; reading=134 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+135. [work:1716] Erewhon — Samuel Butler | standing=135; reading=135 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+136. [work:1686] The Romance of a Shop — Amy Levy | standing=136; reading=136 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+137. [work:1687] Reuben Sachs — Amy Levy | standing=137; reading=137 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+138. [work:2390] Keynotes — George Egerton | standing=138; reading=138 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+139. [work:2391] The Story of a Modern Woman — Ella Hepworth Dixon | standing=139; reading=139 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+140. [work:1694] A Child of the Jago — Arthur Morrison | standing=140; reading=140 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+141. [work:1696] Born in Exile — George Gissing | standing=141; reading=141 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+142. [work:1695] The Nether World — George Gissing | standing=142; reading=142 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+143. [work:1671] A Pair of Blue Eyes — Thomas Hardy | standing=143; reading=143 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+144. [work:1662] Romola — George Eliot | standing=144; reading=144 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+145. [work:1663] Felix Holt, the Radical — George Eliot | standing=145; reading=145 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+146. [work:1664] Scenes of Clerical Life — George Eliot | standing=146; reading=146 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+147. [work:1647] The Law and the Lady — Wilkie Collins | standing=147; reading=147 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+148. [work:2392] The Earthly Paradise — William Morris | standing=148; reading=148 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+149. [work:1706] Poems and Ballads, First Series — Algernon Charles Swinburne | standing=149; reading=149 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+150. [work:1707] The Rubáiyát of Omar Khayyám — Edward FitzGerald | standing=150; reading=150 | sources: VICTORIAN-001, VICTORIAN-003, VICTORIAN-004, VICTORIAN-R001, VICTORIAN-R002
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[VICTORIAN-001] Goodreads Listopia — Victorian Novels (215 books)
+https://www.goodreads.com/list/show/3987.Victorian_Novels
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:290b792506df7257aec0d314
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-002] Goodreads Listopia — Victoriana (90 books)
+https://www.goodreads.com/list/show/6823.Victoriana
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:20551daa2ed26abc0602b02a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-003] Goodreads Listopia — Best Victorian Novels (57 books)
+https://www.goodreads.com/list/show/194611.Best_Victorian_Novels
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ed42cd10861b3f69caf1a39e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-004] Goodreads Listopia — Nineteenth Century British: Victorian List
+https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e6096c39f80d77d55097db65
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-005] Goodreads Listopia — Best Victorian Romances
+https://www.goodreads.com/list/show/25569.Best_Victorian_Romances
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:65ab7910da93fc8a57744e6b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-006] Goodreads — Best of George Eliot
+https://www.goodreads.com/list/show/116.Best_of_George_Eliot
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ec713b09d50a4db6b0548142
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-007] Goodreads — Charles Dickens’ Novels
+https://www.goodreads.com/list/show/101248.Charles_Dickens_Novels
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:68532aafc8b642ee5f7be8b1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-008] Goodreads Listopia — Victorian Vampires
+https://www.goodreads.com/list/show/111683.Victorian_Vampires
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2cc30e9f7a83d055f71d15c8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-009] Goodreads Listopia — 19th century poetry
+https://www.goodreads.com/list/show/73684.19th_century_poetry
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:453086aadb80bcd8e199cc46
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-010] Douban Books — The Picture of Dorian Gray, works/edition aggregation
+https://book.douban.com/works/1008397
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a6037f1c58f28c21f3846e4e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-011] Douban Books — The Picture of Dorian Gray (Qingdao edition)
+https://book.douban.com/subject/1109564/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:38997ca65313976968f39325
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-012] Douban Books — Tess of the d’Urbervilles (Changjiang edition)
+https://book.douban.com/subject/6435859/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8e99d6fdfb263f392577ce6d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-013] Douban Books — Tess (Yilin 1994 edition)
+https://book.douban.com/subject/1205373/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c0db8ec0f74abb813e009914
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-014] Douban Books — Bleak House (Shanghai Translation 2022)
+https://book.douban.com/subject/35719460/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:730d39b60afc8c2d33dcc299
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-015] Douban Books — Bleak House (1979 edition)
+https://book.douban.com/subject/1862409/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2cb81d3368bbe89452af3ace
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-016] Douban Books — North and South (People’s Literature 2023)
+https://book.douban.com/subject/36388100/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f2d552289d554c2e9b390f06
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-017] Reddit r/classicliterature — “What is your favourite Victorian novel or writer?” (Aug 2026)
+https://www.reddit.com/r/classicliterature/comments/1vz3ask/what_is_your_favourite_victorian_novel_or_writer/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f2b679d0f93264dd0d3c1142
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-018] Reddit r/englishliterature — “Victorian novels” (Sep 2025)
+https://www.reddit.com/r/englishliterature/comments/1nkyi8r/victorian_novels/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:32ba27b8ec76f62d7bb6e940
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-019] Reddit r/books — “Victorian literature” (2014)
+https://www.reddit.com/r/books/comments/2ej9vu/victorian_literature/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e9919736edd6581eb40f51a1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-020] Reddit r/books — “Long 19th C British Lit” (2023)
+https://www.reddit.com/r/books/comments/16yd4d7
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e8ac2a392a103525c5759272
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-021] Lisa Rodensky — “Introduction,” The Oxford Handbook of the Victorian Novel
+https://academic.oup.com/edited-volume/28178
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4215e068bb00d62539f597ea
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-022] Matthew Bevis — “Introduction: At Work with Victorian Poetry,” The Oxford Handbook of Victorian Poetry
+https://academic.oup.com/edited-volume/38589
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:77aa6e036d8857024a4d9a0b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R001] Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century
+https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bb73881fddd8c5b6b6116371
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R002] Goodreads — Best 19th Century Classic
+https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d6fad1651d27d2d914652242
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R003] Goodreads — British Classics To Read
+https://www.goodreads.com/list/show/33280.British_Classics_To_Read
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bb47f65fc7302589800cbeed
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R004] Goodreads — Best Nineteenth-Century British and Irish Novels
+https://www.goodreads.com/list/show/4603.Best_Nineteenth_Century_British_and_Irish_Novels
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:83d56279708063ac686062a0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R005] Goodreads — Most Read Victorian
+https://www.goodreads.com/genres/most_read/victorian
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3c3f60f160057fbe8c39b3e8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R006] Goodreads — Best Victorian Novels (Modern and Not)
+https://www.goodreads.com/list/show/47187.Best_Victorian_Novels_Modern_and_Not_
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d68812b0db5c1a92fe038a4c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R007] Goodreads — Telegraph Top 100 Novels of All Time
+https://www.goodreads.com/list/show/170467.Telegraph_Top_100_Novels_of_All_Time
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:caef23ea65349f5bb97de06d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R008] The Guardian — 100 Best Novels of All Time (2026 critics/authors/academics)
+https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3bdaf3e2fbaf370a4f44ad32
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R009] The Guardian — Readers’ Top 100 Novels of All Time (2026)
+https://www.theguardian.com/books/ng-interactive/2026/jun/06/readers-top-100-novels-of-all-time
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7d623206229ababf5cdf437e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R010] The Guardian — Move over Middlemarch! Readers’ top 100 novels
+https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8fa7aeafaa2e09be9d325128
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R011] The Guardian — 100 Best Novels Written in English (2015 full list)
+https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3a2afa004cbbcf2ea9577246
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R012] The Guardian — The 100 Best Novels series
+https://www.theguardian.com/books/series/the-100-best-novels/2014/feb/10/all
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:51c8d15276bc8f624a2ea551
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R013] The Guardian — Middlemarch, No. 21 in McCrum’s 100 Best Novels
+https://www.theguardian.com/books/2014/feb/10/100-best-novels-middlemarch-george-eliot
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8e659874ef1ce0286e6aaad5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R014] The Guardian — The 100 Best Novels: from Bunyan to Carey
+https://www.theguardian.com/books/2015/aug/16/100-best-novels-bunyan-to-carey-robert-mccrum
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0007c297ea01003b8176f31b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R015] The Guardian — Best British novel of all time / BBC Culture poll discussion
+https://www.theguardian.com/books/booksblog/2015/dec/08/best-british-novel-of-all-time-international-critics-top-100-middlemarch
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:95941ee90cfd52099b27b91a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R016] The Guardian — Philip Davis’s Top 10 Victorian Literature
+https://www.theguardian.com/books/2004/mar/18/bestbooks.classics
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:818df8210dd56e70005fa73c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-R017] The Guardian — The Brontës’ novels ranked (2026)
+https://www.theguardian.com/books/2026/mar/16/better-than-wuthering-heights-the-brontes-novels-ranked
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4d7734b601fb3e1dae4a4e5b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-023] Five Books — Victorian Literature recommendations hub
+https://fivebooks.com/books/victorian-literature/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4d26e03932321206008964cf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-024] Five Books — John Sutherland: Best Victorian Novels
+https://fivebooks.com/best-books/victorian-novels-john-sutherland/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b344029868726b149d501cab
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-025] Penguin — 20 novels that shaped the Victorian era
+https://www.penguin.co.uk/discover/articles/best-victorian-books-era-novels-classics
+Family: editorial_or_specialist | Publisher: www.penguin.co.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ca5f99cc748b97c9012774a8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-026] Penguin — Clothbound Classics series
+https://www.penguin.co.uk/series/CLOTBO/penguin-clothbound-classics
+Family: editorial_or_specialist | Publisher: www.penguin.co.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ab24719867b31faeef4da57f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-027] Shortform — 100 Best Victorian Books of All Time
+https://www.shortform.com/best-books/genre/best-victorian-books-of-all-time
+Family: editorial_or_specialist | Publisher: www.shortform.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:64c2558fad9d52faed90b652
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-028] STORGY — Best Victorian Novels
+https://storgy.com/best-novels/victorian/
+Family: editorial_or_specialist | Publisher: storgy.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:faf4a55511d50ed04c0a923c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-029] Literary Hub — How the Victorians Created the Modern English Novel
+https://lithub.com/how-the-victorians-created-the-modern-english-novel/
+Family: editorial_or_specialist | Publisher: lithub.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:12b28bb8142575abf2a47c8b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-030] Demystifying Literature — Victorian Literature Master Reading List
+https://demystifyingliterature.substack.com/p/victorian-literature-master-reading
+Family: editorial_or_specialist | Publisher: demystifyingliterature.substack.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e799e7762efe3e921d72f235
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-031] SensCritique — Les meilleurs livres de l’ère victorienne
+https://www.senscritique.com/liste/les_meilleurs_livres_de_l_ere_victorienne/4009264
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2df66b623b71a523a017e620
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-032] SensCritique — De célèbres Victoriens: les Brontë
+https://www.senscritique.com/liste/de_celebres_victoriens_les_bronte/795953
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dba4ad5e085c743d90651b8b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-033] SensCritique — Un célèbre victorien: Anthony Trollope
+https://www.senscritique.com/liste/Un_celebre_victorien_Anthony_Trollope/795097
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5a731e343d8c0f3d64ccd1b4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-034] SensCritique — Un célèbre victorien: Wilkie Collins
+https://www.senscritique.com/liste/Un_celebre_victorien_William_Wilkie_Collins/795024
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:962fbd1ba5331a855f02bb79
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-035] SensCritique — Un célèbre victorien: William Makepeace Thackeray
+https://www.senscritique.com/liste/un_celebre_victorien_william_makepeace_thackeray/796072
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:40805bc9e091deb77b245f11
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-036] SensCritique — Ma bibliothèque XIXe
+https://www.senscritique.com/liste/ma_bibliotheque_xix/617663
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7c0efa10125c44b0af2e4bc7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-037] SensCritique — Ambiances victoriennes
+https://www.senscritique.com/liste/ambiances_victoriennes/1691210
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:821932b08922e8c342a69285
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-038] SensCritique — Romans se déroulant à l’époque victorienne
+https://www.senscritique.com/liste/romans_se_deroulant_a_l_epoque_victorienne/2074483
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:114c59a07cb34e7424fb685e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-039] SensCritique — Littérature anglaise romantique
+https://www.senscritique.com/liste/litterature_anglaise_romantique/359685
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1883c4aa64018927e834b320
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-040] BücherTreff — 13 Bücher, die im viktorianischen England spielen
+https://www.buechertreff.de/buchtipps/13-buecher-die-im-viktorianischen-england-spielen/
+Family: editorial_or_specialist | Publisher: www.buechertreff.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d1fc9e279d71f8016cba186a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-041] Lubimyczytać — Książki zmieniające życie
+https://lubimyczytac.pl/aktualnosci/4339/ksiazki-zmieniajace-zycie
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:171d3b8a4b64b3c534816394
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-042] Lubimyczytać — Sekretne tożsamości znanych pisarek
+https://lubimyczytac.pl/aktualnosci/18392/sekretne-tozsamosci-znanych-pisarek
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8025579c000f0d701707e69a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-043] Oxford English Faculty — Reading suggestions for undergraduate offer holders
+https://www.english.ox.ac.uk/reading-suggestions-undergraduate-offer-holders
+Family: academic_or_institutional | Publisher: www.english.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c843884221e2df8fccc6cbbf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-044] Balliol College Oxford — English Reading List
+https://www.balliol.ox.ac.uk/admissions/undergraduate-admissions/english-reading-list
+Family: academic_or_institutional | Publisher: www.balliol.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3ac3768a1cd57e63333ceacd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-045] Lincoln College Oxford — Victorian Literature Reading 2024 PDF
+https://lincoln.ox.ac.uk/asset/Victorian-Lit-Reading-2024.pdf
+Family: academic_or_institutional | Publisher: lincoln.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:69ad394295fb664b9b5a0b17
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-046] New College Oxford — Victorian 1837–1900
+https://www.new.ox.ac.uk/english-literature-through-the-ages/victorian-1837-1900
+Family: academic_or_institutional | Publisher: www.new.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cd176624b7d7d0e3241fb0a9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-047] Oxford Continuing Education — Trollope, Eliot, Dickens and Hardy
+https://www.conted.ox.ac.uk/courses/trollope-eliot-dickens-and-hardy-reading-victorian-fiction-online
+Family: academic_or_institutional | Publisher: www.conted.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:221ed43865bace0432c88382
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-048] Oxford Continuing Education — Love and Family in Nineteenth-Century Literature
+https://www.conted.ox.ac.uk/courses/love-and-family-in-nineteenth-century-literature
+Family: academic_or_institutional | Publisher: www.conted.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:12a0d1ba1416894c0a2c989a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-049] University of Edinburgh — The Great Victorian Novel 2024–25
+https://www.drps.ed.ac.uk/24-25/dpt/cxenli11274.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ab0e563a16cc1ae1c3c28e32
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-050] University of Edinburgh — The Great Victorian Novel 2026–27
+https://www.drps.ed.ac.uk/26-27/dpt/cxenli10422.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7fbc0c890c111abcc63fa9c6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-051] University of Edinburgh — Modern Love: Victorian Poetry and Prose
+https://www.drps.ed.ac.uk/26-27/dpt/cxenli10370.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8a9941ca71229fe9db5602f6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-052] University of Edinburgh — Romanticism and Victorian Society
+https://www-test.drps.ed.ac.uk/24-25/dpt/cxenli11141.htm
+Family: academic_or_institutional | Publisher: www-test.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:43b335d9a8549ad7cd07d2e4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-053] University of Edinburgh — Victorian Transatlanticism
+https://www-test.drps.ed.ac.uk/25-26/dpt/cxenli10376.htm
+Family: academic_or_institutional | Publisher: www-test.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a48be75ed1bdcdb1fd070d4c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-054] King’s College London — Victorians Abroad
+https://www.kcl.ac.uk/abroad/module-options/module?id=0f7c7845-1a7b-4a96-b36d-54ae5be20a8c
+Family: editorial_or_specialist | Publisher: www.kcl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2f60f6863861f030b49aa5e7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-055] King’s College London — The Victorians and the Making of the Modern World
+https://www.kcl.ac.uk/abroad/module-options/the-victorians-and-the-making-of-the-modern-world
+Family: editorial_or_specialist | Publisher: www.kcl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7562035e7692792a838b54cd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-056] King’s College London — Memory & Time in the Nineteenth Century
+https://www.kcl.ac.uk/abroad/module-options/module?id=bf93a0be-683a-41f1-92a5-0b92fd405fc6
+Family: editorial_or_specialist | Publisher: www.kcl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b0e75c92b9a0ab100299bb92
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-057] University of York — Victorians: British Literature 1832–1901
+https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENG00109I/2024-25
+Family: academic_or_institutional | Publisher: www.york.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:24cb931b1ff87c26406c586c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-058] University of York — The Victorians (YorkCourse)
+https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/40N0132/
+Family: academic_or_institutional | Publisher: www.york.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9c13bcd2bc64cd8f9eee3819
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-059] University of York — Questioning the Victorians
+https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENG00029M/2025-26
+Family: academic_or_institutional | Publisher: www.york.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:99e19910f95ed0e7d0cc2d54
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-060] University of York — The Odd Women: Female Emancipation in the Late Victorian Novel
+https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/CED00207C/2026-27
+Family: academic_or_institutional | Publisher: www.york.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ee36bc549e36a3095380406d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-061] University of York — The Odd Women 2023–24
+https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/CED00207C/2023-24
+Family: academic_or_institutional | Publisher: www.york.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:08f5b734e836903f58537a3e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-062] University of Warwick — Sensation!
+https://courses.warwick.ac.uk/modules/2025/EN3M5-15
+Family: academic_or_institutional | Publisher: courses.warwick.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:49586fba114dcb7f6c714f51
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-063] University of Warwick — The English Nineteenth-Century Novel
+https://courses.warwick.ac.uk/modules/2022/EN3C2-30
+Family: academic_or_institutional | Publisher: courses.warwick.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b5ca9595c01a047b723ec004
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-064] University of Warwick — English Nineteenth-Century Novel PDF
+https://courses.warwick.ac.uk/modules/2022/EN3C2-30.pdf
+Family: academic_or_institutional | Publisher: courses.warwick.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fd30be46b5753bbad6aad398
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-065] University of Leeds — Parts, Periodicals, Newspapers
+https://catalogue.leeds.ac.uk/Module/UG/ENGL/3046/202425
+Family: academic_or_institutional | Publisher: catalogue.leeds.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5d19f9d1c345a3dfc986ba65
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-066] Harvard English — The Nineteenth-Century British Novel
+https://english.fas.harvard.edu/english-155bn-nineteenth-century-british-novel
+Family: academic_or_institutional | Publisher: english.fas.harvard.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d41fd02c86fdc9c44b9bbf65
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-067] Harvard — English 155bn syllabus PDF
+https://scholar.harvard.edu/files/victoria-wiet/files/english_155bn_syllabus_-_as_of_3_oct.pdf
+Family: academic_or_institutional | Publisher: scholar.harvard.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9889dd76a5af86aaf37657b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-068] University of Pennsylvania — The Nineteenth-Century British Novel (2020)
+https://www.english.upenn.edu/courses/undergraduate/2020/fall/engl055.001
+Family: academic_or_institutional | Publisher: www.english.upenn.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:03a343883e9fb74b158ec246
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-069] University of Pennsylvania — Nineteenth-Century British Novel (2013)
+https://www.english.upenn.edu/courses/undergraduate/2013/fall/engl055.001
+Family: academic_or_institutional | Publisher: www.english.upenn.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a3229437fda1a6ac8d4730c4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-070] University of Pennsylvania — Nineteenth-Century British Novel (2014)
+https://www.english.upenn.edu/courses/undergraduate/2014/fall/engl055.001
+Family: academic_or_institutional | Publisher: www.english.upenn.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0118636d5466e781f98736ef
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-071] University of Pennsylvania — Nineteenth-Century British Novel (Nina Auerbach)
+https://www.english.upenn.edu/courses/undergraduate/2008/fall/engl055.401
+Family: academic_or_institutional | Publisher: www.english.upenn.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:93bd8b1ba743694f16823a6a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-072] Duke English — Nineteenth-Century British Novel
+https://english.duke.edu/courses/nineteenth-century-british-novel
+Family: academic_or_institutional | Publisher: english.duke.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:91c42b197997258d5955efcc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-073] Wilfrid Laurier University — Victorian Literature PhD Reading List
+https://students.wlu.ca/programs/arts/english-and-film-studies/assets/resources/cae-reading-lists/victorian-literature-reading-list.html
+Family: academic_or_institutional | Publisher: students.wlu.ca | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:27b337d78beb1fb8a469e299
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-074] Western Michigan University — Victorian Literature doctoral exam list PDF
+https://files.wmich.edu/s3fs-public/attachments/u1073/2020/British%20Lit%20Victorian%20doctoral%20exam%20list.pdf
+Family: academic_or_institutional | Publisher: files.wmich.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1b06edb6f65cf8bd0c430894
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-075] UC Santa Barbara — Romantic and Victorian Literature qualifying-exam reading list
+https://www.english.ucsb.edu/graduate/academics/graduate-program-handbook/section-19-reading-lists-for-the-first-qualifying-exam/reading-list-4-romantic-and-victorian-literature/
+Family: academic_or_institutional | Publisher: www.english.ucsb.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b5ca54f00e62dd342c62dc80
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-076] UC Berkeley — Victorian Reading List (archived copy)
+https://studylib.net/doc/8424352/victorian-reading-list--two----department-of-english
+Family: editorial_or_specialist | Publisher: studylib.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:04abacd042f4e5b0e9bed594
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-077] Institute for Education Malta — BENG205 Victorian/19th-century literature
+https://ife.edu.mt/2026-beng205/
+Family: academic_or_institutional | Publisher: ife.edu.mt | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:59059430a533ef0cf7903356
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-078] University of Victoria — Expecting Victorians reading list
+https://expectingvictorians.wordpress.com/
+Family: academic_or_institutional | Publisher: expectingvictorians.wordpress.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:91aedb00192bbbb29fa27c7e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-079] Yeditepe University — Nineteenth Century British Novel
+https://akts.yeditepe.edu.tr/en/Ects/CourseDetail?BID=449&DID=6669&G=1&PID=518&Sezon=2026&Y=4&Z=Z
+Family: academic_or_institutional | Publisher: akts.yeditepe.edu.tr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:18d55d89ff214db88ab5bb4d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-080] San José State University — 19th-Century British Novel syllabus PDF
+https://www.sjsu.edu/faculty/harris/19thBritNovel/19BritNovel_SyllPol.pdf
+Family: academic_or_institutional | Publisher: www.sjsu.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6fb9da10156c7648c23bc1b2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-081] University of Wisconsin–Oshkosh — The 19th-Century British Novel
+https://www.uwosh.edu/faculty_staff/shaffer/364298.html
+Family: academic_or_institutional | Publisher: www.uwosh.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:511a97ca129998d3d038bcb7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-082] University of Georgia — The Nineteenth-Century British Novel
+https://bulletin.uga.edu/Course/Details/31124
+Family: academic_or_institutional | Publisher: bulletin.uga.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9d91c3a07fb92ca179e7c216
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-083] Hacettepe University — Nineteenth-Century British Novel syllabus
+https://paperzz.com/doc/8406669/hacettepe-university
+Family: academic_or_institutional | Publisher: paperzz.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1366f3ee92c483ab2eb03788
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-084] NCSU — Studies in the British Novel syllabus mirror
+https://studylib.net/doc/25978807/eng362.fa2022.syllabus.policies
+Family: academic_or_institutional | Publisher: studylib.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:927e2372ff0ce3f3aaaa5f2c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-086] Oxford Handbook of Victorian Literary Culture — main volume
+https://academic.oup.com/edited-volume/38554
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fb1a3e068d73b09fb8dce366
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-087] Oxford Bibliographies — Victorian Literature
+https://academic.oup.com/reference/62420?login=false
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:905fbee988abb44621266585
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-088] Oxford Handbook — Introduction
+https://academic.oup.com/edited-volume/28178/chapter/213023557
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:183f8f0d8f74c9dbce058c9f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-089] Oxford Handbook — The Early Nineteenth-Century English Novel
+https://academic.oup.com/edited-volume/28178/chapter/213024426
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fa8afd15d211825baa1761d4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-090] Oxford Handbook — New Histories of the Victorian Novel
+https://academic.oup.com/edited-volume/28178/chapter/213025289
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:33727d901fcf15a2256001ad
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-091] Oxford Handbook — Genre, Criticism, and the Victorian Novel
+https://academic.oup.com/edited-volume/28178/chapter/213027251
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:66a2fe6e57bb8599955e5cf2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-092] Oxford Handbook — Publishing the Victorian Novel
+https://academic.oup.com/edited-volume/28178/chapter/213028774
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c556028eba103bc7fba8215d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-093] Oxford Handbook — The Victorian Novel and Its Readers
+https://academic.oup.com/edited-volume/28178/chapter/213030413
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4bc3d0c66419f1e1cde11e19
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-094] Oxford Handbook — The Victorian Novel and Reviews
+https://academic.oup.com/edited-volume/28178/chapter/213031957
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c825e595ec39763c0f930761
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-095] Oxford Handbook — The Victorian Novel and the OED
+https://academic.oup.com/edited-volume/28178/chapter/213033386
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:14363e9e3033b3027d674506
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-096] Oxford Handbook — Censorship and the Late-Victorian Novel
+https://academic.oup.com/edited-volume/28178/chapter/213035245
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:07d0e8ea3dcf1b579e8b3fcc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-097] Oxford Handbook — Victorian Novels in France
+https://academic.oup.com/edited-volume/28178/chapter/213037626
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5017366b5bf8a050a4e9a22f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-098] Oxford Handbook — Victorian Literature and Russian Culture
+https://academic.oup.com/edited-volume/28178/chapter/213039648
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:57a32c993a56922ec27640d8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-099] Oxford Handbook — The Victorian Novel in America
+https://academic.oup.com/edited-volume/28178/chapter/213041742
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5dea9bd81c8e057b6a34caf5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-100] Oxford Handbook — Colonial India and Victorian Storytelling
+https://academic.oup.com/edited-volume/28178/chapter/213044593
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b57c0a88b21c366cdb6bf08a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-101] Oxford Handbook — Victorian Novel and Communications
+https://academic.oup.com/edited-volume/28178/chapter/213046732
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b62e06991bdeaa53ab7df322
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-102] Oxford Handbook — Technologies of Travel
+https://academic.oup.com/edited-volume/28178/chapter/213048069
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:df18ca1c409ec25bec309f01
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-103] Oxford Handbook — Victorian Photography and the Novel
+https://academic.oup.com/edited-volume/28178/chapter/213049944
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2bec374b680e69b676baf267
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-104] Oxford Handbook — Novels of the 1860s
+https://academic.oup.com/edited-volume/28178/chapter/213052308
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:14a2f813ed8644422e3ffefe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-105] Oxford Handbook — Industrialism and the Novel
+https://academic.oup.com/edited-volume/28178/chapter/213053860
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:643ef3ee8663c730c6400fb2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-106] Oxford Handbook — Protestant Ethic / Silas Marner
+https://academic.oup.com/edited-volume/28178/chapter/213055031
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:20093a91e9aa7dd1058a7881
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-107] Oxford Handbook — The Novel and the Professions
+https://academic.oup.com/edited-volume/28178/chapter/213056119
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bf00dafb3f6887b70054b4ff
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-108] Oxford Handbook — Gentleman’s Latin, Lady’s Greek
+https://academic.oup.com/edited-volume/28178/chapter/213057380
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0497954900097ab0a3d047a4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-109] Oxford Handbook — Victorian Novel and Science
+https://academic.oup.com/edited-volume/28178/chapter/213059084
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6ad3ad7dbd38bb415ca79073
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-110] Oxford Handbook — Victorian Novel and Medicine
+https://academic.oup.com/edited-volume/28178/chapter/213059795
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:296897184ad0c6da8af47b17
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-111] Oxford Handbook — Naturalizing the Mind
+https://academic.oup.com/edited-volume/28178/chapter/213061578
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:416245796cccdd9203edb7cd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-112] Cambridge Companion to the Victorian Novel — first edition
+https://www.cambridge.org/core/books/the-cambridge-companion-to-the-victorian-novel/B7B06612D1DB70EB0A8BF73647D8542E
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:33cab26be38b77e3801c7cdc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-113] Cambridge Companion to the Victorian Novel — second edition
+https://www.cambridge.org/core/books/cambridge-companion-to-the-victorian-novel/F2D9899E1C938A49FF25DFF1CF389EE8
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5abc0899c7be6b466ad83a06
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-114] Cambridge Companion — Introduction (first ed.)
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-victorian-novel/introduction/E59986E02175FDEA0AC551B23B44BF9B
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2d0dde362497fd041b203ca0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-115] Cambridge Companion — Introduction (second ed.)
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-victorian-novel/introduction/DF55EF05342AA3DE8E8FEB9979EC96AC
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bb7a5e385917576d05b975d1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-116] Cambridge Companion — Victorian Novel and Its Readers (first ed.)
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-victorian-novel/victorian-novel-and-its-readers/7D46E9884EC8FDB0A96318DBD3EC0549
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1e221e6772e4d8f56c7d3587
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-117] Cambridge Companion — Victorian Novel and Its Readers (second ed.)
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-victorian-novel/victorian-novel-and-its-readers/94F856F3A70709A8C3145DCEB8938788
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:310de8fcd05f51569ccc240f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-118] Cambridge Companion — A History of Criticism of the Victorian Novel
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-victorian-novel/history-of-criticism-of-the-victorian-novel/91AF785F549658689C7538D4A2F0BD98
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2c0daa54229ec9db0cfcc6ba
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-119] Cambridge Companion — Sensation and the Fantastic in the Victorian Novel
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-victorian-novel/sensation-and-the-fantastic-in-the-victorian-novel/63549A2BB2E0236C578992685DE48B2D
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:babf198a63baef82d0c96754
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-120] Cambridge Companion — The Business of Victorian Publishing
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-victorian-novel/business-of-victorian-publishing/3FE598FEB01F98693437881EFCD757DF
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:667ec2473a6fc9f3304c1cb7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-121] Cambridge Companion to George Eliot — second edition
+https://www.cambridge.org/core/books/cambridge-companion-to-george-eliot/280AF6EFFE50E3D041911365D201D4A2
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:edb84ebe20564b9534190439
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-122] Cambridge Companion to George Eliot — first edition
+https://www.cambridge.org/core/books/cambridge-companion-to-george-eliot/905EAFDA7DC5756055BC8B5A6D04D50E
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1d8f22f4a82bf0f622413493
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-123] Cambridge Companion to George Eliot — Introduction
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-george-eliot/introduction/F62821422E31CF4495E8781A77D1A295
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1dba709dbc376b4ac2fb02a3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-124] Cambridge Companion to the Literature of London — London in the Victorian Novel
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-literature-of-london/london-in-the-victorian-novel/F33237A937D84E712572E339E766AE8E
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:22e4c56627587475880d847e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-125] Victorian Web — The Victorian Sensation Novel, 1860–1880
+https://victorianweb.org/genre/sensation.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f3ff4ade03ee2e3f4e7876f0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-126] Victorian Web — Victorian Sensation Novel: Selected Bibliography
+https://www.victorianweb.org/victorian/genre/sensationbib.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c233c9c128dc777ef0c2b476
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-127] Victorian Web — Men in Tears: Victorian Sensation Novel
+https://www.victorianweb.org/victorian/authors/collins/sensationintro.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1550007145a1a0992c44b9dd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-128] Victorian Web — Victorian Best-Sellers, 1862–1901
+https://www.victorianweb.org/authors/dickens/pva/pva120.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f0f29c4bfddf132013bf87b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-129] Victorian Web — Significant and Best-Selling Victorian Novels, 1837–1861
+https://www.victorianweb.org/authors/dickens/pva/pva90.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b7c7523ae74954af2828be0a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-130] Victorian Web — Sensational Literature (The Reader, 1864)
+https://victorianweb.org/genre/sensation2.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:39194d20dc4138dc10b673cb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-131] Victorian Web — Mary Elizabeth Braddon: Life and Works
+https://victorianweb.org/authors/braddon/bio.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3b7a9c44c342a37e673c96fd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-132] Victorian Web — ‘Miss Braddon’s Novels’ (The Reader, 1863)
+https://victorianweb.org/authors/braddon/reader.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8e0a18606964c39066f6e17a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-133] Victorian Web — George Eliot’s Middlemarch hub
+https://www.victorianweb.org/authors/eliot/middlemarch/index.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4c1cb5863f9242e44a412b1a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-134] Victorian Web — George Eliot: Works
+https://victorianweb.org/authors/eliot/works.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8ff1e6e809ed9b38a03440d9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-135] Victorian Web — George Eliot: Selected Bibliography
+https://www.victorianweb.org/authors/eliot/bibliography.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:51e14ea8eede322a7278ac11
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-136] Victorian Web — George Eliot’s Complex Characters in Middlemarch
+https://victorianweb.org/authors/eliot/middlemarch/mroz1.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8782e33a76a3e5efd1ad625b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-137] Victorian Web — Construction and Deconstruction of Science in Middlemarch
+https://victorianweb.org/authors/eliot/middlemarch/rectenwald2.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2a15de93b1ff7133a25e9307
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-138] Victorian Web — George Eliot biographical introduction
+https://victorianweb.org/authors/eliot/pva92.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e6ee30c163c68eedac0f752c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-139] Victorian Web — Charles Dickens’s Bleak House hub
+https://victorianweb.org/authors/dickens/bleakhouse/
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d63bfc56acf91c169889f048
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-140] Victorian Web — Charlotte Brontë’s Jane Eyre hub
+https://www.victorianweb.org/authors/bronte/cbronte/eyreov.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d16d3616b24d4b9bc6021c36
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-141] Victorian Web — Elizabeth Gaskell’s North and South hub
+https://victorianweb.org/authors/gaskell/n_sov.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:154ff35bb03f0a702e9200c1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-142] Victorian Web — North and South: Literary Relations
+https://victorianweb.org/authors/gaskell/litrel.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7bed7a0e1c939d383671d7e6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-143] Victorian Web — Elizabeth Gaskell biography/bibliography
+https://www.victorianweb.org/authors/gaskell/bio.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c7ac7b60e639cd4abb8e6030
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-144] Victorian Web — Anthony Trollope hub
+https://www.victorianweb.org/authors/trollope/index.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c71bcb68240ad21ca746b649
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-145] Victorian Web — The Way We Live Now hub
+https://www.victorianweb.org/victorian/authors/trollope/wwlnov.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:568fadfcd462d902d52f01f6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-146] Victorian Web — The Way We Live Now: introduction
+https://victorianweb.org/authors/trollope/tsociety/wwln.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f52d9efe160365b7bac2eeb6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-147] Victorian Web — The Way We Live Now: thematic notes
+https://victorianweb.org/authors/trollope/wwln1.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8ba16548942f2ce605ae8366
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-148] Victorian Web — Modernity of The Last Chronicle of Barset
+https://victorianweb.org/victorian/authors/trollope/moody4.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c8eefcbac524b52afddc5bce
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-149] Victorian Web — George Gissing: An Introduction
+https://www.victorianweb.org/victorian/authors/gissing/intro.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aac1c433b7c5778ab815ff7f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-150] Victorian Web — George Gissing biography
+https://victorianweb.org/authors/gissing/bio.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8edeb71f1e416b60c53abd14
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-151] Victorian Web — Gissing resources on the Internet
+https://victorianweb.org/authors/gissing/web.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f47b04752f330b008edb75d0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-152] Victorian Web — Margaret Oliphant
+https://victorianweb.org/authors/oliphant/index.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8c1a1c710dd7c5e1b51601ae
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-153] Victorian Web — Robert Louis Stevenson
+https://www.victorianweb.org/authors/stevenson/index.html
+Family: editorial_or_specialist | Publisher: www.victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5eb8d9fd8d9bdd73324bf32d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-154] Victorian Web — Lewis Carroll
+https://victorianweb.org/authors/carroll/index.html
+Family: editorial_or_specialist | Publisher: victorianweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:faf6215c47589581765c3f0e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-155] Douban — Wuthering Heights (edition 1)
+https://book.douban.com/subject/1262811/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:11a5b993aa0681d9d183b62d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-156] Douban — Wuthering Heights (edition 2)
+https://book.douban.com/subject/2370594/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:48d95895b3afc05fded72d7f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-157] Douban — Jane Eyre
+https://book.douban.com/subject/30245411/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:01b61fcda72644ae95241c97
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-158] Douban — Wuthering Heights (2013 edition)
+https://book.douban.com/subject/20375617/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cca0516ce474816ae9dccf2c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-159] Douban — Wuthering Heights (2015 edition)
+https://book.douban.com/subject/25897674/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0f730b24d12b3e5961d47e6f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-160] Douban — Jane Eyre (2022 edition)
+https://book.douban.com/subject/35721638/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0116c117e6c4a7e2a455023f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-161] Douban — Jane Eyre (Wordsworth edition)
+https://book.douban.com/subject/1418242/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d58946cdb5a38cc4758fb998
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-162] Douban — North and South
+https://book.douban.com/subject/1575983/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ee698df96d69932fa26e6de7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-163] Douban — North and South (Penguin edition)
+https://book.douban.com/subject/3602517/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4d57ece26ecae44710fb9d7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-164] Douban — Middlemarch (Wordsworth edition)
+https://book.douban.com/subject/1187137/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8b4ed122685454a7be976ab5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-165] Douban — Middlemarch (Barnes & Noble edition)
+https://book.douban.com/subject/1499031/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:10ebfb15b05ec0780cc80c7a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-166] Douban — David Copperfield (Wordsworth edition)
+https://book.douban.com/subject/1623953/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e240b3161b8791886c5e8bde
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-167] Douban — David Copperfield (Chinese edition)
+https://book.douban.com/subject/1130984/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e79b9d0f2f58961a9f41f94b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-168] Douban — The Woman in White
+https://book.douban.com/subject/2042170/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fc20487cd2004f06e76085b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-169] Douban — The Moonstone
+https://book.douban.com/subject/1466889/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:402351db3970dd6e6ec49f96
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-170] Douban — Bleak House
+https://book.douban.com/subject/1784390/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bb4c0d64d54721191f40f601
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-171] Douban — Tess of the d’Urbervilles
+https://book.douban.com/subject/1788201/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e14f184c83b5857c5dd57b4b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-172] Douban — Great Expectations
+https://book.douban.com/subject/1011228/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7048b0ef0f81839c059da82f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-173] Douban — Far from the Madding Crowd
+https://book.douban.com/subject/2472702/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:31dd301631bd026c74ea76a2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-174] Douban — Dracula
+https://book.douban.com/subject/1460797/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:13e4558ac0b2efe7729c9c7a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-175] Douban — The Tenant of Wildfell Hall
+https://book.douban.com/subject/4860076/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:be7f09db3e48bd89413c1fd0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-176] Douban — Jude the Obscure
+https://book.douban.com/subject/1118764/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:94a917b4906a1793fd77c5d0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-177] Douban — Villette
+https://book.douban.com/subject/1084891/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8e1028c1de82c5dddb20eacc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-178] Douban — The Picture of Dorian Gray
+https://book.douban.com/subject/1870691/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:76c74f49351f37e851516852
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-179] Douban — The Mayor of Casterbridge
+https://book.douban.com/subject/3601121/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:03bef8f81fa11c60b6bcec33
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-180] Douban — The Time Machine / War of the Worlds
+https://book.douban.com/subject/1574747/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e2e0997e9a5592fd05a6018e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-181] BookMeter — Charlotte Brontë author ranking
+https://bookmeter.com/authors/18883
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3075162ac9c713d25a265761
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-182] BookMeter — Emily Brontë author ranking
+https://bookmeter.com/authors/32049
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:23c0edc1dd1920e2fc35ee25
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-183] BookMeter — George Eliot author ranking
+https://bookmeter.com/authors/72061
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ec6de135e1daced297240b4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-184] BookMeter — Wilkie Collins author ranking
+https://bookmeter.com/authors/72062
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:322a545b84cfcfc7bceea594
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-185] BookMeter — Oscar Wilde author ranking
+https://bookmeter.com/authors/18171
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:332a30a6cf6e54a9f1d2bcc5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-186] BookMeter — Thomas Hardy author ranking
+https://bookmeter.com/authors/4192462
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f22c955ef1e307611e7620b9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-187] BookMeter — Jane Eyre (Iwanami edition)
+https://bookmeter.com/books/7402281
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e0bb7c39045d77ae42a3f648
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-188] BookMeter — Jane Eyre (Brontë Complete Works edition)
+https://bookmeter.com/books/142336
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f403359a34eb338ae0b3e956
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-189] BookMeter — Wuthering Heights (Shincho edition)
+https://bookmeter.com/books/518966
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:79060000fb0ca349b2a30bf0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-190] BookMeter — Guardian 1000 community event
+https://bookmeter.com/event/event_show.php?id=3341
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2b722b58a44a025fd1ca086a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-191] Booklog — The Moonstone
+https://download.booklog.jp/item/1/4488109012?author-carousel=4488106226
+Family: editorial_or_specialist | Publisher: download.booklog.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2f04c22001f6dc008f4357f4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-192] Booklog — Jane Eyre
+https://download.booklog.jp/item/1/433475113X
+Family: editorial_or_specialist | Publisher: download.booklog.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cd60c3aec98d90eeefa4982f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-193] LovelyBooks — The Woman in White (English edition)
+https://www.lovelybooks.de/autor/Wilkie-Collins/The-Woman-in-White-Die-Frau-in-Wei%C3%9F-englische-Ausgabe-142930640-w/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b39eee263e0f58f190b1ae11
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-194] LovelyBooks — Die Frau in Weiß
+https://www.lovelybooks.de/autor/Wilkie-Collins/Die-Frau-in-Wei%C3%9F-142998690-w/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6b64111ffdcc8b7f51646cc4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-195] LovelyBooks — Wilkie Collins author page
+https://www.lovelybooks.de/autor/Wilkie-Collins/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6baf59ecfc82b8497ae7989f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-196] LiveLib — Wuthering Heights
+https://www.livelib.ru/book/1015726051-grozovoj-pereval-emili-bronte
+Family: editorial_or_specialist | Publisher: www.livelib.ru | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:84cd42ffd6c7e8649853c55f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-197] LiveLib — Jane Eyre
+https://www.livelib.ru/book/1006013710-dzhejn-ejr-sharlotta-bronte
+Family: editorial_or_specialist | Publisher: www.livelib.ru | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:acf53760a9a3783b135a3400
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-198] LiveLib — The Woman in White
+https://www.livelib.ru/book/1000478111-zhenschina-v-belom-uilki-kollinz
+Family: editorial_or_specialist | Publisher: www.livelib.ru | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:74939ea462e78b4d69678f6d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-200] Reddit r/suggestmeabook — Best Victorian era novels (2025)
+https://www.reddit.com/r/suggestmeabook/comments/1luxd9q/best_victorian_era_novels/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:16be26394a619b04babbb06a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-202] Reddit r/charlesdickens — Favorite novel (Feb 2025)
+https://www.reddit.com/r/charlesdickens/comments/1iq8vdc
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1fac166dca6d321ef88dbc8e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-203] Reddit r/charlesdickens — Which book is your favorite? (2025)
+https://www.reddit.com/r/charlesdickens/comments/1m64doa/which_book_is_your_favorite/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aef8958e7846bf4d1174d2a2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-204] Reddit r/charlesdickens — Which novel to start with? (2025)
+https://www.reddit.com/r/charlesdickens/comments/1pu01lu/which_novel_to_start_with/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:10f4b7d54dbed0aea492bb13
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-205] Reddit r/charlesdickens — What to read first? (2026)
+https://www.reddit.com/r/charlesdickens/comments/1q2xobk/what_to_read_first/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:15c4eb1c9f93869a703ce913
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-206] Reddit r/VictorianEra — Any good Victorian books? (2026)
+https://www.reddit.com/r/VictorianEra/comments/1tek85n/any_good_victorian_books/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8cd112d6188c4439acf7262e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-207] Reddit r/HistoricalRomance — Strictly Victorian recs (2026)
+https://www.reddit.com/r/HistoricalRomance/comments/1rmtsqg/im_in_dire_need_of_strictly_victorian_recs/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:78474820399cc2842fae0ac4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-208] Reddit r/classicliterature — Victorian novels (Sep 2025)
+https://www.reddit.com/r/classicliterature/comments/1nkyhqi/victorian_novels/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0284ed1ac2ae33dda32a76f5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-209] Reddit r/classicliterature — Favorite classic Victorian fiction books? (2024)
+https://www.reddit.com/r/classicliterature/comments/1ae5529
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9d840f964605b07cebe709f2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-210] Reddit r/charlesdickens — Novels best to worst (2024)
+https://www.reddit.com/r/charlesdickens/comments/1ekgn7f/novels_best_to_worst/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:731a49aca24430dd32e74226
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-211] Reddit r/charlesdickens — Vote for your favourite Dickens novel (2026)
+https://www.reddit.com/r/charlesdickens/comments/1ufjgnm/vote_for_your_favourite_dickens_novel/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ecf0779de26b1d3c7ea28b90
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-212] Reddit r/classicliterature — Best Brontë novel? (2026)
+https://www.reddit.com/r/classicliterature/comments/1w0u93b/in_your_opinion_what_is_the_best_bronte_novel/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1d54712a42de8b2e567ca408
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-213] Reddit r/classicliterature — Favorite book by the Brontë sisters? (2026)
+https://www.reddit.com/r/classicliterature/comments/1vxcdso/what_is_your_favorite_book_by_the_bront%C3%AB_sisters/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c80f8da723e8d66de8d98621
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-214] Reddit r/classicliterature — Victorian novels (Nov 2025)
+https://www.reddit.com/r/classicliterature/comments/1osd2bh
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a756f52ed7987779bdb009fb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[VICTORIAN-215] Reddit r/classicliterature — Help choose next classic
+https://www.reddit.com/r/classicliterature/comments/w78m7j
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:43c1ea8c097ca9b45f0eeb63
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: books-victorian. Included 150 current entries and 229 current source records. Carry out the update and return the enhanced ranking with the complete source register.

@@ -1,5 +1,7 @@
 # Philosophers · All time — illustrated initial selection
 
+> Historical initial selection. Later publications supersede this small comparison; consult [current saved state](../../docs/CURRENT_STATE.md). Preserve this report as provenance.
+
 Initial researched selection: 23 thinkers. Expansion toward 100–200 continues. These are comparisons within the included selection, not a completed worldwide Top 23.
 
 Critical standing emphasizes the reach, originality and enduring reception of a thinker’s work. Reading value emphasizes the conceptual and ethical rewards of engaging with that work today; technical difficulty is not an automatic deduction. This is a qualitative editorial synthesis, not a vote count, an average of book ranks or a personalized score. Cross-tradition comparisons and exact adjacent positions remain uncertain. Images of ancient and medieval thinkers are credited depictions, not authenticated contemporary portraits. Wiredu and Xunzi remain in the research pool pending suitable images; their temporary omission is not a judgment against their work.

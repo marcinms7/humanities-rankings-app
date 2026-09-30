@@ -1,0 +1,1633 @@
+UPDATE REQUEST: Ancient works · All time
+Target ID: books-ancient
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 130; current source records: 221 (includes unverified leads).
+Desired scope: Ancient works composed or originating broadly before 600 CE, across books, poems, plays and collections and across world traditions, aiming to resolve the original approximately 150-work ambition with honest attribution.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+130 published entries from a saved 150-candidate report, with 221 eligible reported consultations all marked summary_only and the same five references on every entry. Twenty composite or anonymous attributions were retained unresolved at intake.
+1. Reconcile the saved 150-candidate pool with current publication and revisit all 20 unresolved collective/composite cases without inventing personal authors.
+2. Map sources to individual ancient works and distinguish primary textual evidence, modern scholarly evaluation and reader lists.
+3. Preserve the global ancient scope rather than substituting a Greco-Roman-only canon; explain composition dates, oral transmission and uncertain redaction periods.
+4. Distinguish entire corpora, collections, books, plays and poems and prevent overlap from silently double-counting a corpus and its component texts.
+5. Compare major omissions and alternatives across the full pool; do not treat missing modern editions or covers as grounds for excluding significant works.
+
+CURRENT SCOPE
+{"forms": ["book", "poem", "play", "collection"], "period": "ancient", "year_to": 600}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:3082] The Odyssey — Homeric tradition | standing=1; reading=1 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+2. [work:3083] The Iliad — Homeric tradition | standing=2; reading=2 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+3. [work:3085] Mahabharata — Composite Sanskrit tradition | standing=3; reading=3 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+4. [work:3086] Republic — Plato | standing=4; reading=4 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+5. [work:3087] Ramayana — Valmiki tradition | standing=5; reading=5 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+6. [work:34] Analects — Confucius | standing=6; reading=6 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+7. [work:3088] Daodejing — Laozi tradition | standing=7; reading=7 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+8. [work:377] Aeneid — Virgil | standing=8; reading=8 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+9. [work:368] Metamorphoses — Ovid | standing=9; reading=9 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+10. [work:3089] Upanishads — Composite Vedic tradition | standing=10; reading=10 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+11. [work:3090] Histories — Herodotus | standing=11; reading=11 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+12. [work:3091] History of the Peloponnesian War — Thucydides | standing=12; reading=12 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+13. [work:645] Oedipus the King — Sophocles | standing=13; reading=13 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+14. [work:3092] Zhuangzi — Zhuang Zhou tradition | standing=14; reading=14 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+15. [work:3094] Oresteia — Aeschylus | standing=15; reading=15 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+16. [work:33] Nicomachean Ethics — Aristotle | standing=16; reading=16 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+17. [work:3095] Rigveda — Composite Vedic poets | standing=17; reading=17 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+18. [work:647] Antigone — Sophocles | standing=18; reading=18 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+19. [work:877] Shiji — Sima Qian | standing=19; reading=19 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+20. [work:3096] Medea — Euripides | standing=20; reading=20 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+21. [work:427] Poetics — Aristotle | standing=21; reading=21 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+22. [work:3097] Dhammapada — Buddhist canonical tradition | standing=22; reading=22 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+23. [work:3098] The Art of War — Sunzi tradition | standing=23; reading=23 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+24. [work:3099] Theogony — Hesiod | standing=24; reading=24 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+25. [work:444] On the Nature of Things — Lucretius | standing=25; reading=25 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+26. [work:3100] Confessions — Augustine | standing=26; reading=26 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+27. [work:438] Symposium — Plato | standing=27; reading=27 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+28. [work:43] Mengzi — Mencius | standing=28; reading=28 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+29. [work:3101] Gathas — Zarathustra | standing=29; reading=29 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+30. [work:644] Bacchae — Euripides | standing=30; reading=30 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+31. [work:3102] Works and Days — Hesiod | standing=31; reading=31 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+32. [work:2980] Meditations — Marcus Aurelius | standing=32; reading=32 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+33. [work:1520] Shakuntala — Kalidasa | standing=33; reading=33 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+34. [work:662] Odes — Horace | standing=34; reading=34 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+35. [work:3103] Metamorphoses — Apuleius | standing=35; reading=35 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+36. [work:425] Politics — Aristotle | standing=36; reading=36 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+37. [work:3105] Poems and Fragments — Sappho | standing=37; reading=37 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+38. [work:3106] Parallel Lives — Plutarch | standing=38; reading=38 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+39. [work:3107] Annals — Tacitus | standing=39; reading=39 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+40. [work:451] Discourses — Epictetus | standing=40; reading=40 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+41. [work:3108] Moral Letters to Lucilius — Seneca | standing=41; reading=41 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+42. [work:437] Phaedo — Plato | standing=42; reading=42 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+43. [work:435] Apology — Plato | standing=43; reading=43 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+44. [work:885] Songs of Chu — Qu Yuan | standing=44; reading=44 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+45. [work:3109] Arthashastra — Kautilya tradition | standing=45; reading=45 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+46. [work:1512] Tirukkural — Tiruvalluvar | standing=46; reading=46 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+47. [work:3110] Lotus Sutra — Mahayana Buddhist tradition | standing=47; reading=47 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+48. [work:4303] Mozi — Mohist school; Mozi | standing=48; reading=48 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+49. [work:900] Xunzi — Xun Kuang | standing=49; reading=49 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+50. [work:3112] Victory Odes — Pindar | standing=50; reading=50 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+51. [work:3113] Argonautica — Apollonius of Rhodes | standing=51; reading=51 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+52. [work:3115] Georgics — Virgil | standing=52; reading=52 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+53. [work:3116] Poems — Catullus | standing=53; reading=53 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+54. [work:649] Frogs — Aristophanes | standing=54; reading=54 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+55. [work:650] Lysistrata — Aristophanes | standing=55; reading=55 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+56. [work:3117] The Trojan Women — Euripides | standing=56; reading=56 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+57. [work:3118] Oedipus at Colonus — Sophocles | standing=57; reading=57 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+58. [work:3119] Persians — Aeschylus | standing=58; reading=58 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+59. [work:3120] Histories — Polybius | standing=59; reading=59 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+60. [work:3121] Ab Urbe Condita — Livy | standing=60; reading=60 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+61. [work:2608] The Twelve Caesars — Suetonius | standing=61; reading=61 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+62. [work:3122] Commentaries on the Gallic War — Julius Caesar | standing=62; reading=62 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+63. [work:3123] Anabasis — Xenophon | standing=63; reading=63 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+64. [work:3124] De Officiis — Cicero | standing=64; reading=64 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+65. [work:3125] De Oratore — Cicero | standing=65; reading=65 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+66. [work:3126] Natural History — Pliny the Elder | standing=66; reading=66 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+67. [work:3127] Letters — Pliny the Younger | standing=67; reading=67 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+68. [work:3128] Satires — Juvenal | standing=68; reading=68 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+69. [work:3129] Satyricon — Petronius | standing=69; reading=69 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+70. [work:3130] Fasti — Ovid | standing=70; reading=70 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+71. [work:3131] Heroides — Ovid | standing=71; reading=71 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+72. [work:3132] Ars Amatoria — Ovid | standing=72; reading=72 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+73. [work:3133] Eclogues — Virgil | standing=73; reading=73 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+74. [work:2922] Civil War — Lucan | standing=74; reading=74 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+75. [work:3134] True History — Lucian | standing=75; reading=75 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+76. [work:3135] Daphnis and Chloe — Longus | standing=76; reading=76 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+77. [work:3136] Enneads — Plotinus | standing=77; reading=77 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+78. [work:1235] The Consolation of Philosophy — Boethius | standing=78; reading=78 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+79. [work:3137] The City of God — Augustine | standing=79; reading=79 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+80. [work:3138] Ecclesiastical History — Eusebius | standing=80; reading=80 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+81. [work:3139] Life of Antony — Athanasius | standing=81; reading=81 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+82. [work:3140] Sayings of the Desert Fathers — Early Christian monastic tradition | standing=82; reading=82 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+83. [work:3141] The Jewish War — Josephus | standing=83; reading=83 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+84. [work:3142] Antiquities of the Jews — Josephus | standing=84; reading=84 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+85. [work:3143] Anabasis of Alexander — Arrian | standing=85; reading=85 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+86. [work:3144] Description of Greece — Pausanias | standing=86; reading=86 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+87. [work:3145] Lives of the Eminent Philosophers — Diogenes Laertius | standing=87; reading=87 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+88. [work:3146] Outlines of Pyrrhonism — Sextus Empiricus | standing=88; reading=88 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+89. [work:3147] Elements — Euclid | standing=89; reading=89 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+90. [work:3148] Almagest — Ptolemy | standing=90; reading=90 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+91. [work:3149] Hippocratic Corpus — Hippocratic tradition | standing=91; reading=91 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+92. [work:428] On the Soul — Aristotle | standing=92; reading=92 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+93. [work:656] Rhetoric — Aristotle | standing=93; reading=93 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+94. [work:426] Physics — Aristotle | standing=94; reading=94 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+95. [work:3150] De Architectura — Vitruvius | standing=95; reading=95 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+96. [work:3151] On the Sublime — Pseudo-Longinus | standing=96; reading=96 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+97. [work:3152] Institutio Oratoria — Quintilian | standing=97; reading=97 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+98. [work:3153] Fables — Aesopic tradition | standing=98; reading=98 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+99. [work:3154] Dyskolos — Menander | standing=99; reading=99 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+100. [work:3155] Menaechmi — Plautus | standing=100; reading=100 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+101. [work:3156] Adelphoe — Terence | standing=101; reading=101 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+102. [work:4304] Han Feizi — Han Fei; later editors | standing=102; reading=102 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+103. [work:947] Huainanzi — Liu An's court scholars | standing=103; reading=103 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+104. [work:3158] The Annals of Lü Buwei — Lü Buwei's scholars | standing=104; reading=104 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+105. [work:3159] Liezi — Lie Yukou tradition | standing=105; reading=105 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+106. [work:3160] Baopuzi — Ge Hong | standing=106; reading=106 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+107. [work:3161] Selections of Refined Literature — Xiao Tong | standing=107; reading=107 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+108. [work:1530] The Cloud Messenger — Kalidasa | standing=108; reading=108 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+109. [work:3162] Panchatantra — Vishnu Sharma tradition | standing=109; reading=109 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+110. [work:1579] Kamasutra — Vatsyayana | standing=110; reading=110 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+111. [work:3163] Buddhacharita — Ashvaghosha | standing=111; reading=111 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+112. [work:3164] Fundamental Wisdom of the Middle Way — Nagarjuna | standing=112; reading=112 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+113. [work:3166] Sutta Nipata — Early Buddhist canonical tradition | standing=113; reading=113 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+114. [work:3167] Vimalakirti Sutra — Mahayana Buddhist tradition | standing=114; reading=114 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+115. [work:3168] Diamond Sutra — Prajnaparamita tradition | standing=115; reading=115 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+116. [work:3169] Yoga Sutras — Patanjali tradition | standing=116; reading=116 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+117. [work:3170] Laws of Manu — Manu tradition | standing=117; reading=117 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+118. [work:1564] Purananuru — Sangam poets | standing=118; reading=118 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+119. [work:3171] Silappatikaram — Ilango Adigal tradition | standing=119; reading=119 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+120. [work:3172] Manimekalai — Sattanar | standing=120; reading=120 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+121. [work:3173] Tolkappiyam — Tolkappiyar tradition | standing=121; reading=121 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+122. [work:3175] The Instruction of Ptahhotep — Ptahhotep tradition | standing=122; reading=122 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+123. [work:3178] Descent of Inanna — Sumerian | standing=123; reading=123 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+124. [work:3179] Baal Cycle — Ugaritic tradition | standing=124; reading=124 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+125. [work:3180] Younger Avesta — Zoroastrian tradition | standing=125; reading=125 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+126. [work:3181] Hymns of Enheduanna — Enheduanna tradition | standing=126; reading=126 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+127. [work:3182] Instructions of Shuruppak — Sumerian tradition | standing=127; reading=127 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+128. [work:3184] The Passion of Perpetua and Felicity — Perpetua | standing=128; reading=128 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+129. [work:3185] Gospel of Thomas — Early Christian tradition | standing=129; reading=129 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+130. [work:3186] The Ethiopian Story — Heliodorus | standing=130; reading=130 | sources: ANCIENT-001, ANCIENT-002, ANCIENT-003, ANCIENT-004, ANCIENT-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[ANCIENT-001] [Global/reader ranking] Goodreads – Best Books of the Ancient World
+https://www.goodreads.com/list/show/6191.Best_Books_of_the_Ancient_World
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:68b88080dde009ce240a5ef6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-002] [Global/reader ranking] Goodreads – Ancient Texts
+https://www.goodreads.com/list/show/45052.Ancient_Texts
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1dd3c6a9f18ea14aa7e90c4f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-003] [Global/reader ranking] Goodreads – Greatest Ancient Epics
+https://www.goodreads.com/list/show/21801.Greatest_Ancient_Epics
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ff4f9c9ae894e3a1921e0be
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-004] [Global/reader ranking] Goodreads – Ancient Literature tag lists
+https://www.goodreads.com/list/tag/ancient-literature
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e5df72f2b8970389688516bc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-005] [Global/reader ranking] Goodreads – Books BCE
+https://www.goodreads.com/list/show/114442.Books_BCE
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:abcb0b756a6b3052c5c3bbd2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-006] [Global/reader ranking] Goodreads – Classical World Reading List
+https://www.goodreads.com/list/show/14533.Classical_World_Reading_List
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:81989d308fa14bc45399c6ef
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-007] [Global/reader ranking] Goodreads – Classics of World Literature
+https://www.goodreads.com/list/show/128867.Classics_of_World_Literature
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:45fbb25ab1b89cc92d43ef46
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-008] [Global/reader ranking] Goodreads – World Literature Canon
+https://www.goodreads.com/list/show/14112.World_Literature_Canon
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6db2ccd9b8270dd7e5044bcf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-009] [Global/canon] Goodreads – Harold Bloom, The Theocratic Age
+https://www.goodreads.com/list/show/43910.Appendix_A_The_Theocratic_Age_Harold_Bloom_s_Western_Canon_
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d02b6d66d8a8489883457220
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-010] [Global/canon] Harold Bloom Western Canon list mirror
+https://sonic.net/~rteeter/grtbloom.html
+Family: editorial_or_specialist | Publisher: sonic.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0d8e57d949a400f63854c2b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-011] [Global/meta-ranking] The Greatest Books – Ancient books
+https://thegreatestbooks.org/the-greatest/ancient/books/
+Family: editorial_or_specialist | Publisher: thegreatestbooks.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:59b4138e2b402badd9a16786
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-012] [Global/meta-ranking] The Greatest Books – Homer author page
+https://thegreatestbooks.org/authors/4916
+Family: editorial_or_specialist | Publisher: thegreatestbooks.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:808d79d78fcb9302aa615285
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-013] [Global/canon] Bokklubben World Library
+https://en.wikipedia.org/wiki/Bokklubben_World_Library
+Family: academic_or_institutional | Publisher: en.wikipedia.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2a7b59ee979256726a31bdef
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-014] [Germany/press canon] Die Zeit – Bibliothek der Weltliteratur: 100 books
+https://www.zeit.de/kultur/literatur/2023-11/weltliteratur-zeit-bibliothek-100-buecher-empfehlungen
+Family: editorial_or_specialist | Publisher: www.zeit.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cefe635c9081a01d77cb1fe4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-015] [Germany/press reception] Die Zeit – Odyssee article
+https://www.zeit.de/1979/32/odyssee
+Family: editorial_or_specialist | Publisher: www.zeit.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f5dca3fa58cb6a58241ae2f8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-016] [Germany/press canon] Die Zeit – 100 books overview
+https://www.zeit.de/kultur/literatur/2023-11/100-buecher
+Family: editorial_or_specialist | Publisher: www.zeit.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ecda78bd7632f446f271db8b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-017] [Germany/press canon] ZEIT Shop – Bibliothek der Weltliteratur
+https://shop.zeit.de/sortiment/buecher/buchempfehlungen/die-zeit-bibliothek-der-weltliteratur
+Family: editorial_or_specialist | Publisher: shop.zeit.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:424208f72095ec290c33d8d6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-018] [Germany/reader reconstruction] Goodreads – Die Zeit 100 Best Books 2023
+https://www.goodreads.com/list/show/195856.Die_Zeit_100_Best_Books_2023
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c92f50136c3e62a780f1fdfd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-019] [UK/press canon] The Telegraph – 50 best books (archived)
+https://archive.ph/cN32y
+Family: editorial_or_specialist | Publisher: archive.ph | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c57f662d1a049d42c56edd12
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-020] [Spain/press criticism] El País – Los clásicos nos hacen críticos
+https://elpais.com/cultura/2016/10/20/actualidad/1476978146_824729.html
+Family: editorial_or_specialist | Publisher: elpais.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3b51c8d0894500e994226806
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-021] [Spain/press criticism] El País – Occidente es un invento de libro
+https://elpais.com/cultura/2016/10/06/babelia/1475775811_486282.html
+Family: editorial_or_specialist | Publisher: elpais.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:23ee7dc5fd2303ef27125adc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-022] [Spain/press reception] El País – Odyssey recommendation
+https://elpais.com/cultura/2010/08/20/actualidad/1282255206_850215.html
+Family: editorial_or_specialist | Publisher: elpais.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a3da7178739351515d4553e7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-023] [Spain/press criticism] El País – classical literature essay
+https://elpais.com/diario/1998/10/27/sociedad/909442818_850215.html
+Family: editorial_or_specialist | Publisher: elpais.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9b9f9b1fb5927185a96d3279
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-024] [France/press scholarship] Le Monde – Bibliographie de classiques grecs et latins
+https://www.lemonde.fr/archives/article/2002/02/28/bibliographie-de-classiques-grecs-et-latins_264811_1819218.html
+Family: editorial_or_specialist | Publisher: www.lemonde.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8d1eb22b21aafd71def51b1b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-025] [France/press reception] Le Monde – L'odyssée des classiques
+https://www.lemonde.fr/culture/article/2013/03/07/l-odyssee-des-classiques_1844423_3246.html
+Family: editorial_or_specialist | Publisher: www.lemonde.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3f05ec741841959f6a4985d6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-026] [France/press criticism] Le Monde – Tout Homère review
+https://www.lemonde.fr/critique-litteraire/article/2019/12/18/tout-homere-sous-la-direction-d-helene-monsacre-homere-ou-crepuscule-des-demi-dieux_6023343_5473203.html
+Family: editorial_or_specialist | Publisher: www.lemonde.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2cfc6a444fd49fb34851a01d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-027] [France/reader ranking] SensCritique – Top Antiquity books
+https://www.senscritique.com/liste/litt_ant/51036
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e6055b596e456e6aafd7ee56
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-028] [France/reader ranking] SensCritique – Littérature antique
+https://www.senscritique.com/liste/litterature_antique/445115
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ac73b7c59eecf6a440c7240d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-029] [France/reader ranking] SensCritique – Best books of antiquity
+https://www.senscritique.com/top/les_meilleurs_livres_de_l_antiquite/4028413
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:821148aeb2d26ddf666b7137
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-030] [France/reader list] SensCritique – Plato chronological list
+https://www.senscritique.com/liste/Platon_dans_l_ordre_chronologique/322381
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ba2f7ce3a87f99bc8c226f67
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-031] [Italy/reference] Treccani – Odissea
+https://www.treccani.it/enciclopedia/odissea/
+Family: editorial_or_specialist | Publisher: www.treccani.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ea6f1e95f15e0f9c34d9fb65
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-032] [Italy/reference] Treccani – Iliade
+https://www.treccani.it/enciclopedia/iliade/
+Family: editorial_or_specialist | Publisher: www.treccani.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a50ea75717fe5526cc684823
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-033] [Italy/bookselling/readership] IBS – Classici greci e latini
+https://www.ibs.it/libri/classici-poesia-teatro-critica/classici-greci-latini-c5808
+Family: editorial_or_specialist | Publisher: www.ibs.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:44424f4d7c8b48a5ead2d8b7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-034] [Italy/reader community] Anobii – Iliade
+https://www.anobii.com/en/books/Iliade/01f028b0b025a3ab59
+Family: editorial_or_specialist | Publisher: www.anobii.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7fd93436886832e982e18e07
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-035] [Italy/reader community] Anobii – Iliade (Repubblica/Magnifica edition)
+https://www.anobii.com/en/books/iliade/013f6342a71c827cfe
+Family: editorial_or_specialist | Publisher: www.anobii.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:72745640740457fd77cbade6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-036] [Italy/reader community] Anobii – Metamorfosi
+https://www.anobii.com/en/books/metamorfosi/9788841886946/019c1dc390c73790b2
+Family: editorial_or_specialist | Publisher: www.anobii.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6618cf993df514168f28da4a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-037] [Italy/reader community] Anobii – all editions of Iliade
+https://www.anobii.com/en/list/editions/01fed8b5ab531884b7
+Family: editorial_or_specialist | Publisher: www.anobii.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b43b7953187e52100480c9fa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-038] [Spain/reader community] Lecturalia – Ilíada
+https://www.lecturalia.com/libro/15585/la-iliada
+Family: editorial_or_specialist | Publisher: www.lecturalia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e37f65f573e8b4aa1a24f4a5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-039] [Spain/reader community] Lecturalia – La Odisea
+https://www.lecturalia.com/libro/15586/la-odisea
+Family: editorial_or_specialist | Publisher: www.lecturalia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5e70573c2fdcd77168e054e0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-040] [Spain/reader community] Lecturalia – Metamorfosis
+https://www.lecturalia.com/libro/27200/metamorfosis
+Family: editorial_or_specialist | Publisher: www.lecturalia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d9a0da1749c86b973d7c373f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-041] [Spain/reader community] Lecturalia – La república
+https://www.lecturalia.com/libro/67218/la-republica
+Family: editorial_or_specialist | Publisher: www.lecturalia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6c025a1a50e31682d4efa2ea
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-042] [Spain/reception] Lecturalia – La Ilíada o el poema de la fuerza
+https://www.lecturalia.com/libro/111178/la-iliada-o-el-poema-de-la-fuerza
+Family: editorial_or_specialist | Publisher: www.lecturalia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0a6f544455a8db71f149c998
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-043] [Spain/reception] Lecturalia – El legado de Homero
+https://www.lecturalia.com/libro/48256/el-legado-de-homero
+Family: editorial_or_specialist | Publisher: www.lecturalia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:26cba12207ad180b569d7e86
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-044] [Poland/reader community] Lubimyczytać – Homer author page
+https://lubimyczytac.pl/autor/14535/homer
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4be9111fe3e8f4465a01e318
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-045] [Poland/reader community] Lubimyczytać – Odyseja
+https://lubimyczytac.pl/ksiazka/4946639/odyseja
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1d5191c05a914f2c0667043a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-046] [Poland/reader community] Lubimyczytać – Państwo
+https://lubimyczytac.pl/ksiazka/30405/panstwo
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1647b83a3c240f86c105a917
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-047] [Poland/reader community] Lubimyczytać – Antygona
+https://lubimyczytac.pl/ksiazka/34800/antygona
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1b0dc0416a9b4a8828985f11
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-048] [Poland/reader community] Lubimyczytać – Metamorfozy
+https://lubimyczytac.pl/ksiazka/79457/metamorfozy
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a825953d7a71ac5643f555af
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-049] [Poland/reader community] Lubimyczytać – Przemiany
+https://lubimyczytac.pl/ksiazka/200614/metamorfozy
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6c33ba2b35d9fadb680d72c1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-050] [Poland/reader community] Lubimyczytać – Rozmyślania
+https://lubimyczytac.pl/ksiazka/5242563/rozmyslania
+Family: reader_community | Publisher: lubimyczytac.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4e3565141cc71a931a9a50d8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-051] [Germany/reader community] LovelyBooks – Homer
+https://www.lovelybooks.de/autor/Homer/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5345830c38cd2f09523f2ddd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-052] [Germany/reader community] LovelyBooks – Ovid
+https://www.lovelybooks.de/autor/Ovid/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c9702126705874d223abf850
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-053] [Germany/reader community] LovelyBooks – Platon
+https://www.lovelybooks.de/autor/Platon/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9dc7e8113dfb425b8c796087
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-054] [Germany/reader community] LovelyBooks – Marc Aurel
+https://www.lovelybooks.de/autor/Marc-Aurel/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:448991f10b3f76bea98a6bf3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-055] [Germany/reader community] LovelyBooks – Der Staat
+https://www.lovelybooks.de/autor/Platon/Der-Staat-145114500-w/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:36f89964ac664af97131c5b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-056] [Germany/reader community] LovelyBooks – Metamorphosen
+https://www.lovelybooks.de/autor/Ovid/Metamorphosen-531131132-w/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d3fe41b2f14ccfc0f91f1187
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-057] [Germany/reader community] LovelyBooks – Selbstbetrachtungen
+https://www.lovelybooks.de/autor/Marc-Aurel/Selbstbetrachtungen-143410270-w/
+Family: editorial_or_specialist | Publisher: www.lovelybooks.de | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:03bc4c3ce46d99c48b5ae0e0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-058] [Japan/reader community] Bookmeter – Homer author ranking
+https://bookmeter.com/authors/15232
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7bb0c9197fe0d09ea7abbb74
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-059] [Japan/reader community] Bookmeter – Plato author ranking
+https://bookmeter.com/authors/10245
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:555c2e87e8ab10322e78fc0a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-060] [Japan/reader community] Bookmeter – Virgil author ranking
+https://bookmeter.com/authors/71407
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6e30fad283557715020fa033
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-061] [Japan/reader community] Bookmeter – Ovid author ranking
+https://bookmeter.com/authors/125007
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:957e7eec5691266d74bc00b5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-062] [Japan/reader community] Bookmeter – Odyssey (upper)
+https://bookmeter.com/books/564965
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:456a9a89422a7941d3744439
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-063] [Japan/reader community] Bookmeter – Odyssey (lower)
+https://bookmeter.com/books/564966
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:96add5d711b9aa347897d7e4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-064] [Japan/reader community] Bookmeter – Aeneid (Iwanami upper)
+https://bookmeter.com/books/22659
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:269e887400fdc1ebd541664a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-065] [Japan/reader community] Bookmeter – Metamorphoses (Iwanami upper)
+https://bookmeter.com/books/478013
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6a9acd8bb618c243fcd70848
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-066] [Japan/reader community] Bookmeter – Republic (Iwanami upper)
+https://bookmeter.com/books/545620
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:482fad82c290c18e1d293387
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-067] [Japan/reader community] Bookmeter – Republic (Iwanami lower)
+https://bookmeter.com/books/545621
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8bc0140312ac0a3e4fc03712
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-068] [Japan/reader community] Booklog – Odyssey upper
+https://download.booklog.jp/item/1/4003210247?carousel=B00C0NTN76
+Family: editorial_or_specialist | Publisher: download.booklog.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d36bca6f6fa1882fce322008
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-069] [Japan/reader community] Booklog – Odyssey lower
+https://download.booklog.jp/item/1/4003210255?carousel=B00C0NTN76
+Family: editorial_or_specialist | Publisher: download.booklog.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a6eaa3d3366d59aafe1231aa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-070] [China/reader community] Douban – Records of the Grand Historian (Shiji)
+https://book.douban.com/subject/1077847/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4f1fe439e46c870ea705a374
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-071] [China/reader community] Douban – Shiji (alternate edition)
+https://book.douban.com/subject/2130681/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:758d33a427ca97e91c412887
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-072] [China/reader community] Douban – Analects
+https://book.douban.com/subject/1964774/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9b0db9ee80ceb449cf94d22d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-073] [China/reader community] Douban – Laozi / Daodejing
+https://book.douban.com/subject/3853475/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:afc40b5838c8e4d4ac50ef1b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-074] [China/reader community] Douban – Sunzi Bingfa
+https://book.douban.com/subject/1040064/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:64032c78ffd68fbeed5b7936
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-075] [China/reader community] Douban – Chuci
+https://book.douban.com/subject/4133113/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4272cf49c59b137408e637b7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-076] [China/reader community] Douban – Zuo Zhuan
+https://book.douban.com/subject/1033831/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0d3e66fc1a324ff00dcd83b9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-077] [China/reader community] Douban – Mozi
+https://book.douban.com/subject/1214305/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c51b6b3b677461c1088780fe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-078] [China/reader community] Douban – Huainanzi
+https://book.douban.com/subject/3563269/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1cca70b1b66a68b05087f65b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-079] [China/reader community] Douban – Han Feizi
+https://book.douban.com/subject/2052477/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:07cd2402882221a3cfd757e6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-080] [China/reader community] Douban – Han Feizi tag
+https://book.douban.com/tag/%E9%9F%A9%E9%9D%9E%E5%AD%90
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ebab8cfdc924db96cbd5c91f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-081] [China/reader community] Douban – Yijing / Zhouyi tag
+https://book.douban.com/tag/%E5%91%A8%E6%98%93
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f4a74301469035ad5b67b0df
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-082] [China/reader community] Douban – Book of Songs
+https://book.douban.com/subject/1067937/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3e3612e866aaf45b0e63783a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-083] [China/reader community] Douban – Huangdi Neijing
+https://book.douban.com/subject/2987352/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a7372b77b457cedcb0f0bbf6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-084] [China/reader community] Douban – Shanhaijing
+https://book.douban.com/subject/30424595/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:908ec689811df4db453e6d3c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-085] [China/canon publishing] Douban – Zhonghua Book Company press page
+https://book.douban.com/press/2838/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c6558a279d25dfbb69b6bfed
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-086] [China/reader list] Douban list featuring Daodejing
+https://www.douban.com/doulist/154357042/?ck=None&collect=yes
+Family: reader_community | Publisher: www.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f266011b5be9ab0f17a2db24
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-087] [China/textual database] Chinese Text Project – Ancient Classics
+https://ctext.org/ancient-classics/ens
+Family: editorial_or_specialist | Publisher: ctext.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bd5f2bcf31e7366fd40c54d9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-088] [China/textual database] Chinese Text Project – All texts
+https://ctext.org/all-texts/ens
+Family: editorial_or_specialist | Publisher: ctext.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6de14c35a2ca3cff6257b051
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-089] [China/textual database] Chinese Text Project – Zhuangzi
+https://ctext.org/zhuangzi
+Family: editorial_or_specialist | Publisher: ctext.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:857a02705cb7aa3942376842
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-090] [China/textual database] Chinese Text Project – Mozi
+https://ctext.org/mozi/zh
+Family: editorial_or_specialist | Publisher: ctext.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:63ea8e9a10119d4d0a80cb69
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-091] [China/textual database] Chinese Text Project – resources
+https://ctext.org/resource.pl?if=en&mode=as&node=3925
+Family: editorial_or_specialist | Publisher: ctext.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8a14491741549ec45d0dc3ce
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-092] [Korea/university curriculum] Korea University – Classical Chinese syllabus
+https://sinolit.korea.edu/clschn_en/curriculum/under_intro.do
+Family: academic_or_institutional | Publisher: sinolit.korea.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2b510e386077d225a749ba3e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-093] [Japan/publisher criticism] Iwanami – Greek and Latin classics article
+https://tanemaki.iwanami.co.jp/posts/9595
+Family: editorial_or_specialist | Publisher: tanemaki.iwanami.co.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4ec60d440d673aeef9c88408
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-094] [India/global reader ranking] ReadingRate – 100 Best Books: India
+https://readingrate.com/100-best-books/india
+Family: editorial_or_specialist | Publisher: readingrate.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5b1f3568da00089a1a4367c9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-095] [India/reader list] Goodreads – Classics from India in English
+https://www.goodreads.com/list/show/118004.Classics_from_India_in_English_
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dc606ec38cb896f8a34765a7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-096] [India/reader list] Goodreads – Indian Philosophy
+https://www.goodreads.com/list/show/106730.Indian_philosophy
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:61cdd235bb816c6a6eff391d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-097] [India/reader list] Goodreads – Books on Mahabharata
+https://www.goodreads.com/list/show/76512.Books_on_Mahabharata
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f33e5324db5f6a3b2b9d0884
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-098] [India/reader list] Goodreads – The Ramayana
+https://www.goodreads.com/list/show/44966.The_Ramayana
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:98fb5f1d02c9155c8d4c196c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-099] [India/reader lists] Goodreads – Sanskrit tag lists
+https://www.goodreads.com/list/tag/sanskrit
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7a0e7b8a7881e45c6ea42bbb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-100] [India/university curriculum] University of Edinburgh – Hindu Epics
+https://www.drps.ed.ac.uk/24-25/dpt/cxdivi10083.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e9714b18d4b44b805cae2f64
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-101] [India/university curriculum] University of Edinburgh – Understanding the Hindu Epics
+https://www.drps.ed.ac.uk/24-25/dpt/cxrest11022.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eb8db6b410e2dfd0a71a907d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-102] [India/university curriculum] University of Glasgow – South Asian Epic Traditions
+https://www.gla.ac.uk/coursecatalogue/course/?code=TRS4117
+Family: academic_or_institutional | Publisher: www.gla.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b6210509d6060241a4d1dfc8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-103] [India/reference] Britannica mirror – Mahabharata
+https://unvis.it/www.britannica.com/topic/Mahabharata
+Family: editorial_or_specialist | Publisher: unvis.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:11a7f4a717dba60ff478293e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-104] [India/reference] Britannica mirror – Upanishad
+https://unvis.it/www.britannica.com/topic/Upanishad
+Family: editorial_or_specialist | Publisher: unvis.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c957ed956cd55682febaa083
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-105] [India/scholarly reference] Stanford Encyclopedia of Philosophy – Nagarjuna
+https://plato.stanford.edu/archives/spr2024/entries/nagarjuna/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d8bb91cf62f8614af8d77e73
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-106] [India/scholarly reference] Internet Encyclopedia of Philosophy – Yoga Sutras
+https://iep.utm.edu/yoga/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:423df4c1e9ac0e5348bad892
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-107] [India/scholarly reference] Stanford Encyclopedia – Logic in Classical Indian Philosophy
+https://plato.stanford.edu/archives/sum2022/entries/logic-india/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:076b798be507ca3a205c9e77
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-108] [India/scholarly reference] Stanford Encyclopedia – Epistemology in Classical Indian Philosophy
+https://plato.stanford.edu/archives/fall2022/entries/epistemology-india/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c2b847c255909f9951296155
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-109] [India/reception scholarship] Oxford Academic – Re-figuring the Ramayana as Theology review
+https://academic.oup.com/jhs/article-abstract/10/3/358/4748914
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5d5f91209412d4dba59ae472
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-110] [India/reference/history] Historic Indian texts overview
+https://en.wikipedia.org/wiki/List_of_historic_Indian_texts
+Family: editorial_or_specialist | Publisher: en.wikipedia.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b244623c74ffa364cda837e3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-111] [Egypt/textual database] UCL Digital Egypt – Ancient Egyptian Literature
+https://www.ucl.ac.uk/museums-static/digitalegypt/literature/literatureindex.html
+Family: editorial_or_specialist | Publisher: www.ucl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b6d985efef757b1693e4d689
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-112] [Egypt/scholarly edition] University of California Press – Ancient Egyptian Literature
+https://www.ucpress.edu/books/ancient-egyptian-literature/paper
+Family: academic_or_institutional | Publisher: www.ucpress.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:78ed98f4080429e582fdf175
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-113] [Egypt/scholarly edition] UC Press – Ancient Egyptian Literature introduction PDF
+https://content.ucpress.edu/title/9780520305847/9780520305847_intro.pdf
+Family: academic_or_institutional | Publisher: content.ucpress.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7b40ee49652318af96008706
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-114] [Egypt/university bibliography] UCL – Egyptian bibliography
+https://readinglists.ucl.ac.uk/lists/54849B71-4F95-09B0-6B41-7657ECF33AA4/bibliography.html?style=acm-sig-proceedings
+Family: academic_or_institutional | Publisher: readinglists.ucl.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:598d69d5707928cf56b97487
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-115] [Egypt/university curriculum] University of Warsaw – Ancient Egyptian Literature
+https://informatorects.uw.edu.pl/en/courses/view?prz_kod=3600-7-EG3-LSE1
+Family: academic_or_institutional | Publisher: informatorects.uw.edu.pl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5f17e9e413a15495e14e3a27
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-116] [Egypt/university bibliography] Uppsala University – Egypt reading list
+https://www.uu.se/en/study/reading-list?query=10234
+Family: academic_or_institutional | Publisher: www.uu.se | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0285300f8058e9035a00f28d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-117] [Egypt/university reading list] Oxford Lifelong Learning – Middle Kingdom reading list
+https://lifelong-learning.ox.ac.uk/courses/reading-list-pdf/O22P563AHW
+Family: academic_or_institutional | Publisher: lifelong-learning.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:58c28f4425e2ca4654ae49d4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-118] [Egypt/reference] World History Encyclopedia – Tale of Sinuhe
+https://www.worldhistory.org/article/886/the-tale-of-sinuhe/
+Family: editorial_or_specialist | Publisher: www.worldhistory.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aadf2520b5a38819ca306f5e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-119] [Egypt/bibliography] AncientNearEast.net – Story of Sinuhe bibliography
+https://www.ancientneareast.net/story-sinuhe/
+Family: editorial_or_specialist | Publisher: www.ancientneareast.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5a6534418a9a964949b1a0da
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-120] [Egypt/blog/bibliography] Braggoscope – Tale of Sinuhe reading list
+https://www.braggoscope.com/2014/05/01/the-tale-of-sinuhe.html
+Family: editorial_or_specialist | Publisher: www.braggoscope.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2033ac3e60e970cfdcaa0969
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-121] [Near East/university curriculum] Penn State – Literature of the Ancient Near East course
+https://sites.psu.edu/facsendev1/curriculum/senate-curriculum-reports/june-25-2019-volume-47-number-7/appendix-47-07/
+Family: academic_or_institutional | Publisher: sites.psu.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:56727c5ed8828e86d7aa0f40
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-122] [Near East/university curriculum] University of Malta – Ancient Near Eastern Literature
+https://www.um.edu.mt/courses/studyunit/NES3001
+Family: academic_or_institutional | Publisher: www.um.edu.mt | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f1216c41d0b4f91c5bee81e4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-123] [Near East/scholarly reference] Oxford Bibliographies – Gilgamesh
+https://academic.oup.com/reference/62341/reference-article-abstract/554093180
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f18f11e02d1bd425ce22db3f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-124] [Iran/reference] Encyclopaedia Iranica – Gathas overview
+https://www.iranicaonline.org/articles/gathas/
+Family: editorial_or_specialist | Publisher: www.iranicaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:33cd1825a4a1bd7f5d613b48
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-125] [Iran/reference] Encyclopaedia Iranica – Gathas I: Texts
+https://www.iranicaonline.org/articles/gathas-i-texts/
+Family: editorial_or_specialist | Publisher: www.iranicaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:15dd135b0c71a492600137fb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-126] [Iran/reference] Encyclopaedia Iranica – Gathas II: Translations
+https://www.iranicaonline.org/articles/gathas-ii-translations/
+Family: editorial_or_specialist | Publisher: www.iranicaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4755c61546dcd3d632268f14
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-127] [Iran/reference] Encyclopaedia Iranica – Avesta
+https://www.iranicaonline.org/articles/avesta-holy-book/
+Family: editorial_or_specialist | Publisher: www.iranicaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:11338b33f55bde72629cf762
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-128] [US/university canon] Princeton Classics – Reading Lists
+https://classics.princeton.edu/reading-lists
+Family: academic_or_institutional | Publisher: classics.princeton.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7576eee4999c6f21a52bb346
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-129] [US/university canon] Cornell Classics – Classics Reading List
+https://classics.cornell.edu/classics-reading-list-0
+Family: academic_or_institutional | Publisher: classics.cornell.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e7bba1b6ad227c8d88dc7812
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-130] [US/university canon] Cornell – Classical Archaeology concentration reading list
+https://classics.cornell.edu/classical-archaeology-concentration-classics-reading-list
+Family: academic_or_institutional | Publisher: classics.cornell.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:846d5809bce366305b8e1139
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-131] [US/university canon] Harvard Classics – Philology Reading List
+https://classics.fas.harvard.edu/philology-reading-list
+Family: academic_or_institutional | Publisher: classics.fas.harvard.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0e4035baf9c464e0a164fb23
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-132] [US/university canon] Harvard Classics – Archaeology Reading List
+https://classics.fas.harvard.edu/archaeology-reading-list
+Family: academic_or_institutional | Publisher: classics.fas.harvard.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:37b6c999f6d35c37fdfd0a62
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-133] [US/university canon] Harvard Classics – History Reading List
+https://classics.fas.harvard.edu/history-reading-list
+Family: academic_or_institutional | Publisher: classics.fas.harvard.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:efcfaccf5ffffe4c49dff954
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-134] [US/university canon] Duke Classical Studies – Reading Lists for Examinations
+https://classicalstudies.duke.edu/reading-lists-examinations
+Family: academic_or_institutional | Publisher: classicalstudies.duke.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e559ab24d08ddb61895bb449
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-135] [US/university canon] Tufts – MA in Classics Reading Lists
+https://as.tufts.edu/classicalstudies/resources/ma-classics-reading-lists
+Family: academic_or_institutional | Publisher: as.tufts.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ccb4315eccc7ae3902bb81f6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-136] [US/Great Books] Mercer University – Great Books: The Books
+https://greatbooks.mercer.edu/the-books/
+Family: academic_or_institutional | Publisher: greatbooks.mercer.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bc45774d256792b9f6ff30f4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-137] [US/Great Books] Mercer University – Great Books: The Courses
+https://greatbooks.mercer.edu/the-courses/
+Family: academic_or_institutional | Publisher: greatbooks.mercer.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b6e87e6bb48f744e2ca2840a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-138] [US/Great Books] Biola Torrey Honors – Reading List
+https://www.biola.edu/torrey/academics/reading-list
+Family: academic_or_institutional | Publisher: www.biola.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eccabd6f9a0eaa541d2dd6d5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-139] [US/university world literature] Reed College – Humanities 110 Fall 2026
+https://www.reed.edu/humanities/hum110/syllabus/2026-27/fall.html
+Family: academic_or_institutional | Publisher: www.reed.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:572c9a7d0c3c99da650e2229
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-140] [US/university world literature] University of Chicago – Readings in World Literature I
+https://summer.uchicago.edu/courses/readings-in-world-literature-i/
+Family: academic_or_institutional | Publisher: summer.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8106b594cd1338dbfebc3dfc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-141] [US/university world literature] University of Chicago – Readings in World Literature II
+https://summer.uchicago.edu/courses/readings-in-world-literature-ii/
+Family: academic_or_institutional | Publisher: summer.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8558ae81fe721682d6c9080c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-142] [US/university epic] University of Washington – CLAS 424 Epic Tradition
+https://classics.washington.edu/courses/2026/autumn/clas/424/a
+Family: academic_or_institutional | Publisher: classics.washington.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ace18a4c18bea94735fd5c87
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-143] [US/university epic] University of Washington – Comparative Literature 424
+https://cinema.washington.edu/courses/2026/autumn/c%20lit/424/a
+Family: academic_or_institutional | Publisher: cinema.washington.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dff849707321c3e9b145960a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-144] [US/university epic] University of Washington – GLITS 313
+https://slavic.washington.edu/courses/2024/spring/glits/313/b
+Family: academic_or_institutional | Publisher: slavic.washington.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7c908cd11d821b4e1b53821c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-145] [US/university world literature] MIT OCW – Foundations of Western Culture: Homer to Dante
+https://ocw.mit.edu/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/pages/syllabus/
+Family: academic_or_institutional | Publisher: ocw.mit.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e55d970959de886ee396330a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-146] [US/university world literature] MIT OCW – Forms of Western Narrative
+https://ocw.mit.edu/courses/21l-012-forms-of-western-narrative-fall-2007/pages/syllabus/
+Family: academic_or_institutional | Publisher: ocw.mit.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5868e9e2d02bdaedc13a9d5a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-147] [US/university world literature] MIT OCW – Foundations of World Culture I
+https://ocw.mit.edu/courses/21l-001x-foundations-of-world-culture-i-world-civilizations-and-texts-fall-2011/pages/syllabus/
+Family: academic_or_institutional | Publisher: ocw.mit.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c69e006b6ee7c1ac4811008e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-148] [US/university curriculum] Yale Directed Studies – Literature syllabus
+https://directedstudies.yale.edu/syllabi/syllabi/literature-syllabus
+Family: academic_or_institutional | Publisher: directedstudies.yale.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e8320c4339a311e2e72aaccb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-149] [US/university curriculum] Yale Directed Studies – Summer reading assignment
+https://directedstudies.yale.edu/summer-2020-reading-assignment
+Family: academic_or_institutional | Publisher: directedstudies.yale.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:631e9729751021e3898618cc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-150] [US/university curriculum] Columbia – Literature Humanities exhibit
+https://exhibitions.library.columbia.edu/exhibits/show/lit_hum
+Family: academic_or_institutional | Publisher: exhibitions.library.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:86f542cdf0484f447d2dbd97
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-151] [US/university philosophy] Stanford – Ancient Philosophy course
+https://bulletin.stanford.edu/courses/1221561
+Family: academic_or_institutional | Publisher: bulletin.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:942edfdf7838f52bb6f014ce
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-152] [US/university classics] Stanford – Greeks and Beyond
+https://spcs.stanford.edu/courses/2026/greeks-and-beyond
+Family: academic_or_institutional | Publisher: spcs.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5c7e87e745818c813aa9f231
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-153] [US/university classics] Stanford – CLASSICS 188
+https://bulletin.stanford.edu/courses/2227201
+Family: academic_or_institutional | Publisher: bulletin.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2b6261b9164a12dc34bfaae0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-154] [UK/university canon] Cambridge Classics – Greek and Latin language/classical texts
+https://www.classics.cam.ac.uk/student-information/undergraduate-students/part-ia/papers-1-5-greek-and-latin-language-and-classical
+Family: academic_or_institutional | Publisher: www.classics.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d93ad01952f3263824f7054a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-155] [UK/university philosophy] Cambridge Classics – Greek and Roman Philosophy
+https://www.classics.cam.ac.uk/student-information/undergraduate-students/part-ii-1/ii-group-b
+Family: academic_or_institutional | Publisher: www.classics.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c0fad7bcb4529dcb210cc1b9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-156] [UK/university canon] Oxford Somerville – Classics Reading List 2023
+https://www.some.ox.ac.uk/wp-content/uploads/2023/08/Classics-Reading-List-2023-1.pdf
+Family: academic_or_institutional | Publisher: www.some.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7d0dc20670a7b41b67bc6f80
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-157] [UK/university reading] Oxford Somerville – New undergraduates 2026
+https://www.some.ox.ac.uk/new-undergraduates-2026-reading-lists-and-preparatory-work/
+Family: academic_or_institutional | Publisher: www.some.ox.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d0d538959c618e13a9351b0b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-158] [UK/open university] OpenLearn – Introducing the Classical World: sources
+https://www.open.edu/openlearn/history-the-arts/classical-studies/introducing-the-classical-world/content-section-4.5
+Family: academic_or_institutional | Publisher: www.open.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:13f4fa14fa2e1fd3316761f5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-159] [UK/open university] OpenLearn – Introducing the Classical World: literature
+https://www.open.edu/openlearn/history-the-arts/classical-studies/introducing-the-classical-world/content-section-4.3.3
+Family: academic_or_institutional | Publisher: www.open.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e9116c4ca35491ad3290053f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-160] [UK/open university] OpenLearn – Classical World references
+https://www.open.edu/openlearn/history-the-arts/classical-studies/introducing-the-classical-world/content-section---references
+Family: academic_or_institutional | Publisher: www.open.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:69cbb87b9fa1d675566ddcf8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-161] [US/university reader discussion] Reddit r/AncientGreek – university classics reading lists
+https://www.reddit.com/r/AncientGreek/comments/1sl3770/for_those_who_studied_classics_at_college_or/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a89ec6f6058c8a974f333822
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-162] [Reddit/classics] r/classics – Essential works
+https://www.reddit.com/r/classics/comments/vm26h2
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7579d47fdbb439425d527eb4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-163] [Reddit/classics] r/classics – Which works should everyone read?
+https://www.reddit.com/r/classics/comments/1o2z3vm/which_works_of_classic_literature_should_everyone/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:aba78359ee4c10bd76ba4478
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-164] [Reddit/classics] r/classics – Best Roman works to read
+https://www.reddit.com/r/classics/comments/1vxkhyw/what_are_the_best_roman_works_to_read/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4bd04d686665490306e25ced
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-165] [Reddit/classics] r/classics – Basic reading list
+https://www.reddit.com/r/classics/comments/1tzft3w/basic_reading_list_for_somebody_looking_to_get/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b30dabd668c8a7b4abf99a60
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-166] [Reddit/classics] r/classics – Greek playwright reading order
+https://www.reddit.com/r/classics/comments/13g4x5o
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7d34924b6783d833da075ecf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-167] [Reddit/classics] r/classics – Greek plays buying/reading discussion
+https://www.reddit.com/r/classics/comments/1micl4l
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a62702dbbfa4f267bbc09ec6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-168] [Reddit/classical literature] r/classicliterature – Favorite ancient classic
+https://www.reddit.com/r/classicliterature/comments/1sab4pg/what_is_your_favorite_ancient_classic/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eafea5477a8e09c1b443a73a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-169] [Reddit/classical literature] r/classicliterature – Classics reading list
+https://www.reddit.com/r/classicliterature/comments/1ros83p/classics_reading_list/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f665a8c8083329f08354c710
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-170] [Reddit/classical literature] r/ClassicsBookClub – building a classics reading list
+https://www.reddit.com/r/ClassicsBookClub/comments/1rsilk1/building_a_classics_reading_list_what_would_you/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:32472dc017c895585706e185
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-171] [Reddit/history] r/classics – Classic historian choice
+https://www.reddit.com/r/classics/comments/1uzxgia/which_classic_historian_should_i_read/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e652d4a15e218024aad55380
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-172] [Reddit/history] r/classics – Roman and Greek historians
+https://www.reddit.com/r/classics/comments/1c85ayn
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8306674389ed4e6240667e56
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-173] [Reddit/history] r/classics – Ancient historians priority
+https://www.reddit.com/r/classics/comments/1dtrv9i
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:84508c9fbf77212d14ff9e16
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-174] [Reddit/history] r/classics – Which first-account historian?
+https://www.reddit.com/r/classics/comments/1wc1duc/which_classic_first_account_historian_should_you/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8548b957b9bd167c015a948f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-175] [Reddit/Greece] r/classics – Which Greek classics next?
+https://www.reddit.com/r/classics/comments/1j37uks
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:af41b03a761245b2797c9e11
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-176] [Reddit/Greece] r/AncientGreek – beginner/intermediate original literature
+https://www.reddit.com/r/AncientGreek/comments/1tp2v8m/beginnerintermediatefriendly_literature/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7513fccebcc28522543a325f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-177] [Reddit/Rome] r/ancientrome – best primary sources
+https://www.reddit.com/r/ancientrome/comments/1oolavl/best_primary_sources/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bb1ea4cfd7a0f95b6bdb8cc2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-178] [Reddit/Rome] r/ancientrome – late Roman primary sources
+https://www.reddit.com/r/ancientrome/comments/1vw6k49/what_are_the_most_important_primary_sources_for/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3398a4b911df095bf6443a80
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-179] [Reddit/Plato] r/Plato – favorite dialogue
+https://www.reddit.com/r/Plato/comments/1rgg1p2/favorite_dialogue/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e99d03196cdbe4f715ae7c89
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-180] [Reddit/Taoism] r/taoism – favorite Daodejing translation
+https://www.reddit.com/r/taoism/comments/1t1cxw8/what_translation_do_you_prefer_is_your_favorite/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8f67df4a3a5f155c11b7f62e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-181] [Reddit/Taoism] r/taoism – complete Zhuangzi translations
+https://www.reddit.com/r/taoism/comments/1upcm5e/can_anyone_give_me_some_good_complete_english/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:49a9dcca250f5f0c0e53748f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-182] [Reddit/Taoism] r/taoism – Zhuangzi translation
+https://www.reddit.com/r/taoism/comments/z6oao1
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5852e2b202d1fe31c7e8c93c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-183] [Reddit/Taoism] r/taoism – side-by-side Zhuangzi
+https://www.reddit.com/r/taoism/comments/1difdjc/zhuangzi_translation_w_sidebyside_chinese/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cd92dc4ceb0c8e5f47d8f6bd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-184] [Reddit/Stoicism] r/Stoicism – books to get started
+https://th.reddit.com/r/Stoicism/comments/94jcl4/books_to_get_started_with_stoicism/
+Family: reader_community | Publisher: th.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:50133855c725545de7f0a2c3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-185] [Reddit/Hinduism] r/hinduism – order to read Hindu scriptures
+https://www.reddit.com/r/hinduism/comments/gsf9mr/the_order_to_read_hindu_scriptures/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:47e8d027e3e562b3f2eb8b00
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-186] [Reddit/Hinduism] r/hinduism – what order should I read Bhagavad Gita?
+https://www.reddit.com/r/hinduism/comments/1555wka/in_what_did_order_should_i_read_the_bhagavad_gita/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:373f91e47ebc2523b32d4762
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-187] [Reddit/Hinduism] r/hinduism – scripture reading discussion
+https://www.reddit.com/r/hinduism/comments/1b200yk
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f4ef486d7b94444f42e0d5db
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-188] [Reddit/Hinduism] r/hinduism – where to start with Hindu scriptures
+https://www.reddit.com/r/hinduism/comments/1t49hn5/where_should_i_start_with_hindu_scriptures/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:83deb5f13ba2f6915908088e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-189] [Reddit/Hinduism] r/hinduism – scripture list discussion
+https://www.reddit.com/r/hinduism/comments/vw3mru
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cc998b826d336332005b9191
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-190] [Reddit/Hinduism] r/hinduism – essential Hindu scriptures
+https://www.reddit.com/r/hinduism/comments/1cy4sxj/what_are_the_essential_hindu_scripture_and_can/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:462bfa0ff72d1e73355429ca
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-191] [Reddit/Hinduism] r/hinduism – reading Hindu scriptures
+https://www.reddit.com/r/hinduism/comments/ztfpnc
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8b350527f0608d5ef79bec6e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-192] [Reddit/Hinduism] r/hinduism – scripture reading order
+https://www.reddit.com/r/hinduism/comments/tbpttd
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cf6be9c54f9ac9a539022289
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-193] [Reddit/India history] r/IndianHistory – historicity of Ramayana and Mahabharata
+https://www.reddit.com/r/IndianHistory/comments/1vo443s/books_on_historicity_of_ramayana_and_mahabharata/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ecb70aae6a664250c62fde94
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-194] [Reddit/Mesopotamia] r/Mesopotamia – what to read after Gilgamesh
+https://www.reddit.com/r/Mesopotamia/comments/1ry5op2/ive_finished_gilgamesh_and_jeremy_blacks_book/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a16723f568979d2a1d515111
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-195] [Reddit/mythology] r/AYearOfMythology – Atrahasis and Enuma Elish translation guide
+https://www.reddit.com/r/AYearOfMythology/comments/1qj3bi2/translation_guide_atrahasis_and_enuma_elish/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4cbf0f173b59d317e4b6af88
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-196] [Reddit/mythology] r/mythology – Mesopotamian recommendations
+https://www.reddit.com/r/mythology/comments/1f3v4da
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:75a3fd17a75ee9ba3d1a2bf8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-197] [Reddit/Egypt] r/egyptology – source recommendations
+https://www.reddit.com/r/egyptology/comments/1vfnove/recommendations/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:deae2ce1c0dc729773c2a0fe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-198] [Scholarship/philosophy] Stanford Encyclopedia – Plato
+https://plato.stanford.edu/archives/sum2024/entries/plato/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:177e680c6211466f54be8c27
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-199] [Scholarship/philosophy] Stanford Encyclopedia – Aristotle
+https://plato.stanford.edu/archives/win2021/entries/aristotle/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3f5698139ea6fb1bf223ba51
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-200] [Scholarship/textual history] Stanford Encyclopedia – Aristotle: textual transmission
+https://plato.stanford.edu/archives/spr2026/entries/aristotle-text/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:405ba384adc1fb058287f452
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-201] [Scholarship/philosophy] Stanford Encyclopedia – Ancient Political Philosophy
+https://plato.stanford.edu/archives/win2016/entries/ancient-political/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7b37046c25351469ade00452
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-202] [Scholarship/philosophy] Stanford Encyclopedia – Stoicism
+https://plato.stanford.edu/archives/spr2026/entries/stoicism/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:320accd8d53df9fa24f882f9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-203] [Scholarship/China] Stanford Encyclopedia – Zhuangzi
+https://plato.stanford.edu/entries/zhuangzi/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:52edadb0c5f1da025033c4f2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-204] [Scholarship/China] Stanford Encyclopedia – Laozi
+https://plato.stanford.edu/entries/laozi/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ef77b96e093b87788a92249b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-205] [Scholarship/China] Stanford Encyclopedia – Confucius
+https://plato.stanford.edu/entries/confucius/
+Family: academic_or_institutional | Publisher: plato.stanford.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4d2bbe6bc71412e74b925c69
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-206] [Scholarship/China] Internet Encyclopedia of Philosophy – Chinese Philosophy overview
+https://iep.utm.edu/chinese-philosophy-overview-of-history/
+Family: academic_or_institutional | Publisher: iep.utm.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:11cefae1082e1a30f266efe6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-207] [Scholarship/China] Columbia UP – The Original Analects
+https://cup.columbia.edu/book/the-original-analects/9780231104319/
+Family: academic_or_institutional | Publisher: cup.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d35782da7f4a5a2566e10576
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-208] [Scholarship/China] Columbia UP – Zhu Xi's Reading of the Analects
+https://cup.columbia.edu/book/zhu-xis-reading-of-the-analects/9780231502801/
+Family: academic_or_institutional | Publisher: cup.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e9d4cdce73b653043ef9aaf3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-209] [Scholarship/reception] Oxford Academic – Oscar Wilde's Reading of Zhuangzi
+https://academic.oup.com/litthe/article-abstract/34/4/477/6029271
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2dbc4fad7cfe4d26026a3f18
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-210] [Scholarship/reception] Journal of East-West Thought – Early Modern European reception of Zhuangzi
+https://journals.calstate.edu/jet/article/view/2371
+Family: academic_or_institutional | Publisher: journals.calstate.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6aec3da11b3f81686c2488f3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-211] [Scholarship/reception] Oxford Academic – Zhuangzi and Modern Chinese Literature
+https://academic.oup.com/book/6685
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4cc5b013b3d65edfec75df66
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-212] [Scholarship/reception] MDPI Religions – Reception History and Early Chinese Classics
+https://www.mdpi.com/2077-1444/13/12/1224
+Family: editorial_or_specialist | Publisher: www.mdpi.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b832bb1f536337bf3065e940
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-213] [Scholarship/reception] Oxford Academic – Metamorphic Readings
+https://academic.oup.com/book/37419
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eedf46fdcd4a3fdae4952fd2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-214] [Scholarship/reception] Cambridge Classical Review – Ovid Metamorphoses commentary review
+https://www.cambridge.org/core/journals/classical-review/article/definitive-englishlanguage-commentary-on-ovids-metamorphoses/883BC8C2F4641B70784A75B98AC65A0B
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fa077369456bb50a8c2a2d3f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-215] [Scholarship/reception] Oxford Classical Receptions Journal – Ovid in theatre
+https://academic.oup.com/crj/article/18/1/clag005/8555673
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9c10c3987e7590c25ae5f141
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-216] [Scholarship/canon formation] Wiley – Classical Translation and the Formation of the English Literary Canon
+https://doi.org/10.1002/9781444396508.ch7
+Family: editorial_or_specialist | Publisher: doi.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f1c4655509d0b02d7b9d703c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-217] [Scholarship/canon formation] University of Helsinki – Quantifying the Presence of Ancient Greek and Latin Classics
+https://researchportal.helsinki.fi/en/publications/quantifying-the-presence-of-ancient-greek-and-latin-classics-in-e/
+Family: academic_or_institutional | Publisher: researchportal.helsinki.fi | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c4f738711f2970582a53c314
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-218] [Scholarship/reception] Oxford Handbook – Reception of Classical Literature and Ancient Myth
+https://academic.oup.com/edited-volume/38598/chapter-abstract/334680631
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d4541eccbed690f2ba643dd3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-219] [Primary-text catalog] Perseus Catalog – Iliad
+https://catalog.perseus.tufts.edu/catalog/urn%3Acts%3AgreekLit%3Atlg0012.tlg001
+Family: academic_or_institutional | Publisher: catalog.perseus.tufts.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:da99d4df22fc10e6907fa737
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-220] [Primary-text catalog] Perseus Catalog – Odyssey
+https://catalog.perseus.tufts.edu/catalog/urn%3Acts%3AgreekLit%3Atlg0012.tlg002
+Family: academic_or_institutional | Publisher: catalog.perseus.tufts.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7fc908e2386c90bceb9c6ab3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[ANCIENT-221] [Open textbook/world literature] NOVA – World Literature open textbook
+https://pressbooks.nvcc.edu/eng255/
+Family: academic_or_institutional | Publisher: pressbooks.nvcc.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1c1caa1aa1ace5d6c2a33ce8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: books-ancient. Included 130 current entries and 221 current source records. Carry out the update and return the enhanced ranking with the complete source register.

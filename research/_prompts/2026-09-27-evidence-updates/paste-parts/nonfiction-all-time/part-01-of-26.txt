@@ -1,0 +1,674 @@
+INPUT PART 1/26 — nonfiction-all-time
+These numbered messages together are ONE complete research request. Expect 250 current entries and 322 current source records, plus the labelled supplements. Until the final part arrives, acknowledge receipt briefly and wait; do not start the research or infer missing parts. If the conversation cannot retain all parts, say so and request the complete prompt as a file instead of pretending full coverage.
+
+SELF-CONTAINED RANKING UPDATE REQUEST
+TARGET: Nonfiction · All time
+TARGET ID: nonfiction-all-time
+SNAPSHOT: 2026-09-27T20:44:44.053349+00:00
+MODE: update an existing research synthesis
+CURRENT SIZE: 250 distinct entries
+CURRENT REGISTER: 322 source records; 290 stored as eligible (historical flags, subject to audit)
+DESIRED SCOPE: Approximately 250 nonfiction books across subjects and worldwide traditions, with corrected source dependencies and a more explicit comparative basis. Keep unsupported expansion in a candidate queue instead of padding the published proposal.
+
+You are updating ONE existing humanities ranking for a reading app. You have no access to its repository, database or earlier conversations. Everything needed to start is included below: the task, current entries, both saved editorial orders where present, existing entry citations, and the complete current target-specific source register. Research this target on the web and return a portable, evidence-backed update. Do not merely critique this prompt or supply a research plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+OWNER'S OBJECTIVE
+Improve the substance and traceability of the ranking while keeping a useful, broad candidate pool. Start by auditing and using relevant existing material, then research the specific gaps. The source count alone does not establish adequate support. An established, fully consulted list may support many candidates; a large bibliography of generic references may support few comparative judgments. The owner specifically requests at least 100 additional sources for this update; this is not a per-entry quota.
+
+Treat this as a revision, not an instruction to retain every existing position. Compare the complete pool, identify conspicuous omissions, and justify additions, removals, merges and substantial moves. Keep the supplied identities and prior evidence traceable. Do not replace a substantial ranking with a tiny polished subset while ignoring the rest. If work must stop, return the full baseline with updated and unresolved rows clearly distinguished, plus the exact continuation point.
+
+WHAT COUNTS AS EVIDENCE
+The supplied source eligibility flags, access labels, dates and notes are historical records. They are NOT a claim that you consulted those pages, or that their contents justify every attached candidate. Separate inherited evidence, independently rechecked evidence, newly consulted evidence, bibliographic/context material, unavailable material and unexamined leads. Never copy an old access date into a claim of your own consultation.
+
+Open and examine relevant content before claiming new or rechecked evidence. Record what claim it supports and where: article section, page, list entry or other precise location. Search-result pages/snippets, unopened links and generic site homepages are leads, not substantive consultation. A long page or successful HTTP response is not sufficient. Narrow reference facts, primary texts and publisher descriptions can be useful, but do not by themselves demonstrate comparative critical standing. Preserve these useful roles without counting metadata-only leads as substantive research.
+
+Use an appropriate mixture of scholarship/critical studies, university and specialist selections, independent critics/polls/reviews, and reader discussions including Goodreads or Reddit where relevant. Use relevant non-English sources when you can understand them reliably. Prioritize independent, candidate-specific evidence and underrepresented traditions. Do not keep collecting repetitive pages to inflate totals.
+
+Deduplicate underlying publications, mirrors, syndication and copied lists. Wikipedia translations and copies of one poll are not independent critical endorsements. An aggregator is one consulted source unless its underlying sources are individually examined; do not double-count their judgments. One discussion thread is one source, not one per comment. Record dependencies and publisher/platform concentration. Preserve disagreements. Never invent sources, URLs, quotations, source positions or consultation claims.
+
+The project uses a floor of 50 distinct relevant consulted sources for a completed research target, including sound prior research retained with explicit provenance. This is not 50 NEW sources, not 50 per candidate, and not a guarantee of adequate coverage. Recalculate the defensible total after the audit; do not accept stored eligibility totals automatically. Separate genuinely qualifying prior evidence from your own consultations in the totals. Below the floor, or with substantial unresolved support, label the result incomplete. Above it, stop when the useful revision is delivered and identify remaining concrete gaps rather than researching indefinitely. One target's bibliography does not automatically count for another target.
+
+SCOPE, IDENTITY AND ORDERING
+Use the target-specific scope below. Books, authors/philosophers, individual stories/essays/poems/plays, collections, series and editions are different objects. Do not silently turn a series into its first volume, a collection into one story, or an author into a book. Verify ambiguous or reversed author/title records before making further claims. Retain anonymous, collective and disputed attributions honestly. Use original composition/publication dates, with uncertainty where appropriate, not translation dates.
+
+For country/tradition scopes, document literary/cultural association; language, setting, citizenship and country are not interchangeable. Multiple associations can be valid. England is distinct from the UK. Establish English availability for reading recommendations where required by this target; an English-translated title alone does not prove an English edition exists. Record unavailable or unverified translations explicitly instead of inventing editions or silently dropping important works.
+
+Produce two reasoned qualitative editorial views when applicable: (1) critical standing/enduring influence, and (2) reading value today. The second is not just ease of reading or popularity. Give it independent reasoning where it differs; if you cannot support a separate full order, say so. Both views should cover the same final candidate set; explicitly label unresolved placements instead of silently omitting candidates. A beginner route or reading sequence is separately labelled and is not automatically a merit ranking. A country-grouped selection keeps local positions and does not acquire a global merit order.
+
+Personal numerical criteria, weights, assessments and personalized scores are UNSET. Leave them unset. The owner explicitly authorizes qualitative, source-backed editorial orderings without numerical scoring. This supersedes older generic instructions that would block any editorial ranking until personal criteria exist. Do not invent the owner's tastes. Explain your comparative method and uncertainty; precise ordinal positions are editorial judgments, not measured facts. Preserve original publisher ranks, ties, list lengths and unranked status separately. Absence from a short source list is not a last-place vote.
+
+An existing shared ranking is the baseline for this assignment. Preserve its prior form in the change log; propose a revised version rather than claiming to overwrite the app. No application code, account, library, private notes or preferences are part of your task. Do not claim a database import or publication.
+
+REQUIRED RETURN PACKAGE
+Return one complete, downloadable Word .docx for this target, named <target-id>-<your-run-id>-update.docx. Structured Markdown or UTF-8 text is acceptable if genuine .docx generation is unavailable; do not rename a text file to .docx. Optional sources.json and candidates.json make later import easier but do not replace the readable report. If output limits require multiple files, number them and supply a manifest; do not silently truncate the ranking or bibliography.
+
+Include all of the following:
+1. Target ID, scope, actual research dates/run ID, methodology, status, achieved candidate count, consultation counts split into inherited/rechecked/new, source-family/domain/publisher distribution, dependency audit, limitations and stopping rationale.
+2. The complete revised standing order and complete reading-value order where applicable, or all country sections with their local positions. Give each retained item its supplied work/person ID; new items receive clearly external candidate IDs, never invented app IDs. Report both old and proposed positions, identity corrections, rationale and confidence. Preserve ties/uncertainty where appropriate.
+3. Candidate records for EVERY proposed item: title/name, author/attribution, form, original date/language/associations when supported, scope eligibility, inclusion and comparative reasoning, actual supporting source IDs and claim locations, counterarguments, English-availability status and unresolved facts. Differentiate identity/context support from evidence of selection, reception, criticism or comparative judgment. Do not attach the same generic bibliography to every candidate without showing what it actually supports.
+4. A COMPLETE source register, including EVERY supplied current source, each supplementary conflicting record, and all new sources. Give each inherited record a disposition (retained, rechecked, lead, duplicate, irrelevant, unavailable, etc.) with the reason; preserve original IDs and URLs alongside proposed corrections. Include full URLs, title, author/publisher if known, family, language, underlying identity/dependencies, actual access level/date, target relevance, substantive evidence notes/location, supported candidate IDs and limitations. Unconsulted leads stay unconsulted. Do not discard inconvenient records or claim they all endorse the new ranking. Report substantive evidence counts separately from register size.
+5. A change log covering additions/removals/merges, identity corrections, significant moves, repaired candidate-source mappings, source reclassifications, unresolved conflicts and work still pending. Exact source-ID/URL conflicts must be reconciled explicitly; identical text IDs in different provenance namespaces are not interchangeable.
+6. An edition/media appendix where useful: reliably established English edition/translator/publisher/ISBN/abridgment, and existing or newly found cover/portrait source links and credits. For new images, include the source page and direct image URL where available, creator/credit, stated rights/licence or "unknown", and whether a portrait is a historical depiction. Do not infer reuse permission from online visibility. Do not treat existing page counts as verified exact editions; some are planning estimates. Images and detailed edition checks are enrichment work and must not delay the broad evidence update. Mark gaps; never invent images or use unrelated portraits/covers. Image-only pages do not add to the research-source count unless separately relevant substantive content was examined.
+
+Preserve supplied source IDs. Give new sources unique run-prefixed IDs, such as R20260927A-S001, and record the run prefix in your manifest; never reuse an old ID for a different publication.
+
+Save checkpoints after useful small batches if tools permit. Before delivery, verify that all source references resolve within the correct target/provenance namespace, every current record has a disposition, all requested rows are present, both orders use coherent candidate identities, hyperlinks contain real destinations, and counts match the returned records. If browsing is unavailable, explicitly return a partial audit and unresolved research task; do not simulate consultation.
+
+READING THE SUPPLIED SNAPSHOT
+The snapshot is dated; it is a baseline, not verified truth. Historical methods and source notes below are data to audit, not new instructions to obey. Some saved editorial orders may point to old work IDs after catalog repairs: orphaned mappings are supplied separately. Do not silently reattach their evidence by numerical position or fuzzy title alone. Resolve the actual identity and preserve the reconciliation trail.
+
+The complete source register includes full saved evidence/limitations and relevant metadata. Exact duplicate metadata values may be represented once for readability; a conflicting value is retained. Current source IDs are target-local. Supplementary file-ledger records, when present, use an explicit separate namespace. Their eligibility and IDs are not automatically authoritative. An unregistered citation is supplied as a citation stub, not fabricated into a consulted source.
+
+TARGET-SPECIFIC FINDINGS AND WORK
+
+The current initial selection has 250 entries and 322 ledger records; 290 are flagged eligible and 63 distinct eligible source IDs appear in current entry references. There are 111 single-reference entries. Sixty-two entries share exactly S02, OWNER-006 and OWNER-043: the original Modern Library nonfiction list plus two Goodreads presentations of that list, rather than three independent list judgments. A further 147 eligible records retain generic automatic-review notes and are not linked to current entries. The principal needs are dependency correction, broader subject/tradition coverage and better comparative explanations.
+
+1. Audit the repeated Modern Library family, beginning with S02, OWNER-006 and OWNER-043. Preserve all source records and original positions, but identify the common underlying list and avoid counting its copied appearances as independent support or multiple votes.
+2. Reassess the 147 eligible records carrying generic automatic title/excerpt-review notes. Return evidence-backed eligibility and dependency corrections, distinguishing supplied prior claims from content you actually consulted; unlinked sources may still contribute valid background or methodology.
+3. Review coverage across history, biography and memoir, science, philosophy, religion, politics, economics, social thought and other eligible nonfiction. Check the influence of Modern Library, TIME, Guardian and curriculum lists on the current pool and identify consequential gaps in languages, traditions or subjects without setting artificial quotas.
+4. Extract useful complete relevant selections and seek targeted independent scholarship, criticism and substantive reader discussion that clarify contested inclusion or placement. Do not treat a university reading sequence as a merit ranking or a source's omission as a negative assessment.
+5. Assess intellectual achievement, historical influence, factual reliability and current reading value distinctly. For works whose claims are disputed or superseded, explain the distinction between enduring historical importance and present-day reliability rather than silently conflating them.
+6. Reassess both critical-standing/enduring-influence and reading-value-today orders against the supported broad pool. Explain major changes and differences between the views, preserve original publisher positions and previous versions, and leave personal numerical criteria, weights and scores unset.
+7. Resolve essays versus book-length works, selected writings versus whole works, multi-volume identities and overlapping editions. Record English-edition and media gaps without allowing missing enrichment to decide inclusion or order.
+
+CURRENT TARGET DEFINITION AND HISTORICAL METHOD
+{
+  "id": 3,
+  "slug": "nonfiction-all-time",
+  "title": "Nonfiction · All time",
+  "description": "Research template. Criteria and entries are not yet assessed. Each research target requires at least 50 distinct, relevant, diverse consulted sources.",
+  "domain": "nonfiction",
+  "item_type": "work",
+  "presentation": "ranked",
+  "origin": "curated",
+  "target_size": 200,
+  "status": "initial_selection",
+  "source_url": "",
+  "publisher": "",
+  "last_researched_at": null,
+  "last_sources_checked_at": null,
+  "revision": 6,
+  "criteria": [],
+  "scope": {
+    "forms": [
+      "book"
+    ]
+  },
+  "historical_editorial_method_and_notes": {
+    "version": "supplied-corpus-v1",
+    "published_on": "2026-09-13",
+    "notice": "Broad initial synthesis from the supplied corpus. Source coverage and editorial judgment inform the order; inaccessible pages and unresolved identities remain in the audit.",
+    "method": "All supplied URLs were attempted and cached. Exact reader-list rows were reviewed for scope and matched to catalog identities; other title/author appearances supply limited coverage signals. The leading placements use editorial judgment; the remaining standing order prioritizes domain breadth, caps same-platform page recurrence at five as a tie-break, then retains prior position or source-list order. Existing top 30 and reading order are retained where present; new history/poetry reading heads foreground entry points. Mirrors and correlated sites remain a limitation; no claim of 959 independent votes or personal numerical scores is made.",
+    "input_sha256": "a4fff75fbc2e75a1cc073e2a2f9cf1b8c3fa7f99a8800e246705633a95a3ee87",
+    "reviewed_exclusions": []
+  }
+}
+
+CURRENT SAVED EDITORIAL ORDERS
+Item IDs below resolve to the complete current entries or the explicit orphan mapping appendix. A saved order is historical, not a requirement to retain the same order. For unranked/country-grouped records, these are display sequences, not global merit positions.
+{
+  "standing": {
+    "label": "Critical standing / enduring influence",
+    "description": "Editorial leading group, followed by breadth of source coverage.",
+    "item_ids": [
+      11,
+      253,
+      10,
+      608,
+      12,
+      41,
+      230,
+      57,
+      192,
+      54,
+      212,
+      173,
+      9,
+      55,
+      165,
+      556,
+      563,
+      366,
+      466,
+      536,
+      467,
+      170,
+      168,
+      549,
+      179,
+      634,
+      535,
+      516,
+      557,
+      625,
+      176,
+      257,
+      458,
+      182,
+      42,
+      213,
+      33,
+      166,
+      225,
+      171,
+      202,
+      207,
+      209,
+      214,
+      238,
+      250,
+      635,
+      412,
+      178,
+      565,
+      187,
+      174,
+      226,
+      224,
+      184,
+      38,
+      167,
+      169,
+      172,
+      175,
+      177,
+      181,
+      183,
+      185,
+      190,
+      196,
+      198,
+      199,
+      200,
+      201,
+      203,
+      204,
+      205,
+      208,
+      210,
+      211,
+      216,
+      217,
+      220,
+      221,
+      222,
+      223,
+      227,
+      228,
+      229,
+      231,
+      232,
+      233,
+      236,
+      237,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      251,
+      252,
+      254,
+      255,
+      258,
+      259,
+      260,
+      547,
+      631,
+      32,
+      14,
+      35,
+      206,
+      529,
+      579,
+      617,
+      613,
+      191,
+      197,
+      234,
+      235,
+      605,
+      552,
+      566,
+      530,
+      595,
+      580,
+      578,
+      567,
+      571,
+      627,
+      574,
+      215,
+      606,
+      603,
+      601,
+      587,
+      424,
+      34,
+      51,
+      447,
+      446,
+      498,
+      44,
+      43,
+      62,
+      188,
+      189,
+      195,
+      218,
+      256,
+      261,
+      499,
+      508,
+      509,
+      523,
+      542,
+      558,
+      559,
+      562,
+      568,
+      569,
+      572,
+      573,
+      575,
+      576,
+      577,
+      581,
+      583,
+      584,
+      585,
+      586,
+      502,
+      56,
+      619,
+      621,
+      59,
+      58,
+      526,
+      521,
+      533,
+      534,
+      633,
+      512,
+      515,
+      553,
+      626,
+      624,
+      620,
+      623,
+      464,
+      36,
+      37,
+      469,
+      474,
+      455,
+      49,
+      50,
+      13,
+      45,
+      48,
+      47,
+      46,
+      53,
+      60,
+      61,
+      63,
+      64,
+      219,
+      500,
+      501,
+      503,
+      504,
+      505,
+      506,
+      507,
+      510,
+      511,
+      513,
+      514,
+      517,
+      518,
+      519,
+      520,
+      522,
+      524,
+      525,
+      527,
+      528,
+      531,
+      532,
+      537,
+      538,
+      539,
+      540,
+      541,
+      543,
+      544,
+      545,
+      546,
+      548,
+      550,
+      551,
+      554,
+      555,
+      560,
+      561,
+      564,
+      570
+    ]
+  },
+  "reading": {
+    "label": "Reading value today",
+    "description": "Editorial entry points and sustained reading; not a personalized score.",
+    "item_ids": [
+      57,
+      10,
+      12,
+      212,
+      634,
+      635,
+      563,
+      549,
+      253,
+      502,
+      625,
+      566,
+      516,
+      168,
+      41,
+      556,
+      565,
+      213,
+      9,
+      633,
+      621,
+      620,
+      623,
+      619,
+      631,
+      521,
+      580,
+      182,
+      547,
+      526,
+      11,
+      608,
+      230,
+      192,
+      54,
+      173,
+      55,
+      165,
+      366,
+      466,
+      536,
+      467,
+      170,
+      179,
+      535,
+      557,
+      605,
+      552,
+      56,
+      178,
+      176,
+      59,
+      58,
+      42,
+      530,
+      187,
+      533,
+      595,
+      578,
+      174,
+      567,
+      226,
+      534,
+      571,
+      627,
+      512,
+      515,
+      574,
+      224,
+      184,
+      215,
+      553,
+      606,
+      617,
+      613,
+      603,
+      601,
+      587,
+      626,
+      624,
+      32,
+      33,
+      424,
+      34,
+      458,
+      464,
+      38,
+      36,
+      37,
+      469,
+      51,
+      474,
+      166,
+      14,
+      447,
+      455,
+      446,
+      225,
+      498,
+      49,
+      50,
+      35,
+      13,
+      44,
+      45,
+      43,
+      48,
+      47,
+      46,
+      53,
+      60,
+      61,
+      63,
+      64,
+      62,
+      167,
+      169,
+      171,
+      172,
+      175,
+      177,
+      181,
+      183,
+      185,
+      188,
+      189,
+      190,
+      191,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      214,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      227,
+      228,
+      229,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      499,
+      500,
+      412,
+      501,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      513,
+      514,
+      517,
+      518,
+      519,
+      520,
+      522,
+      523,
+      524,
+      525,
+      527,
+      528,
+      529,
+      531,
+      532,
+      537,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      548,
+      550,
+      551,
+      554,
+      555,
+      558,
+      559,
+      560,
+      561,
+      562,
+      564,
+      568,
+      569,
+      570,
+      572,
+      573,
+      575,
+      576,
+      577,
+      579,
+      581,
+      583,
+      584,
+      585,
+      586
+    ]
+  }
+}
+
+COMPLETE CURRENT ENTRY LIST: 250 ENTRIES
+Database position is the current saved display order; separate editorial views appear above. Saved bibliographic metadata is not independently reverified by this export.
+
+ENTRY 1 | work:11 | On the Origin of Species — Charles Darwin
+{"entry_id": 47, "item_type": "work", "item_id": 11, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R174, R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 11, "title": "On the Origin of Species", "form": "book", "field": "nonfiction", "original_year": 1859, "original_language": "English", "countries": ["England"], "description": "A sustained argument about variation and natural selection, presented through comparisons and accumulated observations. Read as a foundational scientific work in its historical context.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 33, "name": "Charles Darwin", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/books/34590/on-the-origin-of-species-by-charles-darwin-ed--william-bynum-intro--william-bynum/9780140439120", "image_attribution": "Henry Maull and John Fox; crop by Beao; Public domain. https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 11, "language": "English", "translator": "", "publisher": "Penguin Classics", "isbn": "9780140439120", "pages": 576, "word_count": null, "abridged": 0, "translation_notes": "Anniversary edition with introduction and scholarly references by William Bynum, cover by Damien Hirst. Standard book edition, not a modern adaptation; no claim that it replaces current biological scholarship.", "source_url": "https://www.penguin.co.uk/books/34590/on-the-origin-of-species-by-charles-darwin-ed--william-bynum-intro--william-bynum/9780140439120", "image_attribution": "Cover: Penguin Classics. Image supplied by Penguin Random House for ISBN 9780140439120; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R174, R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Retains its relative standing outside the promoted reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Primary text alone cannot establish its comparative reception. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-009", "title": "Book Riot – 25 Best Nonfiction Books of All Time", "url": "https://bookriot.com/best-nonfiction-books-of-all-time/"}, {"source_id": "R174", "title": "On the Origin of Species — 1859 first edition, introduction", "url": "https://darwin-online.org.uk/converted/published/1859_Origin_F373/1859_Origin_F373.html"}, {"source_id": "R202", "title": "The 100 best nonfiction books of all time: the full list", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}], "metadata_status": "edition_verification_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 2 | work:253 | The Power Broker — Robert Caro
+{"entry_id": 557, "item_type": "work", "item_id": 253, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S02. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 253, "title": "The Power Broker", "form": "book", "field": "nonfiction", "original_year": null, "original_language": "English", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 226, "name": "Robert Caro", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 577, "language": "English", "translator": "", "publisher": "Houghton Mifflin", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL16311433W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/9696808-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S02. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Promoted for a sustained encounter with its subject in the broad nonfiction reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "S02", "title": "Modern Library Top 100: board novels and nonfiction lists", "url": "https://sites.prh.com/modern-library-top-100/"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S02", "list": "nonfiction", "position": 92}]}, "country_groupings": []}
+
+ENTRY 3 | work:10 | The Souls of Black Folk — W. E. B. Du Bois
+{"entry_id": 49, "item_type": "work", "item_id": 10, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S18, S02, R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 10, "title": "The Souls of Black Folk", "form": "book", "field": "nonfiction", "original_year": 1903, "original_language": "English", "countries": ["United States"], "description": "A book uniting sociological argument, historical reflection and personal experience to examine the color line and Black life in America.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 32, "name": "W. E. B. Du Bois", "biography": "", "countries": [], "source_url": "https://www.penguinrandomhouse.com/books/309639/the-souls-of-black-folk-by-w-e-b-dubois-with-an-introduction-by-randall-kenan-and-an-afterword-by-cheryltownsend-gilkes/9780451532053/", "image_attribution": "James E. Purdy / Adam Cuerden; Public domain. https://commons.wikimedia.org/wiki/File:W.E.B._Du_Bois_by_James_E._Purdy,_1907_(3x4).jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 10, "language": "English", "translator": "", "publisher": "Signet", "isbn": "9780451532053", "pages": 256, "word_count": null, "abridged": 0, "translation_notes": "Publisher identifies all fourteen essays as the book, with introduction by Randall Kenan and afterword by Cheryl Townsend Gilkes. Rank the authored book as a whole, not its individual chapters.", "source_url": "https://www.penguinrandomhouse.com/books/309639/the-souls-of-black-folk-by-w-e-b-dubois-with-an-introduction-by-randall-kenan-and-an-afterword-by-cheryltownsend-gilkes/9780451532053/", "image_attribution": "Cover: Signet. Image supplied by Penguin Random House for ISBN 9780451532053; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S18, S02, R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Promoted for a sustained encounter with its subject in the broad nonfiction reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "More direct literary and historical criticism needed. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-006", "title": "Goodreads – Modern Library 100 Best Nonfiction", "url": "https://www.goodreads.com/list/show/155694.Modern_Library_100_Best_Nonfiction"}, {"source_id": "OWNER-009", "title": "Book Riot – 25 Best Nonfiction Books of All Time", "url": "https://bookriot.com/best-nonfiction-books-of-all-time/"}, {"source_id": "OWNER-043", "title": "Goodreads – Modern Library 100 Best Non-fiction (board list)", "url": "https://www.goodreads.com/list/show/5045.Modern_Library_100_Best_Non_fiction"}, {"source_id": "OWNER-045", "title": "Penguin Random House – Essential Penguin Classics", "url": "https://www.penguinrandomhouse.com/the-read-down/essential-penguin-classics/"}, {"source_id": "R202", "title": "The 100 best nonfiction books of all time: the full list", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "S02", "title": "Modern Library Top 100: board novels and nonfiction lists", "url": "https://sites.prh.com/modern-library-top-100/"}, {"source_id": "S03", "title": "St. John's Reading List: A Great Books Curriculum", "url": "https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list"}, {"source_id": "S18", "title": "W.E.B. Du Bois", "url": "https://plato.stanford.edu/entries/dubois/"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S02", "list": "nonfiction", "position": 31}]}, "country_groupings": []}
+
+ENTRY 4 | work:608 | The History of the Decline and Fall of the Roman Empire — Edward Gibbon
+{"entry_id": 1043, "item_type": "work", "item_id": 608, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 608, "title": "The History of the Decline and Fall of the Roman Empire", "form": "book", "field": "nonfiction", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 478, "name": "Edward Gibbon", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 419, "language": "English", "translator": "", "publisher": "Maven Books", "isbn": "1108050743", "pages": 570, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL20659013W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/9320716-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Retains its relative standing outside the promoted reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Source scope, reader self-selection and contested claims remain relevant. Exact English edition, cover and author portrait are pending. A dated work can be important without being current guidance.", "sources": [{"source_id": "OWNER-058", "title": "BooksReddit – Best History books", "url": "https://booksreddit.com/best/history/"}, {"source_id": "R202", "title": "The 100 best nonfiction books of all time: the full list", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "S03", "title": "St. John's Reading List: A Great Books Curriculum", "url": "https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list"}], "metadata_status": "edition_verification_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 5 | work:12 | Silent Spring — Rachel Carson
+{"entry_id": 50, "item_type": "work", "item_id": 12, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R175, R176, S02, R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 12, "title": "Silent Spring", "form": "book", "field": "nonfiction", "original_year": 1962, "original_language": "English", "countries": ["United States"], "description": "A work of environmental nonfiction examining pesticide use and its consequences through scientific reporting and public argument.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 34, "name": "Rachel Carson", "biography": "", "countries": [], "source_url": "https://www.penguin.co.nz/books/silent-spring-9780141184944", "image_attribution": "U.S. Fish and Wildlife Service; Public domain. https://commons.wikimedia.org/wiki/File:Rachel-Carson.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 12, "language": "English", "translator": "", "publisher": "Penguin Classics", "isbn": "9780141184944", "pages": 336, "word_count": null, "abridged": 0, "translation_notes": "Paperback metadata follows the New Zealand publisher record for this ISBN. This is the standard book, not the separate Penguin short-extract edition. Current science and policy require newer sources.", "source_url": "https://www.penguin.co.nz/books/silent-spring-9780141184944", "image_attribution": "Cover: Penguin Classics. Image supplied by Penguin Random House for ISBN 9780141184944; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R175, R176, S02, R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Promoted for a sustained encounter with its subject in the broad nonfiction reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Wilson qualifies attribution of wider change to this book alone. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-006", "title": "Goodreads – Modern Library 100 Best Nonfiction", "url": "https://www.goodreads.com/list/show/155694.Modern_Library_100_Best_Nonfiction"}, {"source_id": "OWNER-009", "title": "Book Riot – 25 Best Nonfiction Books of All Time", "url": "https://bookriot.com/best-nonfiction-books-of-all-time/"}, {"source_id": "OWNER-010", "title": "Book Riot – 50 Best Nonfiction Books of the Last 100 Years", "url": "https://bookriot.com/best-nonfiction-books/"}, {"source_id": "OWNER-043", "title": "Goodreads – Modern Library 100 Best Non-fiction (board list)", "url": "https://www.goodreads.com/list/show/5045.Modern_Library_100_Best_Non_fiction"}, {"source_id": "R175", "title": "Rachel Carson (1907–1964)", "url": "https://science.nasa.gov/earth/earth-observatory/rachel-carson/"}, {"source_id": "R176", "title": "Silent Spring — Edward O. Wilson’s 2002 afterword", "url": "https://www.fao.org/fileadmin/templates/library/pdf/Silent_spring.pdf"}, {"source_id": "R202", "title": "The 100 best nonfiction books of all time: the full list", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "S02", "title": "Modern Library Top 100: board novels and nonfiction lists", "url": "https://sites.prh.com/modern-library-top-100/"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S02", "list": "nonfiction", "position": 5}]}, "country_groupings": []}
+
+ENTRY 6 | work:41 | The Second Sex — Simone de Beauvoir
+{"entry_id": 536, "item_type": "work", "item_id": 41, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R017. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 41, "title": "The Second Sex", "form": "book", "field": "philosophy", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 21, "name": "Simone de Beauvoir", "biography": "A writer and philosopher whose contributions span existentialism, ethics and feminism, across theory, fiction and memoir.", "countries": [], "source_url": "https://plato.stanford.edu/entries/beauvoir/", "image_attribution": "Moshe Milner; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Simone_De_Beauvoir_(cropped).jpg https://creativecommons.org/licenses/by-sa/3.0", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 1257, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/secondsex0000simo_v9s1", "image_attribution": "Internet Archive item image: https://archive.org/services/img/secondsex0000simo_v9s1", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R017. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Promoted for a sustained encounter with its subject in the broad nonfiction reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Primary-book and translation comparison remain incomplete. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R017", "title": "Simone de Beauvoir", "url": "https://plato.stanford.edu/entries/beauvoir/"}, {"source_id": "S03", "title": "St. John's Reading List: A Great Books Curriculum", "url": "https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list"}], "metadata_status": "edition_verification_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 7 | work:230 | The Structure of Scientific Revolutions — Thomas S. Kuhn
+{"entry_id": 540, "item_type": "work", "item_id": 230, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S02, R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 230, "title": "The Structure of Scientific Revolutions", "form": "book", "field": "nonfiction", "original_year": null, "original_language": "English", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 204, "name": "Thomas S. Kuhn", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 498, "language": "English", "translator": "", "publisher": "The University of Chicago Press", "isbn": "9780226458113", "pages": 217, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL3259254W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/6566386-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S02, R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Retains its relative standing outside the promoted reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-006", "title": "Goodreads – Modern Library 100 Best Nonfiction", "url": "https://www.goodreads.com/list/show/155694.Modern_Library_100_Best_Nonfiction"}, {"source_id": "OWNER-043", "title": "Goodreads – Modern Library 100 Best Non-fiction (board list)", "url": "https://www.goodreads.com/list/show/5045.Modern_Library_100_Best_Non_fiction"}, {"source_id": "R202", "title": "The 100 best nonfiction books of all time: the full list", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "S02", "title": "Modern Library Top 100: board novels and nonfiction lists", "url": "https://sites.prh.com/modern-library-top-100/"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S02", "list": "nonfiction", "position": 69}]}, "country_groupings": []}
+
+ENTRY 8 | work:57 | If This Is a Man — Primo Levi
+{"entry_id": 549, "item_type": "work", "item_id": 57, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R177. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 57, "title": "If This Is a Man", "form": "book", "field": "nonfiction", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 59, "name": "Primo Levi", "biography": "", "countries": [], "source_url": "https://www.lemonde.fr/en/m-le-mag/article/2024/04/03/carlo-greppi-the-italian-writer-who-brings-primo-levi-s-savior-back-to-life_6667219_117.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1260, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 205, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/bwb_S0-BKX-037", "image_attribution": "Internet Archive item image: https://archive.org/services/img/bwb_S0-BKX-037", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R177. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Promoted for a sustained encounter with its subject in the broad nonfiction reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Only a narrow profile excerpt supports this first dossier. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R177", "title": "Carlo Greppi, the Italian writer who brings Primo Levi’s savior back to life", "url": "https://www.lemonde.fr/en/m-le-mag/article/2024/04/03/carlo-greppi-the-italian-writer-who-brings-primo-levi-s-savior-back-to-life_6667219_117.html"}], "metadata_status": "edition_verification_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 9 | work:192 | The Making of the English Working Class — E. P. Thompson
+{"entry_id": 554, "item_type": "work", "item_id": 192, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S02, R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 192, "title": "The Making of the English Working Class", "form": "book", "field": "nonfiction", "original_year": null, "original_language": "English", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 168, "name": "E. P. Thompson", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 452, "language": "English", "translator": "", "publisher": "V. Gollancz", "isbn": "0140136037", "pages": 960, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL2761522W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/254045-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S02, R202. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Retains its relative standing outside the promoted reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-006", "title": "Goodreads – Modern Library 100 Best Nonfiction", "url": "https://www.goodreads.com/list/show/155694.Modern_Library_100_Best_Nonfiction"}, {"source_id": "OWNER-043", "title": "Goodreads – Modern Library 100 Best Non-fiction (board list)", "url": "https://www.goodreads.com/list/show/5045.Modern_Library_100_Best_Non_fiction"}, {"source_id": "R202", "title": "The 100 best nonfiction books of all time: the full list", "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list"}, {"source_id": "S02", "title": "Modern Library Top 100: board novels and nonfiction lists", "url": "https://sites.prh.com/modern-library-top-100/"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S02", "list": "nonfiction", "position": 30}]}, "country_groupings": []}
+
+ENTRY 10 | work:54 | Muqaddimah — Ibn Khaldūn
+{"entry_id": 543, "item_type": "work", "item_id": 54, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R150, R151. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 54, "title": "Muqaddimah", "form": "book", "field": "nonfiction", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 58, "name": "Ibn Khaldūn", "biography": "", "countries": [], "source_url": "https://www.alwatan.com.sa/article/1178179", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 256, "language": "English", "translator": "", "publisher": "Mustafa Muhammad", "isbn": "9971771829", "pages": 110, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL1597257W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/440215-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: R150, R151. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Retains its relative standing outside the promoted reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Composition sequence and relation to Kitāb al-ʿIbar require accurate mapping. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "R150", "title": "هل ألّف ابن خلدون المقدمةَ قبل باقي كِتاب العبر؟", "url": "https://www.alwatan.com.sa/article/1178179"}, {"source_id": "R151", "title": "المقدمة — Franz Rosenthal’s introductory study", "url": "https://www.khotwacenter.com/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9/"}], "metadata_status": "edition_verification_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 11 | work:212 | The Autobiography of Malcolm X — Alex Haley; Malcolm X
+{"entry_id": 555, "item_type": "work", "item_id": 212, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S02. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 212, "title": "The Autobiography of Malcolm X", "form": "book", "field": "nonfiction", "original_year": null, "original_language": "English", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 186, "name": "Alex Haley", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}, {"id": 187, "name": "Malcolm X", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 351, "language": "English", "translator": "", "publisher": "Grove Press", "isbn": "", "pages": 484, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL36522668W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/14875135-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S02. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Promoted for a sustained encounter with its subject in the broad nonfiction reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-006", "title": "Goodreads – Modern Library 100 Best Nonfiction", "url": "https://www.goodreads.com/list/show/155694.Modern_Library_100_Best_Nonfiction"}, {"source_id": "OWNER-043", "title": "Goodreads – Modern Library 100 Best Non-fiction (board list)", "url": "https://www.goodreads.com/list/show/5045.Modern_Library_100_Best_Non_fiction"}, {"source_id": "S02", "title": "Modern Library Top 100: board novels and nonfiction lists", "url": "https://sites.prh.com/modern-library-top-100/"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S02", "list": "nonfiction", "position": 51}]}, "country_groupings": []}
+
+ENTRY 12 | work:173 | The General Theory of Employment, Interest and Money — John Maynard Keynes
+{"entry_id": 547, "item_type": "work", "item_id": 173, "source_rank": null, "rationale": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S02. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "assessments": {}, "catalog": {"id": 173, "title": "The General Theory of Employment, Interest and Money", "form": "book", "field": "nonfiction", "original_year": null, "original_language": "English", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 149, "name": "John Maynard Keynes", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 399, "language": "English", "translator": "", "publisher": "Harcourt, Brace, Jovanovich", "isbn": "144867185X", "pages": 336, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL35951W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/116182-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Placed in the comparative opening to represent nonfiction across history, life-writing, science, economics, society, arts and philosophy. Evidence: S02. This is an editorial ordering; neither academic attention nor a single list determines its exact position.", "reading": "Retains its relative standing outside the promoted reading group. Reader recommendations inform this view, alongside clarity, narrative engagement and the value of the questions raised; these are qualitative explanations, not agreed numerical criteria.", "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-043", "title": "Goodreads – Modern Library 100 Best Non-fiction (board list)", "url": "https://www.goodreads.com/list/show/5045.Modern_Library_100_Best_Non_fiction"}, {"source_id": "S02", "title": "Modern Library Top 100: board novels and nonfiction lists", "url": "https://sites.prh.com/modern-library-top-100/"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S02", "list": "nonfiction", "position": 10}]}, "country_groupings": []}
+
+END OF THIS INPUT PART. Wait for the next numbered part.

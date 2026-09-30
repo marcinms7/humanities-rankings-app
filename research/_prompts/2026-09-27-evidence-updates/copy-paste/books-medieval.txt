@@ -1,0 +1,955 @@
+UPDATE REQUEST: Books · Medieval world
+Target ID: books-medieval
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 100; current source records: 118 (includes unverified leads).
+Desired scope: A global medieval literary/cultural ranking around 100 works, broadly 500–1500 CE with explicit regional dating caveats; not the separate history-books-medieval ranking.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+100 entries and 118 eligible reported consultations all marked summary_only; every entry repeats five Goodreads list or tag sources. This target is medieval literary/cultural works, distinct from modern books about medieval history.
+1. Audit the source ledger for actual support of medieval primary works and exclude modern historical studies from the candidate set unless a scope exception is explicitly proposed.
+2. Replace the repeated five-reference bundle with evidence for each work's identity, inclusion, reception and comparative place.
+3. Use global literary scholarship and relevant local-language canons across roughly 500–1500 CE, explaining how regional period boundaries differ.
+4. Handle anonymous, collective, oral and redacted texts through explicit attribution and date ranges rather than fictitious certainty.
+5. Review translations and collection boundaries separately from merit, and identify major omitted traditions and candidates.
+
+CURRENT SCOPE
+{"forms": ["book"], "period": "medieval", "year_from": 500, "year_to": 1500, "scope": "global_literary_cultural", "english_edition_required": true}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:1179] The Divine Comedy — Dante Alighieri | standing=1; reading=1 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+2. [work:6] The Tale of Genji — Murasaki Shikibu | standing=2; reading=2 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+3. [work:344] The Canterbury Tales — Geoffrey Chaucer | standing=3; reading=3 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+4. [work:1180] Book of Kings — Ferdowsi | standing=4; reading=4 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+5. [work:327] The Decameron — Giovanni Boccaccio | standing=5; reading=5 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+6. [work:1181] Beowulf — Anonymous | standing=6; reading=6 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+7. [work:1182] One Thousand and One Nights — Anonymous | standing=7; reading=7 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+8. [work:1088] The Song of Roland — Anonymous | standing=8; reading=8 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+9. [work:1183] The Nibelungenlied — Anonymous | standing=9; reading=9 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+10. [work:783] The Tale of the Heike — Anonymous | standing=10; reading=10 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+11. [work:1184] Sir Gawain and the Green Knight — Pearl Poet | standing=11; reading=11 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+12. [work:1185] Cantar de mio Cid — Anonymous | standing=12; reading=12 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+13. [work:1186] The Conference of the Birds — Farid ud-Din Attar | standing=13; reading=13 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+14. [work:882] Romance of the Three Kingdoms — Luo Guanzhong | standing=14; reading=14 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+15. [work:1187] The Mabinogion — Anonymous | standing=15; reading=15 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+16. [work:1188] The Roman de la Rose — Guillaume de Lorris & Jean de Meun | standing=16; reading=16 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+17. [work:1189] The Poetic Edda — Anonymous | standing=17; reading=17 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+18. [work:1190] Parzival — Wolfram von Eschenbach | standing=18; reading=18 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+19. [work:1191] The Lais — Marie de France | standing=19; reading=19 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+20. [work:1192] Masnavi — Jalal al-Din Rumi | standing=20; reading=20 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+21. [work:1193] Le Morte Darthur — Thomas Malory | standing=21; reading=21 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+22. [work:670] Troilus and Criseyde — Geoffrey Chaucer | standing=22; reading=22 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+23. [work:1194] Njáls Saga — Anonymous | standing=23; reading=23 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+24. [work:1195] Canzoniere — Petrarch | standing=24; reading=24 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+25. [work:1137] The Book of the City of Ladies — Christine de Pizan | standing=25; reading=25 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+26. [work:1196] Piers Plowman — William Langland | standing=26; reading=26 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+27. [work:1197] The Rubaiyat — Omar Khayyam | standing=27; reading=27 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+28. [work:787] The Pillow Book — Sei Shōnagon | standing=28; reading=28 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+29. [work:1198] The Quest of the Holy Grail — Anonymous | standing=29; reading=29 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+30. [work:1199] Perceval, the Story of the Grail — Chrétien de Troyes | standing=30; reading=30 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+31. [work:1200] Yvain, the Knight of the Lion — Chrétien de Troyes | standing=31; reading=31 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+32. [work:1201] Lancelot, the Knight of the Cart — Chrétien de Troyes | standing=32; reading=32 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+33. [work:1202] The Prose Edda — Snorri Sturluson | standing=33; reading=33 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+34. [work:1203] The Book of Good Love — Juan Ruiz, Archpriest of Hita | standing=34; reading=34 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+35. [work:821] The Tale of the Bamboo Cutter — Anonymous | standing=35; reading=35 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+36. [work:1204] The Golden Legend — Jacobus de Voragine | standing=36; reading=36 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+37. [work:1205] Revelations of Divine Love — Julian of Norwich | standing=37; reading=37 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+38. [work:1206] The Book of Margery Kempe — Margery Kempe | standing=38; reading=38 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+39. [work:1207] The Muqaddimah — Ibn Khaldun | standing=39; reading=39 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+40. [work:1208] The Travels of Ibn Battuta — Ibn Battuta | standing=40; reading=40 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+41. [work:1209] The Travels of Marco Polo — Marco Polo | standing=41; reading=41 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+42. [work:1210] The Alexiad — Anna Komnene | standing=42; reading=42 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+43. [work:1211] Ecclesiastical History of the English People — Bede | standing=43; reading=43 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+44. [work:1212] History of the Kings of Britain — Geoffrey of Monmouth | standing=44; reading=44 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+45. [work:1213] Heimskringla — Snorri Sturluson | standing=45; reading=45 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+46. [work:1214] Egil's Saga — Anonymous | standing=46; reading=46 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+47. [work:1215] Laxdæla Saga — Anonymous | standing=47; reading=47 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+48. [work:1216] The Saga of the Volsungs — Anonymous | standing=48; reading=48 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+49. [work:1217] Táin Bó Cúailnge — Anonymous | standing=49; reading=49 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+50. [work:1218] The Knight in the Panther's Skin — Shota Rustaveli | standing=50; reading=50 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+51. [work:1219] The Book of Lamentations — Gregory of Narek | standing=51; reading=51 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+52. [work:1220] The Secret History of the Mongols — Anonymous | standing=52; reading=52 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+53. [work:1221] The Kebra Nagast — Anonymous | standing=53; reading=53 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+54. [work:1222] The Gulistan — Saadi | standing=54; reading=54 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+55. [work:1223] The Bustan — Saadi | standing=55; reading=55 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+56. [work:1224] The Divan of Hafez — Hafez | standing=56; reading=56 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+57. [work:1225] The Khamsa — Nizami Ganjavi | standing=57; reading=57 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+58. [work:1226] Vis and Ramin — Fakhruddin As'ad Gurgani | standing=58; reading=58 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+59. [work:1227] The Epistle of Forgiveness — Al-Ma'arri | standing=59; reading=59 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+60. [work:1228] The Ring of the Dove — Ibn Hazm | standing=60; reading=60 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+61. [work:1229] Hayy ibn Yaqzan — Ibn Tufail | standing=61; reading=61 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+62. [work:1230] The Maqamat of al-Hariri — Al-Hariri | standing=62; reading=62 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+63. [work:1231] Kalila wa Dimna — Ibn al-Muqaffaʿ | standing=63; reading=63 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+64. [work:1232] Kitab al-Aghani — Abu al-Faraj al-Isfahani | standing=64; reading=64 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+65. [work:1233] The Revival of the Religious Sciences — Al-Ghazali | standing=65; reading=65 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+66. [work:455] The Guide for the Perplexed — Maimonides | standing=66; reading=66 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+67. [work:1234] The Summa Theologiae — Thomas Aquinas | standing=67; reading=67 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+68. [work:1235] The Consolation of Philosophy — Boethius | standing=68; reading=68 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+69. [work:1236] Scivias — Hildegard of Bingen | standing=69; reading=69 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+70. [work:1237] The Letters of Abelard and Heloise — Peter Abelard & Heloise | standing=70; reading=70 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+71. [work:1238] The Cloud of Unknowing — Anonymous | standing=71; reading=71 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+72. [work:1239] The Imitation of Christ — Thomas à Kempis | standing=72; reading=72 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+73. [work:1240] Pearl — Pearl Poet | standing=73; reading=73 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+74. [work:1241] Confessio Amantis — John Gower | standing=74; reading=74 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+75. [work:1242] The Testament — François Villon | standing=75; reading=75 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+76. [work:1243] The Count Lucanor — Don Juan Manuel | standing=76; reading=76 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+77. [work:1244] La Celestina — Fernando de Rojas | standing=77; reading=77 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+78. [work:1245] Aucassin and Nicolette — Anonymous | standing=78; reading=78 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+79. [work:1246] The Romance of Tristan — Béroul | standing=79; reading=79 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+80. [work:1247] Tristan — Gottfried von Strassburg | standing=80; reading=80 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+81. [work:1248] The Song of William — Anonymous | standing=81; reading=81 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+82. [work:1249] The Tale of Igor's Campaign — Anonymous | standing=82; reading=82 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+83. [work:1250] The Primary Chronicle — Anonymous | standing=83; reading=83 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+84. [work:1251] Kudrun — Anonymous | standing=84; reading=84 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+85. [work:1252] The Saga of Grettir the Strong — Anonymous | standing=85; reading=85 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+86. [work:1253] The Dream of the Rood — Anonymous | standing=86; reading=86 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+87. [work:1254] Ancrene Wisse — Anonymous | standing=87; reading=87 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+88. [work:1255] Everyman — Anonymous | standing=88; reading=88 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+89. [work:1256] The York Mystery Plays — Anonymous | standing=89; reading=89 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+90. [work:1257] The Hōjōki — Kamo no Chōmei | standing=90; reading=90 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+91. [work:794] Essays in Idleness — Yoshida Kenkō | standing=91; reading=91 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+92. [work:1258] The Kokinshū — Ki no Tsurayuki et al. | standing=92; reading=92 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+93. [work:1259] The Shinkokinshū — Fujiwara no Teika et al. | standing=93; reading=93 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+94. [work:1260] Konjaku Monogatari-shū — Anonymous | standing=94; reading=94 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+95. [work:1261] The Sarashina Diary — Sugawara no Takasue's Daughter | standing=95; reading=95 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+96. [work:1262] The Kathāsaritsāgara — Somadeva | standing=96; reading=96 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+97. [work:1263] Gīta Govinda — Jayadeva | standing=97; reading=97 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+98. [work:1264] Rājataraṅgiṇī — Kalhana | standing=98; reading=98 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+99. [work:1265] Dream Pool Essays — Shen Kuo | standing=99; reading=99 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+100. [work:1266] The Story of the Western Wing — Wang Shifu | standing=100; reading=100 | sources: MEDIEVAL-001, MEDIEVAL-002, MEDIEVAL-003, MEDIEVAL-004, MEDIEVAL-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[MEDIEVAL-001] Goodreads — Best Medieval Literature
+https://www.goodreads.com/list/show/1356.Best_Medieval_Literature
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8e5075c5f552ab72396cdf47
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-002] Goodreads — Best Middle Ages Books
+https://www.goodreads.com/list/show/301.Best_Middle_Ages_Books
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:36aba2212203c67fe8d1ddf6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-003] Goodreads — Books Important to Scholars of the Middle Ages
+https://www.goodreads.com/list/show/3155.Books_Important_to_Scholars_of_the_Middle_Ages
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b7f07e4e5392f81f59cb181c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-004] Goodreads — Medieval Literature Book Lists tag hub
+https://www.goodreads.com/list/tag/medieval-literature
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8dc6264d02fef39b9507f025
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-005] Goodreads — Medieval French Literature
+https://www.goodreads.com/list/show/122259.Medieval_French_Literature
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:36f04578e245a08717f9a184
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-006] Goodreads — Medieval Philosophy shelf
+https://www.goodreads.com/shelf/show/medieval-philosophy
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f4f5d2ff49ad5a68b08f8ca0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-007] Goodreads — Medieval Thought from the University to the Café
+https://www.goodreads.com/list/show/21327.Medieval_thought_from_the_university_to_the_caf_
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:87212bd3376a4bdd871a20bf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-008] Goodreads — Best Books on Early Medieval History, Art, Literature and Archaeology
+https://www.goodreads.com/list/show/149826.Best_Books_on_Early_Medieval_History_Art_Literature_and_Archaeology
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9a41722082c26b65c7130da6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-009] Goodreads — British Medieval Literature
+https://www.goodreads.com/list/show/24750.British_Medieval_Literature
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:92e35f57ba164a31555c8eed
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-010] Goodreads — Medieval Era Fiction (control for modern-title contamination)
+https://www.goodreads.com/list/show/94172.Medieval_Era_fiction
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b4f324c4c14654b878f640c0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-011] Reddit r/literature — Am I missing any significant/notable medieval literature?
+https://www.reddit.com/r/literature/comments/r2vqc6
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ee21cd188070e7dcd216cf3a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-012] Reddit r/books — Favorite Medieval Literature
+https://www.reddit.com/r/books/comments/kx3jbz
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cbabdbf352d99e846cdbd257
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-013] Reddit r/suggestmeabook — What books were written in the medieval period?
+https://www.reddit.com/r/suggestmeabook/comments/bqjaxp
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8ee9ce93366164d62c250131
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-014] Reddit r/MedievalHistory — Top 100 works of medieval literature
+https://www.reddit.com/r/MedievalHistory/comments/1bl8ftc
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fe49c3d12677dd82b26a7891
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-015] Reddit r/MedievalHistory — Good literature recs
+https://www.reddit.com/r/MedievalHistory/comments/1eb779l
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:94c15229dccc0e4e674585c1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-016] Reddit r/MedievalHistory — Good canon of literature to read?
+https://www.reddit.com/r/MedievalHistory/comments/1t8gjcl/good_canon_of_literature_to_read/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8a12a3ece9ce160128175b5e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-017] Reddit r/MedievalHistory — Favourite medieval epic and why?
+https://www.reddit.com/r/MedievalHistory/comments/1sva6kc/what_is_your_favourite_medieval_epic_and_why/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c431831814314a939e5c5f2e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-018] Reddit r/Arthurian — Medieval texts: advice and reading order
+https://www.reddit.com/r/Arthurian/comments/1vify06/medieval_texts_advice_and_reading_order/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9913af19bbe6a73fb8b7e116
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-019] Reddit r/suggestmeabook — Books written during the medieval period (2026 thread)
+https://www.reddit.com/r/suggestmeabook/comments/1wdhlpt/books_written_during_the_medieval_period/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c6931cfc1356eb03658a23b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-020] SensCritique — Top des meilleurs livres du Moyen Âge
+https://www.senscritique.com/top/resultats/les_meilleurs_livres_du_moyen_age/2149074
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:924e6f5ac51f28f309eb87b6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-021] SensCritique — Les meilleurs livres du Moyen Âge selon AlexSordo
+https://www.senscritique.com/top/les_meilleurs_livres_du_moyen_age/2654296
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:28a8ae75cc600396de320ffa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-022] SensCritique — Les meilleurs livres du Moyen Âge selon Pierre André
+https://www.senscritique.com/top/les_meilleurs_livres_du_moyen_age/2476653
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:95df08f97ae8a5432f64494e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-023] Gallica/BnF — Les classiques de la littérature du Moyen Âge
+https://gallica.bnf.fr/selections/fr/html/litteratures/les-classiques-de-la-litterature-du-moyen-age
+Family: editorial_or_specialist | Publisher: gallica.bnf.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a9cbb434978e7b8410751522
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-024] Gallica/BnF — Classiques de la littérature: accès par période
+https://gallica.bnf.fr/selections/fr/html/litteratures/les-classiques-de-la-litterature-acces-par-periode
+Family: editorial_or_specialist | Publisher: gallica.bnf.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:35c3904527a2d17bb9876873
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-025] BnF Classes — Medieval resources / L'art du livre au Moyen Âge
+https://classes.bnf.fr/recherche/classes.php?debut=275&filtreressource=tout&langue=fre&lemot=moyen&limitimages=50&limitressources=25&operateur=et&tri=PERTINENCE
+Family: editorial_or_specialist | Publisher: classes.bnf.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:be85b8d14153896ac2df5573
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-026] Lumni — Panorama d'œuvres majeures du Moyen Âge
+https://www.lumni.fr/article/panorama-oeuvres-majeures-du-moyen-age
+Family: editorial_or_specialist | Publisher: www.lumni.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:488f59d8dbe82bb26c9da078
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-027] Larousse — Épopée / les épopées médiévales
+https://www.larousse.fr/encyclopedie/litterature/%C3%A9pop%C3%A9e/173145
+Family: editorial_or_specialist | Publisher: www.larousse.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:326388a737fc1c41fd7bea2d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-028] Larousse — Chanson de geste
+https://www.larousse.fr/encyclopedie/musdico/chanson_de_geste/166734
+Family: editorial_or_specialist | Publisher: www.larousse.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9de81149777e8ae0c99c75b6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-029] Larousse — Roman de chevalerie
+https://www.larousse.fr/encyclopedie/litterature/roman_de_chevalerie/176583
+Family: editorial_or_specialist | Publisher: www.larousse.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:83ea81ebf00f0fb01d2f43a9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-030] Larousse — Roman de Renart
+https://www.larousse.fr/encyclopedie/litterature/Roman_de_Renart/176424
+Family: editorial_or_specialist | Publisher: www.larousse.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9e6848ba52015f11f2ebbea7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-031] Larousse — Aucassin et Nicolette
+https://www.larousse.fr/encyclopedie/litterature/Aucassin_et_Nicolette/171111
+Family: editorial_or_specialist | Publisher: www.larousse.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:54d25c549385b1d5b7c93341
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-032] Larousse archives — Dictionnaire de la Littérature: France (Moyen Âge)
+https://www.larousse.fr/archives/litterature/page/411
+Family: editorial_or_specialist | Publisher: www.larousse.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:555f8f6e6ed298de02b46d61
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-033] Fabula — Corpus de la littérature médiévale
+https://www.fabula.org/actualites/2219/corpus-de-la-litterature-medievale.html
+Family: editorial_or_specialist | Publisher: www.fabula.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5b785fd4e0b423705aa32eb8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-034] Medievalists.net — Top 50 Masterpieces of Medieval Literature
+https://www.medievalists.net/2024/09/top-50-masterpieces-of-medieval-literature/
+Family: editorial_or_specialist | Publisher: www.medievalists.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0835ede99dc390d66c99c967
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-035] Oxford Academic — Medieval Literature: A Very Short Introduction
+https://academic.oup.com/book/732
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a31e252a7cb849c06fa99cab
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-036] Oxford Academic — The Oxford Handbook of Medieval Literature in English
+https://academic.oup.com/edited-volume/28171
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f87fddef12dc28a0d864c4b4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-037] Oxford Academic — The Oxford Handbook of Chaucer
+https://academic.oup.com/edited-volume/38664
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:64720fc28761698bae94066f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-038] Oxford Academic — Medieval Narrative: An Introduction
+https://academic.oup.com/book/48712
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:09c5484924a4f3fe06cb817c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-039] Oxford Academic — Geoffrey Chaucer, Oxford Bibliographies
+https://academic.oup.com/reference/62337/reference-article-abstract/554115402?login=false
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9d47f5a1a725777da0a6ae98
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-040] Cambridge Core — The Cambridge Companion to Medieval English Literature 1100–1500
+https://www.cambridge.org/core/books/cambridge-companion-to-medieval-english-literature-11001500/4B4E1CF0F184D5683004D20A1576F14C
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6f45fe32bfe95feaa1007a0e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-041] Cambridge Core — The Cambridge Companion to Medieval French Literature
+https://www.cambridge.org/core/books/cambridge-companion-to-medieval-french-literature/50C995CF0B8F779E996C8227E3950E5F
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9b79d58269333e0012ab07ff
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-042] Cambridge Core — The New Cambridge Companion to Medieval Romance
+https://www.cambridge.org/core/books/new-cambridge-companion-to-medieval-romance/AABC7522C30E66B43B925C2E2E9FCDE1
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:88e43640c7083db5136b95b1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-043] Cambridge Core — The Cambridge Companion to the Literature of the Crusades
+https://www.cambridge.org/core/books/cambridge-companion-to-the-literature-of-the-crusades/26499BD90F47509267FE028A2B1786DF
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:da0cb27749fd5f6f149e9889
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-044] Cambridge Core — The Cambridge Companion to Medieval English Culture
+https://www.cambridge.org/core/books/cambridge-companion-to-medieval-english-culture/7723F38743680F218958BACFED98BBDF
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cdcb1355d4b94146d1d93b59
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-045] JSTOR / Manchester UP — Bestsellers and Masterpieces: The Changing Medieval Canon
+https://www.jstor.org/stable/jj.21996465
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c79806e3800e54ba6b665b4e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-046] Columbia — European Literature of the Middle Ages syllabus
+https://www.columbia.edu/itc/english/f2003/client_edit/course_syllabus.html
+Family: academic_or_institutional | Publisher: www.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cc4aca71a8a0c007972af304
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-047] Columbia — Canterbury Tales syllabus
+https://www.columbia.edu/itc/english/w3034/client_edit/course_syllabus.html
+Family: academic_or_institutional | Publisher: www.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:48cbc608873ec1fad26e6685
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-048] Columbia English — Syllabus Archive (Medieval courses)
+https://www.columbia.edu/cu/english/courses_syllarchive.htm
+Family: academic_or_institutional | Publisher: www.columbia.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4f5ad96f12dcea0eec23e366
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-049] University of Edinburgh — Reading the Middle Ages
+https://www.drps.ed.ac.uk/21-22/dpt/cxcllc11131.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d8bf318f8a1660142babdcbd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-050] University of Edinburgh — Reading Medieval Literature
+https://www.drps.ed.ac.uk/23-24/dpt/cxenli10106.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2f8ca776b113332a2dac5ed3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-051] University of Edinburgh — The Field Full of Folk
+https://www.drps.ed.ac.uk/22-23/dpt/cxenli10267.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4c32678132b323372e5fd58
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-052] University of Edinburgh — Death and Dying in Late Medieval Literature
+https://www.drps.ed.ac.uk/20-21/dpt/cxenli10387.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:152ea9634dee82621ada0495
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-053] University of Edinburgh — Saints and Sinners: Medieval English Literature
+https://www.drps.ed.ac.uk/24-25/dpt/cxenli10245.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9816ac80b7558c9d0f741f34
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-054] University of Edinburgh — The Canterbury Tales
+https://www.drps.ed.ac.uk/25-26/dpt/cxenli10080.htm
+Family: academic_or_institutional | Publisher: www.drps.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0ed1ee66f70d073a9c53b7f6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-055] University of Edinburgh Impact — Medievalist reading recommendations
+https://impact.ed.ac.uk/inspiring-minds/edinburgh-good-reads-conversations-across-centuries/
+Family: academic_or_institutional | Publisher: impact.ed.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:afadf1a5b27b10c53d53233a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-056] University of Pennsylvania English — 50 Book List
+https://www.english.upenn.edu/graduate/requirements-rules-procedures/first-year-oral-exam/50-book-list
+Family: academic_or_institutional | Publisher: www.english.upenn.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:154e86cdad9ff77ec89025b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-057] UPenn — Fifty Book Exam Reading List mirror
+https://web.english.upenn.edu/~mulready/50book.html
+Family: academic_or_institutional | Publisher: web.english.upenn.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:63a27914b3d3c9c30d114a3e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-058] UPenn — Chaucer: Medieval Poetry and Modern Performance
+https://www.english.upenn.edu/courses/undergraduate/2017/fall/engl0025.001
+Family: academic_or_institutional | Publisher: www.english.upenn.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:90bb50c4a877511b69b4ca9c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-059] UPenn — Anglo-French Literatures in Medieval European Contexts
+https://www.english.upenn.edu/courses/graduate/2002/spring/engl715.301
+Family: academic_or_institutional | Publisher: www.english.upenn.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b1f0337b06bf04774fee155c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-060] UPenn — Getting Medieval: Chaucer's Canterbury Tales
+https://www.english.upenn.edu/courses/undergraduate/2014/fall/engl101.001
+Family: academic_or_institutional | Publisher: www.english.upenn.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:11c1e6f67cf9b9cc69d7e193
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-061] University of Cambridge ASNC — Suggested Reading, Beowulf
+https://iaas-vserver.english.cam.ac.uk/currentstudents/undergraduates/reading-lists/reading-part2.htm
+Family: academic_or_institutional | Publisher: iaas-vserver.english.cam.ac.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:76463bf2e73c629b1b7a57ca
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-062] UC Berkeley — English 45A, Beginnings through Milton
+https://classes.berkeley.edu/content/2025-fall-english-45a-001-lec-001
+Family: academic_or_institutional | Publisher: classes.berkeley.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1459586ea8f503aeb79b3f7a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-063] University of Toronto — Summer 2026 medieval/classical reading course
+https://www.english.utoronto.ca/undergraduate/course-information/summer-undergraduate-courses-2026-0
+Family: academic_or_institutional | Publisher: www.english.utoronto.ca | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2e01eaf4cb24b38b8e9caf5d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-064] University of Chicago Medieval Studies — Spring 2026 courses
+https://medievalstudies.uchicago.edu/undergraduate-program/spring-2026-undergraduate-courses
+Family: academic_or_institutional | Publisher: medievalstudies.uchicago.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:83fbd2a3a090ab1d74448a67
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-065] Biblioteca Virtual Miguel de Cervantes — Literatura de España, Tomo I: Edad Media
+https://www.cervantesvirtual.com/obra/literatura-de-espana-tomo-primero-edad-media-1380308/
+Family: editorial_or_specialist | Publisher: www.cervantesvirtual.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5f5b37292a15afb9f85abd5a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-066] Biblioteca Virtual Miguel de Cervantes — Cantar de Mio Cid portal
+https://www.cervantesvirtual.com/portales/cantar_de_mio_cid/
+Family: editorial_or_specialist | Publisher: www.cervantesvirtual.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e4ab3096daba492eafdbcc29
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-067] Biblioteca Virtual Miguel de Cervantes — Cantar de Mio Cid presentation
+https://www.cervantesvirtual.com/portales/cantar_de_mio_cid/presentacion/
+Family: editorial_or_specialist | Publisher: www.cervantesvirtual.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7ab10fa7a5cd73903e9cbe43
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-068] Biblioteca Virtual Miguel de Cervantes — Medieval Spanish literature criticism index
+https://www.cervantesvirtual.com/portales/cantar_de_mio_cid/obras/materia/literatura-medieval-espanola-siglo-13-historia-y-critica-29464
+Family: editorial_or_specialist | Publisher: www.cervantesvirtual.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ecfc353959b14d5803ee53e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-069] Biblioteca Virtual Miguel de Cervantes — Cantar de Mio Cid bibliography
+https://www.cervantesvirtual.com/portales/cantar_de_mio_cid/estudios_bibliografia_3/
+Family: editorial_or_specialist | Publisher: www.cervantesvirtual.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:72dac87b2a30fac7ca2bb3ac
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-070] Lecturalia — Cantar de mio Cid reviews and reader reception
+https://www.lecturalia.com/libro/1263/cantar-de-mio-cid
+Family: editorial_or_specialist | Publisher: www.lecturalia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:926a4c55523b86dc4f0f1fca
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-071] IBS Italy — Letteratura Italiana Medievale: libri da non perdere
+https://www.ibs.it/argomenti/letteratura-italiana-medievale
+Family: editorial_or_specialist | Publisher: www.ibs.it | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a2fa30c30da82abd7f4769c4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-072] Douban — 神曲 / The Divine Comedy
+https://book.douban.com/subject/35087280/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f581b177917e7aefed267544
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-073] Douban — 坎特伯雷故事 / The Canterbury Tales
+https://book.douban.com/subject/36255827/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8f73139dca1c150abefdd741
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-074] Douban — 源氏物语 / The Tale of Genji
+https://book.douban.com/subject/1006113/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:56431efdb1d82b6127ec2a3d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-075] Douban — 源氏物语 (People's Literature Press edition)
+https://book.douban.com/subject/1028816/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4545b2340c13578a9334765c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-076] Douban — 源氏物语 (Yilin edition)
+https://book.douban.com/subject/6714015/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ca2d97c7a56dee5c677a30d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-077] Douban — 一千零一夜 / One Thousand and One Nights
+https://book.douban.com/subject/1122052/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a1caf0e52f5fbeabcd0ca27b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-078] Douban — 一千零一夜 (People's Literature edition)
+https://book.douban.com/subject/1074247/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:80a3c826a302a45a9b836d66
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-079] Douban — European Middle Ages reading-list network
+https://book.douban.com/subject/35546520/doulists
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8c8549bea4565f760711136c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-080] Douban — 欧洲文学与拉丁中世纪 / European Literature and the Latin Middle Ages
+https://book.douban.com/subject/26972587/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eeb5c62615a5d146dc416b52
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-081] Bookmeter — 源氏物語 / The Tale of Genji reader page
+https://bookmeter.com/books/426947
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1b443c39615f93bc093fcb3c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-082] Bookmeter — 平家物語 / The Tale of the Heike, Iwanami set
+https://bookmeter.com/books/357472
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6d99a80aa3fba1083fb72b76
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-083] Bookmeter — 平家物語 modern Japanese literature collection edition
+https://bookmeter.com/books/8315507
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:49e2736782afb59a55abaa93
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-084] Bookmeter — 新訂 徒然草 / Essays in Idleness
+https://bookmeter.com/books/476297
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4212daf40718c54d75377d5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-085] Bookmeter — 徒然草, Chikuma edition
+https://bookmeter.com/books/585546
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:229fd42784ae8d7b7d84728b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-086] Bookmeter — Yoshida Kenkō author/popularity page
+https://bookmeter.com/authors/47561
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e2be53e9472b368e875a79ea
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-087] Bookmeter — 平家物語を読む
+https://bookmeter.com/books/447472
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:de70df1ed126c2dabf2f3367
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-088] Bookmeter — 源氏物語を読む
+https://bookmeter.com/books/18050948
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a15fdea716432769f0d45fa1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-089] Encyclopaedia Iranica — Classical Persian Literature
+https://www.iranicaonline.org/articles/iran-viii2-classical-persian-literature/
+Family: editorial_or_specialist | Publisher: www.iranicaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:17a86cb9573e44053cd88e8f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-090] Encyclopaedia Iranica — Šāh-nāma
+https://www.iranicaonline.org/articles/sah-nama/
+Family: editorial_or_specialist | Publisher: www.iranicaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bf7e7c46784999cd996d9c07
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-091] Encyclopaedia Iranica — Ferdowsi
+https://www.iranicaonline.org/articles/ferdowsi/
+Family: editorial_or_specialist | Publisher: www.iranicaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ca471010ffb259a5aec8e61c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-092] Encyclopaedia Iranica — Ferdowsi: Life
+https://www.iranicaonline.org/articles/ferdowsi-i/
+Family: editorial_or_specialist | Publisher: www.iranicaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a7d772c6de7c9fbfee1bb488
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-093] Encyclopaedia Iranica — Iran: Traditional History
+https://www.iranicaonline.org/articles/iran-iii-traditional-history/
+Family: editorial_or_specialist | Publisher: www.iranicaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3df9ef0a4389b446b991b64c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-094] Encyclopaedia Iranica — Kalila wa Demna: redactions and circulation
+https://www.iranicaonline.org/articles/kalila-demna-i/
+Family: editorial_or_specialist | Publisher: www.iranicaonline.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9260db003cf0161274a9a1a3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-095] Oxford Academic — The Oxford Handbook of Classical Chinese Literature
+https://academic.oup.com/edited-volume/28107
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c792b5af9058bf76332bd25f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-096] Oxford Academic — Pre-Tang Anthologies and Anthologization
+https://academic.oup.com/edited-volume/28107/chapter-abstract/212224499
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5cd55648e52c8d4d76085b5f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-097] Oxford Academic — Song Reception of Earlier Literature
+https://academic.oup.com/edited-volume/28107/chapter-abstract/212225306
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cf4c085a077ae2d14333727a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-098] Oxford Academic — Chinese literary canon formation / Literature and Metaliterature
+https://academic.oup.com/edited-volume/28107/chapter/514166990
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d6dd2ec866ddfcc6b57a64dd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-099] Oxford Academic — Chinese textual transmission / Collecting, Editing, Transmitting
+https://academic.oup.com/edited-volume/28107/chapter/514166763
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6d8082b32c344c175ceeac5b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-100] Oxford Academic — Institutions of Literary Culture in early/medieval China
+https://academic.oup.com/edited-volume/28107/chapter/514165895
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:52304acf22d61c1f443aa17b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-101] Medievalists.net — Best Medieval Books of 2024 (control source)
+https://www.medievalists.net/2024/12/best-medieval-books-of-2024/
+Family: editorial_or_specialist | Publisher: www.medievalists.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d98c954d42898b7935d0e6b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-102] Medievalists.net — Best Medieval Books of 2023 (control source)
+https://www.medievalists.net/2023/11/the-best-medieval-books-of-2023/
+Family: editorial_or_specialist | Publisher: www.medievalists.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:859de0d13350fe2e34d2624e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-103] Cambridge Core — Introduction to Medieval English Culture
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-medieval-english-culture/introduction/3DE0FCAAF56D754F6AF2F4AC354616F1
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1de6c395d1265d298d9e5380
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-104] Cambridge Core — Introduction to Medieval English Literature 1100–1500
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-medieval-english-literature-11001500/introduction/87E111623DC4950ED983D284B6318FD0
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:390307af7d6d7094be018ece
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-105] Cambridge Core — Medieval English Literature chapter listing / further reading
+https://www.cambridge.org/core/books/cambridge-companion-to-medieval-english-literature-11001500/4B4E1CF0F184D5683004D20A1576F14C/listing
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9469d2a67ebd3dc8f4c07a87
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-106] Cambridge Core — Cambridge Companions overview
+https://www.cambridge.org/core/publications/collections/cambridge-companions/about
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5b7441bb0d0de898a4301411
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-107] Larousse — geste / chanson de geste context
+https://www.larousse.fr/dictionnaires/college/geste/18121
+Family: editorial_or_specialist | Publisher: www.larousse.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1c32bcbaddabaf36302d00b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-108] Larousse — chantefable / Aucassin et Nicolette
+https://www.larousse.fr/encyclopedie/musdico/chantefable/166741
+Family: editorial_or_specialist | Publisher: www.larousse.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e63be99d840db7844de55a2b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-109] Larousse — Adenet le Roi / medieval romance context
+https://www.larousse.fr/encyclopedie/litterature/Adenet_le_Roi/170797
+Family: editorial_or_specialist | Publisher: www.larousse.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9399d2724af63ac08097a2e6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-110] Biblioteca Virtual Miguel de Cervantes — Cantar de Mio Cid research library record
+https://www.cervantesvirtual.com/obra/biblioteca-del-cantar-de-mio-cid-0/
+Family: academic_or_institutional | Publisher: www.cervantesvirtual.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:809fc1e9c24538d5248b2c1c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-111] Biblioteca Virtual Miguel de Cervantes — Cantar de Mio Cid catalogue
+https://www.cervantesvirtual.com/portales/cantar_de_mio_cid/buscador/
+Family: editorial_or_specialist | Publisher: www.cervantesvirtual.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f1714b187db240e60c5389cb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-112] Biblioteca Virtual Miguel de Cervantes — Cantar de Mio Cid international links
+https://www.cervantesvirtual.com/portales/cantar_de_mio_cid/enlaces/
+Family: editorial_or_specialist | Publisher: www.cervantesvirtual.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d579e96eddd48a8ad78674cd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-113] Biblioteca Virtual Miguel de Cervantes — Libro de Buen Amor reception scholarship index
+https://www.cervantesvirtual.com/portales/cantar_de_mio_cid/obras/materia/amor-en-la-literatura-227/5
+Family: editorial_or_specialist | Publisher: www.cervantesvirtual.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3915a188ac4621be911e32de
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-114] Bookmeter — Heike reader reception / Yoshimura edition
+https://bookmeter.com/books/397709
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1bfb7b53f11c780265ab41b0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-115] Bookmeter — Heike scholarship/readership page
+https://bookmeter.com/books/4164842
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:732ea32c6d6f5fecffd7174d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-116] Bookmeter — Genji scholarship/readership page
+https://bookmeter.com/books/61214
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3fe75e3179c3d6438ce4da0f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-117] Douban — Tale of Genji, Shanghai Translation edition
+https://book.douban.com/subject/35006266/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ee8d7c278e82136e5b106af0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[MEDIEVAL-118] Douban — Tale of Genji, 2022 Yilin edition
+https://book.douban.com/subject/35659986/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fe0a05308fcca7f180d8b780
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: books-medieval. Included 100 current entries and 118 current source records. Carry out the update and return the enhanced ranking with the complete source register.

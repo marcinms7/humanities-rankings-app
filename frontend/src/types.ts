@@ -1,23 +1,154 @@
+import type {
+  ApiUser,
+  ApiPerson,
+  ApiEdition,
+  ApiWork,
+  ApiPlanSuggestion,
+  ApiMonthCapacity,
+  ApiLibrary,
+  ApiPlan,
+} from './generated/apiContracts'
 export type Theme = 'light' | 'dark' | 'system'
-export type User = { id: number; username: string; display_name: string; is_staff: boolean; pages_per_day: number; reading_target_period: 'day' | 'week' | 'month'; pages_per_week: number; pages_per_month: number; reading_days_per_week: number; difficulty_aware_planning: boolean; words_per_minute: number; theme: Theme }
-export type Person = { id: number; name: string; biography: string; countries: string[]; portrait: string | null; image_attribution: string; source_url: string }
-export type Edition = { id: number; work: number; language: string; translator: string; publisher: string; isbn: string; pages: number | null; word_count: number | null; abridged: boolean; translation_notes: string; source_url: string; cover: string | null; image_attribution: string }
-export type Estimate = { status: string; estimated_hours: number | null; low_hours: number | null; high_hours: number | null; assumptions: string[]; algorithm_version: string }
-export type Work = { id: number; title: string; authors: Person[]; form: string; field: string; original_year: number | null; original_language: string; countries: string[]; tags: string[]; genres: string[]; description: string; reading_load: string; reading_effort_override: number | null; edition: Edition | null; reading_time: Estimate }
-export type WorkRankingMembership = { slug: string; id: number; title: string; kind: string; origin: string; presentation: string; position: number; source_rank: number | null }
-export type Preference = { bookmarked: boolean; refresh_interval_days: number | null; refresh_requested_at: string | null; weights: Record<string, number>; overrides: Record<string, Record<string, number>> }
+export type User = ApiUser
+export type Person = ApiPerson
+export type ReadingBasis = {
+  edition_id: number | null
+  pages: number | null
+  pages_basis: string
+  isbn: string
+  origin: string
+}
+export type Edition = ApiEdition
+export type Estimate = {
+  status: string
+  estimated_hours: number | null
+  low_hours: number | null
+  high_hours: number | null
+  assumptions: string[]
+  algorithm_version: string
+}
+export type Work = ApiWork
+export type WorkRankingMembership = {
+  slug: string
+  id: number
+  title: string
+  kind: string
+  origin: string
+  presentation: string
+  position: number
+  source_rank: number | null
+}
+export type Preference = {
+  bookmarked: boolean
+  refresh_interval_days: number | null
+  refresh_requested_at: string | null
+  weights: Record<string, number>
+  overrides: Record<string, Record<string, number>>
+}
 export type Criterion = { id: string; label: string }
 export type EditorialLens = 'standing' | 'reading'
-export type EditorialSelection = { version: string; published_on: string; notice: string; method: string; orders: Record<EditorialLens, { label: string; description: string; item_ids: number[] }>; entries: Record<string, { standing: string; reading: string; caveat: string; sources: { source_id: string; title: string; url: string }[]; reported_sources?: { source_id: string; title: string; url: string; eligible: boolean }[] }> }
-export type Ranking = { has_editorial?: boolean; id: number; slug: string; title: string; description: string; domain: string; item_type: 'work' | 'person'; presentation: string; origin: string; owner: number | null; scope: { editorial?: EditorialSelection; forms?: string[]; countries?: string[]; tags?: string[]; [key: string]: unknown }; target_size: number; status: string; source_url: string; publisher: string; criteria: Criterion[]; revision: number; updated_at: string; created_at: string; last_researched_at: string | null; last_sources_checked_at: string | null; entry_count: number; source_count: number; preference: Preference | null; can_edit: boolean; sharing_enabled: boolean; share_url: string | null }
-export type EntryGrouping = { country: string; local_rank: 1 | 2 | 3; section_index: number; region: string; confidence: string; language: string; form_reported: string; affiliation_note: string; source_ids: string[] }
-export type Entry = { id: number; work: number | null; person: number | null; book: Work | null; author: Person | null; position: number; source_rank: number | null; rationale: string; assessments: Record<string, number>; groupings: EntryGrouping[] }
-export type Source = { id: number; source_id: string; title: string; url: string; family: string; publisher: string; evidence: string; limitations: string; consulted_on: string | null; eligible: boolean }
-export type LibraryItem = { shelves: string[]; personal_tags: string[]; read_next_position: number | null; id: number; work: number; book: Work; edition: number | null; selected_edition: Edition | null; reading_time: Estimate; remaining_reading_time: Estimate; status: string; started_on: string | null; finished_on: string | null; current_page: number; rating: number | null; notes: string }
-export type PlanItem = { classical_study?: { mode: string; passages: string; done: boolean } | null; id: number; work: number; book: Work; month: string; position: number; pages: number | null; locked: boolean; effort_multiplier: number; effort_pages: number | null }
-export type Score = { entry_id: number; score: number | null; reason: string | null; contributions: Record<string, number> }
-export type PlanSuggestion = { items: { work: number; month: string; pages: number; locked: boolean }[]; unscheduled: { work: number; reason: string }[]; warnings: string[]; capacity_remaining: Record<string, number> }
+export type EditorialSelection = {
+  version: string
+  published_on: string
+  notice: string
+  method: string
+  orders: Record<EditorialLens, { label: string; description: string; item_ids: number[] }>
+  entries: Record<
+    string,
+    {
+      standing: string
+      reading: string
+      caveat: string
+      sources: { source_id: string; title: string; url: string }[]
+      reported_sources?: { source_id: string; title: string; url: string; eligible: boolean }[]
+    }
+  >
+}
+export type Ranking = {
+  order_status?: string
+  has_editorial?: boolean
+  id: number
+  slug: string
+  title: string
+  description: string
+  domain: string
+  item_type: 'work' | 'person'
+  presentation: string
+  origin: string
+  owner: number | null
+  scope: {
+    editorial?: EditorialSelection
+    forms?: string[]
+    countries?: string[]
+    tags?: string[]
+    [key: string]: unknown
+  }
+  target_size: number
+  status: string
+  source_url: string
+  publisher: string
+  criteria: Criterion[]
+  revision: number
+  updated_at: string
+  created_at: string
+  last_researched_at: string | null
+  last_sources_checked_at: string | null
+  entry_count: number
+  source_count: number
+  preference: Preference | null
+  can_edit: boolean
+  sharing_enabled: boolean
+  share_url: string | null
+}
+export type EntryGrouping = {
+  country: string
+  local_rank: 1 | 2 | 3
+  section_index: number
+  region: string
+  confidence: string
+  language: string
+  form_reported: string
+  affiliation_note: string
+  source_ids: string[]
+}
+export type Entry = {
+  id: number
+  work: number | null
+  person: number | null
+  book: Work | null
+  author: Person | null
+  position: number
+  source_rank: number | null
+  rationale: string
+  assessments: Record<string, number>
+  groupings: EntryGrouping[]
+}
+export type Source = {
+  provenance: { consultation_origin: string; access_extent: string; evidence_role: string }
+  id: number
+  source_id: string
+  title: string
+  url: string
+  family: string
+  publisher: string
+  evidence: string
+  limitations: string
+  consulted_on: string | null
+  eligible: boolean
+}
+export type LibraryItem = Omit<ApiLibrary, 'reading_basis'> & { reading_basis: ReadingBasis }
+export type PlanItem = Omit<ApiPlan, 'reading_basis' | 'classical_study'> & {
+  reading_basis: ReadingBasis
+  classical_study?: { mode: string; passages: string; done: boolean } | null
+}
+export type Score = {
+  entry_id: number
+  score: number | null
+  reason: string | null
+  contributions: Record<string, number>
+}
+export type PlanSuggestion = ApiPlanSuggestion
 
-export type MonthCapacity = { month: string; budget: number; used: number; physical_pages: number; unknown_allocations: number; per_reading_day: number; weekly_equivalent: number; unit: string; algorithm_version: string }
+export type MonthCapacity = ApiMonthCapacity
 
 export type Page<T> = { count: number; next: string | null; previous: string | null; results: T[] }

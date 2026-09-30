@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-09-27-owner-docx-updates",
+  "status": "imported",
+  "target": "books-every-country",
+  "files": [
+    {
+      "filename": "Top_Three_Books_by_Country_Research_Update.docx",
+      "target": "books-every-country",
+      "sha256": "1da0fe6a0f4426011ac890ff5f6369026cd91d5b1efd0d982cd48581083e4312",
+      "directory": "research/incoming/books-every-country/2026-09-27-owner-docx-updates",
+      "blocks": 10579,
+      "tables": 211,
+      "chars": 1794887
+    }
+  ],
+  "database_receipt": "research/_runs/2026-09-27/owner-docx-updates/books-every-country-import-receipt.json",
+  "preserved_all_existing_sources": true,
+  "source_by_source_web_verification_performed": false
+}

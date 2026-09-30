@@ -1,5 +1,7 @@
 # Hardcore Literature · 2026 reading schedule
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Verified and imported 13 September 2026: **23 active entries**, revision **3**.
 
 The published January–December 2026 programme, including supporting plays, poetry and philosophy. The Neapolitan Quartet is expanded into its four named novels. The November–December “Secret Dickens Novel” has not been named publicly here and is not fabricated. Shakespeare is a continuing self-paced project.

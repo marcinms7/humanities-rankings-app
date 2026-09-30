@@ -1,5 +1,6 @@
 """Versioned private passage notes and translation exercises in the existing profile."""
 import json
+from .content_cache import read_content
 from pathlib import Path
 from django.utils import timezone
 from rest_framework.exceptions import ValidationError
@@ -7,7 +8,7 @@ from .classical_companion import text_field
 
 
 def desk_content():
-    return json.loads((Path(__file__).parent / 'content/classical_reading_desk.json').read_text())
+    return read_content((Path(__file__).parent / 'content/classical_reading_desk.json'))
 
 
 def validate_desk(data, content):

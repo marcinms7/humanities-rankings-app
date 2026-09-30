@@ -1,5 +1,7 @@
 # Nonfiction · All time — research state
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 **Latest owner correction:** target approximately 250 entries for this broad ranking. Compile quickly from full published lists and existing evidence, then refine. The tiny published subset below is historical saved state, not adequate all-time coverage. Prioritize broad candidate normalization and population; detailed dossiers and individual media/edition lookups must not block inclusion. See [the corrected workflow](../../docs/RANKING_RESEARCH_WORKFLOW.md).
 
 Updated 13 September 2026, through source batch 32. **117 distinct eligible sources are saved and imported for this target.** The hard minimum of 50 is met; worldwide research is still incomplete. The owner now prioritizes broad, timely compilation and subsequent refinement over additional source accumulation. No threshold proves completion.

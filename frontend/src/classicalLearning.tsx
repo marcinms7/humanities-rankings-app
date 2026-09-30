@@ -1,56 +1,975 @@
-import { useEffect, useState } from 'react'
+import { DraftRecoveryNotice, useDraftRecovery } from './draftRecovery'
+import { StudyHistory, type RecordHistoryMetadata } from './studyRecords'
+import { useUnsavedChanges } from './unsavedChanges'
+import { useState } from 'react'
 import type { Companion, CompanionState } from './classicalCompanion'
 import { Empty } from './components'
 
 type Prompt = { id: string; module: string; question: string; check: string; refs: string[] }
-type Place = { id: string; title: string; lat: number; lon: number; country: string; period: string; kind: string; dates: string; start: number | null; end: number | null; body: string; event: string; people: string; modules: string[]; sources: string[] }
-export type LearningContent = { revision: string; prompts: Prompt[]; atlas: { note: string; places: Place[]; sources: { id: string; title: string; url: string; checked: string; access: string; note: string }[] } }
-type EssayFields = { module: string; title: string; question: string; thesis: string; argument: string; counterargument: string; response: string; conclusion: string; draft: string; sources: string; commonplaces: string[] }
-type Essay = EssayFields & { revision: number; saved_at: string; evidence: { id: string; work: number; reference: string; translator: string; passage?: string; reflection: string }[]; history: Omit<Essay, 'history'>[] }
-type Session = { id: string; module: string; minutes: number; reflection: string; passage: string; saved_at: string }
-export type LearningState = { learning?: { recall?: Record<string, { due: string; attempts: { answer: string; interval: number; saved_at: string }[] }>; essays?: Record<string, Essay>; sessions?: Session[] } }
-export type LearningSummary = { date: string; date_basis: string; next_module: string | null; assignment: { reading: string; hours: number; exercise: string } | null; question: string | null; listening: { title: string; sources: string[] } | null; material: { title: string; sources: string[] } | null; due: string[]; commonplace_due: string[]; sessions_today: Session[]; policy: string }
-const newEssay = (module: string, question: string): EssayFields => ({ module, question, title: '', thesis: '', argument: '', counterargument: '', response: '', conclusion: '', draft: '', sources: '', commonplaces: [] })
-export const learningTabs = ['Today’s study', 'Recall & review', 'Historical atlas', 'Essay workshop']
+type Place = {
+  id: string
+  title: string
+  lat: number
+  lon: number
+  country: string
+  period: string
+  kind: string
+  dates: string
+  start: number | null
+  end: number | null
+  body: string
+  event: string
+  people: string
+  modules: string[]
+  sources: string[]
+}
+export type LearningContent = {
+  revision: string
+  prompts: Prompt[]
+  atlas: {
+    note: string
+    places: Place[]
+    sources: { id: string; title: string; url: string; checked: string; access: string; note: string }[]
+  }
+}
+type EssayFields = {
+  module: string
+  title: string
+  question: string
+  thesis: string
+  argument: string
+  counterargument: string
+  response: string
+  conclusion: string
+  draft: string
+  sources: string
+  commonplaces: string[]
+}
+type Essay = EssayFields &
+  RecordHistoryMetadata & {
+    revision: number
+    saved_at: string
+    evidence: {
+      id: string
+      work: number
+      reference: string
+      translator: string
+      passage?: string
+      reflection: string
+    }[]
+    history: Omit<Essay, 'history'>[]
+  }
+type Session = {
+  id: string
+  module: string
+  minutes: number
+  reflection: string
+  passage: string
+  saved_at: string
+}
+export type LearningState = {
+  learning?: {
+    recall?: Record<
+      string,
+      RecordHistoryMetadata & {
+        due: string
+        attempts: { answer: string; interval: number; saved_at: string }[]
+      }
+    >
+    essays?: Record<string, Essay>
+    sessions?: Session[]
+  }
+}
+export type LearningSummary = {
+  date: string
+  date_basis: string
+  next_module: string | null
+  assignment: { reading: string; hours: number; exercise: string } | null
+  question: string | null
+  listening: { title: string; sources: string[] } | null
+  material: { title: string; sources: string[] } | null
+  due: string[]
+  commonplace_due: string[]
+  sessions_today: Session[]
+  policy: string
+}
+const newEssay = (module: string, question: string): EssayFields => ({
+  module,
+  question,
+  title: '',
+  thesis: '',
+  argument: '',
+  counterargument: '',
+  response: '',
+  conclusion: '',
+  draft: '',
+  sources: '',
+  commonplaces: [],
+})
+export { learningTabs } from './studyTabs'
 
-export function ClassicalLearningTools({ tab, content, companion, summary, state, modules, resources, busy, save, open, changeTab }: {
-  tab: string; content: LearningContent; companion: Companion; summary: LearningSummary; state: LearningState & CompanionState
-  modules: { id: string; title: string; question: string }[]; resources: { id: string; title: string; url: string }[]
-  busy: boolean; save: (update: object) => Promise<boolean>; open: (id: string) => void; changeTab: (tab: string) => void
+export function ClassicalLearningTools({
+  tab,
+  content,
+  companion,
+  summary,
+  state,
+  modules,
+  resources,
+  busy,
+  save,
+  open,
+  changeTab,
+}: {
+  tab: string
+  content: LearningContent
+  companion: Companion
+  summary: LearningSummary
+  state: LearningState & CompanionState
+  modules: { id: string; title: string; question: string }[]
+  resources: { id: string; title: string; url: string }[]
+  busy: boolean
+  save: (update: object) => Promise<boolean>
+  open: (id: string) => void
+  changeTab: (tab: string) => void
 }) {
   const first = summary.next_module || modules[0].id
-  const [sessionModule, setSessionModule] = useState(first), [minutes, setMinutes] = useState('30'), [passage, setPassage] = useState(''), [reflection, setReflection] = useState('')
-  const [promptId, setPromptId] = useState(first + ':question'), [answer, setAnswer] = useState(''), [revealed, setRevealed] = useState(false), [interval, setInterval] = useState(3), [dueOnly, setDueOnly] = useState(false)
-  const [essay, setEssay] = useState<EssayFields>(() => newEssay(first, modules.find(m => m.id === first)!.question)), [essayId, setEssayId] = useState(''), [essayRevision, setEssayRevision] = useState(0), [essayDirty, setEssayDirty] = useState(false)
-  const [message, setMessage] = useState(''), [placeId, setPlaceId] = useState('athens'), [placeSearch, setPlaceSearch] = useState(''), [placeType, setPlaceType] = useState(''), [period, setPeriod] = useState('')
+  const [sessionModule, setSessionModule] = useState(first),
+    [minutes, setMinutes] = useState('30'),
+    [passage, setPassage] = useState(''),
+    [reflection, setReflection] = useState('')
+  const [promptId, setPromptId] = useState(first + ':question'),
+    [answer, setAnswer] = useState(''),
+    [revealed, setRevealed] = useState(false),
+    [interval, setInterval] = useState(3),
+    [dueOnly, setDueOnly] = useState(false)
+  const [essay, setEssay] = useState<EssayFields>(() =>
+      newEssay(first, modules.find((m) => m.id === first)!.question),
+    ),
+    [essayId, setEssayId] = useState(''),
+    [essayRevision, setEssayRevision] = useState(0),
+    [essayDirty, setEssayDirty] = useState(false)
+  const [message, setMessage] = useState(''),
+    [placeId, setPlaceId] = useState('athens'),
+    [placeSearch, setPlaceSearch] = useState(''),
+    [placeType, setPlaceType] = useState(''),
+    [period, setPeriod] = useState('')
   const dirty = !!answer || !!reflection || !!passage || essayDirty
-  useEffect(() => {
-    const unload = (e: BeforeUnloadEvent) => { if (dirty) { e.preventDefault(); e.returnValue = '' } }
-    const click = (e: MouseEvent) => { const a = e.target instanceof Element ? e.target.closest('a[href]') : null; if (dirty && a && a.getAttribute('target') !== '_blank' && !a.hasAttribute('download') && !window.confirm('Leave this page and discard unsaved learning drafts?')) { e.preventDefault(); e.stopPropagation() } }
-    window.addEventListener('beforeunload', unload); document.addEventListener('click', click, true)
-    return () => { window.removeEventListener('beforeunload', unload); document.removeEventListener('click', click, true) }
-  }, [dirty])
-  const prompt = content.prompts.find(p => p.id === promptId)!
+  useUnsavedChanges(dirty)
+  const prompt = content.prompts.find((p) => p.id === promptId)!
   const recall = state.learning?.recall?.[promptId]
   const notes = state.companion?.commonplaces || {}
   const essays = state.learning?.essays || {}
-  const sourceLink = (ids: string[]) => ids.map(id => { const s = companion.sources.find(s => s.id === id); return s && <p key={id}><a className="text-link" href={s.url} target="_blank" rel="noreferrer">{s.title} ↗</a><br /><small className="muted">{s.access} · {s.evidence}</small></p> })
-  async function commit(data: object, text: string) { setMessage(''); const okay = await save({ learning: data }); if (okay) setMessage(text); return okay }
-  function editEssay(change: Partial<EssayFields>) { setEssay(e => ({ ...e, ...change })); setEssayDirty(true) }
+  const sessions = (state.learning?.sessions || []).filter(Boolean)
+  const essayRecovery = useDraftRecovery({
+    scope: 'study-essay-editor',
+    label: essay.title || 'Essay draft',
+    value: { essay, essayId, essayRevision },
+    dirty: essayDirty,
+    baseVersion: String(essayRevision),
+    restore: (value) => {
+      setEssay(value.essay)
+      setEssayId(value.essayId)
+      setEssayRevision(value.essayRevision)
+      setEssayDirty(true)
+    },
+  })
+  const recallRecovery = useDraftRecovery({
+    scope: 'study-recall-editor',
+    label: 'Recall answer',
+    value: { promptId, answer, interval },
+    dirty: !!answer,
+    baseVersion: String(recall?._attempts_count ?? recall?.attempts.length ?? 0),
+    restore: (value) => {
+      setPromptId(value.promptId)
+      setAnswer(value.answer)
+      setInterval(value.interval)
+    },
+  })
+  const sessionRecovery = useDraftRecovery({
+    scope: 'study-session-editor',
+    label: 'Study session reflection',
+    value: { sessionModule, minutes, passage, reflection },
+    dirty: !!passage || !!reflection,
+    restore: (value) => {
+      setSessionModule(value.sessionModule)
+      setMinutes(value.minutes)
+      setPassage(value.passage)
+      setReflection(value.reflection)
+    },
+  })
+  const sourceLink = (ids: string[]) =>
+    ids.map((id) => {
+      const s = companion.sources.find((s) => s.id === id)
+      return (
+        s && (
+          <p key={id}>
+            <a className="text-link" href={s.url} target="_blank" rel="noreferrer">
+              {s.title} ↗
+            </a>
+            <br />
+            <small className="muted">
+              {s.access} · {s.evidence}
+            </small>
+          </p>
+        )
+      )
+    })
+  async function commit(data: object, text: string) {
+    setMessage('')
+    const okay = await save({ learning: data })
+    if (okay) setMessage(text)
+    return okay
+  }
+  function editEssay(change: Partial<EssayFields>) {
+    setEssay((e) => ({ ...e, ...change }))
+    setEssayDirty(true)
+  }
   function loadEssay(id: string) {
     if (essayDirty && !window.confirm('Discard unsaved essay changes?')) return
+    if (essayDirty) essayRecovery.saved()
     const e = essays[id]
-    setEssayId(id); setEssayRevision(e?.revision || 0); setEssayDirty(false)
-    setEssay(e ? Object.fromEntries(Object.keys(newEssay('', '')).map(k => [k, e[k as keyof EssayFields]])) as EssayFields : newEssay(first, modules.find(m => m.id === first)!.question))
+    setEssayId(id)
+    setEssayRevision(e?.revision || 0)
+    setEssayDirty(false)
+    setEssay(
+      e
+        ? (Object.fromEntries(
+            Object.keys(newEssay('', '')).map((k) => [k, e[k as keyof EssayFields]]),
+          ) as EssayFields)
+        : newEssay(first, modules.find((m) => m.id === first)!.question),
+    )
   }
-  const visiblePlaces = content.atlas.places.filter(p => (!placeType || p.kind === placeType) && JSON.stringify(p).toLowerCase().includes(placeSearch.toLowerCase()) && (!period || (p.start !== null && p.end !== null && (period === 'early' ? p.start < -500 : period === 'bce' ? p.start <= -1 && p.end >= -500 : p.start <= 500 && p.end >= 1))))
-  const selectedPlace = visiblePlaces.find(p => p.id === placeId) || visiblePlaces[0]
-  const moduleOptions = modules.map(m => <option key={m.id} value={m.id}>{m.title}</option>)
-  return <section className="classical-learning">
-    {message && <p className="notice" role="status">{message}</p>}
-    {tab === 'Today’s study' && <><h2>A little study, well attended to.</h2><p className="small-text muted">{summary.date} · {summary.date_basis}. Suggested next assignment follows your starting route, then the syllabus. It is not a fixed daily quota.</p><div className="rankings-grid"><article className="panel panel-body"><h3>Next reading</h3>{summary.next_module && summary.assignment ? <><button className="text-link" onClick={() => open(summary.next_module!)}>{modules.find(m => m.id === summary.next_module)?.title} →</button><p>{summary.assignment.reading}</p><p className="small-text muted">{summary.assignment.hours} hours estimates the entire module assignment, not today's session. Choose a manageable passage.</p></> : <p>All current-path assignments are complete. Choose a module below to reread or deepen.</p>}</article><article className="panel panel-body"><h3>Optional listening / lecture</h3>{summary.listening ? sourceLink(summary.listening.sources) : summary.material ? sourceLink(summary.material.sources) : <p>Browse the listening and course guides for a companion.</p>}<p className="small-text muted">Optional and separate from reading. No duration or completion is inferred.</p><button className="text-link" onClick={() => changeTab('Listening guide')}>Listening guide</button> · <button className="text-link" onClick={() => changeTab('Courses & materials')}>Courses & materials</button></article><article className="panel panel-body"><h3>A question to carry</h3><p>{summary.question || 'What changed when you returned to this work?'}</p><p>{summary.due.length} recall prompts due · {summary.commonplace_due.length} passages to revisit</p><button className="button secondary small" onClick={() => changeTab('Recall & review')}>Recall & review</button> <button className="text-link" onClick={() => changeTab('Commonplace book')}>Open commonplace book</button></article></div><form className="panel panel-body" onSubmit={async e => { e.preventDefault(); if (await commit({ action: 'session', module: sessionModule, minutes: Number(minutes), passage, reflection }, 'Study session saved privately. Book and module completion are unchanged.')) { setPassage(''); setReflection('') } }}><h3>Reflect on today's session</h3><div className="form-grid"><label className="field"><span>Module studied</span><select className="select" disabled={busy} value={sessionModule} onChange={e => setSessionModule(e.target.value)}>{moduleOptions}</select></label><label className="field"><span>Actual minutes studied</span><input className="input" type="number" required min={1} max={720} disabled={busy} value={minutes} onChange={e => setMinutes(e.target.value)} /></label></div><label className="field"><span>Passage / activity actually studied</span><input className="input" required maxLength={1000} disabled={busy} value={passage} onChange={e => setPassage(e.target.value)} /></label><label className="field"><span>One reflection, question or difficulty</span><textarea className="input classical-notes" required maxLength={10000} disabled={busy} value={reflection} onChange={e => setReflection(e.target.value)} /></label><button className="button primary" disabled={busy}>Save study session</button></form><h3>Recent study journal</h3>{!(state.learning?.sessions?.length) && <p className="muted">Your first real session will appear here after saving.</p>}{[...(state.learning?.sessions || [])].reverse().slice(0, 10).map(s => <details className="panel panel-body" key={s.id}><summary>{s.saved_at.slice(0, 10)} · {modules.find(m => m.id === s.module)?.title} · {s.minutes} minutes</summary><p>{s.passage}</p><p className="classical-text">{s.reflection}</p></details>)}</>}
-    {tab === 'Recall & review' && <><h2>Close the book. What stayed with you?</h2><p>Try an answer before reopening the text. Compare with passages and notes, then choose when to revisit. This is self-review, not automatic grading or a book-completion score.</p><p className="small-text muted">{summary.policy}</p><label className="checkbox-field"><input type="checkbox" checked={dueOnly} onChange={e => setDueOnly(e.target.checked)} /> Show due prompts only ({summary.due.length})</label><label className="field"><span>Recall prompt</span><select className="select" disabled={busy} value={promptId} onChange={e => { if (answer && !window.confirm('Discard this unsaved recall answer?')) return; setPromptId(e.target.value); setAnswer(''); setRevealed(false) }}>{content.prompts.filter(p => !dueOnly || summary.due.includes(p.id) || p.id === promptId).map(p => <option key={p.id} value={p.id}>{modules.find(m => m.id === p.module)?.title} · {p.id.split(':')[1]}{summary.due.includes(p.id) ? ' · due' : ''}</option>)}</select></label>{dueOnly && !summary.due.length && <p className="notice">Nothing is due. The selected prompt remains available for optional practice.</p>}<form className="panel panel-body" onSubmit={async e => { e.preventDefault(); if (await commit({ action: 'recall', prompt: promptId, answer, interval, expected_attempts: recall?.attempts.length || 0 }, 'Recall attempt saved and revisit scheduled.')) setAnswer('') }}><h3>{prompt.question}</h3><textarea className="input classical-notes" aria-label="Your recalled answer" required disabled={busy} maxLength={10000} value={answer} onChange={e => setAnswer(e.target.value)} /><p><button type="button" className="button secondary" onClick={() => setRevealed(v => !v)}>{revealed ? 'Hide review guidance' : 'Reveal guidance & earlier attempts'}</button></p>{revealed && <div className="notice"><p>{prompt.check}</p><button type="button" className="text-link" onClick={() => open(prompt.module)}>Open module & private notes →</button>{prompt.refs.map(id => { const s = resources.find(r => r.id === id); return s && <p key={id}><a href={s.url} target="_blank" rel="noreferrer">{s.title} ↗</a></p> })}<details><summary>Previous attempts ({recall?.attempts.length || 0})</summary>{[...(recall?.attempts || [])].reverse().map((a, i) => <div key={i}><p className="small-text muted">{a.saved_at.slice(0, 10)} · chose {a.interval} days</p><p className="classical-text">{a.answer}</p></div>)}</details></div>}<label className="field"><span>Revisit after</span><select className="select" disabled={busy} value={interval} onChange={e => setInterval(Number(e.target.value))}><option value={1}>1 day · difficult</option><option value={3}>3 days · uncertain</option><option value={7}>7 days · comfortable</option><option value={14}>14 days · confident</option></select></label><button className="button primary" disabled={busy || !revealed}>Save attempt & schedule review</button><p className="small-text muted">Reveal the guidance before saving. {recall?.due && `Next saved reminder: ${recall.due}.`} Earlier answers remain in your private history and export.</p></form></>}
-    {tab === 'Historical atlas' && <><h2>Places, texts and historical layers.</h2><p>{content.atlas.note}</p><div className="toolbar"><input className="search-input" aria-label="Search atlas" value={placeSearch} onChange={e => setPlaceSearch(e.target.value)} placeholder="Place, author, event or module…" /><select className="filter-select" aria-label="Atlas record type" value={placeType} onChange={e => setPlaceType(e.target.value)}><option value="">Historical & mythic layers</option>{['Historical place', 'Historical event', 'Mythic setting'].map(k => <option key={k}>{k}</option>)}</select><select className="filter-select" aria-label="Atlas dated period" value={period} onChange={e => setPeriod(e.target.value)}><option value="">All periods, including undated</option><option value="early">Dated focus before 500 BCE</option><option value="bce">Dated focus 500–1 BCE</option><option value="ce">Dated focus 1–500 CE</option></select></div><p className="small-text muted">Date filters concern each card's stated focus, not a city's entire lifespan; undated and mythic entries are excluded when a dated period is selected.</p><div className="panel panel-body"><svg className="classical-atlas" viewBox="0 0 720 360" role="img" aria-label="Schematic latitude and longitude plot of selected Mediterranean study locations"><title>Mediterranean study locations · orientation only</title><rect x="40" y="20" width="630" height="290" rx="8" fill="none" stroke="currentColor" />{[10, 15, 20, 25, 30].map(lon => <g key={lon}><line x1={40 + (lon - 8) * 28} x2={40 + (lon - 8) * 28} y1="20" y2="310" stroke="currentColor" opacity=".12"/><text x={40 + (lon - 8) * 28} y="338" textAnchor="middle">{lon}°E</text></g>)}{[36, 38, 40, 42].map(lat => <g key={lat}><line x1="40" x2="670" y1={310 - (lat - 35) * 36} y2={310 - (lat - 35) * 36} stroke="currentColor" opacity=".12" /><text x="6" y={315 - (lat - 35) * 36}>{lat}°N</text></g>)}{visiblePlaces.map(p => { const x = 40 + (p.lon - 8) * 28, y = 310 - (p.lat - 35) * 36; return <g key={p.id} className="atlas-marker" role="button" tabIndex={0} aria-label={`Select ${p.title}, ${p.kind}`} onClick={() => setPlaceId(p.id)} onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setPlaceId(p.id) } }}><title>{p.title} · {p.kind}</title>{p.kind === 'Mythic setting' ? <path d={`M${x} ${y-11} l12 22 h-24 z`} fill="none" stroke="currentColor" strokeWidth="2" /> : <circle cx={x} cy={y} r={selectedPlace?.id === p.id ? 7 : 5} fill="currentColor" />}<text x={x+12} y={y + (p.kind === 'Mythic setting' ? 23 : -12)}>{p.title.split(' · ')[0]}{p.kind === 'Mythic setting' ? ' (myth)' : ''}</text></g> })}</svg><p className="small-text muted">● Historical place/event · △ Mythic setting. This coordinate diagram intentionally omits coastlines and borders. Select a marker or use the accessible list below.</p><div className="classical-links">{visiblePlaces.map(p => <button className="button secondary small" key={p.id} onClick={() => setPlaceId(p.id)}>{p.title}</button>)}</div></div>{selectedPlace ? <article className="panel panel-body"><span className="pill muted">{selectedPlace.kind}</span><h3>{selectedPlace.title}</h3><p>{selectedPlace.country} · {selectedPlace.dates}</p><p>{selectedPlace.body}</p><h4>{selectedPlace.event}</h4><p>{selectedPlace.people}</p><div className="classical-links">{selectedPlace.modules.map(id => <button key={id} className="text-link" onClick={() => open(id)}>{modules.find(m => m.id === id)?.title}</button>)}</div><p className="small-text muted">Approximate orientation: {selectedPlace.lat}°N, {selectedPlace.lon}°E.</p>{selectedPlace.sources.map(id => { const s = content.atlas.sources.find(s => s.id === id)!; return <p key={id}><a className="text-link" href={s.url} target="_blank" rel="noreferrer">{s.title} ↗</a><br /><small>{s.access} · {s.checked}<br />{s.note}</small></p> })}</article> : <Empty title="No matching places">Clear the period or type filter to see undated literary settings.</Empty>}</>}
-    {tab === 'Essay workshop' && <><h2>From a question to an argument.</h2><p>Build your own essay from a question, textual evidence and counterarguments. No generated quotations, automatic grades or invented citations. Saving preserves earlier revisions and evidence snapshots.</p><div className="toolbar"><label className="field"><span>Saved essay</span><select className="select" disabled={busy} value={essayId} onChange={e => loadEssay(e.target.value)}><option value="">New essay</option>{Object.entries(essays).map(([id, e]) => <option key={id} value={id}>{e.title} · revision {e.revision}</option>)}</select></label><button className="button secondary" disabled={busy} onClick={() => loadEssay('')}>Start a new essay</button></div><form className="panel panel-body" onSubmit={async e => { e.preventDefault(); if (await commit({ action: 'essay', ...(essayId ? { id: essayId } : {}), expected_revision: essayRevision, ...essay }, 'Essay saved. Select it above to continue editing or export it.')) { setEssayDirty(false); setEssayId(''); setEssayRevision(0); setEssay(newEssay(first, modules.find(m => m.id === first)!.question)) } }}><div className="form-grid"><label className="field"><span>Title</span><input className="input" required maxLength={500} disabled={busy} value={essay.title} onChange={e => editEssay({ title: e.target.value })} /></label><label className="field"><span>Related module</span><select className="select" disabled={busy} value={essay.module} onChange={e => editEssay({ module: e.target.value })}>{moduleOptions}</select></label></div><label className="field"><span>Question</span><textarea className="input" required maxLength={10000} disabled={busy} value={essay.question} onChange={e => editEssay({ question: e.target.value })} /></label><button type="button" className="text-link" disabled={busy} onClick={() => { if (!essay.question || window.confirm('Replace the current question with this module’s study question?')) editEssay({ question: modules.find(m => m.id === essay.module)!.question }) }}>Use module's study question</button><h3>Evidence from your commonplace book</h3>{Object.keys(notes).length ? <div className="essay-evidence">{Object.entries(notes).map(([id, n]) => <label className="checkbox-field" key={id}><input type="checkbox" disabled={busy || (!essay.commonplaces.includes(id) && essay.commonplaces.length >= 30)} checked={essay.commonplaces.includes(id)} onChange={e => editEssay({ commonplaces: e.target.checked ? [...essay.commonplaces, id] : essay.commonplaces.filter(k => k !== id) })} /><span>{companion.works.find(w => w.id === n.work)?.title} · {n.reference}<br /><small className="muted">{n.translator}</small></span></label>)}</div> : <p className="notice">Save a passage in the Commonplace book first, or record references manually below. <button type="button" className="text-link" onClick={() => changeTab('Commonplace book')}>Open commonplace book</button> — this essay draft stays here.</p>}{essay.commonplaces.map(id => { const n = notes[id]; return n && <details key={id}><summary>{n.reference} · {n.translator}</summary><p className="classical-text">{n.passage}</p><p className="classical-text">{n.reflection}</p></details> })}{(['thesis', 'argument', 'counterargument', 'response', 'conclusion', 'sources', 'draft'] as const).map(k => <label className="field" key={k}><span>{{ thesis: 'Working thesis · what are you arguing?', argument: 'Argument outline · claims and supporting passage references', counterargument: 'Strongest counterargument / competing interpretation', response: 'Your response · concede, qualify or rebut', conclusion: 'Conclusion · what follows, and what remains uncertain?', sources: 'References & bibliography · verify editions, pages and URLs yourself', draft: 'Essay draft · your own prose' }[k]}</span><textarea className={`input ${k === 'draft' ? 'essay-draft' : 'classical-notes'}`} maxLength={k === 'draft' ? 40000 : 10000} disabled={busy} value={essay[k]} onChange={e => editEssay({ [k]: e.target.value })} /></label>)}<p className="small-text muted">Saving snapshots the selected commonplaces as they stand now; earlier essay revisions retain earlier snapshots. No private draft is published.</p><button className="button primary" disabled={busy || !essayDirty}>Save private essay</button></form>{Object.entries(essays).map(([id, e]) => <details className="panel panel-body" key={id}><summary>{e.title} · revision {e.revision}</summary><p>{e.question}</p><p className="classical-text">{e.thesis}</p><div className="toolbar"><button className="button secondary small" disabled={busy} onClick={() => loadEssay(id)}>Continue editing</button><a className="button secondary small" download href={`/api/classical-education/?essay=${encodeURIComponent(id)}`}>Export saved essay .txt</a></div><h4>Saved evidence snapshots</h4>{e.evidence.map(n => <details key={n.id}><summary>{n.reference} · {n.translator}</summary><p className="classical-text">{n.passage}</p><p className="classical-text">{n.reflection}</p></details>)}<details><summary>Earlier revisions ({e.history.length})</summary>{[...e.history].reverse().map(h => <details key={h.revision}><summary>Revision {h.revision} · {h.saved_at.slice(0, 10)}</summary><p>{h.question}</p><p className="classical-text">{h.thesis}</p><p className="classical-text">{h.argument}</p><p className="classical-text">{h.draft}</p><p className="small-text">The full earlier record, including counterarguments and evidence snapshots, is retained in the syllabus export.</p></details>)}</details></details>)}</>}
-  </section>
+  const visiblePlaces = content.atlas.places.filter(
+    (p) =>
+      (!placeType || p.kind === placeType) &&
+      JSON.stringify(p).toLowerCase().includes(placeSearch.toLowerCase()) &&
+      (!period ||
+        (p.start !== null &&
+          p.end !== null &&
+          (period === 'early'
+            ? p.start < -500
+            : period === 'bce'
+              ? p.start <= -1 && p.end >= -500
+              : p.start <= 500 && p.end >= 1))),
+  )
+  const selectedPlace = visiblePlaces.find((p) => p.id === placeId) || visiblePlaces[0]
+  const moduleOptions = modules.map((m) => (
+    <option key={m.id} value={m.id}>
+      {m.title}
+    </option>
+  ))
+  return (
+    <section className="classical-learning">
+      {message && (
+        <p className="notice" role="status">
+          {message}
+        </p>
+      )}
+      {tab === 'Today’s study' && (
+        <>
+          <h2>A little study, well attended to.</h2>
+          <p className="small-text muted">
+            {summary.date} · {summary.date_basis}. Suggested next assignment follows your starting route, then
+            the syllabus. It is not a fixed daily quota.
+          </p>
+          <div className="rankings-grid">
+            <article className="panel panel-body">
+              <h3>Next reading</h3>
+              {summary.next_module && summary.assignment ? (
+                <>
+                  <button className="text-link" onClick={() => open(summary.next_module!)}>
+                    {modules.find((m) => m.id === summary.next_module)?.title} →
+                  </button>
+                  <p>{summary.assignment.reading}</p>
+                  <p className="small-text muted">
+                    {summary.assignment.hours} hours estimates the entire module assignment, not today's
+                    session. Choose a manageable passage.
+                  </p>
+                </>
+              ) : (
+                <p>All current-path assignments are complete. Choose a module below to reread or deepen.</p>
+              )}
+            </article>
+            <article className="panel panel-body">
+              <h3>Optional listening / lecture</h3>
+              {summary.listening ? (
+                sourceLink(summary.listening.sources)
+              ) : summary.material ? (
+                sourceLink(summary.material.sources)
+              ) : (
+                <p>Browse the listening and course guides for a companion.</p>
+              )}
+              <p className="small-text muted">
+                Optional and separate from reading. No duration or completion is inferred.
+              </p>
+              <button className="text-link" onClick={() => changeTab('Listening guide')}>
+                Listening guide
+              </button>{' '}
+              ·{' '}
+              <button className="text-link" onClick={() => changeTab('Courses & materials')}>
+                Courses & materials
+              </button>
+            </article>
+            <article className="panel panel-body">
+              <h3>A question to carry</h3>
+              <p>{summary.question || 'What changed when you returned to this work?'}</p>
+              <p>
+                {summary.due.length} recall prompts due · {summary.commonplace_due.length} passages to revisit
+              </p>
+              <button className="button secondary small" onClick={() => changeTab('Recall & review')}>
+                Recall & review
+              </button>{' '}
+              <button className="text-link" onClick={() => changeTab('Commonplace book')}>
+                Open commonplace book
+              </button>
+            </article>
+          </div>
+          <form
+            className="panel panel-body"
+            onSubmit={async (e) => {
+              e.preventDefault()
+              if (
+                await commit(
+                  { action: 'session', module: sessionModule, minutes: Number(minutes), passage, reflection },
+                  'Study session saved privately. Book and module completion are unchanged.',
+                )
+              ) {
+                sessionRecovery.saved()
+                setPassage('')
+                setReflection('')
+              }
+            }}
+          >
+            <h3>Reflect on today's session</h3>
+            <DraftRecoveryNotice recovery={sessionRecovery} busy={busy} />
+            <div className="form-grid">
+              <label className="field">
+                <span>Module studied</span>
+                <select
+                  className="select"
+                  disabled={busy}
+                  value={sessionModule}
+                  onChange={(e) => setSessionModule(e.target.value)}
+                >
+                  {moduleOptions}
+                </select>
+              </label>
+              <label className="field">
+                <span>Actual minutes studied</span>
+                <input
+                  className="input"
+                  type="number"
+                  required
+                  min={1}
+                  max={720}
+                  disabled={busy}
+                  value={minutes}
+                  onChange={(e) => setMinutes(e.target.value)}
+                />
+              </label>
+            </div>
+            <label className="field">
+              <span>Passage / activity actually studied</span>
+              <input
+                className="input"
+                required
+                maxLength={1000}
+                disabled={busy}
+                value={passage}
+                onChange={(e) => setPassage(e.target.value)}
+              />
+            </label>
+            <label className="field">
+              <span>One reflection, question or difficulty</span>
+              <textarea
+                className="input classical-notes"
+                required
+                maxLength={10000}
+                disabled={busy}
+                value={reflection}
+                onChange={(e) => setReflection(e.target.value)}
+              />
+            </label>
+            <button className="button primary" disabled={busy}>
+              Save study session
+            </button>
+          </form>
+          <h3>Recent study journal</h3>
+          {!sessions.length && (
+            <p className="muted">Your first real session will appear here after saving.</p>
+          )}
+          {[...sessions]
+            .reverse()
+            .slice(0, 10)
+            .map((s) => (
+              <details className="panel panel-body" key={s.id}>
+                <summary>
+                  {s.saved_at.slice(0, 10)} · {modules.find((m) => m.id === s.module)?.title} · {s.minutes}{' '}
+                  minutes
+                </summary>
+                <p>{s.passage}</p>
+                <p className="classical-text">{s.reflection}</p>
+              </details>
+            ))}
+        </>
+      )}
+      {tab === 'Recall & review' && (
+        <>
+          <h2>Close the book. What stayed with you?</h2>
+          <p>
+            Try an answer before reopening the text. Compare with passages and notes, then choose when to
+            revisit. This is self-review, not automatic grading or a book-completion score.
+          </p>
+          <p className="small-text muted">{summary.policy}</p>
+          <label className="checkbox-field">
+            <input type="checkbox" checked={dueOnly} onChange={(e) => setDueOnly(e.target.checked)} /> Show
+            due prompts only ({summary.due.length})
+          </label>
+          <label className="field">
+            <span>Recall prompt</span>
+            <select
+              className="select"
+              disabled={busy}
+              value={promptId}
+              onChange={(e) => {
+                if (answer && !window.confirm('Discard this unsaved recall answer?')) return
+                if (answer) recallRecovery.saved()
+                setPromptId(e.target.value)
+                setAnswer('')
+                setRevealed(false)
+              }}
+            >
+              {content.prompts
+                .filter((p) => !dueOnly || summary.due.includes(p.id) || p.id === promptId)
+                .map((p) => (
+                  <option key={p.id} value={p.id}>
+                    {modules.find((m) => m.id === p.module)?.title} · {p.id.split(':')[1]}
+                    {summary.due.includes(p.id) ? ' · due' : ''}
+                  </option>
+                ))}
+            </select>
+          </label>
+          {dueOnly && !summary.due.length && (
+            <p className="notice">
+              Nothing is due. The selected prompt remains available for optional practice.
+            </p>
+          )}
+          <form
+            className="panel panel-body"
+            onSubmit={async (e) => {
+              e.preventDefault()
+              if (
+                await commit(
+                  {
+                    action: 'recall',
+                    prompt: promptId,
+                    answer,
+                    interval,
+                    expected_attempts: recall?._attempts_count ?? recall?.attempts.length ?? 0,
+                  },
+                  'Recall attempt saved and revisit scheduled.',
+                )
+              ) {
+                recallRecovery.saved()
+                setAnswer('')
+              }
+            }}
+          >
+            <h3>{prompt.question}</h3>
+            <DraftRecoveryNotice
+              recovery={recallRecovery}
+              baseVersion={String(recall?._attempts_count ?? recall?.attempts.length ?? 0)}
+              busy={busy}
+            />
+            <textarea
+              className="input classical-notes"
+              aria-label="Your recalled answer"
+              required
+              disabled={busy}
+              maxLength={10000}
+              value={answer}
+              onChange={(e) => setAnswer(e.target.value)}
+            />
+            <p>
+              <button type="button" className="button secondary" onClick={() => setRevealed((v) => !v)}>
+                {revealed ? 'Hide review guidance' : 'Reveal guidance & earlier attempts'}
+              </button>
+            </p>
+            {revealed && (
+              <div className="notice">
+                <p>{prompt.check}</p>
+                <button type="button" className="text-link" onClick={() => open(prompt.module)}>
+                  Open module & private notes →
+                </button>
+                {prompt.refs.map((id) => {
+                  const s = resources.find((r) => r.id === id)
+                  return (
+                    s && (
+                      <p key={id}>
+                        <a href={s.url} target="_blank" rel="noreferrer">
+                          {s.title} ↗
+                        </a>
+                      </p>
+                    )
+                  )
+                })}
+                <StudyHistory
+                  record={recall}
+                  family="recall"
+                  fallback={recall?.attempts || []}
+                  title="Previous attempts"
+                >
+                  {(rows) =>
+                    rows.map((a, i) => (
+                      <div key={i}>
+                        <p className="small-text muted">
+                          {a.saved_at.slice(0, 10)} · chose {a.interval} days
+                        </p>
+                        <p className="classical-text">{a.answer}</p>
+                      </div>
+                    ))
+                  }
+                </StudyHistory>
+              </div>
+            )}
+            <label className="field">
+              <span>Revisit after</span>
+              <select
+                className="select"
+                disabled={busy}
+                value={interval}
+                onChange={(e) => setInterval(Number(e.target.value))}
+              >
+                <option value={1}>1 day · difficult</option>
+                <option value={3}>3 days · uncertain</option>
+                <option value={7}>7 days · comfortable</option>
+                <option value={14}>14 days · confident</option>
+              </select>
+            </label>
+            <button className="button primary" disabled={busy || !revealed}>
+              Save attempt & schedule review
+            </button>
+            <p className="small-text muted">
+              Reveal the guidance before saving. {recall?.due && `Next saved reminder: ${recall.due}.`}{' '}
+              Earlier answers remain in your private history and export.
+            </p>
+          </form>
+        </>
+      )}
+      {tab === 'Historical atlas' && (
+        <>
+          <h2>Places, texts and historical layers.</h2>
+          <p>{content.atlas.note}</p>
+          <div className="toolbar">
+            <input
+              className="search-input"
+              aria-label="Search atlas"
+              value={placeSearch}
+              onChange={(e) => setPlaceSearch(e.target.value)}
+              placeholder="Place, author, event or module…"
+            />
+            <select
+              className="filter-select"
+              aria-label="Atlas record type"
+              value={placeType}
+              onChange={(e) => setPlaceType(e.target.value)}
+            >
+              <option value="">Historical & mythic layers</option>
+              {['Historical place', 'Historical event', 'Mythic setting'].map((k) => (
+                <option key={k}>{k}</option>
+              ))}
+            </select>
+            <select
+              className="filter-select"
+              aria-label="Atlas dated period"
+              value={period}
+              onChange={(e) => setPeriod(e.target.value)}
+            >
+              <option value="">All periods, including undated</option>
+              <option value="early">Dated focus before 500 BCE</option>
+              <option value="bce">Dated focus 500–1 BCE</option>
+              <option value="ce">Dated focus 1–500 CE</option>
+            </select>
+          </div>
+          <p className="small-text muted">
+            Date filters concern each card's stated focus, not a city's entire lifespan; undated and mythic
+            entries are excluded when a dated period is selected.
+          </p>
+          <div className="panel panel-body">
+            <svg
+              className="classical-atlas"
+              viewBox="0 0 720 360"
+              role="img"
+              aria-label="Schematic latitude and longitude plot of selected Mediterranean study locations"
+            >
+              <title>Mediterranean study locations · orientation only</title>
+              <rect x="40" y="20" width="630" height="290" rx="8" fill="none" stroke="currentColor" />
+              {[10, 15, 20, 25, 30].map((lon) => (
+                <g key={lon}>
+                  <line
+                    x1={40 + (lon - 8) * 28}
+                    x2={40 + (lon - 8) * 28}
+                    y1="20"
+                    y2="310"
+                    stroke="currentColor"
+                    opacity=".12"
+                  />
+                  <text x={40 + (lon - 8) * 28} y="338" textAnchor="middle">
+                    {lon}°E
+                  </text>
+                </g>
+              ))}
+              {[36, 38, 40, 42].map((lat) => (
+                <g key={lat}>
+                  <line
+                    x1="40"
+                    x2="670"
+                    y1={310 - (lat - 35) * 36}
+                    y2={310 - (lat - 35) * 36}
+                    stroke="currentColor"
+                    opacity=".12"
+                  />
+                  <text x="6" y={315 - (lat - 35) * 36}>
+                    {lat}°N
+                  </text>
+                </g>
+              ))}
+              {visiblePlaces.map((p) => {
+                const x = 40 + (p.lon - 8) * 28,
+                  y = 310 - (p.lat - 35) * 36
+                return (
+                  <g
+                    key={p.id}
+                    className="atlas-marker"
+                    role="button"
+                    tabIndex={0}
+                    aria-label={`Select ${p.title}, ${p.kind}`}
+                    onClick={() => setPlaceId(p.id)}
+                    onKeyDown={(e) => {
+                      if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault()
+                        setPlaceId(p.id)
+                      }
+                    }}
+                  >
+                    <title>
+                      {p.title} · {p.kind}
+                    </title>
+                    {p.kind === 'Mythic setting' ? (
+                      <path
+                        d={`M${x} ${y - 11} l12 22 h-24 z`}
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="2"
+                      />
+                    ) : (
+                      <circle cx={x} cy={y} r={selectedPlace?.id === p.id ? 7 : 5} fill="currentColor" />
+                    )}
+                    <text x={x + 12} y={y + (p.kind === 'Mythic setting' ? 23 : -12)}>
+                      {p.title.split(' · ')[0]}
+                      {p.kind === 'Mythic setting' ? ' (myth)' : ''}
+                    </text>
+                  </g>
+                )
+              })}
+            </svg>
+            <p className="small-text muted">
+              ● Historical place/event · △ Mythic setting. This coordinate diagram intentionally omits
+              coastlines and borders. Select a marker or use the accessible list below.
+            </p>
+            <div className="classical-links">
+              {visiblePlaces.map((p) => (
+                <button className="button secondary small" key={p.id} onClick={() => setPlaceId(p.id)}>
+                  {p.title}
+                </button>
+              ))}
+            </div>
+          </div>
+          {selectedPlace ? (
+            <article className="panel panel-body">
+              <span className="pill muted">{selectedPlace.kind}</span>
+              <h3>{selectedPlace.title}</h3>
+              <p>
+                {selectedPlace.country} · {selectedPlace.dates}
+              </p>
+              <p>{selectedPlace.body}</p>
+              <h4>{selectedPlace.event}</h4>
+              <p>{selectedPlace.people}</p>
+              <div className="classical-links">
+                {selectedPlace.modules.map((id) => (
+                  <button key={id} className="text-link" onClick={() => open(id)}>
+                    {modules.find((m) => m.id === id)?.title}
+                  </button>
+                ))}
+              </div>
+              <p className="small-text muted">
+                Approximate orientation: {selectedPlace.lat}°N, {selectedPlace.lon}°E.
+              </p>
+              {selectedPlace.sources.map((id) => {
+                const s = content.atlas.sources.find((s) => s.id === id)!
+                return (
+                  <p key={id}>
+                    <a className="text-link" href={s.url} target="_blank" rel="noreferrer">
+                      {s.title} ↗
+                    </a>
+                    <br />
+                    <small>
+                      {s.access} · {s.checked}
+                      <br />
+                      {s.note}
+                    </small>
+                  </p>
+                )
+              })}
+            </article>
+          ) : (
+            <Empty title="No matching places">
+              Clear the period or type filter to see undated literary settings.
+            </Empty>
+          )}
+        </>
+      )}
+      {tab === 'Essay workshop' && (
+        <>
+          <h2>From a question to an argument.</h2>
+          <p>
+            Build your own essay from a question, textual evidence and counterarguments. No generated
+            quotations, automatic grades or invented citations. Saving preserves earlier revisions and
+            evidence snapshots.
+          </p>
+          <div className="toolbar">
+            <label className="field">
+              <span>Saved essay</span>
+              <select
+                className="select"
+                disabled={busy}
+                value={essayId}
+                onChange={(e) => loadEssay(e.target.value)}
+              >
+                <option value="">New essay</option>
+                {Object.entries(essays).map(([id, e]) => (
+                  <option key={id} value={id}>
+                    {e.title} · revision {e.revision}
+                  </option>
+                ))}
+              </select>
+            </label>
+            <button className="button secondary" disabled={busy} onClick={() => loadEssay('')}>
+              Start a new essay
+            </button>
+          </div>
+          <DraftRecoveryNotice
+            recovery={essayRecovery}
+            baseVersion={String(essays[essayId]?.revision || 0)}
+            busy={busy}
+          />
+          <form
+            className="panel panel-body"
+            onSubmit={async (e) => {
+              e.preventDefault()
+              if (
+                await commit(
+                  {
+                    action: 'essay',
+                    ...(essayId ? { id: essayId } : {}),
+                    expected_revision: essayRevision,
+                    ...essay,
+                  },
+                  'Essay saved. Select it above to continue editing or export it.',
+                )
+              ) {
+                essayRecovery.saved()
+                setEssayDirty(false)
+                setEssayId('')
+                setEssayRevision(0)
+                setEssay(newEssay(first, modules.find((m) => m.id === first)!.question))
+              }
+            }}
+          >
+            <div className="form-grid">
+              <label className="field">
+                <span>Title</span>
+                <input
+                  className="input"
+                  required
+                  maxLength={500}
+                  disabled={busy}
+                  value={essay.title}
+                  onChange={(e) => editEssay({ title: e.target.value })}
+                />
+              </label>
+              <label className="field">
+                <span>Related module</span>
+                <select
+                  className="select"
+                  disabled={busy}
+                  value={essay.module}
+                  onChange={(e) => editEssay({ module: e.target.value })}
+                >
+                  {moduleOptions}
+                </select>
+              </label>
+            </div>
+            <label className="field">
+              <span>Question</span>
+              <textarea
+                className="input"
+                required
+                maxLength={10000}
+                disabled={busy}
+                value={essay.question}
+                onChange={(e) => editEssay({ question: e.target.value })}
+              />
+            </label>
+            <button
+              type="button"
+              className="text-link"
+              disabled={busy}
+              onClick={() => {
+                if (
+                  !essay.question ||
+                  window.confirm('Replace the current question with this module’s study question?')
+                )
+                  editEssay({ question: modules.find((m) => m.id === essay.module)!.question })
+              }}
+            >
+              Use module's study question
+            </button>
+            <h3>Evidence from your commonplace book</h3>
+            {Object.keys(notes).length ? (
+              <div className="essay-evidence">
+                {Object.entries(notes).map(([id, n]) => (
+                  <label className="checkbox-field" key={id}>
+                    <input
+                      type="checkbox"
+                      disabled={busy || (!essay.commonplaces.includes(id) && essay.commonplaces.length >= 30)}
+                      checked={essay.commonplaces.includes(id)}
+                      onChange={(e) =>
+                        editEssay({
+                          commonplaces: e.target.checked
+                            ? [...essay.commonplaces, id]
+                            : essay.commonplaces.filter((k) => k !== id),
+                        })
+                      }
+                    />
+                    <span>
+                      {companion.works.find((w) => w.id === n.work)?.title} · {n.reference}
+                      <br />
+                      <small className="muted">{n.translator}</small>
+                    </span>
+                  </label>
+                ))}
+              </div>
+            ) : (
+              <p className="notice">
+                Save a passage in the Commonplace book first, or record references manually below.{' '}
+                <button type="button" className="text-link" onClick={() => changeTab('Commonplace book')}>
+                  Open commonplace book
+                </button>{' '}
+                — this essay draft stays here.
+              </p>
+            )}
+            {essay.commonplaces.map((id) => {
+              const n = notes[id]
+              return (
+                n && (
+                  <details key={id}>
+                    <summary>
+                      {n.reference} · {n.translator}
+                    </summary>
+                    <p className="classical-text">{n.passage}</p>
+                    <p className="classical-text">{n.reflection}</p>
+                  </details>
+                )
+              )
+            })}
+            {(
+              ['thesis', 'argument', 'counterargument', 'response', 'conclusion', 'sources', 'draft'] as const
+            ).map((k) => (
+              <label className="field" key={k}>
+                <span>
+                  {
+                    {
+                      thesis: 'Working thesis · what are you arguing?',
+                      argument: 'Argument outline · claims and supporting passage references',
+                      counterargument: 'Strongest counterargument / competing interpretation',
+                      response: 'Your response · concede, qualify or rebut',
+                      conclusion: 'Conclusion · what follows, and what remains uncertain?',
+                      sources: 'References & bibliography · verify editions, pages and URLs yourself',
+                      draft: 'Essay draft · your own prose',
+                    }[k]
+                  }
+                </span>
+                <textarea
+                  className={`input ${k === 'draft' ? 'essay-draft' : 'classical-notes'}`}
+                  maxLength={k === 'draft' ? 40000 : 10000}
+                  disabled={busy}
+                  value={essay[k]}
+                  onChange={(e) => editEssay({ [k]: e.target.value })}
+                />
+              </label>
+            ))}
+            <p className="small-text muted">
+              Saving snapshots the selected commonplaces as they stand now; earlier essay revisions retain
+              earlier snapshots. No private draft is published.
+            </p>
+            <button className="button primary" disabled={busy || !essayDirty}>
+              Save private essay
+            </button>
+          </form>
+          {Object.entries(essays).map(([id, e]) => (
+            <details className="panel panel-body" key={id}>
+              <summary>
+                {e.title} · revision {e.revision}
+              </summary>
+              <p>{e.question}</p>
+              <p className="classical-text">{e.thesis}</p>
+              <div className="toolbar">
+                <button className="button secondary small" disabled={busy} onClick={() => loadEssay(id)}>
+                  Continue editing
+                </button>
+                <a
+                  className="button secondary small"
+                  download
+                  href={`/api/classical-education/?essay=${encodeURIComponent(id)}`}
+                >
+                  Export saved essay .txt
+                </a>
+              </div>
+              <h4>Saved evidence snapshots</h4>
+              {e.evidence.map((n) => (
+                <details key={n.id}>
+                  <summary>
+                    {n.reference} · {n.translator}
+                  </summary>
+                  <p className="classical-text">{n.passage}</p>
+                  <p className="classical-text">{n.reflection}</p>
+                </details>
+              ))}
+              <StudyHistory record={e} family="essays" fallback={e.history} title="Earlier revisions">
+                {(rows) =>
+                  rows.map((h) => (
+                    <details key={h.revision}>
+                      <summary>
+                        Revision {h.revision} · {h.saved_at.slice(0, 10)}
+                      </summary>
+                      <p>{h.question}</p>
+                      <p className="classical-text">{h.thesis}</p>
+                      <p className="classical-text">{h.argument}</p>
+                      <p className="classical-text">{h.draft}</p>
+                      <p className="small-text">
+                        The full earlier record, including counterarguments and evidence snapshots, is
+                        retained in the syllabus export.
+                      </p>
+                    </details>
+                  ))
+                }
+              </StudyHistory>
+            </details>
+          ))}
+        </>
+      )}
+    </section>
+  )
 }

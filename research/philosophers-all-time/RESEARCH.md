@@ -1,5 +1,7 @@
 # Philosophers · All time — research state
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 **Latest owner correction:** target approximately 250 entries for this broad ranking. Compile quickly from full published lists and existing evidence, then refine. The tiny published subset below is historical saved state, not adequate all-time coverage. Prioritize broad candidate normalization and population; detailed dossiers and individual media/edition lookups must not block inclusion. See [the corrected workflow](../../docs/RANKING_RESEARCH_WORKFLOW.md).
 
 Updated 13 September 2026, through source batch 32. **99 distinct eligible sources are saved and imported for this target.** The hard minimum of 50 is met; worldwide research is still incomplete. The owner now prioritizes broad, timely compilation and subsequent refinement over additional source accumulation. No threshold proves completion.
@@ -63,3 +65,10 @@ Compile the full broad comparison from published lists now. Refine detailed doss
 ## Preservation
 
 Prior empty ranking revisions and v1 proposals are preserved. Catalog batches, image manifests with credits/hashes, and import receipts are in `research/catalog/`. Existing sources were imported without --update-existing. Private account and preference records were not edited by this research. A new library item appeared during the live session and is retained; the preservation audit records this separately. Source and publication dates remain distinct.
+
+
+## Owner DOCX update — 27 September 2026
+
+Imported the supplied report into the existing database, revision 3: 23 → 297 active entries; 100 → 517 source records (+417, including 388 newly registered sources whose substantive consultation is externally reported). Added 274 active ranking candidates; 0 superseded ranking entries remain archived with history. Every pre-existing source record and its eligibility was preserved. No source-by-source web verification or fresh research was performed.
+
+Full intake notes, limitations, source/candidate ID maps and receipts: `research/_runs/2026-09-27/owner-docx-updates/`. Both editorial views were persisted; personal numerical scores remain unset. Edition/media and the report's stated evidence gaps remain open. Canonical sources.json contains all current database sources; previous ledger retained.

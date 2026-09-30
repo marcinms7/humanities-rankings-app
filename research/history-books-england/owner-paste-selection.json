@@ -10,7 +10,7 @@
   "entries": [
     {
       "key": "history-books-england-001",
-      "item_id": 2481,
+      "item_id": 192,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -26,7 +26,7 @@
     },
     {
       "key": "history-books-england-002",
-      "item_id": 2482,
+      "item_id": 4547,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -90,7 +90,7 @@
     },
     {
       "key": "history-books-england-006",
-      "item_id": 2486,
+      "item_id": 4563,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -106,7 +106,7 @@
     },
     {
       "key": "history-books-england-007",
-      "item_id": 2487,
+      "item_id": 4340,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -362,7 +362,7 @@
     },
     {
       "key": "history-books-england-023",
-      "item_id": 2503,
+      "item_id": 4471,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -410,7 +410,7 @@
     },
     {
       "key": "history-books-england-026",
-      "item_id": 2506,
+      "item_id": 4347,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -538,7 +538,7 @@
     },
     {
       "key": "history-books-england-034",
-      "item_id": 2514,
+      "item_id": 4558,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -986,7 +986,7 @@
     },
     {
       "key": "history-books-england-062",
-      "item_id": 2542,
+      "item_id": 4561,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -1210,7 +1210,7 @@
     },
     {
       "key": "history-books-england-076",
-      "item_id": 2556,
+      "item_id": 4373,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -1226,7 +1226,7 @@
     },
     {
       "key": "history-books-england-077",
-      "item_id": 2557,
+      "item_id": 4374,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -1242,7 +1242,7 @@
     },
     {
       "key": "history-books-england-078",
-      "item_id": 2558,
+      "item_id": 4384,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -1258,7 +1258,7 @@
     },
     {
       "key": "history-books-england-079",
-      "item_id": 2559,
+      "item_id": 4358,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -1274,7 +1274,7 @@
     },
     {
       "key": "history-books-england-080",
-      "item_id": 2560,
+      "item_id": 4360,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -1290,7 +1290,7 @@
     },
     {
       "key": "history-books-england-081",
-      "item_id": 2561,
+      "item_id": 4357,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -1546,7 +1546,7 @@
     },
     {
       "key": "history-books-england-097",
-      "item_id": 2577,
+      "item_id": 243,
       "source_ids": [
         "HISTORY-ENGLAND-001",
         "HISTORY-ENGLAND-002",
@@ -1822,5 +1822,11 @@
         "history-books-england-100"
       ]
     }
+  },
+  "identity_reconciliation": {
+    "date": "2026-09-28",
+    "receipts": "research/_runs/2026-09-28/completion/",
+    "previous_sha256": "8099f8a7fb7645b3b04a01a234053a12f96c147c8e0d5061e89dcc67e24af429",
+    "note": "Title/author fields and canonical IDs reconciled with saved repairs; source order and entry keys retained. Previous import receipts remain historical."
   }
 }

@@ -22,7 +22,7 @@ The owner still wants a picture for every book and author. Fetch covers and cred
 
 Verify work identity and English availability sufficiently for inclusion. Detailed translator comparisons, exact printing pagination and preferred-edition recommendations can follow the broad ranking. Leave unknown facts unset. Do not present an unverified edition as complete, silently substitute an abridgment, or use a different edition's cover as an exact match. Reading plans still need reliable edition page counts; ranking inclusion need not wait for every scheduling field.
 
-The existing first-publication importer requires a cover, portraits and a verified edition and refuses updates to populated rankings. **That is an implementation limitation to address in the next population pass, not an owner requirement to stop or publish tiny subsets.** Adapt the reviewed import workflow while retaining private-data protection, stable IDs, revisions and honest metadata status.
+The publication importer supports reviewed updates to populated rankings through `allow_expansion`, with an expected revision and explicit reasons for removed identities. Reviewed batches can set `allow_pending_metadata` so missing covers, portraits or verified editions do not block supported candidates. Retain honest per-entry metadata status, private-data protection, stable IDs and previous revisions. The earlier first-publication-only limitation is historical.
 
 ## Research depth and stopping
 

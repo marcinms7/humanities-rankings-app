@@ -1,0 +1,15 @@
+{
+  "queued": 40,
+  "processed": 20,
+  "portraits": 0,
+  "states": {
+    "complete": 358,
+    "identity_review": 48,
+    "pending": 301,
+    "retry_exhausted": 25,
+    "retryable": 13,
+    "unresolved": 138
+  },
+  "next_retry": 1790705218.055404,
+  "provider_errors": 20
+}

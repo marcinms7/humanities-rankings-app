@@ -10,7 +10,7 @@
   "entries": [
     {
       "key": "history-books-ancient-world-001",
-      "item_id": 1802,
+      "item_id": 2706,
       "source_ids": [
         "HISTORY-ANCIENT-WORLD-001",
         "HISTORY-ANCIENT-WORLD-002",
@@ -138,7 +138,7 @@
     },
     {
       "key": "history-books-ancient-world-009",
-      "item_id": 1810,
+      "item_id": 1917,
       "source_ids": [
         "HISTORY-ANCIENT-WORLD-001",
         "HISTORY-ANCIENT-WORLD-002",
@@ -154,7 +154,7 @@
     },
     {
       "key": "history-books-ancient-world-010",
-      "item_id": 1811,
+      "item_id": 8796,
       "source_ids": [
         "HISTORY-ANCIENT-WORLD-001",
         "HISTORY-ANCIENT-WORLD-002",
@@ -186,7 +186,7 @@
     },
     {
       "key": "history-books-ancient-world-012",
-      "item_id": 1813,
+      "item_id": 2680,
       "source_ids": [
         "HISTORY-ANCIENT-WORLD-001",
         "HISTORY-ANCIENT-WORLD-002",
@@ -218,7 +218,7 @@
     },
     {
       "key": "history-books-ancient-world-014",
-      "item_id": 1815,
+      "item_id": 1918,
       "source_ids": [
         "HISTORY-ANCIENT-WORLD-001",
         "HISTORY-ANCIENT-WORLD-002",
@@ -858,7 +858,7 @@
     },
     {
       "key": "history-books-ancient-world-054",
-      "item_id": 1855,
+      "item_id": 608,
       "source_ids": [
         "HISTORY-ANCIENT-WORLD-001",
         "HISTORY-ANCIENT-WORLD-002",
@@ -1402,7 +1402,7 @@
     },
     {
       "key": "history-books-ancient-world-088",
-      "item_id": 1889,
+      "item_id": 4518,
       "source_ids": [
         "HISTORY-ANCIENT-WORLD-001",
         "HISTORY-ANCIENT-WORLD-002",
@@ -1822,5 +1822,11 @@
         "history-books-ancient-world-100"
       ]
     }
+  },
+  "identity_reconciliation": {
+    "date": "2026-09-28",
+    "receipts": "research/_runs/2026-09-28/completion/",
+    "previous_sha256": "79f220833bd027597518666d63192440caa1d88ea1cea5a0a48a6a9f87e7f66e",
+    "note": "Title/author fields and canonical IDs reconciled with saved repairs; source order and entry keys retained. Previous import receipts remain historical."
   }
 }

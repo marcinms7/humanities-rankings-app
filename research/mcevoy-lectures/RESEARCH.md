@@ -1,5 +1,7 @@
 # Hardcore Literature · Lecture readings
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Verified and imported 13 September 2026: **152 active entries**, revision **3**.
 
 Named novels, plays, poems, short stories and other readings in Hardcore Literature’s public lecture index and annual archive. Multiple lectures on a work count once. Author-level poetry and short-story selections have no prescribed edition. Paid lecture contents and unnamed reading assignments are not reproduced.

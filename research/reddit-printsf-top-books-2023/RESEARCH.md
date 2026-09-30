@@ -1,5 +1,7 @@
 # r/printSF · Top Book Poll (2023)
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Status: fully imported named published ranking (115 entries), checked 2026-09-13.
 
 Source: https://www.reddit.com/r/printSF/comments/10ywsk7/our_very_own_top_book_poll_results/

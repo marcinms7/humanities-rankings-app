@@ -1,0 +1,27 @@
+.skip-link {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 1000;
+  padding: 12px 18px;
+  background: var(--surface, #f7f5ef);
+  color: var(--text, #26362c);
+  border: 2px solid currentColor;
+  border-radius: 8px;
+  transform: translateY(-160%);
+}
+.skip-link:focus {
+  transform: translateY(0);
+}
+.page h1:focus {
+  outline: none;
+}
+.mobile-nav-close {
+  display: none;
+}
+@media (max-width: 760px) {
+  .mobile-nav-close {
+    display: inline-flex;
+    align-self: flex-end;
+  }
+}

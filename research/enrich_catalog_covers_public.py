@@ -3,28 +3,44 @@
 Order of evidence: Open Library's work search/Covers API, then Internet
 Archive's public advanced-search/image service.  A cover is accepted only when
 the submitted work title and one credited author agree after normalisation.
-This creates a neutral English display edition only where a work has none; it
+This creates an explicitly unverified display edition only where a work has none; it
 does not infer ISBNs, publishers, page counts, translators, or release dates.
 Every outcome is appended before the next item so it can be resumed safely.
 """
 from __future__ import annotations
 
 import argparse
+import io
+import io
 import json
 import os
 import re
 import sys
 import unicodedata
+import threading
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import urlencode, quote
 from urllib.request import Request, urlopen
-
+from PIL import Image
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
+from research.enrichment_queue import Queue, exclusive, rotate, records
 RUN = ROOT / "research" / "_runs" / "2026-09-13" / "catalog-public-cover-fallback"
 CACHE = RUN / "outcomes.jsonl"
 HEADERS = {"User-Agent": "Marginalia catalogue enrichment/1.0 (public bibliographic lookup)"}
+REQUEST_LOCK = threading.Lock()
+LAST_REQUEST = 0.0
+
+
+def throttle():
+    global LAST_REQUEST
+    with REQUEST_LOCK:
+        pause = 0.8 - (time.monotonic() - LAST_REQUEST)
+        if pause > 0:
+            time.sleep(pause)
+        LAST_REQUEST = time.monotonic()
 
 
 def norm(value: str) -> str:
@@ -37,19 +53,30 @@ def words(value: str) -> set[str]:
 
 
 def read_json(url: str, params: dict, timeout: int = 6) -> dict:
+    throttle()
     request = Request(url + "?" + urlencode(params, doseq=True), headers=HEADERS)
     with urlopen(request, timeout=timeout) as response:
         return json.loads(response.read())
 
 
 def read_image(url: str) -> bytes:
+    throttle()
     with urlopen(Request(url, headers=HEADERS), timeout=8) as response:
-        return response.read()
+        data = response.read(10_000_001)
+    if len(data) > 10_000_000:
+        raise ValueError('Cover image exceeds 10 MB.')
+    # A successful HTTP response can still contain an HTML error page. Verify
+    # the downloaded raster before the catalog is marked as covered.
+    with Image.open(io.BytesIO(data)) as picture:
+        if picture.format not in {'JPEG', 'PNG', 'WEBP'}:
+            raise ValueError('Unsupported cover image format.')
+        picture.verify()
+    return data
 
 
 def same_title(expected: str, found: str) -> tuple[bool, int]:
     left, right = norm(expected), norm(found)
-    if left == right:
+    if left and right and left == right:
         return True, 100
     expected_words, found_words = list(words_in_order(expected)), list(words_in_order(found))
     if expected_words and expected_words[0] in {"a", "an", "the"}:
@@ -58,11 +85,6 @@ def same_title(expected: str, found: str) -> tuple[bool, int]:
         found_words = found_words[1:]
     if expected_words and expected_words == found_words:
         return True, 98
-    if len(left) >= 14 and (left in right or right in left):
-        return True, 90
-    a, b = words(expected), words(found)
-    if a and b and len(a & b) / len(a | b) >= .86:
-        return True, 80
     return False, 0
 
 
@@ -75,14 +97,15 @@ def same_author(expected: list[str], found: list[str]) -> bool:
         left_words = words(left)
         for right in found:
             right_words = words(right)
-            if norm(left) == norm(right):
+            if norm(left) and norm(right) and norm(left) == norm(right):
                 return True
-            # Handles initials and common romanisation differences while the
-            # independently required title match prevents surname-only picks.
-            if len(left_words) >= 2 and len(right_words) >= 2 and any(
-                len(token) >= 4 and token in right_words for token in left_words
-            ):
-                return True
+            # Accept matching surnames only when all given-name initials agree.
+            left_parts, right_parts = words_in_order(left), words_in_order(right)
+            if len(left_parts) >= 2 and len(left_parts) == len(right_parts):
+                if left_parts[-1] == right_parts[-1] and all(
+                    a == b or (len(a) == 1 or len(b) == 1) and a[0] == b[0]
+                    for a, b in zip(left_parts[:-1], right_parts[:-1])):
+                    return True
     return False
 
 
@@ -120,13 +143,9 @@ def openlibrary(item: dict) -> tuple[dict | None, str | None]:
         except Exception as error:
             return None, f"openlibrary_title_error: {str(error)[:150]}"
         exact = [doc for doc in broad if norm(item["title"]) == norm(str(doc.get("title", ""))) and doc.get("cover_i")]
-        authored = [doc for doc in exact if same_author(useful_authors, doc.get("author_name", []))]
-        if authored:
-            exact = authored
-        elif len(exact) > 1 and item.get("year"):
-            close = [doc for doc in exact if doc.get("first_publish_year") and abs(int(doc["first_publish_year"]) - int(item["year"])) <= 5]
-            if close:
-                exact = close
+        # Searching by title alone broadens discovery, but a unique title hit
+        # (even with a matching year) does not establish its author's identity.
+        exact = [doc for doc in exact if same_author(useful_authors, doc.get("author_name", []))]
         keys = {doc.get("key") for doc in exact}
         if len(keys) == 1:
             doc = exact[0]
@@ -227,9 +246,8 @@ def completed_ids(openlibrary_only: bool, retry_no_safe: bool, archive_only: boo
     if not CACHE.exists():
         return set()
     latest: dict[int, str] = {}
-    for line in CACHE.read_text().splitlines():
+    for record in records(CACHE):
         try:
-            record = json.loads(line)
             latest[int(record["work_id"])] = str(record.get("status", ""))
         except (ValueError, KeyError, TypeError):
             continue
@@ -253,9 +271,9 @@ def completed_ids(openlibrary_only: bool, retry_no_safe: bool, archive_only: boo
 def completed_except_transient() -> set[int]:
     latest = {}
     if CACHE.exists():
-        for line in CACHE.read_text().splitlines():
+        for row in records(CACHE):
             try:
-                row = json.loads(line); latest[int(row["work_id"])] = str(row.get("status", ""))
+                latest[int(row["work_id"])] = str(row.get("status", ""))
             except (ValueError, KeyError, TypeError):
                 continue
     return {pk for pk, status in latest.items() if "error" not in status}
@@ -278,6 +296,7 @@ def main() -> None:
     parser.add_argument("--title-only-fallback", action="store_true")
     parser.add_argument("--clean-subtitle", action="store_true")
     parser.add_argument("--forms", default="", help="Comma-separated Work forms to include")
+    parser.add_argument('--summary-file', type=Path)
     args = parser.parse_args()
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "backend.config.settings")
     import django
@@ -287,11 +306,10 @@ def main() -> None:
     from backend.core.models import Edition, Person, Work
 
     RUN.mkdir(parents=True, exist_ok=True)
-    complete = completed_ids(args.skip_internet_archive, args.retry_openlibrary_no_safe, args.skip_openlibrary)
-    if args.retry_transient:
-        complete = completed_except_transient()
-    if args.retry:
-        complete = set()
+    queue = Queue('covers', CACHE)
+    rotate(CACHE)
+    policy = json.dumps({key: getattr(args, key) for key in ('skip_internet_archive', 'skip_openlibrary',
+        'clean_series_title', 'clean_subtitle', 'title_only_fallback')}, sort_keys=True) + ':matcher-v3'
     candidates = []
     person_name_titles = {norm(name) for name in Person.objects.values_list("name", flat=True)} if args.title_only_fallback else set()
     catalogue_titles = {norm(title) for title in Work.objects.filter(is_archived=False).values_list("title", flat=True)} if args.title_only_fallback else set()
@@ -305,13 +323,6 @@ def main() -> None:
     if args.ranking_slug:
         queryset = queryset.filter(rankingentry__ranking__slug=args.ranking_slug, rankingentry__is_archived=False).distinct()
     for work in queryset:
-        if args.work_id:
-            complete.discard(work.pk)
-        if args.retry_openlibrary_no_safe:
-            if work.pk not in complete:
-                continue
-        elif work.pk in complete:
-            continue
         if work.default_edition_id and work.default_edition and work.default_edition.cover:
             continue
         author_names = [person.name for person in work.authors.all()]
@@ -322,12 +333,22 @@ def main() -> None:
             lookup_title = re.sub(r"\s*\([^)]*(?:run|cycle|series|stories|albums|adaptation|issues)[^)]*\)\s*", " ", lookup_title, flags=re.I).strip()
         if args.clean_subtitle and ":" in lookup_title:
             lookup_title = lookup_title.split(":", 1)[0].strip()
-        candidates.append({"id": work.pk, "title": lookup_title, "display_title": work.title,
+        item = {"id": work.pk, "title": lookup_title, "display_title": work.title,
                            "authors": author_names, "year": work.original_year,
-                           "title_only_fallback": args.title_only_fallback})
-        if args.limit and len(candidates) >= args.limit:
-            break
-    stats = {"queued": len(candidates), "covered": 0}
+                           "title_only_fallback": args.title_only_fallback}
+        retry = args.retry or bool(args.work_id)
+        if args.retry_openlibrary_no_safe or args.retry_transient:
+            saved = queue.db.execute('SELECT state,result FROM attempts WHERE work_id=?', (work.pk,)).fetchone()
+            retry = bool(saved and ((args.retry_transient and saved[0] in {'retryable', 'retry_exhausted'}) or
+                         (args.retry_openlibrary_no_safe and 'openlibrary_no_safe_cover' in saved[1])))
+            if not retry:
+                continue
+        if queue.due(item, policy, retry=retry):
+            candidates.append(item)
+    candidates.sort(key=queue.priority)
+    if args.limit:
+        candidates = candidates[:args.limit]
+    stats = {"queued": len(candidates), "covered": 0, 'processed': 0}
     with CACHE.open("a") as output, ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = {pool.submit(lookup, item, args.skip_internet_archive, args.skip_openlibrary): item for item in candidates}
         for future in as_completed(futures):
@@ -342,45 +363,59 @@ def main() -> None:
                 stats[reason.split(":", 1)[0]] = stats.get(reason.split(":", 1)[0], 0) + 1
             else:
                 with transaction.atomic():
-                    work = Work.objects.select_for_update().get(pk=item["id"], is_archived=False)
-                    edition = work.default_edition
+                    work = Work.objects.select_for_update().get(pk=item["id"])
+                    if work.is_archived or work.title != item['display_title'] or sorted(work.authors.values_list('name', flat=True)) != sorted(item['authors']):
+                        record['status'] = 'identity_review_changed_during_lookup'
+                        queue.finish(item, record, output)
+                        stats['processed'] += 1
+                        continue
+                    edition = Edition.objects.select_for_update().get(pk=work.default_edition_id) if work.default_edition_id else None
+                    if edition and edition.is_archived:
+                        record['status'] = 'identity_review_archived_edition'
+                        queue.finish(item, record, output)
+                        stats['processed'] += 1
+                        continue
+                    if edition and edition.cover:
+                        record['status'] = 'preserved_existing'
+                        queue.finish(item, record, output)
+                        stats['processed'] += 1
+                        continue
                     created = edition is None
                     if created:
-                        edition = Edition(work=work, language="English")
+                        edition = Edition(work=work, language="Not verified", translation_notes="Display record for a representative work cover; exact edition and language require verification.")
                         edition.full_clean()
                         edition.save()
                         work.default_edition = edition
                     changed = ["default_edition"] if created else []
                     if match["provider"] == "openlibrary":
-                        if not work.original_year and match.get("year"):
-                            work.original_year = match["year"]
-                            changed.append("original_year")
-                        sentence = match.get("sentence")
-                        sentence = sentence[0] if isinstance(sentence, list) and sentence else sentence
-                        if not work.description and isinstance(sentence, str) and sentence:
-                            work.description = sentence
-                            changed.append("description")
-                        edition.source_url = "https://openlibrary.org" + match["source_key"]
+                        edition.cover_source_url = "https://openlibrary.org" + match["source_key"]
                         attribution = f"Open Library Covers API: https://covers.openlibrary.org/b/id/{match['cover_id']}-L.jpg"
                         filename = f"openlibrary-{match['cover_id']}.jpg"
                     else:
-                        edition.source_url = "https://archive.org/details/" + match["identifier"]
+                        edition.cover_source_url = "https://archive.org/details/" + match["identifier"]
                         attribution = f"Internet Archive item image: https://archive.org/services/img/{match['identifier']}"
                         filename = f"internet-archive-{match['identifier']}.jpg"
                     if changed:
                         work.save(update_fields=[*changed, "updated_at"])
                     edition.cover.save(filename, ContentFile(match["image"]), save=False)
                     edition.image_attribution = attribution
-                    edition.save(update_fields=["cover", "source_url", "image_attribution", "updated_at"])
+                    edition.cover_basis = 'representative_work'
+                    edition.save(update_fields=["cover", "cover_source_url", "cover_basis", "image_attribution", "updated_at"])
                 record.update(status="covered", provider=match["provider"], edition_id=edition.pk)
                 record.update({key: value for key, value in match.items() if key not in {"image", "sentence"}})
                 stats["covered"] += 1
-            output.write(json.dumps(record, ensure_ascii=False) + "\n")
-            output.flush()
+            queue.finish(item, record, output)
+            stats['processed'] += 1
             print(f"[{record['work_id']}] {record['status']} — {record['title']}", flush=True)
+    stats['provider_errors'] = queue.batch_errors
+    stats.update(queue.summary())
+    queue.close()
     (RUN / "latest-stats.json").write_text(json.dumps(stats, indent=2) + "\n")
+    if args.summary_file:
+        args.summary_file.write_text(json.dumps(stats, indent=2) + '\n')
     print(json.dumps(stats, indent=2))
 
 
 if __name__ == "__main__":
-    main()
+    with exclusive('covers'):
+        main()

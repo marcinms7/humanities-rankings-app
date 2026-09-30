@@ -1,0 +1,3318 @@
+{
+  "target": "books-ancient",
+  "catalog_id_map": {
+    "proposed:hebrew-bible": 8768,
+    "work:3083": 3083,
+    "work:3085": 3085,
+    "work:3082": 3082,
+    "proposed:new-testament": 3851,
+    "work:3086": 3086,
+    "work:34": 34,
+    "work:3089": 3089,
+    "work:3088": 3088,
+    "work:3087": 3087,
+    "work:377": 377,
+    "work:3095": 3095,
+    "work:368": 368,
+    "proposed:shijing": 6398,
+    "proposed:gilgamesh": 5151,
+    "work:3092": 3092,
+    "work:33": 33,
+    "work:3094": 3094,
+    "work:645": 645,
+    "work:3090": 3090,
+    "work:3091": 3091,
+    "proposed:yijing": 6402,
+    "work:877": 877,
+    "proposed:aristotle-metaphysics": 424,
+    "work:3147": 3147,
+    "work:427": 427,
+    "work:3097": 3097,
+    "work:647": 647,
+    "work:644": 644,
+    "work:444": 444,
+    "work:43": 43,
+    "work:3110": 3110,
+    "work:1520": 1520,
+    "work:3105": 3105,
+    "work:1512": 1512,
+    "proposed:zuozhuan": 8769,
+    "work:3136": 3136,
+    "work:3100": 3100,
+    "work:3137": 3137,
+    "work:3101": 3101,
+    "work:885": 885,
+    "work:425": 425,
+    "work:656": 656,
+    "work:3164": 3164,
+    "work:3096": 3096,
+    "work:3162": 3162,
+    "work:1564": 1564,
+    "work:662": 662,
+    "work:3106": 3106,
+    "work:3107": 3107,
+    "work:3103": 3103,
+    "work:3109": 3109,
+    "work:4303": 4303,
+    "work:900": 900,
+    "work:428": 428,
+    "work:426": 426,
+    "proposed:natyashastra": 8770,
+    "work:3148": 3148,
+    "work:3149": 3149,
+    "work:438": 438,
+    "work:437": 437,
+    "work:435": 435,
+    "work:3099": 3099,
+    "work:3102": 3102,
+    "work:3153": 3153,
+    "work:1235": 1235,
+    "proposed:sinuhe": 6408,
+    "work:451": 451,
+    "work:3108": 3108,
+    "work:2980": 2980,
+    "work:3098": 3098,
+    "proposed:therigatha": 8771,
+    "work:3112": 3112,
+    "work:3116": 3116,
+    "work:1530": 1530,
+    "proposed:tao-yuanming": 8772,
+    "work:3115": 3115,
+    "work:3124": 3124,
+    "work:4304": 4304,
+    "work:3168": 3168,
+    "work:3169": 3169,
+    "work:3166": 3166,
+    "work:3163": 3163,
+    "work:3167": 3167,
+    "work:3151": 3151,
+    "work:3152": 3152,
+    "work:3150": 3150,
+    "work:3125": 3125,
+    "work:3126": 3126,
+    "work:3120": 3120,
+    "work:3121": 3121,
+    "proposed:book-of-dead": 8773,
+    "proposed:enuma-elish": 8774,
+    "work:3178": 3178,
+    "work:3179": 3179,
+    "work:3180": 3180,
+    "work:3175": 3175,
+    "work:3181": 3181,
+    "work:3182": 3182,
+    "proposed:atrahasis": 8775,
+    "proposed:acaranga": 8776,
+    "work:3170": 3170,
+    "work:3173": 3173,
+    "work:3171": 3171,
+    "work:3172": 3172,
+    "work:3184": 3184,
+    "work:3185": 3185,
+    "work:3140": 3140,
+    "work:3139": 3139,
+    "work:3138": 3138,
+    "work:3141": 3141,
+    "work:3142": 3142,
+    "work:3143": 3143,
+    "work:3144": 3144,
+    "work:3145": 3145,
+    "work:3146": 3146,
+    "work:3113": 3113,
+    "work:649": 649,
+    "work:650": 650,
+    "work:3117": 3117,
+    "work:3118": 3118,
+    "work:3119": 3119,
+    "work:2608": 2608,
+    "work:3127": 3127,
+    "work:3122": 3122,
+    "work:3123": 3123,
+    "work:3129": 3129,
+    "work:3128": 3128,
+    "work:2922": 2922,
+    "work:3133": 3133,
+    "work:3134": 3134,
+    "work:3135": 3135,
+    "work:3186": 3186,
+    "work:3130": 3130,
+    "work:3131": 3131,
+    "work:3132": 3132,
+    "work:3154": 3154,
+    "work:3155": 3155,
+    "work:3156": 3156,
+    "work:947": 947,
+    "work:3158": 3158,
+    "work:3159": 3159,
+    "work:3160": 3160,
+    "work:3161": 3161,
+    "proposed:jataka": 8777,
+    "proposed:shanhaijing": 8778,
+    "proposed:eloquent-peasant": 8779,
+    "proposed:egyptian-love-poems": 8780,
+    "proposed:gatha-sattasai": 8781,
+    "work:1579": 1579
+  },
+  "primary_file": "ancient_works_all_time_ranking_update.docx",
+  "entries": [
+    {
+      "key": "proposed:hebrew-bible",
+      "item_id": null,
+      "title": "Hebrew Bible and Tanakh",
+      "authors": "anonymous and collective traditions",
+      "standing": 1,
+      "reading": 103,
+      "rationale": "Narrative, poetry and law have an exceptional global reception; the order recognizes influence without endorsing religious claims.",
+      "reading_rationale": "Read by complete constituent books with introductions; the Tanakh is the boundary, with no separately ranked Job or Genesis.",
+      "source_ids": [],
+      "raw_record": "1. Hebrew Bible and Tanakh — anonymous and collective traditions | Texts mainly 1st millennium BCE; some earlier traditions and later redaction; Bounded scriptural corpus. Ancient Israel and Judah and Jewish diaspora|Narrative, poetry and law have an exceptional global reception; the order recognizes influence without endorsing religious claims.|Read by complete constituent books with introductions; the Tanakh is the boundary, with no separately ranked Job or Genesis. Evidence: gap flagged",
+      "reported_addition": "Hebrew Bible and Tanakh — anonymous and collective traditions | Texts mainly 1st millennium BCE; some earlier traditions and later redaction; Bounded scriptural corpus. Ancient Israel and Judah and Jewish diaspora|Narrative, poetry and law have an exceptional global reception; the order recognizes influence without endorsing religious claims.|Read by complete constituent books with introductions; the Tanakh is the boundary, with no separately ranked Job or Genesis. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N059",
+        "ANC20260927-V19"
+      ]
+    },
+    {
+      "key": "work:3083",
+      "item_id": 3083,
+      "title": "The Iliad",
+      "authors": "Homeric tradition",
+      "standing": 2,
+      "reading": 4,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N034"
+      ],
+      "raw_record": "2. The Iliad — Homeric tradition | ; .  Evidence: ANC20260927-N034",
+      "reported_addition": null,
+      "resolved_item_id": 3083,
+      "catalog_title": "The Iliad",
+      "canonical_source_ids": [
+        "ANC20260927-N034"
+      ]
+    },
+    {
+      "key": "work:3085",
+      "item_id": 3085,
+      "title": "Mahabharata",
+      "authors": "Composite Sanskrit tradition",
+      "standing": 3,
+      "reading": 20,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N102"
+      ],
+      "raw_record": "3. Mahabharata — Composite Sanskrit tradition | ; .  Evidence: ANC20260927-N102",
+      "reported_addition": null,
+      "resolved_item_id": 3085,
+      "catalog_title": "Mahabharata",
+      "canonical_source_ids": [
+        "ANC20260927-N102",
+        "ANC20260927-V08"
+      ]
+    },
+    {
+      "key": "work:3082",
+      "item_id": 3082,
+      "title": "The Odyssey",
+      "authors": "Homeric tradition",
+      "standing": 4,
+      "reading": 1,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N046"
+      ],
+      "raw_record": "4. The Odyssey — Homeric tradition | ; .  Evidence: ANC20260927-N046",
+      "reported_addition": null,
+      "resolved_item_id": 3082,
+      "catalog_title": "The Odyssey",
+      "canonical_source_ids": [
+        "ANC20260927-N046"
+      ]
+    },
+    {
+      "key": "proposed:new-testament",
+      "item_id": null,
+      "title": "New Testament",
+      "authors": "anonymous and collective early Christian traditions",
+      "standing": 5,
+      "reading": 104,
+      "rationale": "Its narratives, letters and apocalyptic writing generated extraordinary literary and cultural influence.",
+      "reading_rationale": "The varied forms invite a guided route; later canonical boundaries should not be confused with a single ancient act of authorship.",
+      "source_ids": [],
+      "raw_record": "5. New Testament — anonymous and collective early Christian traditions | c 50–120 CE texts; canon formed later; Twenty-seven-book corpus. Early Christian eastern Mediterranean|Its narratives, letters and apocalyptic writing generated extraordinary literary and cultural influence.|The varied forms invite a guided route; later canonical boundaries should not be confused with a single ancient act of authorship. Evidence: gap flagged",
+      "reported_addition": "New Testament — anonymous and collective early Christian traditions | c 50–120 CE texts; canon formed later; Twenty-seven-book corpus. Early Christian eastern Mediterranean|Its narratives, letters and apocalyptic writing generated extraordinary literary and cultural influence.|The varied forms invite a guided route; later canonical boundaries should not be confused with a single ancient act of authorship. Evidence: gap flagged.",
+      "resolved_item_id": 3851,
+      "catalog_title": "The New Testament",
+      "canonical_source_ids": [
+        "ANC20260927-N060",
+        "ANC20260927-V20"
+      ]
+    },
+    {
+      "key": "work:3086",
+      "item_id": 3086,
+      "title": "Republic",
+      "authors": "Plato",
+      "standing": 6,
+      "reading": 54,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N009"
+      ],
+      "raw_record": "6. Republic — Plato | ; .  Evidence: ANC20260927-N009",
+      "reported_addition": null,
+      "resolved_item_id": 3086,
+      "catalog_title": "Republic",
+      "canonical_source_ids": [
+        "ANC20260927-N009",
+        "ANC20260927-V17"
+      ]
+    },
+    {
+      "key": "work:34",
+      "item_id": 34,
+      "title": "Analects",
+      "authors": "Confucius",
+      "standing": 7,
+      "reading": 25,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N035",
+        "ANCIENT-205"
+      ],
+      "raw_record": "7. Analects — Confucius | 23 and 13 BCE; Four books of lyric poems. Roman Latin|Formal control, shifting public and private voices and extensive reception justify high standing.|Read slowly in a translation that preserves tonal variety; occasional poems require contextual notes. Evidence: ANC20260927-N035, ANCIENT-205",
+      "reported_addition": null,
+      "resolved_item_id": 34,
+      "catalog_title": "Analects",
+      "canonical_source_ids": [
+        "ANC20260927-N035",
+        "ANCIENT-205"
+      ]
+    },
+    {
+      "key": "work:3089",
+      "item_id": 3089,
+      "title": "Upanishads",
+      "authors": "Composite Vedic tradition",
+      "standing": 8,
+      "reading": 102,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N053"
+      ],
+      "raw_record": "8. Upanishads — Composite Vedic tradition | ; .  Evidence: ANC20260927-N053",
+      "reported_addition": null,
+      "resolved_item_id": 3089,
+      "catalog_title": "Upanishads",
+      "canonical_source_ids": [
+        "ANC20260927-N053"
+      ]
+    },
+    {
+      "key": "work:3088",
+      "item_id": 3088,
+      "title": "Daodejing",
+      "authors": "Laozi tradition",
+      "standing": 9,
+      "reading": 24,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N035",
+        "ANCIENT-204"
+      ],
+      "raw_record": "9. Daodejing — Laozi tradition | ; .  Evidence: ANC20260927-N035, ANCIENT-204",
+      "reported_addition": null,
+      "resolved_item_id": 3088,
+      "catalog_title": "Daodejing",
+      "canonical_source_ids": [
+        "ANC20260927-N035",
+        "ANCIENT-204"
+      ]
+    },
+    {
+      "key": "work:3087",
+      "item_id": 3087,
+      "title": "Ramayana",
+      "authors": "Valmiki tradition",
+      "standing": 10,
+      "reading": 19,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N040"
+      ],
+      "raw_record": "10. Ramayana — Valmiki tradition | ; .  Evidence: ANC20260927-N040",
+      "reported_addition": null,
+      "resolved_item_id": 3087,
+      "catalog_title": "Ramayana",
+      "canonical_source_ids": [
+        "ANC20260927-N040"
+      ]
+    },
+    {
+      "key": "work:377",
+      "item_id": 377,
+      "title": "Aeneid",
+      "authors": "Virgil",
+      "standing": 11,
+      "reading": 17,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N049"
+      ],
+      "raw_record": "11. Aeneid — Virgil | ; .  Evidence: ANC20260927-N049",
+      "reported_addition": null,
+      "resolved_item_id": 377,
+      "catalog_title": "Aeneid",
+      "canonical_source_ids": [
+        "ANC20260927-N049",
+        "ANC20260927-V05"
+      ]
+    },
+    {
+      "key": "work:3095",
+      "item_id": 3095,
+      "title": "Rigveda",
+      "authors": "Composite Vedic poets",
+      "standing": 12,
+      "reading": 125,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N045"
+      ],
+      "raw_record": "12. Rigveda — Composite Vedic poets | ; .  Evidence: ANC20260927-N045",
+      "reported_addition": null,
+      "resolved_item_id": 3095,
+      "catalog_title": "Rigveda",
+      "canonical_source_ids": [
+        "ANC20260927-N045",
+        "ANC20260927-V08"
+      ]
+    },
+    {
+      "key": "work:368",
+      "item_id": 368,
+      "title": "Metamorphoses",
+      "authors": "Ovid",
+      "standing": 13,
+      "reading": 3,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N101"
+      ],
+      "raw_record": "13. Metamorphoses — Ovid | ; .  Evidence: ANC20260927-N101",
+      "reported_addition": null,
+      "resolved_item_id": 368,
+      "catalog_title": "Metamorphoses",
+      "canonical_source_ids": [
+        "ANC20260927-N101"
+      ]
+    },
+    {
+      "key": "proposed:shijing",
+      "item_id": null,
+      "title": "Classic of Poetry Shijing",
+      "authors": "anonymous early Chinese tradition",
+      "standing": 14,
+      "reading": 41,
+      "rationale": "Ritual, political and intimate poems became foundational to Chinese literary education.",
+      "reading_rationale": "A strong poetry entry with historical notes; anthology transmission matters more than a legendary single compiler.",
+      "source_ids": [],
+      "raw_record": "14. Classic of Poetry Shijing — anonymous early Chinese tradition | Poems c 11th–7th centuries BCE; compilation and redaction later; Poetry anthology. Early Chinese|Ritual, political and intimate poems became foundational to Chinese literary education.|A strong poetry entry with historical notes; anthology transmission matters more than a legendary single compiler. Evidence: gap flagged",
+      "reported_addition": "Classic of Poetry Shijing — anonymous early Chinese tradition | Poems c 11th–7th centuries BCE; compilation and redaction later; Poetry anthology. Early Chinese|Ritual, political and intimate poems became foundational to Chinese literary education.|A strong poetry entry with historical notes; anthology transmission matters more than a legendary single compiler. Evidence: gap flagged.",
+      "resolved_item_id": 6398,
+      "catalog_title": "Classic of Poetry (Shijing / Book of Songs)",
+      "canonical_source_ids": [
+        "ANC20260927-N022"
+      ]
+    },
+    {
+      "key": "proposed:gilgamesh",
+      "item_id": null,
+      "title": "Epic of Gilgamesh",
+      "authors": "anonymous Akkadian tradition",
+      "standing": 15,
+      "reading": 2,
+      "rationale": "Its exploration of friendship, kingship and mortality combines early literary achievement with powerful modern reception.",
+      "reading_rationale": "A relatively compact epic with immense emotional reach; choose a translation that marks gaps and distinguishes recensions.",
+      "source_ids": [],
+      "raw_record": "15. Epic of Gilgamesh — anonymous Akkadian tradition | Early 2nd millennium BCE versions; standard Babylonian form later; Epic poem. Akkadian Mesopotamia|Its exploration of friendship, kingship and mortality combines early literary achievement with powerful modern reception.|A relatively compact epic with immense emotional reach; choose a translation that marks gaps and distinguishes recensions. Evidence: gap flagged",
+      "reported_addition": "Epic of Gilgamesh — anonymous Akkadian tradition | Early 2nd millennium BCE versions; standard Babylonian form later; Epic poem. Akkadian Mesopotamia|Its exploration of friendship, kingship and mortality combines early literary achievement with powerful modern reception.|A relatively compact epic with immense emotional reach; choose a translation that marks gaps and distinguishes recensions. Evidence: gap flagged.",
+      "resolved_item_id": 5151,
+      "catalog_title": "The Epic of Gilgamesh",
+      "canonical_source_ids": [
+        "ANC20260927-N003",
+        "ANC20260927-N021"
+      ]
+    },
+    {
+      "key": "work:3092",
+      "item_id": 3092,
+      "title": "Zhuangzi",
+      "authors": "Zhuang Zhou tradition",
+      "standing": 16,
+      "reading": 15,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N035",
+        "ANC20260927-N036",
+        "ANCIENT-203"
+      ],
+      "raw_record": "16. Zhuangzi — Zhuang Zhou tradition | ; .  Evidence: ANC20260927-N035, ANC20260927-N036, ANCIENT-203",
+      "reported_addition": null,
+      "resolved_item_id": 3092,
+      "catalog_title": "Zhuangzi",
+      "canonical_source_ids": [
+        "ANC20260927-N035",
+        "ANC20260927-N036",
+        "ANCIENT-203"
+      ]
+    },
+    {
+      "key": "work:33",
+      "item_id": 33,
+      "title": "Nicomachean Ethics",
+      "authors": "Aristotle",
+      "standing": 17,
+      "reading": 108,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N004"
+      ],
+      "raw_record": "17. Nicomachean Ethics — Aristotle | c 4th–5th centuries CE; author chronology debated; Drama. Classical Sanskrit South Asia|Its union of emotional delicacy, memory and theatrical design sustains exceptional dramatic standing.|A relatively approachable play; poetry, stage conventions and the recognition scene reward an annotated translation. Evidence: ANC20260927-N004",
+      "reported_addition": null,
+      "resolved_item_id": 33,
+      "catalog_title": "Nicomachean Ethics",
+      "canonical_source_ids": [
+        "ANC20260927-N004",
+        "ANC20260927-V16"
+      ]
+    },
+    {
+      "key": "work:3094",
+      "item_id": 3094,
+      "title": "Oresteia",
+      "authors": "Aeschylus",
+      "standing": 18,
+      "reading": 18,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N027"
+      ],
+      "raw_record": "18. Oresteia — Aeschylus | ; .  Evidence: ANC20260927-N027",
+      "reported_addition": null,
+      "resolved_item_id": 3094,
+      "catalog_title": "Oresteia",
+      "canonical_source_ids": [
+        "ANC20260927-N027",
+        "ANC20260927-V04"
+      ]
+    },
+    {
+      "key": "work:645",
+      "item_id": 645,
+      "title": "Oedipus the King",
+      "authors": "Sophocles",
+      "standing": 19,
+      "reading": 7,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N111"
+      ],
+      "raw_record": "19. Oedipus the King — Sophocles | ; .  Evidence: ANC20260927-N111",
+      "reported_addition": null,
+      "resolved_item_id": 645,
+      "catalog_title": "Oedipus the King",
+      "canonical_source_ids": [
+        "ANC20260927-N111",
+        "ANC20260927-V01"
+      ]
+    },
+    {
+      "key": "work:3090",
+      "item_id": 3090,
+      "title": "Histories",
+      "authors": "Herodotus",
+      "standing": 20,
+      "reading": 14,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N028",
+        "ANC20260927-N034"
+      ],
+      "raw_record": "20. Histories — Herodotus | ; .  Evidence: ANC20260927-N028, ANC20260927-N034",
+      "reported_addition": null,
+      "resolved_item_id": 3090,
+      "catalog_title": "Histories",
+      "canonical_source_ids": [
+        "ANC20260927-N028",
+        "ANC20260927-N034"
+      ]
+    },
+    {
+      "key": "work:3091",
+      "item_id": 3091,
+      "title": "History of the Peloponnesian War",
+      "authors": "Thucydides",
+      "standing": 21,
+      "reading": 52,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N048"
+      ],
+      "raw_record": "21. History of the Peloponnesian War — Thucydides | ; .  Evidence: ANC20260927-N048",
+      "reported_addition": null,
+      "resolved_item_id": 3091,
+      "catalog_title": "History of the Peloponnesian War",
+      "canonical_source_ids": [
+        "ANC20260927-N048"
+      ]
+    },
+    {
+      "key": "proposed:yijing",
+      "item_id": null,
+      "title": "Classic of Changes Yijing",
+      "authors": "anonymous early Chinese tradition",
+      "standing": 22,
+      "reading": 145,
+      "rationale": "Its symbolic and commentarial traditions had exceptional intellectual influence beyond the short core text.",
+      "reading_rationale": "Read the ancient text with its strata identified; interpretive openness is rewarding but makes unsupported universal claims tempting.",
+      "source_ids": [],
+      "raw_record": "22. Classic of Changes Yijing — anonymous early Chinese tradition | Core c early 1st millennium BCE; commentarial layers later; Divination and philosophical corpus. Early Chinese|Its symbolic and commentarial traditions had exceptional intellectual influence beyond the short core text.|Read the ancient text with its strata identified; interpretive openness is rewarding but makes unsupported universal claims tempting. Evidence: gap flagged",
+      "reported_addition": "Classic of Changes Yijing — anonymous early Chinese tradition | Core c early 1st millennium BCE; commentarial layers later; Divination and philosophical corpus. Early Chinese|Its symbolic and commentarial traditions had exceptional intellectual influence beyond the short core text.|Read the ancient text with its strata identified; interpretive openness is rewarding but makes unsupported universal claims tempting. Evidence: gap flagged.",
+      "resolved_item_id": 6402,
+      "catalog_title": "Book of Changes (Yijing / I Ching)",
+      "canonical_source_ids": [
+        "ANC20260927-N067"
+      ]
+    },
+    {
+      "key": "work:877",
+      "item_id": 877,
+      "title": "Shiji",
+      "authors": "Sima Qian",
+      "standing": 23,
+      "reading": 68,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N089"
+      ],
+      "raw_record": "23. Shiji — Sima Qian | ; .  Evidence: ANC20260927-N089",
+      "reported_addition": null,
+      "resolved_item_id": 877,
+      "catalog_title": "Shiji",
+      "canonical_source_ids": [
+        "ANC20260927-N089"
+      ]
+    },
+    {
+      "key": "proposed:aristotle-metaphysics",
+      "item_id": null,
+      "title": "Metaphysics",
+      "authors": "Aristotle and later editors",
+      "standing": 24,
+      "reading": 144,
+      "rationale": "Its inquiry into being, substance and explanation is a major omission from the supplied Aristotelian group.",
+      "reading_rationale": "Requires a guided route; the received books are not a smooth introductory narrative.",
+      "source_ids": [],
+      "raw_record": "24. Metaphysics — Aristotle and later editors | 4th century BCE; editorial arrangement later; Philosophical treatise collection. Classical Greek|Its inquiry into being, substance and explanation is a major omission from the supplied Aristotelian group.|Requires a guided route; the received books are not a smooth introductory narrative. Evidence: gap flagged",
+      "reported_addition": "Metaphysics — Aristotle and later editors | 4th century BCE; editorial arrangement later; Philosophical treatise collection. Classical Greek|Its inquiry into being, substance and explanation is a major omission from the supplied Aristotelian group.|Requires a guided route; the received books are not a smooth introductory narrative. Evidence: gap flagged.",
+      "resolved_item_id": 424,
+      "catalog_title": "Metaphysics",
+      "canonical_source_ids": [
+        "ANC20260927-N066",
+        "ANC20260927-V16"
+      ]
+    },
+    {
+      "key": "work:3147",
+      "item_id": 3147,
+      "title": "Elements",
+      "authors": "Euclid",
+      "standing": 25,
+      "reading": 149,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N054"
+      ],
+      "raw_record": "25. Elements — Euclid | ; .  Evidence: ANC20260927-N054",
+      "reported_addition": null,
+      "resolved_item_id": 3147,
+      "catalog_title": "Elements",
+      "canonical_source_ids": [
+        "ANC20260927-N054"
+      ]
+    },
+    {
+      "key": "work:427",
+      "item_id": 427,
+      "title": "Poetics",
+      "authors": "Aristotle",
+      "standing": 26,
+      "reading": 96,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N100"
+      ],
+      "raw_record": "26. Poetics — Aristotle | ; .  Evidence: ANC20260927-N100",
+      "reported_addition": null,
+      "resolved_item_id": 427,
+      "catalog_title": "Poetics",
+      "canonical_source_ids": [
+        "ANC20260927-N100",
+        "ANC20260927-V16"
+      ]
+    },
+    {
+      "key": "work:3097",
+      "item_id": 3097,
+      "title": "Dhammapada",
+      "authors": "Buddhist canonical tradition",
+      "standing": 27,
+      "reading": 26,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N056"
+      ],
+      "raw_record": "27. Dhammapada — Buddhist canonical tradition | ; .  Evidence: ANC20260927-N056",
+      "reported_addition": null,
+      "resolved_item_id": 3097,
+      "catalog_title": "Dhammapada",
+      "canonical_source_ids": [
+        "ANC20260927-N056"
+      ]
+    },
+    {
+      "key": "work:647",
+      "item_id": 647,
+      "title": "Antigone",
+      "authors": "Sophocles",
+      "standing": 28,
+      "reading": 5,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N068"
+      ],
+      "raw_record": "28. Antigone — Sophocles | ; .  Evidence: ANC20260927-N068",
+      "reported_addition": null,
+      "resolved_item_id": 647,
+      "catalog_title": "Antigone",
+      "canonical_source_ids": [
+        "ANC20260927-N068",
+        "ANC20260927-V01"
+      ]
+    },
+    {
+      "key": "work:644",
+      "item_id": 644,
+      "title": "Bacchae",
+      "authors": "Euripides",
+      "standing": 29,
+      "reading": 8,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N069"
+      ],
+      "raw_record": "29. Bacchae — Euripides | ; .  Evidence: ANC20260927-N069",
+      "reported_addition": null,
+      "resolved_item_id": 644,
+      "catalog_title": "Bacchae",
+      "canonical_source_ids": [
+        "ANC20260927-N069"
+      ]
+    },
+    {
+      "key": "work:444",
+      "item_id": 444,
+      "title": "On the Nature of Things",
+      "authors": "Lucretius",
+      "standing": 30,
+      "reading": 53,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N047"
+      ],
+      "raw_record": "30. On the Nature of Things — Lucretius | ; .  Evidence: ANC20260927-N047",
+      "reported_addition": null,
+      "resolved_item_id": 444,
+      "catalog_title": "On the Nature of Things",
+      "canonical_source_ids": [
+        "ANC20260927-N047"
+      ]
+    },
+    {
+      "key": "work:43",
+      "item_id": 43,
+      "title": "Mengzi",
+      "authors": "Mencius",
+      "standing": 31,
+      "reading": 39,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N010",
+        "ANC20260927-N035",
+        "ANC20260927-N036"
+      ],
+      "raw_record": "31. Mengzi — Mencius | Early 4th century BCE; Literary defense speech. Classical Greek|Plato's portrayal of Socratic examination became an influential ethical exemplar.|A concise entry into philosophy; this is Plato's crafted account, not a verbatim courtroom transcript. Evidence: ANC20260927-N010, ANC20260927-N035, ANC20260927-N036",
+      "reported_addition": null,
+      "resolved_item_id": 43,
+      "catalog_title": "Mengzi",
+      "canonical_source_ids": [
+        "ANC20260927-N010",
+        "ANC20260927-N035",
+        "ANC20260927-N036"
+      ]
+    },
+    {
+      "key": "work:3110",
+      "item_id": 3110,
+      "title": "Lotus Sutra",
+      "authors": "Mahayana Buddhist tradition",
+      "standing": 32,
+      "reading": 67,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N061",
+        "ANC20260927-N072"
+      ],
+      "raw_record": "32. Lotus Sutra — Mahayana Buddhist tradition | ; .  Evidence: ANC20260927-N061, ANC20260927-N072",
+      "reported_addition": null,
+      "resolved_item_id": 3110,
+      "catalog_title": "Lotus Sutra",
+      "canonical_source_ids": [
+        "ANC20260927-N061",
+        "ANC20260927-N072"
+      ]
+    },
+    {
+      "key": "work:1520",
+      "item_id": 1520,
+      "title": "Shakuntala",
+      "authors": "Kalidasa",
+      "standing": 33,
+      "reading": 13,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N080"
+      ],
+      "raw_record": "33. Shakuntala — Kalidasa | ; .  Evidence: ANC20260927-N080",
+      "reported_addition": null,
+      "resolved_item_id": 1520,
+      "catalog_title": "Shakuntala",
+      "canonical_source_ids": [
+        "ANC20260927-N080"
+      ]
+    },
+    {
+      "key": "work:3105",
+      "item_id": 3105,
+      "title": "Poems and Fragments",
+      "authors": "Sappho",
+      "standing": 34,
+      "reading": 10,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N030"
+      ],
+      "raw_record": "34. Poems and Fragments — Sappho | ; .  Evidence: ANC20260927-N030",
+      "reported_addition": null,
+      "resolved_item_id": 3105,
+      "catalog_title": "Poems and Fragments",
+      "canonical_source_ids": [
+        "ANC20260927-N030"
+      ]
+    },
+    {
+      "key": "work:1512",
+      "item_id": 1512,
+      "title": "Tirukkural",
+      "authors": "Tiruvalluvar",
+      "standing": 35,
+      "reading": 16,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N037"
+      ],
+      "raw_record": "35. Tirukkural — Tiruvalluvar | ; .  Evidence: ANC20260927-N037",
+      "reported_addition": null,
+      "resolved_item_id": 1512,
+      "catalog_title": "Tirukkural",
+      "canonical_source_ids": [
+        "ANC20260927-N037"
+      ]
+    },
+    {
+      "key": "proposed:zuozhuan",
+      "item_id": null,
+      "title": "Zuo Tradition Zuozhuan",
+      "authors": "anonymous early Chinese tradition",
+      "standing": 36,
+      "reading": 69,
+      "rationale": "Extended narrative, speeches and political judgement fill a major omission beside Shiji.",
+      "reading_rationale": "Strong episodes reward sustained reading, though names, chronology and scale require a well-designed edition.",
+      "source_ids": [],
+      "raw_record": "36. Zuo Tradition Zuozhuan — anonymous early Chinese tradition | Compiled c 4th century BCE; narratives of earlier centuries; Historical narrative and commentary. Early Chinese|Extended narrative, speeches and political judgement fill a major omission beside Shiji.|Strong episodes reward sustained reading, though names, chronology and scale require a well-designed edition. Evidence: gap flagged",
+      "reported_addition": "Zuo Tradition Zuozhuan — anonymous early Chinese tradition | Compiled c 4th century BCE; narratives of earlier centuries; Historical narrative and commentary. Early Chinese|Extended narrative, speeches and political judgement fill a major omission beside Shiji.|Strong episodes reward sustained reading, though names, chronology and scale require a well-designed edition. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N018"
+      ]
+    },
+    {
+      "key": "work:3136",
+      "item_id": 3136,
+      "title": "Enneads",
+      "authors": "Plotinus",
+      "standing": 37,
+      "reading": 143,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N014"
+      ],
+      "raw_record": "37. Enneads — Plotinus | ; .  Evidence: ANC20260927-N014",
+      "reported_addition": null,
+      "resolved_item_id": 3136,
+      "catalog_title": "Enneads",
+      "canonical_source_ids": [
+        "ANC20260927-N014",
+        "ANC20260927-V09"
+      ]
+    },
+    {
+      "key": "work:3100",
+      "item_id": 3100,
+      "title": "Confessions",
+      "authors": "Augustine",
+      "standing": 38,
+      "reading": 38,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N092"
+      ],
+      "raw_record": "38. Confessions — Augustine | ; .  Evidence: ANC20260927-N092",
+      "reported_addition": null,
+      "resolved_item_id": 3100,
+      "catalog_title": "Confessions",
+      "canonical_source_ids": [
+        "ANC20260927-N092"
+      ]
+    },
+    {
+      "key": "work:3137",
+      "item_id": 3137,
+      "title": "The City of God",
+      "authors": "Augustine",
+      "standing": 39,
+      "reading": 135,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N039"
+      ],
+      "raw_record": "39. The City of God — Augustine | ; .  Evidence: ANC20260927-N039",
+      "reported_addition": null,
+      "resolved_item_id": 3137,
+      "catalog_title": "The City of God",
+      "canonical_source_ids": [
+        "ANC20260927-N039"
+      ]
+    },
+    {
+      "key": "work:3101",
+      "item_id": 3101,
+      "title": "Gathas",
+      "authors": "Zarathustra",
+      "standing": 40,
+      "reading": 124,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-125",
+        "ANCIENT-126"
+      ],
+      "raw_record": "40. Gathas — Zarathustra | ; .  Evidence: ANCIENT-125, ANCIENT-126",
+      "reported_addition": null,
+      "resolved_item_id": 3101,
+      "catalog_title": "Gathas",
+      "canonical_source_ids": [
+        "ANCIENT-125",
+        "ANCIENT-126"
+      ]
+    },
+    {
+      "key": "work:885",
+      "item_id": 885,
+      "title": "Songs of Chu",
+      "authors": "Qu Yuan",
+      "standing": 41,
+      "reading": 70,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N063"
+      ],
+      "raw_record": "41. Songs of Chu — Qu Yuan | ; .  Evidence: ANC20260927-N063",
+      "reported_addition": null,
+      "resolved_item_id": 885,
+      "catalog_title": "Songs of Chu",
+      "canonical_source_ids": [
+        "ANC20260927-N063"
+      ]
+    },
+    {
+      "key": "work:425",
+      "item_id": 425,
+      "title": "Politics",
+      "authors": "Aristotle",
+      "standing": 42,
+      "reading": 109,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N005"
+      ],
+      "raw_record": "42. Politics — Aristotle | ; .  Evidence: ANC20260927-N005",
+      "reported_addition": null,
+      "resolved_item_id": 425,
+      "catalog_title": "Politics",
+      "canonical_source_ids": [
+        "ANC20260927-N005",
+        "ANC20260927-V16"
+      ]
+    },
+    {
+      "key": "work:656",
+      "item_id": 656,
+      "title": "Rhetoric",
+      "authors": "Aristotle",
+      "standing": 43,
+      "reading": 110,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N006"
+      ],
+      "raw_record": "43. Rhetoric — Aristotle | ; .  Evidence: ANC20260927-N006",
+      "reported_addition": null,
+      "resolved_item_id": 656,
+      "catalog_title": "Rhetoric",
+      "canonical_source_ids": [
+        "ANC20260927-N006",
+        "ANC20260927-V16"
+      ]
+    },
+    {
+      "key": "work:3164",
+      "item_id": 3164,
+      "title": "Fundamental Wisdom of the Middle Way",
+      "authors": "Nagarjuna",
+      "standing": 44,
+      "reading": 138,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N052"
+      ],
+      "raw_record": "44. Fundamental Wisdom of the Middle Way — Nagarjuna | ; .  Evidence: ANC20260927-N052",
+      "reported_addition": null,
+      "resolved_item_id": 3164,
+      "catalog_title": "Fundamental Wisdom of the Middle Way",
+      "canonical_source_ids": [
+        "ANC20260927-N052"
+      ]
+    },
+    {
+      "key": "work:3096",
+      "item_id": 3096,
+      "title": "Medea",
+      "authors": "Euripides",
+      "standing": 45,
+      "reading": 6,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "45. Medea — Euripides | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3096,
+      "catalog_title": "Medea",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V02"
+      ]
+    },
+    {
+      "key": "work:3162",
+      "item_id": 3162,
+      "title": "Panchatantra",
+      "authors": "Vishnu Sharma tradition",
+      "standing": 46,
+      "reading": 40,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N090"
+      ],
+      "raw_record": "46. Panchatantra — Vishnu Sharma tradition | ; .  Evidence: ANC20260927-N090",
+      "reported_addition": null,
+      "resolved_item_id": 3162,
+      "catalog_title": "Panchatantra",
+      "canonical_source_ids": [
+        "ANC20260927-N090"
+      ]
+    },
+    {
+      "key": "work:1564",
+      "item_id": 1564,
+      "title": "Purananuru",
+      "authors": "Sangam poets",
+      "standing": 47,
+      "reading": 42,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N041"
+      ],
+      "raw_record": "47. Purananuru — Sangam poets | ; .  Evidence: ANC20260927-N041",
+      "reported_addition": null,
+      "resolved_item_id": 1564,
+      "catalog_title": "Purananuru",
+      "canonical_source_ids": [
+        "ANC20260927-N041"
+      ]
+    },
+    {
+      "key": "work:662",
+      "item_id": 662,
+      "title": "Odes",
+      "authors": "Horace",
+      "standing": 48,
+      "reading": 71,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N070"
+      ],
+      "raw_record": "48. Odes — Horace | ; .  Evidence: ANC20260927-N070",
+      "reported_addition": null,
+      "resolved_item_id": 662,
+      "catalog_title": "Odes",
+      "canonical_source_ids": [
+        "ANC20260927-N070"
+      ]
+    },
+    {
+      "key": "work:3106",
+      "item_id": 3106,
+      "title": "Parallel Lives",
+      "authors": "Plutarch",
+      "standing": 49,
+      "reading": 50,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N082"
+      ],
+      "raw_record": "49. Parallel Lives — Plutarch | ; .  Evidence: ANC20260927-N082",
+      "reported_addition": null,
+      "resolved_item_id": 3106,
+      "catalog_title": "Parallel Lives",
+      "canonical_source_ids": [
+        "ANC20260927-N082",
+        "ANC20260927-V07"
+      ]
+    },
+    {
+      "key": "work:3107",
+      "item_id": 3107,
+      "title": "Annals",
+      "authors": "Tacitus",
+      "standing": 50,
+      "reading": 51,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N029"
+      ],
+      "raw_record": "50. Annals — Tacitus | ; .  Evidence: ANC20260927-N029",
+      "reported_addition": null,
+      "resolved_item_id": 3107,
+      "catalog_title": "Annals",
+      "canonical_source_ids": [
+        "ANC20260927-N029",
+        "ANC20260927-V07"
+      ]
+    },
+    {
+      "key": "work:3103",
+      "item_id": 3103,
+      "title": "Metamorphoses",
+      "authors": "Apuleius",
+      "standing": 51,
+      "reading": 9,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N032"
+      ],
+      "raw_record": "51. Metamorphoses — Apuleius | ; .  Evidence: ANC20260927-N032",
+      "reported_addition": null,
+      "resolved_item_id": 3103,
+      "catalog_title": "Metamorphoses",
+      "canonical_source_ids": [
+        "ANC20260927-N032"
+      ]
+    },
+    {
+      "key": "work:3109",
+      "item_id": 3109,
+      "title": "Arthashastra",
+      "authors": "Kautilya tradition",
+      "standing": 52,
+      "reading": 128,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N081",
+        "ANC20260927-N099"
+      ],
+      "raw_record": "52. Arthashastra — Kautilya tradition | ; .  Evidence: ANC20260927-N081, ANC20260927-N099",
+      "reported_addition": null,
+      "resolved_item_id": 3109,
+      "catalog_title": "Arthashastra",
+      "canonical_source_ids": [
+        "ANC20260927-N081",
+        "ANC20260927-N099"
+      ]
+    },
+    {
+      "key": "work:4303",
+      "item_id": 4303,
+      "title": "Mozi",
+      "authors": "Mohist school; Mozi",
+      "standing": 53,
+      "reading": 99,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N011"
+      ],
+      "raw_record": "53. Mozi — Mohist school; Mozi | ; .  Evidence: ANC20260927-N011",
+      "reported_addition": null,
+      "resolved_item_id": 4303,
+      "catalog_title": "Mozi",
+      "canonical_source_ids": [
+        "ANC20260927-N011"
+      ]
+    },
+    {
+      "key": "work:900",
+      "item_id": 900,
+      "title": "Xunzi",
+      "authors": "Xun Kuang",
+      "standing": 54,
+      "reading": 98,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N012",
+        "ANC20260927-N035"
+      ],
+      "raw_record": "54. Xunzi — Xun Kuang | ; .  Evidence: ANC20260927-N012, ANC20260927-N035",
+      "reported_addition": null,
+      "resolved_item_id": 900,
+      "catalog_title": "Xunzi",
+      "canonical_source_ids": [
+        "ANC20260927-N012",
+        "ANC20260927-N035"
+      ]
+    },
+    {
+      "key": "work:428",
+      "item_id": 428,
+      "title": "On the Soul",
+      "authors": "Aristotle",
+      "standing": 55,
+      "reading": 141,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N007"
+      ],
+      "raw_record": "55. On the Soul — Aristotle | ; .  Evidence: ANC20260927-N007",
+      "reported_addition": null,
+      "resolved_item_id": 428,
+      "catalog_title": "On the Soul",
+      "canonical_source_ids": [
+        "ANC20260927-N007",
+        "ANC20260927-V16"
+      ]
+    },
+    {
+      "key": "work:426",
+      "item_id": 426,
+      "title": "Physics",
+      "authors": "Aristotle",
+      "standing": 56,
+      "reading": 142,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N008"
+      ],
+      "raw_record": "56. Physics — Aristotle | ; .  Evidence: ANC20260927-N008",
+      "reported_addition": null,
+      "resolved_item_id": 426,
+      "catalog_title": "Physics",
+      "canonical_source_ids": [
+        "ANC20260927-N008",
+        "ANC20260927-V16"
+      ]
+    },
+    {
+      "key": "proposed:natyashastra",
+      "item_id": null,
+      "title": "Natyashastra",
+      "authors": "anonymous and composite Sanskrit tradition",
+      "standing": 57,
+      "reading": 146,
+      "rationale": "The account of theatre, embodied performance and aesthetic response has major enduring importance.",
+      "reading_rationale": "Conceptual passages are rewarding, but the full technical treatise is a specialist read requiring illustrations and commentary.",
+      "source_ids": [],
+      "raw_record": "57. Natyashastra — anonymous and composite Sanskrit tradition | c 2nd century BCE–5th century CE; layered; Performance treatise. Sanskrit South Asia|The account of theatre, embodied performance and aesthetic response has major enduring importance.|Conceptual passages are rewarding, but the full technical treatise is a specialist read requiring illustrations and commentary. Evidence: gap flagged",
+      "reported_addition": "Natyashastra — anonymous and composite Sanskrit tradition | c 2nd century BCE–5th century CE; layered; Performance treatise. Sanskrit South Asia|The account of theatre, embodied performance and aesthetic response has major enduring importance.|Conceptual passages are rewarding, but the full technical treatise is a specialist read requiring illustrations and commentary. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N044"
+      ]
+    },
+    {
+      "key": "work:3148",
+      "item_id": 3148,
+      "title": "Almagest",
+      "authors": "Ptolemy",
+      "standing": 58,
+      "reading": 150,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N055"
+      ],
+      "raw_record": "58. Almagest — Ptolemy | ; .  Evidence: ANC20260927-N055",
+      "reported_addition": null,
+      "resolved_item_id": 3148,
+      "catalog_title": "Almagest",
+      "canonical_source_ids": [
+        "ANC20260927-N055"
+      ]
+    },
+    {
+      "key": "work:3149",
+      "item_id": 3149,
+      "title": "Hippocratic Corpus",
+      "authors": "Hippocratic tradition",
+      "standing": 59,
+      "reading": 134,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N087"
+      ],
+      "raw_record": "59. Hippocratic Corpus — Hippocratic tradition | ; .  Evidence: ANC20260927-N087",
+      "reported_addition": null,
+      "resolved_item_id": 3149,
+      "catalog_title": "Hippocratic Corpus",
+      "canonical_source_ids": [
+        "ANC20260927-N087"
+      ]
+    },
+    {
+      "key": "work:438",
+      "item_id": 438,
+      "title": "Symposium",
+      "authors": "Plato",
+      "standing": 60,
+      "reading": 27,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N095"
+      ],
+      "raw_record": "60. Symposium — Plato | ; .  Evidence: ANC20260927-N095",
+      "reported_addition": null,
+      "resolved_item_id": 438,
+      "catalog_title": "Symposium",
+      "canonical_source_ids": [
+        "ANC20260927-N095",
+        "ANC20260927-V17"
+      ]
+    },
+    {
+      "key": "work:437",
+      "item_id": 437,
+      "title": "Phaedo",
+      "authors": "Plato",
+      "standing": 61,
+      "reading": 111,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N083"
+      ],
+      "raw_record": "61. Phaedo — Plato | ; .  Evidence: ANC20260927-N083",
+      "reported_addition": null,
+      "resolved_item_id": 437,
+      "catalog_title": "Phaedo",
+      "canonical_source_ids": [
+        "ANC20260927-N083",
+        "ANC20260927-V17"
+      ]
+    },
+    {
+      "key": "work:435",
+      "item_id": 435,
+      "title": "Apology",
+      "authors": "Plato",
+      "standing": 62,
+      "reading": 23,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N083"
+      ],
+      "raw_record": "62. Apology — Plato | ; .  Evidence: ANC20260927-N083",
+      "reported_addition": null,
+      "resolved_item_id": 435,
+      "catalog_title": "Apology",
+      "canonical_source_ids": [
+        "ANC20260927-N083",
+        "ANC20260927-V17"
+      ]
+    },
+    {
+      "key": "work:3099",
+      "item_id": 3099,
+      "title": "Theogony",
+      "authors": "Hesiod",
+      "standing": 63,
+      "reading": 73,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N019",
+        "ANC20260927-N020"
+      ],
+      "raw_record": "63. Theogony — Hesiod | ; .  Evidence: ANC20260927-N019, ANC20260927-N020",
+      "reported_addition": null,
+      "resolved_item_id": 3099,
+      "catalog_title": "Theogony",
+      "canonical_source_ids": [
+        "ANC20260927-N019",
+        "ANC20260927-N020",
+        "ANC20260927-V06"
+      ]
+    },
+    {
+      "key": "work:3102",
+      "item_id": 3102,
+      "title": "Works and Days",
+      "authors": "Hesiod",
+      "standing": 64,
+      "reading": 72,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "64. Works and Days — Hesiod | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3102,
+      "catalog_title": "Works and Days",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V06"
+      ]
+    },
+    {
+      "key": "work:3153",
+      "item_id": 3153,
+      "title": "Fables",
+      "authors": "Aesopic tradition",
+      "standing": 65,
+      "reading": 59,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N098"
+      ],
+      "raw_record": "65. Fables — Aesopic tradition | ; .  Evidence: ANC20260927-N098",
+      "reported_addition": null,
+      "resolved_item_id": 3153,
+      "catalog_title": "Fables",
+      "canonical_source_ids": [
+        "ANC20260927-N098"
+      ]
+    },
+    {
+      "key": "work:1235",
+      "item_id": 1235,
+      "title": "The Consolation of Philosophy",
+      "authors": "Boethius",
+      "standing": 66,
+      "reading": 35,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N015"
+      ],
+      "raw_record": "66. The Consolation of Philosophy — Boethius | ; .  Evidence: ANC20260927-N015",
+      "reported_addition": null,
+      "resolved_item_id": 1235,
+      "catalog_title": "The Consolation of Philosophy",
+      "canonical_source_ids": [
+        "ANC20260927-N015"
+      ]
+    },
+    {
+      "key": "proposed:sinuhe",
+      "item_id": null,
+      "title": "The Tale of Sinuhe",
+      "authors": "anonymous Egyptian tradition",
+      "standing": 67,
+      "reading": 57,
+      "rationale": "The artistry of exile, identity and royal order gives it a compelling claim among early prose-like narratives.",
+      "reading_rationale": "Short and emotionally legible; the historical setting and manuscript afterlife benefit from a scholarly introduction.",
+      "source_ids": [],
+      "raw_record": "67. The Tale of Sinuhe — anonymous Egyptian tradition | c early 2nd millennium BCE; Middle Kingdom; Literary tale. Ancient Egyptian|The artistry of exile, identity and royal order gives it a compelling claim among early prose-like narratives.|Short and emotionally legible; the historical setting and manuscript afterlife benefit from a scholarly introduction. Evidence: gap flagged",
+      "reported_addition": "The Tale of Sinuhe — anonymous Egyptian tradition | c early 2nd millennium BCE; Middle Kingdom; Literary tale. Ancient Egyptian|The artistry of exile, identity and royal order gives it a compelling claim among early prose-like narratives.|Short and emotionally legible; the historical setting and manuscript afterlife benefit from a scholarly introduction. Evidence: gap flagged.",
+      "resolved_item_id": 6408,
+      "catalog_title": "The Tale of Sinuhe",
+      "canonical_source_ids": [
+        "ANC20260927-N075"
+      ]
+    },
+    {
+      "key": "work:451",
+      "item_id": 451,
+      "title": "Discourses",
+      "authors": "Epictetus",
+      "standing": 68,
+      "reading": 37,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N038"
+      ],
+      "raw_record": "68. Discourses — Epictetus | ; .  Evidence: ANC20260927-N038",
+      "reported_addition": null,
+      "resolved_item_id": 451,
+      "catalog_title": "Discourses",
+      "canonical_source_ids": [
+        "ANC20260927-N038",
+        "ANC20260927-V09"
+      ]
+    },
+    {
+      "key": "work:3108",
+      "item_id": 3108,
+      "title": "Moral Letters to Lucilius",
+      "authors": "Seneca",
+      "standing": 69,
+      "reading": 36,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N050"
+      ],
+      "raw_record": "69. Moral Letters to Lucilius — Seneca | ; .  Evidence: ANC20260927-N050",
+      "reported_addition": null,
+      "resolved_item_id": 3108,
+      "catalog_title": "Moral Letters to Lucilius",
+      "canonical_source_ids": [
+        "ANC20260927-N050"
+      ]
+    },
+    {
+      "key": "work:2980",
+      "item_id": 2980,
+      "title": "Meditations",
+      "authors": "Marcus Aurelius",
+      "standing": 70,
+      "reading": 11,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N051"
+      ],
+      "raw_record": "70. Meditations — Marcus Aurelius | ; .  Evidence: ANC20260927-N051",
+      "reported_addition": null,
+      "resolved_item_id": 2980,
+      "catalog_title": "Meditations",
+      "canonical_source_ids": [
+        "ANC20260927-N051"
+      ]
+    },
+    {
+      "key": "work:3098",
+      "item_id": 3098,
+      "title": "The Art of War",
+      "authors": "Sunzi tradition",
+      "standing": 71,
+      "reading": 94,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N112"
+      ],
+      "raw_record": "71. The Art of War — Sunzi tradition | ; .  Evidence: ANC20260927-N112",
+      "reported_addition": null,
+      "resolved_item_id": 3098,
+      "catalog_title": "The Art of War",
+      "canonical_source_ids": [
+        "ANC20260927-N112"
+      ]
+    },
+    {
+      "key": "proposed:therigatha",
+      "item_id": null,
+      "title": "Therigatha",
+      "authors": "anonymous and attributed early Buddhist nuns",
+      "standing": 72,
+      "reading": 12,
+      "rationale": "Multiple women's voices make this a consequential correction to a heavily male literary canon.",
+      "reading_rationale": "Concentrated accounts of loss, work and release are immediately engaging; distinguish ancient verses from later biographies.",
+      "source_ids": [],
+      "raw_record": "72. Therigatha — anonymous and attributed early Buddhist nuns | Poems attributed to early Buddhist nuns; collected last centuries BCE; Verse anthology. Pali Buddhist South Asia|Multiple women's voices make this a consequential correction to a heavily male literary canon.|Concentrated accounts of loss, work and release are immediately engaging; distinguish ancient verses from later biographies. Evidence: gap flagged",
+      "reported_addition": "Therigatha — anonymous and attributed early Buddhist nuns | Poems attributed to early Buddhist nuns; collected last centuries BCE; Verse anthology. Pali Buddhist South Asia|Multiple women's voices make this a consequential correction to a heavily male literary canon.|Concentrated accounts of loss, work and release are immediately engaging; distinguish ancient verses from later biographies. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N002"
+      ]
+    },
+    {
+      "key": "work:3112",
+      "item_id": 3112,
+      "title": "Victory Odes",
+      "authors": "Pindar",
+      "standing": 73,
+      "reading": 113,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N110"
+      ],
+      "raw_record": "73. Victory Odes — Pindar | ; .  Evidence: ANC20260927-N110",
+      "reported_addition": null,
+      "resolved_item_id": 3112,
+      "catalog_title": "Victory Odes",
+      "canonical_source_ids": [
+        "ANC20260927-N110"
+      ]
+    },
+    {
+      "key": "work:3116",
+      "item_id": 3116,
+      "title": "Poems",
+      "authors": "Catullus",
+      "standing": 74,
+      "reading": 22,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N071"
+      ],
+      "raw_record": "74. Poems — Catullus | ; .  Evidence: ANC20260927-N071",
+      "reported_addition": null,
+      "resolved_item_id": 3116,
+      "catalog_title": "Poems",
+      "canonical_source_ids": [
+        "ANC20260927-N071"
+      ]
+    },
+    {
+      "key": "work:1530",
+      "item_id": 1530,
+      "title": "The Cloud Messenger",
+      "authors": "Kalidasa",
+      "standing": 75,
+      "reading": 21,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N079"
+      ],
+      "raw_record": "75. The Cloud Messenger — Kalidasa | ; .  Evidence: ANC20260927-N079",
+      "reported_addition": null,
+      "resolved_item_id": 1530,
+      "catalog_title": "The Cloud Messenger",
+      "canonical_source_ids": [
+        "ANC20260927-N079"
+      ]
+    },
+    {
+      "key": "proposed:tao-yuanming",
+      "item_id": null,
+      "title": "Poems and prose of Tao Yuanming",
+      "authors": "Tao Yuanming",
+      "standing": 76,
+      "reading": 28,
+      "rationale": "Withdrawal, rural life and cultivated simplicity became influential poetic resources.",
+      "reading_rationale": "An inviting collection with an apparently plain surface that rewards rereading; overlap with Wen Xuan is acknowledged.",
+      "source_ids": [],
+      "raw_record": "76. Poems and prose of Tao Yuanming — Tao Yuanming | Late 4th–early 5th century CE; Poetry and prose collection. Chinese Eastern Jin and Liu Song|Withdrawal, rural life and cultivated simplicity became influential poetic resources.|An inviting collection with an apparently plain surface that rewards rereading; overlap with Wen Xuan is acknowledged. Evidence: gap flagged",
+      "reported_addition": "Poems and prose of Tao Yuanming — Tao Yuanming | Late 4th–early 5th century CE; Poetry and prose collection. Chinese Eastern Jin and Liu Song|Withdrawal, rural life and cultivated simplicity became influential poetic resources.|An inviting collection with an apparently plain surface that rewards rereading; overlap with Wen Xuan is acknowledged. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N023"
+      ]
+    },
+    {
+      "key": "work:3115",
+      "item_id": 3115,
+      "title": "Georgics",
+      "authors": "Virgil",
+      "standing": 77,
+      "reading": 76,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "77. Georgics — Virgil | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3115,
+      "catalog_title": "Georgics",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V05"
+      ]
+    },
+    {
+      "key": "work:3124",
+      "item_id": 3124,
+      "title": "De Officiis",
+      "authors": "Cicero",
+      "standing": 78,
+      "reading": 97,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N106"
+      ],
+      "raw_record": "78. De Officiis — Cicero | ; .  Evidence: ANC20260927-N106",
+      "reported_addition": null,
+      "resolved_item_id": 3124,
+      "catalog_title": "De Officiis",
+      "canonical_source_ids": [
+        "ANC20260927-N106",
+        "ANC20260927-V07"
+      ]
+    },
+    {
+      "key": "work:4304",
+      "item_id": 4304,
+      "title": "Han Feizi",
+      "authors": "Han Fei; later editors",
+      "standing": 79,
+      "reading": 100,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N013"
+      ],
+      "raw_record": "79. Han Feizi — Han Fei; later editors | ; .  Evidence: ANC20260927-N013",
+      "reported_addition": null,
+      "resolved_item_id": 4304,
+      "catalog_title": "Han Feizi",
+      "canonical_source_ids": [
+        "ANC20260927-N013"
+      ]
+    },
+    {
+      "key": "work:3168",
+      "item_id": 3168,
+      "title": "Diamond Sutra",
+      "authors": "Prajnaparamita tradition",
+      "standing": 80,
+      "reading": 66,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N078"
+      ],
+      "raw_record": "80. Diamond Sutra — Prajnaparamita tradition | ; .  Evidence: ANC20260927-N078",
+      "reported_addition": null,
+      "resolved_item_id": 3168,
+      "catalog_title": "Diamond Sutra",
+      "canonical_source_ids": [
+        "ANC20260927-N078"
+      ]
+    },
+    {
+      "key": "work:3169",
+      "item_id": 3169,
+      "title": "Yoga Sutras",
+      "authors": "Patanjali tradition",
+      "standing": 81,
+      "reading": 137,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-106"
+      ],
+      "raw_record": "81. Yoga Sutras — Patanjali tradition | ; .  Evidence: ANCIENT-106",
+      "reported_addition": null,
+      "resolved_item_id": 3169,
+      "catalog_title": "Yoga Sutras",
+      "canonical_source_ids": [
+        "ANCIENT-106",
+        "ANC20260927-V08"
+      ]
+    },
+    {
+      "key": "work:3166",
+      "item_id": 3166,
+      "title": "Sutta Nipata",
+      "authors": "Early Buddhist canonical tradition",
+      "standing": 82,
+      "reading": 64,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N058"
+      ],
+      "raw_record": "82. Sutta Nipata — Early Buddhist canonical tradition | ; .  Evidence: ANC20260927-N058",
+      "reported_addition": null,
+      "resolved_item_id": 3166,
+      "catalog_title": "Sutta Nipata",
+      "canonical_source_ids": [
+        "ANC20260927-N058"
+      ]
+    },
+    {
+      "key": "work:3163",
+      "item_id": 3163,
+      "title": "Buddhacharita",
+      "authors": "Ashvaghosha",
+      "standing": 83,
+      "reading": 88,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N091"
+      ],
+      "raw_record": "83. Buddhacharita — Ashvaghosha | ; .  Evidence: ANC20260927-N091",
+      "reported_addition": null,
+      "resolved_item_id": 3163,
+      "catalog_title": "Buddhacharita",
+      "canonical_source_ids": [
+        "ANC20260927-N091"
+      ]
+    },
+    {
+      "key": "work:3167",
+      "item_id": 3167,
+      "title": "Vimalakirti Sutra",
+      "authors": "Mahayana Buddhist tradition",
+      "standing": 84,
+      "reading": 65,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N077"
+      ],
+      "raw_record": "84. Vimalakirti Sutra — Mahayana Buddhist tradition | ; .  Evidence: ANC20260927-N077",
+      "reported_addition": null,
+      "resolved_item_id": 3167,
+      "catalog_title": "Vimalakirti Sutra",
+      "canonical_source_ids": [
+        "ANC20260927-N077"
+      ]
+    },
+    {
+      "key": "work:3151",
+      "item_id": 3151,
+      "title": "On the Sublime",
+      "authors": "Pseudo-Longinus",
+      "standing": 85,
+      "reading": 95,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N103"
+      ],
+      "raw_record": "85. On the Sublime — Pseudo-Longinus | ; .  Evidence: ANC20260927-N103",
+      "reported_addition": null,
+      "resolved_item_id": 3151,
+      "catalog_title": "On the Sublime",
+      "canonical_source_ids": [
+        "ANC20260927-N103",
+        "ANC20260927-V15"
+      ]
+    },
+    {
+      "key": "work:3152",
+      "item_id": 3152,
+      "title": "Institutio Oratoria",
+      "authors": "Quintilian",
+      "standing": 86,
+      "reading": 130,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N006"
+      ],
+      "raw_record": "86. Institutio Oratoria — Quintilian | ; .  Evidence: ANC20260927-N006",
+      "reported_addition": null,
+      "resolved_item_id": 3152,
+      "catalog_title": "Institutio Oratoria",
+      "canonical_source_ids": [
+        "ANC20260927-N006",
+        "ANC20260927-V07"
+      ]
+    },
+    {
+      "key": "work:3150",
+      "item_id": 3150,
+      "title": "De Architectura",
+      "authors": "Vitruvius",
+      "standing": 87,
+      "reading": 131,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N104"
+      ],
+      "raw_record": "87. De Architectura — Vitruvius | ; .  Evidence: ANC20260927-N104",
+      "reported_addition": null,
+      "resolved_item_id": 3150,
+      "catalog_title": "De Architectura",
+      "canonical_source_ids": [
+        "ANC20260927-N104",
+        "ANC20260927-V07"
+      ]
+    },
+    {
+      "key": "work:3125",
+      "item_id": 3125,
+      "title": "De Oratore",
+      "authors": "Cicero",
+      "standing": 88,
+      "reading": 129,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N006"
+      ],
+      "raw_record": "88. De Oratore — Cicero | ; .  Evidence: ANC20260927-N006",
+      "reported_addition": null,
+      "resolved_item_id": 3125,
+      "catalog_title": "De Oratore",
+      "canonical_source_ids": [
+        "ANC20260927-N006"
+      ]
+    },
+    {
+      "key": "work:3126",
+      "item_id": 3126,
+      "title": "Natural History",
+      "authors": "Pliny the Elder",
+      "standing": 89,
+      "reading": 132,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "89. Natural History — Pliny the Elder | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3126,
+      "catalog_title": "Natural History",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V11"
+      ]
+    },
+    {
+      "key": "work:3120",
+      "item_id": 3120,
+      "title": "Histories",
+      "authors": "Polybius",
+      "standing": 90,
+      "reading": 116,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "90. Histories — Polybius | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3120,
+      "catalog_title": "Histories",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V07"
+      ]
+    },
+    {
+      "key": "work:3121",
+      "item_id": 3121,
+      "title": "Ab Urbe Condita",
+      "authors": "Livy",
+      "standing": 91,
+      "reading": 115,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "91. Ab Urbe Condita — Livy | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3121,
+      "catalog_title": "Ab Urbe Condita",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "proposed:book-of-dead",
+      "item_id": null,
+      "title": "Egyptian Book of the Dead",
+      "authors": "anonymous and composite Egyptian tradition",
+      "standing": 92,
+      "reading": 121,
+      "rationale": "Text, image and ritual shaped a long-lived approach to death and judgement.",
+      "reading_rationale": "Use an identified manuscript or selection; there is no single fixed ancient book identical across copies.",
+      "source_ids": [],
+      "raw_record": "92. Egyptian Book of the Dead — anonymous and composite Egyptian tradition | From c 1550 BCE; evolving through later antiquity; Variable funerary spell corpus. Ancient Egyptian|Text, image and ritual shaped a long-lived approach to death and judgement.|Use an identified manuscript or selection; there is no single fixed ancient book identical across copies. Evidence: gap flagged",
+      "reported_addition": "Egyptian Book of the Dead — anonymous and composite Egyptian tradition | From c 1550 BCE; evolving through later antiquity; Variable funerary spell corpus. Ancient Egyptian|Text, image and ritual shaped a long-lived approach to death and judgement.|Use an identified manuscript or selection; there is no single fixed ancient book identical across copies. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N026"
+      ]
+    },
+    {
+      "key": "proposed:enuma-elish",
+      "item_id": null,
+      "title": "Enuma Elish",
+      "authors": "anonymous Babylonian tradition",
+      "standing": 93,
+      "reading": 89,
+      "rationale": "Divine conflict and the elevation of Marduk provide a major account of cosmic and political ordering.",
+      "reading_rationale": "A compact comparative read, though repetitions and cultic context need explanation.",
+      "source_ids": [],
+      "raw_record": "93. Enuma Elish — anonymous Babylonian tradition | Often late 2nd millennium BCE; debated; Seven-tablet creation poem. Babylonian Mesopotamia|Divine conflict and the elevation of Marduk provide a major account of cosmic and political ordering.|A compact comparative read, though repetitions and cultic context need explanation. Evidence: gap flagged",
+      "reported_addition": "Enuma Elish — anonymous Babylonian tradition | Often late 2nd millennium BCE; debated; Seven-tablet creation poem. Babylonian Mesopotamia|Divine conflict and the elevation of Marduk provide a major account of cosmic and political ordering.|A compact comparative read, though repetitions and cultic context need explanation. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N019",
+        "ANC20260927-N020"
+      ]
+    },
+    {
+      "key": "work:3178",
+      "item_id": 3178,
+      "title": "Descent of Inanna",
+      "authors": "Sumerian",
+      "standing": 94,
+      "reading": 56,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N085"
+      ],
+      "raw_record": "94. Descent of Inanna — Sumerian | ; .  Evidence: ANC20260927-N085",
+      "reported_addition": null,
+      "resolved_item_id": 3178,
+      "catalog_title": "Descent of Inanna",
+      "canonical_source_ids": [
+        "ANC20260927-N085"
+      ]
+    },
+    {
+      "key": "work:3179",
+      "item_id": 3179,
+      "title": "Baal Cycle",
+      "authors": "Ugaritic tradition",
+      "standing": 95,
+      "reading": 122,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "95. Baal Cycle — Ugaritic tradition | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3179,
+      "catalog_title": "Baal Cycle",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:3180",
+      "item_id": 3180,
+      "title": "Younger Avesta",
+      "authors": "Zoroastrian tradition",
+      "standing": 96,
+      "reading": 123,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N057"
+      ],
+      "raw_record": "96. Younger Avesta — Zoroastrian tradition | ; .  Evidence: ANC20260927-N057",
+      "reported_addition": null,
+      "resolved_item_id": 3180,
+      "catalog_title": "Younger Avesta",
+      "canonical_source_ids": [
+        "ANC20260927-N057"
+      ]
+    },
+    {
+      "key": "work:3175",
+      "item_id": 3175,
+      "title": "The Instruction of Ptahhotep",
+      "authors": "Ptahhotep tradition",
+      "standing": 97,
+      "reading": 93,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N084",
+        "ANCIENT-112",
+        "ANCIENT-113"
+      ],
+      "raw_record": "97. The Instruction of Ptahhotep — Ptahhotep tradition | ; .  Evidence: ANC20260927-N084, ANCIENT-112, ANCIENT-113",
+      "reported_addition": null,
+      "resolved_item_id": 3175,
+      "catalog_title": "The Instruction of Ptahhotep",
+      "canonical_source_ids": [
+        "ANC20260927-N084",
+        "ANCIENT-112",
+        "ANCIENT-113"
+      ]
+    },
+    {
+      "key": "work:3181",
+      "item_id": 3181,
+      "title": "Hymns of Enheduanna",
+      "authors": "Enheduanna tradition",
+      "standing": 98,
+      "reading": 91,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N001"
+      ],
+      "raw_record": "98. Hymns of Enheduanna — Enheduanna tradition | ; .  Evidence: ANC20260927-N001",
+      "reported_addition": null,
+      "resolved_item_id": 3181,
+      "catalog_title": "Hymns of Enheduanna",
+      "canonical_source_ids": [
+        "ANC20260927-N001"
+      ]
+    },
+    {
+      "key": "work:3182",
+      "item_id": 3182,
+      "title": "Instructions of Shuruppak",
+      "authors": "Sumerian tradition",
+      "standing": 99,
+      "reading": 92,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N086"
+      ],
+      "raw_record": "99. Instructions of Shuruppak — Sumerian tradition | ; .  Evidence: ANC20260927-N086",
+      "reported_addition": null,
+      "resolved_item_id": 3182,
+      "catalog_title": "Instructions of Shuruppak",
+      "canonical_source_ids": [
+        "ANC20260927-N086"
+      ]
+    },
+    {
+      "key": "proposed:atrahasis",
+      "item_id": null,
+      "title": "Atrahasis",
+      "authors": "anonymous Akkadian tradition",
+      "standing": 100,
+      "reading": 90,
+      "rationale": "Creation, labor and flood narratives offer an essential counterpart to Gilgamesh and later flood traditions.",
+      "reading_rationale": "Short and vivid in the surviving text; a flood episode shared across traditions is not an independent full work in every recension.",
+      "source_ids": [],
+      "raw_record": "100. Atrahasis — anonymous Akkadian tradition | Old Babylonian version c 17th century BCE; older tradition; Mythological epic. Akkadian Mesopotamia|Creation, labor and flood narratives offer an essential counterpart to Gilgamesh and later flood traditions.|Short and vivid in the surviving text; a flood episode shared across traditions is not an independent full work in every recension. Evidence: gap flagged",
+      "reported_addition": "Atrahasis — anonymous Akkadian tradition | Old Babylonian version c 17th century BCE; older tradition; Mythological epic. Akkadian Mesopotamia|Creation, labor and flood narratives offer an essential counterpart to Gilgamesh and later flood traditions.|Short and vivid in the surviving text; a flood episode shared across traditions is not an independent full work in every recension. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N020"
+      ]
+    },
+    {
+      "key": "proposed:acaranga",
+      "item_id": null,
+      "title": "Acaranga Sutra",
+      "authors": "anonymous Jain canonical tradition",
+      "standing": 101,
+      "reading": 139,
+      "rationale": "Discipline, nonviolence and renunciation add a major tradition absent from the supplied list.",
+      "reading_rationale": "An annotated translation is essential; its ascetic aims and textual divisions should be explicit.",
+      "source_ids": [],
+      "raw_record": "101. Acaranga Sutra — anonymous Jain canonical tradition | Early layers last centuries BCE; Svetambara canon fixed c 5th century CE; Jain canonical text. Prakrit South Asia|Discipline, nonviolence and renunciation add a major tradition absent from the supplied list.|An annotated translation is essential; its ascetic aims and textual divisions should be explicit. Evidence: gap flagged",
+      "reported_addition": "Acaranga Sutra — anonymous Jain canonical tradition | Early layers last centuries BCE; Svetambara canon fixed c 5th century CE; Jain canonical text. Prakrit South Asia|Discipline, nonviolence and renunciation add a major tradition absent from the supplied list.|An annotated translation is essential; its ascetic aims and textual divisions should be explicit. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N043",
+        "ANC20260927-N076"
+      ]
+    },
+    {
+      "key": "work:3170",
+      "item_id": 3170,
+      "title": "Laws of Manu",
+      "authors": "Manu tradition",
+      "standing": 102,
+      "reading": 136,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N099"
+      ],
+      "raw_record": "102. Laws of Manu — Manu tradition | ; .  Evidence: ANC20260927-N099",
+      "reported_addition": null,
+      "resolved_item_id": 3170,
+      "catalog_title": "Laws of Manu",
+      "canonical_source_ids": [
+        "ANC20260927-N099",
+        "ANC20260927-V08"
+      ]
+    },
+    {
+      "key": "work:3173",
+      "item_id": 3173,
+      "title": "Tolkappiyam",
+      "authors": "Tolkappiyar tradition",
+      "standing": 103,
+      "reading": 148,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N041"
+      ],
+      "raw_record": "103. Tolkappiyam — Tolkappiyar tradition | ; .  Evidence: ANC20260927-N041",
+      "reported_addition": null,
+      "resolved_item_id": 3173,
+      "catalog_title": "Tolkappiyam",
+      "canonical_source_ids": [
+        "ANC20260927-N041",
+        "ANC20260927-V13"
+      ]
+    },
+    {
+      "key": "work:3171",
+      "item_id": 3171,
+      "title": "Silappatikaram",
+      "authors": "Ilango Adigal tradition",
+      "standing": 104,
+      "reading": 86,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N105"
+      ],
+      "raw_record": "104. Silappatikaram — Ilango Adigal tradition | ; .  Evidence: ANC20260927-N105",
+      "reported_addition": null,
+      "resolved_item_id": 3171,
+      "catalog_title": "Silappatikaram",
+      "canonical_source_ids": [
+        "ANC20260927-N105"
+      ]
+    },
+    {
+      "key": "work:3172",
+      "item_id": 3172,
+      "title": "Manimekalai",
+      "authors": "Sattanar",
+      "standing": 105,
+      "reading": 87,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N105"
+      ],
+      "raw_record": "105. Manimekalai — Sattanar | ; .  Evidence: ANC20260927-N105",
+      "reported_addition": null,
+      "resolved_item_id": 3172,
+      "catalog_title": "Manimekalai",
+      "canonical_source_ids": [
+        "ANC20260927-N105",
+        "ANC20260927-V14"
+      ]
+    },
+    {
+      "key": "work:3184",
+      "item_id": 3184,
+      "title": "The Passion of Perpetua and Felicity",
+      "authors": "Perpetua",
+      "standing": 106,
+      "reading": 62,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N088"
+      ],
+      "raw_record": "106. The Passion of Perpetua and Felicity — Perpetua | ; .  Evidence: ANC20260927-N088",
+      "reported_addition": null,
+      "resolved_item_id": 3184,
+      "catalog_title": "The Passion of Perpetua and Felicity",
+      "canonical_source_ids": [
+        "ANC20260927-N088"
+      ]
+    },
+    {
+      "key": "work:3185",
+      "item_id": 3185,
+      "title": "Gospel of Thomas",
+      "authors": "Early Christian tradition",
+      "standing": 107,
+      "reading": 61,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N096"
+      ],
+      "raw_record": "107. Gospel of Thomas — Early Christian tradition | ; .  Evidence: ANC20260927-N096",
+      "reported_addition": null,
+      "resolved_item_id": 3185,
+      "catalog_title": "Gospel of Thomas",
+      "canonical_source_ids": [
+        "ANC20260927-N096"
+      ]
+    },
+    {
+      "key": "work:3140",
+      "item_id": 3140,
+      "title": "Sayings of the Desert Fathers",
+      "authors": "Early Christian monastic tradition",
+      "standing": 108,
+      "reading": 63,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N109"
+      ],
+      "raw_record": "108. Sayings of the Desert Fathers — Early Christian monastic tradition | ; .  Evidence: ANC20260927-N109",
+      "reported_addition": null,
+      "resolved_item_id": 3140,
+      "catalog_title": "Sayings of the Desert Fathers",
+      "canonical_source_ids": [
+        "ANC20260927-N109"
+      ]
+    },
+    {
+      "key": "work:3139",
+      "item_id": 3139,
+      "title": "Life of Antony",
+      "authors": "Athanasius",
+      "standing": 109,
+      "reading": 112,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "109. Life of Antony — Athanasius | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3139,
+      "catalog_title": "Life of Antony",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:3138",
+      "item_id": 3138,
+      "title": "Ecclesiastical History",
+      "authors": "Eusebius",
+      "standing": 110,
+      "reading": 120,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "110. Ecclesiastical History — Eusebius | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3138,
+      "catalog_title": "Ecclesiastical History",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:3141",
+      "item_id": 3141,
+      "title": "The Jewish War",
+      "authors": "Josephus",
+      "standing": 111,
+      "reading": 85,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "111. The Jewish War — Josephus | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3141,
+      "catalog_title": "The Jewish War",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V12"
+      ]
+    },
+    {
+      "key": "work:3142",
+      "item_id": 3142,
+      "title": "Antiquities of the Jews",
+      "authors": "Josephus",
+      "standing": 112,
+      "reading": 119,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "112. Antiquities of the Jews — Josephus | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3142,
+      "catalog_title": "Antiquities of the Jews",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V12"
+      ]
+    },
+    {
+      "key": "work:3143",
+      "item_id": 3143,
+      "title": "Anabasis of Alexander",
+      "authors": "Arrian",
+      "standing": 113,
+      "reading": 84,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "113. Anabasis of Alexander — Arrian | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3143,
+      "catalog_title": "Anabasis of Alexander",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:3144",
+      "item_id": 3144,
+      "title": "Description of Greece",
+      "authors": "Pausanias",
+      "standing": 114,
+      "reading": 118,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "114. Description of Greece — Pausanias | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3144,
+      "catalog_title": "Description of Greece",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:3145",
+      "item_id": 3145,
+      "title": "Lives of the Eminent Philosophers",
+      "authors": "Diogenes Laertius",
+      "standing": 115,
+      "reading": 117,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "115. Lives of the Eminent Philosophers — Diogenes Laertius | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3145,
+      "catalog_title": "Lives of the Eminent Philosophers",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:3146",
+      "item_id": 3146,
+      "title": "Outlines of Pyrrhonism",
+      "authors": "Sextus Empiricus",
+      "standing": 116,
+      "reading": 140,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N016"
+      ],
+      "raw_record": "116. Outlines of Pyrrhonism — Sextus Empiricus | ; .  Evidence: ANC20260927-N016",
+      "reported_addition": null,
+      "resolved_item_id": 3146,
+      "catalog_title": "Outlines of Pyrrhonism",
+      "canonical_source_ids": [
+        "ANC20260927-N016"
+      ]
+    },
+    {
+      "key": "work:3113",
+      "item_id": 3113,
+      "title": "Argonautica",
+      "authors": "Apollonius of Rhodes",
+      "standing": 117,
+      "reading": 74,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "117. Argonautica — Apollonius of Rhodes | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3113,
+      "catalog_title": "Argonautica",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:649",
+      "item_id": 649,
+      "title": "Frogs",
+      "authors": "Aristophanes",
+      "standing": 118,
+      "reading": 44,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "118. Frogs — Aristophanes | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 649,
+      "catalog_title": "Frogs",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V03",
+        "ANC20260927-V15"
+      ]
+    },
+    {
+      "key": "work:650",
+      "item_id": 650,
+      "title": "Lysistrata",
+      "authors": "Aristophanes",
+      "standing": 119,
+      "reading": 43,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "119. Lysistrata — Aristophanes | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 650,
+      "catalog_title": "Lysistrata",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:3117",
+      "item_id": 3117,
+      "title": "The Trojan Women",
+      "authors": "Euripides",
+      "standing": 120,
+      "reading": 45,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "120. The Trojan Women — Euripides | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3117,
+      "catalog_title": "The Trojan Women",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V02"
+      ]
+    },
+    {
+      "key": "work:3118",
+      "item_id": 3118,
+      "title": "Oedipus at Colonus",
+      "authors": "Sophocles",
+      "standing": 121,
+      "reading": 46,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "121. Oedipus at Colonus — Sophocles | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3118,
+      "catalog_title": "Oedipus at Colonus",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V01"
+      ]
+    },
+    {
+      "key": "work:3119",
+      "item_id": 3119,
+      "title": "Persians",
+      "authors": "Aeschylus",
+      "standing": 122,
+      "reading": 47,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "122. Persians — Aeschylus | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3119,
+      "catalog_title": "Persians",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V04"
+      ]
+    },
+    {
+      "key": "work:2608",
+      "item_id": 2608,
+      "title": "The Twelve Caesars",
+      "authors": "Suetonius",
+      "standing": 123,
+      "reading": 30,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "123. The Twelve Caesars — Suetonius | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 2608,
+      "catalog_title": "The Twelve Caesars",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V07"
+      ]
+    },
+    {
+      "key": "work:3127",
+      "item_id": 3127,
+      "title": "Letters",
+      "authors": "Pliny the Younger",
+      "standing": 124,
+      "reading": 81,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "124. Letters — Pliny the Younger | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3127,
+      "catalog_title": "Letters",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V10"
+      ]
+    },
+    {
+      "key": "work:3122",
+      "item_id": 3122,
+      "title": "Commentaries on the Gallic War",
+      "authors": "Julius Caesar",
+      "standing": 125,
+      "reading": 83,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "125. Commentaries on the Gallic War — Julius Caesar | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3122,
+      "catalog_title": "Commentaries on the Gallic War",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V07"
+      ]
+    },
+    {
+      "key": "work:3123",
+      "item_id": 3123,
+      "title": "Anabasis",
+      "authors": "Xenophon",
+      "standing": 126,
+      "reading": 55,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "126. Anabasis — Xenophon | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3123,
+      "catalog_title": "Anabasis",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V18"
+      ]
+    },
+    {
+      "key": "work:3129",
+      "item_id": 3129,
+      "title": "Satyricon",
+      "authors": "Petronius",
+      "standing": 127,
+      "reading": 79,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "127. Satyricon — Petronius | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3129,
+      "catalog_title": "Satyricon",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V09"
+      ]
+    },
+    {
+      "key": "work:3128",
+      "item_id": 3128,
+      "title": "Satires",
+      "authors": "Juvenal",
+      "standing": 128,
+      "reading": 114,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "128. Satires — Juvenal | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3128,
+      "catalog_title": "Satires",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:2922",
+      "item_id": 2922,
+      "title": "Civil War",
+      "authors": "Lucan",
+      "standing": 129,
+      "reading": 80,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N107"
+      ],
+      "raw_record": "129. Civil War — Lucan | ; .  Evidence: ANC20260927-N107",
+      "reported_addition": null,
+      "resolved_item_id": 2922,
+      "catalog_title": "Civil War",
+      "canonical_source_ids": [
+        "ANC20260927-N107"
+      ]
+    },
+    {
+      "key": "work:3133",
+      "item_id": 3133,
+      "title": "Eclogues",
+      "authors": "Virgil",
+      "standing": 130,
+      "reading": 75,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "130. Eclogues — Virgil | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3133,
+      "catalog_title": "Eclogues",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V05"
+      ]
+    },
+    {
+      "key": "work:3134",
+      "item_id": 3134,
+      "title": "True History",
+      "authors": "Lucian",
+      "standing": 131,
+      "reading": 32,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "131. True History — Lucian | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3134,
+      "catalog_title": "True History",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003",
+        "ANC20260927-V09"
+      ]
+    },
+    {
+      "key": "work:3135",
+      "item_id": 3135,
+      "title": "Daphnis and Chloe",
+      "authors": "Longus",
+      "standing": 132,
+      "reading": 33,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N031"
+      ],
+      "raw_record": "132. Daphnis and Chloe — Longus | ; .  Evidence: ANC20260927-N031",
+      "reported_addition": null,
+      "resolved_item_id": 3135,
+      "catalog_title": "Daphnis and Chloe",
+      "canonical_source_ids": [
+        "ANC20260927-N031"
+      ]
+    },
+    {
+      "key": "work:3186",
+      "item_id": 3186,
+      "title": "The Ethiopian Story",
+      "authors": "Heliodorus",
+      "standing": 133,
+      "reading": 34,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N031",
+        "ANC20260927-N033"
+      ],
+      "raw_record": "133. The Ethiopian Story — Heliodorus | ; .  Evidence: ANC20260927-N031, ANC20260927-N033",
+      "reported_addition": null,
+      "resolved_item_id": 3186,
+      "catalog_title": "The Ethiopian Story",
+      "canonical_source_ids": [
+        "ANC20260927-N031",
+        "ANC20260927-N033"
+      ]
+    },
+    {
+      "key": "work:3130",
+      "item_id": 3130,
+      "title": "Fasti",
+      "authors": "Ovid",
+      "standing": 134,
+      "reading": 82,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "134. Fasti — Ovid | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3130,
+      "catalog_title": "Fasti",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:3131",
+      "item_id": 3131,
+      "title": "Heroides",
+      "authors": "Ovid",
+      "standing": 135,
+      "reading": 77,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "135. Heroides — Ovid | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3131,
+      "catalog_title": "Heroides",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:3132",
+      "item_id": 3132,
+      "title": "Ars Amatoria",
+      "authors": "Ovid",
+      "standing": 136,
+      "reading": 78,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N099"
+      ],
+      "raw_record": "136. Ars Amatoria — Ovid | ; .  Evidence: ANC20260927-N099",
+      "reported_addition": null,
+      "resolved_item_id": 3132,
+      "catalog_title": "Ars Amatoria",
+      "canonical_source_ids": [
+        "ANC20260927-N099",
+        "ANC20260927-V09"
+      ]
+    },
+    {
+      "key": "work:3154",
+      "item_id": 3154,
+      "title": "Dyskolos",
+      "authors": "Menander",
+      "standing": 137,
+      "reading": 48,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N093",
+        "ANC20260927-N094"
+      ],
+      "raw_record": "137. Dyskolos — Menander | ; .  Evidence: ANC20260927-N093, ANC20260927-N094",
+      "reported_addition": null,
+      "resolved_item_id": 3154,
+      "catalog_title": "Dyskolos",
+      "canonical_source_ids": [
+        "ANC20260927-N093",
+        "ANC20260927-N094"
+      ]
+    },
+    {
+      "key": "work:3155",
+      "item_id": 3155,
+      "title": "Menaechmi",
+      "authors": "Plautus",
+      "standing": 138,
+      "reading": 31,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N097"
+      ],
+      "raw_record": "138. Menaechmi — Plautus | ; .  Evidence: ANC20260927-N097",
+      "reported_addition": null,
+      "resolved_item_id": 3155,
+      "catalog_title": "Menaechmi",
+      "canonical_source_ids": [
+        "ANC20260927-N097"
+      ]
+    },
+    {
+      "key": "work:3156",
+      "item_id": 3156,
+      "title": "Adelphoe",
+      "authors": "Terence",
+      "standing": 139,
+      "reading": 49,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N094",
+        "ANC20260927-N097"
+      ],
+      "raw_record": "139. Adelphoe — Terence | ; .  Evidence: ANC20260927-N094, ANC20260927-N097",
+      "reported_addition": null,
+      "resolved_item_id": 3156,
+      "catalog_title": "Adelphoe",
+      "canonical_source_ids": [
+        "ANC20260927-N094",
+        "ANC20260927-N097"
+      ]
+    },
+    {
+      "key": "work:947",
+      "item_id": 947,
+      "title": "Huainanzi",
+      "authors": "Liu An's court scholars",
+      "standing": 140,
+      "reading": 126,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N062"
+      ],
+      "raw_record": "140. Huainanzi — Liu An's court scholars | ; .  Evidence: ANC20260927-N062",
+      "reported_addition": null,
+      "resolved_item_id": 947,
+      "catalog_title": "Huainanzi",
+      "canonical_source_ids": [
+        "ANC20260927-N062"
+      ]
+    },
+    {
+      "key": "work:3158",
+      "item_id": 3158,
+      "title": "The Annals of Lü Buwei",
+      "authors": "Lü Buwei's scholars",
+      "standing": 141,
+      "reading": 127,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ],
+      "raw_record": "141. The Annals of Lü Buwei — Lü Buwei's scholars | ; .  Evidence: ANCIENT-001, ANCIENT-002, ANCIENT-003",
+      "reported_addition": null,
+      "resolved_item_id": 3158,
+      "catalog_title": "The Annals of Lü Buwei",
+      "canonical_source_ids": [
+        "ANCIENT-001",
+        "ANCIENT-002",
+        "ANCIENT-003"
+      ]
+    },
+    {
+      "key": "work:3159",
+      "item_id": 3159,
+      "title": "Liezi",
+      "authors": "Lie Yukou tradition",
+      "standing": 142,
+      "reading": 101,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N064"
+      ],
+      "raw_record": "142. Liezi — Lie Yukou tradition | ; .  Evidence: ANC20260927-N064",
+      "reported_addition": null,
+      "resolved_item_id": 3159,
+      "catalog_title": "Liezi",
+      "canonical_source_ids": [
+        "ANC20260927-N064"
+      ]
+    },
+    {
+      "key": "work:3160",
+      "item_id": 3160,
+      "title": "Baopuzi",
+      "authors": "Ge Hong",
+      "standing": 143,
+      "reading": 147,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N108"
+      ],
+      "raw_record": "143. Baopuzi — Ge Hong | ; .  Evidence: ANC20260927-N108",
+      "reported_addition": null,
+      "resolved_item_id": 3160,
+      "catalog_title": "Baopuzi",
+      "canonical_source_ids": [
+        "ANC20260927-N108"
+      ]
+    },
+    {
+      "key": "work:3161",
+      "item_id": 3161,
+      "title": "Selections of Refined Literature",
+      "authors": "Xiao Tong",
+      "standing": 144,
+      "reading": 133,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N065"
+      ],
+      "raw_record": "144. Selections of Refined Literature — Xiao Tong | ; .  Evidence: ANC20260927-N065",
+      "reported_addition": null,
+      "resolved_item_id": 3161,
+      "catalog_title": "Selections of Refined Literature",
+      "canonical_source_ids": [
+        "ANC20260927-N065"
+      ]
+    },
+    {
+      "key": "proposed:jataka",
+      "item_id": null,
+      "title": "Jataka birth stories",
+      "authors": "anonymous Pali Buddhist tradition",
+      "standing": 145,
+      "reading": 60,
+      "rationale": "Widely transmitted stories link narrative pleasure to ethical instruction across Asian traditions.",
+      "reading_rationale": "Read labelled selections first; later regional retellings and commentary must not be silently counted as the same ancient text.",
+      "source_ids": [],
+      "raw_record": "145. Jataka birth stories — anonymous Pali Buddhist tradition | Ancient verse collection; Pali prose redaction often c 5th century CE; Bounded birth-story corpus. Pali Buddhist South Asia|Widely transmitted stories link narrative pleasure to ethical instruction across Asian traditions.|Read labelled selections first; later regional retellings and commentary must not be silently counted as the same ancient text. Evidence: gap flagged",
+      "reported_addition": "Jataka birth stories — anonymous Pali Buddhist tradition | Ancient verse collection; Pali prose redaction often c 5th century CE; Bounded birth-story corpus. Pali Buddhist South Asia|Widely transmitted stories link narrative pleasure to ethical instruction across Asian traditions.|Read labelled selections first; later regional retellings and commentary must not be silently counted as the same ancient text. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N073"
+      ]
+    },
+    {
+      "key": "proposed:shanhaijing",
+      "item_id": null,
+      "title": "Classic of Mountains and Seas Shanhaijing",
+      "authors": "anonymous composite early Chinese tradition",
+      "standing": 146,
+      "reading": 105,
+      "rationale": "Its unusual inventory of places, beings and rites broadens the ancient imagination represented here.",
+      "reading_rationale": "Best read with notes and maps; current new support verifies the English edition more strongly than comparative merit.",
+      "source_ids": [],
+      "raw_record": "146. Classic of Mountains and Seas Shanhaijing — anonymous composite early Chinese tradition | c 4th century BCE–1st century CE; composite; Mythic geography collection. Early Chinese|Its unusual inventory of places, beings and rites broadens the ancient imagination represented here.|Best read with notes and maps; current new support verifies the English edition more strongly than comparative merit. Evidence: gap flagged",
+      "reported_addition": "Classic of Mountains and Seas Shanhaijing — anonymous composite early Chinese tradition | c 4th century BCE–1st century CE; composite; Mythic geography collection. Early Chinese|Its unusual inventory of places, beings and rites broadens the ancient imagination represented here.|Best read with notes and maps; current new support verifies the English edition more strongly than comparative merit. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N074"
+      ]
+    },
+    {
+      "key": "proposed:eloquent-peasant",
+      "item_id": null,
+      "title": "The Eloquent Peasant",
+      "authors": "anonymous Egyptian tradition",
+      "standing": 147,
+      "reading": 58,
+      "rationale": "The relation between eloquence, justice and social power gives the tale a strong comparative claim.",
+      "reading_rationale": "Short narrative frames elaborate petitions; its rhetorical repetition is part of the experience.",
+      "source_ids": [],
+      "raw_record": "147. The Eloquent Peasant — anonymous Egyptian tradition | Middle Kingdom c early 2nd millennium BCE; Literary tale with speeches. Ancient Egyptian|The relation between eloquence, justice and social power gives the tale a strong comparative claim.|Short narrative frames elaborate petitions; its rhetorical repetition is part of the experience. Evidence: gap flagged",
+      "reported_addition": "The Eloquent Peasant — anonymous Egyptian tradition | Middle Kingdom c early 2nd millennium BCE; Literary tale with speeches. Ancient Egyptian|The relation between eloquence, justice and social power gives the tale a strong comparative claim.|Short narrative frames elaborate petitions; its rhetorical repetition is part of the experience. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N017"
+      ]
+    },
+    {
+      "key": "proposed:egyptian-love-poems",
+      "item_id": null,
+      "title": "Ancient Egyptian love poems",
+      "authors": "anonymous Egyptian tradition",
+      "standing": 148,
+      "reading": 29,
+      "rationale": "Intimate lyric voices complement the epic, royal and funerary works that often dominate ancient Egyptian coverage.",
+      "reading_rationale": "Fresh imagery and brief forms make a rewarding entry; this is an editorial collection, not a single ancient authored book.",
+      "source_ids": [],
+      "raw_record": "148. Ancient Egyptian love poems — anonymous Egyptian tradition | Mainly New Kingdom c 13th–12th centuries BCE; Modern bounded selection of ancient poems. Ancient Egyptian|Intimate lyric voices complement the epic, royal and funerary works that often dominate ancient Egyptian coverage.|Fresh imagery and brief forms make a rewarding entry; this is an editorial collection, not a single ancient authored book. Evidence: gap flagged",
+      "reported_addition": "Ancient Egyptian love poems — anonymous Egyptian tradition | Mainly New Kingdom c 13th–12th centuries BCE; Modern bounded selection of ancient poems. Ancient Egyptian|Intimate lyric voices complement the epic, royal and funerary works that often dominate ancient Egyptian coverage.|Fresh imagery and brief forms make a rewarding entry; this is an editorial collection, not a single ancient authored book. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N024",
+        "ANC20260927-N025"
+      ]
+    },
+    {
+      "key": "proposed:gatha-sattasai",
+      "item_id": null,
+      "title": "Gatha Saptasati",
+      "authors": "Hala attribution and collective Maharashtri Prakrit tradition",
+      "standing": 149,
+      "reading": 107,
+      "rationale": "Secular lyric and rural voices broaden the selection beyond Sanskrit court and religious texts.",
+      "reading_rationale": "Short poems are inviting, but attribution to Hala is chiefly compilational and the pre-600 extent of the received anthology remains uncertain.",
+      "source_ids": [],
+      "raw_record": "149. Gatha Saptasati — Hala attribution and collective Maharashtri Prakrit tradition | Early centuries CE core; later accretion; Attributed seven-hundred-verse anthology. Maharashtri Prakrit South Asia|Secular lyric and rural voices broaden the selection beyond Sanskrit court and religious texts.|Short poems are inviting, but attribution to Hala is chiefly compilational and the pre-600 extent of the received anthology remains uncertain. Evidence: gap flagged",
+      "reported_addition": "Gatha Saptasati — Hala attribution and collective Maharashtri Prakrit tradition | Early centuries CE core; later accretion; Attributed seven-hundred-verse anthology. Maharashtri Prakrit South Asia|Secular lyric and rural voices broaden the selection beyond Sanskrit court and religious texts.|Short poems are inviting, but attribution to Hala is chiefly compilational and the pre-600 extent of the received anthology remains uncertain. Evidence: gap flagged.",
+      "resolved_item_id": null,
+      "canonical_source_ids": [
+        "ANC20260927-N042"
+      ]
+    },
+    {
+      "key": "work:1579",
+      "item_id": 1579,
+      "title": "Kamasutra",
+      "authors": "Vatsyayana",
+      "standing": 150,
+      "reading": 106,
+      "rationale": "Updated editorial position in the supplied ancient-works comparison. Candidate-level argument remains provisional; the report contains misaligned annotations, so existing catalog metadata is preserved.",
+      "reading_rationale": "Supplied reading-value position; consult a suitable English edition. Misaligned report annotations were not treated as verified work metadata.",
+      "source_ids": [
+        "ANC20260927-N099"
+      ],
+      "raw_record": "150. Kamasutra — Vatsyayana | ; .  Evidence: ANC20260927-N099",
+      "reported_addition": null,
+      "resolved_item_id": 1579,
+      "catalog_title": "Kamasutra",
+      "canonical_source_ids": [
+        "ANC20260927-N099"
+      ]
+    }
+  ]
+}

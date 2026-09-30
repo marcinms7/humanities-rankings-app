@@ -1,5 +1,7 @@
 # Classical education study tools — 14 September 2026
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 ## Focused enrichment pass
 
 Added 7 source records: an independent BMCR review, the Landmark Herodotus publisher description/contents, the Ancient Greek for Everyone contents and chapters 7–8, a Met hydria record, and a blocked OUP edition lead. The three textbook pages are related teaching material, not three independent endorsements. All additions are recorded in sources.json and served in Study sources. Totals now 27 records, 9 edition/resource choices, 17 language milestones, 5 passage exercises and 4 gallery studies. Existing assignments are preserved verbatim; new activities use new stable IDs under the existing version key. A full pre-enrichment content snapshot is retained alongside this file.

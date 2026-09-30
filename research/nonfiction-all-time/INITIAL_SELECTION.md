@@ -1,5 +1,7 @@
 # Nonfiction · All time — illustrated initial selection
 
+> Historical initial selection. Later publications supersede this small comparison; consult [current saved state](../../docs/CURRENT_STATE.md). Preserve this report as provenance.
+
 Initial researched selection: 6 books spanning philosophy, social inquiry and science. History, biography, economics, religion and arts need much greater coverage. Positions compare included works; expansion toward 100–200 continues.
 
 Two qualitative editorial comparisons based on target-local consulted evidence. Critical standing emphasizes achievement and enduring intellectual or critical reception; reading value emphasizes conceptual, imaginative and ethical rewards today. Difficulty is not an automatic deduction. These positions are editorial inferences, not aggregated source votes or personal scores. Membership currently reflects completed work, edition and image verification, not a claim that absent candidates were defeated. Adjacent positions and comparisons between subjects remain uncertain.

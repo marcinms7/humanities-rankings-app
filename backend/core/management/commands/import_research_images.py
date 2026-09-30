@@ -8,6 +8,7 @@ from django.core.files.base import ContentFile
 from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 from backend.core.models import Edition, Person
+from backend.core.management.receipts import save_import_receipt
 
 
 class Command(BaseCommand):
@@ -19,7 +20,8 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         path = Path(options['path'])
-        batch = json.loads(path.read_text())
+        raw = path.read_bytes()
+        batch = json.loads(raw)
         prepared = []
         seen = set()
         for r in batch['images']:
@@ -62,11 +64,14 @@ class Command(BaseCommand):
                 if not getattr(obj, field):
                     getattr(obj, field).save(Path(r['local_path']).name, ContentFile(data), save=False)
                     obj.image_attribution = r['attribution']
+                    updated_fields = [field, 'image_attribution', 'updated_at']
+                    if field == 'cover':
+                        obj.cover_source_url = r['source_url']
+                        obj.cover_basis = r.get('cover_basis', 'manually_supplied')
+                        updated_fields.extend(['cover_source_url', 'cover_basis'])
                     obj.full_clean()
-                    obj.save(update_fields=[field, 'image_attribution', 'updated_at'])
+                    obj.save(update_fields=updated_fields)
                     saved = True
                 results.append(dict(kind=field, id=obj.pk, file=getattr(obj, field).name, created=saved, sha256=r['sha256']))
-        receipt = path.with_name(path.stem + '-import-receipt.json')
-        if not receipt.exists():
-            receipt.write_text(json.dumps(dict(input_sha256=hashlib.sha256(path.read_bytes()).hexdigest(), images=results), indent=2) + '\n')
+        receipt = save_import_receipt(path, dict(input_sha256=hashlib.sha256(raw).hexdigest(), images=results))
         self.stdout.write(f'Attached {sum(r["created"] for r in results)} images; existing images preserved. Receipt: {receipt}')

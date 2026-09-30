@@ -1,76 +1,947 @@
+import { DraftRecoveryNotice, useDraftRecovery } from './draftRecovery'
+import { useUnsavedChanges } from './unsavedChanges'
 import { useEffect, useState } from 'react'
-import { api, useResource } from './api'
+import { api } from './api'
 import { Empty, ErrorNotice } from './components'
 
-type Card = { id: string; title: string; body: string; modules: string[]; sources: string[]; task?: string; related?: string[] }
-export type ClassicalWork = { key: string; id: number; title: string; author: string; position: number; beginner_start: string; modules: string[] }
+type Card = {
+  id: string
+  title: string
+  body: string
+  modules: string[]
+  sources: string[]
+  task?: string
+  related?: string[]
+}
+export type ClassicalWork = {
+  key: string
+  id: number
+  title: string
+  author: string
+  position: number
+  beginner_start: string
+  modules: string[]
+}
 export type Companion = {
-  revision: string; checked: string; ranking_id: number | null; works: ClassicalWork[]
+  revision: string
+  checked: string
+  ranking_id: number | null
+  works: ClassicalWork[]
   routes: { id: string; title: string; body: string; modules: string[] }[]
-  contexts: Card[]; glossary: Card[]; connections: Card[]; comparisons: Card[]; resources: Card[]; listening: Card[]
+  contexts: Card[]
+  glossary: Card[]
+  connections: Card[]
+  comparisons: Card[]
+  resources: Card[]
+  listening: Card[]
   sources: { id: string; title: string; url: string; access: string; evidence: string; checked: string }[]
 }
-type Commonplace = { work: number; related: number[]; reference: string; translator: string; passage: string; reflection: string; revisit: string; reviewed_on?: string; updated_at?: string }
-export type CompanionState = { companion?: { preferences?: { route: string; experience: string }; listening?: Record<string, boolean>; commonplaces?: Record<string, Commonplace> } }
-export type ClassicalPlan = { id: number; work: number; title: string; month: string; pages: number | null; locked: boolean; mode: string; passages: string; done: boolean }
-export type StartingRoute = { id: string; title: string; body: string; modules: string[]; preparation: string[]; experience: string; path: string; hours: number; weeks: number }
-const blankNote = (): Commonplace => ({ work: 0, related: [], reference: '', translator: '', passage: '', reflection: '', revisit: '' })
-const monthNow = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}` }
-const today = () => { const d = new Date(); return `${monthNow()}-${String(d.getDate()).padStart(2, '0')}` }
-export const companionTabs = ['Start here', 'Works & preparation', 'My classical plan', 'Context & glossary', 'Connections', 'Commonplace book', 'Courses & materials', 'Listening guide']
-
-export function ClassicalWorkPreparation({ id }: { id: number }) {
-  const resource = useResource<{ work: ClassicalWork; modules: { id: string; title: string; prerequisites: string[] }[]; module_titles: Record<string, string> }>(`/api/classical-education/?work=${id}`, 0)
-  if (!resource.data) return null
-  const { work, modules, module_titles } = resource.data
-  return <section className="panel panel-body"><h2>Classical study guide</h2><p>{work.beginner_start}</p><p className="small-text muted">Starter guidance from your supplied Top 250; recommended preparation is optional.</p>{modules.map(m => <p key={m.id}><a className="text-link" href={`#/classical-education?module=${m.id}`}>{m.title} →</a><br /><span className="small-text muted">Preparation: {m.prerequisites.map(id => module_titles[id]).join(', ') || 'No prior module recommended'}</span></p>)}{!modules.length && <p className="small-text muted">Independent extension: no syllabus module assigned yet.</p>}<a className="text-link" href={`#/classical-education?work=${id}`}>Open study space & plan this reading →</a></section>
+type Commonplace = {
+  work: number
+  related: number[]
+  reference: string
+  translator: string
+  passage: string
+  reflection: string
+  revisit: string
+  reviewed_on?: string
+  updated_at?: string
 }
+export type CompanionState = {
+  companion?: {
+    preferences?: { route: string; experience: string }
+    listening?: Record<string, boolean>
+    commonplaces?: Record<string, Commonplace>
+  }
+}
+export type ClassicalPlan = {
+  id: number
+  work: number
+  title: string
+  month: string
+  pages: number | null
+  pages_read: number | null
+  carried_pages: number
+  locked: boolean
+  mode: string
+  passages: string
+  done: boolean
+}
+export type StartingRoute = {
+  id: string
+  title: string
+  body: string
+  modules: string[]
+  preparation: string[]
+  experience: string
+  path: string
+  hours: number
+  weeks: number
+}
+const blankNote = (): Commonplace => ({
+  work: 0,
+  related: [],
+  reference: '',
+  translator: '',
+  passage: '',
+  reflection: '',
+  revisit: '',
+})
+const monthNow = () => {
+  const d = new Date()
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`
+}
+const today = () => {
+  const d = new Date()
+  return `${monthNow()}-${String(d.getDate()).padStart(2, '0')}`
+}
+export { companionTabs } from './studyTabs'
 
-export function ClassicalCompanion({ tab, content, state, modules, route, plans, pace, busy, save, open }: {
-  tab: string; content: Companion; state: CompanionState; modules: { id: string; title: string }[]
-  route: StartingRoute; plans: ClassicalPlan[]; pace: number; busy: boolean
-  save: (update: object) => Promise<boolean>; open: (id: string) => void
+export function ClassicalCompanion({
+  tab,
+  content,
+  state,
+  modules,
+  route,
+  plans,
+  pace,
+  busy,
+  save,
+  open,
+}: {
+  tab: string
+  content: Companion
+  state: CompanionState
+  modules: { id: string; title: string }[]
+  route: StartingRoute
+  plans: ClassicalPlan[]
+  pace: number
+  busy: boolean
+  save: (update: object) => Promise<boolean>
+  open: (id: string) => void
 }) {
-  const [search, setSearch] = useState(new URLSearchParams(location.hash.split('?')[1]).get('term') || ''), [moduleFilter, setModuleFilter] = useState('')
-  const [interest, setInterest] = useState(route.id), [experience, setExperience] = useState(route.experience)
-  const [workId, setWorkId] = useState(Number(new URLSearchParams(window.location.hash.split('?')[1]).get('work')) || content.works[0]?.id || 0)
-  const [month, setMonth] = useState(monthNow()), [pages, setPages] = useState(''), [mode, setMode] = useState('selections'), [passages, setPassages] = useState('')
-  const [preview, setPreview] = useState<{ title: string; month: string; pages: number; mode: string; passages: string; effort_pages: number; adds_to_library: boolean; note: string } | null>(null)
-  const [localBusy, setLocalBusy] = useState(false), [error, setError] = useState(''), [message, setMessage] = useState('')
-  const [note, setNote] = useState<Commonplace>(blankNote), [noteId, setNoteId] = useState(''), [dirty, setDirty] = useState(false), [dueOnly, setDueOnly] = useState(false)
-  useEffect(() => { setPreview(null) }, [workId, month, pages, mode, passages])
-  useEffect(() => { const warn = (e: BeforeUnloadEvent) => { if (dirty) { e.preventDefault(); e.returnValue = '' } }; window.addEventListener('beforeunload', warn); return () => window.removeEventListener('beforeunload', warn) }, [dirty])
+  const [search, setSearch] = useState(new URLSearchParams(location.hash.split('?')[1]).get('term') || ''),
+    [moduleFilter, setModuleFilter] = useState('')
+  const [interest, setInterest] = useState(route.id),
+    [experience, setExperience] = useState(route.experience)
+  const [workId, setWorkId] = useState(
+    Number(new URLSearchParams(window.location.hash.split('?')[1]).get('work')) || content.works[0]?.id || 0,
+  )
+  const [month, setMonth] = useState(monthNow()),
+    [pages, setPages] = useState(''),
+    [mode, setMode] = useState('selections'),
+    [passages, setPassages] = useState('')
+  const [preview, setPreview] = useState<{
+    preview_token: string
+    title: string
+    month: string
+    pages: number
+    mode: string
+    passages: string
+    capacity: { budget: number; used: number; unit: string }
+    over_capacity: number
+    effort_pages: number
+    adds_to_library: boolean
+    note: string
+  } | null>(null)
+  const [localBusy, setLocalBusy] = useState(false),
+    [error, setError] = useState(''),
+    [message, setMessage] = useState('')
+  const [note, setNote] = useState<Commonplace>(blankNote),
+    [noteId, setNoteId] = useState(''),
+    [dirty, setDirty] = useState(false),
+    [dueOnly, setDueOnly] = useState(false)
   useEffect(() => {
-    const warn = (e: MouseEvent) => {
-      const link = e.target instanceof Element ? e.target.closest('a[href]') : null
-      if (dirty && link && link.getAttribute('target') !== '_blank' && !window.confirm('Leave this page and discard unsaved commonplace changes?')) { e.preventDefault(); e.stopPropagation() }
-    }
-    document.addEventListener('click', warn, true)
-    return () => document.removeEventListener('click', warn, true)
-  }, [dirty])
+    setPreview(null)
+  }, [workId, month, pages, mode, passages])
+  const noteRecovery = useDraftRecovery({
+    scope: 'study-commonplace-editor',
+    label: 'Commonplace note',
+    value: { note, noteId },
+    dirty,
+    baseVersion: state.companion?.commonplaces?.[noteId]?.updated_at || '',
+    restore: (value) => {
+      setNote(value.note)
+      setNoteId(value.noteId)
+      setDirty(true)
+    },
+  })
+  useUnsavedChanges(dirty)
   const disabled = busy || localBusy
-  const moduleLinks = (ids: string[]) => <div className="classical-links">{ids.map(id => <button key={id} className="text-link" onClick={() => open(id)}>{modules.find(m => m.id === id)?.title || id}</button>)}</div>
-  const refs = (ids: string[]) => <details className="small-text"><summary>Sources & access notes</summary>{ids.map(id => { const s = content.sources.find(s => s.id === id); return s && <p key={id}><a className="text-link" href={s.url} target="_blank" rel="noreferrer">{s.title} ↗</a><br />{s.access} · checked {s.checked}<br /><span className="muted">{s.evidence}</span></p> })}</details>
-  const normalized = (value: string) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase()
+  const moduleLinks = (ids: string[]) => (
+    <div className="classical-links">
+      {ids.map((id) => (
+        <button key={id} className="text-link" onClick={() => open(id)}>
+          {modules.find((m) => m.id === id)?.title || id}
+        </button>
+      ))}
+    </div>
+  )
+  const refs = (ids: string[]) => (
+    <details className="small-text">
+      <summary>Sources & access notes</summary>
+      {ids.map((id) => {
+        const s = content.sources.find((s) => s.id === id)
+        return (
+          s && (
+            <p key={id}>
+              <a className="text-link" href={s.url} target="_blank" rel="noreferrer">
+                {s.title} ↗
+              </a>
+              <br />
+              {s.access} · checked {s.checked}
+              <br />
+              <span className="muted">{s.evidence}</span>
+            </p>
+          )
+        )
+      })}
+    </details>
+  )
+  const normalized = (value: string) =>
+    value
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLocaleLowerCase()
   const matches = (value: unknown) => normalized(JSON.stringify(value)).includes(normalized(search))
-  const cards = (items: Card[]) => <div className="rankings-grid">{items.filter(c => matches(c) && (!moduleFilter || c.modules.includes(moduleFilter))).map(c => <article key={c.id} id={`study-card-${c.id}`} className="panel panel-body"><h3>{c.title}</h3><p>{c.body}</p>{c.task && <p className="notice"><strong>Try this:</strong> {c.task}</p>}{moduleLinks(c.modules)}{c.related && <div className="classical-links">{c.related.map(id => <a key={id} className="text-link" href={`#/classical-education?tab=glossary&term=${id}`}>{content.glossary.find(g => g.id === id)?.title || id}</a>)}</div>}{refs(c.sources)}</article>)}</div>
-  const workOptions = content.works.map(w => <option key={w.id} value={w.id}>#{w.position} {w.title} · {w.author}</option>)
-  const work = content.works.find(w => w.id === workId)
-  const updateNote = (change: Partial<Commonplace>) => { setNote(n => ({ ...n, ...change })); setDirty(true) }
-  async function commit(update: object, success: string) { setMessage(''); const okay = await save({ companion: update }); if (okay) setMessage(success); return okay }
-  function editNote(id: string, value: Commonplace) { if (dirty && !window.confirm('Discard unsaved commonplace changes?')) return; setNoteId(id); setNote({ ...blankNote(), ...value }); setDirty(false) }
-  const selectedWorks = content.works.filter(w => matches(w) && (!moduleFilter || w.modules.includes(moduleFilter)))
-  return <section className="classical-companion" aria-label="Classical study companion">
-    {error && <ErrorNotice>{error}</ErrorNotice>}{message && <p className="notice" role="status">{message}</p>}
-    {['Works & preparation', 'Context & glossary', 'Connections', 'Courses & materials', 'Listening guide', 'Commonplace book'].includes(tab) && <div className="toolbar"><input className="search-input" aria-label="Search study companion" placeholder="Search this study view…" value={search} onChange={e => setSearch(e.target.value)} />{tab !== 'Commonplace book' && <select className="filter-select" aria-label="Related module" value={moduleFilter} onChange={e => setModuleFilter(e.target.value)}><option value="">All modules</option>{modules.map(m => <option key={m.id} value={m.id}>{m.title}</option>)}</select>}<button className="text-link" onClick={() => { setSearch(''); setModuleFilter('') }}>Clear filters</button></div>}
-    {tab === 'Start here' && <><h2>Where should I start?</h2><div className="panel panel-body"><div className="toolbar"><label className="field"><span>Your interest</span><select className="select" value={interest} onChange={e => setInterest(e.target.value)}>{content.routes.map(r => <option key={r.id} value={r.id}>{r.title}</option>)}</select></label><label className="field"><span>Experience with classical texts</span><select className="select" value={experience} onChange={e => setExperience(e.target.value)}><option value="beginner">New to these texts</option><option value="some">Some reading already</option><option value="experienced">Experienced reader</option></select></label><button className="button primary" disabled={disabled} onClick={() => void commit({ action: 'preferences', route: interest, experience }, 'Starting route saved. Your syllabus progress is unchanged.')}>Build my starting route</button></div><h3>{route.title}</h3><p>{route.body}</p><p>{route.path === 'light' ? 'Lighter' : 'Rigorous'} assignments · {route.hours} estimated study hours · about {route.weeks} weeks at {pace} hours/week.</p><p className="small-text muted">Change weekly hours above. Building a route for new readers selects the Lighter path without erasing progress; other readers use the selected study path. Estimates exclude optional preparation, courses and listening. Nothing is automatically scheduled or marked read.</p><ol>{route.modules.map(id => <li key={id}>{moduleLinks([id])}</li>)}</ol>{route.preparation.length > 0 && <><h3>Optional preparation to consult as needed</h3>{moduleLinks(route.preparation)}</>}</div></>}
-    {tab === 'Works & preparation' && <><h2>The ranking, made readable</h2><p>Starter readings come from your supplied Top 250 report. Module connections are editorial study aids, not changes to the ranking. Not every ranked work has a full syllabus assignment.</p><label className="field"><span>Open a ranked work</span><select className="select" value={workId} onChange={e => setWorkId(Number(e.target.value))}>{workOptions}</select></label>{work && <article className="panel panel-body"><h3>#{work.position} · {work.title}</h3><p>{work.author}</p><p className="notice">{work.beginner_start}</p><h4>Related syllabus modules</h4>{work.modules.length ? moduleLinks(work.modules) : <p className="muted">Independent extension: no matching module assignment yet.</p>}<p><a className="text-link" href={`#/books/${work.id}`}>Open book & editions</a> · <a className="text-link" href={`#/rankings/${content.ranking_id}?group=classical-education`}>Ranking, evidence & revisions</a></p><p className="small-text muted">Open a module for recommended preparation, assignments and its supporting resources. Use My classical plan to schedule this selected work.</p></article>}<details className="panel panel-body"><summary>Browse matching works ({selectedWorks.length})</summary>{selectedWorks.map(w => <p key={w.id}><button className="text-link" onClick={() => setWorkId(w.id)}>#{w.position} · {w.title}</button> <span className="small-text muted">{w.author}</span></p>)}</details></>}
-    {tab === 'My classical plan' && <><h2>A reading plan, not a completion shortcut</h2><p>Choose a book and a real page allocation from your edition. Saving adds it to your library if needed and appends a locked item to the existing monthly planner. Existing allocations and book status are never replaced.</p><form className="panel panel-body" onSubmit={async e => { e.preventDefault(); setLocalBusy(true); setError(''); setMessage(''); try { const result = await api<{ preview: NonNullable<typeof preview> }>('/api/classical-education/', 'PATCH', { companion: { action: 'plan-preview', work: workId, month: `${month}-01`, pages: Number(pages), mode, passages } }); setPreview(result.preview) } catch (err) { setError((err as Error).message) } finally { setLocalBusy(false) } }}><label className="field"><span>Ranked work</span><select className="select" disabled={disabled} value={workId} onChange={e => setWorkId(Number(e.target.value))}>{workOptions}</select></label>{work && <p className="small-text muted">Suggested start: {work.beginner_start}</p>}<div className="form-grid"><label className="field"><span>Month</span><input className="input" type="month" required min="1900-01" max="2200-12" disabled={disabled} value={month} onChange={e => setMonth(e.target.value)} /></label><label className="field"><span>Reading scope</span><select className="select" disabled={disabled} value={mode} onChange={e => setMode(e.target.value)}><option value="selections">Selected passages only</option><option value="whole">Whole work</option></select></label><label className="field"><span>Actual pages allocated this month</span><input className="input" type="number" min={1} max={100000} required disabled={disabled} value={pages} onChange={e => setPages(e.target.value)} /></label><label className="field"><span>Passages / edition reference{mode === 'selections' ? ' (required)' : ''}</span><input className="input" maxLength={2000} required={mode === 'selections'} disabled={disabled} value={passages} onChange={e => setPassages(e.target.value)} placeholder="e.g. Iliad books 1 & 6, translator, edition pages" /></label></div><button className="button secondary" disabled={disabled}>Preview allocation</button></form>{preview && <div className="panel panel-body" role="status"><h3>Preview · {preview.title}</h3><p>{preview.month.slice(0, 7)} · {preview.pages} physical pages · {preview.effort_pages} provisional effort pages · {preview.mode === 'selections' ? 'Selections' : 'Whole-work route'}</p><p>{preview.passages}</p><p>{preview.note}</p>{preview.adds_to_library && <p>This will also save the existing book to your private library as Want to read.</p>}<button className="button primary" disabled={disabled} onClick={async () => { if (await commit({ action: 'plan-add', work: workId, month: `${month}-01`, pages: Number(pages), mode, passages, confirmed: true }, 'Added to your monthly reading plan.')) setPreview(null) }}>Confirm & add to my plan</button></div>}<p><a className="button secondary" href="#/planner">Open full Reading plan →</a></p><p className="small-text muted">Unlock or move allocations in Reading plan. Completion below means this allocation/selection is done; it never marks the whole book finished or completes a syllabus module.</p>{plans.length ? plans.map(p => <article className="panel panel-body" key={p.id}><h3><a href={`#/books/${p.work}`}>{p.title}</a></h3><p>{p.month.slice(0, 7)} · {p.pages ?? 'Unknown'} pages · {p.mode === 'selections' ? 'Selections only' : 'Whole-work route'} · {p.locked ? 'Locked allocation' : 'Unlocked in planner'}</p><p>{p.passages}</p><button className="button secondary small" disabled={disabled} onClick={() => void commit({ action: 'plan-progress', id: p.id, done: !p.done }, 'Allocation progress saved.')}>{p.done ? '✓ Allocation completed — undo' : 'Mark this allocation complete'}</button></article>) : <Empty title="No classical allocations yet">Preview your first reading selection above.</Empty>}</>}
-    {tab === 'Context & glossary' && <><h2>Ancient-world glossary</h2><p className="small-text muted">Working definitions with examples, not substitutes for author-specific interpretation or a historical lexicon. Search with or without accents.</p><div className="classical-links">{content.glossary.map(g => <button key={g.id} className="text-link" onClick={() => { setSearch(g.id); setModuleFilter('') }}>{g.title}</button>)}</div>{cards(content.glossary)}<p><a className="text-link" href="#/classical-education?tab=desk">Apply these ideas in the Reading desk →</a></p><h2>Context before you begin</h2>{cards(content.contexts)}</>}
-    {tab === 'Connections' && <><h2>Ancient texts, later lives</h2><p>Editorial comparisons and transmission routes. An arrow does not imply an exhaustive or one-way history of influence.</p>{cards(content.connections)}</>}
-    {tab === 'Edition guide' && <><h2>Translation comparisons</h2>{cards(content.comparisons)}</>}
-    {tab === 'Courses & materials' && <><h2>University guides & online materials</h2><p className="notice">Choose a role: Yale for recorded lectures, MIT for a syllabus and writing tasks, Oxford for preparatory reading, OpenLearn for first language steps, Dickinson for annotated texts. These are external resources, not Marginalia-accredited courses. Course dates, access limits and checks are shown below.</p>{cards(content.resources)}</>}
-    {tab === 'Listening guide' && <><h2>History of Philosophy without any gaps</h2><p><a className="text-link" href="https://historyofphilosophy.net/" target="_blank" rel="noreferrer">Explore the complete podcast website ↗</a></p><p>Begin with these six pairings, then explore the site's wider traditions and periods. These are editorial companions, not required assignments. Episode pages were checked; audio was not listened through. Links open the original site, with no third-party player loaded here.</p>{refs(['hop'])}<div className="rankings-grid">{content.listening.filter(c => matches(c) && (!moduleFilter || c.modules.includes(moduleFilter))).map(c => <article className="panel panel-body" key={c.id}><h3>{c.title}</h3><p>{c.body}</p><a className="button secondary small" href={content.sources.find(s => s.id === c.sources[0])?.url} target="_blank" rel="noreferrer">Open episode ↗</a><p>{c.task}</p>{moduleLinks(c.modules)}<p><button className="button secondary small" disabled={disabled} onClick={() => void commit({ action: 'listen', id: c.id, done: !state.companion?.listening?.[c.id] }, 'Listening progress saved separately from reading.')}>{state.companion?.listening?.[c.id] ? '✓ Listened — undo' : 'Mark listened'}</button></p>{refs(c.sources)}</article>)}</div></>}
-    {tab === 'Commonplace book' && <><h2>Passages to return to</h2><p>Save a reference, translator/edition and your own reflection. Quotations are optional; keep extracts short. Your notes remain private and are included in the syllabus export.</p><form className="panel panel-body" onSubmit={async e => { e.preventDefault(); if (await commit({ action: 'commonplace', ...(noteId ? { id: noteId } : {}), work: note.work, related: note.related, reference: note.reference, translator: note.translator, passage: note.passage, reflection: note.reflection, revisit: note.revisit }, 'Commonplace saved.')) { setDirty(false); setNoteId(''); setNote(blankNote()) } }}><h3>{noteId ? 'Edit saved passage' : 'New commonplace'}</h3><label className="field"><span>Work</span><select className="select" required disabled={disabled} value={note.work || ''} onChange={e => updateNote({ work: Number(e.target.value) })}><option value="">Choose a ranked work</option>{workOptions}</select></label><div className="form-grid"><label className="field"><span>Book / chapter / line reference</span><input className="input" required maxLength={500} disabled={disabled} value={note.reference} onChange={e => updateNote({ reference: e.target.value })} /></label><label className="field"><span>Translator and edition (or original language)</span><input className="input" required maxLength={500} disabled={disabled} value={note.translator} onChange={e => updateNote({ translator: e.target.value })} /></label></div><label className="field"><span>Short passage (optional)</span><textarea className="input" rows={3} maxLength={4000} disabled={disabled} value={note.passage} onChange={e => updateNote({ passage: e.target.value })} /></label><label className="field"><span>Your reflection</span><textarea className="input classical-notes" required maxLength={20000} disabled={disabled} value={note.reflection} onChange={e => updateNote({ reflection: e.target.value })} /></label><label className="field"><span>Connect another work (up to ten)</span><select className="select" disabled={disabled || note.related.length >= 10} value="" onChange={e => { const id = Number(e.target.value); if (id && !note.related.includes(id)) updateNote({ related: [...note.related, id] }) }}><option value="">Choose a related work</option>{workOptions}</select></label><div className="classical-links">{note.related.map(id => <button type="button" className="button secondary small" disabled={disabled} key={id} onClick={() => updateNote({ related: note.related.filter(w => w !== id) })}>{content.works.find(w => w.id === id)?.title} ×</button>)}</div><label className="field"><span>Revisit on (optional)</span><input className="input" type="date" min="1900-01-01" max="2200-12-31" disabled={disabled} value={note.revisit} onChange={e => updateNote({ revisit: e.target.value })} /></label><div className="toolbar"><button className="button primary" disabled={disabled || !dirty}>Save commonplace</button><button type="button" className="button secondary" disabled={disabled} onClick={() => editNote('', blankNote())}>Clear draft / new note</button></div></form><label className="checkbox-field"><input type="checkbox" checked={dueOnly} onChange={e => setDueOnly(e.target.checked)} /> Only passages due to revisit</label>{Object.entries(state.companion?.commonplaces || {}).filter(([, n]) => matches({ ...n, title: content.works.find(w => w.id === n.work)?.title }) && (!dueOnly || (n.revisit && n.revisit <= today()))).sort((a, b) => (a[1].revisit || '9999').localeCompare(b[1].revisit || '9999')).map(([id, n]) => <article className="panel panel-body" key={id}><h3><a href={`#/books/${n.work}`}>{content.works.find(w => w.id === n.work)?.title || 'Saved work'}</a> · {n.reference}</h3><p className="small-text muted">{n.translator} · {n.revisit ? `Revisit ${n.revisit}` : 'No revisit date'}{n.reviewed_on && ` · Last reviewed ${n.reviewed_on}`}</p>{n.passage && <blockquote className="classical-text">{n.passage}</blockquote>}<p className="classical-text">{n.reflection}</p><div className="classical-links">{n.related?.map(w => <a key={w} href={`#/books/${w}`}>{content.works.find(r => r.id === w)?.title || 'Related work'}</a>)}</div><div className="toolbar"><button className="button secondary small" disabled={disabled} onClick={() => editNote(id, n)}>Edit / reschedule</button><button className="button secondary small" disabled={disabled} onClick={() => void commit({ action: 'review', id, revisit: '' }, 'Passage reviewed; its reminder is cleared. Set a new date using Edit.')}>Mark revisited</button></div></article>)}</>}
-  </section>
+  const cards = (items: Card[]) => (
+    <div className="rankings-grid">
+      {items
+        .filter((c) => matches(c) && (!moduleFilter || c.modules.includes(moduleFilter)))
+        .map((c) => (
+          <article key={c.id} id={`study-card-${c.id}`} className="panel panel-body">
+            <h3>{c.title}</h3>
+            <p>{c.body}</p>
+            {c.task && (
+              <p className="notice">
+                <strong>Try this:</strong> {c.task}
+              </p>
+            )}
+            {moduleLinks(c.modules)}
+            {c.related && (
+              <div className="classical-links">
+                {c.related.map((id) => (
+                  <a key={id} className="text-link" href={`#/classical-education?tab=glossary&term=${id}`}>
+                    {content.glossary.find((g) => g.id === id)?.title || id}
+                  </a>
+                ))}
+              </div>
+            )}
+            {refs(c.sources)}
+          </article>
+        ))}
+    </div>
+  )
+  const workOptions = content.works.map((w) => (
+    <option key={w.id} value={w.id}>
+      #{w.position} {w.title} · {w.author}
+    </option>
+  ))
+  const work = content.works.find((w) => w.id === workId)
+  const updateNote = (change: Partial<Commonplace>) => {
+    setNote((n) => ({ ...n, ...change }))
+    setDirty(true)
+  }
+  async function commit(update: object, success: string) {
+    setMessage('')
+    const okay = await save({ companion: update })
+    if (okay) setMessage(success)
+    return okay
+  }
+  function editNote(id: string, value: Commonplace) {
+    if (dirty && !window.confirm('Discard unsaved commonplace changes?')) return
+    if (dirty) noteRecovery.saved()
+    setNoteId(id)
+    setNote({ ...blankNote(), ...value })
+    setDirty(false)
+  }
+  const selectedWorks = content.works.filter(
+    (w) => matches(w) && (!moduleFilter || w.modules.includes(moduleFilter)),
+  )
+  return (
+    <section className="classical-companion" aria-label="Classical study companion">
+      {error && <ErrorNotice>{error}</ErrorNotice>}
+      {message && (
+        <p className="notice" role="status">
+          {message}
+        </p>
+      )}
+      {[
+        'Works & preparation',
+        'Context & glossary',
+        'Connections',
+        'Courses & materials',
+        'Listening guide',
+        'Commonplace book',
+      ].includes(tab) && (
+        <div className="toolbar">
+          <input
+            className="search-input"
+            aria-label="Search study companion"
+            placeholder="Search this study view…"
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+          />
+          {tab !== 'Commonplace book' && (
+            <select
+              className="filter-select"
+              aria-label="Related module"
+              value={moduleFilter}
+              onChange={(e) => setModuleFilter(e.target.value)}
+            >
+              <option value="">All modules</option>
+              {modules.map((m) => (
+                <option key={m.id} value={m.id}>
+                  {m.title}
+                </option>
+              ))}
+            </select>
+          )}
+          <button
+            className="text-link"
+            onClick={() => {
+              setSearch('')
+              setModuleFilter('')
+            }}
+          >
+            Clear filters
+          </button>
+        </div>
+      )}
+      {tab === 'Start here' && (
+        <>
+          <h2>Where should I start?</h2>
+          <div className="panel panel-body">
+            <div className="toolbar">
+              <label className="field">
+                <span>Your interest</span>
+                <select className="select" value={interest} onChange={(e) => setInterest(e.target.value)}>
+                  {content.routes.map((r) => (
+                    <option key={r.id} value={r.id}>
+                      {r.title}
+                    </option>
+                  ))}
+                </select>
+              </label>
+              <label className="field">
+                <span>Experience with classical texts</span>
+                <select className="select" value={experience} onChange={(e) => setExperience(e.target.value)}>
+                  <option value="beginner">New to these texts</option>
+                  <option value="some">Some reading already</option>
+                  <option value="experienced">Experienced reader</option>
+                </select>
+              </label>
+              <button
+                className="button primary"
+                disabled={disabled}
+                onClick={() =>
+                  void commit(
+                    { action: 'preferences', route: interest, experience },
+                    'Starting route saved. Your syllabus progress is unchanged.',
+                  )
+                }
+              >
+                Build my starting route
+              </button>
+            </div>
+            <h3>{route.title}</h3>
+            <p>{route.body}</p>
+            <p>
+              {route.path === 'light' ? 'Lighter' : 'Rigorous'} assignments · {route.hours} estimated study
+              hours · about {route.weeks} weeks at {pace} hours/week.
+            </p>
+            <p className="small-text muted">
+              Change weekly hours above. Building a route for new readers selects the Lighter path without
+              erasing progress; other readers use the selected study path. Estimates exclude optional
+              preparation, courses and listening. Nothing is automatically scheduled or marked read.
+            </p>
+            <ol>
+              {route.modules.map((id) => (
+                <li key={id}>{moduleLinks([id])}</li>
+              ))}
+            </ol>
+            {route.preparation.length > 0 && (
+              <>
+                <h3>Optional preparation to consult as needed</h3>
+                {moduleLinks(route.preparation)}
+              </>
+            )}
+          </div>
+        </>
+      )}
+      {tab === 'Works & preparation' && (
+        <>
+          <h2>The ranking, made readable</h2>
+          <p>
+            Starter readings come from your supplied Top 250 report. Module connections are editorial study
+            aids, not changes to the ranking. Not every ranked work has a full syllabus assignment.
+          </p>
+          <label className="field">
+            <span>Open a ranked work</span>
+            <select className="select" value={workId} onChange={(e) => setWorkId(Number(e.target.value))}>
+              {workOptions}
+            </select>
+          </label>
+          {work && (
+            <article className="panel panel-body">
+              <h3>
+                #{work.position} · {work.title}
+              </h3>
+              <p>{work.author}</p>
+              <p className="notice">{work.beginner_start}</p>
+              <h4>Related syllabus modules</h4>
+              {work.modules.length ? (
+                moduleLinks(work.modules)
+              ) : (
+                <p className="muted">Independent extension: no matching module assignment yet.</p>
+              )}
+              <p>
+                <a className="text-link" href={`#/books/${work.id}`}>
+                  Open book & editions
+                </a>{' '}
+                ·{' '}
+                <a className="text-link" href={`#/rankings/${content.ranking_id}?group=classical-education`}>
+                  Ranking, evidence & revisions
+                </a>
+              </p>
+              <p className="small-text muted">
+                Open a module for recommended preparation, assignments and its supporting resources. Use My
+                classical plan to schedule this selected work.
+              </p>
+            </article>
+          )}
+          <details className="panel panel-body">
+            <summary>Browse matching works ({selectedWorks.length})</summary>
+            {selectedWorks.map((w) => (
+              <p key={w.id}>
+                <button className="text-link" onClick={() => setWorkId(w.id)}>
+                  #{w.position} · {w.title}
+                </button>{' '}
+                <span className="small-text muted">{w.author}</span>
+              </p>
+            ))}
+          </details>
+        </>
+      )}
+      {tab === 'My classical plan' && (
+        <>
+          <h2>A reading plan, not a completion shortcut</h2>
+          <p>
+            Choose a book and a real page allocation from your edition. Saving adds it to your library if
+            needed and appends a locked item to the existing monthly planner. Existing allocations and book
+            status are never replaced.
+          </p>
+          <form
+            className="panel panel-body"
+            onSubmit={async (e) => {
+              e.preventDefault()
+              setLocalBusy(true)
+              setError('')
+              setMessage('')
+              try {
+                const result = await api<{ preview: NonNullable<typeof preview> }>(
+                  '/api/classical-education/',
+                  'PATCH',
+                  {
+                    companion: {
+                      action: 'plan-preview',
+                      work: workId,
+                      month: `${month}-01`,
+                      pages: Number(pages),
+                      mode,
+                      passages,
+                    },
+                  },
+                )
+                setPreview(result.preview)
+              } catch (err) {
+                setError((err as Error).message)
+              } finally {
+                setLocalBusy(false)
+              }
+            }}
+          >
+            <label className="field">
+              <span>Ranked work</span>
+              <select
+                className="select"
+                disabled={disabled}
+                value={workId}
+                onChange={(e) => setWorkId(Number(e.target.value))}
+              >
+                {workOptions}
+              </select>
+            </label>
+            {work && <p className="small-text muted">Suggested start: {work.beginner_start}</p>}
+            <div className="form-grid">
+              <label className="field">
+                <span>Month</span>
+                <input
+                  className="input"
+                  type="month"
+                  required
+                  min="1900-01"
+                  max="2200-12"
+                  disabled={disabled}
+                  value={month}
+                  onChange={(e) => setMonth(e.target.value)}
+                />
+              </label>
+              <label className="field">
+                <span>Reading scope</span>
+                <select
+                  className="select"
+                  disabled={disabled}
+                  value={mode}
+                  onChange={(e) => setMode(e.target.value)}
+                >
+                  <option value="selections">Selected passages only</option>
+                  <option value="whole">Whole work</option>
+                </select>
+              </label>
+              <label className="field">
+                <span>Actual pages allocated this month</span>
+                <input
+                  className="input"
+                  type="number"
+                  min={1}
+                  max={100000}
+                  required
+                  disabled={disabled}
+                  value={pages}
+                  onChange={(e) => setPages(e.target.value)}
+                />
+              </label>
+              <label className="field">
+                <span>Passages / edition reference{mode === 'selections' ? ' (required)' : ''}</span>
+                <input
+                  className="input"
+                  maxLength={2000}
+                  required={mode === 'selections'}
+                  disabled={disabled}
+                  value={passages}
+                  onChange={(e) => setPassages(e.target.value)}
+                  placeholder="e.g. Iliad books 1 & 6, translator, edition pages"
+                />
+              </label>
+            </div>
+            <button className="button secondary" disabled={disabled}>
+              Preview allocation
+            </button>
+          </form>
+          {preview && (
+            <div className="panel panel-body" role="status">
+              <h3>Preview · {preview.title}</h3>
+              <p>
+                {preview.month.slice(0, 7)} · {preview.pages} physical pages · {preview.effort_pages}{' '}
+                provisional effort pages · {preview.mode === 'selections' ? 'Selections' : 'Whole-work route'}
+              </p>
+              <p>{preview.passages}</p>
+              <p>{preview.note}</p>
+              <p className="small-text muted">
+                Month target: {Math.round(preview.capacity.budget)}{' '}
+                {preview.capacity.unit === 'baseline_pages' ? 'baseline pages' : 'pages'}, including pauses
+                and temporary targets.
+              </p>
+              {preview.over_capacity > 0 && (
+                <p className="source-limit">
+                  This explicit allocation would exceed the month’s target by{' '}
+                  {Math.round(preview.over_capacity)}{' '}
+                  {preview.capacity.unit === 'baseline_pages' ? 'baseline pages' : 'pages'}.
+                </p>
+              )}
+              {preview.adds_to_library && (
+                <p>This will also save the existing book to your private library as Want to read.</p>
+              )}
+              <button
+                className="button primary"
+                disabled={disabled}
+                onClick={async () => {
+                  await commit(
+                    {
+                      action: 'plan-add',
+                      work: workId,
+                      month: `${month}-01`,
+                      pages: Number(pages),
+                      mode,
+                      passages,
+                      confirmed: true,
+                      preview_token: preview.preview_token,
+                    },
+                    'Added to your monthly reading plan.',
+                  )
+                  setPreview(null)
+                }}
+              >
+                Confirm & add to my plan
+              </button>
+            </div>
+          )}
+          <p>
+            <a className="button secondary" href="#/planner">
+              Open full Reading plan →
+            </a>
+          </p>
+          <p className="small-text muted">
+            Unlock or move allocations in Reading plan. The completion checkbox below tracks your study
+            checklist. Record physical pages read for the month in Reading plan; the checkbox does not change
+            that total, mark a book finished or complete a syllabus module.
+          </p>
+          {plans.length ? (
+            plans.map((p) => (
+              <article className="panel panel-body" key={p.id}>
+                <h3>
+                  <a href={`#/books/${p.work}`}>{p.title}</a>
+                </h3>
+                <p>
+                  {p.month.slice(0, 7)} · {p.pages ?? 'Unknown'} pages ·{' '}
+                  {p.mode === 'selections' ? 'Selections only' : 'Whole-work route'} ·{' '}
+                  {p.locked ? 'Locked allocation' : 'Unlocked in planner'}
+                </p>
+                <p className="small-text muted">
+                  Monthly pages read: {p.pages_read == null ? 'not recorded' : p.pages_read}
+                  {p.carried_pages > 0 && ` · ${p.carried_pages} carried forward`}
+                </p>
+                <p>{p.passages}</p>
+                <button
+                  className="button secondary small"
+                  disabled={disabled}
+                  onClick={() =>
+                    void commit(
+                      { action: 'plan-progress', id: p.id, done: !p.done },
+                      'Allocation progress saved.',
+                    )
+                  }
+                >
+                  {p.done ? '✓ Study checklist complete — undo' : 'Mark study checklist complete'}
+                </button>
+              </article>
+            ))
+          ) : (
+            <Empty title="No classical allocations yet">Preview your first reading selection above.</Empty>
+          )}
+        </>
+      )}
+      {tab === 'Context & glossary' && (
+        <>
+          <h2>Ancient-world glossary</h2>
+          <p className="small-text muted">
+            Working definitions with examples, not substitutes for author-specific interpretation or a
+            historical lexicon. Search with or without accents.
+          </p>
+          <div className="classical-links">
+            {content.glossary.map((g) => (
+              <button
+                key={g.id}
+                className="text-link"
+                onClick={() => {
+                  setSearch(g.id)
+                  setModuleFilter('')
+                }}
+              >
+                {g.title}
+              </button>
+            ))}
+          </div>
+          {cards(content.glossary)}
+          <p>
+            <a className="text-link" href="#/classical-education?tab=desk">
+              Apply these ideas in the Reading desk →
+            </a>
+          </p>
+          <h2>Context before you begin</h2>
+          {cards(content.contexts)}
+        </>
+      )}
+      {tab === 'Connections' && (
+        <>
+          <h2>Ancient texts, later lives</h2>
+          <p>
+            Editorial comparisons and transmission routes. An arrow does not imply an exhaustive or one-way
+            history of influence.
+          </p>
+          {cards(content.connections)}
+        </>
+      )}
+      {tab === 'Edition guide' && (
+        <>
+          <h2>Translation comparisons</h2>
+          {cards(content.comparisons)}
+        </>
+      )}
+      {tab === 'Courses & materials' && (
+        <>
+          <h2>University guides & online materials</h2>
+          <p className="notice">
+            Choose a role: Yale for recorded lectures, MIT for a syllabus and writing tasks, Oxford for
+            preparatory reading, OpenLearn for first language steps, Dickinson for annotated texts. These are
+            external resources, not Marginalia-accredited courses. Course dates, access limits and checks are
+            shown below.
+          </p>
+          {cards(content.resources)}
+        </>
+      )}
+      {tab === 'Listening guide' && (
+        <>
+          <h2>History of Philosophy without any gaps</h2>
+          <p>
+            <a className="text-link" href="https://historyofphilosophy.net/" target="_blank" rel="noreferrer">
+              Explore the complete podcast website ↗
+            </a>
+          </p>
+          <p>
+            Begin with these six pairings, then explore the site's wider traditions and periods. These are
+            editorial companions, not required assignments. Episode pages were checked; audio was not listened
+            through. Links open the original site, with no third-party player loaded here.
+          </p>
+          {refs(['hop'])}
+          <div className="rankings-grid">
+            {content.listening
+              .filter((c) => matches(c) && (!moduleFilter || c.modules.includes(moduleFilter)))
+              .map((c) => (
+                <article className="panel panel-body" key={c.id}>
+                  <h3>{c.title}</h3>
+                  <p>{c.body}</p>
+                  <a
+                    className="button secondary small"
+                    href={content.sources.find((s) => s.id === c.sources[0])?.url}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Open episode ↗
+                  </a>
+                  <p>{c.task}</p>
+                  {moduleLinks(c.modules)}
+                  <p>
+                    <button
+                      className="button secondary small"
+                      disabled={disabled}
+                      onClick={() =>
+                        void commit(
+                          { action: 'listen', id: c.id, done: !state.companion?.listening?.[c.id] },
+                          'Listening progress saved separately from reading.',
+                        )
+                      }
+                    >
+                      {state.companion?.listening?.[c.id] ? '✓ Listened — undo' : 'Mark listened'}
+                    </button>
+                  </p>
+                  {refs(c.sources)}
+                </article>
+              ))}
+          </div>
+        </>
+      )}
+      {tab === 'Commonplace book' && (
+        <>
+          <h2>Passages to return to</h2>
+          <p>
+            Save a reference, translator/edition and your own reflection. Quotations are optional; keep
+            extracts short. Your notes remain private and are included in the syllabus export.
+          </p>
+          <form
+            className="panel panel-body"
+            onSubmit={async (e) => {
+              e.preventDefault()
+              if (
+                await commit(
+                  {
+                    action: 'commonplace',
+                    ...(noteId ? { id: noteId } : {}),
+                    work: note.work,
+                    related: note.related,
+                    reference: note.reference,
+                    translator: note.translator,
+                    passage: note.passage,
+                    reflection: note.reflection,
+                    revisit: note.revisit,
+                  },
+                  'Commonplace saved.',
+                )
+              ) {
+                noteRecovery.saved()
+                setDirty(false)
+                setNoteId('')
+                setNote(blankNote())
+              }
+            }}
+          >
+            <h3>{noteId ? 'Edit saved passage' : 'New commonplace'}</h3>
+            <DraftRecoveryNotice
+              recovery={noteRecovery}
+              baseVersion={state.companion?.commonplaces?.[noteId]?.updated_at || ''}
+              busy={disabled}
+            />
+            <label className="field">
+              <span>Work</span>
+              <select
+                className="select"
+                required
+                disabled={disabled}
+                value={note.work || ''}
+                onChange={(e) => updateNote({ work: Number(e.target.value) })}
+              >
+                <option value="">Choose a ranked work</option>
+                {workOptions}
+              </select>
+            </label>
+            <div className="form-grid">
+              <label className="field">
+                <span>Book / chapter / line reference</span>
+                <input
+                  className="input"
+                  required
+                  maxLength={500}
+                  disabled={disabled}
+                  value={note.reference}
+                  onChange={(e) => updateNote({ reference: e.target.value })}
+                />
+              </label>
+              <label className="field">
+                <span>Translator and edition (or original language)</span>
+                <input
+                  className="input"
+                  required
+                  maxLength={500}
+                  disabled={disabled}
+                  value={note.translator}
+                  onChange={(e) => updateNote({ translator: e.target.value })}
+                />
+              </label>
+            </div>
+            <label className="field">
+              <span>Short passage (optional)</span>
+              <textarea
+                className="input"
+                rows={3}
+                maxLength={4000}
+                disabled={disabled}
+                value={note.passage}
+                onChange={(e) => updateNote({ passage: e.target.value })}
+              />
+            </label>
+            <label className="field">
+              <span>Your reflection</span>
+              <textarea
+                className="input classical-notes"
+                required
+                maxLength={20000}
+                disabled={disabled}
+                value={note.reflection}
+                onChange={(e) => updateNote({ reflection: e.target.value })}
+              />
+            </label>
+            <label className="field">
+              <span>Connect another work (up to ten)</span>
+              <select
+                className="select"
+                disabled={disabled || note.related.length >= 10}
+                value=""
+                onChange={(e) => {
+                  const id = Number(e.target.value)
+                  if (id && !note.related.includes(id)) updateNote({ related: [...note.related, id] })
+                }}
+              >
+                <option value="">Choose a related work</option>
+                {workOptions}
+              </select>
+            </label>
+            <div className="classical-links">
+              {note.related.map((id) => (
+                <button
+                  type="button"
+                  className="button secondary small"
+                  disabled={disabled}
+                  key={id}
+                  onClick={() => updateNote({ related: note.related.filter((w) => w !== id) })}
+                >
+                  {content.works.find((w) => w.id === id)?.title} ×
+                </button>
+              ))}
+            </div>
+            <label className="field">
+              <span>Revisit on (optional)</span>
+              <input
+                className="input"
+                type="date"
+                min="1900-01-01"
+                max="2200-12-31"
+                disabled={disabled}
+                value={note.revisit}
+                onChange={(e) => updateNote({ revisit: e.target.value })}
+              />
+            </label>
+            <div className="toolbar">
+              <button className="button primary" disabled={disabled || !dirty}>
+                Save commonplace
+              </button>
+              <button
+                type="button"
+                className="button secondary"
+                disabled={disabled}
+                onClick={() => editNote('', blankNote())}
+              >
+                Clear draft / new note
+              </button>
+            </div>
+          </form>
+          <label className="checkbox-field">
+            <input type="checkbox" checked={dueOnly} onChange={(e) => setDueOnly(e.target.checked)} /> Only
+            passages due to revisit
+          </label>
+          {Object.entries(state.companion?.commonplaces || {})
+            .filter(
+              ([, n]) =>
+                matches({ ...n, title: content.works.find((w) => w.id === n.work)?.title }) &&
+                (!dueOnly || (n.revisit && n.revisit <= today())),
+            )
+            .sort((a, b) => (a[1].revisit || '9999').localeCompare(b[1].revisit || '9999'))
+            .map(([id, n]) => (
+              <article className="panel panel-body" key={id}>
+                <h3>
+                  <a href={`#/books/${n.work}`}>
+                    {content.works.find((w) => w.id === n.work)?.title || 'Saved work'}
+                  </a>{' '}
+                  · {n.reference}
+                </h3>
+                <p className="small-text muted">
+                  {n.translator} · {n.revisit ? `Revisit ${n.revisit}` : 'No revisit date'}
+                  {n.reviewed_on && ` · Last reviewed ${n.reviewed_on}`}
+                </p>
+                {n.passage && <blockquote className="classical-text">{n.passage}</blockquote>}
+                <p className="classical-text">{n.reflection}</p>
+                <div className="classical-links">
+                  {n.related?.map((w) => (
+                    <a key={w} href={`#/books/${w}`}>
+                      {content.works.find((r) => r.id === w)?.title || 'Related work'}
+                    </a>
+                  ))}
+                </div>
+                <div className="toolbar">
+                  <button
+                    className="button secondary small"
+                    disabled={disabled}
+                    onClick={() => editNote(id, n)}
+                  >
+                    Edit / reschedule
+                  </button>
+                  <button
+                    className="button secondary small"
+                    disabled={disabled}
+                    onClick={() =>
+                      void commit(
+                        { action: 'review', id, revisit: '' },
+                        'Passage reviewed; its reminder is cleared. Set a new date using Edit.',
+                      )
+                    }
+                  >
+                    Mark revisited
+                  </button>
+                </div>
+              </article>
+            ))}
+        </>
+      )}
+    </section>
+  )
 }

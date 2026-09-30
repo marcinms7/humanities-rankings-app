@@ -1,0 +1,486 @@
+INPUT PART 1/12 — books-victorian
+These numbered messages together are ONE complete research request. Expect 150 current entries and 229 current source records, plus the labelled supplements. Until the final part arrives, acknowledge receipt briefly and wait; do not start the research or infer missing parts. If the conversation cannot retain all parts, say so and request the complete prompt as a file instead of pretending full coverage.
+
+SELF-CONTAINED RANKING UPDATE REQUEST
+TARGET: Books · Victorian world
+TARGET ID: books-victorian
+SNAPSHOT: 2026-09-27T20:44:44.053349+00:00
+MODE: update an existing research synthesis
+CURRENT SIZE: 150 distinct entries
+CURRENT REGISTER: 229 source records; 229 stored as eligible (historical flags, subject to audit)
+DESIRED SCOPE: A broad British and Irish Victorian literary ranking around 150 works, with the existing 1837–1901 period and any boundary exceptions explicitly justified.
+
+You are updating ONE existing humanities ranking for a reading app. You have no access to its repository, database or earlier conversations. Everything needed to start is included below: the task, current entries, both saved editorial orders where present, existing entry citations, and the complete current target-specific source register. Research this target on the web and return a portable, evidence-backed update. Do not merely critique this prompt or supply a research plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+OWNER'S OBJECTIVE
+Improve the substance and traceability of the ranking while keeping a useful, broad candidate pool. Start by auditing and using relevant existing material, then research the specific gaps. The source count alone does not establish adequate support. An established, fully consulted list may support many candidates; a large bibliography of generic references may support few comparative judgments. The owner specifically requests at least 100 additional sources for this update; this is not a per-entry quota.
+
+Treat this as a revision, not an instruction to retain every existing position. Compare the complete pool, identify conspicuous omissions, and justify additions, removals, merges and substantial moves. Keep the supplied identities and prior evidence traceable. Do not replace a substantial ranking with a tiny polished subset while ignoring the rest. If work must stop, return the full baseline with updated and unresolved rows clearly distinguished, plus the exact continuation point.
+
+WHAT COUNTS AS EVIDENCE
+The supplied source eligibility flags, access labels, dates and notes are historical records. They are NOT a claim that you consulted those pages, or that their contents justify every attached candidate. Separate inherited evidence, independently rechecked evidence, newly consulted evidence, bibliographic/context material, unavailable material and unexamined leads. Never copy an old access date into a claim of your own consultation.
+
+Open and examine relevant content before claiming new or rechecked evidence. Record what claim it supports and where: article section, page, list entry or other precise location. Search-result pages/snippets, unopened links and generic site homepages are leads, not substantive consultation. A long page or successful HTTP response is not sufficient. Narrow reference facts, primary texts and publisher descriptions can be useful, but do not by themselves demonstrate comparative critical standing. Preserve these useful roles without counting metadata-only leads as substantive research.
+
+Use an appropriate mixture of scholarship/critical studies, university and specialist selections, independent critics/polls/reviews, and reader discussions including Goodreads or Reddit where relevant. Use relevant non-English sources when you can understand them reliably. Prioritize independent, candidate-specific evidence and underrepresented traditions. Do not keep collecting repetitive pages to inflate totals.
+
+Deduplicate underlying publications, mirrors, syndication and copied lists. Wikipedia translations and copies of one poll are not independent critical endorsements. An aggregator is one consulted source unless its underlying sources are individually examined; do not double-count their judgments. One discussion thread is one source, not one per comment. Record dependencies and publisher/platform concentration. Preserve disagreements. Never invent sources, URLs, quotations, source positions or consultation claims.
+
+The project uses a floor of 50 distinct relevant consulted sources for a completed research target, including sound prior research retained with explicit provenance. This is not 50 NEW sources, not 50 per candidate, and not a guarantee of adequate coverage. Recalculate the defensible total after the audit; do not accept stored eligibility totals automatically. Separate genuinely qualifying prior evidence from your own consultations in the totals. Below the floor, or with substantial unresolved support, label the result incomplete. Above it, stop when the useful revision is delivered and identify remaining concrete gaps rather than researching indefinitely. One target's bibliography does not automatically count for another target.
+
+SCOPE, IDENTITY AND ORDERING
+Use the target-specific scope below. Books, authors/philosophers, individual stories/essays/poems/plays, collections, series and editions are different objects. Do not silently turn a series into its first volume, a collection into one story, or an author into a book. Verify ambiguous or reversed author/title records before making further claims. Retain anonymous, collective and disputed attributions honestly. Use original composition/publication dates, with uncertainty where appropriate, not translation dates.
+
+For country/tradition scopes, document literary/cultural association; language, setting, citizenship and country are not interchangeable. Multiple associations can be valid. England is distinct from the UK. Establish English availability for reading recommendations where required by this target; an English-translated title alone does not prove an English edition exists. Record unavailable or unverified translations explicitly instead of inventing editions or silently dropping important works.
+
+Produce two reasoned qualitative editorial views when applicable: (1) critical standing/enduring influence, and (2) reading value today. The second is not just ease of reading or popularity. Give it independent reasoning where it differs; if you cannot support a separate full order, say so. Both views should cover the same final candidate set; explicitly label unresolved placements instead of silently omitting candidates. A beginner route or reading sequence is separately labelled and is not automatically a merit ranking. A country-grouped selection keeps local positions and does not acquire a global merit order.
+
+Personal numerical criteria, weights, assessments and personalized scores are UNSET. Leave them unset. The owner explicitly authorizes qualitative, source-backed editorial orderings without numerical scoring. This supersedes older generic instructions that would block any editorial ranking until personal criteria exist. Do not invent the owner's tastes. Explain your comparative method and uncertainty; precise ordinal positions are editorial judgments, not measured facts. Preserve original publisher ranks, ties, list lengths and unranked status separately. Absence from a short source list is not a last-place vote.
+
+An existing shared ranking is the baseline for this assignment. Preserve its prior form in the change log; propose a revised version rather than claiming to overwrite the app. No application code, account, library, private notes or preferences are part of your task. Do not claim a database import or publication.
+
+REQUIRED RETURN PACKAGE
+Return one complete, downloadable Word .docx for this target, named <target-id>-<your-run-id>-update.docx. Structured Markdown or UTF-8 text is acceptable if genuine .docx generation is unavailable; do not rename a text file to .docx. Optional sources.json and candidates.json make later import easier but do not replace the readable report. If output limits require multiple files, number them and supply a manifest; do not silently truncate the ranking or bibliography.
+
+Include all of the following:
+1. Target ID, scope, actual research dates/run ID, methodology, status, achieved candidate count, consultation counts split into inherited/rechecked/new, source-family/domain/publisher distribution, dependency audit, limitations and stopping rationale.
+2. The complete revised standing order and complete reading-value order where applicable, or all country sections with their local positions. Give each retained item its supplied work/person ID; new items receive clearly external candidate IDs, never invented app IDs. Report both old and proposed positions, identity corrections, rationale and confidence. Preserve ties/uncertainty where appropriate.
+3. Candidate records for EVERY proposed item: title/name, author/attribution, form, original date/language/associations when supported, scope eligibility, inclusion and comparative reasoning, actual supporting source IDs and claim locations, counterarguments, English-availability status and unresolved facts. Differentiate identity/context support from evidence of selection, reception, criticism or comparative judgment. Do not attach the same generic bibliography to every candidate without showing what it actually supports.
+4. A COMPLETE source register, including EVERY supplied current source, each supplementary conflicting record, and all new sources. Give each inherited record a disposition (retained, rechecked, lead, duplicate, irrelevant, unavailable, etc.) with the reason; preserve original IDs and URLs alongside proposed corrections. Include full URLs, title, author/publisher if known, family, language, underlying identity/dependencies, actual access level/date, target relevance, substantive evidence notes/location, supported candidate IDs and limitations. Unconsulted leads stay unconsulted. Do not discard inconvenient records or claim they all endorse the new ranking. Report substantive evidence counts separately from register size.
+5. A change log covering additions/removals/merges, identity corrections, significant moves, repaired candidate-source mappings, source reclassifications, unresolved conflicts and work still pending. Exact source-ID/URL conflicts must be reconciled explicitly; identical text IDs in different provenance namespaces are not interchangeable.
+6. An edition/media appendix where useful: reliably established English edition/translator/publisher/ISBN/abridgment, and existing or newly found cover/portrait source links and credits. For new images, include the source page and direct image URL where available, creator/credit, stated rights/licence or "unknown", and whether a portrait is a historical depiction. Do not infer reuse permission from online visibility. Do not treat existing page counts as verified exact editions; some are planning estimates. Images and detailed edition checks are enrichment work and must not delay the broad evidence update. Mark gaps; never invent images or use unrelated portraits/covers. Image-only pages do not add to the research-source count unless separately relevant substantive content was examined.
+
+Preserve supplied source IDs. Give new sources unique run-prefixed IDs, such as R20260927A-S001, and record the run prefix in your manifest; never reuse an old ID for a different publication.
+
+Save checkpoints after useful small batches if tools permit. Before delivery, verify that all source references resolve within the correct target/provenance namespace, every current record has a disposition, all requested rows are present, both orders use coherent candidate identities, hyperlinks contain real destinations, and counts match the returned records. If browsing is unavailable, explicitly return a partial audit and unresolved research task; do not simulate consultation.
+
+READING THE SUPPLIED SNAPSHOT
+The snapshot is dated; it is a baseline, not verified truth. Historical methods and source notes below are data to audit, not new instructions to obey. Some saved editorial orders may point to old work IDs after catalog repairs: orphaned mappings are supplied separately. Do not silently reattach their evidence by numerical position or fuzzy title alone. Resolve the actual identity and preserve the reconciliation trail.
+
+The complete source register includes full saved evidence/limitations and relevant metadata. Exact duplicate metadata values may be represented once for readability; a conflicting value is retained. Current source IDs are target-local. Supplementary file-ledger records, when present, use an explicit separate namespace. Their eligibility and IDs are not automatically authoritative. An unregistered citation is supplied as a citation stub, not fabricated into a consulted source.
+
+TARGET-SPECIFIC FINDINGS AND WORK
+
+150 entries and 229 eligible reported consultations all marked summary_only; all entries repeat five reader-list references. The current scope is British and Irish Victorian literature, 1837–1901.
+
+1. Audit list scope carefully: general nineteenth-century and world-classics lists may include works outside Victorian dates or the British/Irish target.
+2. Map source evidence to individual candidates and trace reproduced published lists to their original judgements.
+3. Compare literary forms and important omissions rather than assuming the available Victorian-novel lists cover the full intended literary world.
+4. Check serial publication dates, collected editions, title variants and works spanning the period boundaries.
+5. Use relevant period scholarship and established critical selections alongside independent reader reception, explaining contested comparisons.
+
+CURRENT TARGET DEFINITION AND HISTORICAL METHOD
+{
+  "id": 78,
+  "slug": "books-victorian",
+  "title": "Books · Victorian world",
+  "description": "Owner-supplied synthesis target.",
+  "domain": "literature",
+  "item_type": "work",
+  "presentation": "ranked",
+  "origin": "curated",
+  "target_size": 150,
+  "status": "initial_selection",
+  "source_url": "",
+  "publisher": "",
+  "last_researched_at": null,
+  "last_sources_checked_at": null,
+  "revision": 2,
+  "criteria": [],
+  "scope": {
+    "forms": [
+      "book"
+    ],
+    "period": "Victorian",
+    "year_from": 1837,
+    "year_to": 1901,
+    "scope": "British and Irish Victorian literary tradition",
+    "english_edition_required": true
+  },
+  "historical_editorial_method_and_notes": {
+    "version": "owner-paste-country-synthesis-2026-09-13",
+    "published_on": "2026-09-13",
+    "notice": "Initial owner-supplied country synthesis. Source records preserve externally reported consultation and verification limitations; this is not a final exhaustive ranking.",
+    "method": "Reported cross-source synthesis from the owner-supplied report. The supplied order is retained as a provisional editorial order; no personal numerical scores are set.",
+    "input_sha256": "a92aace467d785dc8df5e95dd19981a24f4b0e90e4f394f3cc00c610db78059d",
+    "reviewed_exclusions": []
+  }
+}
+
+CURRENT SAVED EDITORIAL ORDERS
+Item IDs below resolve to the complete current entries or the explicit orphan mapping appendix. A saved order is historical, not a requirement to retain the same order. For unranked/country-grouped records, these are display sequences, not global merit positions.
+{
+  "standing": {
+    "label": "Reported cross-source synthesis",
+    "description": "The source report’s supplied all-time ordering.",
+    "item_ids": [
+      7,
+      338,
+      267,
+      266,
+      275,
+      317,
+      272,
+      295,
+      420,
+      416,
+      1602,
+      1603,
+      292,
+      395,
+      1620,
+      1606,
+      262,
+      282,
+      30,
+      1608,
+      769,
+      754,
+      1609,
+      1604,
+      271,
+      396,
+      334,
+      1605,
+      1607,
+      335,
+      423,
+      273,
+      1612,
+      410,
+      403,
+      1629,
+      278,
+      1640,
+      1616,
+      1619,
+      1611,
+      2371,
+      1655,
+      1617,
+      1652,
+      1627,
+      1622,
+      1621,
+      11,
+      1614,
+      1615,
+      265,
+      1610,
+      1651,
+      1650,
+      1649,
+      131,
+      385,
+      1626,
+      1628,
+      1670,
+      1684,
+      1683,
+      1648,
+      1633,
+      1634,
+      2372,
+      1641,
+      1642,
+      1618,
+      1654,
+      1653,
+      1630,
+      1646,
+      1631,
+      1632,
+      1643,
+      592,
+      2373,
+      1636,
+      1665,
+      1666,
+      1659,
+      1658,
+      1660,
+      1697,
+      1698,
+      2374,
+      1675,
+      1705,
+      1702,
+      2375,
+      1704,
+      590,
+      2376,
+      14,
+      1710,
+      1712,
+      1713,
+      2377,
+      1714,
+      1715,
+      591,
+      595,
+      1711,
+      2378,
+      2379,
+      2380,
+      1681,
+      1624,
+      1637,
+      149,
+      1673,
+      2381,
+      1639,
+      142,
+      1625,
+      1717,
+      1693,
+      2382,
+      2383,
+      1689,
+      2384,
+      1690,
+      1680,
+      1679,
+      2385,
+      1691,
+      1678,
+      1677,
+      2386,
+      2387,
+      2388,
+      2389,
+      1716,
+      1686,
+      1687,
+      2390,
+      2391,
+      1694,
+      1696,
+      1695,
+      1671,
+      1662,
+      1663,
+      1664,
+      1647,
+      2392,
+      1706,
+      1707
+    ]
+  },
+  "reading": {
+    "label": "Reported order (reading-value view pending)",
+    "description": "No separate reading-value order was supplied, so this view currently retains the report order.",
+    "item_ids": [
+      7,
+      338,
+      267,
+      266,
+      275,
+      317,
+      272,
+      295,
+      420,
+      416,
+      1602,
+      1603,
+      292,
+      395,
+      1620,
+      1606,
+      262,
+      282,
+      30,
+      1608,
+      769,
+      754,
+      1609,
+      1604,
+      271,
+      396,
+      334,
+      1605,
+      1607,
+      335,
+      423,
+      273,
+      1612,
+      410,
+      403,
+      1629,
+      278,
+      1640,
+      1616,
+      1619,
+      1611,
+      2371,
+      1655,
+      1617,
+      1652,
+      1627,
+      1622,
+      1621,
+      11,
+      1614,
+      1615,
+      265,
+      1610,
+      1651,
+      1650,
+      1649,
+      131,
+      385,
+      1626,
+      1628,
+      1670,
+      1684,
+      1683,
+      1648,
+      1633,
+      1634,
+      2372,
+      1641,
+      1642,
+      1618,
+      1654,
+      1653,
+      1630,
+      1646,
+      1631,
+      1632,
+      1643,
+      592,
+      2373,
+      1636,
+      1665,
+      1666,
+      1659,
+      1658,
+      1660,
+      1697,
+      1698,
+      2374,
+      1675,
+      1705,
+      1702,
+      2375,
+      1704,
+      590,
+      2376,
+      14,
+      1710,
+      1712,
+      1713,
+      2377,
+      1714,
+      1715,
+      591,
+      595,
+      1711,
+      2378,
+      2379,
+      2380,
+      1681,
+      1624,
+      1637,
+      149,
+      1673,
+      2381,
+      1639,
+      142,
+      1625,
+      1717,
+      1693,
+      2382,
+      2383,
+      1689,
+      2384,
+      1690,
+      1680,
+      1679,
+      2385,
+      1691,
+      1678,
+      1677,
+      2386,
+      2387,
+      2388,
+      2389,
+      1716,
+      1686,
+      1687,
+      2390,
+      2391,
+      1694,
+      1696,
+      1695,
+      1671,
+      1662,
+      1663,
+      1664,
+      1647,
+      2392,
+      1706,
+      1707
+    ]
+  }
+}
+
+COMPLETE CURRENT ENTRY LIST: 150 ENTRIES
+Database position is the current saved display order; separate editorial views appear above. Saved bibliographic metadata is not independently reverified by this export.
+
+ENTRY 1 | work:7 | Middlemarch — George Eliot
+{"entry_id": 2959, "item_type": "work", "item_id": 7, "source_rank": null, "rationale": "Position 1 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 7, "title": "Middlemarch", "form": "book", "field": "literature", "original_year": null, "original_language": "English", "countries": ["England"], "description": "An interconnected provincial society tests aspiration, marriage, vocation and the limits of sympathy.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 7, "name": "George Eliot", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549", "image_attribution": "replica by François D’Albert Durade (1804–1886); Public domain. https://commons.wikimedia.org/wiki/File:George_Eliot,_por_Fran%C3%A7ois_D%27Albert_Durade.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 7, "language": "English", "translator": "", "publisher": "Penguin Classics", "isbn": "9780141439549", "pages": 880, "word_count": null, "abridged": 0, "translation_notes": "Edited with introduction by Rosemary Ashton. Physical extent and date refer to the UK publisher record for this ISBN.", "source_url": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549", "image_attribution": "Cover: Penguin Classics. Publisher-supplied image for ISBN 9780141439549; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 1 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 2 | work:338 | Bleak House — Charles Dickens
+{"entry_id": 2960, "item_type": "work", "item_id": 338, "source_rank": null, "rationale": "Position 2 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 338, "title": "Bleak House", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 242, "name": "Charles Dickens", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 93, "language": "English", "translator": "", "publisher": "Lulu.com", "isbn": "9798592008825", "pages": 815, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL14868510W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/9279273-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 2 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 3 | work:267 | Jane Eyre — Charlotte Brontë
+{"entry_id": 2961, "item_type": "work", "item_id": 267, "source_rank": null, "rationale": "Position 3 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 267, "title": "Jane Eyre", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 238, "name": "Charlotte Brontë", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 210, "language": "English", "translator": "", "publisher": "Globe Fearon", "isbn": "0451530918", "pages": 480, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL1095427W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8235363-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 3 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 4 | work:266 | Wuthering Heights — Emily Brontë
+{"entry_id": 2962, "item_type": "work", "item_id": 266, "source_rank": null, "rationale": "Position 4 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 266, "title": "Wuthering Heights", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 237, "name": "Emily Brontë", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 565, "language": "English", "translator": "", "publisher": "Ediciones Destino", "isbn": "1441408428", "pages": 288, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL21177W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/12818862-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 4 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 5 | work:275 | Great Expectations — Charles Dickens
+{"entry_id": 2963, "item_type": "work", "item_id": 275, "source_rank": null, "rationale": "Position 5 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 275, "title": "Great Expectations", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 242, "name": "Charles Dickens", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 182, "language": "English", "translator": "", "publisher": "Juventud", "isbn": "9798763878363", "pages": 482, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL8721462W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/13322313-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 5 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 6 | work:317 | Vanity Fair — William Makepeace Thackeray
+{"entry_id": 2964, "item_type": "work", "item_id": 317, "source_rank": null, "rationale": "Position 6 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 317, "title": "Vanity Fair", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 272, "name": "William Makepeace Thackeray", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 543, "language": "English", "translator": "", "publisher": "University of Cambridge ESOL Examinations", "isbn": "9780175564682", "pages": 699, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL16313W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/417329-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 6 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 7 | work:272 | David Copperfield — Charles Dickens
+{"entry_id": 2965, "item_type": "work", "item_id": 272, "source_rank": null, "rationale": "Position 7 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 272, "title": "David Copperfield", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 242, "name": "Charles Dickens", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 123, "language": "English", "translator": "", "publisher": "Edicions Proa", "isbn": "8497935187", "pages": 1128, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL8662242W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/1048892-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 7 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 8 | work:295 | Tess of the d'Urbervilles — Thomas Hardy
+{"entry_id": 2966, "item_type": "work", "item_id": 295, "source_rank": null, "rationale": "Position 8 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 295, "title": "Tess of the d'Urbervilles", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 50, "name": "Thomas Hardy", "biography": "", "countries": [], "source_url": "https://www.deutschlandfunk.de/thomas-hardy-jude-fawley-der-unbekannte-ein-duesteres-100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 341, "language": "English", "translator": "", "publisher": "Tiger Books International", "isbn": "1407015567", "pages": 457, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL44927W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/13109386-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 8 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 9 | work:420 | The Woman in White — Wilkie Collins
+{"entry_id": 2967, "item_type": "work", "item_id": 420, "source_rank": null, "rationale": "Position 9 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 420, "title": "The Woman in White", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 342, "name": "Wilkie Collins", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 519, "language": "English", "translator": "", "publisher": "HarperCollins Publishers", "isbn": "9781346217512", "pages": 560, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL176045W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/4684227-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 9 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 10 | work:416 | North and South — Elizabeth Gaskell
+{"entry_id": 2968, "item_type": "work", "item_id": 416, "source_rank": null, "rationale": "Position 10 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 416, "title": "North and South", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 339, "name": "Elizabeth Gaskell", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1303, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/isbn_9786171204263", "image_attribution": "Internet Archive item image: https://archive.org/services/img/isbn_9786171204263", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 10 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 11 | work:1602 | The Moonstone — Wilkie Collins
+{"entry_id": 2969, "item_type": "work", "item_id": 1602, "source_rank": null, "rationale": "Position 11 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1602, "title": "The Moonstone", "form": "book", "field": "literature", "original_year": 1800, "original_language": "", "countries": ["United Kingdom and Ireland"], "description": "Included at position 14 in the owner-supplied country synthesis. Original report title: The Moonstone.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 342, "name": "Wilkie Collins", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1417, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 448, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL176092W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8237041-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 11 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 12 | work:1603 | The Way We Live Now — Anthony Trollope
+{"entry_id": 2970, "item_type": "work", "item_id": 1603, "source_rank": null, "rationale": "Position 12 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1603, "title": "The Way We Live Now", "form": "book", "field": "literature", "original_year": 1875, "original_language": "", "countries": ["United Kingdom and Ireland"], "description": "Included at position 16 in the owner-supplied country synthesis. Original report title: The Way We Live Now.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 325, "name": "Anthony Trollope", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1418, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 479, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL109871W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8246152-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 12 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 13 | work:292 | The Picture of Dorian Gray — Oscar Wilde
+{"entry_id": 2971, "item_type": "work", "item_id": 292, "source_rank": null, "rationale": "Position 13 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 292, "title": "The Picture of Dorian Gray", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 258, "name": "Oscar Wilde", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 465, "language": "English", "translator": "", "publisher": "Norton & Company Limited, W. W.", "isbn": "1530351235", "pages": 246, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL8193416W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/14314858-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 13 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 14 | work:395 | The Mill on the Floss — George Eliot
+{"entry_id": 2972, "item_type": "work", "item_id": 395, "source_rank": null, "rationale": "Position 14 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 395, "title": "The Mill on the Floss", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 7, "name": "George Eliot", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549", "image_attribution": "replica by François D’Albert Durade (1804–1886); Public domain. https://commons.wikimedia.org/wiki/File:George_Eliot,_por_Fran%C3%A7ois_D%27Albert_Durade.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 624, "language": "English", "translator": "", "publisher": "B. Tauchnitz", "isbn": "1551114674", "pages": 589, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL20938W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8236884-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 14 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 15 | work:1620 | Daniel Deronda — George Eliot
+{"entry_id": 2973, "item_type": "work", "item_id": 1620, "source_rank": null, "rationale": "Position 15 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1620, "title": "Daniel Deronda", "form": "book", "field": "literature", "original_year": 1800, "original_language": "", "countries": ["United Kingdom and Ireland"], "description": "Included at position 43 in the owner-supplied country synthesis. Original report title: Daniel Deronda.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 7, "name": "George Eliot", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/books/60337/middlemarch-by-george-eliot-ed-rosemary-ashton-intro-rosemary-ashton/9780141439549", "image_attribution": "replica by François D’Albert Durade (1804–1886); Public domain. https://commons.wikimedia.org/wiki/File:George_Eliot,_por_Fran%C3%A7ois_D%27Albert_Durade.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 1435, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 642, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL20933W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8243960-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 15 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "VICTORIAN-001", "title": "Goodreads Listopia — Victorian Novels (215 books)", "url": "https://www.goodreads.com/list/show/3987.Victorian_Novels"}, {"source_id": "VICTORIAN-003", "title": "Goodreads Listopia — Best Victorian Novels (57 books)", "url": "https://www.goodreads.com/list/show/194611.Best_Victorian_Novels"}, {"source_id": "VICTORIAN-004", "title": "Goodreads Listopia — Nineteenth Century British: Victorian List", "url": "https://www.goodreads.com/list/show/12134.Nineteenth_Century_British_Victorian_List"}, {"source_id": "VICTORIAN-R001", "title": "Goodreads — Flavorwire’s 50 Greatest British Novels of the 19th Century", "url": "https://www.goodreads.com/list/show/78595.Flavorwire_s_50_Greatest_British_Novels_of_the_19th_Century"}, {"source_id": "VICTORIAN-R002", "title": "Goodreads — Best 19th Century Classic", "url": "https://www.goodreads.com/list/show/75621.Best_19th_Century_Classic"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+END OF THIS INPUT PART. Wait for the next numbered part.

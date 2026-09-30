@@ -1,0 +1,97 @@
+.recommendations {
+  margin: 1.5rem 0 2.5rem;
+}
+.recommendation-heading,
+.recommendation-feedback-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.recommendation-heading h2 {
+  margin: 0.4rem 0;
+}
+.recommendation-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.recommendation-card {
+  min-width: 0;
+}
+.recommendation-card h3 {
+  font-size: 1.35rem;
+  line-height: 1.3;
+}
+.recommendation-reasons {
+  padding-left: 1.1rem;
+  font-size: 0.875rem;
+}
+.recommendation-reasons li + li {
+  margin-top: 0.45rem;
+}
+.recommendation-length {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+.recommendation-actions,
+.recommendation-checks {
+  display: flex;
+  gap: 0.55rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+}
+.recommendation-actions .button {
+  padding: 0.45rem 0.65rem;
+  font-size: 0.8rem;
+}
+.recommendation-basis,
+.recommendation-alternatives {
+  margin-top: 0.8rem;
+}
+.recommendation-alternatives summary {
+  font-size: 0.85rem;
+}
+.recommendation-alternative,
+.recommendation-feedback-row {
+  border-top: 1px solid var(--border);
+  padding: 1rem 0;
+}
+.recommendation-commitment .small-text {
+  display: block;
+  margin-top: 0.5rem;
+}
+.recommendation-preferences,
+.recommendation-history {
+  margin: 1rem 0;
+}
+.recommendation-preferences fieldset {
+  border: 0;
+  padding: 0;
+  margin: 1rem 0;
+}
+.recommendation-form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+.recommendation-checks label {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+@media (max-width: 1050px) {
+  .recommendation-grid {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 650px) {
+  .recommendation-form-grid {
+    grid-template-columns: 1fr;
+  }
+  .recommendation-heading .toolbar {
+    width: 100%;
+  }
+}

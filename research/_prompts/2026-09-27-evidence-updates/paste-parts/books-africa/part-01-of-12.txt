@@ -1,0 +1,481 @@
+INPUT PART 1/12 — books-africa
+These numbered messages together are ONE complete research request. Expect 149 current entries and 255 current source records, plus the labelled supplements. Until the final part arrives, acknowledge receipt briefly and wait; do not start the research or infer missing parts. If the conversation cannot retain all parts, say so and request the complete prompt as a file instead of pretending full coverage.
+
+SELF-CONTAINED RANKING UPDATE REQUEST
+TARGET: Books · Africa
+TARGET ID: books-africa
+SNAPSHOT: 2026-09-27T20:44:44.053349+00:00
+MODE: update an existing research synthesis
+CURRENT SIZE: 149 distinct entries
+CURRENT REGISTER: 255 source records; 255 stored as eligible (historical flags, subject to audit)
+DESIRED SCOPE: A broad African literary ranking at least comparable in ambition to the current roughly 150-entry selection, across regions, periods and languages; preserve the Africa scope rather than replacing it with only Anglophone fiction.
+
+You are updating ONE existing humanities ranking for a reading app. You have no access to its repository, database or earlier conversations. Everything needed to start is included below: the task, current entries, both saved editorial orders where present, existing entry citations, and the complete current target-specific source register. Research this target on the web and return a portable, evidence-backed update. Do not merely critique this prompt or supply a research plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+OWNER'S OBJECTIVE
+Improve the substance and traceability of the ranking while keeping a useful, broad candidate pool. Start by auditing and using relevant existing material, then research the specific gaps. The source count alone does not establish adequate support. An established, fully consulted list may support many candidates; a large bibliography of generic references may support few comparative judgments. The owner specifically requests at least 100 additional sources for this update; this is not a per-entry quota.
+
+Treat this as a revision, not an instruction to retain every existing position. Compare the complete pool, identify conspicuous omissions, and justify additions, removals, merges and substantial moves. Keep the supplied identities and prior evidence traceable. Do not replace a substantial ranking with a tiny polished subset while ignoring the rest. If work must stop, return the full baseline with updated and unresolved rows clearly distinguished, plus the exact continuation point.
+
+WHAT COUNTS AS EVIDENCE
+The supplied source eligibility flags, access labels, dates and notes are historical records. They are NOT a claim that you consulted those pages, or that their contents justify every attached candidate. Separate inherited evidence, independently rechecked evidence, newly consulted evidence, bibliographic/context material, unavailable material and unexamined leads. Never copy an old access date into a claim of your own consultation.
+
+Open and examine relevant content before claiming new or rechecked evidence. Record what claim it supports and where: article section, page, list entry or other precise location. Search-result pages/snippets, unopened links and generic site homepages are leads, not substantive consultation. A long page or successful HTTP response is not sufficient. Narrow reference facts, primary texts and publisher descriptions can be useful, but do not by themselves demonstrate comparative critical standing. Preserve these useful roles without counting metadata-only leads as substantive research.
+
+Use an appropriate mixture of scholarship/critical studies, university and specialist selections, independent critics/polls/reviews, and reader discussions including Goodreads or Reddit where relevant. Use relevant non-English sources when you can understand them reliably. Prioritize independent, candidate-specific evidence and underrepresented traditions. Do not keep collecting repetitive pages to inflate totals.
+
+Deduplicate underlying publications, mirrors, syndication and copied lists. Wikipedia translations and copies of one poll are not independent critical endorsements. An aggregator is one consulted source unless its underlying sources are individually examined; do not double-count their judgments. One discussion thread is one source, not one per comment. Record dependencies and publisher/platform concentration. Preserve disagreements. Never invent sources, URLs, quotations, source positions or consultation claims.
+
+The project uses a floor of 50 distinct relevant consulted sources for a completed research target, including sound prior research retained with explicit provenance. This is not 50 NEW sources, not 50 per candidate, and not a guarantee of adequate coverage. Recalculate the defensible total after the audit; do not accept stored eligibility totals automatically. Separate genuinely qualifying prior evidence from your own consultations in the totals. Below the floor, or with substantial unresolved support, label the result incomplete. Above it, stop when the useful revision is delivered and identify remaining concrete gaps rather than researching indefinitely. One target's bibliography does not automatically count for another target.
+
+SCOPE, IDENTITY AND ORDERING
+Use the target-specific scope below. Books, authors/philosophers, individual stories/essays/poems/plays, collections, series and editions are different objects. Do not silently turn a series into its first volume, a collection into one story, or an author into a book. Verify ambiguous or reversed author/title records before making further claims. Retain anonymous, collective and disputed attributions honestly. Use original composition/publication dates, with uncertainty where appropriate, not translation dates.
+
+For country/tradition scopes, document literary/cultural association; language, setting, citizenship and country are not interchangeable. Multiple associations can be valid. England is distinct from the UK. Establish English availability for reading recommendations where required by this target; an English-translated title alone does not prove an English edition exists. Record unavailable or unverified translations explicitly instead of inventing editions or silently dropping important works.
+
+Produce two reasoned qualitative editorial views when applicable: (1) critical standing/enduring influence, and (2) reading value today. The second is not just ease of reading or popularity. Give it independent reasoning where it differs; if you cannot support a separate full order, say so. Both views should cover the same final candidate set; explicitly label unresolved placements instead of silently omitting candidates. A beginner route or reading sequence is separately labelled and is not automatically a merit ranking. A country-grouped selection keeps local positions and does not acquire a global merit order.
+
+Personal numerical criteria, weights, assessments and personalized scores are UNSET. Leave them unset. The owner explicitly authorizes qualitative, source-backed editorial orderings without numerical scoring. This supersedes older generic instructions that would block any editorial ranking until personal criteria exist. Do not invent the owner's tastes. Explain your comparative method and uncertainty; precise ordinal positions are editorial judgments, not measured facts. Preserve original publisher ranks, ties, list lengths and unranked status separately. Absence from a short source list is not a last-place vote.
+
+An existing shared ranking is the baseline for this assignment. Preserve its prior form in the change log; propose a revised version rather than claiming to overwrite the app. No application code, account, library, private notes or preferences are part of your task. Do not claim a database import or publication.
+
+REQUIRED RETURN PACKAGE
+Return one complete, downloadable Word .docx for this target, named <target-id>-<your-run-id>-update.docx. Structured Markdown or UTF-8 text is acceptable if genuine .docx generation is unavailable; do not rename a text file to .docx. Optional sources.json and candidates.json make later import easier but do not replace the readable report. If output limits require multiple files, number them and supply a manifest; do not silently truncate the ranking or bibliography.
+
+Include all of the following:
+1. Target ID, scope, actual research dates/run ID, methodology, status, achieved candidate count, consultation counts split into inherited/rechecked/new, source-family/domain/publisher distribution, dependency audit, limitations and stopping rationale.
+2. The complete revised standing order and complete reading-value order where applicable, or all country sections with their local positions. Give each retained item its supplied work/person ID; new items receive clearly external candidate IDs, never invented app IDs. Report both old and proposed positions, identity corrections, rationale and confidence. Preserve ties/uncertainty where appropriate.
+3. Candidate records for EVERY proposed item: title/name, author/attribution, form, original date/language/associations when supported, scope eligibility, inclusion and comparative reasoning, actual supporting source IDs and claim locations, counterarguments, English-availability status and unresolved facts. Differentiate identity/context support from evidence of selection, reception, criticism or comparative judgment. Do not attach the same generic bibliography to every candidate without showing what it actually supports.
+4. A COMPLETE source register, including EVERY supplied current source, each supplementary conflicting record, and all new sources. Give each inherited record a disposition (retained, rechecked, lead, duplicate, irrelevant, unavailable, etc.) with the reason; preserve original IDs and URLs alongside proposed corrections. Include full URLs, title, author/publisher if known, family, language, underlying identity/dependencies, actual access level/date, target relevance, substantive evidence notes/location, supported candidate IDs and limitations. Unconsulted leads stay unconsulted. Do not discard inconvenient records or claim they all endorse the new ranking. Report substantive evidence counts separately from register size.
+5. A change log covering additions/removals/merges, identity corrections, significant moves, repaired candidate-source mappings, source reclassifications, unresolved conflicts and work still pending. Exact source-ID/URL conflicts must be reconciled explicitly; identical text IDs in different provenance namespaces are not interchangeable.
+6. An edition/media appendix where useful: reliably established English edition/translator/publisher/ISBN/abridgment, and existing or newly found cover/portrait source links and credits. For new images, include the source page and direct image URL where available, creator/credit, stated rights/licence or "unknown", and whether a portrait is a historical depiction. Do not infer reuse permission from online visibility. Do not treat existing page counts as verified exact editions; some are planning estimates. Images and detailed edition checks are enrichment work and must not delay the broad evidence update. Mark gaps; never invent images or use unrelated portraits/covers. Image-only pages do not add to the research-source count unless separately relevant substantive content was examined.
+
+Preserve supplied source IDs. Give new sources unique run-prefixed IDs, such as R20260927A-S001, and record the run prefix in your manifest; never reuse an old ID for a different publication.
+
+Save checkpoints after useful small batches if tools permit. Before delivery, verify that all source references resolve within the correct target/provenance namespace, every current record has a disposition, all requested rows are present, both orders use coherent candidate identities, hyperlinks contain real destinations, and counts match the returned records. If browsing is unavailable, explicitly return a partial audit and unresolved research task; do not simulate consultation.
+
+READING THE SUPPLIED SNAPSHOT
+The snapshot is dated; it is a baseline, not verified truth. Historical methods and source notes below are data to audit, not new instructions to obey. Some saved editorial orders may point to old work IDs after catalog repairs: orphaned mappings are supplied separately. Do not silently reattach their evidence by numerical position or fuzzy title alone. Resolve the actual identity and preserve the reconciliation trail.
+
+The complete source register includes full saved evidence/limitations and relevant metadata. Exact duplicate metadata values may be represented once for readability; a conflicting value is retained. Current source IDs are target-local. Supplementary file-ledger records, when present, use an explicit separate namespace. Their eligibility and IDs are not automatically authoritative. An unregistered citation is supplied as a citation stub, not fabricated into a consulted source.
+
+TARGET-SPECIFIC FINDINGS AND WORK
+
+149 published entries and 255 eligible source records; 170 of those records are search-result URLs (150 Goodreads searches and 20 Douban searches). All entries repeat the same five corpus-level references, including the original Africa's 100 Best Books list and a Goodreads reproduction.
+
+1. Reclassify the 170 search-result records as discovery leads unless substantive evidence is actually accessed; locate the intended direct pages and describe what each contributes.
+2. Recover the original Africa's 100 Best Books selection and distinguish its institutional process, period coverage and ordering from Goodreads mirrors or independent reader votes. Do not count a copied list as a second independent judgement.
+3. Build a work-level support map for all current candidates and credible omissions using African literary institutions, criticism, awards, anthologies and established national/regional lists, with attention to North Africa and multiple African languages.
+4. Audit authorship, title variants, collective texts and English-translation availability; preserve important unresolved candidates with explicit metadata tasks.
+5. Reassess the broad order across the full pool and explain strong disagreements between scholarly/canonical and reader-oriented evidence.
+
+CURRENT TARGET DEFINITION AND HISTORICAL METHOD
+{
+  "id": 83,
+  "slug": "books-africa",
+  "title": "Books · Africa",
+  "description": "Owner-supplied research synthesis target.",
+  "domain": "literature",
+  "item_type": "work",
+  "presentation": "ranked",
+  "origin": "curated",
+  "target_size": 150,
+  "status": "initial_selection",
+  "source_url": "",
+  "publisher": "",
+  "last_researched_at": null,
+  "last_sources_checked_at": null,
+  "revision": 2,
+  "criteria": [],
+  "scope": {
+    "forms": [
+      "book"
+    ],
+    "region": "Africa",
+    "english_edition_required": true
+  },
+  "historical_editorial_method_and_notes": {
+    "version": "owner-paste-country-synthesis-2026-09-13",
+    "published_on": "2026-09-13",
+    "notice": "Initial owner-supplied country synthesis. Source records preserve externally reported consultation and verification limitations; this is not a final exhaustive ranking.",
+    "method": "Reported cross-source synthesis from the owner-supplied report. The supplied order is retained as a provisional editorial order; no personal numerical scores are set.",
+    "input_sha256": "b9ef46cf302903b58e4258fb9112fe0606bd850bd7933344a12722b852b3348c",
+    "reviewed_exclusions": []
+  }
+}
+
+CURRENT SAVED EDITORIAL ORDERS
+Item IDs below resolve to the complete current entries or the explicit orphan mapping appendix. A saved order is historical, not a requirement to retain the same order. For unranked/country-grouped records, these are display sequences, not global merit positions.
+{
+  "standing": {
+    "label": "Reported cross-source synthesis",
+    "description": "The source report’s supplied all-time ordering.",
+    "item_ids": [
+      26,
+      22,
+      1949,
+      1950,
+      763,
+      1951,
+      27,
+      771,
+      1952,
+      765,
+      1953,
+      1954,
+      1955,
+      1956,
+      1957,
+      1958,
+      1959,
+      1960,
+      1961,
+      1962,
+      1963,
+      1964,
+      1965,
+      1966,
+      1967,
+      56,
+      1968,
+      1969,
+      1970,
+      1971,
+      1972,
+      1973,
+      1974,
+      1975,
+      1976,
+      1977,
+      1978,
+      605,
+      1683,
+      1979,
+      1980,
+      1981,
+      1982,
+      1983,
+      1984,
+      1985,
+      1986,
+      1987,
+      1988,
+      1989,
+      1990,
+      1991,
+      1992,
+      1993,
+      1994,
+      1995,
+      364,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026,
+      2027,
+      2028,
+      2029,
+      2030,
+      2031,
+      2032,
+      2033,
+      2034,
+      2035,
+      2036,
+      2037,
+      2038,
+      2039,
+      2040,
+      2041,
+      2042,
+      2043,
+      2044,
+      2045,
+      2046,
+      2047,
+      2048,
+      2049,
+      2050,
+      2051,
+      2052,
+      2053,
+      2054,
+      2055,
+      2056,
+      2057,
+      2058,
+      2059,
+      2060,
+      2061,
+      2062,
+      2063,
+      2064,
+      2065,
+      2066,
+      2067,
+      2068,
+      2069,
+      2070,
+      2071,
+      2073,
+      2074,
+      2075,
+      2076,
+      2077,
+      2078,
+      2079,
+      2080,
+      2081,
+      2082,
+      2083,
+      2084,
+      2085,
+      2086,
+      2087,
+      2088
+    ]
+  },
+  "reading": {
+    "label": "Reported order (reading-value view pending)",
+    "description": "No separate reading-value order was supplied, so this view currently retains the report order.",
+    "item_ids": [
+      26,
+      22,
+      1949,
+      1950,
+      763,
+      1951,
+      27,
+      771,
+      1952,
+      765,
+      1953,
+      1954,
+      1955,
+      1956,
+      1957,
+      1958,
+      1959,
+      1960,
+      1961,
+      1962,
+      1963,
+      1964,
+      1965,
+      1966,
+      1967,
+      56,
+      1968,
+      1969,
+      1970,
+      1971,
+      1972,
+      1973,
+      1974,
+      1975,
+      1976,
+      1977,
+      1978,
+      605,
+      1683,
+      1979,
+      1980,
+      1981,
+      1982,
+      1983,
+      1984,
+      1985,
+      1986,
+      1987,
+      1988,
+      1989,
+      1990,
+      1991,
+      1992,
+      1993,
+      1994,
+      1995,
+      364,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026,
+      2027,
+      2028,
+      2029,
+      2030,
+      2031,
+      2032,
+      2033,
+      2034,
+      2035,
+      2036,
+      2037,
+      2038,
+      2039,
+      2040,
+      2041,
+      2042,
+      2043,
+      2044,
+      2045,
+      2046,
+      2047,
+      2048,
+      2049,
+      2050,
+      2051,
+      2052,
+      2053,
+      2054,
+      2055,
+      2056,
+      2057,
+      2058,
+      2059,
+      2060,
+      2061,
+      2062,
+      2063,
+      2064,
+      2065,
+      2066,
+      2067,
+      2068,
+      2069,
+      2070,
+      2071,
+      2073,
+      2074,
+      2075,
+      2076,
+      2077,
+      2078,
+      2079,
+      2080,
+      2081,
+      2082,
+      2083,
+      2084,
+      2085,
+      2086,
+      2087,
+      2088
+    ]
+  }
+}
+
+COMPLETE CURRENT ENTRY LIST: 149 ENTRIES
+Database position is the current saved display order; separate editorial views appear above. Saved bibliographic metadata is not independently reverified by this export.
+
+ENTRY 1 | work:26 | Things Fall Apart — Chinua Achebe
+{"entry_id": 2412, "item_type": "work", "item_id": 26, "source_rank": null, "rationale": "Position 1 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 26, "title": "Things Fall Apart", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 46, "name": "Chinua Achebe", "biography": "", "countries": [], "source_url": "https://africasacountry.com/2020/10/decolonizing-african-literature-begins-with-language", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 523, "language": "English", "translator": "", "publisher": "Perfection Learning Prebound", "isbn": "0808592777", "pages": 192, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL891786W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/12816943-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 1 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 2 | work:22 | Season of Migration to the North — Tayeb Salih
+{"entry_id": 2413, "item_type": "work", "item_id": 22, "source_rank": null, "rationale": "Position 2 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 22, "title": "Season of Migration to the North", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 42, "name": "Tayeb Salih", "biography": "", "countries": [], "source_url": "https://www.aljazeera.net/culture/2026/1/19/لماذا-تتصدر-الروايات-القديمة-قوائم", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1256, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/bwb_C0-AFQ-040", "image_attribution": "Internet Archive item image: https://archive.org/services/img/bwb_C0-AFQ-040", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 2 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 3 | work:1949 | A Grain of Wheat — Ngũgĩ wa Thiong’o
+{"entry_id": 2414, "item_type": "work", "item_id": 1949, "source_rank": null, "rationale": "Position 3 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1949, "title": "A Grain of Wheat", "form": "book", "field": "literature", "original_year": 1967, "original_language": "", "countries": ["Africa"], "description": "Included at position 3 in the owner-supplied country synthesis. Original report title: A Grain of Wheat.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1359, "name": "Ngũgĩ wa Thiong’o", "biography": "", "countries": [], "source_url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1540, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 280, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL10242W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/14342094-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 3 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 4 | work:1950 | So Long a Letter — Mariama Bâ
+{"entry_id": 2415, "item_type": "work", "item_id": 1950, "source_rank": null, "rationale": "Position 4 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1950, "title": "So Long a Letter", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Africa"], "description": "Included at position 4 in the owner-supplied country synthesis. Original report title: So Long a Letter.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1360, "name": "Mariama Bâ", "biography": "", "countries": [], "source_url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 5602, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://en.wikipedia.org/wiki/So_Long_a_Letter", "image_attribution": "Wikipedia image MariamaBa_SoLongALetter.jpg: https://upload.wikimedia.org/wikipedia/en/2/2e/MariamaBa_SoLongALetter.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 4 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 5 | work:763 | Disgrace — J. M. Coetzee
+{"entry_id": 2416, "item_type": "work", "item_id": 763, "source_rank": null, "rationale": "Position 5 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 763, "title": "Disgrace", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 567, "name": "J. M. Coetzee", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 142, "language": "English", "translator": "", "publisher": "Debolsillo", "isbn": "9879397304", "pages": 257, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL500451W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/11434870-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 5 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 6 | work:1951 | The Beautyful Ones Are Not Yet Born — Ayi Kwei Armah
+{"entry_id": 2417, "item_type": "work", "item_id": 1951, "source_rank": null, "rationale": "Position 6 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1951, "title": "The Beautyful Ones Are Not Yet Born", "form": "book", "field": "literature", "original_year": 1968, "original_language": "", "countries": ["Africa"], "description": "Included at position 6 in the owner-supplied country synthesis. Original report title: The Beautyful Ones Are Not Yet Born.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1361, "name": "Ayi Kwei Armah", "biography": "", "countries": [], "source_url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1541, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 215, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL2334845W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8182662-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 6 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 7 | work:27 | God’s Bits of Wood — Ousmane Sembène
+{"entry_id": 2418, "item_type": "work", "item_id": 27, "source_rank": null, "rationale": "Position 7 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 27, "title": "God’s Bits of Wood", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 47, "name": "Ousmane Sembène", "biography": "", "countries": [], "source_url": "https://www.africasacountry.com/2024/06/stories-untold", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1254, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/godsbitsofwood0000ousm", "image_attribution": "Internet Archive item image: https://archive.org/services/img/godsbitsofwood0000ousm", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 7 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 8 | work:771 | Nervous Conditions — Tsitsi Dangarembga
+{"entry_id": 2419, "item_type": "work", "item_id": 771, "source_rank": null, "rationale": "Position 8 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 771, "title": "Nervous Conditions", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 573, "name": "Tsitsi Dangarembga", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 250, "language": "English", "translator": "", "publisher": "Seal", "isbn": "9781580051347", "pages": 204, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL17661158W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/7934158-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 8 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 9 | work:1952 | Palace Walk — Naguib Mahfouz
+{"entry_id": 2420, "item_type": "work", "item_id": 1952, "source_rank": null, "rationale": "Position 9 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1952, "title": "Palace Walk", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Africa"], "description": "Included at position 9 in the owner-supplied country synthesis. Original report title: Palace Walk.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 43, "name": "Naguib Mahfouz", "biography": "", "countries": [], "source_url": "https://arablit.org/2011/04/21/the-arab-writers-unions-top-105-of-the-20th-century/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": null}, "editorial_evidence_and_rationales": {"standing": "Position 9 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 10 | work:765 | Half of a Yellow Sun — Chimamanda Ngozi Adichie
+{"entry_id": 2421, "item_type": "work", "item_id": 765, "source_rank": null, "rationale": "Position 10 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 765, "title": "Half of a Yellow Sun", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 569, "name": "Chimamanda Ngozi Adichie", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 178, "language": "English", "translator": "", "publisher": "HarperCollins Publishers", "isbn": "9780007272372", "pages": 500, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL5731542W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8472660-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 10 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 11 | work:1953 | Life & Times of Michael K — J. M. Coetzee
+{"entry_id": 2422, "item_type": "work", "item_id": 1953, "source_rank": null, "rationale": "Position 11 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1953, "title": "Life & Times of Michael K", "form": "book", "field": "literature", "original_year": 1983, "original_language": "", "countries": ["Africa"], "description": "Included at position 11 in the owner-supplied country synthesis. Original report title: Life & Times of Michael K.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 567, "name": "J. M. Coetzee", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1542, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 214, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL500448W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/12703026-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 11 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 12 | work:1954 | Sleepwalking Land — Mia Couto
+{"entry_id": 2423, "item_type": "work", "item_id": 1954, "source_rank": null, "rationale": "Position 12 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1954, "title": "Sleepwalking Land", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Africa"], "description": "Included at position 12 in the owner-supplied country synthesis. Original report title: Sleepwalking Land.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1362, "name": "Mia Couto", "biography": "", "countries": [], "source_url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 5603, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://en.wikipedia.org/wiki/Sleepwalking_Land", "image_attribution": "Wikipedia image Sleepwalking_Land.jpg: https://upload.wikimedia.org/wikipedia/en/7/7e/Sleepwalking_Land.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 12 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 13 | work:1955 | The Palm-Wine Drinkard — Amos Tutuola
+{"entry_id": 2424, "item_type": "work", "item_id": 1955, "source_rank": null, "rationale": "Position 13 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1955, "title": "The Palm-Wine Drinkard", "form": "book", "field": "literature", "original_year": 1952, "original_language": "", "countries": ["Africa"], "description": "Included at position 13 in the owner-supplied country synthesis. Original report title: The Palm-Wine Drinkard.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1363, "name": "Amos Tutuola", "biography": "", "countries": [], "source_url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1544, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL3942391W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/4233896-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 13 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 14 | work:1956 | The Famished Road — Ben Okri
+{"entry_id": 2425, "item_type": "work", "item_id": 1956, "source_rank": null, "rationale": "Position 14 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1956, "title": "The Famished Road", "form": "book", "field": "literature", "original_year": 1991, "original_language": "", "countries": ["Africa"], "description": "Included at position 14 in the owner-supplied country synthesis. Original report title: The Famished Road.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1364, "name": "Ben Okri", "biography": "", "countries": [], "source_url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1546, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 504, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL928455W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/13858305-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 14 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 15 | work:1957 | Arrow of God — Chinua Achebe
+{"entry_id": 2426, "item_type": "work", "item_id": 1957, "source_rank": null, "rationale": "Position 15 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 1957, "title": "Arrow of God", "form": "book", "field": "literature", "original_year": 1964, "original_language": "", "countries": ["Africa"], "description": "Included at position 15 in the owner-supplied country synthesis. Original report title: Arrow of God.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 46, "name": "Chinua Achebe", "biography": "", "countries": [], "source_url": "https://africasacountry.com/2020/10/decolonizing-african-literature-begins-with-language", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1547, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 266, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL891814W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/7135325-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 15 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "AFRICA-001", "title": "African Studies Centre Leiden — Africa's 100 Best Books of the 20th Century", "url": "https://www.ascleiden.nl/content/webdossiers/africas-100-best-books-20th-century"}, {"source_id": "AFRICA-002", "title": "Goodreads — Africa's 100 Best Books of the 20th Century", "url": "https://www.goodreads.com/list/show/71912.Africa_s_100_Best_Books_of_the_20th_Century"}, {"source_id": "AFRICA-003", "title": "Goodreads — Best African Books", "url": "https://www.goodreads.com/list/show/19067.Best_African_Books"}, {"source_id": "AFRICA-004", "title": "Goodreads — Best African Literature Books To Read", "url": "https://www.goodreads.com/list/show/86590.Best_African_Literature_Books_To_Read"}, {"source_id": "AFRICA-005", "title": "Goodreads — African Fiction", "url": "https://www.goodreads.com/list/show/12753.African_Fiction"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+END OF THIS INPUT PART. Wait for the next numbered part.

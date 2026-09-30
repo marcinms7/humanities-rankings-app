@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-09-27-owner-docx-updates",
+  "status": "imported",
+  "target": "comics-graphic-novels-all-time",
+  "files": [
+    {
+      "filename": "Comics_and_graphic_narratives_revised.docx",
+      "target": "comics-graphic-novels-all-time",
+      "sha256": "9e3aa9e0557a9fe8a57ed6454ff18e365f402b8ca714c2137b618ca99d128c5e",
+      "directory": "research/incoming/comics-graphic-novels-all-time/2026-09-27-owner-docx-updates",
+      "blocks": 11887,
+      "tables": 2,
+      "chars": 1251169
+    }
+  ],
+  "database_receipt": "research/_runs/2026-09-27/owner-docx-updates/comics-graphic-novels-all-time-import-receipt.json",
+  "preserved_all_existing_sources": true,
+  "source_by_source_web_verification_performed": false
+}

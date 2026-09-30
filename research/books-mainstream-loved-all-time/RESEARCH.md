@@ -1,5 +1,7 @@
 # Most mainstream-loved books · All time — owner-chat Top 150 intake, 14 September 2026
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 The owner's report is preserved verbatim at `research/incoming/books-mainstream-loved-all-time/2026-09-14-owner-chat-attachments/report.txt` (SHA-256 `8d7afb36a70203ea2efcbc79e8d9845a46a1ad067b95ab963fcd1b7d7708d213`). It supplies 150 positions and 279 direct-URL source records, normalized into `sources.owner-chat-2026-09-14.json`. Of the supplied records, 198 are reported as retrieved and eligible; indexed-only leads remain visible but uncounted.
 
 Two directly read *Complete Review* pages were added for *The Rainbow Troops* (rank 106) and *Pather Panchali* (rank 107), each of which otherwise cited only indexed-only leads. The live ledger therefore has **281 retained target-local sources / 200 eligible**. Revision **3** publishes the full Top 150. Three collective/scriptural works remain authorless; no fictitious people were created.

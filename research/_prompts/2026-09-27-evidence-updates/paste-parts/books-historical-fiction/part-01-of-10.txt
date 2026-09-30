@@ -1,0 +1,387 @@
+INPUT PART 1/10 — books-historical-fiction
+These numbered messages together are ONE complete research request. Expect 99 current entries and 263 current source records, plus the labelled supplements. Until the final part arrives, acknowledge receipt briefly and wait; do not start the research or infer missing parts. If the conversation cannot retain all parts, say so and request the complete prompt as a file instead of pretending full coverage.
+
+SELF-CONTAINED RANKING UPDATE REQUEST
+TARGET: Historical fiction · All time
+TARGET ID: books-historical-fiction
+SNAPSHOT: 2026-09-27T20:44:44.053349+00:00
+MODE: update an existing research synthesis
+CURRENT SIZE: 99 distinct entries
+CURRENT REGISTER: 263 source records; 263 stored as eligible (historical flags, subject to audit)
+DESIRED SCOPE: A broad historical-fiction ranking around the current 100-work ambition, with a clear genre definition and justified treatment of boundary cases; distinguish it from nonfiction history rankings.
+
+You are updating ONE existing humanities ranking for a reading app. You have no access to its repository, database or earlier conversations. Everything needed to start is included below: the task, current entries, both saved editorial orders where present, existing entry citations, and the complete current target-specific source register. Research this target on the web and return a portable, evidence-backed update. Do not merely critique this prompt or supply a research plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+OWNER'S OBJECTIVE
+Improve the substance and traceability of the ranking while keeping a useful, broad candidate pool. Start by auditing and using relevant existing material, then research the specific gaps. The source count alone does not establish adequate support. An established, fully consulted list may support many candidates; a large bibliography of generic references may support few comparative judgments. The owner specifically requests at least 100 additional sources for this update; this is not a per-entry quota.
+
+Treat this as a revision, not an instruction to retain every existing position. Compare the complete pool, identify conspicuous omissions, and justify additions, removals, merges and substantial moves. Keep the supplied identities and prior evidence traceable. Do not replace a substantial ranking with a tiny polished subset while ignoring the rest. If work must stop, return the full baseline with updated and unresolved rows clearly distinguished, plus the exact continuation point.
+
+WHAT COUNTS AS EVIDENCE
+The supplied source eligibility flags, access labels, dates and notes are historical records. They are NOT a claim that you consulted those pages, or that their contents justify every attached candidate. Separate inherited evidence, independently rechecked evidence, newly consulted evidence, bibliographic/context material, unavailable material and unexamined leads. Never copy an old access date into a claim of your own consultation.
+
+Open and examine relevant content before claiming new or rechecked evidence. Record what claim it supports and where: article section, page, list entry or other precise location. Search-result pages/snippets, unopened links and generic site homepages are leads, not substantive consultation. A long page or successful HTTP response is not sufficient. Narrow reference facts, primary texts and publisher descriptions can be useful, but do not by themselves demonstrate comparative critical standing. Preserve these useful roles without counting metadata-only leads as substantive research.
+
+Use an appropriate mixture of scholarship/critical studies, university and specialist selections, independent critics/polls/reviews, and reader discussions including Goodreads or Reddit where relevant. Use relevant non-English sources when you can understand them reliably. Prioritize independent, candidate-specific evidence and underrepresented traditions. Do not keep collecting repetitive pages to inflate totals.
+
+Deduplicate underlying publications, mirrors, syndication and copied lists. Wikipedia translations and copies of one poll are not independent critical endorsements. An aggregator is one consulted source unless its underlying sources are individually examined; do not double-count their judgments. One discussion thread is one source, not one per comment. Record dependencies and publisher/platform concentration. Preserve disagreements. Never invent sources, URLs, quotations, source positions or consultation claims.
+
+The project uses a floor of 50 distinct relevant consulted sources for a completed research target, including sound prior research retained with explicit provenance. This is not 50 NEW sources, not 50 per candidate, and not a guarantee of adequate coverage. Recalculate the defensible total after the audit; do not accept stored eligibility totals automatically. Separate genuinely qualifying prior evidence from your own consultations in the totals. Below the floor, or with substantial unresolved support, label the result incomplete. Above it, stop when the useful revision is delivered and identify remaining concrete gaps rather than researching indefinitely. One target's bibliography does not automatically count for another target.
+
+SCOPE, IDENTITY AND ORDERING
+Use the target-specific scope below. Books, authors/philosophers, individual stories/essays/poems/plays, collections, series and editions are different objects. Do not silently turn a series into its first volume, a collection into one story, or an author into a book. Verify ambiguous or reversed author/title records before making further claims. Retain anonymous, collective and disputed attributions honestly. Use original composition/publication dates, with uncertainty where appropriate, not translation dates.
+
+For country/tradition scopes, document literary/cultural association; language, setting, citizenship and country are not interchangeable. Multiple associations can be valid. England is distinct from the UK. Establish English availability for reading recommendations where required by this target; an English-translated title alone does not prove an English edition exists. Record unavailable or unverified translations explicitly instead of inventing editions or silently dropping important works.
+
+Produce two reasoned qualitative editorial views when applicable: (1) critical standing/enduring influence, and (2) reading value today. The second is not just ease of reading or popularity. Give it independent reasoning where it differs; if you cannot support a separate full order, say so. Both views should cover the same final candidate set; explicitly label unresolved placements instead of silently omitting candidates. A beginner route or reading sequence is separately labelled and is not automatically a merit ranking. A country-grouped selection keeps local positions and does not acquire a global merit order.
+
+Personal numerical criteria, weights, assessments and personalized scores are UNSET. Leave them unset. The owner explicitly authorizes qualitative, source-backed editorial orderings without numerical scoring. This supersedes older generic instructions that would block any editorial ranking until personal criteria exist. Do not invent the owner's tastes. Explain your comparative method and uncertainty; precise ordinal positions are editorial judgments, not measured facts. Preserve original publisher ranks, ties, list lengths and unranked status separately. Absence from a short source list is not a last-place vote.
+
+An existing shared ranking is the baseline for this assignment. Preserve its prior form in the change log; propose a revised version rather than claiming to overwrite the app. No application code, account, library, private notes or preferences are part of your task. Do not claim a database import or publication.
+
+REQUIRED RETURN PACKAGE
+Return one complete, downloadable Word .docx for this target, named <target-id>-<your-run-id>-update.docx. Structured Markdown or UTF-8 text is acceptable if genuine .docx generation is unavailable; do not rename a text file to .docx. Optional sources.json and candidates.json make later import easier but do not replace the readable report. If output limits require multiple files, number them and supply a manifest; do not silently truncate the ranking or bibliography.
+
+Include all of the following:
+1. Target ID, scope, actual research dates/run ID, methodology, status, achieved candidate count, consultation counts split into inherited/rechecked/new, source-family/domain/publisher distribution, dependency audit, limitations and stopping rationale.
+2. The complete revised standing order and complete reading-value order where applicable, or all country sections with their local positions. Give each retained item its supplied work/person ID; new items receive clearly external candidate IDs, never invented app IDs. Report both old and proposed positions, identity corrections, rationale and confidence. Preserve ties/uncertainty where appropriate.
+3. Candidate records for EVERY proposed item: title/name, author/attribution, form, original date/language/associations when supported, scope eligibility, inclusion and comparative reasoning, actual supporting source IDs and claim locations, counterarguments, English-availability status and unresolved facts. Differentiate identity/context support from evidence of selection, reception, criticism or comparative judgment. Do not attach the same generic bibliography to every candidate without showing what it actually supports.
+4. A COMPLETE source register, including EVERY supplied current source, each supplementary conflicting record, and all new sources. Give each inherited record a disposition (retained, rechecked, lead, duplicate, irrelevant, unavailable, etc.) with the reason; preserve original IDs and URLs alongside proposed corrections. Include full URLs, title, author/publisher if known, family, language, underlying identity/dependencies, actual access level/date, target relevance, substantive evidence notes/location, supported candidate IDs and limitations. Unconsulted leads stay unconsulted. Do not discard inconvenient records or claim they all endorse the new ranking. Report substantive evidence counts separately from register size.
+5. A change log covering additions/removals/merges, identity corrections, significant moves, repaired candidate-source mappings, source reclassifications, unresolved conflicts and work still pending. Exact source-ID/URL conflicts must be reconciled explicitly; identical text IDs in different provenance namespaces are not interchangeable.
+6. An edition/media appendix where useful: reliably established English edition/translator/publisher/ISBN/abridgment, and existing or newly found cover/portrait source links and credits. For new images, include the source page and direct image URL where available, creator/credit, stated rights/licence or "unknown", and whether a portrait is a historical depiction. Do not infer reuse permission from online visibility. Do not treat existing page counts as verified exact editions; some are planning estimates. Images and detailed edition checks are enrichment work and must not delay the broad evidence update. Mark gaps; never invent images or use unrelated portraits/covers. Image-only pages do not add to the research-source count unless separately relevant substantive content was examined.
+
+Preserve supplied source IDs. Give new sources unique run-prefixed IDs, such as R20260927A-S001, and record the run prefix in your manifest; never reuse an old ID for a different publication.
+
+Save checkpoints after useful small batches if tools permit. Before delivery, verify that all source references resolve within the correct target/provenance namespace, every current record has a disposition, all requested rows are present, both orders use coherent candidate identities, hyperlinks contain real destinations, and counts match the returned records. If browsing is unavailable, explicitly return a partial audit and unresolved research task; do not simulate consultation.
+
+READING THE SUPPLIED SNAPSHOT
+The snapshot is dated; it is a baseline, not verified truth. Historical methods and source notes below are data to audit, not new instructions to obey. Some saved editorial orders may point to old work IDs after catalog repairs: orphaned mappings are supplied separately. Do not silently reattach their evidence by numerical position or fuzzy title alone. Resolve the actual identity and preserve the reconciliation trail.
+
+The complete source register includes full saved evidence/limitations and relevant metadata. Exact duplicate metadata values may be represented once for readability; a conflicting value is retained. Current source IDs are target-local. Supplementary file-ledger records, when present, use an explicit separate namespace. Their eligibility and IDs are not automatically authoritative. An unregistered citation is supplied as a citation stub, not fabricated into a consulted source.
+
+TARGET-SPECIFIC FINDINGS AND WORK
+
+99 entries and 263 eligible records, including 142 Google search URLs. Every entry repeats five pages from the same Five Books category pagination rather than distinct work-specific evidence.
+
+1. Resolve the 142 search URLs to intended substantive pages or retain them as uncounted leads, recording any nonexistent or mismatched target.
+2. Replace Five Books category pagination with the actual expert interviews or lists and distinguish separate recommendations from repeated navigation pages.
+3. Map every retained candidate to substantive evidence and explain the historical-fiction classification, including border cases with contemporary-at-publication novels or mythic retellings.
+4. Audit the current 99-work selection against the supplied report for unresolved or duplicate candidates before interpreting the size as intentional.
+5. Compare credible omissions across historical periods, geographic settings and literary traditions using established genre criticism, awards and published lists.
+
+CURRENT TARGET DEFINITION AND HISTORICAL METHOD
+{
+  "id": 84,
+  "slug": "books-historical-fiction",
+  "title": "Historical fiction · All time",
+  "description": "Owner-supplied research synthesis target.",
+  "domain": "literature",
+  "item_type": "work",
+  "presentation": "ranked",
+  "origin": "curated",
+  "target_size": 100,
+  "status": "initial_selection",
+  "source_url": "",
+  "publisher": "",
+  "last_researched_at": null,
+  "last_sources_checked_at": null,
+  "revision": 2,
+  "criteria": [],
+  "scope": {
+    "forms": [
+      "book"
+    ],
+    "genre": "historical fiction",
+    "english_edition_required": true
+  },
+  "historical_editorial_method_and_notes": {
+    "version": "owner-paste-country-synthesis-2026-09-13",
+    "published_on": "2026-09-13",
+    "notice": "Initial owner-supplied country synthesis. Source records preserve externally reported consultation and verification limitations; this is not a final exhaustive ranking.",
+    "method": "Reported cross-source synthesis from the owner-supplied report. The supplied order is retained as a provisional editorial order; no personal numerical scores are set.",
+    "input_sha256": "9cbc2662ecff6d9e74fe4a9fc820c53aea2c5f2dc044986ecbd512345718961d",
+    "reviewed_exclusions": []
+  }
+}
+
+CURRENT SAVED EDITORIAL ORDERS
+Item IDs below resolve to the complete current entries or the explicit orphan mapping appendix. A saved order is historical, not a requirement to retain the same order. For unranked/country-grouped records, these are display sequences, not global merit positions.
+{
+  "standing": {
+    "label": "Reported cross-source synthesis",
+    "description": "The source report’s supplied all-time ordering.",
+    "item_ids": [
+      2,
+      712,
+      745,
+      758,
+      381,
+      78,
+      400,
+      882,
+      2089,
+      2090,
+      286,
+      8,
+      283,
+      273,
+      301,
+      781,
+      728,
+      1376,
+      1073,
+      2091,
+      714,
+      303,
+      2092,
+      2093,
+      2094,
+      154,
+      2095,
+      2096,
+      268,
+      2097,
+      2098,
+      1662,
+      2099,
+      2100,
+      2101,
+      2102,
+      2103,
+      2104,
+      1381,
+      2105,
+      1385,
+      26,
+      1380,
+      1474,
+      975,
+      294,
+      1054,
+      978,
+      827,
+      1549,
+      797,
+      158,
+      2106,
+      304,
+      2107,
+      2108,
+      2109,
+      2110,
+      2111,
+      2112,
+      2113,
+      718,
+      2114,
+      355,
+      2115,
+      2116,
+      2117,
+      1565,
+      2118,
+      765,
+      750,
+      2119,
+      2120,
+      2065,
+      2064,
+      2055,
+      2076,
+      2121,
+      2122,
+      2124,
+      1410,
+      2125,
+      2126,
+      2127,
+      2128,
+      2129,
+      2130,
+      2131,
+      2132,
+      409,
+      2133,
+      2134,
+      2135,
+      150,
+      2136,
+      2137,
+      2138,
+      2139,
+      2140
+    ]
+  },
+  "reading": {
+    "label": "Reported order (reading-value view pending)",
+    "description": "No separate reading-value order was supplied, so this view currently retains the report order.",
+    "item_ids": [
+      2,
+      712,
+      745,
+      758,
+      381,
+      78,
+      400,
+      882,
+      2089,
+      2090,
+      286,
+      8,
+      283,
+      273,
+      301,
+      781,
+      728,
+      1376,
+      1073,
+      2091,
+      714,
+      303,
+      2092,
+      2093,
+      2094,
+      154,
+      2095,
+      2096,
+      268,
+      2097,
+      2098,
+      1662,
+      2099,
+      2100,
+      2101,
+      2102,
+      2103,
+      2104,
+      1381,
+      2105,
+      1385,
+      26,
+      1380,
+      1474,
+      975,
+      294,
+      1054,
+      978,
+      827,
+      1549,
+      797,
+      158,
+      2106,
+      304,
+      2107,
+      2108,
+      2109,
+      2110,
+      2111,
+      2112,
+      2113,
+      718,
+      2114,
+      355,
+      2115,
+      2116,
+      2117,
+      1565,
+      2118,
+      765,
+      750,
+      2119,
+      2120,
+      2065,
+      2064,
+      2055,
+      2076,
+      2121,
+      2122,
+      2124,
+      1410,
+      2125,
+      2126,
+      2127,
+      2128,
+      2129,
+      2130,
+      2131,
+      2132,
+      409,
+      2133,
+      2134,
+      2135,
+      150,
+      2136,
+      2137,
+      2138,
+      2139,
+      2140
+    ]
+  }
+}
+
+COMPLETE CURRENT ENTRY LIST: 99 ENTRIES
+Database position is the current saved display order; separate editorial views appear above. Saved bibliographic metadata is not independently reverified by this export.
+
+ENTRY 1 | work:2 | War and Peace — Leo Tolstoy
+{"entry_id": 2561, "item_type": "work", "item_id": 2, "source_rank": null, "rationale": "Position 1 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 2, "title": "War and Peace", "form": "book", "field": "literature", "original_year": 1869, "original_language": "Russian", "countries": ["Russia"], "description": "A novel combining social narrative, war and historical inquiry. The completed first book edition appeared in 1868–1869, following earlier serialization.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 2, "name": "Leo Tolstoy", "biography": "", "countries": [], "source_url": "https://www.nybooks.com/articles/2007/11/22/tolstoys-real-hero/", "image_attribution": "Sergei Prokudin-Gorskii; Public domain. https://commons.wikimedia.org/wiki/File:Leo_Tolstoy_1908_Portrait_(3x4_cropped).jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 2, "language": "English", "translator": "Richard Pevear and Larissa Volokhonsky", "publisher": "Vintage", "isbn": "9781400079988", "pages": 1296, "word_count": null, "abridged": 0, "translation_notes": "Complete-novel translation; retains French passages with English footnotes. Figes praises repetition and register while noting individual errors. This is not Bromfield’s translation of an earlier, shorter draft.", "source_url": "https://www.penguinrandomhouse.com/books/208646/war-and-peace-by-leo-tolstoy-a-new-translation-by-richard-pevear-and-larissa-volokhonsky/9781400079988/", "image_attribution": "Cover: Vintage. Publisher-supplied image for ISBN 9781400079988; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 1 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 2 | work:712 | Wolf Hall — Hilary Mantel
+{"entry_id": 2562, "item_type": "work", "item_id": 712, "source_rank": null, "rationale": "Position 2 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 712, "title": "Wolf Hall", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 532, "name": "Hilary Mantel", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/ng-interactive/2026/jun/06/readers-top-100-novels-of-all-time", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 553, "language": "English", "translator": "", "publisher": "DuMont", "isbn": "1408461242", "pages": 653, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL464512W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8345848-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 2 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 3 | work:745 | The Name of the Rose — Umberto Eco
+{"entry_id": 2563, "item_type": "work", "item_id": 745, "source_rank": null, "rationale": "Position 3 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 745, "title": "The Name of the Rose", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 558, "name": "Umberto Eco", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/ng-interactive/2026/jun/06/readers-top-100-novels-of-all-time", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 456, "language": "English", "translator": "", "publisher": "Houghton Mifflin Harcourt", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL37535473W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/15023290-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 3 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 4 | work:758 | The Leopard — Giuseppe Tomasi di Lampedusa
+{"entry_id": 2564, "item_type": "work", "item_id": 758, "source_rank": null, "rationale": "Position 4 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 758, "title": "The Leopard", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 565, "name": "Giuseppe Tomasi di Lampedusa", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 438, "language": "English", "translator": "", "publisher": "Pantheon", "isbn": "9780679731214", "pages": 319, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL8300259W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/420068-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 4 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 5 | work:381 | Memoirs of Hadrian — Marguerite Yourcenar
+{"entry_id": 2565, "item_type": "work", "item_id": 381, "source_rank": null, "rationale": "Position 5 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 381, "title": "Memoirs of Hadrian", "form": "book", "field": "literature", "original_year": null, "original_language": "French", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 314, "name": "Marguerite Yourcenar", "biography": "", "countries": [], "source_url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 237, "language": "English", "translator": "", "publisher": "Modern Library", "isbn": "0679601601", "pages": 347, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL37995807W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/15015608-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 5 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 6 | work:78 | I, Claudius — Robert Graves
+{"entry_id": 2566, "item_type": "work", "item_id": 78, "source_rank": null, "rationale": "Position 6 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 78, "title": "I, Claudius", "form": "book", "field": "literature", "original_year": null, "original_language": "English", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 80, "name": "Robert Graves", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 191, "language": "English", "translator": "", "publisher": "Carcanet", "isbn": "0394701828", "pages": 433, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL5036952W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/14656260-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 6 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 7 | work:400 | The Betrothed — Alessandro Manzoni
+{"entry_id": 2567, "item_type": "work", "item_id": 400, "source_rank": null, "rationale": "Position 7 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 400, "title": "The Betrothed", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 329, "name": "Alessandro Manzoni", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 763, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 266, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL20159687W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8805010-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 7 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 8 | work:882 | Romance of the Three Kingdoms — Luo Guanzhong
+{"entry_id": 2568, "item_type": "work", "item_id": 882, "source_rank": null, "rationale": "Position 8 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 882, "title": "Romance of the Three Kingdoms", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["China"], "description": "Included at position 9 in the owner-supplied country synthesis. Original report title: Romance of the Three Kingdoms [三国演义].", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 640, "name": "Luo Guanzhong", "biography": "", "countries": [], "source_url": "https://www.cambridge.org/core/books/cambridge-history-of-chinese-literature/76F4628F8A769EEF2DF952B530ED0CEE", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 743, "language": "English", "translator": "", "publisher": "Yue lu shu she", "isbn": "9787503311048", "pages": 1040, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL1961811W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/5445126-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 8 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 9 | work:2089 | Kristin Lavransdatter — Sigrid Undset
+{"entry_id": 2569, "item_type": "work", "item_id": 2089, "source_rank": null, "rationale": "Position 9 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 2089, "title": "Kristin Lavransdatter", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": ["Global historical fiction"], "description": "Included at position 9 in the owner-supplied country synthesis. Original report title: Kristin Lavransdatter.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 1458, "name": "Sigrid Undset", "biography": "", "countries": [], "source_url": "https://fivebooks.com/category/fiction/historical-fiction/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 3203, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": 1069, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/in.ernet.dli.2015.74050", "image_attribution": "Internet Archive item image: https://archive.org/services/img/in.ernet.dli.2015.74050", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 9 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 10 | work:2090 | Waverley — Walter Scott
+{"entry_id": 2570, "item_type": "work", "item_id": 2090, "source_rank": null, "rationale": "Position 10 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 2090, "title": "Waverley", "form": "book", "field": "literature", "original_year": 2012, "original_language": "", "countries": ["Global historical fiction"], "description": "Included at position 10 in the owner-supplied country synthesis. Original report title: Waverley.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 264, "name": "Walter Scott", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 4610, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL20780756W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/9936776-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 10 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 11 | work:286 | Les Misérables — Victor Hugo
+{"entry_id": 2571, "item_type": "work", "item_id": 286, "source_rank": null, "rationale": "Position 11 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 286, "title": "Les Misérables", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 253, "name": "Victor Hugo", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 219, "language": "English", "translator": "", "publisher": "Baker Street Press", "isbn": "9781115828161", "pages": 422, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL1063588W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/12721865-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 11 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 12 | work:8 | Beloved — Toni Morrison
+{"entry_id": 2572, "item_type": "work", "item_id": 8, "source_rank": null, "rationale": "Position 12 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 8, "title": "Beloved", "form": "book", "field": "literature", "original_year": 1987, "original_language": "English", "countries": ["United States"], "description": "A novel of slavery’s aftermath, memory, motherhood and the difficult reclamation of agency.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 8, "name": "Toni Morrison", "biography": "", "countries": [], "source_url": "https://www.penguinrandomhouseretail.com/book/?isbn=9781400033416", "image_attribution": "John Mathew Smith (celebrity-photos.com); CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Toni_Morrison.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 8, "language": "English", "translator": "", "publisher": "Vintage", "isbn": "9781400033416", "pages": 368, "word_count": null, "abridged": 0, "translation_notes": "Current publisher record lists 368 pages with a new introduction by Honorée Fanonne Jeffers and an author afterword. Its on-sale date is the ISBN’s 2004 record, not a claim that the new introduction appeared in 2004; older printings have different extents.", "source_url": "https://www.penguinrandomhouseretail.com/book/?isbn=9781400033416", "image_attribution": "Cover: Vintage. Publisher-supplied image for ISBN 9781400033416; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 12 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 13 | work:283 | The Three Musketeers — Alexandre Dumas
+{"entry_id": 2573, "item_type": "work", "item_id": 283, "source_rank": null, "rationale": "Position 13 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 283, "title": "The Three Musketeers", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 250, "name": "Alexandre Dumas", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 502, "language": "English", "translator": "", "publisher": "Collins, London and Glasgow", "isbn": "9781648337369", "pages": 637, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL38438001W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/15079464-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 13 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 14 | work:273 | A Tale of Two Cities — Charles Dickens
+{"entry_id": 2574, "item_type": "work", "item_id": 273, "source_rank": null, "rationale": "Position 14 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 273, "title": "A Tale of Two Cities", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 242, "name": "Charles Dickens", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 53, "language": "English", "translator": "", "publisher": "Black Cat", "isbn": "9798361981670", "pages": 388, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL8193465W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/13301713-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 14 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 15 | work:301 | The Hunchback of Notre Dame — Victor Hugo
+{"entry_id": 2575, "item_type": "work", "item_id": 301, "source_rank": null, "rationale": "Position 15 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 301, "title": "The Hunchback of Notre Dame", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 253, "name": "Victor Hugo", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 426, "language": "English", "translator": "", "publisher": "Waldman Publishing Corp.", "isbn": "9781587261428", "pages": 132, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL17736010W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8015311-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 15 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 16 | work:781 | The Known World — Edward P. Jones
+{"entry_id": 2576, "item_type": "work", "item_id": 781, "source_rank": null, "rationale": "Position 16 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 781, "title": "The Known World", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 579, "name": "Edward P. Jones", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 428, "language": "English", "translator": "", "publisher": "Büchergilde Gutenberg", "isbn": "9780060767198", "pages": 403, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL4112928W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/34376-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 16 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 17 | work:728 | Lonesome Dove — Larry McMurtry
+{"entry_id": 2577, "item_type": "work", "item_id": 728, "source_rank": null, "rationale": "Position 17 in the owner-supplied cross-source country synthesis.", "assessments": {}, "catalog": {"id": 728, "title": "Lonesome Dove", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 545, "name": "Larry McMurtry", "biography": "", "countries": [], "source_url": "https://www.theguardian.com/books/ng-interactive/2026/jun/06/readers-top-100-novels-of-all-time", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 229, "language": "English", "translator": "", "publisher": "Perfection Learning Prebound", "isbn": "0671623206", "pages": 945, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL134601W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/8376548-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Position 17 in the owner-supplied cross-source country synthesis.", "reading": "No separate reading-value ordering was supplied; this initial view retains the reported synthesis order.", "caveat": "The supplied source register is corpus-level rather than a per-work citation map; specific English edition and media verification remain pending.", "sources": [{"source_id": "HISTORICAL-FICTION-001", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/"}, {"source_id": "HISTORICAL-FICTION-002", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/2/"}, {"source_id": "HISTORICAL-FICTION-003", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/3/"}, {"source_id": "HISTORICAL-FICTION-004", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/4/"}, {"source_id": "HISTORICAL-FICTION-005", "title": "fivebooks.com", "url": "https://fivebooks.com/category/fiction/historical-fiction/page/5/"}], "metadata_status": "edition_and_media_pending", "source_positions": []}, "country_groupings": []}
+
+END OF THIS INPUT PART. Wait for the next numbered part.

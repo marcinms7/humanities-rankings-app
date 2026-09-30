@@ -1,0 +1,1907 @@
+UPDATE REQUEST: Books · South America
+Target ID: books-south-america
+Snapshot: 2026-09-27T20:44:44.053349+00:00
+Current entries: 150; current source records: 260 (includes unverified leads).
+Desired scope: A broad geographic South American ranking around the current 150-entry scale, explicitly including French Guiana and excluding works supported only by Mexican, Central American or Caribbean affiliation.
+
+
+Update and strengthen the existing ranking below for my humanities reading app. You have no prior context: the current complete ranking and ALL current target-specific source records are included here. Use web research to add substantive, relevant, independent sources, improve weak candidate support, correct identity errors, reassess the ordering and address omissions. Return the enhanced ranking itself, not just advice or a plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+Keep the ranking broad. Reuse useful existing evidence and add sources that improve coverage; do not pad the bibliography with search pages, generic homepages, duplicates or unopened links. Count only actually examined relevant content. Preserve existing source IDs, use run-prefixed IDs for new sources, and distinguish supplied historical evidence from sources you personally rechecked or newly consulted. Stored eligibility flags below are historical claims to audit, not proof of consultation. Bibliographic facts and Wikipedia pages may support identity but do not alone establish comparative merit. Deduplicate mirrors and copied lists; an aggregator and its underlying lists are not independent votes. Use scholarship/specialist criticism, independent selections and relevant reader discussion, including non-English perspectives when useful. For this assignment, at least 100 genuinely new qualifying sources are required; prioritize additions that resolve the identified gaps. The project's 50-source floor is per completed target including defensible retained research, never per entry and never proof of completeness.
+
+Preserve stable work/person IDs and source provenance. Correct reversed author/title records explicitly. Country/tradition association differs from setting or language; preserve anonymous/collective attributions, original dates and work/collection/series distinctions. Verify English availability for reading recommendations; leave unknown edition facts unset. Do not let missing images or detailed editions delay the revised ranking.
+
+For ranked targets, return both critical standing/enduring influence and reading value today as explained qualitative editorial orders covering the same candidate set. Personal numerical criteria, weights and scores remain UNSET; they do not prevent these qualitative orders. Original publisher positions stay separate. For the country-grouped selection, preserve local top-three positions and never invent a global rank. Existing positions are open to evidence-backed revision, not automatically protected.
+
+Return ONE complete Word .docx (or structured Markdown/text if document generation is unavailable), containing: (1) scope, method, actual research dates and source-diversity/access audit; (2) the full enhanced ranking/orderings with authors, supplied IDs, brief candidate-specific rationales and evidence IDs; (3) ALL existing sources with their reviewed status plus every new source, URLs, evidence notes, actual consultation dates/access limits and supported candidates; (4) a change log explaining additions/removals, identity repairs and significant moves; (5) unresolved gaps and edition/media notes if available. Do not invent citations or silently omit low-ranked entries. If time/context runs out, preserve the full baseline and clearly distinguish completed updates from pending rows. No access to my database is required and do not claim to have imported the result.
+
+
+SPECIFIC UPDATE PRIORITIES
+150 entries and 260 eligible records all carry summary_only reported-consultation status; nine are search/index leads and every entry repeats the first five references. Saved notes explicitly leave direct verification and work-level mapping pending.
+1. Audit the full source register, including Google Scholar/JSTOR search leads, and recover substantive publications without promoting a search result or home page into evidence.
+2. Map published lists, criticism, prizes and academic evidence to individual works and explain any copied-list dependencies.
+3. Keep geographic scope exact: South America includes Brazil, the Guianas and relevant Indigenous traditions; Mexico, Central America and the Caribbean require exclusion or an explicitly justified cross-regional affiliation.
+4. Check the breadth of Spanish-, Portuguese-, French-, English-, Dutch- and Indigenous-language traditions as relevant, rather than treating Hispanic Latin America as the whole continent.
+5. Reassess major omissions and ordering across the full 150-entry pool, retaining uncertain editions and affiliations as explicit tasks.
+
+CURRENT SCOPE
+{"forms": ["book"], "region": "South America", "scope": "geographic; excludes Mexico, Central America and Caribbean; includes French Guiana", "english_edition_required": true}
+
+CURRENT RANKING — COMPLETE
+Display position | work/person ID | title — author | saved standing/reading positions | existing evidence IDs. Saved positions do not prove merit; missing order mappings are explicitly unknown.
+
+1. [work:19] One Hundred Years of Solitude — Gabriel García Márquez | standing=1; reading=1 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+2. [work:342] Ficciones — Jorge Luis Borges | standing=2; reading=2 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+3. [work:1367] The Posthumous Memoirs of Brás Cubas — Machado de Assis | standing=3; reading=3 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+4. [work:1368] Hopscotch — Julio Cortázar | standing=4; reading=4 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+5. [work:1369] Conversation in the Cathedral — Mario Vargas Llosa | standing=5; reading=5 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+6. [work:1370] The Aleph — Jorge Luis Borges | standing=6; reading=6 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+7. [work:24] Grande sertão: veredas — João Guimarães Rosa | standing=7; reading=7 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+8. [work:1371] The Obscene Bird of Night — José Donoso | standing=8; reading=8 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+9. [work:1372] The Hour of the Star — Clarice Lispector | standing=9; reading=9 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+10. [work:1373] Dom Casmurro — Machado de Assis | standing=10; reading=10 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+11. [work:1374] The Invention of Morel — Adolfo Bioy Casares | standing=11; reading=11 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+12. [work:1375] The Passion According to G.H. — Clarice Lispector | standing=12; reading=12 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+13. [work:1376] The War of the End of the World — Mario Vargas Llosa | standing=13; reading=13 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+14. [work:1377] The Green House — Mario Vargas Llosa | standing=14; reading=14 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+15. [work:1378] Twenty Love Poems and a Song of Despair — Pablo Neruda | standing=15; reading=15 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+16. [work:1379] The House of the Spirits — Isabel Allende | standing=16; reading=16 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+17. [work:1380] Zama — Antonio di Benedetto | standing=17; reading=17 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+18. [work:1381] The Feast of the Goat — Mario Vargas Llosa | standing=18; reading=18 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+19. [work:1382] The Seven Madmen — Roberto Arlt | standing=19; reading=19 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+20. [work:1383] The Tunnel — Ernesto Sábato | standing=20; reading=20 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+21. [work:1384] Trilce — César Vallejo | standing=21; reading=21 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+22. [work:1385] I, the Supreme — Augusto Roa Bastos | standing=22; reading=22 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+23. [work:1386] La vorágine — José Eustasio Rivera | standing=23; reading=23 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+24. [work:1387] A Brief Life — Juan Carlos Onetti | standing=24; reading=24 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+25. [work:1388] The Savage Detectives — Roberto Bolaño | standing=25; reading=25 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+26. [work:730] 2666 — Roberto Bolaño | standing=26; reading=26 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+27. [work:1389] The Time of the Hero — Mario Vargas Llosa | standing=27; reading=27 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+28. [work:353] Love in the Time of Cholera — Gabriel García Márquez | standing=28; reading=28 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+29. [work:1390] The Autumn of the Patriarch — Gabriel García Márquez | standing=29; reading=29 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+30. [work:1391] Canto General — Pablo Neruda | standing=30; reading=30 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+31. [work:1392] Residence on Earth — Pablo Neruda | standing=31; reading=31 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+32. [work:1393] Deep Rivers — José María Arguedas | standing=32; reading=32 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+33. [work:1394] The Shrouded Woman — María Luisa Bombal | standing=33; reading=33 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+34. [work:1395] The Last Fog — María Luisa Bombal | standing=34; reading=34 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+35. [work:1396] Kiss of the Spider Woman — Manuel Puig | standing=35; reading=35 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+36. [work:1397] Barren Lives — Graciliano Ramos | standing=36; reading=36 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+37. [work:1398] Macunaíma — Mário de Andrade | standing=37; reading=37 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+38. [work:1399] Os Sertões — Euclides da Cunha | standing=38; reading=38 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+39. [work:1400] Chronicle of a Death Foretold — Gabriel García Márquez | standing=39; reading=39 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+40. [work:1401] No One Writes to the Colonel — Gabriel García Márquez | standing=40; reading=40 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+41. [work:1402] The Adventures of Maqroll — Álvaro Mutis | standing=41; reading=41 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+42. [work:1403] The Shipyard — Juan Carlos Onetti | standing=42; reading=42 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+43. [work:1404] Stories of Love, Madness and Death — Horacio Quiroga | standing=43; reading=43 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+44. [work:1405] The Truce — Mario Benedetti | standing=44; reading=44 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+45. [work:1406] Martín Fierro — José Hernández | standing=45; reading=45 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+46. [work:1407] Facundo — Domingo F. Sarmiento | standing=46; reading=46 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+47. [work:1408] Adán Buenosayres — Leopoldo Marechal | standing=47; reading=47 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+48. [work:1409] On Heroes and Tombs — Ernesto Sábato | standing=48; reading=48 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+49. [work:1410] Bomarzo — Manuel Mujica Lainez | standing=49; reading=49 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+50. [work:1411] The Complete Stories — Clarice Lispector | standing=50; reading=50 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+51. [work:1412] Thus Were Their Faces — Silvina Ocampo | standing=51; reading=51 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+52. [work:1413] Eisejuaz — Sara Gallardo | standing=52; reading=52 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+53. [work:1414] The Buenos Aires Affair — Manuel Puig | standing=53; reading=53 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+54. [work:1415] Betrayed by Rita Hayworth — Manuel Puig | standing=54; reading=54 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+55. [work:1416] The Artificial Respiration — Ricardo Piglia | standing=55; reading=55 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+56. [work:1417] The Museum of Eterna's Novel — Macedonio Fernández | standing=56; reading=56 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+57. [work:1418] The Perón Novel — Tomás Eloy Martínez | standing=57; reading=57 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+58. [work:1419] Santa Evita — Tomás Eloy Martínez | standing=58; reading=58 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+59. [work:1420] An Episode in the Life of a Landscape Painter — César Aira | standing=59; reading=59 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+60. [work:1421] Ghosts — César Aira | standing=60; reading=60 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+61. [work:1422] Fever Dream — Samanta Schweblin | standing=61; reading=61 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+62. [work:1423] Our Share of Night — Mariana Enriquez | standing=62; reading=62 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+63. [work:1424] Things We Lost in the Fire — Mariana Enriquez | standing=63; reading=63 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+64. [work:1425] Mouthful of Birds — Samanta Schweblin | standing=64; reading=64 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+65. [work:1426] Little Eyes — Samanta Schweblin | standing=65; reading=65 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+66. [work:1427] Tender Is the Flesh — Agustina Bazterrica | standing=66; reading=66 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+67. [work:1428] The Luminous Novel — Mario Levrero | standing=67; reading=67 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+68. [work:1429] The Naked Woman — Armonía Somers | standing=68; reading=68 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+69. [work:1430] Pink Slime — Fernanda Trías | standing=69; reading=69 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+70. [work:1431] The Rooftop — Fernanda Trías | standing=70; reading=70 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+71. [work:63] Seven Interpretive Essays on Peruvian Reality — José Carlos Mariátegui | standing=71; reading=71 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+72. [work:1432] The Black Heralds — César Vallejo | standing=72; reading=72 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+73. [work:1433] Human Poems — César Vallejo | standing=73; reading=73 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+74. [work:1434] Yawar Fiesta — José María Arguedas | standing=74; reading=74 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+75. [work:1435] The Fox from Up Above and the Fox from Down Below — José María Arguedas | standing=75; reading=75 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+76. [work:1436] A World for Julius — Alfredo Bryce Echenique | standing=76; reading=76 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+77. [work:1437] Drums for Rancas — Manuel Scorza | standing=77; reading=77 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+78. [work:1438] The Word of the Speechless — Julio Ramón Ribeyro | standing=78; reading=78 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+79. [work:1439] Desolación — Gabriela Mistral | standing=79; reading=79 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+80. [work:1440] Tala — Gabriela Mistral | standing=80; reading=80 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+81. [work:1441] By Night in Chile — Roberto Bolaño | standing=81; reading=81 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+82. [work:1442] Distant Star — Roberto Bolaño | standing=82; reading=82 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+83. [work:1443] Amulet — Roberto Bolaño | standing=83; reading=83 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+84. [work:1444] Bonsai — Alejandro Zambra | standing=84; reading=84 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+85. [work:1445] Ways of Going Home — Alejandro Zambra | standing=85; reading=85 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+86. [work:1446] Space Invaders — Nona Fernández | standing=86; reading=86 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+87. [work:1447] The Twilight Zone — Nona Fernández | standing=87; reading=87 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+88. [work:1448] Seeing Red — Lina Meruane | standing=88; reading=88 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+89. [work:1449] The Remainder — Alia Trabucco Zerán | standing=89; reading=89 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+90. [work:1450] My Tender Matador — Pedro Lemebel | standing=90; reading=90 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+91. [work:1451] The Old Man Who Read Love Stories — Luis Sepúlveda | standing=91; reading=91 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+92. [work:1452] Quincas Borba — Machado de Assis | standing=92; reading=92 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+93. [work:1453] The Alienist — Machado de Assis | standing=93; reading=93 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+94. [work:1454] O Cortiço — Aluísio Azevedo | standing=94; reading=94 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+95. [work:1455] São Bernardo — Graciliano Ramos | standing=95; reading=95 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+96. [work:1456] Captains of the Sands — Jorge Amado | standing=96; reading=96 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+97. [work:1457] Gabriela, Clove and Cinnamon — Jorge Amado | standing=97; reading=97 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+98. [work:1458] Dona Flor and Her Two Husbands — Jorge Amado | standing=98; reading=98 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+99. [work:1459] Near to the Wild Heart — Clarice Lispector | standing=99; reading=99 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+100. [work:1460] Água Viva — Clarice Lispector | standing=100; reading=100 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+101. [work:1461] The Apple in the Dark — Clarice Lispector | standing=101; reading=101 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+102. [work:1462] The Three Marias — Rachel de Queiroz | standing=102; reading=102 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+103. [work:1463] Dois Irmãos — Milton Hatoum | standing=103; reading=103 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+104. [work:1464] They Were Many Horses — Luiz Ruffato | standing=104; reading=104 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+105. [work:1465] Um Defeito de Cor — Ana Maria Gonçalves | standing=105; reading=105 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+106. [work:1466] Torto Arado — Itamar Vieira Junior | standing=106; reading=106 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+107. [work:1467] Olhos d'Água — Conceição Evaristo | standing=107; reading=107 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+108. [work:1468] Ponciá Vicêncio — Conceição Evaristo | standing=108; reading=108 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+109. [work:1469] Nine Nights — Bernardo Carvalho | standing=109; reading=109 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+110. [work:1470] The Eternal Son — Cristovão Tezza | standing=110; reading=110 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+111. [work:1471] O Avesso da Pele — Jeferson Tenório | standing=111; reading=111 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+112. [work:1472] The Falling Sky — Davi Kopenawa & Bruce Albert | standing=112; reading=112 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+113. [work:1473] The Sun on My Head — Geovani Martins | standing=113; reading=113 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+114. [work:1474] The General in His Labyrinth — Gabriel García Márquez | standing=114; reading=114 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+115. [work:1475] Leaf Storm — Gabriel García Márquez | standing=115; reading=115 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+116. [work:1476] In Evil Hour — Gabriel García Márquez | standing=116; reading=116 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+117. [work:1477] The Story of a Shipwrecked Sailor — Gabriel García Márquez | standing=117; reading=117 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+118. [work:1478] Delirium — Laura Restrepo | standing=118; reading=118 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+119. [work:1479] The Sound of Things Falling — Juan Gabriel Vásquez | standing=119; reading=119 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+120. [work:1480] The Shape of the Ruins — Juan Gabriel Vásquez | standing=120; reading=120 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+121. [work:1481] The Armies — Evelio Rosero | standing=121; reading=121 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+122. [work:1482] The Bitch — Pilar Quintana | standing=122; reading=122 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+123. [work:1483] Changó, the Biggest Badass — Manuel Zapata Olivella | standing=123; reading=123 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+124. [work:1484] Huasipungo — Jorge Icaza | standing=124; reading=124 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+125. [work:1485] Jawbone — Mónica Ojeda | standing=125; reading=125 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+126. [work:1486] Cockfight — María Fernanda Ampuero | standing=126; reading=126 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+127. [work:1487] Los Sangurimas — José de la Cuadra | standing=127; reading=127 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+128. [work:1488] Juan de la Rosa — Nataniel Aguirre | standing=128; reading=128 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+129. [work:1489] Bronze Race — Alcides Arguedas | standing=129; reading=129 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+130. [work:1490] American Visa — Juan de Recacoechea | standing=130; reading=130 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+131. [work:1491] Affections — Rodrigo Hasbún | standing=131; reading=131 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+132. [work:1492] Doña Bárbara — Rómulo Gallegos | standing=132; reading=132 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+133. [work:1493] Iphigenia — Teresa de la Parra | standing=133; reading=133 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+134. [work:1494] Memorias de Mamá Blanca — Teresa de la Parra | standing=134; reading=134 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+135. [work:1495] The Night — Rodrigo Blanco Calderón | standing=135; reading=135 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+136. [work:1496] Palace of the Peacock — Wilson Harris | standing=136; reading=136 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+137. [work:1497] The Ventriloquist's Tale — Pauline Melville | standing=137; reading=137 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+138. [work:1498] The Open Veins of Latin America — Eduardo Galeano | standing=138; reading=138 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+139. [work:1499] Memory of Fire — Eduardo Galeano | standing=139; reading=139 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+140. [work:1500] Son of Man — Augusto Roa Bastos | standing=140; reading=140 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+141. [work:1501] Jungle Tales — Horacio Quiroga | standing=141; reading=141 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+142. [work:1502] The Winners — Julio Cortázar | standing=142; reading=142 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+143. [work:1503] Blow-Up and Other Stories — Julio Cortázar | standing=143; reading=143 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+144. [work:1504] 62: A Model Kit — Julio Cortázar | standing=144; reading=144 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+145. [work:1505] Abaddón el exterminador — Ernesto Sábato | standing=145; reading=145 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+146. [work:1506] Don Segundo Sombra — Ricardo Güiraldes | standing=146; reading=146 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+147. [work:1507] Hoe duur was de suiker? — Cynthia McLeod | standing=147; reading=147 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+148. [work:1508] On a Woman's Madness — Astrid Roemer | standing=148; reading=148 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+149. [work:1509] Black-Label — Léon-Gontran Damas | standing=149; reading=149 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+150. [work:1510] My Bones and My Flute — Edgar Mittelholzer | standing=150; reading=150 | sources: SOUTH-AMERICA-001, SOUTH-AMERICA-002, SOUTH-AMERICA-003, SOUTH-AMERICA-004, SOUTH-AMERICA-005
+
+ALL CURRENT SOURCES — COMPLETE REGISTER
+Every current database source is included below. Notes/access dates/eligibility are inherited, not independently verified for this prompt. Blank notes mean no note was saved. Retain all records in your returned register with a reviewed disposition; leads must not be promoted without consultation.
+
+[SOUTH-AMERICA-001] El País/Babelia – Estirpe de novelistas: Canon siglo XX/XXI
+https://elpais.com/diario/2011/08/27/babelia/1314403935_850215.html
+Family: editorial_or_specialist | Publisher: elpais.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:395d452a82d485ccfd9e8843
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-002] El País – Hitos de la literatura latinoamericana
+https://elpais.com/cultura/2012/11/09/actualidad/1352486533_709749.html
+Family: editorial_or_specialist | Publisher: elpais.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:50fecec0a7f4a751219dee6e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-003] El País/Babelia – Mejores libros en español de los últimos 25 años
+https://elpais.com/elpais/2016/10/21/fotorrelato/1477063506_019316.html
+Family: editorial_or_specialist | Publisher: elpais.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:049f4a1680e3e55026390e3c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-004] El País – Cinco autoras para redescubrir la literatura latinoamericana del siglo XX
+https://elpais.com/expres/2025-04-26/cinco-autoras-para-redescubrir-la-literatura-latinoamericana-del-siglo-xx.html
+Family: editorial_or_specialist | Publisher: elpais.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4f7e3b9984ff23bfc3317f9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-005] Folha de S.Paulo – Best Brazilian Literature of the 21st Century
+https://www1.folha.uol.com.br/internacional/en/culture/2025/05/the-best-brazilian-literature-of-the-21st-century-according-to-a-jury-invited-by-folha.shtml
+Family: editorial_or_specialist | Publisher: www1.folha.uol.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d553e55d2e81ea36381c6007
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-006] Folha de S.Paulo – Grandes obras da literatura brasileira
+https://www1.folha.uol.com.br/webstories/cultura/2026/01/conheca-grandes-obras-da-literatura-brasileira/
+Family: editorial_or_specialist | Publisher: www1.folha.uol.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c1fc334fde31397c654ddf3a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-007] Bravo! – 100 livros essenciais da literatura brasileira
+https://bravo.abril.com.br/literatura/ranking-100-livros-essenciais-da-literatura-brasileira-segundo-a-bravo/
+Family: editorial_or_specialist | Publisher: bravo.abril.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:457bdf44436079bf1f7e7821
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-008] Goulart Gomes – 100 melhores livros brasileiros
+https://www.goulartgomes.com/visualizar.php?idt=2051740
+Family: editorial_or_specialist | Publisher: www.goulartgomes.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:948e17bde1ba7ee7eaef4fc3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-009] Goodreads – Os 25 Melhores Romances Brasileiros do Século 21
+https://www.goodreads.com/list/show/133790.Os_25_Melhores_Romances_Brasileiros_Do_S_culo_21_Best_Brazilian_Novels_In_The_21st_Century_
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a9f2d647395bb6bfdc481a2c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-010] El Observador – Mejor libro uruguayo de todos los tiempos (100 referentes)
+https://www.elobservador.com.uy/cultura-y-espectaculos/cual-es-la-mejor-cancion-pelicula-y-libro-uruguayo-todos-los-tiempos-lo-que-respondieron-100-referentes-n5986087
+Family: editorial_or_specialist | Publisher: www.elobservador.com.uy | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9c25d554be746038d02ab8b9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-011] El Observador – Diez mejores libros uruguayos del siglo XXI
+https://www.elobservador.com.uy/cultura-y-espectaculos/los-diez-mejores-libros-uruguayos-del-siglo-xxi-mas-120-referentes-eligieron-sus-favoritos-n6014571
+Family: editorial_or_specialist | Publisher: www.elobservador.com.uy | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:738eb848323fe24f81e66e4d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-012] El Observador – Diez libros uruguayos que marcaron la década
+https://www.elobservador.com.uy/nota/diez-libros-uruguayos-que-marcaron-la-decada-20191228151729
+Family: editorial_or_specialist | Publisher: www.elobservador.com.uy | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d09edbc054e4bc1477bc3f5c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-013] La Nación – Las mejores 100 novelas en español
+https://www.lanacion.com.ar/cultura/las-mejores-100-novelas-en-espanol-nid894884/
+Family: editorial_or_specialist | Publisher: www.lanacion.com.ar | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a20ed2a96a4f8e8170dae3a5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-014] Sudaca – diez mejores novelas peruanas 1953–2023 (Alonso Rabí)
+https://sudaca.pe/noticia/opinion/alonso-rabi-do-carmo-hay-sondeos-en-la-vida/
+Family: editorial_or_specialist | Publisher: sudaca.pe | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:906965ea56cf953e8ff9b62b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-015] El Comercio Perú – Lo mejor de la literatura peruana 2022
+https://elcomercio.pe/luces/libros/ano-2022-lo-mejor-de-la-literatura-peruana-en-ficcion-no-ficcion-y-poesia-resumen-2022-covid-19-noticia/
+Family: editorial_or_specialist | Publisher: elcomercio.pe | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c7c880e75f23c96ef844e0d8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-016] El Comercio Perú – balance de libros 2025
+https://elcomercio.pe/eldominical/actualidad/que-leer-libros-2025-balance-de-las-novelas-cuentos-libros-de-no-ficcion-poesia-y-mas-que-destacaron-en-peru-cultura-noticia/
+Family: editorial_or_specialist | Publisher: elcomercio.pe | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7ad63f46ae34048d148d0a81
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-017] Goodreads – Mejores novelas ecuatorianas
+https://www.goodreads.com/list/show/124905.Mejores_novelas_ecuatorianas
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:24964660e6c037e212999927
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-018] Carlos Hugo Molina/La Prensa – Las 10 mejores novelas bolivianas
+https://www.carloshugomolina.com.bo/las-10-mejores-novelas-bolivianas/
+Family: editorial_or_specialist | Publisher: www.carloshugomolina.com.bo | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ebbc42e9760fb8d0692cf377
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-019] Wikipedia – Literatura de Bolivia (documents 1983 poll and official 15 novels)
+https://es.wikipedia.org/wiki/Literatura_de_Bolivia
+Family: editorial_or_specialist | Publisher: es.wikipedia.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:902d16d648fb3905298da1a8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-020] LibraryThing – Latin American Literature
+https://www.librarything.com/list/10084/
+Family: reader_community | Publisher: www.librarything.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1dbb345ea01dc25cf69190bd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-021] LibraryThing – Las 100 mejores novelas de la literatura hispanoamericana
+https://www.librarything.com/list/20376/
+Family: reader_community | Publisher: www.librarything.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4f44954f2ebbb5da75070d80
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-022] Reddit r/asklatinamerica – absolute masterpiece thread
+https://www.reddit.com/r/asklatinamerica/comments/1syslf3/which_latin_american_literature_is_an_absolute/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:85ec047a4e95f75ed2bbb642
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-023] Reddit r/literature – Latin American lit suggestions
+https://www.reddit.com/r/literature/comments/142yf0y
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d35a35b6514a668207bab619
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-024] Reddit r/asklatinamerica – richest literature discussion
+https://www.reddit.com/r/asklatinamerica/comments/xs2obo
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e2867b04f047da805d8416a9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-025] Reddit r/asklatinamerica – must-read authors by country
+https://www.reddit.com/r/asklatinamerica/comments/1g7s1ts
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7f6985b86897fc3bf038d8ab
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-026] Reddit r/suggestmeabook – Latin-American literature recommendations
+https://www.reddit.com/r/suggestmeabook/comments/ineqbv
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:76ab93efaf229ef879b92ced
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-027] Reddit r/latamlit – Clarice/LATAM recommendations
+https://www.reddit.com/r/latamlit/comments/1upswwb/loving_latin_american_literature_need/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f4cd017feb8f1375282a3c62
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-028] Reddit r/latamlit – long Latin American novels
+https://www.reddit.com/r/latamlit/comments/1sp1vud/ten_latin_american_novels_that_would_be/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3d6f8de6ba4874011a0391ab
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-029] Reddit r/latamlit – short works
+https://www.reddit.com/r/latamlit/comments/1sgqlpv/15_works_of_latin_american_literature_that_you/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:50caddfe304a08b3abe62370
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-030] Douban – One Hundred Years of Solitude
+https://book.douban.com/subject/6082808/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:63b5ae43a9089ebd499b22d9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-031] JSTOR – Occidente, canon y literatura hispanoamericana
+https://www.jstor.org/stable/41969823
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0da9683484fa7188066e239e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-032] JSTOR – The Literatures of Spanish America and Brazil
+https://www.jstor.org/stable/jj.4688128
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:236a4199020defb9a9616b27
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-033] JSTOR – Latin America and Existentialism
+https://www.jstor.org/stable/10.2307/jj.43599926
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d75f3abc01042c3896ae04a7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-034] JSTOR – Machado de Assis and Narrative Theory
+https://www.jstor.org/stable/j.ctv1nh3knc
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:06ca938f00c24202c4d6481e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-035] JSTOR – Machado de Assis, Blackness, and the Americas
+https://www.jstor.org/stable/jj.18254924
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4e58694033757315ae495837
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-036] JSTOR – Gabriel García Márquez and the Powers of Fiction
+https://www.jstor.org/stable/10.7560/727403
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dde5948e9bff7b485dad9fdf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-037] Cambridge Companion to the Latin American Novel
+https://www.cambridge.org/core/books/cambridge-companion-to-the-latin-american-novel/22AAB2AD7DA89EEB8E1B367FEE9AF880
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8812967ae90b5971f09fb39e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-038] Cambridge History of Latin American Literature – bibliography
+https://www.cambridge.org/core/books/abs/cambridge-history-of-latin-american-literature/bibliography/E0561079D9A7A1B0A9F0C1AB4AD1AA27
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:74aae9a06e7d834276815cf9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-039] Nobel Prize – Mario Vargas Llosa bibliography
+https://www.nobelprize.org/prizes/literature/2010/bio-bibliography/
+Family: editorial_or_specialist | Publisher: www.nobelprize.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c98cebb13affad97f85a2858
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-040] Nobel Prize – Gabriel García Márquez lecture
+https://www.nobelprize.org/prizes/literature/1982/marquez/lecture/
+Family: editorial_or_specialist | Publisher: www.nobelprize.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ac6db0ec87b7df88ef900a76
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-041] WorldCat – One Hundred Years of Solitude
+https://search.worldcat.org/title/One-hundred-years-of-solitude/oclc/36909041
+Family: editorial_or_specialist | Publisher: search.worldcat.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a86932a3556f3626d938c5ce
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-042] Goodreads Listopia
+https://www.goodreads.com/list
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6f460cefda3208342ca9fc68
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-043] The Greatest Books
+https://thegreatestbooks.org/
+Family: editorial_or_specialist | Publisher: thegreatestbooks.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4da3a286e4f9f6e31c3be0e7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-044] The Guardian Books
+https://www.theguardian.com/books
+Family: editorial_or_specialist | Publisher: www.theguardian.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2c8d5dd7757259b324c3fdfe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-045] New York Times Books
+https://www.nytimes.com/section/books
+Family: editorial_or_specialist | Publisher: www.nytimes.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bca8bd21fb820541cb6cc60a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-046] BBC Culture
+https://www.bbc.com/culture
+Family: editorial_or_specialist | Publisher: www.bbc.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:47ada5548b0b32ccca33e9f5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-047] Literary Hub
+https://lithub.com/
+Family: editorial_or_specialist | Publisher: lithub.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:611549aa3074acfc22eec7e3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-048] World Literature Today
+https://worldliteraturetoday.org/
+Family: editorial_or_specialist | Publisher: worldliteraturetoday.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d854ff030c4b15729c2293dd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-049] Words Without Borders
+https://wordswithoutborders.org/
+Family: editorial_or_specialist | Publisher: wordswithoutborders.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0d9961fb392abfdbbcb348c2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-050] Asymptote
+https://www.asymptotejournal.com/
+Family: editorial_or_specialist | Publisher: www.asymptotejournal.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f445c679adebcb6184e4168a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-051] Los Angeles Review of Books
+https://lareviewofbooks.org/
+Family: editorial_or_specialist | Publisher: lareviewofbooks.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4896399afdd7b6fb3439d90
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-052] New York Review of Books
+https://www.nybooks.com/
+Family: editorial_or_specialist | Publisher: www.nybooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9805c8a91f511ce5a7f2fa70
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-053] London Review of Books
+https://www.lrb.co.uk/
+Family: editorial_or_specialist | Publisher: www.lrb.co.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7e5588dffabbc5d1a3b34e89
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-054] Times Literary Supplement
+https://www.the-tls.com/
+Family: editorial_or_specialist | Publisher: www.the-tls.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ab16cdc9c5386e26f43a04f5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-055] Paris Review
+https://www.theparisreview.org/
+Family: editorial_or_specialist | Publisher: www.theparisreview.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ce955230a89bcdf4296d4cb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-056] The Nation – Books
+https://www.thenation.com/subject/books-and-the-arts/
+Family: editorial_or_specialist | Publisher: www.thenation.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c394eb19b865b21ad935a11e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-057] Public Books
+https://www.publicbooks.org/
+Family: editorial_or_specialist | Publisher: www.publicbooks.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d3ee477aef7a11e7f178b628
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-058] Electric Literature
+https://electricliterature.com/
+Family: editorial_or_specialist | Publisher: electricliterature.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:01a60147bb00fd6969ea36cb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-059] Book Marks
+https://bookmarks.reviews/
+Family: editorial_or_specialist | Publisher: bookmarks.reviews | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c06ebe46194f601fbe007d54
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-060] Bookforum
+https://www.bookforum.com/
+Family: editorial_or_specialist | Publisher: www.bookforum.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9b21076da49f35aaef3b5d75
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-061] Kirkus Reviews
+https://www.kirkusreviews.com/
+Family: editorial_or_specialist | Publisher: www.kirkusreviews.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:38389a81d830ef3446ccb055
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-062] Publishers Weekly
+https://www.publishersweekly.com/
+Family: editorial_or_specialist | Publisher: www.publishersweekly.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:98c94f9996b72db3fbdd6113
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-063] NPR Books
+https://www.npr.org/books/
+Family: editorial_or_specialist | Publisher: www.npr.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:31dae691327d49bc1f26ea25
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-064] The New Yorker – Books
+https://www.newyorker.com/books
+Family: editorial_or_specialist | Publisher: www.newyorker.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b1195a3f8146e3600792c71b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-065] The Atlantic – Books
+https://www.theatlantic.com/books/
+Family: editorial_or_specialist | Publisher: www.theatlantic.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:61a98fa31f0dbb71535afe32
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-066] Smithsonian Magazine
+https://www.smithsonianmag.com/
+Family: editorial_or_specialist | Publisher: www.smithsonianmag.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1e39586c82f6aa79787ba9ed
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-067] Britannica – Latin American literature
+https://www.britannica.com/art/Latin-American-literature
+Family: editorial_or_specialist | Publisher: www.britannica.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:71a14512440637b30a35727e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-068] Poetry Foundation
+https://www.poetryfoundation.org/
+Family: editorial_or_specialist | Publisher: www.poetryfoundation.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:30a88c2aea59d1802f1dd8a2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-069] Academy of American Poets
+https://poets.org/
+Family: editorial_or_specialist | Publisher: poets.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c4f864f309779570c8bd895d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-070] Modern Library
+https://www.modernlibrary.com/top-100/
+Family: academic_or_institutional | Publisher: www.modernlibrary.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4408013f33f76f8604cd56b9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-071] Penguin Classics
+https://www.penguin.co.uk/classics
+Family: editorial_or_specialist | Publisher: www.penguin.co.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:99ec01b9db6cb6892e03961c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-072] Penguin Random House – Latin American authors
+https://www.penguinrandomhouse.com/
+Family: editorial_or_specialist | Publisher: www.penguinrandomhouse.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4e982c06d9c5f20256cbef5a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-073] New Directions
+https://www.ndbooks.com/
+Family: editorial_or_specialist | Publisher: www.ndbooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:acfcf69d10d6efbec4a0c1b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-074] New York Review Books Classics
+https://www.nyrb.com/collections/classics
+Family: editorial_or_specialist | Publisher: www.nyrb.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:88a872b93c197d2a371aa17e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-075] Archipelago Books
+https://archipelagobooks.org/
+Family: editorial_or_specialist | Publisher: archipelagobooks.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8cf7d1a407cd1ac540390bab
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-076] Open Letter Books
+https://www.openletterbooks.org/
+Family: editorial_or_specialist | Publisher: www.openletterbooks.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:489a8b3b7e171f8a22fab77e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-077] Deep Vellum
+https://www.deepvellum.org/
+Family: editorial_or_specialist | Publisher: www.deepvellum.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f7118de9f6f77b5b7a361f6c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-078] Charco Press
+https://charcopress.com/
+Family: editorial_or_specialist | Publisher: charcopress.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:985d4920e5c7710320757af0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-079] And Other Stories
+https://www.andotherstories.org/
+Family: editorial_or_specialist | Publisher: www.andotherstories.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ea6451684a7d2064e16a723d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-080] Fitzcarraldo Editions
+https://fitzcarraldoeditions.com/
+Family: editorial_or_specialist | Publisher: fitzcarraldoeditions.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2672ca53607ee18d22d6ba6b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-081] Verso Books
+https://www.versobooks.com/
+Family: editorial_or_specialist | Publisher: www.versobooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7e382a8abea3fa2fe76e3fb3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-082] Duke University Press
+https://www.dukeupress.edu/
+Family: academic_or_institutional | Publisher: www.dukeupress.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2f49ca6c59ee9816859c17ca
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-083] University of Texas Press
+https://utpress.utexas.edu/
+Family: academic_or_institutional | Publisher: utpress.utexas.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8dd2418f69165e49260389fd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-084] University of Pittsburgh Press
+https://upittpress.org/
+Family: academic_or_institutional | Publisher: upittpress.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c0128a2eb7b7a25902caa5fa
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-085] Cambridge University Press
+https://www.cambridge.org/core/browse-subjects/literature
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8fecebd8dc655816d1bc07a1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-086] Oxford Academic
+https://academic.oup.com/
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cab301374162f057fcbed7b2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-087] Oxford Bibliographies
+https://www.oxfordbibliographies.com/
+Family: academic_or_institutional | Publisher: www.oxfordbibliographies.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:85999c593256a3048b41544a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-088] JSTOR
+https://www.jstor.org/
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b83309dc521af3aa5fe59dac
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-089] Project MUSE
+https://muse.jhu.edu/
+Family: academic_or_institutional | Publisher: muse.jhu.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c4869a7f3256a1d09e30f099
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-090] MLA International Bibliography
+https://www.mla.org/Publications/MLA-International-Bibliography
+Family: editorial_or_specialist | Publisher: www.mla.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d25ed3b48709b52e6ca79710
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-091] Google Scholar
+https://scholar.google.com/
+Family: editorial_or_specialist | Publisher: scholar.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fb3ace4d4c5a824ad7fc1148
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-092] WorldCat
+https://search.worldcat.org/
+Family: editorial_or_specialist | Publisher: search.worldcat.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d21b63ad0fb26b5f36ffc008
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-093] OpenAlex
+https://openalex.org/
+Family: editorial_or_specialist | Publisher: openalex.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:58c9fee61c90142e42b2ee3a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-094] HathiTrust
+https://www.hathitrust.org/
+Family: editorial_or_specialist | Publisher: www.hathitrust.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4a94cb2776ea2487096cd693
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-095] Internet Archive
+https://archive.org/
+Family: editorial_or_specialist | Publisher: archive.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e180504d9dcc741a2642637a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-096] Biblioteca Virtual Miguel de Cervantes
+https://www.cervantesvirtual.com/
+Family: editorial_or_specialist | Publisher: www.cervantesvirtual.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8de2211f395f86f2fd1a44eb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-097] Biblioteca Nacional de España
+https://www.bne.es/
+Family: editorial_or_specialist | Publisher: www.bne.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d8426d7c3c036664720ea2ac
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-098] Instituto Cervantes
+https://www.cervantes.es/
+Family: editorial_or_specialist | Publisher: www.cervantes.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5b073db8b3f981d10f6da3e7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-099] Centro Virtual Cervantes
+https://cvc.cervantes.es/
+Family: editorial_or_specialist | Publisher: cvc.cervantes.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a96990b64de8e5ea4c3db176
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-100] Real Academia Española
+https://www.rae.es/
+Family: editorial_or_specialist | Publisher: www.rae.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ec91ad993fcd45b752372953
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-101] Casa de América
+https://www.casamerica.es/
+Family: editorial_or_specialist | Publisher: www.casamerica.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6b47faf9f954c5be7a9eb2fc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-102] Hay Festival
+https://www.hayfestival.com/
+Family: editorial_or_specialist | Publisher: www.hayfestival.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4a8fe2ca70513e1a0d1f518e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-103] FIL Guadalajara
+https://www.fil.com.mx/
+Family: editorial_or_specialist | Publisher: www.fil.com.mx | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:99e3bb96396f7d0cd4e4d8c8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-104] Premio FIL de Literatura
+https://www.fil.com.mx/premiofil/
+Family: editorial_or_specialist | Publisher: www.fil.com.mx | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e92eced4dee1f1d5afd20153
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-105] Premio Rómulo Gallegos
+https://celarg.gob.ve/
+Family: editorial_or_specialist | Publisher: celarg.gob.ve | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:261ea803ffa12390377c5d42
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-106] Premio Casa de las Américas
+https://www.casadelasamericas.org/
+Family: editorial_or_specialist | Publisher: www.casadelasamericas.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4b4ca6adb6b91f6398e7916
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-107] International Booker Prize
+https://thebookerprizes.com/the-booker-library/prize-years/international
+Family: academic_or_institutional | Publisher: thebookerprizes.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e37a6cd932908cf4da95d215
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-108] Booker Prize
+https://thebookerprizes.com/
+Family: editorial_or_specialist | Publisher: thebookerprizes.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:96397a6a7530d6b14e525e4f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-109] Nobel Prize Literature
+https://www.nobelprize.org/prizes/literature/
+Family: editorial_or_specialist | Publisher: www.nobelprize.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5c0e6fa52d22bb0dba3901fc
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-110] Neustadt Prize
+https://www.neustadtprize.org/
+Family: editorial_or_specialist | Publisher: www.neustadtprize.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:81bb3177ba3e434032107385
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-111] PEN America Literary Awards
+https://pen.org/literary-awards/
+Family: editorial_or_specialist | Publisher: pen.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:405c773d6a01ef5e9131d77f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-112] National Book Critics Circle
+https://www.bookcritics.org/awards/
+Family: editorial_or_specialist | Publisher: www.bookcritics.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ac9bbe0cdeb8d2d65691a7d7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-113] National Book Award Translated Literature
+https://www.nationalbook.org/awards-prizes/national-book-awards-2025/?cat=translated-literature
+Family: editorial_or_specialist | Publisher: www.nationalbook.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1dbc727780ef46258679ab9f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-114] Best Translated Book Award archive
+https://www.rochester.edu/College/translation/threepercent/
+Family: academic_or_institutional | Publisher: www.rochester.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bc088528f54bbb39a23b4164
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-115] Goodreads Choice Awards
+https://www.goodreads.com/choiceawards
+Family: reader_community | Publisher: www.goodreads.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:914e71ec005bedfbcf213e3e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-116] LibraryThing
+https://www.librarything.com/
+Family: reader_community | Publisher: www.librarything.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:07a6cd7c4b65b7f17b4f21d5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-117] Skoob
+https://www.skoob.com.br/
+Family: editorial_or_specialist | Publisher: www.skoob.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:57273e021855a908039d40ce
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-118] Douban Books
+https://book.douban.com/
+Family: reader_community | Publisher: book.douban.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:56196501cfe129486eb9a987
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-119] Baidu Baike literature entries
+https://baike.baidu.com/
+Family: editorial_or_specialist | Publisher: baike.baidu.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f5c2bd10519369d1468f236a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-120] Zhihu
+https://www.zhihu.com/
+Family: editorial_or_specialist | Publisher: www.zhihu.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9a5b632f97b9e4a5e39512cd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-121] Bookmeter
+https://bookmeter.com/
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c8e59e304935fb2cbf7e59fb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-122] 読書メーター (Bookmeter) rankings
+https://bookmeter.com/rankings
+Family: editorial_or_specialist | Publisher: bookmeter.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4a069899fd3035135acadfe3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-123] Kinokuniya
+https://www.kinokuniya.co.jp/
+Family: editorial_or_specialist | Publisher: www.kinokuniya.co.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cf51a39670f8a1b7d28f1541
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-124] Amazon Japan Books
+https://www.amazon.co.jp/books-used-books-textbooks/b?node=465392
+Family: editorial_or_specialist | Publisher: www.amazon.co.jp | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:715311857d18e63248f8f441
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-125] SensCritique Livres
+https://www.senscritique.com/livres
+Family: reader_community | Publisher: www.senscritique.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f27ea9c1a07375aa39823b64
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-126] Babelio
+https://www.babelio.com/
+Family: editorial_or_specialist | Publisher: www.babelio.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:5e5c8632923da1d06698520a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-127] Fnac Livres
+https://www.fnac.com/livre.asp
+Family: editorial_or_specialist | Publisher: www.fnac.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:f42572ad323e74f5239fa148
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-128] Le Monde des Livres
+https://www.lemonde.fr/livres/
+Family: editorial_or_specialist | Publisher: www.lemonde.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ba1328506ae14b389a7af1d4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-129] Libération Livres
+https://www.liberation.fr/culture/livres/
+Family: editorial_or_specialist | Publisher: www.liberation.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b043836f9605a079c50eb2a1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-130] Télérama Livres
+https://www.telerama.fr/livre/
+Family: editorial_or_specialist | Publisher: www.telerama.fr | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e8ccfb2a249c4dd1574e22ec
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-131] El País Babelia
+https://elpais.com/babelia/
+Family: editorial_or_specialist | Publisher: elpais.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:60829222396efd1c171fcdb8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-132] ABC Cultural
+https://www.abc.es/cultura/cultural/
+Family: editorial_or_specialist | Publisher: www.abc.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0b5486d28fdbc93e5e676375
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-133] La Vanguardia Cultura
+https://www.lavanguardia.com/cultura
+Family: editorial_or_specialist | Publisher: www.lavanguardia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:62fcd225729e32e447fee18e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-134] El Cultural
+https://www.elespanol.com/el-cultural/
+Family: editorial_or_specialist | Publisher: www.elespanol.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b7471f7b43beba263de46bd9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-135] Letras Libres
+https://letraslibres.com/
+Family: editorial_or_specialist | Publisher: letraslibres.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:25bcc5cc903caf3c6e9f0a68
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-136] Revista de Libros
+https://www.revistadelibros.com/
+Family: editorial_or_specialist | Publisher: www.revistadelibros.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7100ac20a3105bed80dee5b0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-137] Jot Down Books
+https://www.jotdown.es/category/libros/
+Family: editorial_or_specialist | Publisher: www.jotdown.es | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:abb928ee62c2d40ccbd78c3b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-138] Página/12 Radar Libros
+https://www.pagina12.com.ar/suplementos/radar
+Family: editorial_or_specialist | Publisher: www.pagina12.com.ar | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:676bbf1979873e822ba0bee0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-139] La Nación Cultura
+https://www.lanacion.com.ar/cultura/
+Family: editorial_or_specialist | Publisher: www.lanacion.com.ar | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d2b367c0b65678a4fcce9852
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-140] Clarín Cultura
+https://www.clarin.com/cultura/
+Family: editorial_or_specialist | Publisher: www.clarin.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ee0da8f0d498de3b4bf4f9ee
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-141] Revista Ñ
+https://www.clarin.com/revista-enie/
+Family: editorial_or_specialist | Publisher: www.clarin.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c97804529c5016c20ab582bb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-142] Infobae Cultura
+https://www.infobae.com/cultura/
+Family: editorial_or_specialist | Publisher: www.infobae.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0ed537e1798a743d35acb063
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-143] Eterna Cadencia Blog
+https://www.eternacadencia.com.ar/blog.html
+Family: editorial_or_specialist | Publisher: www.eternacadencia.com.ar | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c79430567e2fe578f150ab1f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-144] Revista Otra Parte
+https://www.revistaotraparte.com/
+Family: editorial_or_specialist | Publisher: www.revistaotraparte.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4d900dbbd17c492836a794bf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-145] Anfibia
+https://www.revistaanfibia.com/
+Family: editorial_or_specialist | Publisher: www.revistaanfibia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b65e95a4fbbf9062550914bd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-146] Revista Santiago
+https://revistasantiago.cl/
+Family: editorial_or_specialist | Publisher: revistasantiago.cl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:74b2d334e099bf29b269821c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-147] La Tercera Culto
+https://www.latercera.com/culto/
+Family: editorial_or_specialist | Publisher: www.latercera.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dc3bec5a935f7aad84270278
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-148] El Mercurio Artes y Letras
+https://www.elmercurio.com/
+Family: editorial_or_specialist | Publisher: www.elmercurio.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cf1e164128fe68c23b077304
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-149] CIPER Cultura
+https://www.ciperchile.cl/
+Family: editorial_or_specialist | Publisher: www.ciperchile.cl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ade279d611cc4069644e4213
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-150] Biblioteca Nacional de Chile
+https://www.bibliotecanacional.gob.cl/
+Family: editorial_or_specialist | Publisher: www.bibliotecanacional.gob.cl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9a3df97ad9b7c36a1847d4e5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-151] Memoria Chilena
+https://www.memoriachilena.gob.cl/
+Family: editorial_or_specialist | Publisher: www.memoriachilena.gob.cl | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a5edd25699c3a00e5e66e89b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-152] Banco de la República – Biblioteca Luis Ángel Arango
+https://www.banrepcultural.org/biblioteca-virtual
+Family: editorial_or_specialist | Publisher: www.banrepcultural.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:51034061d6f239d8782a3251
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-153] El Espectador Cultura
+https://www.elespectador.com/el-magazin-cultural/
+Family: editorial_or_specialist | Publisher: www.elespectador.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8228e2a64e657cf4fd407089
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-154] El Tiempo Cultura
+https://www.eltiempo.com/cultura
+Family: editorial_or_specialist | Publisher: www.eltiempo.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ad5565098deedc9cff272537
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-155] Revista Arcadia archive
+https://www.semana.com/cultura/
+Family: editorial_or_specialist | Publisher: www.semana.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:330a35e10746403bfc339edb
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-156] Universidad de los Andes – Revista de Estudios Sociales
+https://revistas.uniandes.edu.co/index.php/res
+Family: academic_or_institutional | Publisher: revistas.uniandes.edu.co | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fab25e8c35ec29bf9a561ba0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-157] El Comercio Perú – Luces
+https://elcomercio.pe/luces/
+Family: editorial_or_specialist | Publisher: elcomercio.pe | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b81e624e05d628de30b8bdb7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-158] El Dominical
+https://elcomercio.pe/eldominical/
+Family: editorial_or_specialist | Publisher: elcomercio.pe | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ffbebcdda8e17cb60684e585
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-159] La República Cultural
+https://larepublica.pe/cultural
+Family: editorial_or_specialist | Publisher: larepublica.pe | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:197bf1c08e4b8fb33a91c752
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-160] Caretas
+https://caretas.pe/
+Family: editorial_or_specialist | Publisher: caretas.pe | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:876f8d193b1bd6ce531c998d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-161] Casa de la Literatura Peruana
+https://www.casadelaliteratura.gob.pe/
+Family: editorial_or_specialist | Publisher: www.casadelaliteratura.gob.pe | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7265d3fe5dd2672aeb50dc35
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-162] Biblioteca Nacional del Perú
+https://www.bnp.gob.pe/
+Family: editorial_or_specialist | Publisher: www.bnp.gob.pe | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2b3c36a5948338faeecbc04f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-163] El Observador Cultura
+https://www.elobservador.com.uy/cultura-y-espectaculos
+Family: editorial_or_specialist | Publisher: www.elobservador.com.uy | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:538a2fe81337f7c97ba2ba10
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-164] Brecha Cultura
+https://brecha.com.uy/
+Family: editorial_or_specialist | Publisher: brecha.com.uy | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9dd3a11c4e9615e85aa7f550
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-165] La Diaria Cultura
+https://ladiaria.com.uy/cultura/
+Family: editorial_or_specialist | Publisher: ladiaria.com.uy | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fec0b2904a6c4fd52042ce79
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-166] Biblioteca Nacional de Uruguay
+https://www.bibna.gub.uy/
+Family: editorial_or_specialist | Publisher: www.bibna.gub.uy | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e8c72e77255adf70f66de7a4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-167] ABC Color Cultural Paraguay
+https://www.abc.com.py/edicion-impresa/suplementos/cultural/
+Family: editorial_or_specialist | Publisher: www.abc.com.py | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:793f4f7cd6e6159fbb725c6f
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-168] Última Hora Cultura Paraguay
+https://www.ultimahora.com/
+Family: editorial_or_specialist | Publisher: www.ultimahora.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:646e60090e6f43740857c9b1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-169] Biblioteca Nacional del Paraguay
+https://www.bacn.gov.py/
+Family: editorial_or_specialist | Publisher: www.bacn.gov.py | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b837f55e281d3535dcc083d5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-170] El Universo Cultura Ecuador
+https://www.eluniverso.com/entretenimiento/libros/
+Family: editorial_or_specialist | Publisher: www.eluniverso.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:49131f54389ae39aaaf4078b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-171] Primicias Cultura Ecuador
+https://www.primicias.ec/revistagestion/cultura/
+Family: editorial_or_specialist | Publisher: www.primicias.ec | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b5ef0abcb3dc718ce9b8f1f0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-172] Casa de la Cultura Ecuatoriana
+https://www.casadelacultura.gob.ec/
+Family: editorial_or_specialist | Publisher: www.casadelacultura.gob.ec | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c1e5adf683f2212bb8fa97e5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-173] Biblioteca Nacional Eugenio Espejo
+https://biblioteca.casadelacultura.gob.ec/
+Family: editorial_or_specialist | Publisher: biblioteca.casadelacultura.gob.ec | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:71ef39de4eb1a9bdd4392dbf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-174] Página Siete archive Bolivia
+https://www.paginasiete.bo/
+Family: editorial_or_specialist | Publisher: www.paginasiete.bo | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:54d5917fffc5c5e176ff16e9
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-175] La Razón Bolivia
+https://www.la-razon.com/
+Family: editorial_or_specialist | Publisher: www.la-razon.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2ea74ad4f8360e8f8ce0e5fe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-176] Los Tiempos Cultura Bolivia
+https://www.lostiempos.com/
+Family: editorial_or_specialist | Publisher: www.lostiempos.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e0b2488fdc585e55d5e70ce0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-177] Ministerio de Culturas Bolivia
+https://www.minculturas.gob.bo/
+Family: editorial_or_specialist | Publisher: www.minculturas.gob.bo | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8a511dd01520bb3884f4a983
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-178] El Nacional Papel Literario Venezuela
+https://www.elnacional.com/papel-literario/
+Family: editorial_or_specialist | Publisher: www.elnacional.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0b2adc4652aea5ad5116acd0
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-179] Prodavinci
+https://prodavinci.com/
+Family: editorial_or_specialist | Publisher: prodavinci.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e9e7c26848683718826323b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-180] Letralia
+https://letralia.com/
+Family: editorial_or_specialist | Publisher: letralia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e1bf19e6107623842470e216
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-181] Biblioteca Ayacucho
+https://bibliotecayacucho.gob.ve/
+Family: editorial_or_specialist | Publisher: bibliotecayacucho.gob.ve | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e4eba05a586f61536645d5f2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-182] O Globo Cultura
+https://oglobo.globo.com/cultura/
+Family: editorial_or_specialist | Publisher: oglobo.globo.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e7ce2ef216e3bf8a2ee4eedf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-183] Estadão Cultura
+https://www.estadao.com.br/cultura/
+Family: editorial_or_specialist | Publisher: www.estadao.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8dc1b0d88b648f510870e7a1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-184] Folha Ilustrada
+https://www1.folha.uol.com.br/ilustrada/
+Family: editorial_or_specialist | Publisher: www1.folha.uol.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eece546a12db0697781d2135
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-185] Revista Quatro Cinco Um
+https://quatrocincoum.com.br/
+Family: editorial_or_specialist | Publisher: quatrocincoum.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:19b60b22861a8c1a0d3acd3b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-186] Rascunho
+https://rascunho.com.br/
+Family: editorial_or_specialist | Publisher: rascunho.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:568887b9dad6699f99527223
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-187] Suplemento Pernambuco
+https://www.suplementopernambuco.com.br/
+Family: editorial_or_specialist | Publisher: www.suplementopernambuco.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0ca34448f74634235dc0d507
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-188] Revista Cult
+https://revistacult.uol.com.br/home/
+Family: editorial_or_specialist | Publisher: revistacult.uol.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ec2c803574617db1894a79f6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-189] Companhia das Letras
+https://www.companhiadasletras.com.br/
+Family: editorial_or_specialist | Publisher: www.companhiadasletras.com.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a372a15ca17b15a0a9f06e87
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-190] Academia Brasileira de Letras
+https://www.academia.org.br/
+Family: editorial_or_specialist | Publisher: www.academia.org.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:151c5996913a7856fcefb7b6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-191] Biblioteca Nacional Brasil
+https://www.gov.br/bn/pt-br
+Family: editorial_or_specialist | Publisher: www.gov.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7a7a2eae47d5a751dae764fe
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-192] Enciclopédia Itaú Cultural
+https://enciclopedia.itaucultural.org.br/
+Family: editorial_or_specialist | Publisher: enciclopedia.itaucultural.org.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:75832f6d7c6a1cb1bf6ab6d8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-193] SciELO Brasil – literature searches
+https://www.scielo.br/
+Family: editorial_or_specialist | Publisher: www.scielo.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:712f736319f1fcb5f62ad886
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-194] Portal de Periódicos CAPES
+https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/
+Family: editorial_or_specialist | Publisher: www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b27cf1494ed50dbe77552869
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-195] Reddit r/books
+https://www.reddit.com/r/books/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ca784f851b32320d75183de
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-196] Reddit r/literature
+https://www.reddit.com/r/literature/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9cc82a3b70eac237602dd4d7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-197] Reddit r/TrueLit
+https://www.reddit.com/r/TrueLit/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b01bb9a65d4ffd75d51415ce
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-198] Reddit r/asklatinamerica
+https://www.reddit.com/r/asklatinamerica/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d3d59e752eb16d3a4bd5fb61
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-199] Reddit r/latamlit
+https://www.reddit.com/r/latamlit/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c82cdf7f2bce5137cb2f4510
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-200] Reddit r/argentina
+https://www.reddit.com/r/argentina/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9ed85c98b5971e7c1dc1f0af
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-201] Reddit r/brasil
+https://www.reddit.com/r/brasil/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:fdab299191f9d375adc8d77c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-202] Reddit r/chile
+https://www.reddit.com/r/chile/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ff844eb79c670c6273458769
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-203] Reddit r/Colombia
+https://www.reddit.com/r/Colombia/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:39f242d3d4d4383669fbbe7d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-204] Reddit r/PERU
+https://www.reddit.com/r/PERU/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4df4060d4f991608b24c539
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-205] Reddit r/uruguay
+https://www.reddit.com/r/uruguay/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:651ce8bfb6110c070afd1492
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-206] Reddit r/Ecuador
+https://www.reddit.com/r/ecuador/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:facf668c7beb7678d1e10ea5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-207] Reddit r/BOLIVIA
+https://www.reddit.com/r/BOLIVIA/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8289692259756490fc2a0f10
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-208] Reddit r/vzla
+https://www.reddit.com/r/vzla/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dba8d13120f7afe268c67adf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-209] Reddit r/Paraguay
+https://www.reddit.com/r/Paraguay/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:eafa657e1a387f701fc64050
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-210] Reddit r/suggestmeabook
+https://www.reddit.com/r/suggestmeabook/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:25abc5ff3f20cd8caa301be3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-211] Reddit r/booksuggestions
+https://www.reddit.com/r/booksuggestions/
+Family: reader_community | Publisher: www.reddit.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:50aef3868fc0506aec50d70a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-212] Stack Exchange Literature
+https://literature.stackexchange.com/
+Family: editorial_or_specialist | Publisher: literature.stackexchange.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ef8d663a8b7dc0781697b1b8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-213] Quora Latin American literature topics
+https://www.quora.com/topic/Latin-American-Literature
+Family: editorial_or_specialist | Publisher: www.quora.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6b618ce866a406730cd581b1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-214] Medium – Latin American literature tag
+https://medium.com/tag/latin-american-literature
+Family: editorial_or_specialist | Publisher: medium.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:810f164048f732b3ec767931
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-215] Substack search – Latin American literature
+https://substack.com/search/latin%20american%20literature
+Family: editorial_or_specialist | Publisher: substack.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:7e3704fe278ae1b74b76573e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-216] Five Books – Latin American literature
+https://fivebooks.com/category/fiction/latin-american-literature/
+Family: editorial_or_specialist | Publisher: fivebooks.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a1029970437a8e3109553a26
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-217] Book Riot – Latin American books
+https://bookriot.com/
+Family: editorial_or_specialist | Publisher: bookriot.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b0739e57835eb1fe4c796fda
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-218] Literatura.us
+https://www.literatura.us/
+Family: editorial_or_specialist | Publisher: www.literatura.us | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ee0df1b67bec0da39852b350
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-219] Ciudad Seva
+https://ciudadseva.com/
+Family: editorial_or_specialist | Publisher: ciudadseva.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9183b15efad89bdc63532eaf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-220] Lecturalia
+https://www.lecturalia.com/
+Family: editorial_or_specialist | Publisher: www.lecturalia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:661aaa2f21ba2c7032485da4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-221] Quelibroleo
+https://quelibroleo.com/
+Family: editorial_or_specialist | Publisher: quelibroleo.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:012e371b3ef0b6e1562cf0b3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-222] Anobii
+https://www.anobii.com/
+Family: editorial_or_specialist | Publisher: www.anobii.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bf5a5a64b4939c6f8f45dd43
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-223] StoryGraph
+https://app.thestorygraph.com/
+Family: editorial_or_specialist | Publisher: app.thestorygraph.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6a48e16f4b45d1d94057bdc4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-224] Open Library
+https://openlibrary.org/
+Family: academic_or_institutional | Publisher: openlibrary.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a676f8038c53e3beb425cc5b
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-225] Google Books
+https://books.google.com/
+Family: editorial_or_specialist | Publisher: books.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:76a0057c3ea8331e8002976a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-226] Hispanic Review
+https://muse.jhu.edu/journal/94
+Family: academic_or_institutional | Publisher: muse.jhu.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bb9dbe2e39988d5283e1ca74
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-227] Hispamérica
+https://www.jstor.org/journal/hispamerica
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ec096466b3a64a31ee45d3f6
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-228] Latin American Literary Review
+https://www.lalrp.net/
+Family: editorial_or_specialist | Publisher: www.lalrp.net | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2b70ab7feb689dfd34e65676
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-229] Revista Iberoamericana
+https://revista-iberoamericana.pitt.edu/
+Family: academic_or_institutional | Publisher: revista-iberoamericana.pitt.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ae440eae5e846e629d7c9938
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-230] Chasqui
+https://www.jstor.org/journal/chasqui
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3feeaf93a26f403599ba43d4
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-231] Bulletin of Hispanic Studies
+https://www.liverpooluniversitypress.co.uk/journals/id/55
+Family: academic_or_institutional | Publisher: www.liverpooluniversitypress.co.uk | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c9975c211a5bdecc7fc9c015
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-232] Hispanic American Historical Review
+https://read.dukeupress.edu/hahr
+Family: academic_or_institutional | Publisher: read.dukeupress.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:17ef72c500bb7ddbc3507197
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-233] Latin American Research Review
+https://larrlasa.org/
+Family: editorial_or_specialist | Publisher: larrlasa.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ff6b1b476e1e590fde59e45c
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-234] Modern Language Quarterly
+https://read.dukeupress.edu/mlq
+Family: academic_or_institutional | Publisher: read.dukeupress.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a4aa1bc2e8fb65c90b32376d
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-235] Comparative Literature
+https://read.dukeupress.edu/comparative-literature
+Family: academic_or_institutional | Publisher: read.dukeupress.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3aa65948eb33c715de4a5554
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-236] Latin American Studies Association
+https://lasaweb.org/
+Family: editorial_or_specialist | Publisher: lasaweb.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:3e16fa8b28109f421c93afa1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-237] Handbook of Latin American Studies
+https://hlasopac.loc.gov/
+Family: editorial_or_specialist | Publisher: hlasopac.loc.gov | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:dff4f48985a023f50bd794bf
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-238] Library of Congress Hispanic Reading Room
+https://www.loc.gov/rr/hispanic/
+Family: academic_or_institutional | Publisher: www.loc.gov | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d3880de5645a8264bc05d3de
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-239] UNESCO Memory of the World
+https://www.unesco.org/en/memory-world
+Family: editorial_or_specialist | Publisher: www.unesco.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9a0ade103063a2dc16b20bd1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-240] UNESCO literature/culture
+https://www.unesco.org/en/culture
+Family: editorial_or_specialist | Publisher: www.unesco.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:d5bf1958e0de5bc0ae470ca7
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-241] Britannica – Jorge Luis Borges
+https://www.britannica.com/biography/Jorge-Luis-Borges
+Family: editorial_or_specialist | Publisher: www.britannica.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:e5aa4664e1eb5fad95a9bfd5
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-242] Britannica – Gabriel García Márquez
+https://www.britannica.com/biography/Gabriel-Garcia-Marquez
+Family: editorial_or_specialist | Publisher: www.britannica.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:ad4a55456434c2c419fce69e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-243] Britannica – Machado de Assis
+https://www.britannica.com/biography/Joaquim-Maria-Machado-de-Assis
+Family: editorial_or_specialist | Publisher: www.britannica.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:0be7798da8ae562f01abc122
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-244] Britannica – Clarice Lispector
+https://www.britannica.com/biography/Clarice-Lispector
+Family: editorial_or_specialist | Publisher: www.britannica.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:6d4bc02423f8ecf006af9e67
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-245] Britannica – Mario Vargas Llosa
+https://www.britannica.com/biography/Mario-Vargas-Llosa
+Family: editorial_or_specialist | Publisher: www.britannica.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:cca47750d0560c69c349a63e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-246] Britannica – Pablo Neruda
+https://www.britannica.com/biography/Pablo-Neruda
+Family: editorial_or_specialist | Publisher: www.britannica.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:51084f69f721a7774601dfbd
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-247] Encyclopedia.com Latin American Literature
+https://www.encyclopedia.com/literature-and-arts/literature-other-modern-languages/latin-american-literature
+Family: editorial_or_specialist | Publisher: www.encyclopedia.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:9cf7a9509c7d82af76ad6d96
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-248] The Literary Encyclopedia
+https://www.litencyc.com/
+Family: editorial_or_specialist | Publisher: www.litencyc.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bac3ccdbac146a9b25de2ce8
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-249] Encyclopaedia of Latin American Literature (reference via Routledge)
+https://www.routledge.com/
+Family: editorial_or_specialist | Publisher: www.routledge.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:1afc8d4de913c740f92a6d40
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-250] Cambridge Core – Latin American literature search
+https://www.cambridge.org/core/search?q=Latin+American+literature
+Family: academic_or_institutional | Publisher: www.cambridge.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:75cdd79eda144417654862e3
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-251] Oxford Academic – Latin American literature search
+https://academic.oup.com/search-results?q=Latin%20American%20literature
+Family: academic_or_institutional | Publisher: academic.oup.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:8330be249d75c0f443f0fcab
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-252] JSTOR – Latin American literature search
+https://www.jstor.org/action/doBasicSearch?Query=Latin+American+literature
+Family: academic_or_institutional | Publisher: www.jstor.org | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:015bb85f2afdad7f1af5b76a
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-253] Project MUSE – Latin American literature search
+https://muse.jhu.edu/search?action=search&query=Latin%20American%20literature
+Family: academic_or_institutional | Publisher: muse.jhu.edu | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:4435d459ba347573293ec6d2
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-254] Google Scholar – Latin American literary canon
+https://scholar.google.com/scholar?q=Latin+American+literary+canon
+Family: editorial_or_specialist | Publisher: scholar.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bd48aaf02f6c5a5c981c9d55
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-255] Google Scholar – Brazilian literary canon
+https://scholar.google.com/scholar?q=Brazilian+literary+canon
+Family: editorial_or_specialist | Publisher: scholar.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:c5dd21e112b427ead79ce509
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-256] Google Scholar – Argentine literary canon
+https://scholar.google.com/scholar?q=Argentine+literary+canon
+Family: editorial_or_specialist | Publisher: scholar.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:2e6bc0ee8359593f990c6087
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-257] Google Scholar – Chilean literary canon
+https://scholar.google.com/scholar?q=Chilean+literary+canon
+Family: editorial_or_specialist | Publisher: scholar.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:bfc5089b847697709a228f17
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-258] Google Scholar – Colombian literary canon
+https://scholar.google.com/scholar?q=Colombian+literary+canon
+Family: editorial_or_specialist | Publisher: scholar.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:a3f6b110650a3f774d0b5381
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-259] Google Scholar – Peruvian literary canon
+https://scholar.google.com/scholar?q=Peruvian+literary+canon
+Family: editorial_or_specialist | Publisher: scholar.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:b8e001bc2a7dc0805b54d19e
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+[SOUTH-AMERICA-260] Google Scholar – Uruguayan literary canon
+https://scholar.google.com/scholar?q=Uruguayan+literary+canon
+Family: editorial_or_specialist | Publisher: scholar.google.com | Stored eligible: True | Saved access: summary_only | Saved consultation date: 2026-09-13 | Underlying identity: url:81f85e2a2ba398419ba21da1
+Saved evidence: Reported consultation in the owner-supplied country synthesis; detailed source register retained with the original. Local source-by-source verification remains pending.
+Saved limitations: External reported consultation, not independently re-read during intake; per-candidate citations were not supplied.
+
+END OF COMPLETE INPUT: books-south-america. Included 150 current entries and 260 current source records. Carry out the update and return the enhanced ranking with the complete source register.

@@ -1,5 +1,6 @@
 """Additive private study helpers. No shared catalog or ranking mutations."""
 import json
+from .content_cache import read_content
 import math
 import uuid
 from datetime import date
@@ -10,15 +11,17 @@ from django.db.models import Max
 from django.utils import timezone
 from rest_framework.exceptions import ValidationError
 from backend.domain.reading_capacity import effort_per_page
-from .models import LibraryItem, PlanItem, Ranking, Work
+from .models import LibraryItem, PlanCarryover, PlanItem, Ranking, Work
+from .plan_previews import PlanPreviewConflict, preview_token, require_preview
+from .reading_basis import capture_edition, comparable, length_edition
 
 
 def companion_content():
-    data = json.loads((Path(__file__).parent / 'content/classical_companion.json').read_text())
+    data = read_content((Path(__file__).parent / 'content/classical_companion.json'))
     # Explicit identities from the audited owner import, never title-only matching.
-    catalog = json.loads((settings.BASE_DIR / 'research/classical-education-guide/owner-chat-catalog-2026-09-14.json').read_text())
+    catalog = read_content(settings.BASE_DIR / 'research/classical-education-guide/owner-chat-catalog-2026-09-14.json')
     ranking = Ranking.objects.filter(slug='classical-education-guide', is_archived=False).first()
-    entries = dict(ranking.entries.filter(is_archived=False).values_list('work_id', 'position')) if ranking else {}
+    entries = dict(ranking.entries.filter(is_archived=False, work__is_archived=False).values_list('work_id', 'position')) if ranking else {}
     data['ranking_id'] = ranking.pk if ranking else None
     data['works'] = [dict(key=w['key'], id=w['item_id'], title=w['title'], author=w['attribution'],
                           position=entries[w['item_id']], beginner_start=w['beginner_start'],
@@ -69,7 +72,7 @@ def validate_update(data, curriculum):
         'commonplace': {'id', 'work', 'related', 'reference', 'translator', 'passage', 'reflection', 'revisit'},
         'review': {'id', 'revisit'},
         'plan-preview': {'work', 'month', 'pages', 'mode', 'passages'},
-        'plan-add': {'work', 'month', 'pages', 'mode', 'passages', 'confirmed'},
+        'plan-add': {'work', 'month', 'pages', 'mode', 'passages', 'confirmed', 'preview_token'},
         'plan-progress': {'id', 'done'},
     }
     if action not in fields or set(data) - (fields[action] | {'action'}):
@@ -111,6 +114,8 @@ def validate_update(data, curriculum):
         text_field(data, 'passages', 2000, required=data['mode'] == 'selections')
         if action == 'plan-add' and data.get('confirmed') is not True:
             raise ValidationError('Preview and confirm this allocation first.')
+        if 'preview_token' in data and (not isinstance(data['preview_token'], str) or len(data['preview_token']) > 8000):
+            raise ValidationError('Supply the allocation preview token.')
     return data
 
 
@@ -119,16 +124,37 @@ def plan_preview(data, user):
     if not work:
         raise ValidationError('This work is no longer available.')
     if PlanItem.objects.filter(user=user, work=work, month=data['month']).exists():
+        if data['action'] == 'plan-add':
+            raise PlanPreviewConflict()
         raise ValidationError('This book already has an allocation that month. It was left untouched; choose another month or edit it in Reading plan.')
     library = LibraryItem.objects.filter(user=user, work=work).select_related('edition').first()
-    edition = (library.edition if library else None) or work.default_edition
+    edition = length_edition(library) if library else work.default_edition
     if edition and edition.pages and data['pages'] > edition.pages:
         raise ValidationError('The allocation exceeds the recorded edition length. Correct/select your edition on the book page first.')
     multiplier = effort_per_page(work, edition, user.difficulty_aware_planning)
-    return dict(title=work.title, month=data['month'], pages=data['pages'], mode=data['mode'],
+    from .reading_workflow import capacity_summary
+    from datetime import date
+    month = date.fromisoformat(data['month']) if isinstance(data['month'], str) else data['month']
+    capacity = capacity_summary(user, month, list(PlanItem.objects.filter(user=user, month=month).select_related('work__default_edition')))
+    result = dict(capacity=capacity, over_capacity=max(0, round(capacity['used'] + data['pages'] * multiplier - capacity['budget'], 2)), title=work.title, month=data['month'], pages=data['pages'], mode=data['mode'],
                 passages=data.get('passages', ''), effort_pages=round(data['pages'] * multiplier, 2),
                 adds_to_library=library is None, locked=True,
                 note='Appends one locked allocation; existing plans, editions and reading status stay unchanged. Effort uses the existing provisional planner policy. Listening is not counted as reading.')
+    state = {'work': work.pk, 'preview': result,
+             'basis': comparable(library.reading_basis if library and library.reading_basis else capture_edition(edition)),
+             'effort_multiplier': effort_per_page(work, edition),
+             'difficulty_aware_planning': user.difficulty_aware_planning,
+             'library': {'id': library.pk, 'updated_at': library.updated_at, 'status': library.status,
+                         'current_page': library.current_page} if library else None,
+             'plans': list(PlanItem.objects.filter(user=user, month=data['month']).order_by('pk').values(
+                 'pk', 'work_id', 'month', 'position', 'pages', 'pages_read', 'carried_pages',
+                 'locked', 'reading_basis', 'updated_at')),
+             'carryovers': list(PlanCarryover.objects.filter(user=user, target_month=data['month']).order_by('pk').values(
+                 'pk', 'source_plan_id', 'target_plan_id', 'pages', 'created_at'))}
+    if data['action'] == 'plan-add':
+        require_preview(data.get('preview_token'), user, 'classical-plan', state)
+    result['preview_token'] = preview_token(user, 'classical-plan', state)
+    return result
 
 
 def apply_update(data, curriculum, state, user):
@@ -170,6 +196,6 @@ def apply_update(data, curriculum, state, user):
 def saved_plans(state, user):
     metadata = state.get('companion', {}).get('plans', {})
     return [dict(id=p.pk, work=p.work_id, title=p.work.title, month=p.month.isoformat(), pages=p.pages,
-                 locked=p.locked, **metadata[str(p.pk)])
+                 pages_read=p.pages_read, carried_pages=p.carried_pages, locked=p.locked, **metadata[str(p.pk)])
             for p in PlanItem.objects.filter(user=user, pk__in=[int(k) for k in metadata if k.isdigit()]).select_related('work')
             if metadata[str(p.pk)].get('work_id') == p.work_id]

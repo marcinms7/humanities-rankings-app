@@ -1,0 +1,15 @@
+{
+  "private_records_unchanged": true,
+  "foreign_key_check": "passed",
+  "retained_database_triggers": [
+    "protect_core_person_deletion",
+    "protect_core_work_deletion",
+    "protect_core_edition_deletion",
+    "protect_core_tag_deletion",
+    "protect_core_researchsource_deletion",
+    "protect_core_ranking_deletion",
+    "protect_core_rankingrevision_deletion",
+    "protect_core_rankingentry_deletion"
+  ],
+  "no_existing_sources_removed_or_reclassified": true
+}

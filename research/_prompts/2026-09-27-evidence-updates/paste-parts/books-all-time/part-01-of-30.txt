@@ -1,0 +1,663 @@
+INPUT PART 1/30 — books-all-time
+These numbered messages together are ONE complete research request. Expect 250 current entries and 415 current source records, plus the labelled supplements. Until the final part arrives, acknowledge receipt briefly and wait; do not start the research or infer missing parts. If the conversation cannot retain all parts, say so and request the complete prompt as a file instead of pretending full coverage.
+
+SELF-CONTAINED RANKING UPDATE REQUEST
+TARGET: Books · All time
+TARGET ID: books-all-time
+SNAPSHOT: 2026-09-27T20:44:44.053349+00:00
+MODE: update an existing research synthesis
+CURRENT SIZE: 250 distinct entries
+CURRENT REGISTER: 415 source records; 369 stored as eligible (historical flags, subject to audit)
+DESIRED SCOPE: A worldwide, approximately 250-entry ranking of book-length works across subjects. Improve the existing broad pool and both qualitative orders; add or replace entries only with explained scope and evidence, and retain a continuation queue for unresolved candidates.
+
+You are updating ONE existing humanities ranking for a reading app. You have no access to its repository, database or earlier conversations. Everything needed to start is included below: the task, current entries, both saved editorial orders where present, existing entry citations, and the complete current target-specific source register. Research this target on the web and return a portable, evidence-backed update. Do not merely critique this prompt or supply a research plan.
+
+MAIN TASK: RESEARCH AT LEAST 100 NEW SOURCES, THEN UPDATE THE RANKING
+First find, open and substantively examine AT LEAST 100 ADDITIONAL distinct, relevant, independent sources that are NOT already in the supplied source register. Then use this expanded evidence base, together with useful existing evidence, to produce the complete enhanced ranking. Additional research is the main assignment; reviewing or reordering the existing material alone is insufficient. This is 100 new sources for this ranking, not per candidate and not pooled across separate ranking assignments.
+
+The 100 must be genuinely new underlying sources, not new URLs for existing publications. Existing sources rechecked, supplied leads newly consulted, mirrors, translations or reprints of the same source, copied lists, search-result pages and unopened references do NOT count toward the 100. Do not invent consultation claims or pad the register with irrelevant, repetitive or metadata-only pages. Seek a substantive mixture of scholarship/specialist criticism, independent published selections, detailed reviews and reader discussions, including relevant non-English material where useful. Avoid dependence on a single platform or publisher. Count substantive independent publications appropriately; multiple pages of one article/list do not become separate sources.
+
+Use the new evidence to strengthen candidate-specific support, challenge existing placements, identify important omissions and improve underrepresented coverage. Map each counted new source to the candidates or comparative claims it actually supports. Preserve useful existing sources and distinguish evidence of identity, context, reception and critical merit. Do not assume all new sources endorse the current ranking.
+
+In the returned report, provide a clearly labelled NEW SOURCES register containing at least 100 qualifying additions, each with a new stable source ID, full URL, title, publisher/author where known, actual consultation date/access level, substantive evidence notes and supported candidate IDs. Separately report existing evidence rechecked and supplied leads newly consulted; neither group counts toward the 100. Include the complete combined old-plus-new register, the full revised ranking and a change log explaining how the expanded research affected it.
+
+If access, scope or tool limits prevent 100 qualifying additions, report the actual achieved number, save the work and mark the assignment incomplete with a clear continuation point. Never lower the target silently or fabricate sources to meet it. Meeting 100 is a minimum deliverable, not proof of adequate support for every candidate; identify remaining gaps honestly.
+
+OWNER'S OBJECTIVE
+Improve the substance and traceability of the ranking while keeping a useful, broad candidate pool. Start by auditing and using relevant existing material, then research the specific gaps. The source count alone does not establish adequate support. An established, fully consulted list may support many candidates; a large bibliography of generic references may support few comparative judgments. The owner specifically requests at least 100 additional sources for this update; this is not a per-entry quota.
+
+Treat this as a revision, not an instruction to retain every existing position. Compare the complete pool, identify conspicuous omissions, and justify additions, removals, merges and substantial moves. Keep the supplied identities and prior evidence traceable. Do not replace a substantial ranking with a tiny polished subset while ignoring the rest. If work must stop, return the full baseline with updated and unresolved rows clearly distinguished, plus the exact continuation point.
+
+WHAT COUNTS AS EVIDENCE
+The supplied source eligibility flags, access labels, dates and notes are historical records. They are NOT a claim that you consulted those pages, or that their contents justify every attached candidate. Separate inherited evidence, independently rechecked evidence, newly consulted evidence, bibliographic/context material, unavailable material and unexamined leads. Never copy an old access date into a claim of your own consultation.
+
+Open and examine relevant content before claiming new or rechecked evidence. Record what claim it supports and where: article section, page, list entry or other precise location. Search-result pages/snippets, unopened links and generic site homepages are leads, not substantive consultation. A long page or successful HTTP response is not sufficient. Narrow reference facts, primary texts and publisher descriptions can be useful, but do not by themselves demonstrate comparative critical standing. Preserve these useful roles without counting metadata-only leads as substantive research.
+
+Use an appropriate mixture of scholarship/critical studies, university and specialist selections, independent critics/polls/reviews, and reader discussions including Goodreads or Reddit where relevant. Use relevant non-English sources when you can understand them reliably. Prioritize independent, candidate-specific evidence and underrepresented traditions. Do not keep collecting repetitive pages to inflate totals.
+
+Deduplicate underlying publications, mirrors, syndication and copied lists. Wikipedia translations and copies of one poll are not independent critical endorsements. An aggregator is one consulted source unless its underlying sources are individually examined; do not double-count their judgments. One discussion thread is one source, not one per comment. Record dependencies and publisher/platform concentration. Preserve disagreements. Never invent sources, URLs, quotations, source positions or consultation claims.
+
+The project uses a floor of 50 distinct relevant consulted sources for a completed research target, including sound prior research retained with explicit provenance. This is not 50 NEW sources, not 50 per candidate, and not a guarantee of adequate coverage. Recalculate the defensible total after the audit; do not accept stored eligibility totals automatically. Separate genuinely qualifying prior evidence from your own consultations in the totals. Below the floor, or with substantial unresolved support, label the result incomplete. Above it, stop when the useful revision is delivered and identify remaining concrete gaps rather than researching indefinitely. One target's bibliography does not automatically count for another target.
+
+SCOPE, IDENTITY AND ORDERING
+Use the target-specific scope below. Books, authors/philosophers, individual stories/essays/poems/plays, collections, series and editions are different objects. Do not silently turn a series into its first volume, a collection into one story, or an author into a book. Verify ambiguous or reversed author/title records before making further claims. Retain anonymous, collective and disputed attributions honestly. Use original composition/publication dates, with uncertainty where appropriate, not translation dates.
+
+For country/tradition scopes, document literary/cultural association; language, setting, citizenship and country are not interchangeable. Multiple associations can be valid. England is distinct from the UK. Establish English availability for reading recommendations where required by this target; an English-translated title alone does not prove an English edition exists. Record unavailable or unverified translations explicitly instead of inventing editions or silently dropping important works.
+
+Produce two reasoned qualitative editorial views when applicable: (1) critical standing/enduring influence, and (2) reading value today. The second is not just ease of reading or popularity. Give it independent reasoning where it differs; if you cannot support a separate full order, say so. Both views should cover the same final candidate set; explicitly label unresolved placements instead of silently omitting candidates. A beginner route or reading sequence is separately labelled and is not automatically a merit ranking. A country-grouped selection keeps local positions and does not acquire a global merit order.
+
+Personal numerical criteria, weights, assessments and personalized scores are UNSET. Leave them unset. The owner explicitly authorizes qualitative, source-backed editorial orderings without numerical scoring. This supersedes older generic instructions that would block any editorial ranking until personal criteria exist. Do not invent the owner's tastes. Explain your comparative method and uncertainty; precise ordinal positions are editorial judgments, not measured facts. Preserve original publisher ranks, ties, list lengths and unranked status separately. Absence from a short source list is not a last-place vote.
+
+An existing shared ranking is the baseline for this assignment. Preserve its prior form in the change log; propose a revised version rather than claiming to overwrite the app. No application code, account, library, private notes or preferences are part of your task. Do not claim a database import or publication.
+
+REQUIRED RETURN PACKAGE
+Return one complete, downloadable Word .docx for this target, named <target-id>-<your-run-id>-update.docx. Structured Markdown or UTF-8 text is acceptable if genuine .docx generation is unavailable; do not rename a text file to .docx. Optional sources.json and candidates.json make later import easier but do not replace the readable report. If output limits require multiple files, number them and supply a manifest; do not silently truncate the ranking or bibliography.
+
+Include all of the following:
+1. Target ID, scope, actual research dates/run ID, methodology, status, achieved candidate count, consultation counts split into inherited/rechecked/new, source-family/domain/publisher distribution, dependency audit, limitations and stopping rationale.
+2. The complete revised standing order and complete reading-value order where applicable, or all country sections with their local positions. Give each retained item its supplied work/person ID; new items receive clearly external candidate IDs, never invented app IDs. Report both old and proposed positions, identity corrections, rationale and confidence. Preserve ties/uncertainty where appropriate.
+3. Candidate records for EVERY proposed item: title/name, author/attribution, form, original date/language/associations when supported, scope eligibility, inclusion and comparative reasoning, actual supporting source IDs and claim locations, counterarguments, English-availability status and unresolved facts. Differentiate identity/context support from evidence of selection, reception, criticism or comparative judgment. Do not attach the same generic bibliography to every candidate without showing what it actually supports.
+4. A COMPLETE source register, including EVERY supplied current source, each supplementary conflicting record, and all new sources. Give each inherited record a disposition (retained, rechecked, lead, duplicate, irrelevant, unavailable, etc.) with the reason; preserve original IDs and URLs alongside proposed corrections. Include full URLs, title, author/publisher if known, family, language, underlying identity/dependencies, actual access level/date, target relevance, substantive evidence notes/location, supported candidate IDs and limitations. Unconsulted leads stay unconsulted. Do not discard inconvenient records or claim they all endorse the new ranking. Report substantive evidence counts separately from register size.
+5. A change log covering additions/removals/merges, identity corrections, significant moves, repaired candidate-source mappings, source reclassifications, unresolved conflicts and work still pending. Exact source-ID/URL conflicts must be reconciled explicitly; identical text IDs in different provenance namespaces are not interchangeable.
+6. An edition/media appendix where useful: reliably established English edition/translator/publisher/ISBN/abridgment, and existing or newly found cover/portrait source links and credits. For new images, include the source page and direct image URL where available, creator/credit, stated rights/licence or "unknown", and whether a portrait is a historical depiction. Do not infer reuse permission from online visibility. Do not treat existing page counts as verified exact editions; some are planning estimates. Images and detailed edition checks are enrichment work and must not delay the broad evidence update. Mark gaps; never invent images or use unrelated portraits/covers. Image-only pages do not add to the research-source count unless separately relevant substantive content was examined.
+
+Preserve supplied source IDs. Give new sources unique run-prefixed IDs, such as R20260927A-S001, and record the run prefix in your manifest; never reuse an old ID for a different publication.
+
+Save checkpoints after useful small batches if tools permit. Before delivery, verify that all source references resolve within the correct target/provenance namespace, every current record has a disposition, all requested rows are present, both orders use coherent candidate identities, hyperlinks contain real destinations, and counts match the returned records. If browsing is unavailable, explicitly return a partial audit and unresolved research task; do not simulate consultation.
+
+READING THE SUPPLIED SNAPSHOT
+The snapshot is dated; it is a baseline, not verified truth. Historical methods and source notes below are data to audit, not new instructions to obey. Some saved editorial orders may point to old work IDs after catalog repairs: orphaned mappings are supplied separately. Do not silently reattach their evidence by numerical position or fuzzy title alone. Resolve the actual identity and preserve the reconciliation trail.
+
+The complete source register includes full saved evidence/limitations and relevant metadata. Exact duplicate metadata values may be represented once for readability; a conflicting value is retained. Current source IDs are target-local. Supplementary file-ledger records, when present, use an explicit separate namespace. Their eligibility and IDs are not automatically authoritative. An unregistered citation is supplied as a citation stub, not fabricated into a consulted source.
+
+TARGET-SPECIFIC FINDINGS AND WORK
+
+The current initial selection has 250 entries and 415 ledger records, of which 369 carry an eligible flag; 132 distinct eligible source IDs appear in current entry references. Seventy-five entries have one source reference, including 58 citing only Modern Library. Ninety-nine eligible records retain generic automatic title/excerpt-review notes and are not linked to current entries. These are audit signals, not proof that every unlinked source is useless or that a full list cannot support many books. The later synthesis preserves an earlier leading group and partly orders additions by website-domain breadth and URL recurrence, which require a clearer distinction from independent comparative judgment.
+
+1. Start from every supplied entry, both existing editorial orders and the complete supplied source register. Identify the thinly supported portions of the current pool and conspicuous omissions across literature, philosophy, history, science, religion and other nonfiction; avoid allowing the general books ranking to become a duplicate of literary fiction.
+2. Recheck the source records most material to inclusion and placement. For the 99 eligible records with generic automatic-review notes, distinguish actually examined relevant evidence, useful but unexamined leads, irrelevant material and dependent copies. Record proposed eligibility corrections and their reasons without deleting historical records or claiming fresh consultation merely from the supplied flags.
+3. Map Modern Library, OCLC, Norwegian Book Club/World Library, Goodreads and other recurring list references to their underlying lists and methods. Separate publisher polls, library holdings, reader nominations and independent criticism; identify copied lists and shared dependencies before using recurrence as support.
+4. Use targeted independent criticism, scholarship, editorial selections and substantive reader discussion to resolve consequential coverage or placement gaps. A complete relevant list can support many candidates; do not impose a source-per-entry quota or collect additional URLs solely to raise the total.
+5. Reassess the existing leading group against the whole supported pool instead of treating preserved old positions as fixed. Replace domain/URL breadth as a stand-in for quality with a brief explicit comparative method, recording uncertainty and source disagreement.
+6. Return proposed critical-standing/enduring-influence and reading-value-today orders, with concise candidate-specific reasons for consequential changes and for differences between the views. Preserve original source positions separately; leave personal numerical criteria, weights and scores unset.
+7. Resolve work identities, aliases, translations and overlapping collections sufficiently for inclusion. Retain prior entries and evidence in the change history; explain any proposed exclusion or replacement. Record English-edition and image gaps separately so they do not determine merit or block well-supported candidates.
+
+CURRENT TARGET DEFINITION AND HISTORICAL METHOD
+{
+  "id": 1,
+  "slug": "books-all-time",
+  "title": "Books · All time",
+  "description": "Research template. Criteria and entries are not yet assessed. Each research target requires at least 50 distinct, relevant, diverse consulted sources.",
+  "domain": "all",
+  "item_type": "work",
+  "presentation": "ranked",
+  "origin": "curated",
+  "target_size": 200,
+  "status": "initial_selection",
+  "source_url": "",
+  "publisher": "",
+  "last_researched_at": null,
+  "last_sources_checked_at": null,
+  "revision": 4,
+  "criteria": [],
+  "scope": {
+    "forms": [
+      "book"
+    ],
+    "subjects": "all"
+  },
+  "historical_editorial_method_and_notes": {
+    "version": "supplied-corpus-v1",
+    "published_on": "2026-09-13",
+    "notice": "Broad initial synthesis from the supplied corpus. Source coverage and editorial judgment inform the order; inaccessible pages and unresolved identities remain in the audit.",
+    "method": "All supplied URLs were attempted and cached. Exact reader-list rows were reviewed for scope and matched to catalog identities; other title/author appearances supply limited coverage signals. The leading placements use editorial judgment; the remaining standing order prioritizes domain breadth, caps same-platform page recurrence at five as a tie-break, then retains prior position or source-list order. Existing top 30 and reading order are retained where present; new history/poetry reading heads foreground entry points. Mirrors and correlated sites remain a limitation; no claim of 959 independent votes or personal numerical scores is made.",
+    "input_sha256": "cc91ddf71e3ad35770f26aaa3a033bd41de6de781d3fb0470134f38669e74756",
+    "reviewed_exclusions": []
+  }
+}
+
+CURRENT SAVED EDITORIAL ORDERS
+Item IDs below resolve to the complete current entries or the explicit orphan mapping appendix. A saved order is historical, not a requirement to retain the same order. For unranked/country-grouped records, these are display sequences, not global merit positions.
+{
+  "standing": {
+    "label": "Critical standing / enduring influence",
+    "description": "Editorial leading group, followed by breadth of source coverage.",
+    "item_ids": [
+      15,
+      18,
+      2,
+      16,
+      349,
+      65,
+      9,
+      11,
+      6,
+      7,
+      19,
+      32,
+      5,
+      290,
+      34,
+      340,
+      357,
+      33,
+      281,
+      17,
+      41,
+      366,
+      20,
+      70,
+      8,
+      38,
+      36,
+      37,
+      66,
+      68,
+      267,
+      263,
+      128,
+      71,
+      69,
+      74,
+      99,
+      111,
+      154,
+      131,
+      100,
+      105,
+      109,
+      119,
+      122,
+      312,
+      79,
+      26,
+      266,
+      380,
+      83,
+      374,
+      89,
+      269,
+      67,
+      30,
+      365,
+      417,
+      272,
+      72,
+      73,
+      75,
+      81,
+      82,
+      84,
+      88,
+      91,
+      92,
+      94,
+      95,
+      96,
+      113,
+      116,
+      118,
+      120,
+      125,
+      129,
+      130,
+      80,
+      97,
+      112,
+      114,
+      280,
+      4,
+      77,
+      387,
+      117,
+      362,
+      350,
+      355,
+      382,
+      275,
+      311,
+      330,
+      338,
+      158,
+      102,
+      104,
+      346,
+      353,
+      85,
+      90,
+      98,
+      101,
+      103,
+      106,
+      115,
+      121,
+      124,
+      411,
+      394,
+      76,
+      110,
+      123,
+      367,
+      21,
+      310,
+      342,
+      57,
+      354,
+      347,
+      348,
+      351,
+      359,
+      381,
+      343,
+      327,
+      369,
+      418,
+      107,
+      212,
+      168,
+      31,
+      356,
+      395,
+      78,
+      126,
+      127,
+      42,
+      364,
+      373,
+      397,
+      170,
+      171,
+      183,
+      86,
+      93,
+      108,
+      214,
+      44,
+      29,
+      3,
+      361,
+      375,
+      370,
+      10,
+      230,
+      35,
+      55,
+      12,
+      51,
+      173,
+      166,
+      165,
+      14,
+      22,
+      24,
+      225,
+      192,
+      48,
+      341,
+      167,
+      169,
+      172,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      184,
+      185,
+      87,
+      186,
+      187,
+      188,
+      189,
+      190,
+      193,
+      194,
+      195,
+      196,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      213,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      226,
+      54,
+      39,
+      56,
+      40,
+      1,
+      50,
+      23,
+      49,
+      253,
+      13,
+      45,
+      43,
+      47,
+      46,
+      53,
+      58,
+      59,
+      60,
+      25,
+      27,
+      28,
+      61,
+      63,
+      64,
+      62,
+      52,
+      416,
+      191,
+      197,
+      215
+    ]
+  },
+  "reading": {
+    "label": "Reading value today",
+    "description": "Editorial entry points and sustained reading; not a personalized score.",
+    "item_ids": [
+      349,
+      7,
+      2,
+      20,
+      19,
+      8,
+      280,
+      290,
+      26,
+      15,
+      9,
+      77,
+      10,
+      12,
+      57,
+      41,
+      267,
+      66,
+      21,
+      311,
+      14,
+      212,
+      168,
+      22,
+      382,
+      387,
+      312,
+      1,
+      3,
+      342,
+      51,
+      49,
+      366,
+      35,
+      34,
+      56,
+      50,
+      55,
+      6,
+      4,
+      5,
+      18,
+      16,
+      74,
+      79,
+      230,
+      253,
+      182,
+      42,
+      11,
+      13,
+      53,
+      39,
+      33,
+      166,
+      40,
+      52,
+      65,
+      32,
+      340,
+      357,
+      281,
+      17,
+      70,
+      38,
+      36,
+      37,
+      68,
+      327,
+      263,
+      54,
+      367,
+      173,
+      310,
+      266,
+      380,
+      83,
+      165,
+      128,
+      71,
+      69,
+      117,
+      362,
+      374,
+      354,
+      350,
+      355,
+      24,
+      225,
+      89,
+      99,
+      111,
+      23,
+      192,
+      269,
+      275,
+      67,
+      154,
+      131,
+      347,
+      348,
+      44,
+      45,
+      43,
+      48,
+      47,
+      46,
+      58,
+      59,
+      60,
+      25,
+      27,
+      29,
+      28,
+      30,
+      31,
+      61,
+      63,
+      64,
+      62,
+      351,
+      365,
+      359,
+      364,
+      361,
+      356,
+      373,
+      369,
+      381,
+      343,
+      346,
+      341,
+      353,
+      375,
+      370,
+      417,
+      418,
+      411,
+      394,
+      416,
+      395,
+      330,
+      338,
+      272,
+      397,
+      158,
+      167,
+      169,
+      170,
+      72,
+      171,
+      73,
+      172,
+      75,
+      174,
+      76,
+      175,
+      176,
+      78,
+      177,
+      178,
+      80,
+      179,
+      81,
+      180,
+      82,
+      181,
+      84,
+      183,
+      85,
+      184,
+      86,
+      185,
+      87,
+      186,
+      88,
+      187,
+      188,
+      90,
+      189,
+      91,
+      190,
+      92,
+      93,
+      191,
+      94,
+      95,
+      96,
+      193,
+      97,
+      194,
+      98,
+      195,
+      196,
+      100,
+      197,
+      101,
+      198,
+      102,
+      199,
+      103,
+      200,
+      104,
+      201,
+      105,
+      202,
+      106,
+      203,
+      107,
+      204,
+      108,
+      205,
+      109,
+      206,
+      110,
+      207,
+      208,
+      112,
+      209,
+      113,
+      210,
+      114,
+      211,
+      115,
+      116,
+      213,
+      214,
+      118,
+      215,
+      119,
+      216,
+      120,
+      217,
+      121,
+      218,
+      122,
+      219,
+      123,
+      220,
+      124,
+      221,
+      125,
+      222,
+      126,
+      223,
+      127,
+      224,
+      129,
+      226,
+      130
+    ]
+  }
+}
+
+COMPLETE CURRENT ENTRY LIST: 250 ENTRIES
+Database position is the current saved display order; separate editorial views appear above. Saved bibliographic metadata is not independently reverified by this export.
+
+ENTRY 1 | work:15 | Don Quixote — Miguel de Cervantes
+{"entry_id": 56, "item_type": "work", "item_id": 15, "source_rank": null, "rationale": "International writers’ selection and institutional reception converge. Inclusion evidence: S04 library_holdings #1, R049, R133, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 15, "title": "Don Quixote", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 35, "name": "Miguel de Cervantes", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 3759, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://www.gutenberg.org/ebooks/996", "image_attribution": "Project Gutenberg ebook 996 cover: https://www.gutenberg.org/cache/epub/996/pg996.cover.medium.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "International writers’ selection and institutional reception converge. Inclusion evidence: S04 library_holdings #1, R049, R133, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "High placement retains imaginative range, not merely historical priority. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Holdings and one poll do not settle first place. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-005", "title": "Goodreads – 1001 Books You Must Read Before You Die", "url": "https://www.goodreads.com/list/show/952.1001_Books_You_Must_Read_Before_You_Die"}, {"source_id": "OWNER-006", "title": "World Library / Norwegian Book Club – Goodreads rendering", "url": "https://www.goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List"}, {"source_id": "OWNER-007", "title": "World Library / Norwegian Book Club – methodology record", "url": "https://thegreatestbooks.org/lists/28"}, {"source_id": "OWNER-008", "title": "The Guardian – 100 greatest novels of all time (2003)", "url": "https://www.theguardian.com/books/2003/oct/12/features.fiction"}, {"source_id": "OWNER-015", "title": "OCLC WorldCat – Top 500", "url": "https://www.oclc.org/en/worldcat/library100/top500.html"}, {"source_id": "OWNER-021", "title": "BBC Culture – 100 Stories That Shaped the World (Goodreads rendering)", "url": "https://www.goodreads.com/list/show/124388.BBC_Culture_The_100_Stories_That_Shaped_The_World"}, {"source_id": "OWNER-024", "title": "J. Peder Zane – The Top Ten: Writers Pick Their Favorite Books", "url": "https://thegreatestbooks.org/lists/44"}, {"source_id": "OWNER-025", "title": "Ronald Schwartz – For the Love of Books", "url": "https://thegreatestbooks.org/lists/120"}, {"source_id": "OWNER-026", "title": "Télérama – 25 favorite books of Francophone writers", "url": "https://thegreatestbooks.org/lists/114"}, {"source_id": "OWNER-027", "title": "Transfuge – Best Foreign Works of Fiction chosen by Francophone writers", "url": "https://thegreatestbooks.org/lists/308"}, {"source_id": "OWNER-028", "title": "France CNL – Fifty French Writers Choose Their Ten Favorite Books", "url": "https://thegreatestbooks.org/lists/1051"}, {"source_id": "OWNER-029", "title": "Martin Seymour-Smith – The 100 Most Influential Books / Finest Works of Fiction record", "url": "https://thegreatestbooks.org/lists/140"}, {"source_id": "OWNER-041", "title": "Illinois Wesleyan – 100 Must-Read Books", "url": "https://thegreatestbooks.org/lists/860"}, {"source_id": "OWNER-047", "title": "Good Reading / NCTE – 101 Significant Books", "url": "https://thegreatestbooks.org/lists/542"}, {"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "R133", "title": "Große Romane der Weltliteratur: Die Geschichte eines faszinierenden Genres", "url": "https://www.deutschlandfunk.de/grosse-romane-der-weltliteratur-die-geschichte-eines-100.html"}, {"source_id": "S04", "title": "The Library 100", "url": "https://www.oclc.org/en/worldcat/library100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S04", "list": "library_holdings", "position": 1}]}, "country_groupings": []}
+
+ENTRY 2 | work:18 | Ulysses — James Joyce
+{"entry_id": 57, "item_type": "work", "item_id": 18, "source_rank": null, "rationale": "First in Modern Library’s scoped poll; substantial formal ambition. Inclusion evidence: S02 novels #1, S04 library_holdings #47, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 18, "title": "Ulysses", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 38, "name": "James Joyce", "biography": "", "countries": [], "source_url": "https://sites.prh.com/modern-library-top-100/", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 536, "language": "English", "translator": "", "publisher": "Rhein-Verlag", "isbn": "9798810090632", "pages": 736, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL86318W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/13136548-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "First in Modern Library’s scoped poll; substantial formal ambition. Inclusion evidence: S02 novels #1, S04 library_holdings #47, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Retains a high place for its formal and linguistic rewards; its allusive density moves it below more immediately sustained narratives in this general-reader order.", "caveat": "Publisher ranking covers a narrower universe than this target. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-002", "title": "Goodreads – Modern Library 100 Best Novels: Board's List", "url": "https://www.goodreads.com/list/show/8797.Modern_Library_100_Best_Novels_The_Board_s_List"}, {"source_id": "OWNER-003", "title": "Goodreads – Modern Library 100 Best Novels (community list)", "url": "https://www.goodreads.com/list/show/2127.100_best_novels_modern_library"}, {"source_id": "OWNER-006", "title": "World Library / Norwegian Book Club – Goodreads rendering", "url": "https://www.goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List"}, {"source_id": "OWNER-007", "title": "World Library / Norwegian Book Club – methodology record", "url": "https://thegreatestbooks.org/lists/28"}, {"source_id": "OWNER-008", "title": "The Guardian – 100 greatest novels of all time (2003)", "url": "https://www.theguardian.com/books/2003/oct/12/features.fiction"}, {"source_id": "OWNER-009", "title": "The Guardian – 100 best novels written in English (2015)", "url": "https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list"}, {"source_id": "OWNER-015", "title": "OCLC WorldCat – Top 500", "url": "https://www.oclc.org/en/worldcat/library100/top500.html"}, {"source_id": "OWNER-021", "title": "BBC Culture – 100 Stories That Shaped the World (Goodreads rendering)", "url": "https://www.goodreads.com/list/show/124388.BBC_Culture_The_100_Stories_That_Shaped_The_World"}, {"source_id": "OWNER-024", "title": "J. Peder Zane – The Top Ten: Writers Pick Their Favorite Books", "url": "https://thegreatestbooks.org/lists/44"}, {"source_id": "OWNER-025", "title": "Ronald Schwartz – For the Love of Books", "url": "https://thegreatestbooks.org/lists/120"}, {"source_id": "OWNER-026", "title": "Télérama – 25 favorite books of Francophone writers", "url": "https://thegreatestbooks.org/lists/114"}, {"source_id": "OWNER-027", "title": "Transfuge – Best Foreign Works of Fiction chosen by Francophone writers", "url": "https://thegreatestbooks.org/lists/308"}, {"source_id": "OWNER-028", "title": "France CNL – Fifty French Writers Choose Their Ten Favorite Books", "url": "https://thegreatestbooks.org/lists/1051"}, {"source_id": "OWNER-036", "title": "Guardian – Essential Library", "url": "https://thegreatestbooks.org/lists/328"}, {"source_id": "OWNER-037", "title": "Center for Fiction – 200 Books That Shaped 200 Years of Literature", "url": "https://thegreatestbooks.org/lists/398"}, {"source_id": "OWNER-039", "title": "Le Monde/Fnac – 100 Books of the Century", "url": "https://thegreatestbooks.org/lists/108"}, {"source_id": "OWNER-041", "title": "Illinois Wesleyan – 100 Must-Read Books", "url": "https://thegreatestbooks.org/lists/860"}, {"source_id": "OWNER-047", "title": "Good Reading / NCTE – 101 Significant Books", "url": "https://thegreatestbooks.org/lists/542"}, {"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S02", "title": "Modern Library Top 100 - Penguin Random House", "url": "https://sites.prh.com/modern-library-top-100/"}, {"source_id": "S04", "title": "The Library 100", "url": "https://www.oclc.org/en/worldcat/library100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S02", "list": "novels", "position": 1}, {"source_id": "S04", "list": "library_holdings", "position": 47}]}, "country_groupings": []}
+
+ENTRY 3 | work:2 | War and Peace — Leo Tolstoy
+{"entry_id": 34, "item_type": "work", "item_id": 2, "source_rank": null, "rationale": "Broad acclaim supports a high provisional position. Inclusion evidence: S14, S04 library_holdings #28, R049. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 2, "title": "War and Peace", "form": "book", "field": "literature", "original_year": 1869, "original_language": "Russian", "countries": ["Russia"], "description": "A novel combining social narrative, war and historical inquiry. The completed first book edition appeared in 1868–1869, following earlier serialization.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 2, "name": "Leo Tolstoy", "biography": "", "countries": [], "source_url": "https://www.nybooks.com/articles/2007/11/22/tolstoys-real-hero/", "image_attribution": "Sergei Prokudin-Gorskii; Public domain. https://commons.wikimedia.org/wiki/File:Leo_Tolstoy_1908_Portrait_(3x4_cropped).jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 2, "language": "English", "translator": "Richard Pevear and Larissa Volokhonsky", "publisher": "Vintage", "isbn": "9781400079988", "pages": 1296, "word_count": null, "abridged": 0, "translation_notes": "Complete-novel translation; retains French passages with English footnotes. Figes praises repetition and register while noting individual errors. This is not Bromfield’s translation of an earlier, shorter draft.", "source_url": "https://www.penguinrandomhouse.com/books/208646/war-and-peace-by-leo-tolstoy-a-new-translation-by-richard-pevear-and-larissa-volokhonsky/9781400079988/", "image_attribution": "Cover: Vintage. Publisher-supplied image for ISBN 9781400079988; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Broad acclaim supports a high provisional position. Inclusion evidence: S14, S04 library_holdings #28, R049. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Sustained engagement supports keeping it high. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Dedicated criticism still needed. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-005", "title": "Goodreads – 1001 Books You Must Read Before You Die", "url": "https://www.goodreads.com/list/show/952.1001_Books_You_Must_Read_Before_You_Die"}, {"source_id": "OWNER-006", "title": "World Library / Norwegian Book Club – Goodreads rendering", "url": "https://www.goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List"}, {"source_id": "OWNER-007", "title": "World Library / Norwegian Book Club – methodology record", "url": "https://thegreatestbooks.org/lists/28"}, {"source_id": "OWNER-015", "title": "OCLC WorldCat – Top 500", "url": "https://www.oclc.org/en/worldcat/library100/top500.html"}, {"source_id": "OWNER-021", "title": "BBC Culture – 100 Stories That Shaped the World (Goodreads rendering)", "url": "https://www.goodreads.com/list/show/124388.BBC_Culture_The_100_Stories_That_Shaped_The_World"}, {"source_id": "OWNER-024", "title": "J. Peder Zane – The Top Ten: Writers Pick Their Favorite Books", "url": "https://thegreatestbooks.org/lists/44"}, {"source_id": "OWNER-025", "title": "Ronald Schwartz – For the Love of Books", "url": "https://thegreatestbooks.org/lists/120"}, {"source_id": "OWNER-029", "title": "Martin Seymour-Smith – The 100 Most Influential Books / Finest Works of Fiction record", "url": "https://thegreatestbooks.org/lists/140"}, {"source_id": "OWNER-041", "title": "Illinois Wesleyan – 100 Must-Read Books", "url": "https://thegreatestbooks.org/lists/860"}, {"source_id": "OWNER-047", "title": "Good Reading / NCTE – 101 Significant Books", "url": "https://thegreatestbooks.org/lists/542"}, {"source_id": "OWNER-110", "title": "Goodreads – Best Russian Literature", "url": "https://www.goodreads.com/list/show/113.Best_Russian_Literature"}, {"source_id": "OWNER-111", "title": "Goodreads – Greatest Russian Novels of All Time", "url": "https://www.goodreads.com/list/show/17853.Greatest_Russian_Novels_of_All_Time"}, {"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S02", "title": "Modern Library Top 100 - Penguin Random House", "url": "https://sites.prh.com/modern-library-top-100/"}, {"source_id": "S04", "title": "The Library 100", "url": "https://www.oclc.org/en/worldcat/library100.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S04", "list": "library_holdings", "position": 28}]}, "country_groupings": []}
+
+ENTRY 4 | work:16 | In Search of Lost Time — Marcel Proust
+{"entry_id": 58, "item_type": "work", "item_id": 16, "source_rank": null, "rationale": "Cross-language critical standing supports the upper group. Inclusion evidence: R049, R103. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 16, "title": "In Search of Lost Time", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 36, "name": "Marcel Proust", "biography": "", "countries": [], "source_url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 205, "language": "English", "translator": "", "publisher": "The Editorium, LLC", "isbn": "9781434105547", "pages": 1118, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL38078207W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/14634155-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Cross-language critical standing supports the upper group. Inclusion evidence: R049, R103. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Exceptional sustained introspection remains valuable; the length and recursive structure make it a larger commitment than the novels promoted here.", "caveat": "Response depends strongly on tolerance for sustained introspection. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-006", "title": "World Library / Norwegian Book Club – Goodreads rendering", "url": "https://www.goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List"}, {"source_id": "OWNER-007", "title": "World Library / Norwegian Book Club – methodology record", "url": "https://thegreatestbooks.org/lists/28"}, {"source_id": "OWNER-008", "title": "The Guardian – 100 greatest novels of all time (2003)", "url": "https://www.theguardian.com/books/2003/oct/12/features.fiction"}, {"source_id": "OWNER-021", "title": "BBC Culture – 100 Stories That Shaped the World (Goodreads rendering)", "url": "https://www.goodreads.com/list/show/124388.BBC_Culture_The_100_Stories_That_Shaped_The_World"}, {"source_id": "OWNER-024", "title": "J. Peder Zane – The Top Ten: Writers Pick Their Favorite Books", "url": "https://thegreatestbooks.org/lists/44"}, {"source_id": "OWNER-025", "title": "Ronald Schwartz – For the Love of Books", "url": "https://thegreatestbooks.org/lists/120"}, {"source_id": "OWNER-026", "title": "Télérama – 25 favorite books of Francophone writers", "url": "https://thegreatestbooks.org/lists/114"}, {"source_id": "OWNER-028", "title": "France CNL – Fifty French Writers Choose Their Ten Favorite Books", "url": "https://thegreatestbooks.org/lists/1051"}, {"source_id": "OWNER-029", "title": "Martin Seymour-Smith – The 100 Most Influential Books / Finest Works of Fiction record", "url": "https://thegreatestbooks.org/lists/140"}, {"source_id": "OWNER-036", "title": "Guardian – Essential Library", "url": "https://thegreatestbooks.org/lists/328"}, {"source_id": "OWNER-037", "title": "Center for Fiction – 200 Books That Shaped 200 Years of Literature", "url": "https://thegreatestbooks.org/lists/398"}, {"source_id": "OWNER-039", "title": "Le Monde/Fnac – 100 Books of the Century", "url": "https://thegreatestbooks.org/lists/108"}, {"source_id": "OWNER-040", "title": "New York Times staff – Fiction favorites", "url": "https://thegreatestbooks.org/lists/288"}, {"source_id": "OWNER-042", "title": "Publishing Triangle – 100 Best Lesbian and Gay Novels", "url": "https://thegreatestbooks.org/lists/908"}, {"source_id": "OWNER-113", "title": "Goodreads – Best French Literature", "url": "https://www.goodreads.com/list/show/67.Best_French_Literature"}, {"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "R103", "title": "En busca del tiempo perdido: comentarios y opiniones", "url": "https://www.lecturalia.com/libro/14611/en-busca-del-tiempo-perdido"}], "metadata_status": "edition_verification_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 5 | work:349 | The Brothers Karamazov — Fyodor Dostoevsky
+{"entry_id": 59, "item_type": "work", "item_id": 349, "source_rank": null, "rationale": "Inclusion evidence: R049, S28 aggregate_books #18, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 349, "title": "The Brothers Karamazov", "form": "book", "field": "literature", "original_year": null, "original_language": "Russian", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 247, "name": "Fyodor Dostoevsky", "biography": "", "countries": [], "source_url": "https://www.oclc.org/en/worldcat/library100.html", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 1291, "language": "English", "translator": "", "publisher": "", "isbn": "", "pages": null, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://archive.org/details/brotherskaramazo0000fyod_s6l9", "image_attribution": "Internet Archive item image: https://archive.org/services/img/brotherskaramazo0000fyod_s6l9", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Inclusion evidence: R049, S28 aggregate_books #18, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Promoted for the combination of dramatic momentum, moral conflict and philosophical conversation; breadth of reward matters more here than formal priority.", "caveat": "Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-005", "title": "Goodreads – 1001 Books You Must Read Before You Die", "url": "https://www.goodreads.com/list/show/952.1001_Books_You_Must_Read_Before_You_Die"}, {"source_id": "OWNER-006", "title": "World Library / Norwegian Book Club – Goodreads rendering", "url": "https://www.goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List"}, {"source_id": "OWNER-007", "title": "World Library / Norwegian Book Club – methodology record", "url": "https://thegreatestbooks.org/lists/28"}, {"source_id": "OWNER-008", "title": "The Guardian – 100 greatest novels of all time (2003)", "url": "https://www.theguardian.com/books/2003/oct/12/features.fiction"}, {"source_id": "OWNER-024", "title": "J. Peder Zane – The Top Ten: Writers Pick Their Favorite Books", "url": "https://thegreatestbooks.org/lists/44"}, {"source_id": "OWNER-025", "title": "Ronald Schwartz – For the Love of Books", "url": "https://thegreatestbooks.org/lists/120"}, {"source_id": "OWNER-026", "title": "Télérama – 25 favorite books of Francophone writers", "url": "https://thegreatestbooks.org/lists/114"}, {"source_id": "OWNER-029", "title": "Martin Seymour-Smith – The 100 Most Influential Books / Finest Works of Fiction record", "url": "https://thegreatestbooks.org/lists/140"}, {"source_id": "OWNER-041", "title": "Illinois Wesleyan – 100 Must-Read Books", "url": "https://thegreatestbooks.org/lists/860"}, {"source_id": "OWNER-047", "title": "Good Reading / NCTE – 101 Significant Books", "url": "https://thegreatestbooks.org/lists/542"}, {"source_id": "OWNER-110", "title": "Goodreads – Best Russian Literature", "url": "https://www.goodreads.com/list/show/113.Best_Russian_Literature"}, {"source_id": "OWNER-111", "title": "Goodreads – Greatest Russian Novels of All Time", "url": "https://www.goodreads.com/list/show/17853.Greatest_Russian_Novels_of_All_Time"}, {"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}, {"source_id": "S28", "title": "The Greatest Books of All Time", "url": "https://thegreatestbooks.org/"}], "metadata_status": "edition_verification_pending", "source_positions": [{"source_id": "S28", "list": "aggregate_books", "position": 18}]}, "country_groupings": []}
+
+ENTRY 6 | work:65 | Iliad — Homer
+{"entry_id": 60, "item_type": "work", "item_id": 65, "source_rank": null, "rationale": "Curricular durability supports considering the complete epic among books. Inclusion evidence: S07, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 65, "title": "Iliad", "form": "book", "field": "literature", "original_year": null, "original_language": "", "countries": [], "description": "", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 68, "name": "Homer", "biography": "", "countries": [], "source_url": "https://directedstudies.yale.edu/syllabi/syllabi/literature-syllabus", "image_attribution": "", "is_archived": 0, "has_saved_portrait": false}], "default_edition": {"id": 196, "language": "English", "translator": "", "publisher": "W. W. Norton & Company, Inc.", "isbn": "9781324076148", "pages": 848, "word_count": null, "abridged": 0, "translation_notes": "", "source_url": "https://openlibrary.org/works/OL36997893W", "image_attribution": "Open Library Covers API: https://covers.openlibrary.org/b/id/14546467-L.jpg", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Curricular durability supports considering the complete epic among books. Inclusion evidence: S07, R049, S14. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Proposed upper reading group tests enduring narrative encounter. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Whole book-length epic only; not eligible for the prose-fiction shortlist. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-006", "title": "World Library / Norwegian Book Club – Goodreads rendering", "url": "https://www.goodreads.com/list/show/9440.100_Best_Books_of_All_Time_The_World_Library_List"}, {"source_id": "OWNER-007", "title": "World Library / Norwegian Book Club – methodology record", "url": "https://thegreatestbooks.org/lists/28"}, {"source_id": "OWNER-012", "title": "The Guardian – 100 best books of the 21st century (2019)", "url": "https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century"}, {"source_id": "OWNER-021", "title": "BBC Culture – 100 Stories That Shaped the World (Goodreads rendering)", "url": "https://www.goodreads.com/list/show/124388.BBC_Culture_The_100_Stories_That_Shaped_The_World"}, {"source_id": "OWNER-024", "title": "J. Peder Zane – The Top Ten: Writers Pick Their Favorite Books", "url": "https://thegreatestbooks.org/lists/44"}, {"source_id": "OWNER-025", "title": "Ronald Schwartz – For the Love of Books", "url": "https://thegreatestbooks.org/lists/120"}, {"source_id": "OWNER-026", "title": "Télérama – 25 favorite books of Francophone writers", "url": "https://thegreatestbooks.org/lists/114"}, {"source_id": "OWNER-041", "title": "Illinois Wesleyan – 100 Must-Read Books", "url": "https://thegreatestbooks.org/lists/860"}, {"source_id": "OWNER-047", "title": "Good Reading / NCTE – 101 Significant Books", "url": "https://thegreatestbooks.org/lists/542"}, {"source_id": "R049", "title": "La mejor novela de la historia", "url": "https://elpais.com/diario/2002/05/08/ultima/1020808801_850215.html"}, {"source_id": "S07", "title": "Literature Syllabus | Directed Studies", "url": "https://directedstudies.yale.edu/syllabi/syllabi/literature-syllabus"}, {"source_id": "S14", "title": "100 must-read classics, as chosen by our readers", "url": "https://www.penguin.co.uk/discover/articles/100-must-read-classic-books"}], "metadata_status": "edition_verification_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 7 | work:9 | The Republic — Plato
+{"entry_id": 32, "item_type": "work", "item_id": 9, "source_rank": null, "rationale": "Scholarly and cross-tradition selections converge on its foundational standing. Inclusion evidence: S17, S19, R028. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 9, "title": "The Republic", "form": "book", "field": "philosophy", "original_year": null, "original_language": "Ancient Greek", "countries": ["Greece"], "description": "A philosophical dialogue about justice, education, knowledge and the relationship between a person and a political community.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 9, "name": "Plato", "biography": "A philosopher whose dialogues investigate justice, knowledge and the examined life. The dramatic Socrates in these works is not simply interchangeable with Plato.", "countries": [], "source_url": "https://plato.stanford.edu/entries/plato/", "image_attribution": "Marie-Lan Nguyen; Public domain. https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.png Historical depiction; not a verified contemporary likeness.", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 9, "language": "English", "translator": "Desmond Lee", "publisher": "Penguin Classics", "isbn": "9780140455113", "pages": 480, "word_count": null, "abridged": 0, "translation_notes": "Standard English edition of the dialogue, introduced by Melissa Lane. Original composition year remains approximate and is not assigned a false exact date.", "source_url": "https://www.penguinrandomhouse.com/books/302379/the-republic-by-plato/", "image_attribution": "Cover: Penguin Classics. Image supplied by Penguin Random House for ISBN 9780140455113; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "Scholarly and cross-tradition selections converge on its foundational standing. Inclusion evidence: S17, S19, R028. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Its argumentative encounters keep it near the front of both orders. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Historical influence does not endorse its political prescriptions. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-005", "title": "Goodreads – 1001 Books You Must Read Before You Die", "url": "https://www.goodreads.com/list/show/952.1001_Books_You_Must_Read_Before_You_Die"}, {"source_id": "OWNER-041", "title": "Illinois Wesleyan – 100 Must-Read Books", "url": "https://thegreatestbooks.org/lists/860"}, {"source_id": "OWNER-047", "title": "Good Reading / NCTE – 101 Significant Books", "url": "https://thegreatestbooks.org/lists/542"}, {"source_id": "R028", "title": "The best books on World Philosophy", "url": "https://fivebooks.com/best-books/world-philosophy-bryan-van-norden/"}, {"source_id": "S17", "title": "Plato (Stanford Encyclopedia of Philosophy)", "url": "https://plato.stanford.edu/entries/plato/"}, {"source_id": "S19", "title": "Key Philosophical Texts - Five Books Expert Recommendations", "url": "https://fivebooks.com/best-books/key-philosophical-texts-western-nigel-warburton/"}], "metadata_status": "edition_verification_pending", "source_positions": []}, "country_groupings": []}
+
+ENTRY 8 | work:11 | On the Origin of Species — Charles Darwin
+{"entry_id": 33, "item_type": "work", "item_id": 11, "source_rank": null, "rationale": "A major scientific argument warrants an upper provisional position. Inclusion evidence: R174. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "assessments": {}, "catalog": {"id": 11, "title": "On the Origin of Species", "form": "book", "field": "nonfiction", "original_year": 1859, "original_language": "English", "countries": ["England"], "description": "A sustained argument about variation and natural selection, presented through comparisons and accumulated observations. Read as a foundational scientific work in its historical context.", "contained_in_id": null, "is_archived": 0, "authors": [{"id": 33, "name": "Charles Darwin", "biography": "", "countries": [], "source_url": "https://www.penguin.co.uk/books/34590/on-the-origin-of-species-by-charles-darwin-ed--william-bynum-intro--william-bynum/9780140439120", "image_attribution": "Henry Maull and John Fox; crop by Beao; Public domain. https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg", "is_archived": 0, "has_saved_portrait": true}], "default_edition": {"id": 11, "language": "English", "translator": "", "publisher": "Penguin Classics", "isbn": "9780140439120", "pages": 576, "word_count": null, "abridged": 0, "translation_notes": "Anniversary edition with introduction and scholarly references by William Bynum, cover by Damien Hirst. Standard book edition, not a modern adaptation; no claim that it replaces current biological scholarship.", "source_url": "https://www.penguin.co.uk/books/34590/on-the-origin-of-species-by-charles-darwin-ed--william-bynum-intro--william-bynum/9780140439120", "image_attribution": "Cover: Penguin Classics. Image supplied by Penguin Random House for ISBN 9780140439120; copyright remains with rights holders.", "is_archived": 0, "has_saved_cover": true}}, "editorial_evidence_and_rationales": {"standing": "A major scientific argument warrants an upper provisional position. Inclusion evidence: R174. Placement is an editorial comparison within this expanded pool; list appearances alone do not establish an exact global rank.", "reading": "Historical reasoning remains instructive; current science needs other books. This first pass retains its standing order relative to other books outside the explicitly promoted reading group; no independent reader-vote ranking is claimed.", "caveat": "Primary text alone cannot establish its comparative reception. Source scope and overlapping selections limit precision. Preferred English edition and media are pending where the catalog has no verified record.", "sources": [{"source_id": "OWNER-041", "title": "Illinois Wesleyan – 100 Must-Read Books", "url": "https://thegreatestbooks.org/lists/860"}, {"source_id": "OWNER-047", "title": "Good Reading / NCTE – 101 Significant Books", "url": "https://thegreatestbooks.org/lists/542"}, {"source_id": "R174", "title": "On the Origin of Species — 1859 first edition, introduction", "url": "https://darwin-online.org.uk/converted/published/1859_Origin_F373/1859_Origin_F373.html"}], "metadata_status": "edition_verification_pending", "source_positions": []}, "country_groupings": []}
+
+END OF THIS INPUT PART. Wait for the next numbered part.

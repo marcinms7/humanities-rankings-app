@@ -1,5 +1,7 @@
 # Great Books of the Western World · 1990 edition
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 Verified and imported 13 September 2026: **384 active entries**, revision **3**.
 
 Contents of the 1990 second edition (60 volumes), including the two Syntopicon reference volumes. Works follow volume order, with individual plays, dialogues and named essays shown separately. Multi-volume works share one entry; selected excerpts are identified in the notes. This is an unranked collection.

@@ -1,0 +1,828 @@
+[
+  {
+    "target": "books-ancient",
+    "new_catalog": [
+      {
+        "key": "proposed:hebrew-bible",
+        "title": "Hebrew Bible and Tanakh",
+        "authors": "anonymous and collective traditions"
+      },
+      {
+        "key": "proposed:zuozhuan",
+        "title": "Zuo Tradition Zuozhuan",
+        "authors": "anonymous early Chinese tradition"
+      },
+      {
+        "key": "proposed:natyashastra",
+        "title": "Natyashastra",
+        "authors": "anonymous and composite Sanskrit tradition"
+      },
+      {
+        "key": "proposed:therigatha",
+        "title": "Therigatha",
+        "authors": "anonymous and attributed early Buddhist nuns"
+      },
+      {
+        "key": "proposed:tao-yuanming",
+        "title": "Poems and prose of Tao Yuanming",
+        "authors": "Tao Yuanming"
+      },
+      {
+        "key": "proposed:book-of-dead",
+        "title": "Egyptian Book of the Dead",
+        "authors": "anonymous and composite Egyptian tradition"
+      },
+      {
+        "key": "proposed:enuma-elish",
+        "title": "Enuma Elish",
+        "authors": "anonymous Babylonian tradition"
+      },
+      {
+        "key": "proposed:atrahasis",
+        "title": "Atrahasis",
+        "authors": "anonymous Akkadian tradition"
+      },
+      {
+        "key": "proposed:acaranga",
+        "title": "Acaranga Sutra",
+        "authors": "anonymous Jain canonical tradition"
+      },
+      {
+        "key": "proposed:jataka",
+        "title": "Jataka birth stories",
+        "authors": "anonymous Pali Buddhist tradition"
+      },
+      {
+        "key": "proposed:shanhaijing",
+        "title": "Classic of Mountains and Seas Shanhaijing",
+        "authors": "anonymous composite early Chinese tradition"
+      },
+      {
+        "key": "proposed:eloquent-peasant",
+        "title": "The Eloquent Peasant",
+        "authors": "anonymous Egyptian tradition"
+      },
+      {
+        "key": "proposed:egyptian-love-poems",
+        "title": "Ancient Egyptian love poems",
+        "authors": "anonymous Egyptian tradition"
+      },
+      {
+        "key": "proposed:gatha-sattasai",
+        "title": "Gatha Saptasati",
+        "authors": "Hala attribution and collective Maharashtri Prakrit tradition"
+      }
+    ],
+    "conflicts": []
+  },
+  {
+    "target": "books-every-country",
+    "new_catalog": [],
+    "conflicts": []
+  },
+  {
+    "target": "philosophy-books-all-time",
+    "new_catalog": [
+      {
+        "key": "proposed:principal-upanishads",
+        "title": "The Principal Upaniṣads (thirteen classical texts)",
+        "authors": "Anonymous/collective Vedic authors and transmitters"
+      },
+      {
+        "key": "proposed:brahma-sutra-bhasya",
+        "title": "Brahma Sūtra Bhāṣya",
+        "authors": "Śaṅkara"
+      },
+      {
+        "key": "proposed:begriffsschrift",
+        "title": "Begriffsschrift",
+        "authors": "Gottlob Frege"
+      },
+      {
+        "key": "proposed:experience-nature",
+        "title": "Experience and Nature",
+        "authors": "John Dewey"
+      },
+      {
+        "key": "proposed:incoherence-incoherence",
+        "title": "The Incoherence of the Incoherence",
+        "authors": "Ibn Rushd (Averroes)"
+      },
+      {
+        "key": "proposed:virtuous-city",
+        "title": "The Opinions of the People of the Virtuous City",
+        "authors": "Abū Naṣr al-Fārābī"
+      },
+      {
+        "key": "proposed:dialogues-natural-religion",
+        "title": "Dialogues concerning Natural Religion",
+        "authors": "David Hume"
+      },
+      {
+        "key": "proposed:sage-philosophy",
+        "title": "Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy",
+        "authors": "Henry Odera Oruka (editor), with individually identified interviewed thinkers"
+      },
+      {
+        "key": "proposed:philosophy-of-liberation",
+        "title": "Philosophy of Liberation",
+        "authors": "Enrique Dussel"
+      }
+    ],
+    "conflicts": []
+  },
+  {
+    "target": "literature-all-time",
+    "new_catalog": [
+      {
+        "key": "new:lu-xun-collected-fiction",
+        "title": "The Real Story of Ah-Q and Other Tales of China: The Complete Fiction of Lu Xun",
+        "authors": "Lu Xun"
+      },
+      {
+        "key": "new:love-in-a-fallen-city",
+        "title": "Love in a Fallen City (six-story collection)",
+        "authors": "Eileen Chang"
+      },
+      {
+        "key": "new:mr-mani",
+        "title": "Mr. Mani",
+        "authors": "A. B. Yehoshua"
+      },
+      {
+        "key": "new:senor-presidente",
+        "title": "Mr. President / The President",
+        "authors": "Miguel Ángel Asturias"
+      },
+      {
+        "key": "new:professors-house",
+        "title": "The Professor’s House",
+        "authors": "Willa Cather"
+      }
+    ],
+    "conflicts": []
+  },
+  {
+    "target": "philosophers-all-time",
+    "new_catalog": [
+      {
+        "key": "proposed:socrates",
+        "title": "Socrates",
+        "authors": null
+      },
+      {
+        "key": "proposed:buddha",
+        "title": "Gautama Buddha (Siddhārtha Gautama)",
+        "authors": null
+      },
+      {
+        "key": "proposed:zhu-xi",
+        "title": "Zhu Xi",
+        "authors": null
+      },
+      {
+        "key": "proposed:peirce",
+        "title": "Charles Sanders Peirce",
+        "authors": null
+      },
+      {
+        "key": "proposed:kumarila",
+        "title": "Kumārila Bhaṭṭa",
+        "authors": null
+      },
+      {
+        "key": "proposed:democritus",
+        "title": "Democritus",
+        "authors": null
+      },
+      {
+        "key": "proposed:wang-yangming",
+        "title": "Wang Yangming (Wang Shouren)",
+        "authors": null
+      },
+      {
+        "key": "proposed:asanga",
+        "title": "Asaṅga",
+        "authors": null
+      },
+      {
+        "key": "proposed:william-of-ockham",
+        "title": "William of Ockham",
+        "authors": null
+      },
+      {
+        "key": "proposed:mahavira",
+        "title": "Mahāvīra",
+        "authors": null
+      },
+      {
+        "key": "proposed:chrysippus",
+        "title": "Chrysippus",
+        "authors": null
+      },
+      {
+        "key": "proposed:zeno-of-citium",
+        "title": "Zeno of Citium",
+        "authors": null
+      },
+      {
+        "key": "proposed:kuhn",
+        "title": "Thomas Kuhn",
+        "authors": null
+      },
+      {
+        "key": "proposed:fichte",
+        "title": "Johann Gottlieb Fichte",
+        "authors": null
+      },
+      {
+        "key": "proposed:schelling",
+        "title": "Friedrich Wilhelm Joseph Schelling",
+        "authors": null
+      },
+      {
+        "key": "proposed:derrida",
+        "title": "Jacques Derrida",
+        "authors": null
+      },
+      {
+        "key": "proposed:abhinavagupta",
+        "title": "Abhinavagupta",
+        "authors": null
+      },
+      {
+        "key": "proposed:tsongkhapa",
+        "title": "Tsongkhapa (Tsong kha pa)",
+        "authors": null
+      },
+      {
+        "key": "proposed:shantaraksita",
+        "title": "Śāntarakṣita",
+        "authors": null
+      },
+      {
+        "key": "proposed:madhva",
+        "title": "Madhva (Madhvācārya)",
+        "authors": null
+      },
+      {
+        "key": "proposed:zeno-of-elea",
+        "title": "Zeno of Elea",
+        "authors": null
+      },
+      {
+        "key": "proposed:thales",
+        "title": "Thales of Miletus",
+        "authors": null
+      },
+      {
+        "key": "proposed:anaximander",
+        "title": "Anaximander",
+        "authors": null
+      },
+      {
+        "key": "proposed:pythagoras",
+        "title": "Pythagoras",
+        "authors": null
+      },
+      {
+        "key": "proposed:albert-the-great",
+        "title": "Albert the Great",
+        "authors": null
+      },
+      {
+        "key": "proposed:abelard",
+        "title": "Peter Abelard",
+        "authors": null
+      },
+      {
+        "key": "proposed:bonaventure",
+        "title": "Bonaventure",
+        "authors": null
+      },
+      {
+        "key": "proposed:grotius",
+        "title": "Hugo Grotius",
+        "authors": null
+      },
+      {
+        "key": "proposed:gandhi",
+        "title": "Mohandas Karamchand Gandhi",
+        "authors": null
+      },
+      {
+        "key": "proposed:barcan-marcus",
+        "title": "Ruth Barcan Marcus",
+        "authors": null
+      },
+      {
+        "key": "proposed:rorty",
+        "title": "Richard Rorty",
+        "authors": null
+      },
+      {
+        "key": "proposed:ricoeur",
+        "title": "Paul Ricoeur",
+        "authors": null
+      },
+      {
+        "key": "proposed:hountondji",
+        "title": "Paulin Hountondji",
+        "authors": null
+      },
+      {
+        "key": "proposed:protagoras",
+        "title": "Protagoras",
+        "authors": null
+      },
+      {
+        "key": "proposed:eriugena",
+        "title": "John Scottus Eriugena",
+        "authors": null
+      },
+      {
+        "key": "proposed:meister-eckhart",
+        "title": "Meister Eckhart",
+        "authors": null
+      },
+      {
+        "key": "proposed:diogenes-of-sinope",
+        "title": "Diogenes of Sinope",
+        "authors": null
+      },
+      {
+        "key": "proposed:gersonides",
+        "title": "Gersonides (Levi ben Gershom)",
+        "authors": null
+      },
+      {
+        "key": "proposed:iamblichus",
+        "title": "Iamblichus",
+        "authors": null
+      },
+      {
+        "key": "proposed:solomon-ibn-gabirol",
+        "title": "Solomon Ibn Gabirol",
+        "authors": null
+      },
+      {
+        "key": "proposed:judah-halevi",
+        "title": "Judah Halevi",
+        "authors": null
+      },
+      {
+        "key": "proposed:fakhr-al-din-al-razi",
+        "title": "Fakhr al-Din al-Razi",
+        "authors": null
+      },
+      {
+        "key": "proposed:utpaladeva",
+        "title": "Utpaladeva",
+        "authors": null
+      },
+      {
+        "key": "proposed:nasir-al-din-tusi",
+        "title": "Nasir al-Din al-Tusi",
+        "authors": null
+      },
+      {
+        "key": "proposed:cheng-yi",
+        "title": "Cheng Yi",
+        "authors": null
+      },
+      {
+        "key": "proposed:cheng-hao",
+        "title": "Cheng Hao",
+        "authors": null
+      },
+      {
+        "key": "proposed:zhang-zai",
+        "title": "Zhang Zai",
+        "authors": null
+      },
+      {
+        "key": "proposed:wonhyo",
+        "title": "Wŏnhyo (Wonhyo)",
+        "authors": null
+      },
+      {
+        "key": "proposed:yi-hwang",
+        "title": "Yi Hwang (T’oegye)",
+        "authors": null
+      },
+      {
+        "key": "proposed:yi-i",
+        "title": "Yi I (Yulgok)",
+        "authors": null
+      },
+      {
+        "key": "proposed:hart",
+        "title": "H. L. A. Hart",
+        "authors": null
+      },
+      {
+        "key": "proposed:horkheimer",
+        "title": "Max Horkheimer",
+        "authors": null
+      },
+      {
+        "key": "proposed:dennett",
+        "title": "Daniel Dennett",
+        "authors": null
+      },
+      {
+        "key": "proposed:longino",
+        "title": "Helen Longino",
+        "authors": null
+      },
+      {
+        "key": "proposed:lukacs",
+        "title": "György Lukács",
+        "authors": null
+      },
+      {
+        "key": "proposed:stein",
+        "title": "Edith Stein",
+        "authors": null
+      },
+      {
+        "key": "proposed:langer",
+        "title": "Susanne K. Langer",
+        "authors": null
+      },
+      {
+        "key": "proposed:herder",
+        "title": "Johann Gottfried Herder",
+        "authors": null
+      },
+      {
+        "key": "proposed:bolzano",
+        "title": "Bernard Bolzano",
+        "authors": null
+      },
+      {
+        "key": "proposed:butler",
+        "title": "Joseph Butler",
+        "authors": null
+      },
+      {
+        "key": "proposed:humboldt",
+        "title": "Wilhelm von Humboldt",
+        "authors": null
+      },
+      {
+        "key": "proposed:cohen",
+        "title": "G. A. Cohen",
+        "authors": null
+      },
+      {
+        "key": "proposed:fuller",
+        "title": "Lon L. Fuller",
+        "authors": null
+      },
+      {
+        "key": "proposed:pufendorf",
+        "title": "Samuel Pufendorf",
+        "authors": null
+      },
+      {
+        "key": "proposed:collingwood",
+        "title": "R. G. Collingwood",
+        "authors": null
+      },
+      {
+        "key": "proposed:addams",
+        "title": "Jane Addams",
+        "authors": null
+      },
+      {
+        "key": "proposed:anna-julia-cooper",
+        "title": "Anna Julia Cooper",
+        "authors": null
+      },
+      {
+        "key": "proposed:comte",
+        "title": "Auguste Comte",
+        "authors": null
+      },
+      {
+        "key": "proposed:shklar",
+        "title": "Judith N. Shklar",
+        "authors": null
+      },
+      {
+        "key": "proposed:benhabib",
+        "title": "Seyla Benhabib",
+        "authors": null
+      },
+      {
+        "key": "proposed:hutcheson",
+        "title": "Francis Hutcheson",
+        "authors": null
+      },
+      {
+        "key": "proposed:shaftesbury",
+        "title": "Anthony Ashley Cooper, 3rd Earl of Shaftesbury",
+        "authors": null
+      },
+      {
+        "key": "proposed:mendelssohn",
+        "title": "Moses Mendelssohn",
+        "authors": null
+      },
+      {
+        "key": "proposed:bayle",
+        "title": "Pierre Bayle",
+        "authors": null
+      },
+      {
+        "key": "proposed:cavendish",
+        "title": "Margaret Cavendish",
+        "authors": null
+      },
+      {
+        "key": "proposed:conway",
+        "title": "Anne Conway",
+        "authors": null
+      },
+      {
+        "key": "proposed:john-buridan",
+        "title": "John Buridan",
+        "authors": null
+      },
+      {
+        "key": "proposed:gassendi",
+        "title": "Pierre Gassendi",
+        "authors": null
+      },
+      {
+        "key": "proposed:wolff",
+        "title": "Christian Wolff",
+        "authors": null
+      },
+      {
+        "key": "proposed:senghor",
+        "title": "Léopold Sédar Senghor",
+        "authors": null
+      },
+      {
+        "key": "proposed:oruka",
+        "title": "Henry Odera Oruka",
+        "authors": null
+      },
+      {
+        "key": "proposed:ramose",
+        "title": "Mogobe Ramose",
+        "authors": null
+      },
+      {
+        "key": "proposed:nkrumah",
+        "title": "Kwame Nkrumah",
+        "authors": null
+      },
+      {
+        "key": "proposed:nyerere",
+        "title": "Julius Nyerere",
+        "authors": null
+      },
+      {
+        "key": "proposed:cabral",
+        "title": "Amílcar Cabral",
+        "authors": null
+      },
+      {
+        "key": "proposed:villoro",
+        "title": "Luis Villoro",
+        "authors": null
+      },
+      {
+        "key": "proposed:alain-locke",
+        "title": "Alain LeRoy Locke",
+        "authors": null
+      },
+      {
+        "key": "proposed:zea",
+        "title": "Leopoldo Zea",
+        "authors": null
+      },
+      {
+        "key": "proposed:quijano",
+        "title": "Aníbal Quijano",
+        "authors": null
+      },
+      {
+        "key": "proposed:hooks",
+        "title": "bell hooks",
+        "authors": null
+      },
+      {
+        "key": "proposed:astell",
+        "title": "Mary Astell",
+        "authors": null
+      },
+      {
+        "key": "proposed:du-chatelet",
+        "title": "Émilie du Châtelet",
+        "authors": null
+      },
+      {
+        "key": "proposed:sor-juana",
+        "title": "Sor Juana Inés de la Cruz",
+        "authors": null
+      },
+      {
+        "key": "proposed:hypatia",
+        "title": "Hypatia of Alexandria",
+        "authors": null
+      },
+      {
+        "key": "proposed:stebbing",
+        "title": "Susan Stebbing",
+        "authors": null
+      },
+      {
+        "key": "proposed:diamond",
+        "title": "Cora Diamond",
+        "authors": null
+      },
+      {
+        "key": "proposed:anderson",
+        "title": "Elizabeth Anderson",
+        "authors": null
+      },
+      {
+        "key": "proposed:heloise",
+        "title": "Héloïse",
+        "authors": null
+      },
+      {
+        "key": "proposed:marguerite-porete",
+        "title": "Marguerite Porete",
+        "authors": null
+      },
+      {
+        "key": "proposed:ban-zhao",
+        "title": "Ban Zhao",
+        "authors": null
+      },
+      {
+        "key": "proposed:he-yin-zhen",
+        "title": "He Yin Zhen",
+        "authors": null
+      },
+      {
+        "key": "proposed:xenophanes",
+        "title": "Xenophanes",
+        "authors": null
+      },
+      {
+        "key": "proposed:anaximenes",
+        "title": "Anaximenes",
+        "authors": null
+      },
+      {
+        "key": "proposed:robert-grosseteste",
+        "title": "Robert Grosseteste",
+        "authors": null
+      },
+      {
+        "key": "proposed:roger-bacon",
+        "title": "Roger Bacon",
+        "authors": null
+      },
+      {
+        "key": "proposed:guo-xiang",
+        "title": "Guo Xiang",
+        "authors": null
+      },
+      {
+        "key": "proposed:zhou-dunyi",
+        "title": "Zhou Dunyi",
+        "authors": null
+      },
+      {
+        "key": "proposed:dong-zhongshu",
+        "title": "Dong Zhongshu",
+        "authors": null
+      },
+      {
+        "key": "proposed:ratnakirti",
+        "title": "Ratnakīrti",
+        "authors": null
+      },
+      {
+        "key": "proposed:gorampa",
+        "title": "Gorampa Sönam Senge",
+        "authors": null
+      },
+      {
+        "key": "proposed:mandana-misra",
+        "title": "Maṇḍana Miśra",
+        "authors": null
+      },
+      {
+        "key": "proposed:ibn-bajja",
+        "title": "Ibn Bajja (Avempace)",
+        "authors": null
+      },
+      {
+        "key": "proposed:abu-bakr-al-razi",
+        "title": "Abu Bakr al-Razi",
+        "authors": null
+      },
+      {
+        "key": "proposed:ibn-kammuna",
+        "title": "Ibn Kammuna",
+        "authors": null
+      },
+      {
+        "key": "proposed:anton-wilhelm-amo",
+        "title": "Anton Wilhelm Amo",
+        "authors": null
+      },
+      {
+        "key": "proposed:vasconcelos",
+        "title": "José Vasconcelos",
+        "authors": null
+      },
+      {
+        "key": "proposed:sanchez-vazquez",
+        "title": "Adolfo Sánchez Vázquez",
+        "authors": null
+      },
+      {
+        "key": "proposed:vine-deloria-jr",
+        "title": "Vine Deloria Jr.",
+        "authors": null
+      }
+    ],
+    "conflicts": []
+  },
+  {
+    "target": "history-books-all-time",
+    "new_catalog": [
+      {
+        "key": "proposed:AM9",
+        "title": "The World of Late Antiquity: AD 150–750",
+        "authors": "Peter Brown"
+      },
+      {
+        "key": "proposed:AC1",
+        "title": "Reconstruction: America's Unfinished Revolution, 1863–1877",
+        "authors": "Eric Foner"
+      },
+      {
+        "key": "proposed:AS5",
+        "title": "Embracing Defeat: Japan in the Wake of World War II",
+        "authors": "John W. Dower"
+      },
+      {
+        "key": "proposed:EM1",
+        "title": "Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland",
+        "authors": "Christopher R. Browning"
+      },
+      {
+        "key": "proposed:EM2",
+        "title": "The Years of Extermination: Nazi Germany and the Jews, 1939–1945",
+        "authors": "Saul Friedländer"
+      },
+      {
+        "key": "proposed:EM3",
+        "title": "The Wages of Destruction: The Making and Breaking of the Nazi Economy",
+        "authors": "Adam Tooze"
+      },
+      {
+        "key": "proposed:AS4",
+        "title": "India After Gandhi: The History of the World's Largest Democracy",
+        "authors": "Ramachandra Guha"
+      },
+      {
+        "key": "proposed:AF3",
+        "title": "A History of the Arab Peoples",
+        "authors": "Albert Hourani"
+      },
+      {
+        "key": "proposed:AF4",
+        "title": "Africans: The History of a Continent",
+        "authors": "John Iliffe"
+      },
+      {
+        "key": "proposed:AS10",
+        "title": "Ka Whawhai Tonu Mātou: Struggle Without End",
+        "authors": "Ranginui Walker"
+      }
+    ],
+    "conflicts": []
+  },
+  {
+    "target": "comics-graphic-novels-all-time",
+    "new_catalog": [
+      {
+        "key": "proposed:gasoline-alley-frank-king",
+        "title": "Gasoline Alley (Frank King corpus)",
+        "authors": "Frank King"
+      }
+    ],
+    "conflicts": []
+  }
+]

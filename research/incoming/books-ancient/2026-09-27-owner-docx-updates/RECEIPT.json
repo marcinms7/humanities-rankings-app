@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-09-27-owner-docx-updates",
+  "status": "imported",
+  "target": "books-ancient",
+  "files": [
+    {
+      "filename": "ancient_works_all_time_ranking_update.docx",
+      "target": "books-ancient",
+      "sha256": "9c15803a7070ae358840596cd89fa2abcc796283d25d62f32b63d09c4d3fcb45",
+      "directory": "research/incoming/books-ancient/2026-09-27-owner-docx-updates",
+      "blocks": 1076,
+      "tables": 0,
+      "chars": 273533
+    }
+  ],
+  "database_receipt": "research/_runs/2026-09-27/owner-docx-updates/books-ancient-import-receipt.json",
+  "preserved_all_existing_sources": true,
+  "source_by_source_web_verification_performed": false
+}

@@ -1,0 +1,152 @@
+.atlas-map {
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.atlas-map-toolbar {
+  display: flex;
+  align-items: end;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 1rem;
+}
+
+.atlas-map-toolbar label {
+  display: grid;
+  gap: 0.3rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.atlas-map-toolbar select {
+  max-width: 100%;
+  min-height: 40px;
+}
+
+.atlas-map-buttons {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.atlas-map-buttons button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  min-height: 40px;
+  padding: 0.5rem;
+}
+
+.atlas-map-help,
+.atlas-map-credit {
+  margin: 0;
+  padding: 0 1rem 0.8rem;
+  font-size: 0.78rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.atlas-map-svg {
+  display: block;
+  width: 100%;
+  aspect-ratio: 72 / 29;
+  background: var(--bg);
+  border-block: 1px solid var(--border);
+}
+
+.atlas-map-land path {
+  fill: var(--surface-alt);
+  fill-rule: evenodd;
+  stroke: var(--border);
+  stroke-width: 0.6;
+}
+
+.atlas-map-grid line {
+  stroke: var(--border);
+  stroke-width: 0.5;
+  stroke-dasharray: 3 4;
+  opacity: 0.45;
+}
+
+.atlas-map-marker {
+  cursor: pointer;
+  outline: none;
+}
+
+.atlas-map-hit {
+  fill: transparent;
+}
+
+.atlas-map-dot {
+  fill: var(--accent);
+  fill-opacity: 0.72;
+  stroke: var(--surface);
+  stroke-width: 1;
+}
+
+.atlas-map-alias {
+  fill: none;
+  stroke: var(--surface);
+  stroke-width: 1;
+  pointer-events: none;
+}
+
+.atlas-map-marker.is-selected .atlas-map-dot {
+  fill: var(--gold);
+  fill-opacity: 1;
+  stroke: var(--text);
+  stroke-width: 2;
+}
+
+.atlas-map-marker:focus .atlas-map-dot,
+.atlas-map-marker.is-active .atlas-map-dot {
+  fill-opacity: 1;
+  stroke: var(--text);
+  stroke-width: 2;
+}
+
+.atlas-map-readout {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1rem;
+  min-height: 3rem;
+  padding: 0.85rem 1rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.atlas-map-aliases {
+  padding: 0 1rem 1rem;
+}
+
+.atlas-map-aliases p {
+  margin: 0 0 0.65rem;
+  font-size: 0.85rem;
+}
+
+.atlas-map-aliases > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+@media (max-width: 600px) {
+  .atlas-map-toolbar {
+    gap: 0.5rem;
+  }
+
+  .atlas-map-toolbar label {
+    flex-basis: 100%;
+  }
+
+  .atlas-map-toolbar select {
+    width: 100%;
+  }
+
+  .atlas-map-buttons button {
+    width: 36px;
+    min-height: 40px;
+  }
+}

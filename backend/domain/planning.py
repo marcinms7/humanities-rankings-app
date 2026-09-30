@@ -12,7 +12,7 @@ def month_range(start, count):
     return [date(start.year + (start.month - 1 + i) // 12, (start.month - 1 + i) % 12 + 1, 1) for i in range(count)]
 
 
-def suggest_plan(books, months, pages_per_day, locked, *, month_budgets=None):
+def suggest_plan(books, months, pages_per_day, locked, *, month_budgets=None, blocked_pairs=None):
     if type(pages_per_day) is not int or not 1 <= pages_per_day <= 2000:
         raise ValueError('Daily reading capacity must be between 1 and 2000 pages.')
     if len(set(months)) != len(months) or months != sorted(months) or any(m.day != 1 for m in months):
@@ -24,12 +24,15 @@ def suggest_plan(books, months, pages_per_day, locked, *, month_budgets=None):
         if pages is not None and (type(pages) is not int or pages < 0):
             raise ValueError('Remaining pages must be a nonnegative whole number.')
     capacities = dict(month_budgets) if month_budgets is not None else {month: calendar.monthrange(month.year, month.month)[1] * pages_per_day for month in months}
-    if set(capacities) != set(months) or any(not isfinite(v) or v <= 0 for v in capacities.values()):
-        raise ValueError('Each month needs a positive finite reading budget.')
+    if set(capacities) != set(months) or any(not isfinite(v) or v < 0 for v in capacities.values()):
+        raise ValueError('Each month needs a nonnegative finite reading budget.')
     for item in [*books, *locked]:
         factor = item.get('effort_per_page', 1)
         if not isinstance(factor, (float, int)) or isinstance(factor, bool) or not isfinite(factor) or factor <= 0:
             raise ValueError('Reading effort must be a positive finite number.')
+    # A retained historical row can have no pages left to schedule. Its unique
+    # work/month slot still exists even when it makes no capacity reservation.
+    blocked = set(blocked_pairs or ())
     reservations = {}
     warnings = []
     for item in locked:
@@ -39,11 +42,15 @@ def suggest_plan(books, months, pages_per_day, locked, *, month_budgets=None):
             raise ValueError('Add page allocations to locked books before generating a plan.')
         if type(item['pages']) is not int or item['pages'] < 1:
             raise ValueError('Locked page allocations must be positive whole numbers.')
+        remaining = item.get('remaining_pages', item['pages'])
+        if type(remaining) is not int or not 0 <= remaining <= item['pages']:
+            raise ValueError('Unread reserved pages must be a whole number within the saved allocation.')
         capacities[item['month']] -= item['pages'] * item.get('effort_per_page', 1)
-        reservations[item['work']] = reservations.get(item['work'], 0) + item['pages']
+        reservations[item['work']] = reservations.get(item['work'], 0) + remaining
+        blocked.add((item['work'], item['month']))
     for month, capacity in capacities.items():
         if capacity < 0:
-            warnings.append(f'Locked books exceed {month:%B %Y} capacity by {-capacity:g} budget units.')
+            warnings.append(f'Preserved allocations exceed {month:%B %Y} capacity by {-capacity:g} budget units.')
     proposed, unscheduled = [], []
     for book in books:
         if book['remaining_pages'] is None:
@@ -54,7 +61,7 @@ def suggest_plan(books, months, pages_per_day, locked, *, month_budgets=None):
             if not remaining:
                 break
             # Keep one work/month record; preserve the locked allocation exactly.
-            if any(x['work'] == book['id'] and x['month'] == month for x in locked):
+            if (book['id'], month) in blocked:
                 continue
             factor = book.get('effort_per_page', 1)
             allocated = min(remaining, max(0, floor((capacities[month] + 1e-9) / factor)))

@@ -1,5 +1,7 @@
 # Top 3 books by country
 
+> Current saved entries, evidence totals and revision: [database checkpoint](../../docs/CURRENT_STATE.md). The dated research notes below preserve provenance; older pending-import and small-selection statements are historical when superseded by that checkpoint.
+
 ## Owner-supplied initial selection — 14 September 2026
 
 The preserved report was published to `books-every-country` at revision 2 with 208 country/literary-region sections, 624 local positions and 617 distinct works. Local ranks restart at 1–3. Cross-country recurrence is intentional and uses one catalog identity with several ranking-local placements.
@@ -20,3 +22,10 @@ This is an initial editorial selection, not completed target research and not 20
 ## Display contract
 
 Only `books-every-country` opts into the `country_grouped` format. Each ranking entry stores one or more section placements with country, section order, local rank, region, confidence, original-language/form note, affiliation note and report source IDs. Standalone country rankings are unchanged.
+
+
+## Owner DOCX update — 27 September 2026
+
+Imported the supplied report into the existing database, revision 3: 617 → 617 active entries; 1395 → 1707 source records (+312, including 309 newly registered sources whose substantive consultation is externally reported). Added 0 active ranking candidates; 0 superseded ranking entries remain archived with history. Every pre-existing source record and its eligibility was preserved. No source-by-source web verification or fresh research was performed.
+
+Full intake notes, limitations, source/candidate ID maps and receipts: `research/_runs/2026-09-27/owner-docx-updates/`. Both editorial views were persisted; personal numerical scores remain unset. Edition/media and the report's stated evidence gaps remain open. Canonical sources.json contains all current database sources; previous ledger retained.

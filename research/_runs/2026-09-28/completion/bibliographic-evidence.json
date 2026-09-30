@@ -1,0 +1,68 @@
+[
+  {
+    "source_id": "metadata-20260928-3835f66612f70c95",
+    "underlying_source_id": "url:3835f66612f70c95ee9559e4",
+    "title": "Oxford History of Ancient Egypt: publisher bibliographic record",
+    "canonical_url": "https://academic.oup.com/book/47196",
+    "source_family": "academic_or_institutional",
+    "publisher": "Oxford University Press",
+    "access_level": "relevant_excerpt",
+    "accessed_at": "2026-09-28",
+    "count_eligible": false,
+    "target_ids": [
+      "history-books-ancient-world"
+    ],
+    "relevance_by_target": {
+      "history-books-ancient-world": "Confirms Ian Shaw as editor, publication on 31 August 2000 and print ISBN 9780198150343. Supports correction of a reversed author/title record; it does not independently establish merit order."
+    },
+    "evidence_notes": "Confirms Ian Shaw as editor, publication on 31 August 2000 and print ISBN 9780198150343. Supports correction of a reversed author/title record; it does not independently establish merit order.",
+    "disagreement_or_limitations": "Bibliographic verification only; not a consulted independent ranking judgment or full-book review.",
+    "depends_on_source_ids": [],
+    "evidence_role": "bibliographic_identity",
+    "verification_origin": "locally_examined"
+  },
+  {
+    "source_id": "metadata-20260928-7981673c6fe928a3",
+    "underlying_source_id": "url:7981673c6fe928a3db18a2aa",
+    "title": "Cambridge Ancient History: publisher series catalogue",
+    "canonical_url": "https://www.cambridge.org/core/series/cambridge-ancient-history/010C506409EE858277F898C129759025",
+    "source_family": "academic_or_institutional",
+    "publisher": "Cambridge University Press",
+    "access_level": "relevant_excerpt",
+    "accessed_at": "2026-09-28",
+    "count_eligible": false,
+    "target_ids": [
+      "history-books-ancient-world"
+    ],
+    "relevance_by_target": {
+      "history-books-ancient-world": "The catalogue identifies separately edited volumes, including volumes 5 and 14. This is a multivolume series, not a person named multi-volume series. Volume-specific editions and page counts must remain distinct."
+    },
+    "evidence_notes": "The catalogue identifies separately edited volumes, including volumes 5 and 14. This is a multivolume series, not a person named multi-volume series. Volume-specific editions and page counts must remain distinct.",
+    "disagreement_or_limitations": "Bibliographic verification only; not a consulted independent ranking judgment or full-book review.",
+    "depends_on_source_ids": [],
+    "evidence_role": "bibliographic_identity",
+    "verification_origin": "locally_examined"
+  },
+  {
+    "source_id": "metadata-20260928-4d318219efbca610",
+    "underlying_source_id": "url:4d318219efbca610540bc501",
+    "title": "Rise of Civilization in India and Pakistan: bibliographic header of Dales review",
+    "canonical_url": "https://doi.org/10.1017/S0003581500066695",
+    "source_family": "academic_or_institutional",
+    "publisher": "The Society of Antiquaries of London / Cambridge University Press",
+    "access_level": "relevant_excerpt",
+    "accessed_at": "2026-09-28",
+    "count_eligible": false,
+    "target_ids": [
+      "history-books-ancient-world"
+    ],
+    "relevance_by_target": {
+      "history-books-ancient-world": "The accessible review header identifies Bridget and Raymond Allchin, Cambridge University Press 1982, paperback ISBN 052128550X, and xiv plus 379 pages. The full review was not accessed; only bibliographic facts are used."
+    },
+    "evidence_notes": "The accessible review header identifies Bridget and Raymond Allchin, Cambridge University Press 1982, paperback ISBN 052128550X, and xiv plus 379 pages. The full review was not accessed; only bibliographic facts are used.",
+    "disagreement_or_limitations": "Bibliographic verification only; not a consulted independent ranking judgment or full-book review.",
+    "depends_on_source_ids": [],
+    "evidence_role": "bibliographic_identity",
+    "verification_origin": "locally_examined"
+  }
+]

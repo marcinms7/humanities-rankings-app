@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-09-27-owner-docx-updates",
+  "status": "imported",
+  "target": "literature-all-time",
+  "files": [
+    {
+      "filename": "literary-fiction-ranking.docx",
+      "target": "literature-all-time",
+      "sha256": "ba0dd36642fa1e7e65f4bac639ad796d0ce8e03156d64db48e09050094191769",
+      "directory": "research/incoming/literature-all-time/2026-09-27-owner-docx-updates",
+      "blocks": 6071,
+      "tables": 3,
+      "chars": 725754
+    }
+  ],
+  "database_receipt": "research/_runs/2026-09-27/owner-docx-updates/literature-all-time-import-receipt.json",
+  "preserved_all_existing_sources": true,
+  "source_by_source_web_verification_performed": false
+}
