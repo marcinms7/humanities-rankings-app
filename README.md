@@ -41,6 +41,16 @@ For a fresh checkout, install Python 3.11+ and Node.js 24 with npm, then run:
 
 Setup installs the pinned Python dependencies, builds the frontend using its lockfile, applies migrations, creates missing empty definitions, imports the saved research, and collects static files. Repeating it preserves existing ranking edits and existing source notes. If `.node/bin/node` exists, the scripts use that project-local Node installation.
 
+The repository also includes the owner-authorized **5 October cover snapshot**: 6,633 downloaded originals under `media/covers/`, with public book/edition associations, original source fields, credits and SHA-256 checksums in [the catalog media manifest](media/catalog-manifest.json). A normal Git clone retrieves the images. The manifest records 51 unreferenced historical downloads without inventing book matches, and flags 14 known placeholder files (13 catalog associations) separately. Raster validation does not establish edition identity or licensing beyond the recorded source metadata.
+
+This image snapshot does not export accounts, private reading records or the database, and does not automatically populate database image fields. Original media paths and catalog IDs are recorded for reconciliation; a different database must also match book/author identities before applying them. Portraits are not included in this covers-only publication. To refresh the public manifest without changing catalog records or originals:
+
+```bash
+.venv/bin/python manage.py export_catalog_media_manifest --output media/catalog-manifest.json
+```
+
+The command reports missing, corrupt or unsafe references and exits unsuccessfully when the snapshot is incomplete. It can include portraits with `--include-portraits` when deliberately publishing those too. New media remain ignored by default; review and stage only the manifest's image paths for a later publication. The current background enrichment worker does not automatically push future downloads.
+
 This convenience workflow deliberately uses SQLite because Docker is unavailable in the current workspace. PostgreSQL remains the intended shared and hosted database. Moving existing SQLite data to PostgreSQL is a separate data migration; changing a database setting alone does not move your library.
 
 ## Docker with PostgreSQL
