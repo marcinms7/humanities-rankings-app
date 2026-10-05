@@ -19,7 +19,7 @@ import tempfile
 import time
 from email.utils import parsedate_to_datetime
 from urllib.error import HTTPError, URLError
-from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+from urllib.parse import parse_qsl, quote, urlencode, urlsplit, urlunsplit
 from urllib.request import HTTPHandler, HTTPSHandler, HTTPRedirectHandler, ProxyHandler, Request, build_opener
 from urllib.robotparser import RobotFileParser
 
@@ -301,6 +301,13 @@ def fetch_bytes(url, *, provider='', headers=None, allowed_hosts=None, respect_r
     if json_cacheable is not None and (not _json or not callable(json_cacheable)):
         raise ValueError('json_cacheable must be callable and requires a JSON request')
     parts = validate_external_url(url, allowed_hosts)
+    # Publisher HTML legitimately advertises non-ASCII paths. urllib's HTTP
+    # request line is ASCII; encode path/query bytes without double-encoding
+    # existing escapes or changing reserved URL separators. Identity and host
+    # checks still use the original advertised URL.
+    wire_url = urlunsplit((parts.scheme, parts.netloc,
+                          quote(parts.path, safe="/%:@!$&'()*+,;=-._~"),
+                          quote(parts.query, safe="/?%:@!$&'()*+,;=-._~"), ''))
     interval = max(min_interval, _check_robots(url, allowed_hosts) if respect_robots else 0)
     # The completeness policy keeps old unchecked SPARQL caches separate.
     cached = _response_cache_path(url, allowed_hosts, respect_robots, _json, reject_partial_sparql)
@@ -340,7 +347,7 @@ def fetch_bytes(url, *, provider='', headers=None, allowed_hosts=None, respect_r
     opener = build_opener(ProxyHandler({}), _HTTPHandler(), _HTTPSHandler(),
                           _Redirects(allowed_hosts, parts.hostname, respect_robots, min_interval))
     try:
-        with opener.open(Request(url, headers=request_headers), timeout=timeout) as response:
+        with opener.open(Request(wire_url, headers=request_headers), timeout=timeout) as response:
             validate_external_url(response.geturl(), allowed_hosts)
             final_url = public_url(response.geturl())
             blob = response.read(MAX_BYTES + 1)

@@ -99,6 +99,20 @@ class EnrichmentQueueTests(unittest.TestCase):
         self.finish('image_error')
         self.assertLess(self.queue.priority(other), self.queue.priority(ranked))
 
+    def test_zero_cost_provider_retries_follow_fresh_items_and_rotate(self):
+        first = {**self.item, 'priority': 10}
+        older = {**self.item, 'id': 2}
+        fresh = {**self.item, 'id': 3}
+        for item in (first, older, fresh):
+            self.queue.due(item, 'v1')
+        with self.ledger.open('a') as audit:
+            for item, attempted_at in ((older, 1000), (first, 2000)):
+                with patch.object(enrichment.time, 'time', return_value=attempted_at):
+                    self.queue.finish(item, {'work_id': item['id'], 'status': 'provider_deferred',
+                                      'provider_outage': True, 'retry_after': 3000}, audit)
+        self.assertEqual([item['id'] for item in sorted([first, older, fresh], key=self.queue.priority)], [3, 2, 1])
+        self.assertEqual(self.queue.db.execute('SELECT SUM(attempts) FROM attempts').fetchone()[0], 0)
+
     def test_identity_and_edition_inputs_reopen_only_changed_lookup(self):
         item = {**self.item, 'edition_id': 3, 'provider_identifiers': {'openlibrary': ['/works/OL1W']}}
         self.queue.due(item, 'v1')

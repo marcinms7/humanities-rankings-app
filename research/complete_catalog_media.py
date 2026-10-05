@@ -22,6 +22,9 @@ STOP = STATE / 'media-completion.stop'
 PYTHON = str(ROOT / '.venv/bin/python')
 HEARTBEAT = None
 JOBS = [
+    ('catalog-covers', ['research/reuse_catalog_covers.py', '--apply', '--limit', '100'], RUN / 'catalog-covers-stats.json', None),
+    ('reviewed-covers', ['research/enrich_media_alternatives.py', 'reviewed-covers', '--limit', '60'], RUN / 'reviewed-covers-stats.json', RUN / 'reviewed-covers-cooldown.json'),
+    ('wolnelektury-covers', ['research/enrich_media_alternatives.py', 'wolnelektury-covers', '--limit', '30'], RUN / 'wolnelektury-covers-stats.json', RUN / 'wolnelektury-covers-cooldown.json'),
     ('google-covers', ['research/enrich_media_alternatives.py', 'google-covers', '--limit', '20'], RUN / 'google-covers-stats.json', RUN / 'google-covers-cooldown.json'),
     ('openlibrary-portraits', ['research/enrich_media_alternatives.py', 'openlibrary-portraits', '--limit', '60'], RUN / 'openlibrary-portraits-stats.json', RUN / 'openlibrary-portraits-cooldown.json'),
     ('cached-wikidata-portraits', ['research/enrich_media_alternatives.py', 'cached-wikidata-portraits', '--limit', '50'], RUN / 'cached-wikidata-portraits-stats.json', RUN / 'cached-wikidata-portraits-cooldown.json'),
@@ -38,10 +41,32 @@ JOBS = [
        RUN / f'{name}-stats.json', RUN / f'{name}-cooldown.json')
       for name in ('loc-portraits', 'gallica-portraits', 'loc-covers', 'gallica-covers', 'publisher-covers')],
 ]
+# Cover recovery is the owner's current priority. Finish a bounded cover
+# rotation before portrait discovery; neither family bypasses source waits.
+JOBS.sort(key=lambda job: not (job[0] == 'covers' or job[0].endswith('-covers')))
 
 
 def read(path):
     return read_state(path, cooldown=bool(path and 'cooldown' in Path(path).name))
+
+
+def count_additions(state, name, stats):
+    added = stats.get('covered', stats.get('portraits', 0))
+    state['added_this_run'] = state.get('added_this_run', 0) + added
+    if name == 'covers' or name.endswith('-covers'):
+        field = 'covers_saved_this_run'
+    elif name == 'portraits' or name.endswith('-portraits'):
+        field = 'portraits_saved_this_run'
+    else:
+        return
+    state[field] = state.get(field, 0) + added
+
+
+def wake_catalog_reuse(health, selected, source, added):
+    if (added and source != 'catalog-covers' and (source == 'covers' or source.endswith('-covers'))
+            and any(job[0] == 'catalog-covers' for job in selected)
+            and health.get('catalog-covers', {}).get('status') == 'exhausted'):
+        health['catalog-covers'] = {'status': 'ready'}
 
 
 def remaining_report(save=True, health=None):
@@ -141,7 +166,7 @@ def main():
             if progress:
                 state['current_batch'] = progress
                 state['completed_batch_additions'] = state.get('added_this_run', 0)
-                state['added_this_run'] = state['completed_batch_additions'] + progress.get('covered', progress.get('portraits', 0))
+                count_additions(state, state['current_provider'], progress)
                 state.setdefault('providers', {})[state['current_provider']] = progress
         if state.get('status') in {'running', 'backing_up', 'waiting_for_provider'} and not state['process_active']:
             state['status'] = 'not_running'
@@ -184,9 +209,10 @@ def main():
             if health.get(name, {}).get('status') != 'cooldown':
                 health[name] = {'status': 'ready'}
         state = {'pid': os.getpid(), 'started_at': time.time(), 'status': 'backing_up',
-                 'batches': 0, 'added_this_run': 0, 'providers': {}, 'cached_downloads': {}}
+                 'batches': 0, 'added_this_run': 0, 'covers_saved_this_run': 0,
+                 'portraits_saved_this_run': 0, 'providers': {}, 'cached_downloads': {}}
         cached_due = {name: 0 for name, command, *_ in selected
-                      if command[0] == 'research/enrich_media_alternatives.py' and name.endswith('-portraits')}
+                      if command[0] == 'research/enrich_media_alternatives.py'}
         def save():
             state['updated_at'] = time.time()
             state['heartbeat_at'] = state['updated_at']
@@ -205,6 +231,8 @@ def main():
             save()
             return 1
         state.update(remaining_report())
+        state['starting_covers_ready'] = state.get('covers_ready')
+        state['starting_portraits_ready'] = state.get('portraits_ready')
         if state['missing_covers'] + state['missing_portraits'] == 0:
             state['status'] = 'complete'
             save()
@@ -224,10 +252,11 @@ def main():
             state.pop('current_batch_started_at', None)
             state.pop('current_stage', None)
             added = stats.get('covered', 0)
-            state['added_this_run'] += added
+            count_additions(state, name, stats)
             state['batches'] += 1
             if added:
                 scheduling[name] = observe(scheduling.get(name, {}), stats, time.monotonic() - started)
+                wake_catalog_reuse(health, selected, name, added)
                 state.update(remaining_report(health=health))
             if code and not STOP.exists():
                 stats = {**stats, 'worker_failed': True, 'exit_code': code}
@@ -276,7 +305,7 @@ def main():
                 # A recovering provider gets one record, not a full batch of
                 # records that might all be charged for the same outage.
                 actual_command = list(command)
-                if actual_command[0] == 'research/enrich_media_alternatives.py':
+                if actual_command[0] in {'research/enrich_media_alternatives.py', 'research/enrich_catalog_covers_public.py'}:
                     actual_command += ['--max-seconds', str(args.batch_seconds)]
                 if health.get(name, {}).get('status') == 'cooldown' and '--limit' in actual_command:
                     actual_command[actual_command.index('--limit') + 1] = '1'
@@ -286,7 +315,7 @@ def main():
                 if STOP.exists():
                     progress = live_batch_progress(state)
                     partial_added = progress.get('covered', progress.get('portraits', 0))
-                    state['added_this_run'] += partial_added
+                    count_additions(state, name, progress)
                     if partial_added:
                         # A checkpointed success clears the empty streak even
                         # if stop interrupted the rest of the batch. Incomplete
@@ -304,10 +333,11 @@ def main():
                 else:
                     processed = stats.get('processed', 0)
                     added = stats.get('covered', stats.get('portraits', 0))
-                    state['added_this_run'] += added
+                    count_additions(state, name, stats)
                     state['providers'][name] = stats
                     health[name] = outcome(health.get(name, {}), stats, read(cooldown).get('until', 0))
                     scheduling[name] = observe(scheduling.get(name, {}), stats, child_seconds)
+                    wake_catalog_reuse(health, selected, name, added)
                     if name in cached_due and stats.get('cached_waiting'):
                         # A metadata batch can checkpoint ready images before
                         # a later request fails. Its fresh queue deadline

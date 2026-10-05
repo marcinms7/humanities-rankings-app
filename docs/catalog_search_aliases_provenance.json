@@ -1,0 +1,3635 @@
+{
+  "version": 1,
+  "reviewed_at": "2026-10-05",
+  "scope": "Manually reviewed aliases for existing public catalog person and work IDs. Every alias is tied to current person/work identities and explicit saved source or inspected title-page evidence. These are lookup/search aliases only: no catalog merge, ranking change, edition assertion, or generic surname expansion. Only items using these reviewed identities gain changed alias fingerprints.",
+  "people": [
+    {
+      "person_id": 523,
+      "person_name": "Erasmus",
+      "aliases": [
+        "Desiderius Erasmus"
+      ],
+      "catalog_works": [
+        {
+          "id": 675,
+          "title": "Praise of Folly"
+        }
+      ],
+      "reviewed": true,
+      "reason": "The same distinctive work is explicitly attributed to Desiderius Erasmus on its saved title page; no surname-only inference is used.",
+      "evidence": [
+        {
+          "path": "research/catalog/mcevoy-reading-list-01.json",
+          "sha256": "78e1a2bd9e6bef756246a96a1e1bdae898393ce33f66d4a18d068d59d9314830",
+          "url": "https://benjaminmcevoy.com/reading-list/",
+          "evidence": "Saved consulted catalog row praiseoffolly-erasmus identifies the target title and short author name.",
+          "record_key": "praiseoffolly-erasmus"
+        },
+        {
+          "path": "media/covers/2026/09/openlibrary-14912014.jpg",
+          "sha256": "0f5f85ccae07a80f9424d3529a7e39e32825247f71e94c491674537df4c1ef7b",
+          "url": "https://covers.openlibrary.org/b/id/14912014-L.jpg",
+          "evidence": "Visually inspected title page identifies The Praise of Folly by Desiderius Erasmus of Rotterdam.",
+          "source_work_id": 8656,
+          "source_edition_id": 6157
+        }
+      ]
+    },
+    {
+      "person_id": 524,
+      "person_name": "Milton",
+      "aliases": [
+        "John Milton"
+      ],
+      "catalog_works": [
+        {
+          "id": 677,
+          "title": "Areopagitica"
+        }
+      ],
+      "reviewed": true,
+      "reason": "The exact work Areopagitica is present in both reviewed source records, with the latter supplying John Milton. The untitled marbled donor cover was not approved for reuse.",
+      "evidence": [
+        {
+          "path": "research/catalog/mcevoy-reading-list-01.json",
+          "sha256": "78e1a2bd9e6bef756246a96a1e1bdae898393ce33f66d4a18d068d59d9314830",
+          "url": "https://benjaminmcevoy.com/reading-list/",
+          "evidence": "Saved consulted row areopagitica-milton identifies the target title and short author name.",
+          "record_key": "areopagitica-milton"
+        },
+        {
+          "path": "research/catalog/nonfiction-rebalance-01.json",
+          "sha256": "5c5f1b7bc554fa2cc30e718b012bd7c206be296bd4660d6e5f9ab07cb29b2998",
+          "url": "https://www.theguardian.com/books/2017/dec/31/the-100-best-nonfiction-books-of-all-time-the-full-list",
+          "evidence": "Saved consulted Guardian-derived row names Areopagitica and John Milton.",
+          "record_key": "areopagitica-johnmilton"
+        }
+      ]
+    },
+    {
+      "person_id": 861,
+      "person_name": "Petrarch",
+      "aliases": [
+        "Francesco Petrarch",
+        "Francesco Petrarca"
+      ],
+      "catalog_works": [
+        {
+          "id": 1195,
+          "title": "Canzoniere"
+        }
+      ],
+      "reviewed": true,
+      "reason": "The target Canzoniere and pinned donor share this distinctive poetry collection. The inspected cover supplies the Italian name; its existing public catalog association supplies the English rendering. This review concerns person identity and a representative work image, not edition or translation equivalence.",
+      "evidence": [
+        {
+          "path": "media/covers/2026/09/openlibrary-8925437.jpg",
+          "sha256": "b3084d000bf9cff2be8f8b07926d7b19dc529c0ac5715eb8c0f7ad7f81748b86",
+          "url": "https://covers.openlibrary.org/b/id/8925437-L.jpg",
+          "evidence": "Visually inspected cover explicitly names Canzoniere and Francesco Petrarca; pinned catalog donor 2393 credits Francesco Petrarch.",
+          "source_work_id": 2393,
+          "source_edition_id": 5435,
+          "source_record_url": "https://openlibrary.org/works/OL20267865W"
+        }
+      ]
+    },
+    {
+      "person_id": 2208,
+      "person_name": "Augustine",
+      "aliases": [
+        "Saint Augustine"
+      ],
+      "catalog_works": [
+        {
+          "id": 3137,
+          "title": "The City of God"
+        }
+      ],
+      "reviewed": true,
+      "reason": "The same City of God work, its explicit Bishop of Hippo attribution, and the saved source row establish Saint Augustine; the linked Confessions records agree with this identity.",
+      "evidence": [
+        {
+          "path": "research/catalog/mcevoy-reading-list-01.json",
+          "sha256": "78e1a2bd9e6bef756246a96a1e1bdae898393ce33f66d4a18d068d59d9314830",
+          "url": "https://benjaminmcevoy.com/reading-list/",
+          "evidence": "Saved consulted row cityofgod-saintaugustine explicitly identifies City of God by Saint Augustine.",
+          "record_key": "cityofgod-saintaugustine"
+        },
+        {
+          "path": "media/covers/2026/09/openlibrary-13240411_ExDDj32.jpg",
+          "sha256": "a4ee644f77b88befefbfdfeb15af4bb397dbf455b171138f6e10ab54d6d023c8",
+          "url": "https://covers.openlibrary.org/b/id/13240411-L.jpg",
+          "evidence": "Visually inspected City of God cover identifies its author as Bishop of Hippo, Augustine; the author spelling printed on this edition is not added as an alias.",
+          "source_work_id": 666,
+          "source_edition_id": 5880
+        }
+      ]
+    },
+    {
+      "person_id": 3222,
+      "person_name": "Carr",
+      "aliases": [
+        "J. L. Carr"
+      ],
+      "catalog_works": [
+        {
+          "id": 4807,
+          "title": "A Month in the Country"
+        }
+      ],
+      "reviewed": true,
+      "reason": "The exact title is independently credited to J. L. Carr by the saved official Booker page. John Dickson Carr, another catalog surname candidate, is explicitly not this identity.",
+      "evidence": [
+        {
+          "path": "research/reddit-truelit-2024/source-list-reviewed-20260913.json",
+          "sha256": "d1d09bfb922636020359f7c901788e3112422564f09eaf98fc9439a26a6c13ce",
+          "url": "https://www.reddit.com/r/TrueLit/comments/1i5re2u/truelits_2024_top_100_favorite_books/",
+          "evidence": "Reviewed result row 96 names A Month in the Country by J. L. Carr.",
+          "source_rank": 96
+        },
+        {
+          "path": "research/_runs/2026-09-13/supplied-corpus/b57b250be78f1e9e4057fe4297ed4607be9c22129b9de86c452c377367da762d.json",
+          "sha256": "321fa998f9d748c4936e885a375e85b006ae6f6ec6b64248cb73040dce98a938",
+          "url": "https://thebookerprizes.com/the-booker-library/features/full-list-of-booker-prize-winners-shortlisted-and-longlisted-authors",
+          "evidence": "The saved official Booker Prize page explicitly lists A Month in the Country by J. L. Carr (Harvester Press) in 1980."
+        }
+      ]
+    },
+    {
+      "person_id": 3234,
+      "person_name": "Beatty",
+      "aliases": [
+        "Paul Beatty"
+      ],
+      "catalog_works": [
+        {
+          "id": 4820,
+          "title": "The Sellout"
+        }
+      ],
+      "reviewed": true,
+      "reason": "The exact novel title is explicitly attributed to Paul Beatty in the saved source row and its inspected cover.",
+      "evidence": [
+        {
+          "path": "research/new-york-times-best-books-21st-century-2024/source-list-reviewed-20260913.json",
+          "sha256": "eb90cf257ec2b8db4f76a8f0bbd92afbb7edab16a8a92d2d3210d55b39b5b94b",
+          "url": "https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html",
+          "evidence": "Reviewed result row 17 names The Sellout by Paul Beatty; the associated sources ledger records the Northwestern PDF transcription.",
+          "source_rank": 17
+        },
+        {
+          "path": "media/covers/2026/09/openlibrary-7897222.jpg",
+          "sha256": "fb74cd02c628edd3fbdb33e054eb4295a86d313134459d56cff4b7e8d978fade",
+          "url": "https://covers.openlibrary.org/b/id/7897222-L.jpg",
+          "evidence": "Visually inspected cover identifies The Sellout, a novel, and Paul Beatty.",
+          "source_work_id": 6667,
+          "source_edition_id": 5271
+        }
+      ]
+    },
+    {
+      "person_id": 3819,
+      "person_name": "KD Edwards",
+      "aliases": [
+        "K.D. Edwards"
+      ],
+      "catalog_works": [
+        {
+          "id": 5731,
+          "title": "The Tarot Sequence"
+        }
+      ],
+      "reviewed": true,
+      "reason": "This corrects the tokenization of documented initials for the exact same sequence. It does not identify a series with any one volume or invent expanded given names.",
+      "evidence": [
+        {
+          "path": "research/reddit-fantasy-top-novels-2021/source-list-reviewed-20260913.json",
+          "sha256": "0fd9a9d9c5a684d681d9fc9749ed25a36ce3badf89298376f61947fd872cd754",
+          "url": "https://www.reddit.com/r/Fantasy/comments/p1mwnx/the_rfantasy_2021_top_novels_poll_results/",
+          "evidence": "Reviewed result row 144 names The Tarot Sequence by K.D. Edwards.",
+          "source_rank": 144
+        }
+      ]
+    },
+    {
+      "person_id": 3867,
+      "person_name": "Hitler",
+      "aliases": [
+        "Adolf Hitler"
+      ],
+      "catalog_works": [
+        {
+          "id": 5834,
+          "title": "Mein Kampf"
+        }
+      ],
+      "reviewed": true,
+      "reason": "The exact title and explicit complete author attribution in the saved source row identify this person, without inferring identity from surname uniqueness.",
+      "evidence": [
+        {
+          "path": "research/fourchan-lit-top-100-2021/source-list-reviewed-20260913.json",
+          "sha256": "4b9db901dd0b7a90651c6949e97b90c7e87f7f89301612f9204f06081ac49a72",
+          "url": "https://www.listchallenges.com/lits-top-100-books-2021",
+          "evidence": "Reviewed source row 20 explicitly credits Mein Kampf to Adolf Hitler.",
+          "source_rank": 20
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "work_id": 677,
+      "source_work_id": 615,
+      "source_cover": "covers/2026/09/openlibrary-12707922.jpg",
+      "reason": "Inspected image is an untitled marbled binding; no title or complete-work identification is visible, so this donor was not approved for cover reuse."
+    }
+  ],
+  "works": [
+    {
+      "work_id": 8037,
+      "work_title": "Science and Hypothesis (La science et l’hypothèse)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 2725,
+          "name": "Henri Poincaré"
+        }
+      ],
+      "aliases": [
+        "Science and Hypothesis",
+        "La science et l’hypothèse"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/science-books-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "8685606fde38c077ba90f64e401b3999df957c2f4515dc6b161fb39e8100c36b",
+          "record_key": "science-books-all-time-owner-067",
+          "record_title": "Science and Hypothesis (La science et l’hypothèse)",
+          "record_attribution": "Henri Poincaré",
+          "record_form": "Book",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/science-books-all-time/sources.json",
+          "source_ledger_sha256": "fe96a59c09e868bc54d1ed817cc2ec31ba132829d58fa8672a5badc5769bfbdb",
+          "references": [
+            {
+              "source_id": "SCIENCE-S233",
+              "title": "Science and Hypothesis - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Science_and_Hypothesis"
+            },
+            {
+              "source_id": "SCIENCE-S238",
+              "title": "Poincare — MacTutor biography",
+              "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poincare/"
+            },
+            {
+              "source_id": "SCIENCE-S256",
+              "title": "Henri Poincaré (Stanford Encyclopedia of Philosophy)",
+              "url": "https://plato.stanford.edu/entries/poincare/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8046,
+      "work_title": "The Number Sense (La bosse des maths)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5459,
+          "name": "Stanislas Dehaene"
+        }
+      ],
+      "aliases": [
+        "The Number Sense",
+        "La bosse des maths"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/science-books-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "8685606fde38c077ba90f64e401b3999df957c2f4515dc6b161fb39e8100c36b",
+          "record_key": "science-books-all-time-owner-077",
+          "record_title": "The Number Sense (La bosse des maths)",
+          "record_attribution": "Stanislas Dehaene",
+          "record_form": "Book",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/science-books-all-time/sources.json",
+          "source_ledger_sha256": "fe96a59c09e868bc54d1ed817cc2ec31ba132829d58fa8672a5badc5769bfbdb",
+          "references": [
+            {
+              "source_id": "SCIENCE-S266",
+              "title": "Stanislas Dehaene",
+              "url": "https://www.pas.va/en/academicians/ordinary/dehaene.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8100,
+      "work_title": "The Dancing Universe / A dança do universo",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5506,
+          "name": "Marcelo Gleiser"
+        }
+      ],
+      "aliases": [
+        "The Dancing Universe",
+        "A dança do universo"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/science-books-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "8685606fde38c077ba90f64e401b3999df957c2f4515dc6b161fb39e8100c36b",
+          "record_key": "science-books-all-time-owner-134",
+          "record_title": "The Dancing Universe / A dança do universo",
+          "record_attribution": "Marcelo Gleiser",
+          "record_form": "Book",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/science-books-all-time/sources.json",
+          "source_ledger_sha256": "fe96a59c09e868bc54d1ed817cc2ec31ba132829d58fa8672a5badc5769bfbdb",
+          "references": [
+            {
+              "source_id": "SCIENCE-S076",
+              "title": "COMENTÁRIOS SOBRE O LIVRO A DANÇA DO UNIVERSO, DE MARCELO GLEISER",
+              "url": "https://www.ime.usp.br/~vwsetzer/danca-univ.html"
+            },
+            {
+              "source_id": "SCIENCE-S249",
+              "title": "A Dança do Universo - Marcelo Gleiser",
+              "url": "https://www.skoob.com.br/pt/book/5828?title=a-danca-do-universo"
+            },
+            {
+              "source_id": "SCIENCE-S174",
+              "title": "What is Dark Energy? Inside Our Accelerating, Expanding Universe - NASA Science",
+              "url": "https://science.nasa.gov/dark-energy/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8111,
+      "work_title": "The Oracle of Night (O oráculo da noite)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5516,
+          "name": "Sidarta Ribeiro"
+        }
+      ],
+      "aliases": [
+        "The Oracle of Night",
+        "O oráculo da noite"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/science-books-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "8685606fde38c077ba90f64e401b3999df957c2f4515dc6b161fb39e8100c36b",
+          "record_key": "science-books-all-time-owner-145",
+          "record_title": "The Oracle of Night (O oráculo da noite)",
+          "record_attribution": "Sidarta Ribeiro",
+          "record_form": "Book",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/science-books-all-time/sources.json",
+          "source_ledger_sha256": "fe96a59c09e868bc54d1ed817cc2ec31ba132829d58fa8672a5badc5769bfbdb",
+          "references": [
+            {
+              "source_id": "SCIENCE-S131",
+              "title": "THE ORACLE OF NIGHT | Kirkus Reviews",
+              "url": "https://www.kirkusreviews.com/book-reviews/sidarta-ribeiro/the-oracle-of-night/"
+            },
+            {
+              "source_id": "SCIENCE-S189",
+              "title": "Consciousness (Stanford Encyclopedia of Philosophy)",
+              "url": "https://plato.stanford.edu/entries/consciousness/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8122,
+      "work_title": "My Past and Thoughts (Byloe i dumy; also My Past and Reflections)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 3725,
+          "name": "Alexander Herzen"
+        }
+      ],
+      "aliases": [
+        "My Past and Thoughts",
+        "Byloe i dumy",
+        "My Past and Reflections"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-016",
+          "record_title": "My Past and Thoughts (Byloe i dumy; also My Past and Reflections)",
+          "record_attribution": "Alexander Herzen",
+          "record_form": "Autobiography / memoir sequence",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S055",
+              "title": "My Past and Thoughts - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/My_Past_and_Thoughts"
+            },
+            {
+              "source_id": "LIFE-S307",
+              "title": "Herzen: The Hero of Skeptical Idealism | Gary Saul Morson | The New York Review of Books",
+              "url": "https://www.nybooks.com/articles/2016/11/24/alexander-herzen-hero-skeptical-idealism/"
+            },
+            {
+              "source_id": "LIFE-S308",
+              "title": "The Great Amateur | Isaiah Berlin | The New York Review of Books",
+              "url": "https://www.nybooks.com/articles/1968/03/14/the-great-amateur/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8123,
+      "work_title": "Memoirs from Beyond the Grave (Mémoires d'outre-tombe)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5522,
+          "name": "François-René de Chateaubriand"
+        }
+      ],
+      "aliases": [
+        "Memoirs from Beyond the Grave",
+        "Mémoires d'outre-tombe"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-017",
+          "record_title": "Memoirs from Beyond the Grave (Mémoires d'outre-tombe)",
+          "record_attribution": "François-René de Chateaubriand",
+          "record_form": "Autobiography",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S057",
+              "title": "Mémoires d'Outre-Tombe - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/M%C3%A9moires_d%27Outre-Tombe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8141,
+      "work_title": "Memoirs of a Dutiful Daughter (Mémoires d'une jeune fille rangée)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 21,
+          "name": "Simone de Beauvoir"
+        }
+      ],
+      "aliases": [
+        "Memoirs of a Dutiful Daughter",
+        "Mémoires d'une jeune fille rangée"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-040",
+          "record_title": "Memoirs of a Dutiful Daughter (Mémoires d'une jeune fille rangée)",
+          "record_attribution": "Simone de Beauvoir",
+          "record_form": "Autobiography",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S297",
+              "title": "Simone de Beauvoir, Memoirs of a Dutiful Daughter, 1958",
+              "url": "https://arts.unimelb.edu.au/engage/engage-assets/archive/community-education/melbourne-masterclass-10-great-books-2022/simone-de-beauvoir-memoirs-of-a-dutiful-daughter-1958"
+            },
+            {
+              "source_id": "LIFE-S298",
+              "title": "Simone de Beauvoir, Memoirs of a dutiful daughter (Review) | Whispering Gums",
+              "url": "https://whisperinggums.com/2014/08/28/simone-de-beauvoir-memoirs-of-a-dutiful-daughter-review/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8151,
+      "work_title": "Child of the Dark (Quarto de despejo: Diário de uma favelada)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 5537,
+          "name": "Carolina Maria de Jesus"
+        }
+      ],
+      "aliases": [
+        "Child of the Dark",
+        "Quarto de despejo: Diário de uma favelada"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-052",
+          "record_title": "Child of the Dark (Quarto de despejo: Diário de uma favelada)",
+          "record_attribution": "Carolina Maria de Jesus",
+          "record_form": "Published diary",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S133",
+              "title": "Quarto de Despejo – Wikipédia, a enciclopédia livre",
+              "url": "https://pt.wikipedia.org/wiki/Quarto_de_Despejo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8155,
+      "work_title": "The Book of Her Life (Libro de la vida; also The Life of Teresa of Jesus)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5539,
+          "name": "Teresa of Ávila"
+        }
+      ],
+      "aliases": [
+        "The Book of Her Life",
+        "Libro de la vida",
+        "The Life of Teresa of Jesus"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-056",
+          "record_title": "The Book of Her Life (Libro de la vida; also The Life of Teresa of Jesus)",
+          "record_attribution": "Teresa of Ávila",
+          "record_form": "Spiritual autobiography",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S316",
+              "title": "Teresa of Ávila - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
+            },
+            {
+              "source_id": "LIFE-S353",
+              "title": "Work info: Life of St. Teresa of Jesus, of The Order of Our Lady of Carmel - Christian Classics Ethereal Library",
+              "url": "https://www.ccel.org/ccel/teresa/life.html"
+            },
+            {
+              "source_id": "LIFE-S354",
+              "title": "Teresa of Ávila, Life: David Lewis translation, Benedict Zimmerman introduction (1904 edition)",
+              "url": "https://www.ccel.org/ccel/t/teresa/life/cache/life.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8159,
+      "work_title": "The Words (Les Mots)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 789,
+          "name": "Jean-Paul Sartre"
+        }
+      ],
+      "aliases": [
+        "The Words",
+        "Les Mots"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-060",
+          "record_title": "The Words (Les Mots)",
+          "record_attribution": "Jean-Paul Sartre",
+          "record_form": "Childhood autobiography / retrospective self-critique",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S085",
+              "title": "The Words (book) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Words_%28book%29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8160,
+      "work_title": "Memory for Forgetfulness: August, Beirut, 1982 (Dhākira li-l-nisyān)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 3663,
+          "name": "Mahmoud Darwish"
+        }
+      ],
+      "aliases": [
+        "Memory for Forgetfulness: August, Beirut, 1982",
+        "Dhākira li-l-nisyān"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-061",
+          "record_title": "Memory for Forgetfulness: August, Beirut, 1982 (Dhākira li-l-nisyān)",
+          "record_attribution": "Mahmoud Darwish",
+          "record_form": "Autobiographical prose poem / siege memoir",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S101",
+              "title": "Memory for Forgetfulness - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Memory_for_Forgetfulness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8168,
+      "work_title": "The Unwomanly Face of War (U voiny ne zhenskoe litso)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 494,
+          "name": "Svetlana Alexievich"
+        }
+      ],
+      "aliases": [
+        "The Unwomanly Face of War",
+        "U voiny ne zhenskoe litso"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-072",
+          "record_title": "The Unwomanly Face of War (U voiny ne zhenskoe litso)",
+          "record_attribution": "Svetlana Alexievich",
+          "record_form": "Polyphonic oral-history life writing / collective biography",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S279",
+              "title": "Book Review: The Unwomanly Face of War by Svetlana Alexievich – Karissa Reads Books",
+              "url": "https://karissareadsbooks.com/2017/04/14/book-review-the-unwomanly-face-of-war-by-svetlana-alexievich/"
+            },
+            {
+              "source_id": "LIFE-S280",
+              "title": "Book Review – The Unwomanly Face of War by Svetlana Alexievich | Vishy's Blog",
+              "url": "https://vishytheknight.wordpress.com/2021/10/07/book-review-the-unwomanly-face-of-war-by-svetlana-alexievich/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8175,
+      "work_title": "The Diving Bell and the Butterfly (Le Scaphandre et le Papillon)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5550,
+          "name": "Jean-Dominique Bauby"
+        }
+      ],
+      "aliases": [
+        "The Diving Bell and the Butterfly",
+        "Le Scaphandre et le Papillon"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-080",
+          "record_title": "The Diving Bell and the Butterfly (Le Scaphandre et le Papillon)",
+          "record_attribution": "Jean-Dominique Bauby",
+          "record_form": "Disability memoir",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S207",
+              "title": "The Diving Bell and the Butterfly - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Diving_Bell_and_the_Butterfly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8178,
+      "work_title": "An Autobiography: The Story of My Experiments with Truth (Satya na Prayogo)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 1080,
+          "name": "M. K. Gandhi"
+        }
+      ],
+      "aliases": [
+        "An Autobiography: The Story of My Experiments with Truth",
+        "Satya na Prayogo"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-084",
+          "record_title": "An Autobiography: The Story of My Experiments with Truth (Satya na Prayogo)",
+          "record_attribution": "M. K. Gandhi",
+          "record_form": "Spiritual and political autobiography",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S166",
+              "title": "The Story of My Experiments with Truth - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth"
+            },
+            {
+              "source_id": "LIFE-S320",
+              "title": "33 Indian Autobiographies -",
+              "url": "https://himalayanwritingretreat.com/list-of-indian-autobiographies/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8179,
+      "work_title": "The Autobiography of Fukuzawa Yukichi (Fukuō jiden)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 628,
+          "name": "Fukuzawa Yukichi"
+        }
+      ],
+      "aliases": [
+        "The Autobiography of Fukuzawa Yukichi",
+        "Fukuō jiden"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-086",
+          "record_title": "The Autobiography of Fukuzawa Yukichi (Fukuō jiden)",
+          "record_attribution": "Fukuzawa Yukichi",
+          "record_form": "Dictated autobiography",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S033",
+              "title": "福澤諭吉 福翁自伝 福翁自伝",
+              "url": "https://www.aozora.gr.jp/cards/000296/files/1864_61590.html"
+            },
+            {
+              "source_id": "LIFE-S034",
+              "title": "福沢諭吉著『新訂福翁自伝』この書籍はおすすめでしょうか? - Yahoo!知恵袋",
+              "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10319455475"
+            },
+            {
+              "source_id": "LIFE-S035",
+              "title": "福翁自伝 - ここみち読書録",
+              "url": "https://www.cocomichi.club/entry/2021/12/31"
+            },
+            {
+              "source_id": "LIFE-S036",
+              "title": "福翁自伝",
+              "url": "https://www.suda.gr.jp/column/co-090430.html"
+            },
+            {
+              "source_id": "LIFE-S037",
+              "title": "福沢諭吉『福翁自伝』 | 文学どうでしょう",
+              "url": "https://ameblo.jp/classical-literature/entry-11262758206.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8180,
+      "work_title": "Six Chapters from My Life “Downunder” (Ganxiao liu ji; also Six Records of a Cadre School)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 707,
+          "name": "Yang Jiang"
+        }
+      ],
+      "aliases": [
+        "Six Chapters from My Life “Downunder”",
+        "Ganxiao liu ji",
+        "Six Records of a Cadre School"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-087",
+          "record_title": "Six Chapters from My Life “Downunder” (Ganxiao liu ji; also Six Records of a Cadre School)",
+          "record_attribution": "Yang Jiang",
+          "record_form": "Memoir sequence",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S195",
+              "title": "Six Chapters from My Life in the Cadre School - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Six_Chapters_from_My_Life_in_the_Cadre_School"
+            },
+            {
+              "source_id": "LIFE-S197",
+              "title": "Douban reader review: 故人笑比中庭树，一日秋风一日疏 (将饮茶), including discussion of Cadre School",
+              "url": "https://m.douban.com/book/review/9242124/"
+            },
+            {
+              "source_id": "LIFE-S198",
+              "title": "《干校六记（杨绛作品）》电子书在线阅读-杨绛-得到APP",
+              "url": "https://www.dedao.cn/ebook/detail?id=Lk89Yv4kyM12eaG795DmKAponOvLVWvokO3ZzdbYxN84JQR6XgEqBPljrbpzARlB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8182,
+      "work_title": "The Diary of Lady Murasaki (Murasaki Shikibu nikki)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 6,
+          "name": "Murasaki Shikibu"
+        }
+      ],
+      "aliases": [
+        "The Diary of Lady Murasaki",
+        "Murasaki Shikibu nikki"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-089",
+          "record_title": "The Diary of Lady Murasaki (Murasaki Shikibu nikki)",
+          "record_attribution": "Murasaki Shikibu",
+          "record_form": "Published court diary / reflective life writing",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S171",
+              "title": "The Diary of Lady Murasaki - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Diary_of_Lady_Murasaki"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8183,
+      "work_title": "The Kagerō Diary (Kagerō nikki; also The Gossamer Years)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 5552,
+          "name": "The Mother of Michitsuna (Fujiwara no Michitsuna no Haha)"
+        }
+      ],
+      "aliases": [
+        "The Kagerō Diary",
+        "Kagerō nikki",
+        "The Gossamer Years"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-090",
+          "record_title": "The Kagerō Diary (Kagerō nikki; also The Gossamer Years)",
+          "record_attribution": "The Mother of Michitsuna (Fujiwara no Michitsuna no Haha)",
+          "record_form": "Retrospective autobiographical diary",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S172",
+              "title": "Kagerō Nikki - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kager%C5%8D_Nikki"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8184,
+      "work_title": "Something Like an Autobiography (Gama no abura)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5553,
+          "name": "Akira Kurosawa"
+        }
+      ],
+      "aliases": [
+        "Something Like an Autobiography",
+        "Gama no abura"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-091",
+          "record_title": "Something Like an Autobiography (Gama no abura)",
+          "record_attribution": "Akira Kurosawa",
+          "record_form": "Artistic memoir",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S014",
+              "title": "Something Like an Autobiography - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Something_Like_an_Autobiography"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8186,
+      "work_title": "Memories of Prison (Memórias do cárcere)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 981,
+          "name": "Graciliano Ramos"
+        }
+      ],
+      "aliases": [
+        "Memories of Prison",
+        "Memórias do cárcere"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-093",
+          "record_title": "Memories of Prison (Memórias do cárcere)",
+          "record_attribution": "Graciliano Ramos",
+          "record_form": "Prison memoir",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S209",
+              "title": "Memórias do Cárcere (livro) – Wikipédia, a enciclopédia livre",
+              "url": "https://pt.wikipedia.org/wiki/Mem%C3%B3rias_do_C%C3%A1rcere_%28Graciliano_Ramos%29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8188,
+      "work_title": "The Mute's Soliloquy (Nyanyi sunyi seorang bisu)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 45,
+          "name": "Pramoedya Ananta Toer"
+        }
+      ],
+      "aliases": [
+        "The Mute's Soliloquy",
+        "Nyanyi sunyi seorang bisu"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-095",
+          "record_title": "The Mute's Soliloquy (Nyanyi sunyi seorang bisu)",
+          "record_attribution": "Pramoedya Ananta Toer",
+          "record_form": "Prison memoir / unsent letters and reflective life narrative",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S160",
+              "title": "The Mute's Soliloquy by Pramoedya Ananta Toer | Literature and Writing | Research Starters | EBSCOhost",
+              "url": "https://www.ebsco.com/research-starters/literature-and-writing/mutes-soliloquy-pramoedya-ananta-toer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8189,
+      "work_title": "The Prisoner (Suin)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5422,
+          "name": "Hwang Sok-yong"
+        }
+      ],
+      "aliases": [
+        "The Prisoner",
+        "Suin"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-096",
+          "record_title": "The Prisoner (Suin)",
+          "record_attribution": "Hwang Sok-yong",
+          "record_form": "Autobiography",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S131",
+              "title": "Review: Hwang Sok-yong – The Prisoner | London Korean Links",
+              "url": "https://londonkoreanlinks.net/2021/11/09/review-hwang-sok-yong-the-prisoner/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8190,
+      "work_title": "Living to Tell the Tale (Vivir para contarla)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 39,
+          "name": "Gabriel García Márquez"
+        }
+      ],
+      "aliases": [
+        "Living to Tell the Tale",
+        "Vivir para contarla"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-097",
+          "record_title": "Living to Tell the Tale (Vivir para contarla)",
+          "record_attribution": "Gabriel García Márquez",
+          "record_form": "Autobiographical memoir",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S177",
+              "title": "Living to Tell the Tale - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Living_to_Tell_the_Tale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8194,
+      "work_title": "Liliana's Invincible Summer (El invencible verano de Liliana)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5556,
+          "name": "Cristina Rivera Garza"
+        }
+      ],
+      "aliases": [
+        "Liliana's Invincible Summer",
+        "El invencible verano de Liliana"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-102",
+          "record_title": "Liliana's Invincible Summer (El invencible verano de Liliana)",
+          "record_attribution": "Cristina Rivera Garza",
+          "record_form": "Family memoir / documentary biography",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S179",
+              "title": "Liliana's Invincible Summer - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Liliana%27s_Invincible_Summer"
+            },
+            {
+              "source_id": "LIFE-S330",
+              "title": "Cristina Rivera Garza | The Pulitzer Prizes",
+              "url": "https://www.pulitzer.org/winners/cristina-rivera-garza"
+            },
+            {
+              "source_id": "LIFE-S346",
+              "title": "El invencible verano de Liliana | Penguin Libros",
+              "url": "https://www.penguinlibros.com/mx/biografias/248104-libro-el-invencible-verano-de-liliana-9786073804059"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8221,
+      "work_title": "Out of Africa (Den afrikanske farm)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5571,
+          "name": "Karen Blixen (Isak Dinesen)"
+        }
+      ],
+      "aliases": [
+        "Out of Africa",
+        "Den afrikanske farm"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-biography-autobiography-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e027048f4a1594a486b99caaf594f3f789989c952e0c1142196b8e8f75b9b8fd",
+          "record_key": "books-biography-autobiography-all-time-owner-133",
+          "record_title": "Out of Africa (Den afrikanske farm)",
+          "record_attribution": "Karen Blixen (Isak Dinesen)",
+          "record_form": "Colonial and personal memoir",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-biography-autobiography-all-time/sources.json",
+          "source_ledger_sha256": "568dde1066e20b24d763f7b287a557692a8dc932852fee7623727d541947b281",
+          "references": [
+            {
+              "source_id": "LIFE-S266",
+              "title": "Out of Africa - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Out_of_Africa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8281,
+      "work_title": "The Black Spider (Die schwarze Spinne)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 6217,
+          "name": "Jeremias Gotthelf"
+        }
+      ],
+      "aliases": [
+        "The Black Spider",
+        "Die schwarze Spinne"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-045",
+          "record_title": "The Black Spider (Die schwarze Spinne)",
+          "record_attribution": "Jeremias Gotthelf",
+          "record_form": "Novella",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S089",
+              "title": "The Black Spider - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Black_Spider"
+            },
+            {
+              "source_id": "HORROR-S131",
+              "title": "The Black Spider – New York Review Books",
+              "url": "https://www.nyrb.com/products/the-black-spider"
+            },
+            {
+              "source_id": "HORROR-S167",
+              "title": "Horror: 100 Best Books | WWEnd",
+              "url": "https://www.worldswithoutend.com/lists_horror100.asp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8282,
+      "work_title": "Night Pieces (Nachtstücke)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 1184,
+          "name": "E. T. A. Hoffmann"
+        }
+      ],
+      "aliases": [
+        "Night Pieces",
+        "Nachtstücke"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-046",
+          "record_title": "Night Pieces (Nachtstücke)",
+          "record_attribution": "E. T. A. Hoffmann",
+          "record_form": "Author collection",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S285",
+              "title": "Night Pieces - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Night_Pieces"
+            },
+            {
+              "source_id": "HORROR-S284",
+              "title": "Nachtstücke by E. T. A. Hoffmann | Project Gutenberg",
+              "url": "https://www.gutenberg.org/ebooks/6341"
+            },
+            {
+              "source_id": "HORROR-S315",
+              "title": "Sigmund Freud: The Uncanny (1919), English translation",
+              "url": "https://web.mit.edu/allanmc/www/freud1.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8288,
+      "work_title": "Shiki (尸鬼)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 4745,
+          "name": "Fuyumi Ono"
+        }
+      ],
+      "aliases": [
+        "Shiki",
+        "尸鬼"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-052",
+          "record_title": "Shiki (尸鬼)",
+          "record_attribution": "Fuyumi Ono",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S104",
+              "title": "Shiki (novel) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Shiki_%28novel%29"
+            },
+            {
+              "source_id": "HORROR-S151",
+              "title": "ブックオフユーザーが選ぶ「最恐の一冊」 背筋が凍る怖い小説・絵本・漫画 | ブックオフ公式オンラインストア",
+              "url": "https://shopping.bookoff.co.jp/book/feature/scariest"
+            },
+            {
+              "source_id": "HORROR-S008",
+              "title": "最強ホラー小説おすすめランキング20｜最恐のホラーを求めて - 神本を求めて",
+              "url": "https://kodokusyo.hatenablog.com/entry/2025/05/04/030711"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8291,
+      "work_title": "Cursed Bunny (저주토끼)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 2615,
+          "name": "Bora Chung"
+        }
+      ],
+      "aliases": [
+        "Cursed Bunny",
+        "저주토끼"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-055",
+          "record_title": "Cursed Bunny (저주토끼)",
+          "record_attribution": "Bora Chung",
+          "record_form": "Author collection",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S099",
+              "title": "Cursed Bunny - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cursed_Bunny"
+            },
+            {
+              "source_id": "HORROR-S137",
+              "title": "Cursed Bunny | The Booker Prizes",
+              "url": "https://thebookerprizes.com/the-booker-library/books/cursed-bunny"
+            },
+            {
+              "source_id": "HORROR-S010",
+              "title": "“공포 소설 써도 악몽 안 꿔”…부커상 최종 후보 ‘저주토끼’ 작가 정보라｜동아일보",
+              "url": "https://www.donga.com/news/Culture/article/all/20220410/112782387/1"
+            },
+            {
+              "source_id": "HORROR-S199",
+              "title": "Cursed Bunny by Bora Chung : r/horrorlit",
+              "url": "https://www.reddit.com/r/horrorlit/comments/1gqg0h5/cursed_bunny_by_bora_chung/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8292,
+      "work_title": "The Golem (Der Golem)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 6223,
+          "name": "Gustav Meyrink"
+        }
+      ],
+      "aliases": [
+        "The Golem",
+        "Der Golem"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-056",
+          "record_title": "The Golem (Der Golem)",
+          "record_attribution": "Gustav Meyrink",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S092",
+              "title": "The Golem (Meyrink novel) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Golem_%28Meyrink_novel%29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8298,
+      "work_title": "Zan'e (残穢)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 4745,
+          "name": "Fuyumi Ono"
+        }
+      ],
+      "aliases": [
+        "Zan'e",
+        "残穢"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-062",
+          "record_title": "Zan'e (残穢)",
+          "record_attribution": "Fuyumi Ono",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S009",
+              "title": "很有特点一部恐怖小说（残秽）书评",
+              "url": "https://m.douban.com/book/review/7170442/"
+            },
+            {
+              "source_id": "HORROR-S198",
+              "title": "残留在日本土地间的怨念（残秽）书评",
+              "url": "https://m.douban.com/book/review/8455624/"
+            },
+            {
+              "source_id": "HORROR-S150",
+              "title": "ブクログユーザーさんの「やっぱり怖い」ベスト本！ | ブクログ通信",
+              "url": "https://booklog.jp/hon/recommend/booklog-booklist-20220924"
+            },
+            {
+              "source_id": "HORROR-S151",
+              "title": "ブックオフユーザーが選ぶ「最恐の一冊」 背筋が凍る怖い小説・絵本・漫画 | ブックオフ公式オンラインストア",
+              "url": "https://shopping.bookoff.co.jp/book/feature/scariest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8305,
+      "work_title": "The Other Side (Die andere Seite)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 6229,
+          "name": "Alfred Kubin"
+        }
+      ],
+      "aliases": [
+        "The Other Side",
+        "Die andere Seite"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-069",
+          "record_title": "The Other Side (Die andere Seite)",
+          "record_attribution": "Alfred Kubin",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S302",
+              "title": "The Other Side (Kubin novel) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Other_Side_%28Kubin_novel%29"
+            },
+            {
+              "source_id": "HORROR-S295",
+              "title": "oddly weird fiction: The Other Side, by Alfred Kubin -- prepare to be disturbed",
+              "url": "https://www.oddlyweirdfiction.com/2017/07/the-other-side-by-alfred-kubin-prepare.html"
+            },
+            {
+              "source_id": "HORROR-S296",
+              "title": "Review: The Other Side by Alfred Kubin - Andrew Blackman",
+              "url": "https://andrewblackman.net/2024/11/review-the-other-side-by-alfred-kubin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8325,
+      "work_title": "Dark Water (Honogurai mizu no soko kara)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 6235,
+          "name": "Koji Suzuki"
+        }
+      ],
+      "aliases": [
+        "Dark Water",
+        "Honogurai mizu no soko kara"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-089",
+          "record_title": "Dark Water (Honogurai mizu no soko kara)",
+          "record_attribution": "Koji Suzuki",
+          "record_form": "Author collection",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S102",
+              "title": "Dark Water (short story collection) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dark_Water_%28short_story_collection%29"
+            },
+            {
+              "source_id": "HORROR-S151",
+              "title": "ブックオフユーザーが選ぶ「最恐の一冊」 背筋が凍る怖い小説・絵本・漫画 | ブックオフ公式オンラインストア",
+              "url": "https://shopping.bookoff.co.jp/book/feature/scariest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8328,
+      "work_title": "The Iliac Crest (La cresta de Ilión)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5556,
+          "name": "Cristina Rivera Garza"
+        }
+      ],
+      "aliases": [
+        "The Iliac Crest",
+        "La cresta de Ilión"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-092",
+          "record_title": "The Iliac Crest (La cresta de Ilión)",
+          "record_attribution": "Cristina Rivera Garza",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S289",
+              "title": "The Iliac Crest - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Iliac_Crest"
+            },
+            {
+              "source_id": "HORROR-S288",
+              "title": "Cristina Rivera Garza’s <i>The Iliac Crest</i> — Music & Literature",
+              "url": "https://www.musicandliterature.org/reviews/2017/11/13/cristina-rivera-garzas-the-iliac-crest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8331,
+      "work_title": "The Twenty Days of Turin (Le venti giornate di Torino)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 6236,
+          "name": "Giorgio De Maria"
+        }
+      ],
+      "aliases": [
+        "The Twenty Days of Turin",
+        "Le venti giornate di Torino"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-095",
+          "record_title": "The Twenty Days of Turin (Le venti giornate di Torino)",
+          "record_attribution": "Giorgio De Maria",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S194",
+              "title": "Le venti giornate di Torino: l’inquietante romanzo dimenticato di De Maria – Poetarum Silva",
+              "url": "https://poetarumsilva.com/2022/04/22/giorgio-de-maria-le-venti-giornate-di-torino/"
+            },
+            {
+              "source_id": "HORROR-S195",
+              "title": "Le venti giornate di Torino - Giorgio De Maria - Recensioni di QLibri",
+              "url": "https://www.qlibri.it/narrativa-italiana/gialli%2C-thriller%2C-horror/le-venti-giornate-di-torino/"
+            },
+            {
+              "source_id": "HORROR-S007",
+              "title": "My Top 15 International Horror Novels, by Jess Nevins | World Literature Today",
+              "url": "https://www.worldliteraturetoday.org/2024/july/my-top-15-international-horror-novels-jess-nevins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8360,
+      "work_title": "The Black House (Kuroi ie)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 6250,
+          "name": "Yūsuke Kishi"
+        }
+      ],
+      "aliases": [
+        "The Black House",
+        "Kuroi ie"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-124",
+          "record_title": "The Black House (Kuroi ie)",
+          "record_attribution": "Yūsuke Kishi",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S330",
+              "title": "黒い家 - Wikipedia",
+              "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E3%81%84%E5%AE%B6"
+            },
+            {
+              "source_id": "HORROR-S149",
+              "title": "読書好き176人が選ぶ「これぞ最恐っていう本」をランキングにしてみた - 俺だってヒーローになりてえよ",
+              "url": "https://www.orehero.net/entry/besthorror"
+            },
+            {
+              "source_id": "HORROR-S150",
+              "title": "ブクログユーザーさんの「やっぱり怖い」ベスト本！ | ブクログ通信",
+              "url": "https://booklog.jp/hon/recommend/booklog-booklist-20220924"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8362,
+      "work_title": "Whisper (荒聞)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 6252,
+          "name": "Chang Yu-ko (張渝歌)"
+        }
+      ],
+      "aliases": [
+        "Whisper",
+        "荒聞"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-horror-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "e920f2adeca844dcb31da57c396fd19e3e568e80b7ae6f180565a9b40adeb555",
+          "record_key": "books-horror-all-time-owner-126",
+          "record_title": "Whisper (荒聞)",
+          "record_attribution": "Chang Yu-ko (張渝歌)",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-horror-all-time/sources.json",
+          "source_ledger_sha256": "fbb9738575c9eba8c388dd7267fa78ac3eab6cb5952ed22899ab3e0b17e26304",
+          "references": [
+            {
+              "source_id": "HORROR-S061",
+              "title": "‘Whisper’ by Chang Yu-Ko (Review) – Tony's Reading List",
+              "url": "https://tonysreadinglist.wordpress.com/2021/10/20/whisper-by-chang-yu-ko-review/"
+            },
+            {
+              "source_id": "HORROR-S062",
+              "title": "Whisper, by Chang Yu-ko | The Leeds Centre for New Chinese Writing",
+              "url": "https://writingchinese.leeds.ac.uk/book-reviews/whisper-by-chang-yu-ko/"
+            },
+            {
+              "source_id": "HORROR-S063",
+              "title": "\"Whisper\" by Chang Yu-Ko - Asian Review of Books",
+              "url": "https://asianreviewofbooks.com/whisper-by-chang-yu-ko/"
+            },
+            {
+              "source_id": "HORROR-S381",
+              "title": "張渝歌《荒聞》 | 台灣推理作家協會",
+              "url": "https://taiwanmystery.org/portfolio-posts/%E5%BC%B5%E6%B8%9D%E6%AD%8C%E3%80%8A%E8%8D%92%E8%81%9E%E3%80%8B/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8407,
+      "work_title": "Strange Tales from a Chinese Studio (Liaozhai zhiyi / 聊斋志异)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 647,
+          "name": "Pu Songling"
+        }
+      ],
+      "aliases": [
+        "Strange Tales from a Chinese Studio",
+        "Liaozhai zhiyi",
+        "聊斋志异"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-045",
+          "record_title": "Strange Tales from a Chinese Studio (Liaozhai zhiyi / 聊斋志异)",
+          "record_attribution": "Pu Songling",
+          "record_form": "Author collection of several hundred tales; assess the collection rather than one modern translator's selection. Story counts vary by edition.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S050",
+              "title": "Strange Tales from a Chinese Studio - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Strange_Tales_from_a_Chinese_Studio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8415,
+      "work_title": "Moominland Midwinter (Trollvinter)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 4080,
+          "name": "Tove Jansson"
+        }
+      ],
+      "aliases": [
+        "Moominland Midwinter",
+        "Trollvinter"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-061",
+          "record_title": "Moominland Midwinter (Trollvinter)",
+          "record_attribution": "Tove Jansson",
+          "record_form": "Novel; no complete Moomin-series entry and no comic-strip material.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S178",
+              "title": "Moominland Midwinter - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Moominland_Midwinter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8416,
+      "work_title": "The Little Prince (Le Petit Prince)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 255,
+          "name": "Antoine de Saint-Exupéry"
+        }
+      ],
+      "aliases": [
+        "The Little Prince",
+        "Le Petit Prince"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-062",
+          "record_title": "The Little Prince (Le Petit Prince)",
+          "record_attribution": "Antoine de Saint-Exupéry",
+          "record_form": "Illustrated novella; the prose work is ranked, not later graphic adaptations.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S179",
+              "title": "The Little Prince - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Little_Prince"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8417,
+      "work_title": "The Gray House (Дом, в котором…)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5739,
+          "name": "Mariam Petrosyan"
+        }
+      ],
+      "aliases": [
+        "The Gray House",
+        "Дом, в котором…"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-063",
+          "record_title": "The Gray House (Дом, в котором…)",
+          "record_attribution": "Mariam Petrosyan",
+          "record_form": "Novel.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S174",
+              "title": "The Gray House - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Gray_House"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8422,
+      "work_title": "The Golden Pot (Der goldne Topf)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 1184,
+          "name": "E. T. A. Hoffmann"
+        }
+      ],
+      "aliases": [
+        "The Golden Pot",
+        "Der goldne Topf"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-069",
+          "record_title": "The Golden Pot (Der goldne Topf)",
+          "record_attribution": "E. T. A. Hoffmann",
+          "record_form": "Novella in twelve vigils; not a complete Hoffmann collection.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S364",
+              "title": "The Golden Pot - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Golden_Pot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8431,
+      "work_title": "The Twelve Kingdoms: Sea of Shadow (Tsuki no kage, kage no umi / 月の影 影の海)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 4745,
+          "name": "Fuyumi Ono"
+        }
+      ],
+      "aliases": [
+        "The Twelve Kingdoms: Sea of Shadow",
+        "Tsuki no kage, kage no umi",
+        "月の影 影の海"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The full Sea of Shadow title and its explicitly paired Japanese title identify this installment. The Twelve Kingdoms alone is not an alias, so the entire series is not substituted.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-081",
+          "record_title": "The Twelve Kingdoms: Sea of Shadow (Tsuki no kage, kage no umi / 月の影 影の海)",
+          "record_attribution": "Fuyumi Ono",
+          "record_form": "The opening Yoko novel, originally in two Japanese volumes; exclude the rest of The Twelve Kingdoms cycle.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S200",
+              "title": "The Twelve Kingdoms - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Twelve_Kingdoms"
+            },
+            {
+              "source_id": "FANTASY-S037",
+              "title": "〖スタッフ厳選〗絶対に読みたいおすすめファンタジー小説５０選！",
+              "url": "https://www.mottainaihonpo.com/kaitori/contents/cat01/033-fantasynovel-osusume.html"
+            },
+            {
+              "source_id": "FANTASY-S038",
+              "title": "日本人作家のファンタジー小説 - ブクログ談話室",
+              "url": "https://booklog.jp/q/2459"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8432,
+      "work_title": "Moribito: Guardian of the Spirit (Seirei no moribito / 精霊の守り人)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5331,
+          "name": "Nahoko Uehashi"
+        }
+      ],
+      "aliases": [
+        "Moribito: Guardian of the Spirit",
+        "Seirei no moribito",
+        "精霊の守り人"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The full Guardian of the Spirit title and its explicitly paired Japanese title identify this installment. Moribito alone is not an alias, so the entire series is not substituted.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-082",
+          "record_title": "Moribito: Guardian of the Spirit (Seirei no moribito / 精霊の守り人)",
+          "record_attribution": "Nahoko Uehashi",
+          "record_form": "Novel; later Moribito volumes excluded.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S036",
+              "title": "上橋菜穂子「守り人」シリーズ 新潮社特設サイト｜新潮社",
+              "url": "https://www.shinchosha.co.jp/moribito/"
+            },
+            {
+              "source_id": "FANTASY-S040",
+              "title": "すべて - 本の紹介 | 上橋菜穂子 公式サイト",
+              "url": "https://uehashi.com/book/all/"
+            },
+            {
+              "source_id": "FANTASY-S201",
+              "title": "Moribito: Guardian of the Spirit - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Moribito%3A_Guardian_of_the_Spirit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8439,
+      "work_title": "The House of the Spirits (La casa de los espíritus)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 970,
+          "name": "Isabel Allende"
+        }
+      ],
+      "aliases": [
+        "The House of the Spirits",
+        "La casa de los espíritus"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-089",
+          "record_title": "The House of the Spirits (La casa de los espíritus)",
+          "record_attribution": "Isabel Allende",
+          "record_form": "Novel.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S255",
+              "title": "The House of the Spirits - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_House_of_the_Spirits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8445,
+      "work_title": "Ugetsu Monogatari (Tales of Moonlight and Rain / 雨月物語)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 592,
+          "name": "Ueda Akinari"
+        }
+      ],
+      "aliases": [
+        "Ugetsu Monogatari",
+        "Tales of Moonlight and Rain",
+        "雨月物語"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-095",
+          "record_title": "Ugetsu Monogatari (Tales of Moonlight and Rain / 雨月物語)",
+          "record_attribution": "Ueda Akinari",
+          "record_form": "Author collection of nine supernatural tales; exclude Harusame Monogatari.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S063",
+              "title": "Ugetsu Monogatari - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tales_of_Moonlight_and_Rain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8446,
+      "work_title": "Night on the Galactic Railroad (Ginga tetsudō no yoru / 銀河鉄道の夜)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 609,
+          "name": "Kenji Miyazawa"
+        }
+      ],
+      "aliases": [
+        "Night on the Galactic Railroad",
+        "Ginga tetsudō no yoru",
+        "銀河鉄道の夜"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-096",
+          "record_title": "Night on the Galactic Railroad (Ginga tetsudō no yoru / 銀河鉄道の夜)",
+          "record_attribution": "Kenji Miyazawa",
+          "record_form": "Novella; identify the translated textual version where possible.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S064",
+              "title": "Night on the Galactic Railroad - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Night_on_the_Galactic_Railroad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8447,
+      "work_title": "The Blind Owl (Buf-e kur / بوف کور)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5076,
+          "name": "Sadegh Hedayat"
+        }
+      ],
+      "aliases": [
+        "The Blind Owl",
+        "Buf-e kur",
+        "بوف کور"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-097",
+          "record_title": "The Blind Owl (Buf-e kur / بوف کور)",
+          "record_attribution": "Sadegh Hedayat",
+          "record_form": "Novella/short novel; date ambiguity is retained rather than resolved falsely.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S182",
+              "title": "The Blind Owl - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Blind_Owl"
+            },
+            {
+              "source_id": "FANTASY-S360",
+              "title": "BŪF-E KŪR - Encyclopaedia Iranica",
+              "url": "https://www.iranicaonline.org/articles/buf-e-kur-the-blind-owl/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8449,
+      "work_title": "Arabian Nights and Days (Layali alf layla)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 43,
+          "name": "Naguib Mahfouz"
+        }
+      ],
+      "aliases": [
+        "Arabian Nights and Days",
+        "Layali alf layla"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-099",
+          "record_title": "Arabian Nights and Days (Layali alf layla)",
+          "record_attribution": "Naguib Mahfouz",
+          "record_form": "Authored novel using Nights characters; no overlap with the separately defined medieval Nights text.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S183",
+              "title": "Arabian Nights and Days - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Arabian_Nights_and_Days"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8464,
+      "work_title": "The Brothers Lionheart (Bröderna Lejonhjärta)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 299,
+          "name": "Astrid Lindgren"
+        }
+      ],
+      "aliases": [
+        "The Brothers Lionheart",
+        "Bröderna Lejonhjärta"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-118",
+          "record_title": "The Brothers Lionheart (Bröderna Lejonhjärta)",
+          "record_attribution": "Astrid Lindgren",
+          "record_form": "Novel.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S366",
+              "title": "The Brothers Lionheart - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Brothers_Lionheart"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8475,
+      "work_title": "Where the Wild Ladies Are (Obachan-tachi no iru tokoro / おばちゃんたちのいるところ)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 5761,
+          "name": "Aoko Matsuda"
+        }
+      ],
+      "aliases": [
+        "Where the Wild Ladies Are",
+        "Obachan-tachi no iru tokoro",
+        "おばちゃんたちのいるところ"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-137",
+          "record_title": "Where the Wild Ladies Are (Obachan-tachi no iru tokoro / おばちゃんたちのいるところ)",
+          "record_attribution": "Aoko Matsuda",
+          "record_form": "Connected author collection of seventeen stories.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S281",
+              "title": "Where the Wild Ladies Are — Soft Skull Press",
+              "url": "https://softskull.com/books/where-the-wild-ladies-are/"
+            },
+            {
+              "source_id": "FANTASY-S282",
+              "title": "Where the Wild Ladies Are – Matsuda Aoko | Full Stop",
+              "url": "https://www.full-stop.net/2020/06/26/reviews/julia-irion-martins/where-the-wild-ladies-are-matsuda-aoko/"
+            },
+            {
+              "source_id": "FANTASY-S283",
+              "title": "Book Review: Where The Wild Ladies Are by Aoko Matsuda, translated by Polly Barton | The Feminist Bibliothecary",
+              "url": "https://thefeministbibliothecary.wordpress.com/2024/07/27/book-review-where-the-wild-ladies-are-by-aoko-matsuda-translated-by-polly-barton/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8476,
+      "work_title": "Cursed Bunny (저주토끼)",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 2615,
+          "name": "Bora Chung"
+        }
+      ],
+      "aliases": [
+        "Cursed Bunny",
+        "저주토끼"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-138",
+          "record_title": "Cursed Bunny (저주토끼)",
+          "record_attribution": "Bora Chung",
+          "record_form": "Author collection of ten stories; mixed fantasy, horror and science fiction. The collection is judged as a whole, with its supernatural and impossible-body stories central to inclusion.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S119",
+              "title": "CURSED BUNNY | Kirkus Reviews",
+              "url": "https://www.kirkusreviews.com/book-reviews/bora-chung/cursed-bunny-chung/"
+            },
+            {
+              "source_id": "FANTASY-S120",
+              "title": "Cursed Bunny - National Book Foundation",
+              "url": "https://www.nationalbook.org/books/cursed-bunny/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8477,
+      "work_title": "The City of Dreaming Books (Die Stadt der Träumenden Bücher)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 3826,
+          "name": "Walter Moers"
+        }
+      ],
+      "aliases": [
+        "The City of Dreaming Books",
+        "Die Stadt der Träumenden Bücher"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-139",
+          "record_title": "The City of Dreaming Books (Die Stadt der Träumenden Bücher)",
+          "record_attribution": "Walter Moers",
+          "record_form": "Novel, with the author's illustrations; later Bookholm/Zamonia books and graphic adaptations excluded.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S253",
+              "title": "The City of Dreaming Books - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_City_of_Dreaming_Books"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8478,
+      "work_title": "Brave Story (ブレイブ・ストーリー)",
+      "form": "book",
+      "authors": [
+        {
+          "id": 4402,
+          "name": "Miyuki Miyabe"
+        }
+      ],
+      "aliases": [
+        "Brave Story",
+        "ブレイブ・ストーリー"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-fantasy-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "3dae917152ae21f1e9b24c86929b66e0cc5cf33db4572fa068bf4f7319108148",
+          "record_key": "books-fantasy-all-time-owner-140",
+          "record_title": "Brave Story (ブレイブ・ストーリー)",
+          "record_attribution": "Miyuki Miyabe",
+          "record_form": "Prose novel, originally issued in two book volumes; manga and film excluded.",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-fantasy-all-time/sources.json",
+          "source_ledger_sha256": "bb59b4b959c4624cfc353ee7346e6d5e6589e8b0435ddc10b628365e0974ac49",
+          "references": [
+            {
+              "source_id": "FANTASY-S203",
+              "title": "Brave Story - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Brave_Story"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8492,
+      "work_title": "The Stars My Destination / Tiger! Tiger!",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5770,
+          "name": "Alfred Bester"
+        }
+      ],
+      "aliases": [
+        "The Stars My Destination",
+        "Tiger! Tiger!"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-017",
+          "record_title": "The Stars My Destination / Tiger! Tiger!",
+          "record_attribution": "Alfred Bester",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S025",
+              "title": "SFE: Bester, Alfred",
+              "url": "https://sf-encyclopedia.com/entry/bester_alfred"
+            },
+            {
+              "source_id": "SF-S016",
+              "title": "〖10/15〆切〗2025オールタイム・ベストSFアンケート実施中！｜Hayakawa Books & Magazines（β）",
+              "url": "https://www.hayakawabooks.com/n/n1761af76b5bf"
+            },
+            {
+              "source_id": "SF-S145",
+              "title": "Las cinco mejores novelas de Ciencia Ficción | Escuela Da Vinci | Buenos Aires, Argentina",
+              "url": "https://davinci.edu.ar/noticias/detalle/las-mejores-novelas-de-ciencia-ficcion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8501,
+      "work_title": "Cosmicomics / Le cosmicomiche",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 67,
+          "name": "Italo Calvino"
+        }
+      ],
+      "aliases": [
+        "Cosmicomics",
+        "Le cosmicomiche"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-040",
+          "record_title": "Cosmicomics / Le cosmicomiche",
+          "record_attribution": "Italo Calvino",
+          "record_form": "Author collection",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S185",
+              "title": "Cosmicomics - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cosmicomics"
+            },
+            {
+              "source_id": "SF-S277",
+              "title": "Recent Reads: Cosmicomics by Italo Calvino | Kaggsy's Bookish Ramblings",
+              "url": "https://kaggsysbookishramblings.wordpress.com/2012/08/05/recent-reads-cosmicomics-by-italo-calvino/"
+            },
+            {
+              "source_id": "SF-S281",
+              "title": "SFE: Calvino, Italo",
+              "url": "https://sf-encyclopedia.com/entry/calvino_italo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8505,
+      "work_title": "The Membranes / Mo",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5776,
+          "name": "Chi Ta-wei"
+        }
+      ],
+      "aliases": [
+        "The Membranes",
+        "Mo"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-050",
+          "record_title": "The Membranes / Mo",
+          "record_attribution": "Chi Ta-wei",
+          "record_form": "Novella / short novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S131",
+              "title": "The Membranes | Columbia University Press",
+              "url": "https://cup.columbia.edu/book/the-membranes/9780231195713"
+            },
+            {
+              "source_id": "SF-S164",
+              "title": "SFE: Chi Ta-wei",
+              "url": "https://sf-encyclopedia.com/entry/chi_ta-wei"
+            },
+            {
+              "source_id": "SF-S056",
+              "title": "The Best Chinese Science Fiction - Five Books Expert Recommendations",
+              "url": "https://fivebooks.com/best-books/the-best-chinese-science-fiction-mingwei-song/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8507,
+      "work_title": "War with the Newts / Válka s mloky",
+      "form": "book",
+      "authors": [
+        {
+          "id": 2321,
+          "name": "Karel Čapek"
+        }
+      ],
+      "aliases": [
+        "War with the Newts",
+        "Válka s mloky"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-054",
+          "record_title": "War with the Newts / Válka s mloky",
+          "record_attribution": "Karel Čapek",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S159",
+              "title": "SFE: Čapek, Karel",
+              "url": "https://sf-encyclopedia.com/entry/capek_karel"
+            },
+            {
+              "source_id": "SF-S184",
+              "title": "War with the Newts - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/War_with_the_Newts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8513,
+      "work_title": "The Memory Police / Hisoyaka na kesshō",
+      "form": "book",
+      "authors": [
+        {
+          "id": 616,
+          "name": "Yōko Ogawa"
+        }
+      ],
+      "aliases": [
+        "The Memory Police",
+        "Hisoyaka na kesshō"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-060",
+          "record_title": "The Memory Police / Hisoyaka na kesshō",
+          "record_attribution": "Yōko Ogawa",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S161",
+              "title": "SFE: Ogawa Yōko",
+              "url": "https://sf-encyclopedia.com/entry/ogawa_yoko"
+            },
+            {
+              "source_id": "SF-S284",
+              "title": "Review: The Memory Police by Yōko Ogawa – Thoughts on Papyrus",
+              "url": "https://thoughtsonpapyrus.com/2019/10/27/review-the-memory-police-by-yoko-ogawa/"
+            },
+            {
+              "source_id": "SF-S285",
+              "title": "Reading guide: The Memory Police by Yoko Ogawa, translated by Stephen Snyder | The Booker Prizes",
+              "url": "https://thebookerprizes.com/the-booker-library/features/reading-guide-the-memory-police-by-yoko-ogawa-translated-by-stephen-snyder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8519,
+      "work_title": "Inter Ice Age 4 / Dai-yon kanpyōki",
+      "form": "book",
+      "authors": [
+        {
+          "id": 583,
+          "name": "Kōbō Abe"
+        }
+      ],
+      "aliases": [
+        "Inter Ice Age 4",
+        "Dai-yon kanpyōki"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-067",
+          "record_title": "Inter Ice Age 4 / Dai-yon kanpyōki",
+          "record_attribution": "Kōbō Abe",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S160",
+              "title": "SFE: Abe Kōbō",
+              "url": "https://sf-encyclopedia.com/entry/abe_kobo"
+            },
+            {
+              "source_id": "SF-S031",
+              "title": "SFE: Japan",
+              "url": "https://sf-encyclopedia.com/entry/japan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8520,
+      "work_title": "At the End of an Endless Stream / Hateshinaki nagare no hate ni",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5782,
+          "name": "Sakyō Komatsu"
+        }
+      ],
+      "aliases": [
+        "At the End of an Endless Stream",
+        "Hateshinaki nagare no hate ni"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-070",
+          "record_title": "At the End of an Endless Stream / Hateshinaki nagare no hate ni",
+          "record_attribution": "Sakyō Komatsu",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S045",
+              "title": "SFE: Komatsu Sakyō",
+              "url": "https://sf-encyclopedia.com/entry/komatsu_sakyo"
+            },
+            {
+              "source_id": "SF-S016",
+              "title": "〖10/15〆切〗2025オールタイム・ベストSFアンケート実施中！｜Hayakawa Books & Magazines（β）",
+              "url": "https://www.hayakawabooks.com/n/n1761af76b5bf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8521,
+      "work_title": "Twenty Thousand Leagues Under the Seas / Vingt mille lieues sous les mers",
+      "form": "book",
+      "authors": [
+        {
+          "id": 256,
+          "name": "Jules Verne"
+        }
+      ],
+      "aliases": [
+        "Twenty Thousand Leagues Under the Seas",
+        "Vingt mille lieues sous les mers"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-071",
+          "record_title": "Twenty Thousand Leagues Under the Seas / Vingt mille lieues sous les mers",
+          "record_attribution": "Jules Verne",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S129",
+              "title": "SFE: Verne, Jules",
+              "url": "https://sf-encyclopedia.com/entry/verne_jules"
+            },
+            {
+              "source_id": "SF-S004",
+              "title": "NPR's Top 100 Science Fiction and Fantasy Novels | WIRED",
+              "url": "https://www.wired.com/2011/08/nprs-top-100-science-fiction-and-fantasy-novels"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8525,
+      "work_title": "The Sea and Summer / Drowning Towers",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5785,
+          "name": "George Turner"
+        }
+      ],
+      "aliases": [
+        "The Sea and Summer",
+        "Drowning Towers"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-077",
+          "record_title": "The Sea and Summer / Drowning Towers",
+          "record_attribution": "George Turner",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S195",
+              "title": "The Sea and Summer - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Sea_and_Summer"
+            },
+            {
+              "source_id": "SF-S280",
+              "title": "SFE: Turner, George",
+              "url": "https://sf-encyclopedia.com/entry/turner_george"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8540,
+      "work_title": "I Who Have Never Known Men / Moi qui n'ai pas connu les hommes",
+      "form": "book",
+      "authors": [
+        {
+          "id": 3856,
+          "name": "Jacqueline Harpman"
+        }
+      ],
+      "aliases": [
+        "I Who Have Never Known Men",
+        "Moi qui n'ai pas connu les hommes"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-096",
+          "record_title": "I Who Have Never Known Men / Moi qui n'ai pas connu les hommes",
+          "record_attribution": "Jacqueline Harpman",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S074",
+              "title": "SFE: Harpman, Jacqueline",
+              "url": "https://sf-encyclopedia.com/entry/harpman_jacqueline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8541,
+      "work_title": "The Glass Bees / Gläserne Bienen",
+      "form": "book",
+      "authors": [
+        {
+          "id": 1188,
+          "name": "Ernst Jünger"
+        }
+      ],
+      "aliases": [
+        "The Glass Bees",
+        "Gläserne Bienen"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-097",
+          "record_title": "The Glass Bees / Gläserne Bienen",
+          "record_attribution": "Ernst Jünger",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S138",
+              "title": "The Glass Bees – New York Review Books",
+              "url": "https://www.nyrb.com/products/the-glass-bees"
+            },
+            {
+              "source_id": "SF-S199",
+              "title": "The Glass Bees - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Glass_Bees"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8560,
+      "work_title": "Tower / Tawo",
+      "form": "collection",
+      "authors": [
+        {
+          "id": 5799,
+          "name": "Bae Myung-hoon"
+        }
+      ],
+      "aliases": [
+        "Tower",
+        "Tawo"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-124",
+          "record_title": "Tower / Tawo",
+          "record_attribution": "Bae Myung-hoon",
+          "record_form": "Linked author collection: six stories",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S203",
+              "title": "배명훈 《타워》",
+              "url": "https://brunch.co.kr/@kosinski/1582"
+            },
+            {
+              "source_id": "SF-S204",
+              "title": "[배명훈] L씨에게 창작지원 받았어요~",
+              "url": "https://cine21.com/news/view/?mag_id=57152"
+            },
+            {
+              "source_id": "SF-S205",
+              "title": "2408m의 647층 꼭대기에 인간애가 있을 줄이야! — OhmyNews review of Tower",
+              "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001166070"
+            },
+            {
+              "source_id": "SF-S231",
+              "title": "Review: Launch Something! by Bae Myung-Hoon – Speculative Fiction in Translation",
+              "url": "https://www.sfintranslation.com/?p=13314"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8562,
+      "work_title": "A Thousand Blues / Cheon gae-ui parang",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5801,
+          "name": "Cheon Seon-ran"
+        }
+      ],
+      "aliases": [
+        "A Thousand Blues",
+        "Cheon gae-ui parang"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-126",
+          "record_title": "A Thousand Blues / Cheon gae-ui parang",
+          "record_attribution": "Cheon Seon-ran",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S152",
+              "title": "[서평] 천 개의 파랑",
+              "url": "https://brunch.co.kr/@jinmin111/236"
+            },
+            {
+              "source_id": "SF-S153",
+              "title": "서평. 천 개의 파랑, 천선란",
+              "url": "https://brunch.co.kr/@thechameleon/52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8564,
+      "work_title": "Japan Sinks / Nihon chinbotsu",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5782,
+          "name": "Sakyō Komatsu"
+        }
+      ],
+      "aliases": [
+        "Japan Sinks",
+        "Nihon chinbotsu"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-128",
+          "record_title": "Japan Sinks / Nihon chinbotsu",
+          "record_attribution": "Sakyō Komatsu",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S045",
+              "title": "SFE: Komatsu Sakyō",
+              "url": "https://sf-encyclopedia.com/entry/komatsu_sakyo"
+            },
+            {
+              "source_id": "SF-S031",
+              "title": "SFE: Japan",
+              "url": "https://sf-encyclopedia.com/entry/japan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8566,
+      "work_title": "Cat Country / Maocheng ji",
+      "form": "book",
+      "authors": [
+        {
+          "id": 662,
+          "name": "Lao She"
+        }
+      ],
+      "aliases": [
+        "Cat Country",
+        "Maocheng ji"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-131",
+          "record_title": "Cat Country / Maocheng ji",
+          "record_attribution": "Lao She",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S003",
+              "title": "SFE: China",
+              "url": "https://sf-encyclopedia.com/entry/china"
+            },
+            {
+              "source_id": "SF-S056",
+              "title": "The Best Chinese Science Fiction - Five Books Expert Recommendations",
+              "url": "https://fivebooks.com/best-books/the-best-chinese-science-fiction-mingwei-song/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8567,
+      "work_title": "Waste Tide / Huang chao",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5803,
+          "name": "Chen Qiufan"
+        }
+      ],
+      "aliases": [
+        "Waste Tide",
+        "Huang chao"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-132",
+          "record_title": "Waste Tide / Huang chao",
+          "record_attribution": "Chen Qiufan",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S239",
+              "title": "Waste Tide - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Waste_Tide"
+            },
+            {
+              "source_id": "SF-S292",
+              "title": "BOOK REVIEW: Waste Tide, by Chen Qiufan – At Boundary's Edge",
+              "url": "https://atboundarysedge.com/2019/10/18/book-review-waste-tide-by-chen-qiufan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8568,
+      "work_title": "Hospital / Yiyuan",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5804,
+          "name": "Han Song"
+        }
+      ],
+      "aliases": [
+        "Hospital",
+        "Yiyuan"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-133",
+          "record_title": "Hospital / Yiyuan",
+          "record_attribution": "Han Song",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S224",
+              "title": "Hospital - Han Song",
+              "url": "https://www.complete-review.com/reviews/trscifi/han_song.htm"
+            },
+            {
+              "source_id": "SF-S056",
+              "title": "The Best Chinese Science Fiction - Five Books Expert Recommendations",
+              "url": "https://fivebooks.com/best-books/the-best-chinese-science-fiction-mingwei-song/"
+            },
+            {
+              "source_id": "SF-S215",
+              "title": "Fear of Seeing | Columbia University Press",
+              "url": "https://cup.columbia.edu/book/fear-of-seeing/9780231204439/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8569,
+      "work_title": "The Queue / Al-Tabour",
+      "form": "book",
+      "authors": [
+        {
+          "id": 3712,
+          "name": "Basma Abdel Aziz"
+        }
+      ],
+      "aliases": [
+        "The Queue",
+        "Al-Tabour"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-134",
+          "record_title": "The Queue / Al-Tabour",
+          "record_attribution": "Basma Abdel Aziz",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S238",
+              "title": "The Queue (Abdel Aziz novel) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Queue_(Abdel_Aziz_novel"
+            },
+            {
+              "source_id": "SF-S210",
+              "title": "» Book of the month: Basma Abdel Aziz A year of reading the world",
+              "url": "https://ayearofreadingtheworld.com/2018/04/24/book-of-the-month-basma-abdel-aziz/"
+            },
+            {
+              "source_id": "SF-S221",
+              "title": "Review: The Queue by Basma Abdel Aziz – Speculative Fiction in Translation",
+              "url": "https://www.sfintranslation.com/?p=713"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8570,
+      "work_title": "The Year 200 / El año 200",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5805,
+          "name": "Agustín de Rojas"
+        }
+      ],
+      "aliases": [
+        "The Year 200",
+        "El año 200"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-136",
+          "record_title": "The Year 200 / El año 200",
+          "record_attribution": "Agustín de Rojas",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S237",
+              "title": "REVIEW: The Year 200 by Agustín de Rojas – Speculative Fiction in Translation",
+              "url": "https://www.sfintranslation.com/?p=449"
+            },
+            {
+              "source_id": "SF-S242",
+              "title": "The Year 200 — Restless Books",
+              "url": "https://restlessbooks.org/bookstore/the-year-200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8571,
+      "work_title": "The Carpet Makers / Die Haarteppichknüpfer",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5806,
+          "name": "Andreas Eschbach"
+        }
+      ],
+      "aliases": [
+        "The Carpet Makers",
+        "Die Haarteppichknüpfer"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-137",
+          "record_title": "The Carpet Makers / Die Haarteppichknüpfer",
+          "record_attribution": "Andreas Eschbach",
+          "record_form": "Linked-story novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S252",
+              "title": "SFE: Eschbach, Andreas",
+              "url": "https://sf-encyclopedia.com/entry/eschbach_andreas"
+            },
+            {
+              "source_id": "SF-S200",
+              "title": "Die 100 besten Science-Fiction-Bücher aller Zeiten | Tor Online",
+              "url": "https://www.tor-online.de/magazin/science-fiction/die-100-besten-science-fiction-buecher-aller-zeiten"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8573,
+      "work_title": "The Employees / De ansatte",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5807,
+          "name": "Olga Ravn"
+        }
+      ],
+      "aliases": [
+        "The Employees",
+        "De ansatte"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-139",
+          "record_title": "The Employees / De ansatte",
+          "record_attribution": "Olga Ravn",
+          "record_form": "Experimental short novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S241",
+              "title": "The Employees - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/The_Employees"
+            },
+            {
+              "source_id": "SF-S150",
+              "title": "50 лучших научно-фантастических книг всех времён — по версии издания Esquire | Новости | Мир фантастики и фэнтези",
+              "url": "https://www.mirf.ru/news/50-luchshih-nauchno-fantasticheskih-romanov-vseh-vremyon-po-versii-izdaniya-esquire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8574,
+      "work_title": "Planet of the Apes / La Planète des singes",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5808,
+          "name": "Pierre Boulle"
+        }
+      ],
+      "aliases": [
+        "Planet of the Apes",
+        "La Planète des singes"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-140",
+          "record_title": "Planet of the Apes / La Planète des singes",
+          "record_attribution": "Pierre Boulle",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S262",
+              "title": "Planet of the Apes (novel) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(novel"
+            },
+            {
+              "source_id": "SF-S219",
+              "title": "Building a SciFi/Fantasy Library - discussions: Books Voted Most Necessary for a Basic Science-Fiction Library Showing 1-27 of 27",
+              "url": "https://www.goodreads.com/topic/show/728376-books-voted-most-necessary-for-a-basic-science-fiction-library"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8582,
+      "work_title": "The City Inside / Chosen Spirits",
+      "form": "book",
+      "authors": [
+        {
+          "id": 5812,
+          "name": "Samit Basu"
+        }
+      ],
+      "aliases": [
+        "The City Inside",
+        "Chosen Spirits"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The preserved report explicitly pairs these translated or alternate titles for the same work and author. The aliases retain the work’s complete scope; they do not identify a series with one volume, an adaptation, or a selected excerpt.",
+      "evidence": [
+        {
+          "path": "research/books-science-fiction-all-time/owner-chat-catalog-2026-09-14.json",
+          "sha256": "481afe7737e6c35d197221fe4847059182ac3f055e327ed14e3d1e91cd9b070b",
+          "record_key": "books-science-fiction-all-time-owner-150",
+          "record_title": "The City Inside / Chosen Spirits",
+          "record_attribution": "Samit Basu",
+          "record_form": "Novel",
+          "evidence": "The saved report explicitly presents these names together as alternative titles of this work. Each alias was selected individually; scope descriptors were not discarded.",
+          "source_ledger_path": "research/books-science-fiction-all-time/sources.json",
+          "source_ledger_sha256": "63ea7582e30f856123be2a9e1a93639da114bfcf4b10a2432d60da5bdb610a0c",
+          "references": [
+            {
+              "source_id": "SF-S250",
+              "title": "SFE: Basu, Samit",
+              "url": "https://sf-encyclopedia.com/entry/basu_samit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work_id": 8791,
+      "work_title": "The Real Story of Ah-Q and Other Tales of China: The Complete Fiction of Lu Xun",
+      "form": "book",
+      "authors": [
+        {
+          "id": 642,
+          "name": "Lu Xun"
+        }
+      ],
+      "aliases": [
+        "The Real Story of Ah-Q and Other Tales of China"
+      ],
+      "reviewed_at": "2026-10-05",
+      "reviewed": true,
+      "reason": "The shortened publisher title still identifies the complete fiction collection; Other Tales of China is retained. Neither Ah-Q alone nor the separate novella is an alias.",
+      "evidence": [
+        {
+          "path": "research/incoming/literature-all-time/2026-09-27-owner-docx-updates/literary-fiction-ranking.json",
+          "sha256": "48465ac21a084bc8bde803bfb26a005423444ca360264829c2dfd993e6f644a9",
+          "record_key": "N260927-AS-I01",
+          "url": "https://www.penguin.co.uk/books/35612/the-real-story-of-ah-q-and-other-tales-of-china-by-xun-lu/9780140455489",
+          "evidence": "The saved publisher identity record verifies this Penguin collection contains all of Lu Xun’s stories and names Julia Lovell as translator; the linked publisher title retains Other Tales of China. The isolated Ah-Q novella is explicitly excluded."
+        }
+      ]
+    }
+  ],
+  "work_alias_scope": "Manually reviewed exact alternate titles for the same complete catalog work, from preserved owner-supplied report records and their saved source ledgers. Supporting URLs retain that saved provenance; they were not newly fetched for this alias pass. No generic punctuation, subtitle, selection, series or volume stripping is enabled. Canonical titles, authors, rankings, and edition metadata remain unchanged.",
+  "work_alias_exclusions": [
+    {
+      "work_id": 8153,
+      "title": "Journey into the Whirlwind (Krutoi marshrut, first volume)",
+      "reason": "First-volume scope must not be dropped."
+    },
+    {
+      "work_id": 8433,
+      "title": "The Beast Player (Kemono no sōja / 獣の奏者): the first two volumes",
+      "reason": "The target is the first two volumes; no single-volume or unqualified series alias was added."
+    },
+    {
+      "work_id": 8576,
+      "title": "The Murderbot Diaries: opening quartet",
+      "reason": "The target is the opening quartet; neither the whole series nor its first novella is an equivalent alias."
+    },
+    {
+      "work_id": 8792,
+      "title": "Love in a Fallen City (six-story collection)",
+      "reason": "The six-story collection must remain distinct from its title story."
+    }
+  ]
+}

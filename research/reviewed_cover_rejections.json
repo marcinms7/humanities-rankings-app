@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "reviewed_on": "2026-10-05",
+  "rejections": [
+    {
+      "work_id": 8288,
+      "title": "Shiki (尸鬼)",
+      "authors": [
+        "Fuyumi Ono"
+      ],
+      "image_sha256": "f778e4af8775ecd13b5b4f62e8c91a66944fdf003afae5d9531a45ce79d93e3f",
+      "reason": "Visually reviewed: cover explicitly says upper/first volume; a verified complete-novel or complete-set image is required.",
+      "source_url": "https://openlibrary.org/works/OL9001022W",
+      "automatic_hold": true
+    },
+    {
+      "work_id": 8328,
+      "title": "The Iliac Crest (La cresta de Ilión)",
+      "authors": [
+        "Cristina Rivera Garza"
+      ],
+      "image_sha256": "4f56b9728ec88d32ecd506df36296ef0b5d1bcb993c36e6085742357bbf5c173",
+      "reason": "Visually reviewed: image is The Milk of Almonds, an unrelated book.",
+      "source_url": "https://openlibrary.org/works/OL19721926W"
+    }
+  ]
+}

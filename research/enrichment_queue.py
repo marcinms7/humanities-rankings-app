@@ -180,9 +180,22 @@ class Queue:
                 (row[2] == 'retryable' and row[1] < MAX_ATTEMPTS and row[3] <= time.time()))
 
     def priority(self, item):
-        row = self.db.execute('SELECT attempts FROM attempts WHERE work_id=?', (item['id'],)).fetchone()
+        row = self.db.execute('SELECT attempts,state,result FROM attempts WHERE work_id=?', (item['id'],)).fetchone()
         priority = item.get('priority', item.get('ranked', item.get('shared_priority', 0)))
-        return (row[0] if row else 0, -int(priority or 0), item['id'])
+        # Provider outages intentionally do not spend the item attempt budget.
+        # Consequently attempts=0 cannot distinguish a fresh item from a book
+        # that failed on every recovery probe. Fresh work goes first; among
+        # outage retries, rotate by last attempt instead of pinning the same ID.
+        last_attempt = 0
+        if row and row[1] == 'provider_wait':
+            try:
+                saved = json.loads(row[2])
+                value = saved.get('attempted_at', 0)
+                last_attempt = value if type(value) in (int, float) and math.isfinite(value) else 0
+            except (TypeError, ValueError):
+                pass
+        return (bool(row and row[1] != 'pending'), row[0] if row else 0,
+                last_attempt, -int(priority or 0), item['id'])
 
     def finish(self, item, result, audit):
         self.inspected_ids.add(item['id'])

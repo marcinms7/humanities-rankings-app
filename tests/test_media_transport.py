@@ -97,6 +97,15 @@ class MediaTransportTests(unittest.TestCase):
         self.assertEqual(transport.fetch_json('https://example.org/data'), {'value': 42})
         self.assertEqual(self.opener.open.call_count, 1)
 
+    def test_publisher_unicode_paths_are_encoded_without_changing_url_semantics(self):
+        url = 'https://example.org/kitap_detay_sayfaları/a%20b.jpg?name=Łąka&size=200'
+        expected = 'https://example.org/kitap_detay_sayfalar%C4%B1/a%20b.jpg?name=%C5%81%C4%85ka&size=200'
+        self.response(b'image', final=expected)
+        self.assertEqual(transport.fetch_bytes(url, allowed_hosts={'example.org'}), b'image')
+        self.assertEqual(self.opener.open.call_args.args[0].full_url, expected)
+        self.opener.open.side_effect = AssertionError('Second request should use the safe cached response')
+        self.assertEqual(transport.fetch_bytes(url, allowed_hosts={'example.org'}), b'image')
+
     def test_provider_interval_applies_to_requests_and_redirects(self):
         self.response(b'public')
         with patch.object(transport, '_throttle') as throttle:

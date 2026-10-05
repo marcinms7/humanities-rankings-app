@@ -1,6 +1,7 @@
 """Credited media providers with durable verified candidates and safe fallbacks."""
 from __future__ import annotations
 import argparse
+import hashlib
 import html
 import io
 import json
@@ -16,12 +17,14 @@ sys.path.insert(0, str(ROOT))
 from research.enrichment_queue import Queue, exclusive, rotate
 from research.operational_state import atomic_state, read_state
 from research.media_matching import same_title, same_author, match_item_title, match_item_author, MATCHER_VERSION
+from research.media_cover_rejections import reject_reviewed_cover, requires_scope_review
 from research.media_transport import CandidateRejected, CandidateStore, ProviderOutage, fetch_json, fetch_bytes, public_candidate, public_text, public_url, OPENLIBRARY_IMAGE_HOSTS
 from research.media_wikimedia import WIKIMEDIA_IMAGE_HOSTS, WIKIMEDIA_IMAGE_POLICY
+from research.media_image_quality import reject_known_placeholder, needs_cover, replacement_receipt, lookup_due
 from PIL import Image
 
 RUN = ROOT / 'research/_runs/media-completion'
-PROVIDERS = ['google-covers', 'wikipedia-covers', 'openlibrary-portraits', 'linked-wikidata-portraits',
+PROVIDERS = ['google-covers', 'wikipedia-covers', 'reviewed-covers', 'wolnelektury-covers', 'openlibrary-portraits', 'linked-wikidata-portraits',
              'dbpedia-portraits', 'gnd-portraits', 'rijksmuseum-portraits', 'cached-wikidata-portraits',
              'wellcome-portraits', 'nobel-portraits',
              'loc-covers', 'loc-portraits', 'gallica-covers', 'gallica-portraits', 'publisher-covers']
@@ -33,6 +36,7 @@ def fetch(url, image=False, **kwargs):
 
 
 def validate_image(blob):
+    reject_known_placeholder(blob)
     try:
         with Image.open(io.BytesIO(blob)) as picture:
             if (min(picture.size) < 80 or max(picture.size) / min(picture.size) > 5
@@ -216,7 +220,7 @@ def openlibrary_portrait_candidates(item):
             for photo in photos[:8]]
 
 
-def download_candidates(candidates, diagnostics=None):
+def download_candidates(candidates, diagnostics=None, *, item=None, reviewed=False):
     if diagnostics is not None:
         diagnostics['candidate_count'] = min(len(candidates), 16)
         diagnostics['candidate_rejections'] = []
@@ -231,6 +235,10 @@ def download_candidates(candidates, diagnostics=None):
                          allowed_hosts=candidate.get('allowed_image_hosts'),
                          respect_robots=candidate.get('image_respect_robots', False))
             extension = validate_image(blob)
+            if candidate.get('expected_sha256') and hashlib.sha256(blob).hexdigest() != candidate['expected_sha256']:
+                raise CandidateRejected('Reviewed image bytes changed; requires another identity review')
+            if item is not None:
+                reject_reviewed_cover(item, blob, reviewed=reviewed)
         except CandidateRejected as error:
             if diagnostics is not None:
                 diagnostics['candidate_rejections'].append(public_text(str(error))[:200])
@@ -255,11 +263,11 @@ def download_candidates(candidates, diagnostics=None):
 
 
 def google_cover(item):
-    return download_candidates(google_candidates(item))
+    return download_candidates(google_candidates(item), item=item)
 
 
 def wikipedia_cover(item):
-    return download_candidates(wikipedia_candidates(item))
+    return download_candidates(wikipedia_candidates(item), item=item)
 
 
 def openlibrary_portrait(item):
@@ -267,6 +275,14 @@ def openlibrary_portrait(item):
 
 
 def provider_candidates(item, provider):
+    if provider.endswith('-covers') and provider != 'reviewed-covers' and requires_scope_review(item):
+        raise CandidateRejected('Work scope requires a reviewed complete-work cover')
+    if provider == 'wolnelektury-covers':
+        from research.media_wolnelektury_covers import candidates
+        return candidates(item)
+    if provider == 'reviewed-covers':
+        from research.media_reviewed_covers import candidates
+        return candidates(item)
     if provider == 'cached-wikidata-portraits':
         from research.media_cached_wikidata_portraits import candidates
         return candidates(item)
@@ -433,6 +449,9 @@ def cached_retry_state(queue, positive):
 
 
 def cached_match(item, provider, diagnostics=None, *, cached_only=False):
+    is_cover = provider.endswith('-covers')
+    if is_cover and provider != 'reviewed-covers' and requires_scope_review(item):
+        raise CandidateRejected('Work scope requires a reviewed complete-work cover')
     candidates = item.get('_cached_candidates')
     if candidates is None:
         candidates = stored_candidates(item, provider, migrate=True)
@@ -442,7 +461,8 @@ def cached_match(item, provider, diagnostics=None, *, cached_only=False):
         candidates = provider_candidates(item, provider)
         candidates = CandidateStore(provider, version=provider_policy(provider)).put(item, candidates)
     try:
-        return download_candidates(candidates, diagnostics=diagnostics)
+        return download_candidates(candidates, diagnostics=diagnostics, item=item if is_cover else None,
+                                   reviewed=provider == 'reviewed-covers')
     except ProviderOutage as error:
         raise ImageProviderOutage(error.reason, retry_after=error.retry_after,
                                   status=error.status, outage_type=error.outage_type) from error
@@ -450,6 +470,12 @@ def cached_match(item, provider, diagnostics=None, *, cached_only=False):
 
 def provider_policy(provider):
     suffix = ':archive-storage-v1' if provider == 'openlibrary-portraits' else ''
+    if provider == 'wolnelektury-covers':
+        from research.media_wolnelektury_covers import POLICY_VERSION
+        suffix += ':' + POLICY_VERSION
+    if provider == 'reviewed-covers':
+        from research.media_reviewed_covers import POLICY_VERSION
+        suffix += ':' + POLICY_VERSION
     if provider == 'openlibrary-portraits':
         from research.media_portrait_bibliography import POLICY_VERSION
         suffix += ':' + POLICY_VERSION
@@ -473,10 +499,12 @@ def image_credit(match):
 
 
 def save_match(kind, item, match):
+    extension = validate_image(match['blob'])
+    if kind.endswith('-covers'):
+        reject_reviewed_cover(item, match['blob'], reviewed=kind in {'reviewed-covers', 'catalog-covers'})
     from django.core.files.base import ContentFile
     from django.db import transaction
     from backend.core.models import Work, Edition, Person
-    extension = validate_image(match['blob'])
     with transaction.atomic():
         if kind.endswith('-covers'):
             work = Work.objects.select_for_update().get(pk=item['id'])
@@ -485,7 +513,8 @@ def save_match(kind, item, match):
                     or ('edition_id' in item and work.default_edition_id != item['edition_id'])):
                 return 'identity_review_changed_during_lookup'
             edition = Edition.objects.select_for_update().get(pk=work.default_edition_id) if work.default_edition_id else None
-            if edition and edition.cover:
+            replaced = replacement_receipt(edition, item) if edition and edition.cover else None
+            if edition and edition.cover and not replaced:
                 return 'preserved_existing'
             if edition and (edition.is_archived or edition.work_id != work.pk):
                 return 'identity_review_archived_edition'
@@ -494,11 +523,18 @@ def save_match(kind, item, match):
                     translation_notes='Representative work image; exact edition and language require verification.')
                 work.default_edition = edition
                 work.save(update_fields=['default_edition', 'updated_at'])
-            edition.cover.save(f'{kind}-{item["id"]}.{extension}', ContentFile(match['blob']), save=False)
+            filename = f'{kind}-{item["id"]}.{extension}'
+            if replaced:
+                from uuid import uuid4
+                filename = f'placeholder-replacement-{uuid4().hex}-{filename}'
+            edition.cover.save(filename, ContentFile(match['blob']), save=False)
             edition.cover_source_url = public_url(match.get('source', match.get('source_url', '')))
-            edition.cover_basis = 'representative_work'
+            edition.cover_basis = ('unknown' if kind == 'catalog-covers' and match.get('cover_basis') == 'unknown'
+                                   else 'representative_work')
             edition.image_attribution = image_credit(match)
             edition.save(update_fields=['cover', 'cover_source_url', 'cover_basis', 'image_attribution', 'updated_at'])
+            if replaced:
+                match['replaced_placeholder'] = replaced
         else:
             person = Person.objects.select_for_update().get(pk=item['id'])
             current_works = sorted(person.works.filter(is_archived=False).values_list('title', flat=True))
@@ -553,6 +589,7 @@ def main():
     parser.add_argument('--max-seconds', type=int, default=0,
                         help='Yield after finishing the current record when this soft time budget expires; 0 disables it.')
     parser.add_argument('--person-id', type=int, help='Limit a portrait validation batch to one catalog person.')
+    parser.add_argument('--work-id', type=int, help='Limit a cover validation batch to one catalog work.')
     parser.add_argument('--cached-only', action='store_true',
                         help='Download due verified cached images only; never discover new candidates.')
     args = parser.parse_args()
@@ -560,6 +597,8 @@ def main():
         parser.error('--max-seconds must be zero or positive.')
     if args.person_id and args.provider.endswith('-covers'):
         parser.error('--person-id applies only to portrait providers.')
+    if args.work_id and not args.provider.endswith('-covers'):
+        parser.error('--work-id applies only to cover providers.')
     RUN.mkdir(parents=True, exist_ok=True)
     stats_path = RUN / f'{args.provider}{"-cached" if args.cached_only else ""}-stats.json'
     cooldown = RUN / f'{args.provider}-cooldown.json'
@@ -593,8 +632,10 @@ def main():
         records = records.annotate(shared_priority=Count('rankingentry', filter=Q(
             rankingentry__is_archived=False, rankingentry__ranking__is_archived=False,
             rankingentry__ranking__owner__isnull=True), distinct=True)).order_by('-shared_priority', 'pk')
+        if args.work_id:
+            records = records.filter(pk=args.work_id)
         items = [cover_lookup_item(work, known_aliases) for work in records
-                 if not work.default_edition or not work.default_edition.cover]
+                 if needs_cover(work)]
     else:
         records = Person.objects.filter(is_archived=False, portrait='').prefetch_related(
             Prefetch('works', queryset=Work.objects.select_related('default_edition'))).annotate(
@@ -616,8 +657,32 @@ def main():
                 linked.append(item)
         # Missing cache evidence is pending discovery, never a terminal miss.
         items = linked
+    if args.provider == 'reviewed-covers':
+        from research.media_reviewed_covers import prepare_items
+        items = prepare_items(items)
+    if args.provider == 'wolnelektury-covers' and not args.cached_only:
+        from research.media_wolnelektury_covers import prepare_items
+        try:
+            applicable = prepare_items(items)
+        except ProviderOutage as error:
+            # Bulk discovery has not completed: consume no book attempts and
+            # leave previously checkpointed images for the cached-only pass.
+            atomic_state(cooldown, {'until': error.retry_after, **error.state_fields()})
+            atomic_state(stats_path, {**stats, 'queued': 0, 'provider_outage': True,
+                'provider_errors': 1, 'retry_after': error.retry_after, **error.state_fields()})
+            queue.close()
+            return
+        stats['not_applicable'] = len(items) - len(applicable)
+        items = applicable
+    if args.provider == 'publisher-covers':
+        from research.media_library_sources import publisher_eligible
+        applicable = [item for item in items if publisher_eligible(item)]
+        stats['not_applicable'] = len(items) - len(applicable)
+        items = applicable
+        if not items:
+            stats['provider_reason'] = 'No catalog item has an eligible publisher source URL.'
     positive = positive_candidates(items, args.provider, migrate=True)
-    items = [item for item in items if queue.due(item, provider_policy(args.provider))]
+    items = [item for item in items if lookup_due(queue, item, provider_policy(args.provider))]
     items = prioritize_candidates(items, args.provider, queue, cached_only=args.cached_only, positive=positive)
     if args.limit:
         items = items[:args.limit]

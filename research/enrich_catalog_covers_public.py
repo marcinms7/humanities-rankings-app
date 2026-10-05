@@ -15,7 +15,8 @@ import json
 import os
 import re
 import sys
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 from pathlib import Path
 from urllib.parse import urlencode, quote, urlsplit
 from PIL import Image
@@ -25,6 +26,9 @@ from research.enrichment_queue import Queue, exclusive, rotate, records
 from research.media_matching import (MATCHER_VERSION, norm, words, words_in_order,
                                     same_title, same_author, match_item_title, match_item_author)
 from research.media_transport import CandidateRejected, ProviderOutage, fetch_json, fetch_bytes
+from research.media_cover_rejections import reject_reviewed_cover, requires_scope_review
+from research.media_image_quality import (reject_known_placeholder, placeholder_reference,
+                                         needs_cover, replacement_receipt, lookup_due)
 from research.operational_state import atomic_state
 RUN = ROOT / "research" / "_runs" / "2026-09-13" / "catalog-public-cover-fallback"
 CACHE = RUN / "outcomes.jsonl"
@@ -41,6 +45,7 @@ def read_json(url: str, params: dict, timeout: int = 15) -> dict:
 def read_image(url: str) -> bytes:
     provider = 'internet_archive' if urlsplit(url).hostname == 'archive.org' else 'openlibrary'
     data = fetch_bytes(url, provider=provider, timeout=20)
+    reject_known_placeholder(data)
     try:
         with Image.open(io.BytesIO(data)) as picture:
             if picture.format not in {'JPEG', 'PNG', 'WEBP'}:
@@ -114,7 +119,7 @@ def cover_lookup_item(work, aliases=None) -> dict:
     editions = sorted(editions, key=lambda edition: (edition.pk != work.default_edition_id, edition.pk))
     identifiers = edition_identifiers(editions)
     default = work.default_edition
-    return {'id': work.pk, 'title': work.title, 'display_title': work.title,
+    item = {'id': work.pk, 'title': work.title, 'display_title': work.title,
             'authors': [person.name for person in authors], 'year': work.original_year,
             'edition_id': work.default_edition_id, 'isbn': valid_isbn(default.isbn) if default else '',
             'provider_identifiers': identifiers, 'isbns': identifiers['isbn'],
@@ -125,6 +130,10 @@ def cover_lookup_item(work, aliases=None) -> dict:
             'title_aliases': aliases.get('works', {}).get(str(work.pk), []),
             'author_aliases': list(dict.fromkeys(alias for person in authors
                  for alias in aliases.get('people', {}).get(str(person.pk), [])))}
+    placeholder = placeholder_reference(default.cover) if default and getattr(default, 'cover', None) else None
+    if placeholder:
+        item['placeholder_replacement'] = placeholder
+    return item
 
 
 def _positive_covers(values):
@@ -207,7 +216,7 @@ def _candidate_images(candidates):
                 yield {**candidate, 'cover_id': cover}
 
 
-def _download_openlibrary(candidates, attempted):
+def _download_openlibrary(candidates, attempted, *, item=None):
     for candidate in _candidate_images(candidates):
         if candidate['cover_id'] in attempted:
             continue
@@ -216,6 +225,8 @@ def _download_openlibrary(candidates, attempted):
         attempted.add(candidate['cover_id'])
         try:
             image = read_image(f"https://covers.openlibrary.org/b/id/{candidate['cover_id']}-L.jpg?default=false")
+            if item is not None:
+                reject_reviewed_cover(item, image)
         except CandidateRejected:
             continue  # A bad individual cover must not hide the next safe one.
         return {**{key: value for key, value in candidate.items() if key != 'linked_editions'}, 'image': image}
@@ -254,7 +265,7 @@ def _openlibrary(item: dict) -> tuple[dict | None, str | None]:
     attempted = set()
     identifiers = item.get('provider_identifiers', {})
     for key in identifiers.get('openlibrary', [])[:6]:
-        result = _download_openlibrary(_verified_record(item, key), attempted)
+        result = _download_openlibrary(_verified_record(item, key), attempted, item=item)
         if result:
             return result, None
     for isbn in identifiers.get('isbn', [])[:3]:
@@ -264,7 +275,7 @@ def _openlibrary(item: dict) -> tuple[dict | None, str | None]:
             record = read_json('https://openlibrary.org/isbn/' + isbn + '.json', {})
         except CandidateRejected:
             continue
-        result = _download_openlibrary(_record_candidates(item, record, record.get('key', ''), isbn=isbn), attempted)
+        result = _download_openlibrary(_record_candidates(item, record, record.get('key', ''), isbn=isbn), attempted, item=item)
         if result:
             return result, None
     matches, seen_keys = [], set()
@@ -309,7 +320,7 @@ def _openlibrary(item: dict) -> tuple[dict | None, str | None]:
                    'year': doc.get('first_publish_year'), 'edition_count': doc.get('edition_count')}
                   for cover in _positive_covers([doc.get('cover_i')])]
     candidates.append({'provider': 'openlibrary', 'source_key': doc['key'], 'linked_editions': True})
-    result = _download_openlibrary(candidates, attempted)
+    result = _download_openlibrary(candidates, attempted, item=item)
     return (result, None) if result else (None, 'openlibrary_no_usable_image')
 
 
@@ -343,6 +354,7 @@ def _internet_archive(item: dict) -> tuple[dict | None, str | None]:
         identifier = doc['identifier']
         try:
             image = read_image('https://archive.org/services/img/' + quote(identifier, safe=''))
+            reject_reviewed_cover(item, image)
         except CandidateRejected:
             continue
         return {'provider': 'internet_archive', 'image': image, 'identifier': identifier}, None
@@ -350,6 +362,8 @@ def _internet_archive(item: dict) -> tuple[dict | None, str | None]:
 
 
 def lookup(item: dict, skip_internet_archive: bool, skip_openlibrary: bool) -> tuple[dict | None, str | None]:
+    if requires_scope_review(item):
+        return None, 'identity_review_complete_work_scope'
     if not item['authors']:
         return None, 'no_credited_author'
     if skip_openlibrary:
@@ -406,10 +420,67 @@ def completed_except_transient() -> set[int]:
     return {pk for pk, status in latest.items() if "error" not in status}
 
 
+def completed_lookups(items, *, workers, skip_internet_archive=False,
+                      skip_openlibrary=False, deadline=None):
+    """Yield only attempted lookups, finishing active calls after a soft deadline.
+
+    Keep at most one task per worker in flight. Check again in the worker so a
+    task submitted just before the deadline cannot start a later lookup after
+    waiting for thread scheduling. Unstarted tasks have no outcome or attempt.
+    """
+    skipped = object()
+
+    def expired():
+        return deadline is not None and time.monotonic() >= deadline
+
+    def run(item):
+        if expired():
+            return skipped
+        return lookup(item, skip_internet_archive, skip_openlibrary)
+
+    items = iter(items)
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        pending = {}
+        exhausted = False
+        while pending or not exhausted:
+            while not exhausted and len(pending) < workers and not expired():
+                try:
+                    item = next(items)
+                except StopIteration:
+                    exhausted = True
+                    break
+                pending[pool.submit(run, item)] = item
+            if not pending:
+                break
+            done, _ = wait(pending, return_when=FIRST_COMPLETED)
+            for future in done:
+                item = pending.pop(future)
+                if future.cancelled():
+                    continue
+                if future.exception() is None and future.result() is skipped:
+                    continue
+                yield item, future
+
+
+def completed_lookup_result(item, future):
+    """Recheck current reviewed exclusions immediately before saving a result."""
+    try:
+        match, reason = future.result()
+        if match is not None:
+            reject_reviewed_cover(item, match['image'])
+        return match, reason
+    except CandidateRejected as error:
+        return None, f'no_safe_cover_reviewed_rejection: {str(error)[:150]}'
+    except Exception as error:
+        return None, f'worker_error: {str(error)[:150]}'
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=60)
     parser.add_argument("--workers", type=int, default=12)
+    parser.add_argument('--max-seconds', type=int, default=0,
+                        help='Stop starting lookups after this soft time budget; finish active lookups safely. 0 disables it.')
     parser.add_argument("--skip-internet-archive", action="store_true")
     parser.add_argument("--skip-openlibrary", action="store_true")
     parser.add_argument("--retry-openlibrary-no-safe", action="store_true")
@@ -425,6 +496,11 @@ def main() -> None:
     parser.add_argument("--forms", default="", help="Comma-separated Work forms to include")
     parser.add_argument('--summary-file', type=Path)
     args = parser.parse_args()
+    if args.max_seconds < 0:
+        parser.error('--max-seconds must be zero or positive.')
+    if args.workers < 1:
+        parser.error('--workers must be positive.')
+    deadline = time.monotonic() + args.max_seconds if args.max_seconds else None
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "backend.config.settings")
     import django
     django.setup()
@@ -457,7 +533,7 @@ def main() -> None:
     if args.ranking_slug:
         queryset = queryset.filter(rankingentry__ranking__slug=args.ranking_slug, rankingentry__is_archived=False).distinct()
     for work in queryset:
-        if work.default_edition_id and work.default_edition and work.default_edition.cover:
+        if not needs_cover(work):
             continue
         author_names = [person.name for person in work.authors.all()]
         if args.title_only_fallback and (norm(work.title) in person_name_titles or any(norm(name) in catalogue_titles for name in author_names)):
@@ -477,22 +553,28 @@ def main() -> None:
                          (args.retry_openlibrary_no_safe and 'openlibrary_no_safe_cover' in saved[1])))
             if not retry:
                 continue
-        if queue.due(item, policy, retry=retry):
+        if lookup_due(queue, item, policy, retry=retry):
             candidates.append(item)
     candidates.sort(key=queue.priority)
     if args.limit:
         candidates = candidates[:args.limit]
     stats = {"queued": len(candidates), "covered": 0, 'processed': 0}
     failures = []
-    with CACHE.open("a") as output, ThreadPoolExecutor(max_workers=args.workers) as pool:
-        futures = {pool.submit(lookup, item, args.skip_internet_archive, args.skip_openlibrary): item for item in candidates}
-        for future in as_completed(futures):
-            item = futures[future]
+    def checkpoint_stats():
+        # Expose already committed saves during long batches and safe stops;
+        # the immutable per-item ledger remains the recovery authority.
+        progress = {**stats, 'provider_errors': queue.batch_errors, **outage_summary(failures),
+                    **queue.summary()}
+        atomic_state(RUN / 'latest-stats.json', progress)
+        if args.summary_file:
+            atomic_state(args.summary_file, progress)
+    checkpoint_stats()
+    with CACHE.open("a") as output:
+        for item, future in completed_lookups(candidates, workers=args.workers,
+                skip_internet_archive=args.skip_internet_archive,
+                skip_openlibrary=args.skip_openlibrary, deadline=deadline):
             record = {"work_id": item["id"], "title": item.get("display_title", item["title"]), "lookup_title": item["title"], "authors": item["authors"]}
-            try:
-                match, reason = future.result()
-            except Exception as error:
-                match, reason = None, f"worker_error: {str(error)[:150]}"
+            match, reason = completed_lookup_result(item, future)
             if reason:
                 record["status"] = reason
                 if item.get('_provider_outage'):
@@ -509,17 +591,21 @@ def main() -> None:
                         record['status'] = 'identity_review_changed_during_lookup'
                         queue.finish(item, record, output)
                         stats['processed'] += 1
+                        checkpoint_stats()
                         continue
                     edition = Edition.objects.select_for_update().get(pk=work.default_edition_id) if work.default_edition_id else None
                     if edition and (edition.is_archived or edition.work_id != work.pk):
                         record['status'] = 'identity_review_archived_edition'
                         queue.finish(item, record, output)
                         stats['processed'] += 1
+                        checkpoint_stats()
                         continue
-                    if edition and edition.cover:
+                    replaced = replacement_receipt(edition, item) if edition and edition.cover else None
+                    if edition and edition.cover and not replaced:
                         record['status'] = 'preserved_existing'
                         queue.finish(item, record, output)
                         stats['processed'] += 1
+                        checkpoint_stats()
                         continue
                     created = edition is None
                     if created:
@@ -538,17 +624,26 @@ def main() -> None:
                         filename = f"internet-archive-{match['identifier']}.jpg"
                     if changed:
                         work.save(update_fields=[*changed, "updated_at"])
+                    if replaced:
+                        from uuid import uuid4
+                        filename = f'placeholder-replacement-{uuid4().hex}.jpg'
                     edition.cover.save(filename, ContentFile(match["image"]), save=False)
                     edition.image_attribution = attribution
                     edition.cover_basis = 'representative_work'
                     edition.save(update_fields=["cover", "cover_source_url", "cover_basis", "image_attribution", "updated_at"])
+                    if replaced:
+                        record['replaced_placeholder'] = replaced
                 record.update(status="covered", provider=match["provider"], edition_id=edition.pk)
                 record.update({key: value for key, value in match.items() if key not in {"image", "sentence"}})
                 stats["covered"] += 1
             queue.finish(item, record, output)
             stats['processed'] += 1
+            checkpoint_stats()
             print(f"[{record['work_id']}] {record['status']} — {record['title']}", flush=True)
     stats['provider_errors'] = queue.batch_errors
+    stats['unstarted'] = len(candidates) - stats['processed']
+    stats['budget_exhausted'] = bool(stats['unstarted'] and deadline is not None
+                                     and time.monotonic() >= deadline)
     stats.update(outage_summary(failures))
     stats.update(queue.summary())
     queue.close()

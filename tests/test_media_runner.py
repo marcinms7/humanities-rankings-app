@@ -9,6 +9,15 @@ from research import complete_catalog_media as runner
 
 
 class MediaRunnerTests(unittest.TestCase):
+    def test_cover_and_portrait_saves_are_counted_separately(self):
+        state = {'added_this_run': 0}
+        runner.count_additions(state, 'reviewed-covers', {'covered': 5})
+        runner.count_additions(state, 'catalog-covers', {'covered': 2})
+        runner.count_additions(state, 'covers', {'covered': 1})
+        runner.count_additions(state, 'portraits', {'portraits': 10})
+        runner.count_additions(state, 'openlibrary-portraits', {'covered': 4})
+        self.assertEqual(state, {'added_this_run': 22, 'covers_saved_this_run': 8, 'portraits_saved_this_run': 14})
+
     def test_stop_clears_sampling_only_for_a_checkpointed_partial_success(self):
         old = {'empty_records': 100, 'empty_seconds': 60, 'sample_after': 900}
         for saved in (0, 1):

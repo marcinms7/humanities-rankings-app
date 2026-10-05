@@ -1,4 +1,5 @@
 import io
+import hashlib
 import json
 import os
 from pathlib import Path
@@ -19,6 +20,19 @@ def image_bytes(format='PNG'):
 
 
 class AlternativeMediaTests(unittest.TestCase):
+    def test_changed_reviewed_image_is_rejected_before_trying_next_candidate(self):
+        blob = image_bytes()
+        diagnostics = {}
+        candidates = [
+            {'image_url': 'https://example.org/changed.png', 'expected_sha256': '0' * 64},
+            {'image_url': 'https://example.org/verified.png', 'expected_sha256': hashlib.sha256(blob).hexdigest()},
+        ]
+        with patch.object(media, 'fetch', return_value=blob):
+            result = media.download_candidates(candidates, diagnostics)
+        self.assertEqual(result['image_url'], candidates[1]['image_url'])
+        self.assertEqual(len(diagnostics['candidate_rejections']), 1)
+        self.assertIn('requires another identity review', diagnostics['candidate_rejections'][0])
+
     def test_google_rejects_wrong_author_and_partial_title(self):
         data = {'items': [
             {'id': 'wrong-author', 'volumeInfo': {'title': 'A Book', 'authors': ['Different Writer'], 'imageLinks': {'thumbnail': 'https://invalid/image'}}},

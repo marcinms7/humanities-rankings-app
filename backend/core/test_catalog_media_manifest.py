@@ -16,6 +16,7 @@ from django.test.utils import CaptureQueriesContext
 from PIL import Image
 
 from .management.commands import export_catalog_media_manifest as command
+from research import media_image_quality
 from .models import Edition, LibraryItem, Person, Work
 
 
@@ -160,7 +161,7 @@ class CatalogMediaManifestTests(TestCase):
 
     def test_known_placeholder_is_retained_and_excluded_from_usable_cover_count(self):
         digest = hashlib.sha256(self.blob).hexdigest()
-        with patch.object(command, 'KNOWN_PLACEHOLDER_HASHES', {digest}):
+        with patch.object(media_image_quality, 'KNOWN_PLACEHOLDERS', {digest: len(self.blob)}):
             manifest = self.export()
         self.assertTrue(manifest['complete'])
         self.assertEqual(manifest['summary']['cover_count'], 1)

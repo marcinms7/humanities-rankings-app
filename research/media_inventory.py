@@ -8,11 +8,14 @@ import sqlite3
 import time
 
 from PIL import Image
+from research.media_image_quality import placeholder_file
 
 
 @lru_cache(maxsize=20000)
 def _inspect_file(path, size, modified):
     try:
+        if placeholder_file(path):
+            return 'known_placeholder'
         with Image.open(path) as image:
             if min(image.size) < 1:
                 return 'invalid_file'

@@ -13,12 +13,10 @@ from PIL import Image, UnidentifiedImageError
 
 from backend.core.local_backups import atomic_json
 from backend.core.models import Edition, Person, Work
+from research.media_image_quality import is_placeholder_digest
 
 
 RASTER_FORMATS = {'JPEG', 'PNG', 'GIF', 'WEBP', 'TIFF', 'BMP', 'ICO', 'AVIF'}
-# Internet Archive's generic item-image logo, visually audited on 2026-10-05.
-# Retain the original and its associations, but never count it as a usable cover.
-KNOWN_PLACEHOLDER_HASHES = {'f84e75694fef8121d7fed94ab7f1a92751e48188e512d66207498f6825fc9408'}
 
 
 class MediaReadError(Exception):
@@ -172,7 +170,7 @@ class Command(BaseCommand):
                 reason = ('missing_file' if isinstance(error, FileNotFoundError) else 'unreadable_or_unsafe_file')
                 errors.append({'path': path, 'kind': kind, 'reason': reason, 'associations': associations})
                 continue
-            placeholder = metadata['sha256'] in KNOWN_PLACEHOLDER_HASHES
+            placeholder = is_placeholder_digest(metadata['sha256'])
             files.append({'path': path, 'kind': kind, **metadata, 'associations': associations,
                           'association_status': 'referenced' if associations else 'unreferenced',
                           'quality': 'known_placeholder' if placeholder else 'validated_raster',

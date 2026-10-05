@@ -471,6 +471,21 @@ def _parse_page(raw):
     return parser
 
 
+def publisher_eligible(item):
+    """Whether the configured publisher routes can perform any discovery.
+
+    A missing URL/ISBN/publisher hint is an input gap, not a searched source
+    that returned no cover. Keep such items out of the provider's attempt log.
+    """
+    if any(_publisher_page(source, PUBLISHERS) for source in item.get('source_urls', [])):
+        return True
+    publishers = ' '.join(item.get('publishers', [])).casefold()
+    if 'faber' in publishers:
+        return True
+    return (any(name in publishers for name in ('macmillan', 'farrar', 'henry holt', 'st. martin'))
+            and any(_isbn(raw) for raw in item.get('isbns', [])))
+
+
 def publisher_candidates(item, fetch=None):
     fetch = fetch or _default_fetch
     pages = []
