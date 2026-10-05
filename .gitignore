@@ -4,6 +4,8 @@ __pycache__/
 .pytest_cache/
 .env
 .env.production
+# Keep new uploads private by default. Reviewed catalog cover snapshots may
+# be deliberately tracked; do not add the whole media tree or private data.
 media/
 node_modules/
 dist/
