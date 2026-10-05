@@ -11,3 +11,6 @@ class CoreConfig(AppConfig):
 
         from .search import connect_search_invalidation
         connect_search_invalidation()
+
+        from .thumbnails import connect_thumbnail_warming
+        connect_thumbnail_warming()

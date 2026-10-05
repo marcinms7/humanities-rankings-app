@@ -41,7 +41,11 @@ export function responseContractIssue(path: string, method: string, value: unkno
   const url = new URL(path, 'https://marginalia.local')
   let name: keyof typeof responseSchemas | undefined
   const record = value && typeof value === 'object' ? (value as Record<string, unknown>) : {}
-  if (url.pathname === '/api/catalog-atlas/') name = 'ApiCatalogAtlas'
+  if (url.pathname === '/api/works/facets/') name = 'ApiCatalogFacets'
+  else if (url.pathname === '/api/app-search/') name = 'ApiAppSearchResponse'
+  else if (url.pathname === '/api/bibliography/' && method === 'POST') name = 'ApiBibliographyExport'
+  else if (url.pathname === '/api/library/bulk/' && method === 'POST') name = 'ApiBulkBookActionResult'
+  else if (url.pathname === '/api/catalog-atlas/') name = 'ApiCatalogAtlas'
   else if (url.pathname === '/api/published-comparison/') name = 'ApiPublishedComparison'
   else if (url.pathname === '/api/reading-calendar/')
     name = method === 'GET' ? 'ApiCalendarState' : 'ApiCalendarPreview'

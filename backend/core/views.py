@@ -114,27 +114,10 @@ class WorkViewSet(MutationGuardMixin, VersionedEditMixin, viewsets.ModelViewSet)
 
     def get_queryset(self):
         qs = super().get_queryset()
-        if self.action == 'list' and self.request.query_params.get('saved_filter'):
-            from .saved_discovery import apply_discovery_filters
-            qs = apply_discovery_filters(qs, self.request.user, self.request.query_params)
-        if (term := self.request.query_params.get('search')) and not (self.action == 'list' and self.request.query_params.get('saved_filter')):
-            from .search import search_catalog
-            qs = search_catalog(qs, term)
-        for name in ['form', 'field']:
-            if self.request.query_params.get(name):
-                qs = qs.filter(**{name: self.request.query_params[name]})
-        if genre := self.request.query_params.get('genre'):
-            qs = qs.filter(tags__kind='genre', tags__is_archived=False, tags__name=genre).distinct()
-        if author := self.request.query_params.get('author'):
-            if not author.isdigit():
-                raise ValidationError('Author must be an ID.')
-            qs = qs.filter(authors__id=author)
-        if country := self.request.query_params.get('country'):
-            from django.db import connection
-            if connection.vendor == 'sqlite':
-                qs = qs.extra(where=['EXISTS (SELECT 1 FROM json_each(core_work.countries) WHERE value = %s)'], params=[country])
-            else:
-                qs = qs.filter(countries__contains=[country])
+        if self.action == 'list':
+            from .catalog_filters import catalog_base, apply_catalog_selections
+            qs, selections = catalog_base(qs, self.request.user, self.request.query_params)
+            qs = apply_catalog_selections(qs, selections)
         if self.action == 'list' and self.request.query_params.get('compact') == '1':
             qs = qs.defer('description', 'default_edition__translation_notes').prefetch_related(None).prefetch_related(
                 Prefetch('authors', queryset=Person.objects.only('id', 'name')), 'tags')
@@ -142,12 +125,11 @@ class WorkViewSet(MutationGuardMixin, VersionedEditMixin, viewsets.ModelViewSet)
 
     @action(detail=False, methods=['get'])
     def facets(self, request):
-        works = Work.objects.filter(is_archived=False)
-        if field := request.query_params.get('field'):
-            works = works.filter(field=field)
-        genres = Tag.objects.filter(is_archived=False, kind='genre', work__in=works).values_list('name', flat=True).distinct()
-        return Response({'countries': sorted({c for row in works.values_list('countries', flat=True) for c in row}),
-                         'genres': sorted(genres, key=str.casefold), 'genre_catalog': Tag.GENRES})
+        from .catalog_filters import catalog_base, catalog_facets
+        works, selections = catalog_base(Work.objects.filter(is_archived=False), request.user, request.query_params)
+        response = Response(catalog_facets(works, selections))
+        response['Cache-Control'] = 'private, no-store'
+        return response
 
     @action(detail=True, methods=['get'])
     def editions(self, request, pk=None):
@@ -603,6 +585,13 @@ def snapshot_attempt(item):
 
 class LibraryViewSet(MutationGuardMixin, VersionedEditMixin, viewsets.ModelViewSet):
     serializer_class = LibrarySerializer
+
+    @action(detail=False, methods=['post'])
+    def bulk(self, request):
+        from .bulk_books import BulkBookActionCommand, apply_bulk_action
+        command = BulkBookActionCommand(data=request.data)
+        command.is_valid(raise_exception=True)
+        return Response(apply_bulk_action(request, command.validated_data))
 
     @action(detail=True, methods=['post'], url_path='edition-change')
     def edition_change(self, request, pk=None):

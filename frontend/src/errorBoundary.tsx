@@ -2,7 +2,10 @@ import { Component } from 'react'
 import type { ErrorInfo, ReactNode } from 'react'
 
 /** A failed route/chunk keeps navigation and account controls available. */
-export class RouteErrorBoundary extends Component<{ children: ReactNode }, { failed: boolean }> {
+export class RouteErrorBoundary extends Component<
+  { children: ReactNode; resetKey: string },
+  { failed: boolean }
+> {
   state = { failed: false }
 
   static getDerivedStateFromError() {
@@ -12,6 +15,10 @@ export class RouteErrorBoundary extends Component<{ children: ReactNode }, { fai
   componentDidCatch(error: Error, info: ErrorInfo) {
     // Keep diagnostics local. Never transmit private study content to a logger.
     console.error('Unable to render the current screen.', error, info.componentStack)
+  }
+
+  componentDidUpdate(previous: Readonly<{ children: ReactNode; resetKey: string }>) {
+    if (this.state.failed && previous.resetKey !== this.props.resetKey) this.setState({ failed: false })
   }
 
   render() {

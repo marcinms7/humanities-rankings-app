@@ -14,6 +14,7 @@ import {
   Clock3,
 } from 'lucide-react'
 import { BookRating } from './starRating'
+import { BookSelectionCheckbox, BulkBookActions, useBookSelection } from './bulkBooks'
 import { MembershipLinks, type CollectionContext } from './libraryInsights'
 import { api, useResource } from './api'
 import { useApp } from './context'
@@ -822,6 +823,7 @@ function PagedRankingEntries({
   sharedToken?: string
 }) {
   const { user, version, mutate, requireLogin } = useApp()
+  const selection = useBookSelection(`ranking:${ranking.id}:${sharedToken || ''}`)
   const [browse, patchBrowse] = useBrowseState({
     rsearch: '',
     rgenre: '',
@@ -1056,6 +1058,13 @@ function PagedRankingEntries({
         </>
       )}
       {r.error && <ErrorNotice>{r.error}</ErrorNotice>}
+      {ranking.item_type === 'work' && (
+        <BulkBookActions
+          selection={selection}
+          visible={(r.data?.results || []).flatMap((entry) => (entry.book ? [entry.book] : []))}
+          loading={r.loading}
+        />
+      )}
       {r.loading ? (
         <Loading />
       ) : r.data?.results.length ? (
@@ -1074,6 +1083,7 @@ function PagedRankingEntries({
                   : `${delta > 0 ? '↑' : '↓'} ${Math.abs(delta)} ${Math.abs(delta) === 1 ? 'place' : 'places'} in reading value`
             const actions = (
               <>
+                {entry.book && <BookSelectionCheckbox selection={selection} book={entry.book} />}
                 {weighted && (
                   <span
                     className={`pill ${scored?.score != null ? 'gold' : 'muted'}`}

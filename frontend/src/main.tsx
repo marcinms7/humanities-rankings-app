@@ -22,41 +22,47 @@ import {
   X,
 } from 'lucide-react'
 import { api, installQueryLifecycle, setQueryAccount } from './api'
+import { routeLoaders } from './routeLoaders'
+import { installNavigationPrefetch } from './navigationPrefetch'
 import { RouteErrorBoundary } from './errorBoundary'
 import { TopbarSearch } from './topbar'
 import { AppContext } from './context'
 import { ErrorNotice, Loading, Modal } from './components'
 const ClassicalEducation = lazy(() =>
-  import('./classicalEducation').then((module) => ({ default: module.ClassicalEducation })),
+  routeLoaders.classicalEducation().then((module) => ({ default: module.ClassicalEducation })),
 )
 const SourceExplorer = lazy(() =>
-  import('./discovery').then((module) => ({ default: module.SourceExplorer })),
+  routeLoaders.discovery().then((module) => ({ default: module.SourceExplorer })),
 )
 const ReadingTrails = lazy(() =>
-  import('./readingTrails').then((module) => ({ default: module.ReadingTrails })),
+  routeLoaders.readingTrails().then((module) => ({ default: module.ReadingTrails })),
 )
 const PersonalDiscovery = lazy(() =>
-  import('./readingTrails').then((module) => ({ default: module.PersonalDiscovery })),
+  routeLoaders.readingTrails().then((module) => ({ default: module.PersonalDiscovery })),
 )
-const Authors = lazy(() => import('./catalog').then((module) => ({ default: module.Authors })))
-const Catalog = lazy(() => import('./catalog').then((module) => ({ default: module.Catalog })))
-const CatalogAtlas = lazy(() => import('./catalogAtlas').then((module) => ({ default: module.CatalogAtlas })))
+const Authors = lazy(() => routeLoaders.catalog().then((module) => ({ default: module.Authors })))
+const Catalog = lazy(() => routeLoaders.catalog().then((module) => ({ default: module.Catalog })))
+const CatalogAtlas = lazy(() =>
+  routeLoaders.catalogAtlas().then((module) => ({ default: module.CatalogAtlas })),
+)
 const PublishedComparison = lazy(() =>
-  import('./publishedComparison').then((module) => ({ default: module.PublishedComparison })),
+  routeLoaders.publishedComparison().then((module) => ({ default: module.PublishedComparison })),
 )
-const Explore = lazy(() => import('./catalog').then((module) => ({ default: module.Explore })))
-const WorkDetail = lazy(() => import('./catalog').then((module) => ({ default: module.WorkDetail })))
-const Rankings = lazy(() => import('./rankings').then((module) => ({ default: module.Rankings })))
-const RankingDetail = lazy(() => import('./rankings').then((module) => ({ default: module.RankingDetail })))
-const SharedList = lazy(() => import('./rankings').then((module) => ({ default: module.SharedList })))
-const MyLibrary = lazy(() => import('./library').then((module) => ({ default: module.MyLibrary })))
-const Planner = lazy(() => import('./library').then((module) => ({ default: module.Planner })))
-const Today = lazy(() => import('./today').then((module) => ({ default: module.Today })))
-const Profile = lazy(() => import('./profile').then((module) => ({ default: module.Profile })))
+const Explore = lazy(() => routeLoaders.catalog().then((module) => ({ default: module.Explore })))
+const WorkDetail = lazy(() => routeLoaders.catalog().then((module) => ({ default: module.WorkDetail })))
+const Rankings = lazy(() => routeLoaders.rankings().then((module) => ({ default: module.Rankings })))
+const RankingDetail = lazy(() =>
+  routeLoaders.rankings().then((module) => ({ default: module.RankingDetail })),
+)
+const SharedList = lazy(() => routeLoaders.rankings().then((module) => ({ default: module.SharedList })))
+const MyLibrary = lazy(() => routeLoaders.library().then((module) => ({ default: module.MyLibrary })))
+const Planner = lazy(() => routeLoaders.library().then((module) => ({ default: module.Planner })))
+const Today = lazy(() => routeLoaders.today().then((module) => ({ default: module.Today })))
+const Profile = lazy(() => routeLoaders.profile().then((module) => ({ default: module.Profile })))
 const CatalogReview = lazy(() =>
-  import('./catalogReview').then((module) => ({ default: module.CatalogReview })),
+  routeLoaders.catalogReview().then((module) => ({ default: module.CatalogReview })),
 )
-const Operations = lazy(() => import('./operations').then((module) => ({ default: module.Operations })))
+const Operations = lazy(() => routeLoaders.operations().then((module) => ({ default: module.Operations })))
 import type { Theme, User } from './types'
 import { confirmDiscardUnsavedChanges } from './unsavedChanges'
 import './styles.css'
@@ -182,6 +188,10 @@ function App() {
   )
   useEffect(installQueryLifecycle, [])
   useEffect(installScrollHistory, [])
+  useEffect(() => {
+    if (loaded && !setup && !fatal)
+      return installNavigationPrefetch(user?.id != null, user?.is_staff === true)
+  }, [loaded, setup, fatal, user?.id, user?.is_staff])
   const closeMobile = useCallback(() => setMobileOpen(false), [])
   useMobileNavigation(mobileOpen, closeMobile, loaded)
   useRouteAccessibility(hash, loaded && !fatal)
@@ -608,7 +618,7 @@ function App() {
               </div>
             </header>
             <main className="page" id="main-content" tabIndex={-1} key={user?.id ?? 'guest'}>
-              <RouteErrorBoundary key={`${route.pathname}${route.search}`}>
+              <RouteErrorBoundary key={route.pathname} resetKey={`${route.pathname}${route.search}`}>
                 <Suspense fallback={<Loading />}>{page}</Suspense>
               </RouteErrorBoundary>
             </main>

@@ -1,5 +1,9 @@
 import { BookWorkflow } from './bookWorkflow'
+import { BookSelectionCheckbox, BulkBookActions, useBookSelection } from './bulkBooks'
 import { SavedFilterPicker } from './savedFilters'
+import { CatalogFilters } from './catalogFilters'
+import { catalogBrowseDefaults, catalogRequestParams } from './catalogFilterState'
+import type { ApiCatalogFacets } from './generated/apiContracts'
 import { useState } from 'react'
 import {
   ArrowRight,
@@ -245,38 +249,21 @@ export function Explore() {
 
 export function Catalog() {
   const { user, version, mutate, requireLogin } = useApp()
-  const [browse, patch] = useBrowseState({
-    q: '',
-    field: 'all',
-    form: 'all',
-    country: 'all',
-    genre: 'all',
-    page: '1',
-    saved_filter: '',
-  })
-  const { field, form, country, genre, q: query, saved_filter: savedFilter } = browse
+  const selection = useBookSelection('catalog')
+  const [browse, patch] = useBrowseState(catalogBrowseDefaults)
+  const { q: query, saved_filter: savedFilter } = browse
   const [search, setSearch] = useBrowseSearch(query, patch)
   const [adding, setAdding] = useState(false)
   const page = positivePage(browse.page)
   const setPage = (value: number) => patch({ page: value })
-  const params = new URLSearchParams({ page: String(page), compact: '1' })
-  if (query) params.set('search', query)
-  if (savedFilter) params.set('saved_filter', savedFilter)
-  for (const [key, value] of Object.entries({ field, form, country, genre }))
-    if (value !== 'all') params.set(key, value)
+  const commonParams = catalogRequestParams(browse)
+  const params = new URLSearchParams(commonParams)
+  params.set('page', String(page))
+  params.set('compact', '1')
   const works = useResource<Page<WorkCard>>(`/api/works/?${params}`, version)
-  const facets = useResource<{ countries: string[]; genres: string[] }>(
-    `/api/works/facets/${field === 'all' ? '' : `?field=${field}`}`,
-    version,
-  )
+  const facets = useResource<ApiCatalogFacets>(`/api/works/facets/?${commonParams}`, version)
   const filtered = works.data?.results || []
-  const filterActive = !!(
-    savedFilter ||
-    query ||
-    [field, form, country, genre].some((value) => value !== 'all')
-  )
-  const countries = facets.data?.countries || []
-  const genres = facets.data?.genres || []
+  const filterActive = commonParams.size > 0
   return (
     <>
       <PageHeader
@@ -311,70 +298,29 @@ export function Catalog() {
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
-        <select
-          className="filter-select"
-          aria-label="Filter field"
-          value={field}
-          onChange={(e) => patch({ field: e.target.value, genre: 'all', page: 1 })}
-        >
-          <option value="all">{savedFilter ? 'Use saved subject' : 'All subjects'}</option>
-          {savedFilter && <option value="">All subjects</option>}
-          {['literature', 'philosophy', 'nonfiction', 'manga'].map((f) => (
-            <option key={f}>{f}</option>
-          ))}
-        </select>
-        <select
-          className="filter-select"
-          aria-label="Filter genre"
-          value={genre}
-          onChange={(e) => patch({ genre: e.target.value, page: 1 })}
-        >
-          <option value="all">{savedFilter ? 'Use saved genre' : 'All genres'}</option>
-          {savedFilter && <option value="">All genres</option>}
-          {genres.map((value) => (
-            <option value={value} key={value}>
-              {value}
-            </option>
-          ))}
-        </select>
-        <select
-          className="filter-select"
-          aria-label="Filter form"
-          value={form}
-          onChange={(e) => patch({ form: e.target.value, page: 1 })}
-        >
-          <option value="all">All forms</option>
-          {['book', 'collection', 'essay', 'short_story', 'poem', 'play'].map((f) => (
-            <option value={f} key={f}>
-              {label(f)}
-            </option>
-          ))}
-        </select>
-        <select
-          className="filter-select"
-          aria-label="Filter country"
-          value={country}
-          onChange={(e) => patch({ country: e.target.value, page: 1 })}
-        >
-          <option value="all">{savedFilter ? 'Use saved country' : 'Every country'}</option>
-          {savedFilter && <option value="">Every country</option>}
-          {countries.map((c) => (
-            <option key={c}>{c}</option>
-          ))}
-        </select>
       </div>
+      <CatalogFilters
+        key={`${user?.id || 'anonymous'}:${savedFilter}`}
+        data={facets.data}
+        loading={facets.loading}
+        saved={!!savedFilter}
+        patch={patch}
+      />
+      {facets.error && <ErrorNotice>{facets.error}</ErrorNotice>}
       <div className="catalog-count" aria-live="polite">
         {works.data?.count
           ? `Showing ${filtered.length} books on page ${page} of ${Math.ceil(works.data.count / 24)} (${works.data.count.toLocaleString()} total)`
           : 'Showing 0 books'}
       </div>
       {works.error && <ErrorNotice>{works.error}</ErrorNotice>}
+      <BulkBookActions selection={selection} visible={filtered} loading={works.loading} />
       {works.loading ? (
         <Loading />
       ) : filtered.length ? (
         <div className="book-grid">
           {filtered.map((work) => (
             <article className="book-card" key={work.id}>
+              <BookSelectionCheckbox selection={selection} book={work} />
               <a href={`#/books/${work.id}`}>
                 <Cover work={work} large />
               </a>

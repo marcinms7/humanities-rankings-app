@@ -1,0 +1,39 @@
+.bibliography-export {
+  display: grid;
+  gap: 12px;
+}
+.bibliography-preference,
+.bibliography-buttons {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.bibliography-preference input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--accent);
+  flex: 0 0 auto;
+}
+.bibliography-buttons {
+  flex-wrap: wrap;
+}
+.bibliography-export .bibliography-preview {
+  min-height: 220px;
+  width: 100%;
+  resize: vertical;
+  font-family: inherit;
+  font-size: 13px;
+  line-height: 1.6;
+}
+.bibliography-details ol {
+  max-height: 260px;
+  overflow-y: auto;
+  padding-inline-start: 24px;
+}
+.bibliography-details li {
+  padding: 8px 0;
+  overflow-wrap: anywhere;
+}
+.bibliography-details li p {
+  margin: 5px 0;
+}

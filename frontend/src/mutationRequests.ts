@@ -10,6 +10,7 @@ export function mutationRequest(path: string, method: string, data: unknown) {
   if (
     ['GET', 'HEAD', 'OPTIONS'].includes(method) ||
     path.startsWith('/api/session/') ||
+    path === '/api/bibliography/' ||
     data instanceof FormData
   )
     return null

@@ -5,6 +5,9 @@ export function queryTags(path: string): Set<string> {
   const resource = segments[1] || 'other'
   let tags: string[]
   switch (resource) {
+    case 'app-search':
+      tags = ['catalog', 'rankings', 'study-content']
+      break
     case 'library':
     case 'read-next':
       tags = ['library']
@@ -106,6 +109,7 @@ export function mutationTags(path: string, payload?: unknown): Set<string> {
     payload && typeof payload === 'object' && !(payload instanceof FormData)
       ? (payload as Record<string, unknown>)
       : {}
+  if (pathname === '/api/bibliography/') return new Set()
   if (/\/rankings\/[^/]+\/preview\/$/.test(pathname)) return new Set()
   if (/\/library\/[^/]+\/edition-change\/$/.test(pathname) && data.apply !== true) return new Set()
   if (
@@ -120,6 +124,8 @@ export function mutationTags(path: string, payload?: unknown): Set<string> {
   )
     return new Set()
   if (pathname === '/api/reading-calendar/') return new Set(['reading-calendar', 'plan', 'study-state'])
+  if (pathname === '/api/library/bulk/')
+    return new Set(data.action === 'personal_list' ? ['rankings'] : ['library', 'plan', 'study-state'])
   if (pathname === '/api/classical-education/') {
     const companion = data.companion as { action?: string } | undefined
     if (companion?.action === 'plan-preview') return new Set()

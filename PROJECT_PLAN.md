@@ -1,5 +1,7 @@
 # Humanities rankings app — product plan
 
+**5 October media follow-up:** all six approved pipeline improvements are implemented: Unicode/library-name matching, provider recovery separate from item retries, saved identifiers and candidate reuse, LoC/Gallica sources, targeted publisher extraction and ranked-gap/live-file reporting. See [implementation and measured state](docs/MEDIA_PIPELINE_IMPROVEMENTS_2026_10_05.md). Continuous enrichment is resumable; missing images, rights review and exact edition verification remain explicit work. This pass changes no ranking orders, personal scores or schema.
+
 **29 September further selection:** the owner approved the catalog atlas/timeline and cross-publisher list comparisons (proposals 2 and 3). These are read-only discovery views using saved catalog metadata, private reading overlays and original publisher positions; see [implementation and scope](docs/ATLAS_AND_PUBLISHED_COMPARISON_2026_09_29.md). Question-led discovery was not selected.
 
 **29 September improvement selection:** incremental search updates, crash/refresh recovery for unsaved drafts, and calendar pauses/temporary monthly reading targets are authorized. The other ideas in that proposal were rejected and must not be suggested again; see the exact list in [AGENTS.md](AGENTS.md). Descriptions below retain the original product history and are not permission to implement or re-propose those rejected extensions.
@@ -412,3 +414,11 @@ Local forgotten-password recovery is provided by `scripts/reset_password.sh`, us
 Category suggestions (not newly seeded rankings): History; Biography & Memoir; Religion & Mythology; Arts & Criticism; Science & Ideas; Society & Politics. Poetry and Drama are also useful discovery categories, represented through work forms. These overlap with literature, philosophy and nonfiction; use tags and explicit ranking scopes rather than duplicating works. The owner can add their own tags as the catalog grows.
 
 `HANDOVER.md` records the exact continuation state and prompt examples. Do not infer completed research from application progress.
+
+## Selected speed and bulk-action additions (30 September 2026)
+
+The owner selected proactive thumbnail preparation, navigation-intent preloading and bulk private book actions. Covers/portraits now gain reusable previews after image saves; a bounded read-only backfill prepares existing media. Internal link intent warms route code and small account-scoped reads. Catalog, ranking/collection and library pages offer cross-page book selection, additive library/Read next/private-list actions, and library shelf/tag additions. Batches preserve prior reading fields, shared lists and existing positions; private-list updates retain revisions. This selection does not include the proposed broader cache changes or book-preview panel. See [the implementation receipt](docs/SPEED_AND_BULK_ACTIONS_2026_09_30.md).
+
+## Selected search, catalog filters and bibliography (30 September 2026)
+
+The owner accepted all three app suggestions. Grouped app search now opens from the top bar or Cmd/Ctrl+K, preserving separate list types, owned personal lists and existing study/source permissions. Catalog browsing accepts multiple included/excluded subjects, genres, forms and exact country associations, with prospective totals, URL persistence and saved-filter inheritance. Selected books can export plain references, RIS and BibTeX from recorded metadata, preferring the reader's frozen edition details when requested. Missing edition years remain unknown; original work dates are contextual notes. These are read-only additions with no schema change or new research. Broader search SQL optimization, lazy editing forms and SQLite WAL/runtime work were not included. See [behavior, limitations and verification](docs/SEARCH_FILTERS_BIBLIOGRAPHY_2026_09_30.md).

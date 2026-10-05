@@ -1,0 +1,77 @@
+.bulk-book-start {
+  margin: 12px 0;
+}
+.bulk-book-actions {
+  padding: 16px;
+  margin: 16px 0;
+}
+.bulk-book-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+.bulk-book-actions p {
+  margin: 10px 0;
+}
+.book-selection-checkbox {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 36px;
+  cursor: pointer;
+  font-size: 12px;
+}
+.book-selection-checkbox input,
+.bulk-list-choices input {
+  accent-color: var(--accent);
+  width: 18px;
+  height: 18px;
+  flex: 0 0 auto;
+}
+.book-card > .book-selection-checkbox {
+  margin-bottom: 8px;
+}
+.bulk-selected-books {
+  margin-top: 12px;
+}
+.bulk-selected-books ul {
+  list-style: none;
+  padding: 0;
+  max-height: 240px;
+  overflow-y: auto;
+}
+.bulk-selected-books li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 5px 0;
+}
+.bulk-selected-books li span,
+.bulk-list-choices span {
+  overflow-wrap: anywhere;
+  min-width: 0;
+}
+.bulk-selected-books li button {
+  flex-shrink: 0;
+}
+.bulk-list-choices {
+  display: grid;
+  gap: 8px;
+}
+.bulk-list-choices label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 0;
+  cursor: pointer;
+}
+@media (max-width: 600px) {
+  .bulk-book-controls > strong {
+    flex-basis: 100%;
+  }
+  .bulk-book-controls .button {
+    min-height: 40px;
+  }
+}

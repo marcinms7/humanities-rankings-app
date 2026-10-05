@@ -68,7 +68,7 @@ def contracts():
     types = header + '// Open JSON fields remain unknown; computed response fields use explicit contracts.\n\n'
     types += '\n'.join(f'export type {name} = {type_for(schema)}\n' for name, schema in registry.items())
     # Only complex action envelopes are needed by the runtime boundary guard.
-    guarded = ['ApiCatalogAtlas', 'ApiPublishedComparison', 'ApiCalendarState', 'ApiCalendarPreview', 'ApiStudyDelta', 'ApiStudyRecordsPage', 'ApiStudyHistoryPage', 'ApiPlanSuggestion', 'ApiAllocationPreview', 'ApiRankingBrowsePage',
+    guarded = ['ApiCatalogFacets', 'ApiAppSearchResponse', 'ApiBibliographyExport', 'ApiBulkBookActionResult', 'ApiCatalogAtlas', 'ApiPublishedComparison', 'ApiCalendarState', 'ApiCalendarPreview', 'ApiStudyDelta', 'ApiStudyRecordsPage', 'ApiStudyHistoryPage', 'ApiPlanSuggestion', 'ApiAllocationPreview', 'ApiRankingBrowsePage',
                'ApiRecommendationBundle', 'ApiRecommendationPreferences', 'ApiRecommendationFeedbackPage', 'ApiRecommendationFeedback']
     runtime = header + 'export const responseSchemas = ' + json.dumps({name: registry[name] for name in guarded}, ensure_ascii=False, separators=(',', ':')) + ' as const\n'
     return {'apiContracts.ts': types, 'responseSchemas.ts': runtime}

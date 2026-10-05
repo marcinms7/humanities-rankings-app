@@ -1,4 +1,5 @@
 import { DraftRecoveryNotice, useDraftRecovery } from './draftRecovery'
+import { BookSelectionCheckbox, BulkBookActions, useBookSelection } from './bulkBooks'
 import { SaveConflict, savedConflict } from './saveConflict'
 import { useEffect, useRef, useState } from 'react'
 import {
@@ -47,6 +48,7 @@ const statusName = (status: string) =>
 
 export function MyLibrary() {
   const { user, version, requireLogin, mutate } = useApp()
+  const selection = useBookSelection('library')
   const [browse, patch] = useBrowseState({
     view: 'books',
     shelf: '',
@@ -239,6 +241,12 @@ export function MyLibrary() {
       </div>
       {resource.error && <ErrorNotice>{resource.error}</ErrorNotice>}
       {facets.error && <ErrorNotice>{facets.error}</ErrorNotice>}
+      <BulkBookActions
+        selection={selection}
+        visible={rows.map((item) => item.book)}
+        loading={resource.loading}
+        library
+      />
       {resource.loading ? (
         <Loading />
       ) : rows.length ? (
@@ -253,6 +261,7 @@ export function MyLibrary() {
                   work={item.book}
                   action={
                     <>
+                      <BookSelectionCheckbox selection={selection} book={item.book} />
                       <select
                         className="filter-select"
                         aria-label={`Reading status for ${item.book.title}`}

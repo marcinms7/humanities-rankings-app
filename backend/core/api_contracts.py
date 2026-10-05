@@ -145,6 +145,10 @@ def computed_fields(serializer):
 
 
 def contract_registry():
+    from .catalog_filters import CatalogFacetsSerializer
+    from .app_search import AppSearchItemSerializer, AppSearchGroupSerializer, AppSearchResponseSerializer
+    from .bibliography import BibliographyCommand, BibliographyExportSerializer
+    from .bulk_books import BulkBookActionCommand, BulkBookActionResult
     from .catalog_atlas import CatalogAtlasSerializer
     from .published_comparison import PublishedComparisonSerializer
     from .reading_calendar import CalendarStateContract, CalendarPreviewContract, CalendarCommand
@@ -160,7 +164,12 @@ def contract_registry():
     from .recommendations import (RecommendationBundleSerializer, RecommendationPreferencesSerializer,
         RecommendationFeedbackSerializer, RecommendationFeedbackPageSerializer,
         RecommendationPreferencesCommandSerializer, RecommendationFeedbackCommandSerializer)
-    return dict(ApiCatalogAtlas=CatalogAtlasSerializer, ApiPublishedComparison=PublishedComparisonSerializer,
+    return dict(ApiCatalogFacets=CatalogFacetsSerializer,
+        ApiAppSearchItem=AppSearchItemSerializer, ApiAppSearchGroup=AppSearchGroupSerializer,
+        ApiAppSearchResponse=AppSearchResponseSerializer,
+        ApiBibliographyCommand=BibliographyCommand, ApiBibliographyExport=BibliographyExportSerializer,
+        ApiBulkBookActionCommand=BulkBookActionCommand, ApiBulkBookActionResult=BulkBookActionResult,
+        ApiCatalogAtlas=CatalogAtlasSerializer, ApiPublishedComparison=PublishedComparisonSerializer,
         ApiCalendarState=CalendarStateContract, ApiCalendarPreview=CalendarPreviewContract,
         ApiCalendarCommand=CalendarCommand, ApiUser=UserSerializer, ApiPerson=PersonSerializer, ApiEdition=EditionSerializer,
         ApiWork=WorkSerializer, ApiWorkCard=WorkCardSerializer, ApiLibrary=LibrarySerializer,

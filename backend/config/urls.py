@@ -11,6 +11,8 @@ from backend.core import recommendations
 from backend.core.reading_calendar import reading_calendar
 from backend.core.catalog_atlas import catalog_atlas
 from backend.core.published_comparison import published_comparison
+from backend.core.bibliography import bibliography_export
+from backend.core.app_search import app_search
 from backend.core import reading_insights
 from backend.core import reading_tools
 from backend.core import classical_education
@@ -28,6 +30,8 @@ for name, view, basename in [('works', views.WorkViewSet, 'work'), ('people', vi
 urlpatterns = [path('media-preview/<int:size>/<path:filename>', thumbnail), path('admin/', admin.site.urls), path('api/session/', views.session_view), path('api/profile/', views.profile),
                path('api/export/', views.export_library), path('api/shared/<uuid:token>/', views.shared_list)]
 urlpatterns += [
+    path('api/app-search/', app_search),
+    path('api/bibliography/', bibliography_export),
     path('api/operations/', operations_status),
     path('api/reading-calendar/', reading_calendar),
     path('api/catalog-atlas/', catalog_atlas),

@@ -9,8 +9,10 @@ import fcntl
 import gzip
 import hashlib
 import json
+import math
 import os
 from pathlib import Path
+import re
 import sqlite3
 import time
 
@@ -87,9 +89,18 @@ def classify(status):
     return 'unresolved'
 
 
+def provider_failure(result):
+    """Only explicit outages/HTTP service failures bypass the item retry budget."""
+    if result.get('provider_outage') is True:
+        return True
+    message = str(result.get('status', '')) + ' ' + str(result.get('error', ''))
+    return bool(re.search(r'\bHTTP(?: Error)?\s+(?:429|502|503|504)\b', message, re.I))
+
+
 class Queue:
     def __init__(self, kind, ledger):
         self.batch_errors = 0
+        self.inspected_ids = set()
         STATE.mkdir(parents=True, exist_ok=True)
         self.db = sqlite3.connect(STATE / f'{kind}.sqlite3', timeout=20)
         self.db.execute('PRAGMA journal_mode=WAL')
@@ -131,12 +142,30 @@ class Queue:
                     except (ValueError, KeyError, TypeError):
                         continue
 
+        # Older workers charged provider-wide outages to every record in a
+        # batch. Recover only those transient failures, preserving successful,
+        # ambiguous and no-match decisions and the original audit history.
+        if not self.db.execute("SELECT 1 FROM metadata WHERE key='provider_outages_v1'").fetchone():
+            with self.db:
+                for work_id, state, raw in self.db.execute(
+                        "SELECT work_id,state,result FROM attempts WHERE state IN ('retryable','retry_exhausted')").fetchall():
+                    try:
+                        result = json.loads(raw)
+                    except (TypeError, ValueError):
+                        continue
+                    if provider_failure(result):
+                        self.db.execute("UPDATE attempts SET state='provider_wait',attempts=0,next_retry=0 WHERE work_id=?", (work_id,))
+                self.db.execute("INSERT INTO metadata VALUES ('provider_outages_v1',?)", (str(time.time()),))
+
     def due(self, item, policy, retry=False):
+        self.inspected_ids.add(item['id'])
         inputs = {key: item.get(key) for key in ('title', 'authors', 'isbn', 'year')}
         # Page lookups apply to a particular edition. A newly selected edition
         # needs its own lookup even when its work title and ISBN are unchanged.
-        if 'edition_id' in item:
-            inputs['edition_id'] = item['edition_id']
+        for key in ('edition_id', 'provider_identifiers', 'title_aliases', 'author_aliases', 'source_urls', 'isbns',
+                    'publishers', 'works', 'work_aliases', 'biography', 'verified_identity_urls', 'birth_year', 'death_year', 'ranked', 'linked_works'):
+            if key in item:
+                inputs[key] = bool(item[key]) if key == 'ranked' else item[key]
         fingerprint = hashlib.sha256(json.dumps(inputs, sort_keys=True, ensure_ascii=False).encode() + policy.encode()).hexdigest()
         row = self.db.execute('SELECT fingerprint,attempts,state,next_retry FROM attempts WHERE work_id=?', (item['id'],)).fetchone()
         if row is None or retry or (row[0] is not None and row[0] != fingerprint):
@@ -146,21 +175,30 @@ class Queue:
         if row[0] is None:
             with self.db:
                 self.db.execute('UPDATE attempts SET fingerprint=? WHERE work_id=?', (fingerprint, item['id']))
-        return row[2] == 'pending' or (row[2] == 'retryable' and row[1] < MAX_ATTEMPTS and row[3] <= time.time())
+        return (row[2] == 'pending' or
+                (row[2] == 'provider_wait' and row[3] <= time.time()) or
+                (row[2] == 'retryable' and row[1] < MAX_ATTEMPTS and row[3] <= time.time()))
 
     def priority(self, item):
         row = self.db.execute('SELECT attempts FROM attempts WHERE work_id=?', (item['id'],)).fetchone()
-        return (row[0] if row else 0, item['id'])
+        priority = item.get('priority', item.get('ranked', item.get('shared_priority', 0)))
+        return (row[0] if row else 0, -int(priority or 0), item['id'])
 
     def finish(self, item, result, audit):
+        self.inspected_ids.add(item['id'])
         current = self.db.execute('SELECT attempts,fingerprint FROM attempts WHERE work_id=?', (item['id'],)).fetchone()
-        attempt = (current[0] if current else 0) + 1
-        state = classify(str(result.get('status', 'unknown')))
-        if state == 'retryable':
+        outage = provider_failure(result)
+        attempt = (current[0] if current else 0) + (0 if outage else 1)
+        state = 'provider_wait' if outage else classify(str(result.get('status', 'unknown')))
+        if state in {'retryable', 'provider_wait'}:
             self.batch_errors += 1
         if state == 'retryable' and attempt >= MAX_ATTEMPTS:
             state = 'retry_exhausted'
         next_retry = time.time() + min(900, 60 * 2 ** (attempt - 1)) if state == 'retryable' else 0
+        if outage:
+            supplied = result.get('retry_after')
+            supplied = supplied if type(supplied) in (int, float) and math.isfinite(supplied) else 0
+            next_retry = max(time.time() + 60, supplied)
         result.update(attempt=attempt, queue_state=state, attempted_at=time.time(), next_retry=next_retry or None,
                       input_fingerprint=current[1] if current else None)
         audit.write(json.dumps(result, ensure_ascii=False) + '\n')
@@ -170,8 +208,21 @@ class Queue:
                             (attempt, state, next_retry, json.dumps(result, ensure_ascii=False), item['id']))
 
     def summary(self):
-        return {'states': dict(self.db.execute('SELECT state,count(*) FROM attempts GROUP BY state')),
-                'next_retry': self.db.execute("SELECT min(next_retry) FROM attempts WHERE state='retryable'").fetchone()[0]}
+        """Summarize records inspected in this invocation, retaining old history.
+
+        A covered/archived record's stale retry must not hide a current item's
+        future retry and incorrectly mark the provider exhausted. Filtering in
+        one streamed read also avoids SQLite parameter limits for large queues.
+        """
+        states, retries = {}, []
+        if self.inspected_ids:
+            for identity, state, retry in self.db.execute('SELECT work_id,state,next_retry FROM attempts'):
+                if identity not in self.inspected_ids:
+                    continue
+                states[state] = states.get(state, 0) + 1
+                if state in {'retryable', 'provider_wait'}:
+                    retries.append(retry)
+        return {'states': states, 'next_retry': min(retries, default=None)}
 
     def close(self):
         self.db.close()

@@ -191,7 +191,7 @@ type SourcesPage = Page<SourceRow> & {
   note: string
 }
 const initial = () => ({
-  search: '',
+  search: new URLSearchParams(location.hash.split('?')[1]).get('search') || '',
   publisher: '',
   language: '',
   country: '',
@@ -199,7 +199,7 @@ const initial = () => ({
   status: '',
   reused: '',
   ranking: new URLSearchParams(location.hash.split('?')[1]).get('ranking') || '',
-  url: '',
+  url: new URLSearchParams(location.hash.split('?')[1]).get('url') || '',
 })
 export function SourceExplorer() {
   const { user, version } = useApp()

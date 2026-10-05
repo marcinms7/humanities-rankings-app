@@ -11,235 +11,362 @@ from __future__ import annotations
 
 import argparse
 import io
-import io
 import json
 import os
 import re
 import sys
-import unicodedata
-import threading
-import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-from urllib.parse import urlencode, quote
-from urllib.request import Request, urlopen
+from urllib.parse import urlencode, quote, urlsplit
 from PIL import Image
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from research.enrichment_queue import Queue, exclusive, rotate, records
+from research.media_matching import (MATCHER_VERSION, norm, words, words_in_order,
+                                    same_title, same_author, match_item_title, match_item_author)
+from research.media_transport import CandidateRejected, ProviderOutage, fetch_json, fetch_bytes
+from research.operational_state import atomic_state
 RUN = ROOT / "research" / "_runs" / "2026-09-13" / "catalog-public-cover-fallback"
 CACHE = RUN / "outcomes.jsonl"
-HEADERS = {"User-Agent": "Marginalia catalogue enrichment/1.0 (public bibliographic lookup)"}
-REQUEST_LOCK = threading.Lock()
-LAST_REQUEST = 0.0
+MAX_IMAGE_CANDIDATES = 6
+_OL_KEY = re.compile(r"/(works/OL[0-9]+W|books/OL[0-9]+M)")
 
 
-def throttle():
-    global LAST_REQUEST
-    with REQUEST_LOCK:
-        pause = 0.8 - (time.monotonic() - LAST_REQUEST)
-        if pause > 0:
-            time.sleep(pause)
-        LAST_REQUEST = time.monotonic()
-
-
-def norm(value: str) -> str:
-    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode().casefold()
-    return re.sub(r"[^a-z0-9]", "", value)
-
-
-def words(value: str) -> set[str]:
-    return set(re.findall(r"[a-z0-9]+", unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode().casefold()))
-
-
-def read_json(url: str, params: dict, timeout: int = 6) -> dict:
-    throttle()
-    request = Request(url + "?" + urlencode(params, doseq=True), headers=HEADERS)
-    with urlopen(request, timeout=timeout) as response:
-        return json.loads(response.read())
+def read_json(url: str, params: dict, timeout: int = 15) -> dict:
+    provider = 'internet_archive' if urlsplit(url).hostname == 'archive.org' else 'openlibrary'
+    return fetch_json(url + ('?' + urlencode(params, doseq=True) if params else ''),
+                      provider=provider, timeout=timeout)
 
 
 def read_image(url: str) -> bytes:
-    throttle()
-    with urlopen(Request(url, headers=HEADERS), timeout=8) as response:
-        data = response.read(10_000_001)
-    if len(data) > 10_000_000:
-        raise ValueError('Cover image exceeds 10 MB.')
-    # A successful HTTP response can still contain an HTML error page. Verify
-    # the downloaded raster before the catalog is marked as covered.
-    with Image.open(io.BytesIO(data)) as picture:
-        if picture.format not in {'JPEG', 'PNG', 'WEBP'}:
-            raise ValueError('Unsupported cover image format.')
-        picture.verify()
+    provider = 'internet_archive' if urlsplit(url).hostname == 'archive.org' else 'openlibrary'
+    data = fetch_bytes(url, provider=provider, timeout=20)
+    try:
+        with Image.open(io.BytesIO(data)) as picture:
+            if picture.format not in {'JPEG', 'PNG', 'WEBP'}:
+                raise ValueError('Unsupported cover image format.')
+            if (min(picture.size) < 80 or max(picture.size) / min(picture.size) > 5
+                    or picture.width * picture.height > 40_000_000):
+                raise ValueError('Cover image has unsuitable dimensions.')
+            picture.verify()
+        # JPEG verify checks the container, but can accept truncated pixels.
+        with Image.open(io.BytesIO(data)) as picture:
+            picture.load()
+    except (OSError, ValueError, SyntaxError, Image.DecompressionBombError) as error:
+        raise CandidateRejected('Invalid cover image') from error
     return data
 
 
-def same_title(expected: str, found: str) -> tuple[bool, int]:
-    left, right = norm(expected), norm(found)
-    if left and right and left == right:
-        return True, 100
-    expected_words, found_words = list(words_in_order(expected)), list(words_in_order(found))
-    if expected_words and expected_words[0] in {"a", "an", "the"}:
-        expected_words = expected_words[1:]
-    if found_words and found_words[0] in {"a", "an", "the"}:
-        found_words = found_words[1:]
-    if expected_words and expected_words == found_words:
-        return True, 98
-    return False, 0
+def valid_isbn(value: str) -> str:
+    value = re.sub(r'[\s-]', '', str(value or '')).upper()
+    if re.fullmatch(r'[0-9]{9}[0-9X]', value):
+        return value if sum((10 - i) * (10 if char == 'X' else int(char))
+                            for i, char in enumerate(value)) % 11 == 0 else ''
+    if re.fullmatch(r'(?:978|979)[0-9]{10}', value):
+        return value if sum(int(char) * (1 if i % 2 == 0 else 3)
+                            for i, char in enumerate(value)) % 10 == 0 else ''
+    return ''
 
 
-def words_in_order(value: str) -> list[str]:
-    return re.findall(r"[a-z0-9]+", unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode().casefold())
+def _openlibrary_key(value: str) -> str | None:
+    # Remote IDs are discovery hints. The title and author are revalidated
+    # against API metadata even when the ID came from an existing edition.
+    parsed = urlsplit(str(value or ''))
+    if parsed.scheme not in {'https', 'http'} or parsed.hostname not in {'openlibrary.org', 'www.openlibrary.org'}:
+        return None
+    match = _OL_KEY.match(parsed.path)
+    if not match or parsed.path[match.end():match.end() + 1] not in {'', '/', '.'}:
+        return None
+    return '/' + match.group(1)
 
 
-def same_author(expected: list[str], found: list[str]) -> bool:
-    for left in expected:
-        left_words = words(left)
-        for right in found:
-            right_words = words(right)
-            if norm(left) and norm(right) and norm(left) == norm(right):
-                return True
-            # Accept matching surnames only when all given-name initials agree.
-            left_parts, right_parts = words_in_order(left), words_in_order(right)
-            if len(left_parts) >= 2 and len(left_parts) == len(right_parts):
-                if left_parts[-1] == right_parts[-1] and all(
-                    a == b or (len(a) == 1 or len(b) == 1) and a[0] == b[0]
-                    for a, b in zip(left_parts[:-1], right_parts[:-1])):
-                    return True
-    return False
+def edition_identifiers(editions) -> dict:
+    keys, isbns = [], []
+    for edition in editions:
+        if getattr(edition, 'is_archived', False):
+            continue
+        isbn = valid_isbn(getattr(edition, 'isbn', ''))
+        if isbn:
+            isbns.append(isbn)
+        for field in ('source_url', 'cover_source_url'):
+            key = _openlibrary_key(getattr(edition, field, ''))
+            if key:
+                keys.append(key)
+        notes = getattr(edition, 'translation_notes', '') or ''
+        for url in re.findall(r'https?://[^\s<>"\']+', notes):
+            key = _openlibrary_key(url.rstrip(').,;'))
+            if key:
+                keys.append(key)
+        # Legacy notes sometimes retain only an explicitly labelled OL ID.
+        for match in re.finditer(r'(?:Open Library|openlibrary|source_key)[^\n]{0,80}?\b(OL[0-9]+[WM])\b', notes, re.I):
+            key = match.group(1).upper()
+            keys.append('/' + ('works/' if key.endswith('W') else 'books/') + key)
+    return {'openlibrary': list(dict.fromkeys(keys)), 'isbn': list(dict.fromkeys(isbns))}
+
+
+def cover_lookup_item(work, aliases=None) -> dict:
+    aliases = aliases or {'works': {}, 'people': {}}
+    authors = list(work.authors.all())
+    editions = getattr(work, 'media_editions', None)
+    if editions is None:
+        editions = list(work.editions.filter(is_archived=False).order_by('pk'))
+    # Prefer the selected edition when its own identifier is available.
+    editions = sorted(editions, key=lambda edition: (edition.pk != work.default_edition_id, edition.pk))
+    identifiers = edition_identifiers(editions)
+    default = work.default_edition
+    return {'id': work.pk, 'title': work.title, 'display_title': work.title,
+            'authors': [person.name for person in authors], 'year': work.original_year,
+            'edition_id': work.default_edition_id, 'isbn': valid_isbn(default.isbn) if default else '',
+            'provider_identifiers': identifiers, 'isbns': identifiers['isbn'],
+            'source_urls': list(dict.fromkeys(url for edition in editions
+                for url in [edition.source_url, edition.cover_source_url] if url)),
+            'publishers': list(dict.fromkeys(edition.publisher for edition in editions if edition.publisher)),
+            'shared_priority': bool(getattr(work, 'shared_priority', False)),
+            'title_aliases': aliases.get('works', {}).get(str(work.pk), []),
+            'author_aliases': list(dict.fromkeys(alias for person in authors
+                 for alias in aliases.get('people', {}).get(str(person.pk), [])))}
+
+
+def _positive_covers(values):
+    return [value for value in values if isinstance(value, int) and not isinstance(value, bool) and value > 0]
+
+
+def _record_authors(record: dict) -> list[str]:
+    names = []
+    for entry in record.get('authors', [])[:4]:
+        if not isinstance(entry, dict):
+            continue
+        author = entry.get('author', entry)
+        key = author.get('key', '') if isinstance(author, dict) else ''
+        if re.fullmatch(r'/authors/OL[0-9]+A', key):
+            try:
+                name = read_json('https://openlibrary.org' + key + '.json', {}).get('name', '')
+            except CandidateRejected:
+                continue
+            if name:
+                names.append(name)
+    return names
+
+
+def _verified_record(item: dict, key: str, *, isbn: str = '') -> list[dict]:
+    if not _OL_KEY.fullmatch(key):
+        return []
+    try:
+        record = read_json('https://openlibrary.org' + key + '.json', {})
+    except CandidateRejected:
+        return []
+    return _record_candidates(item, record, key, isbn=isbn)
+
+
+def _record_candidates(item: dict, record: dict, key: str, *, isbn: str = '') -> list[dict]:
+    if not _OL_KEY.fullmatch(key) or not match_item_title(item, str(record.get('title', '')))[0]:
+        return []
+    if isbn and isbn not in [valid_isbn(value) for field in ('isbn_10', 'isbn_13') for value in record.get(field, [])]:
+        return []
+    # A book record may inherit creators from its linked work. Require both the
+    # edition's title and that linked work's identity instead of trusting ID.
+    edition_authors = _record_authors(record)
+    author_ok = match_item_author(item, edition_authors)
+    if not edition_authors and key.startswith('/books/'):
+        for link in record.get('works', [])[:2]:
+            work_key = link.get('key', '')
+            if not re.fullmatch(r'/works/OL[0-9]+W', work_key):
+                continue
+            try:
+                work = read_json('https://openlibrary.org' + work_key + '.json', {})
+            except CandidateRejected:
+                continue
+            if match_item_title(item, str(work.get('title', '')))[0] and match_item_author(item, _record_authors(work)):
+                author_ok = True
+                break
+    if not author_ok:
+        return []
+    candidates = [{'provider': 'openlibrary', 'cover_id': cover, 'source_key': key}
+                  for cover in _positive_covers(record.get('covers', []))[:MAX_IMAGE_CANDIDATES]]
+    if key.startswith('/works/'):
+        # Keep an identified work even without its aggregate image so linked
+        # edition images can be attempted after a broken first cover.
+        candidates.append({'provider': 'openlibrary', 'source_key': key, 'linked_editions': True})
+    return candidates
+
+
+def _candidate_images(candidates):
+    seen = set()
+    for candidate in candidates:
+        if candidate.get('linked_editions'):
+            try:
+                editions = read_json('https://openlibrary.org' + candidate['source_key'] + '/editions.json', {'limit': 20})
+            except CandidateRejected:
+                continue
+            ids = _positive_covers([cover for edition in editions.get('entries', []) for cover in edition.get('covers', [])])
+        else:
+            ids = [candidate['cover_id']]
+        for cover in ids:
+            if cover not in seen:
+                seen.add(cover)
+                yield {**candidate, 'cover_id': cover}
+
+
+def _download_openlibrary(candidates, attempted):
+    for candidate in _candidate_images(candidates):
+        if candidate['cover_id'] in attempted:
+            continue
+        if len(attempted) >= MAX_IMAGE_CANDIDATES:
+            break
+        attempted.add(candidate['cover_id'])
+        try:
+            image = read_image(f"https://covers.openlibrary.org/b/id/{candidate['cover_id']}-L.jpg?default=false")
+        except CandidateRejected:
+            continue  # A bad individual cover must not hide the next safe one.
+        return {**{key: value for key, value in candidate.items() if key != 'linked_editions'}, 'image': image}
+    return None
+
+
+def outage_summary(failures):
+    """Retain restrictive failures and every provider's actual retry deadline."""
+    if not failures:
+        return {}
+    strongest = max(failures, key=lambda failure: (
+        failure.get('http_status') in {403, 429},
+        {'maxlag': 0, 'transient': 1, 'unavailable': 2}.get(failure.get('outage_type'), 2),
+        failure['retry_after']))
+    return {'provider_outage': True,
+            'retry_after': max(failure['retry_after'] for failure in failures),
+            **{key: strongest[key] for key in ('reason', 'http_status', 'outage_type')}}
+
+
+def _provider_failure(item, provider, error):
+    item['_provider_outage'] = True
+    item['_retry_after'] = max(item.get('_retry_after', 0), error.retry_after)
+    item.setdefault('_provider_failures', []).append({
+        'provider': provider, 'retry_after': error.retry_after, **error.state_fields()})
+    return None, f'provider_blocked: {provider}: {error.reason}'
 
 
 def openlibrary(item: dict) -> tuple[dict | None, str | None]:
-    docs, last_error = [], None
-    useful_authors = [name for name in item["authors"] if name.casefold() not in {"collaborators", "anonymous"}]
-    for author in useful_authors[:3]:
-        try:
-            data = read_json("https://openlibrary.org/search.json", {
-                "title": item["title"], "author": author, "limit": 30,
-                "fields": "key,title,author_name,cover_i,edition_count,first_publish_year,first_sentence",
-            })
-            docs.extend(data.get("docs", []))
-            if docs:
-                break
-        except Exception as error:
-            last_error = error
-    if not docs and last_error and not item.get("title_only_fallback"):
-        return None, f"openlibrary_error: {str(last_error)[:150]}"
-    matches = []
-    seen_keys = set()
-    for doc in docs:
-        if doc.get("key") in seen_keys:
-            continue
-        seen_keys.add(doc.get("key"))
-        title_ok, title_score = same_title(item["title"], str(doc.get("title", "")))
-        if title_ok and same_author(useful_authors, doc.get("author_name", [])):
-            matches.append((title_score, int(doc.get("edition_count") or 0), doc))
-    if not matches and item.get("title_only_fallback"):
-        try:
-            broad = read_json("https://openlibrary.org/search.json", {
-                "title": item["title"], "limit": 40,
-                "fields": "key,title,author_name,cover_i,edition_count,first_publish_year,first_sentence",
-            }).get("docs", [])
-        except Exception as error:
-            return None, f"openlibrary_title_error: {str(error)[:150]}"
-        exact = [doc for doc in broad if norm(item["title"]) == norm(str(doc.get("title", ""))) and doc.get("cover_i")]
-        # Searching by title alone broadens discovery, but a unique title hit
-        # (even with a matching year) does not establish its author's identity.
-        exact = [doc for doc in exact if same_author(useful_authors, doc.get("author_name", []))]
-        keys = {doc.get("key") for doc in exact}
-        if len(keys) == 1:
-            doc = exact[0]
-            matches = [(100, int(doc.get("edition_count") or 0), doc)]
-    choices = [row for row in matches if row[2].get("cover_i")]
-    choices.sort(key=lambda row: (row[0], row[1]), reverse=True)
-    if not choices and matches:
-        # A work record can have no aggregate cover even though a linked
-        # edition has one.  It is still the same verified title/author work,
-        # so use the first edition-image found on its own editions endpoint.
-        matches.sort(key=lambda row: (row[0], row[1]), reverse=True)
-        if len(matches) > 1 and matches[0][:2] == matches[1][:2] and matches[0][2]["key"] != matches[1][2]["key"]:
-            return None, "openlibrary_ambiguous"
-        doc = matches[0][2]
-        try:
-            editions = read_json("https://openlibrary.org" + doc["key"] + "/editions.json", {"limit": 20})
-            cover_ids = [cover for edition in editions.get("entries", []) for cover in edition.get("covers", []) if isinstance(cover, int)]
-        except Exception as error:
-            return None, f"openlibrary_editions_error: {str(error)[:150]}"
-        if not cover_ids:
-            return None, "openlibrary_no_safe_cover"
-        doc = {**doc, "cover_i": cover_ids[0]}
-        choices = [(matches[0][0], matches[0][1], doc)]
-    if not choices:
-        return None, "openlibrary_no_safe_cover"
-    # Equal score and edition count means independent records cannot be chosen
-    # safely. Different editions of a clearly identified work may use the
-    # established, higher-edition-count record.
-    if len(choices) > 1 and choices[0][:2] == choices[1][:2] and choices[0][2]["key"] != choices[1][2]["key"]:
-        return None, "openlibrary_ambiguous"
-    doc = choices[0][2]
     try:
-        image = read_image(f"https://covers.openlibrary.org/b/id/{doc['cover_i']}-L.jpg?default=false")
-    except Exception as error:
-        return None, f"openlibrary_cover_error: {str(error)[:150]}"
-    if len(image) < 1024:
-        return None, "openlibrary_cover_too_small"
-    return {"provider": "openlibrary", "image": image, "cover_id": doc["cover_i"], "source_key": doc["key"],
-            "year": doc.get("first_publish_year"), "sentence": doc.get("first_sentence"),
-            "edition_count": doc.get("edition_count")}, None
+        return _openlibrary(item)
+    except ProviderOutage as error:
+        return _provider_failure(item, 'openlibrary', error)
+
+
+def _openlibrary(item: dict) -> tuple[dict | None, str | None]:
+    attempted = set()
+    identifiers = item.get('provider_identifiers', {})
+    for key in identifiers.get('openlibrary', [])[:6]:
+        result = _download_openlibrary(_verified_record(item, key), attempted)
+        if result:
+            return result, None
+    for isbn in identifiers.get('isbn', [])[:3]:
+        if not valid_isbn(isbn):
+            continue
+        try:
+            record = read_json('https://openlibrary.org/isbn/' + isbn + '.json', {})
+        except CandidateRejected:
+            continue
+        result = _download_openlibrary(_record_candidates(item, record, record.get('key', ''), isbn=isbn), attempted)
+        if result:
+            return result, None
+    matches, seen_keys = [], set()
+    useful_authors = [name for name in [*item['authors'], *item.get('author_aliases', [])]
+                      if name.casefold() not in {'collaborators', 'anonymous'}]
+    titles = list(dict.fromkeys([item['title'], *item.get('title_aliases', [])]))[:3]
+    for title in titles:
+        for author in useful_authors[:3]:
+            data = read_json('https://openlibrary.org/search.json', {
+                'title': title, 'author': author, 'limit': 30,
+                'fields': 'key,title,author_name,cover_i,edition_count,first_publish_year,first_sentence',
+            })
+            for doc in data.get('docs', []):
+                key = doc.get('key', '')
+                if key in seen_keys or not re.fullmatch(r'/works/OL[0-9]+W', key):
+                    continue
+                seen_keys.add(key)
+                title_ok, score = match_item_title(item, str(doc.get('title', '')))
+                if title_ok and match_item_author(item, doc.get('author_name', [])):
+                    count = doc.get('edition_count')
+                    matches.append((score, count if isinstance(count, int) else 0, doc))
+            if matches:
+                break
+        if matches:
+            break
+    if not matches and item.get('title_only_fallback'):
+        broad = read_json('https://openlibrary.org/search.json', {
+            'title': item['title'], 'limit': 40,
+            'fields': 'key,title,author_name,cover_i,edition_count,first_publish_year,first_sentence',
+        }).get('docs', [])
+        for doc in broad:
+            title_ok, score = match_item_title(item, str(doc.get('title', '')))
+            if title_ok and match_item_author(item, doc.get('author_name', [])) and re.fullmatch(r'/works/OL[0-9]+W', doc.get('key', '')):
+                matches.append((score, doc.get('edition_count') or 0, doc))
+    if not matches:
+        return None, 'openlibrary_no_safe_cover'
+    matches.sort(key=lambda row: (row[0], row[1]), reverse=True)
+    if len(matches) > 1 and matches[0][:2] == matches[1][:2] and matches[0][2]['key'] != matches[1][2]['key']:
+        return None, 'openlibrary_ambiguous'
+    doc = matches[0][2]
+    candidates = [{'provider': 'openlibrary', 'source_key': doc['key'], 'cover_id': cover,
+                   'year': doc.get('first_publish_year'), 'edition_count': doc.get('edition_count')}
+                  for cover in _positive_covers([doc.get('cover_i')])]
+    candidates.append({'provider': 'openlibrary', 'source_key': doc['key'], 'linked_editions': True})
+    result = _download_openlibrary(candidates, attempted)
+    return (result, None) if result else (None, 'openlibrary_no_usable_image')
 
 
 def internet_archive(item: dict) -> tuple[dict | None, str | None]:
-    author_tokens = [token for token in words(item["authors"][0]) if len(token) >= 3]
-    author_clause = max(author_tokens, key=len) if author_tokens else ""
-    query = f'mediatype:texts AND title:("{item["title"]}")'
-    if author_clause:
-        query += f" AND creator:{author_clause}"
     try:
-        data = read_json("https://archive.org/advancedsearch.php", {
-            # Creator metadata varies widely (dates, surname-first forms,
-            # editors and translators). Search the title broadly, then apply
-            # the same local title-and-author validation used above.
-            "q": query,
-            "fl[]": ["identifier", "title", "creator", "year"], "rows": 30, "output": "json",
-        })
-    except Exception as error:
-        return None, f"internet_archive_error: {str(error)[:150]}"
+        return _internet_archive(item)
+    except ProviderOutage as error:
+        return _provider_failure(item, 'internet_archive', error)
+
+
+def _internet_archive(item: dict) -> tuple[dict | None, str | None]:
+    # Escape query-language quotes rather than letting punctuation become an
+    # extra clause. Creator metadata varies, so identity is checked locally.
+    title = item['title'].replace('\\', ' ').replace('"', ' ')
+    query = f'mediatype:texts AND title:("{title}")'
+    data = read_json('https://archive.org/advancedsearch.php', {
+        'q': query, 'fl[]': ['identifier', 'title', 'creator', 'year'], 'rows': 30, 'output': 'json',
+    })
     choices = []
-    for doc in data.get("response", {}).get("docs", []):
-        title_ok, title_score = same_title(item["title"], str(doc.get("title", "")))
-        creators = doc.get("creator", [])
+    for doc in data.get('response', {}).get('docs', []):
+        title_ok, score = match_item_title(item, str(doc.get('title', '')))
+        creators = doc.get('creator', [])
         if isinstance(creators, str):
             creators = [creators]
-        if title_ok and same_author(item["authors"], creators) and doc.get("identifier"):
-            choices.append((title_score, doc))
+        if title_ok and match_item_author(item, creators) and re.fullmatch(r'[A-Za-z0-9_.-]+', str(doc.get('identifier', ''))):
+            choices.append((score, doc))
     choices.sort(key=lambda row: row[0], reverse=True)
     if not choices:
-        return None, "internet_archive_no_safe_cover"
-    identifier = choices[0][1]["identifier"]
-    try:
-        image = read_image("https://archive.org/services/img/" + quote(identifier, safe=""))
-    except Exception as error:
-        return None, f"internet_archive_cover_error: {str(error)[:150]}"
-    if len(image) < 1024:
-        return None, "internet_archive_cover_too_small"
-    return {"provider": "internet_archive", "image": image, "identifier": identifier}, None
+        return None, 'internet_archive_no_safe_cover'
+    for _, doc in choices[:MAX_IMAGE_CANDIDATES]:
+        identifier = doc['identifier']
+        try:
+            image = read_image('https://archive.org/services/img/' + quote(identifier, safe=''))
+        except CandidateRejected:
+            continue
+        return {'provider': 'internet_archive', 'image': image, 'identifier': identifier}, None
+    return None, 'internet_archive_no_usable_image'
 
 
 def lookup(item: dict, skip_internet_archive: bool, skip_openlibrary: bool) -> tuple[dict | None, str | None]:
-    if not item["authors"]:
-        return None, "no_credited_author"
+    if not item['authors']:
+        return None, 'no_credited_author'
     if skip_openlibrary:
-        reason = "openlibrary_skipped"
+        reason = 'openlibrary_skipped'
     else:
         result, reason = openlibrary(item)
         if result:
             return result, None
     if skip_internet_archive:
-        return None, f"{reason}; internet_archive_skipped"
+        return None, f'{reason}; internet_archive_skipped'
     archive, archive_reason = internet_archive(item)
     if archive:
+        item.pop('_provider_outage', None)
+        item.pop('_retry_after', None)
+        item.pop('_provider_failures', None)
         return archive, None
-    return None, f"{reason}; {archive_reason}"
+    return None, f'{reason}; {archive_reason}'
 
 
 def completed_ids(openlibrary_only: bool, retry_no_safe: bool, archive_only: bool) -> set[int]:
@@ -303,17 +430,24 @@ def main() -> None:
     django.setup()
     from django.core.files.base import ContentFile
     from django.db import transaction
-    from backend.core.models import Edition, Person, Work
+    from django.db.models import Exists, OuterRef, Prefetch
+    from backend.core.models import Edition, Person, RankingEntry, Work
+    from backend.core.search import aliases
+    verified_aliases = aliases()
 
     RUN.mkdir(parents=True, exist_ok=True)
     queue = Queue('covers', CACHE)
     rotate(CACHE)
     policy = json.dumps({key: getattr(args, key) for key in ('skip_internet_archive', 'skip_openlibrary',
-        'clean_series_title', 'clean_subtitle', 'title_only_fallback')}, sort_keys=True) + ':matcher-v3'
+        'clean_series_title', 'clean_subtitle', 'title_only_fallback')}, sort_keys=True) + ':' + MATCHER_VERSION
     candidates = []
     person_name_titles = {norm(name) for name in Person.objects.values_list("name", flat=True)} if args.title_only_fallback else set()
     catalogue_titles = {norm(title) for title in Work.objects.filter(is_archived=False).values_list("title", flat=True)} if args.title_only_fallback else set()
-    queryset = Work.objects.filter(is_archived=False, pk__gte=args.min_work_id).select_related("default_edition").prefetch_related("authors").order_by("pk")
+    ranked = RankingEntry.objects.filter(work_id=OuterRef('pk'), is_archived=False,
+                                         ranking__is_archived=False, ranking__origin__in=['curated', 'external'])
+    queryset = Work.objects.filter(is_archived=False, pk__gte=args.min_work_id).select_related('default_edition').prefetch_related(
+        'authors', Prefetch('editions', queryset=Edition.objects.filter(is_archived=False), to_attr='media_editions')
+    ).annotate(shared_priority=Exists(ranked)).order_by('pk')
     if args.forms:
         queryset = queryset.filter(form__in=[value.strip() for value in args.forms.split(",") if value.strip()])
     if args.max_work_id:
@@ -333,13 +467,13 @@ def main() -> None:
             lookup_title = re.sub(r"\s*\([^)]*(?:run|cycle|series|stories|albums|adaptation|issues)[^)]*\)\s*", " ", lookup_title, flags=re.I).strip()
         if args.clean_subtitle and ":" in lookup_title:
             lookup_title = lookup_title.split(":", 1)[0].strip()
-        item = {"id": work.pk, "title": lookup_title, "display_title": work.title,
-                           "authors": author_names, "year": work.original_year,
-                           "title_only_fallback": args.title_only_fallback}
+        item = cover_lookup_item(work, verified_aliases)
+        item.update(title=lookup_title, title_only_fallback=args.title_only_fallback,
+                    shared_priority=work.shared_priority)
         retry = args.retry or bool(args.work_id)
         if args.retry_openlibrary_no_safe or args.retry_transient:
             saved = queue.db.execute('SELECT state,result FROM attempts WHERE work_id=?', (work.pk,)).fetchone()
-            retry = bool(saved and ((args.retry_transient and saved[0] in {'retryable', 'retry_exhausted'}) or
+            retry = bool(saved and ((args.retry_transient and saved[0] in {'retryable', 'retry_exhausted', 'provider_wait'}) or
                          (args.retry_openlibrary_no_safe and 'openlibrary_no_safe_cover' in saved[1])))
             if not retry:
                 continue
@@ -349,6 +483,7 @@ def main() -> None:
     if args.limit:
         candidates = candidates[:args.limit]
     stats = {"queued": len(candidates), "covered": 0, 'processed': 0}
+    failures = []
     with CACHE.open("a") as output, ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = {pool.submit(lookup, item, args.skip_internet_archive, args.skip_openlibrary): item for item in candidates}
         for future in as_completed(futures):
@@ -360,17 +495,23 @@ def main() -> None:
                 match, reason = None, f"worker_error: {str(error)[:150]}"
             if reason:
                 record["status"] = reason
+                if item.get('_provider_outage'):
+                    item_failures = item.get('_provider_failures', [])
+                    failures.extend(item_failures)
+                    record.update(outage_summary(item_failures), provider_failures=item_failures)
                 stats[reason.split(":", 1)[0]] = stats.get(reason.split(":", 1)[0], 0) + 1
             else:
                 with transaction.atomic():
                     work = Work.objects.select_for_update().get(pk=item["id"])
-                    if work.is_archived or work.title != item['display_title'] or sorted(work.authors.values_list('name', flat=True)) != sorted(item['authors']):
+                    if (work.is_archived or work.title != item['display_title']
+                            or work.default_edition_id != item['edition_id']
+                            or sorted(work.authors.values_list('name', flat=True)) != sorted(item['authors'])):
                         record['status'] = 'identity_review_changed_during_lookup'
                         queue.finish(item, record, output)
                         stats['processed'] += 1
                         continue
                     edition = Edition.objects.select_for_update().get(pk=work.default_edition_id) if work.default_edition_id else None
-                    if edition and edition.is_archived:
+                    if edition and (edition.is_archived or edition.work_id != work.pk):
                         record['status'] = 'identity_review_archived_edition'
                         queue.finish(item, record, output)
                         stats['processed'] += 1
@@ -408,11 +549,12 @@ def main() -> None:
             stats['processed'] += 1
             print(f"[{record['work_id']}] {record['status']} — {record['title']}", flush=True)
     stats['provider_errors'] = queue.batch_errors
+    stats.update(outage_summary(failures))
     stats.update(queue.summary())
     queue.close()
-    (RUN / "latest-stats.json").write_text(json.dumps(stats, indent=2) + "\n")
+    atomic_state(RUN / "latest-stats.json", stats)
     if args.summary_file:
-        args.summary_file.write_text(json.dumps(stats, indent=2) + '\n')
+        atomic_state(args.summary_file, stats)
     print(json.dumps(stats, indent=2))
 
 
