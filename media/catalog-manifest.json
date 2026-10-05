@@ -1,16 +1,16 @@
 {
   "schema": "marginalia.catalog-media-manifest",
   "version": 1,
-  "snapshot_at": "2026-10-05T16:55:15.897558+00:00",
+  "snapshot_at": "2026-10-05T17:09:25.508356+00:00",
   "include_portraits": false,
   "complete": true,
   "summary": {
-    "file_count": 6803,
-    "cover_count": 6803,
+    "file_count": 6808,
+    "cover_count": 6808,
     "portrait_count": 0,
-    "usable_cover_count": 6789,
+    "usable_cover_count": 6794,
     "known_placeholder_count": 14,
-    "unreferenced_file_count": 69,
+    "unreferenced_file_count": 74,
     "skipped_nonimage_count": 0,
     "excluded_symlink_count": 0,
     "error_count": 0
@@ -29520,32 +29520,8 @@
       "format": "PNG",
       "width": 320,
       "height": 220,
-      "associations": [
-        {
-          "edition_id": 3093,
-          "work_id": 1245,
-          "work_title": "Aucassin and Nicolette",
-          "authors": [
-            {
-              "id": 581,
-              "name": "Anonymous",
-              "is_archived": false
-            }
-          ],
-          "is_default_edition": true,
-          "edition_is_archived": false,
-          "work_is_archived": false,
-          "language": "English",
-          "translator": "",
-          "publisher": "",
-          "isbn": "",
-          "cover_basis": "representative_work",
-          "source_url": "https://archive.org/details/aucassinandnicol23227gut",
-          "cover_source_url": "https://archive.org/details/aucassinandnicol23227gut",
-          "image_attribution": "Internet Archive item image: https://archive.org/services/img/aucassinandnicol23227gut"
-        }
-      ],
-      "association_status": "referenced",
+      "associations": [],
+      "association_status": "unreferenced",
       "quality": "known_placeholder",
       "usable": false
     },
@@ -45911,32 +45887,8 @@
       "format": "PNG",
       "width": 320,
       "height": 220,
-      "associations": [
-        {
-          "edition_id": 6410,
-          "work_id": 6128,
-          "work_title": "JoJo's Bizarre Adventure: Steel Ball Run",
-          "authors": [
-            {
-              "id": 3482,
-              "name": "Hirohiko Araki",
-              "is_archived": false
-            }
-          ],
-          "is_default_edition": true,
-          "edition_is_archived": false,
-          "work_is_archived": false,
-          "language": "English",
-          "translator": "",
-          "publisher": "",
-          "isbn": "",
-          "cover_basis": "representative_work",
-          "source_url": "https://archive.org/details/jojo-no-kimyou-na-bouken-part-1-phantom-blood",
-          "cover_source_url": "https://archive.org/details/jojo-no-kimyou-na-bouken-part-1-phantom-blood",
-          "image_attribution": "Internet Archive item image: https://archive.org/services/img/jojo-no-kimyou-na-bouken-part-1-phantom-blood"
-        }
-      ],
-      "association_status": "referenced",
+      "associations": [],
+      "association_status": "unreferenced",
       "quality": "known_placeholder",
       "usable": false
     },
@@ -55016,32 +54968,8 @@
       "format": "PNG",
       "width": 320,
       "height": 220,
-      "associations": [
-        {
-          "edition_id": 3439,
-          "work_id": 6185,
-          "work_title": "Scott Pilgrim",
-          "authors": [
-            {
-              "id": 4136,
-              "name": "Bryan Lee O'Malley",
-              "is_archived": false
-            }
-          ],
-          "is_default_edition": true,
-          "edition_is_archived": false,
-          "work_is_archived": false,
-          "language": "English",
-          "translator": "",
-          "publisher": "",
-          "isbn": "",
-          "cover_basis": "representative_work",
-          "source_url": "https://archive.org/details/scott-pilgrim-cholerascum",
-          "cover_source_url": "https://archive.org/details/scott-pilgrim-cholerascum",
-          "image_attribution": "Internet Archive item image: https://archive.org/services/img/scott-pilgrim-cholerascum"
-        }
-      ],
-      "association_status": "referenced",
+      "associations": [],
+      "association_status": "unreferenced",
       "quality": "known_placeholder",
       "usable": false
     },
@@ -58812,32 +58740,8 @@
       "format": "PNG",
       "width": 320,
       "height": 220,
-      "associations": [
-        {
-          "edition_id": 6227,
-          "work_id": 4295,
-          "work_title": "The Lady with the Dog",
-          "authors": [
-            {
-              "id": 562,
-              "name": "Anton Chekhov",
-              "is_archived": false
-            }
-          ],
-          "is_default_edition": true,
-          "edition_is_archived": false,
-          "work_is_archived": false,
-          "language": "English",
-          "translator": "",
-          "publisher": "",
-          "isbn": "",
-          "cover_basis": "representative_work",
-          "source_url": "https://archive.org/details/theladywiththedo13415gut",
-          "cover_source_url": "https://archive.org/details/theladywiththedo13415gut",
-          "image_attribution": "Internet Archive item image: https://archive.org/services/img/theladywiththedo13415gut"
-        }
-      ],
-      "association_status": "referenced",
+      "associations": [],
+      "association_status": "unreferenced",
       "quality": "known_placeholder",
       "usable": false
     },
@@ -60891,32 +60795,8 @@
       "format": "PNG",
       "width": 320,
       "height": 220,
-      "associations": [
-        {
-          "edition_id": 3398,
-          "work_id": 4069,
-          "work_title": "What Is Metaphysics?",
-          "authors": [
-            {
-              "id": 362,
-              "name": "Martin Heidegger",
-              "is_archived": false
-            }
-          ],
-          "is_default_edition": true,
-          "edition_is_archived": false,
-          "work_is_archived": false,
-          "language": "English",
-          "translator": "",
-          "publisher": "",
-          "isbn": "",
-          "cover_basis": "representative_work",
-          "source_url": "https://archive.org/details/what-is-metaphysics-what-is-philosophy-a",
-          "cover_source_url": "https://archive.org/details/what-is-metaphysics-what-is-philosophy-a",
-          "image_attribution": "Internet Archive item image: https://archive.org/services/img/what-is-metaphysics-what-is-philosophy-a"
-        }
-      ],
-      "association_status": "referenced",
+      "associations": [],
+      "association_status": "unreferenced",
       "quality": "known_placeholder",
       "usable": false
     },
@@ -249594,6 +249474,43 @@
       "usable": true
     },
     {
+      "path": "covers/2026/10/placeholder-replacement-012c1cd699cb484d9b8f65c17f5961db-reviewed-covers-6185.webp",
+      "kind": "cover",
+      "size": 79676,
+      "sha256": "be54a71acc5f71460a5b420aa2262e340bb04c2511a5395942ded9b0016ee1e6",
+      "format": "WEBP",
+      "width": 1400,
+      "height": 1400,
+      "associations": [
+        {
+          "edition_id": 3439,
+          "work_id": 6185,
+          "work_title": "Scott Pilgrim",
+          "authors": [
+            {
+              "id": 4136,
+              "name": "Bryan Lee O'Malley",
+              "is_archived": false
+            }
+          ],
+          "is_default_edition": true,
+          "edition_is_archived": false,
+          "work_is_archived": false,
+          "language": "English",
+          "translator": "",
+          "publisher": "",
+          "isbn": "",
+          "cover_basis": "representative_work",
+          "source_url": "https://archive.org/details/scott-pilgrim-cholerascum",
+          "cover_source_url": "https://www.onipress.com/titles/scott-pilgrim-20th-anniversary-color-hardcover-box-set",
+          "image_attribution": "Complete-series box-set image supplied by Oni Press; Scott Pilgrim by Bryan Lee O'Malley. Rights retained by the publisher and cover creators https://www.onipress.com/titles/scott-pilgrim-20th-anniversary-color-hardcover-box-set"
+        }
+      ],
+      "association_status": "referenced",
+      "quality": "validated_raster",
+      "usable": true
+    },
+    {
       "path": "covers/2026/10/placeholder-replacement-0280d165eecb49eaaa613516b00a506d-reviewed-covers-2680.gif",
       "kind": "cover",
       "size": 46814,
@@ -249705,6 +249622,43 @@
       "usable": true
     },
     {
+      "path": "covers/2026/10/placeholder-replacement-6e0d064e366441a186afe15095b932be-reviewed-covers-6128.jpg",
+      "kind": "cover",
+      "size": 243562,
+      "sha256": "8bf646b98506fcefb72fc9d982031c6f987f6454b71ba8dafe6bc59951346008",
+      "format": "JPEG",
+      "width": 1200,
+      "height": 1200,
+      "associations": [
+        {
+          "edition_id": 6410,
+          "work_id": 6128,
+          "work_title": "JoJo's Bizarre Adventure: Steel Ball Run",
+          "authors": [
+            {
+              "id": 3482,
+              "name": "Hirohiko Araki",
+              "is_archived": false
+            }
+          ],
+          "is_default_edition": true,
+          "edition_is_archived": false,
+          "work_is_archived": false,
+          "language": "English",
+          "translator": "",
+          "publisher": "",
+          "isbn": "",
+          "cover_basis": "representative_work",
+          "source_url": "https://archive.org/details/jojo-no-kimyou-na-bouken-part-1-phantom-blood",
+          "cover_source_url": "https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4086189385",
+          "image_attribution": "Complete-series bunko box-set image supplied by Shueisha; Steel Ball Run by Hirohiko Araki. Rights retained by the publisher and cover creators https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4086189385"
+        }
+      ],
+      "association_status": "referenced",
+      "quality": "validated_raster",
+      "usable": true
+    },
+    {
       "path": "covers/2026/10/placeholder-replacement-8a0f9f03780042a7a9e56167a5d52fdd.jpg",
       "kind": "cover",
       "size": 12451,
@@ -249735,6 +249689,43 @@
           "source_url": "https://archive.org/details/therapeoflucrece01506gut",
           "cover_source_url": "https://archive.org/details/isbn_9781984050526",
           "image_attribution": "Internet Archive item image: https://archive.org/services/img/isbn_9781984050526"
+        }
+      ],
+      "association_status": "referenced",
+      "quality": "validated_raster",
+      "usable": true
+    },
+    {
+      "path": "covers/2026/10/placeholder-replacement-a7f95e3c5eb14473ba0ed3780312e6f9-reviewed-covers-4295.jpg",
+      "kind": "cover",
+      "size": 39076,
+      "sha256": "6268ba663b80c2ea5b715c3fa0919c2c03da68ca1081691bbfad10f0b8d69987",
+      "format": "JPEG",
+      "width": 291,
+      "height": 450,
+      "associations": [
+        {
+          "edition_id": 6227,
+          "work_id": 4295,
+          "work_title": "The Lady with the Dog",
+          "authors": [
+            {
+              "id": 562,
+              "name": "Anton Chekhov",
+              "is_archived": false
+            }
+          ],
+          "is_default_edition": true,
+          "edition_is_archived": false,
+          "work_is_archived": false,
+          "language": "English",
+          "translator": "",
+          "publisher": "",
+          "isbn": "",
+          "cover_basis": "representative_work",
+          "source_url": "https://archive.org/details/theladywiththedo13415gut",
+          "cover_source_url": "https://www.penguinrandomhouse.com/books/286326/lady-with-the-little-dog-and-other-stories-1896-1904-by-anton-chekhov-translated-with-notes-by-ronald-wilks-introduction-by-paul-debreczeny/",
+          "image_attribution": "Penguin Classics collection jacket containing the complete title story The Lady with the Little Dog (The Lady with the Dog), by Anton Chekhov, translated by Ronald Wilks. Representative work image, not a standalone edition. Cover artwork/design rights remain with their holders https://www.penguinrandomhouse.com/books/286326/lady-with-the-little-dog-and-other-stories-1896-1904-by-anton-chekhov-translated-with-notes-by-ronald-wilks-introduction-by-paul-debreczeny/"
         }
       ],
       "association_status": "referenced",
@@ -249779,6 +249770,43 @@
       "usable": true
     },
     {
+      "path": "covers/2026/10/placeholder-replacement-ce64fe3d54924d70ba9d7763549db4a5-reviewed-covers-4069.png",
+      "kind": "cover",
+      "size": 283926,
+      "sha256": "04cb5213a035f44e80c9e353a1fe2d01ac3dea9bb76d504732ae40826ac3e9a3",
+      "format": "PNG",
+      "width": 535,
+      "height": 768,
+      "associations": [
+        {
+          "edition_id": 3398,
+          "work_id": 4069,
+          "work_title": "What Is Metaphysics?",
+          "authors": [
+            {
+              "id": 362,
+              "name": "Martin Heidegger",
+              "is_archived": false
+            }
+          ],
+          "is_default_edition": true,
+          "edition_is_archived": false,
+          "work_is_archived": false,
+          "language": "English",
+          "translator": "",
+          "publisher": "",
+          "isbn": "",
+          "cover_basis": "representative_work",
+          "source_url": "https://archive.org/details/what-is-metaphysics-what-is-philosophy-a",
+          "cover_source_url": "https://www.klostermann.de/HeideggerWas-ist-Metaphysik-16Aufl",
+          "image_attribution": "Cover image supplied by Vittorio Klostermann. Rights retained by the publisher and cover creators https://www.klostermann.de/HeideggerWas-ist-Metaphysik-16Aufl"
+        }
+      ],
+      "association_status": "referenced",
+      "quality": "validated_raster",
+      "usable": true
+    },
+    {
       "path": "covers/2026/10/placeholder-replacement-e9c0fba35f0b47d888c2d99a3ff1e5d3-reviewed-covers-1240.jpg",
       "kind": "cover",
       "size": 29742,
@@ -249809,6 +249837,43 @@
           "source_url": "https://archive.org/details/ThePearl",
           "cover_source_url": "https://www.simonarmitage.com/works/pearl/",
           "image_attribution": "Faber cover reproduced on translator Simon Armitage's official website. Rights retained by publisher and cover creators https://www.simonarmitage.com/works/pearl/"
+        }
+      ],
+      "association_status": "referenced",
+      "quality": "validated_raster",
+      "usable": true
+    },
+    {
+      "path": "covers/2026/10/placeholder-replacement-f09c4a3732864687a9db4f1ced4a17fe-reviewed-covers-1245.jpg",
+      "kind": "cover",
+      "size": 596528,
+      "sha256": "4135969ef1ac160c797979b4dd324cc269224886d5181eb06ca7e25e05795c75",
+      "format": "JPEG",
+      "width": 1500,
+      "height": 2249,
+      "associations": [
+        {
+          "edition_id": 3093,
+          "work_id": 1245,
+          "work_title": "Aucassin and Nicolette",
+          "authors": [
+            {
+              "id": 581,
+              "name": "Anonymous",
+              "is_archived": false
+            }
+          ],
+          "is_default_edition": true,
+          "edition_is_archived": false,
+          "work_is_archived": false,
+          "language": "English",
+          "translator": "",
+          "publisher": "",
+          "isbn": "",
+          "cover_basis": "representative_work",
+          "source_url": "https://archive.org/details/aucassinandnicol23227gut",
+          "cover_source_url": "https://msupress.org/9781609174439/aucassin-and-nicolette/",
+          "image_attribution": "Michigan State University Press cover for Aucassin and Nicolette: A Facing-Page Edition and Translation, edited and translated by Robert S. Sturges. Anonymous medieval work. Cover design/artwork rights remain with their holders; no open license asserted https://msupress.org/9781609174439/aucassin-and-nicolette/"
         }
       ],
       "association_status": "referenced",
